@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Visa Insiders Sold US$20m Of Shares Suggesting Hesitancy",
+      "description": "Over the past year, many Visa Inc. ( NYSE:V ) insiders sold a significant stake in the company which may have piqued...",
+      "published_utc": "2025-04-08T21:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=994692a09993820f775dc71f23306a3ba4c0ecc9564026d9e94fed7dcc36bf73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823284,
+      "datetime": 1744117217
+    },
+    {
+      "title": "2 Stocks With Incredible Balance Sheets That Can Offer Safety in Tariff Chaos",
+      "description": "These companies have the business strength and financials to give you peace of mind in a fearful market.",
+      "published_utc": "2025-04-08T17:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d98c6daf2e779aa9b1b6fc9f8107f0c53852c14dc122862ab4e0584d2776e64b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133771063,
+      "datetime": 1744104180
+    },
+    {
+      "title": "Recession-Proofing Your Portfolio",
+      "description": "",
+      "published_utc": "2025-04-08T15:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2ab752356c3f58c4231fd378b6a8bad0c06f7634cd29b3b9df9021a06d80764f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133771330,
+      "datetime": 1744096500
+    }
+  ]
+}

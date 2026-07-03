@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Top AI Stocks to Add to Your Portfolio for Healthy Returns",
+      "description": "Here, we pick three AI stocks, META, IBM and OKTA, which are well poised to benefit from AI's growing pervasiveness and huge spending by tech giants.",
+      "published_utc": "2025-04-07T23:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f1bbe0ed9c334ca5729982540c5f71170113284f7adf6fe7c68cfd916e5009f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741056,
+      "datetime": 1744040820
+    },
+    {
+      "title": "IBM acquires Hakkoda to continue its AI consultancy investment push",
+      "description": "IBM on Monday said it has acquired Hakkoda, a data and AI consultancy based in New York. The acquisition would \"further expand\" IBM's ability to bring consultants and AI to clients, particularly customers in industries like financial services, public sector, and healthcare and life sciences, said Mohamad Ali, SVP and head of IBM's consulting business, in a statement. \"With Hakkoda's data expertise, deep technology partnerships, and asset-centric delivery model, IBM will be even better-positioned",
+      "published_utc": "2025-04-07T22:08:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7af4cf1491cd5e4ad132ab98e3fdd68d50388c8f2db4f510b8ba117d6d68d432",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741131,
+      "datetime": 1744034882
+    },
+    {
+      "title": "IBM Acquires Hakkoda Inc., Expanding Data Expertise to Fuel Clients' AI Transformations",
+      "description": "IBM (NYSE: IBM) today announced it has acquired Hakkoda Inc., a leading global data and AI consultancy. Hakkoda will expand IBM Consulting's data transformation services portfolio, adding specialized data platform expertise to help clients get their data ready to fuel AI-powered business operations.",
+      "published_utc": "2025-04-07T21:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2be05a41e565409d2c25de29a7d6871df0da06ee02d808e78d54fbb8827065e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738668,
+      "datetime": 1744031700
+    },
+    {
+      "title": "Welcome To The International Year Of Quantum Science And Technology",
+      "description": "This year marks one century since the birth of quantum mechanics. Click to read.",
+      "published_utc": "2025-04-07T21:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5d622cce8c4d760d6ff50ca34cc926ea337d4007583daaa15c3affa2c5c6c5de",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2155769555/image_2155769555.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133740826,
+      "datetime": 1744030860
+    }
+  ]
+}

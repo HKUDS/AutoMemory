@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dividend Hikes Offer Optimism Amid Tariff Turmoil",
+      "description": "We profile a pair of blue chips that recently announced dividend hikes, which has turned out to be a broader Q2 theme",
+      "published_utc": "2025-05-19T03:25:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0a956c564b59f13f1f5b4abd3fac6b1845214748958bcf71322b2506317aa0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577215,
+      "datetime": 1747596341
+    },
+    {
+      "title": "US States Likely to Defy US Downgrade to Keep Top Credit Ratings",
+      "description": "(Bloomberg) -- US states from Florida to North Carolina and Texas would likely hold onto top-notch credit scores from Moody’s Ratings, mostly because they’re in better fiscal shape than the federal government itself. Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Strike LoomsMo",
+      "published_utc": "2025-05-19T00:33:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f24a826c01909f591bb19c15dd9cb188c690fddac076eaa2958f1dfaa24fb3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577023,
+      "datetime": 1747585995
+    }
+  ]
+}

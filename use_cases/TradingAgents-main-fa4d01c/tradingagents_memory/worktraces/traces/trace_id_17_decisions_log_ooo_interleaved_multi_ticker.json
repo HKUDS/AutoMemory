@@ -1,0 +1,101 @@
+{
+  "trace_id": "trace_id_17_decisions_log_ooo_interleaved_multi_ticker",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "DecisionsLog: interleaved OOO writes for two tickers (ALPHA, BETA); each ticker's read_last_n must return records sorted by trade_date ascending with no cross-ticker contamination",
+  "turns": [
+    {"component": "DecisionsLog", "args": {"ticker": "ALPHA", "record": {"trade_date": "2026-01-20", "ticker": "ALPHA", "rating": "Strong Buy", "one_line_thesis": "A01-JAN20-breakout-confirmed-new-52w-high", "key_risks": ["valuation stretched"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "BETA", "record": {"trade_date": "2026-01-18", "ticker": "BETA", "rating": "Buy", "one_line_thesis": "B01-JAN18-beta-peak-thesis-momentum", "key_risks": ["sector rotation"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "ALPHA", "record": {"trade_date": "2026-01-05", "ticker": "ALPHA", "rating": "Hold", "one_line_thesis": "A02-JAN05-early-entry-wait-for-signal", "key_risks": ["macro uncertainty"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "BETA", "record": {"trade_date": "2026-01-03", "ticker": "BETA", "rating": "Hold", "one_line_thesis": "B02-JAN03-beta-early-baseline-position", "key_risks": ["illiquidity risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "ALPHA", "record": {"trade_date": "2026-01-15", "ticker": "ALPHA", "rating": "Buy", "one_line_thesis": "A03-JAN15-momentum-high-institutional-buy", "key_risks": ["earnings guidance miss"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "BETA", "record": {"trade_date": "2026-01-10", "ticker": "BETA", "rating": "Buy", "one_line_thesis": "B03-JAN10-beta-midmonth-recovery", "key_risks": ["macro headwind"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "ALPHA", "record": {"trade_date": "2026-01-10", "ticker": "ALPHA", "rating": "Hold", "one_line_thesis": "A04-JAN10-consolidation-base-building", "key_risks": ["volume decline"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "BETA", "record": {"trade_date": "2026-01-06", "ticker": "BETA", "rating": "Hold", "one_line_thesis": "B04-JAN06-beta-entry-caution", "key_risks": ["news catalyst risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "ALPHA", "record": {"trade_date": "2026-01-08", "ticker": "ALPHA", "rating": "Buy", "one_line_thesis": "A05-JAN08-pullback-buy-support-hold", "key_risks": ["short-term reversal"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "BETA", "record": {"trade_date": "2026-01-15", "ticker": "BETA", "rating": "Strong Buy", "one_line_thesis": "B05-JAN15-beta-strong-breakout-signal", "key_risks": ["high implied vol"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "ALPHA", "record": {"trade_date": "2026-01-12", "ticker": "ALPHA", "rating": "Buy", "one_line_thesis": "A06-JAN12-resumption-above-resistance", "key_risks": ["false breakout risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "BETA", "record": {"trade_date": "2026-01-09", "ticker": "BETA", "rating": "Hold", "one_line_thesis": "B06-JAN09-beta-hold-wait-for-clarity", "key_risks": ["rate uncertainty"]}}}
+  ],
+  "recall_queries": [
+    {
+      "label": "ALPHA_last1_is_jan20_breakout",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ALPHA", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "A01-JAN20-breakout-confirmed"},
+        {"type": "not_substring", "value": "A02-JAN05"},
+        {"type": "not_substring", "value": "A03-JAN15"}
+      ]
+    },
+    {
+      "label": "ALPHA_last3_are_jan12_jan15_jan20_in_order",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ALPHA", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "A06-JAN12-resumption"},
+        {"type": "substring", "value": "A03-JAN15-momentum-high"},
+        {"type": "substring", "value": "A01-JAN20-breakout-confirmed"},
+        {"type": "not_substring", "value": "A02-JAN05"},
+        {"type": "not_substring", "value": "A05-JAN08"},
+        {"type": "regex", "value": "JAN12.*JAN15.*JAN20"}
+      ]
+    },
+    {
+      "label": "ALPHA_no_beta_contamination",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ALPHA", "n": 10},
+      "expected_information": [
+        {"type": "not_substring", "value": "\"ticker\": \"BETA\""},
+        {"type": "not_substring", "value": "B01-JAN18"},
+        {"type": "not_substring", "value": "B05-JAN15-beta-strong"}
+      ]
+    },
+    {
+      "label": "BETA_last1_is_jan18_peak",
+      "component": "DecisionsLog",
+      "args": {"ticker": "BETA", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "B01-JAN18-beta-peak-thesis"},
+        {"type": "not_substring", "value": "B02-JAN03"},
+        {"type": "not_substring", "value": "B05-JAN15"}
+      ]
+    },
+    {
+      "label": "BETA_last3_are_jan10_jan15_jan18_in_order",
+      "component": "DecisionsLog",
+      "args": {"ticker": "BETA", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "B03-JAN10-beta-midmonth"},
+        {"type": "substring", "value": "B05-JAN15-beta-strong"},
+        {"type": "substring", "value": "B01-JAN18-beta-peak-thesis"},
+        {"type": "not_substring", "value": "B02-JAN03"},
+        {"type": "not_substring", "value": "B04-JAN06"},
+        {"type": "regex", "value": "JAN10.*JAN15.*JAN18"}
+      ]
+    },
+    {
+      "label": "BETA_no_alpha_contamination",
+      "component": "DecisionsLog",
+      "args": {"ticker": "BETA", "n": 10},
+      "expected_information": [
+        {"type": "not_substring", "value": "\"ticker\": \"ALPHA\""},
+        {"type": "not_substring", "value": "A01-JAN20"},
+        {"type": "not_substring", "value": "A03-JAN15-momentum-high"}
+      ]
+    },
+    {
+      "label": "ALPHA_all6_dates_present_in_full_read",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ALPHA", "n": 10},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-05"},
+        {"type": "substring", "value": "2026-01-08"},
+        {"type": "substring", "value": "2026-01-10"},
+        {"type": "substring", "value": "2026-01-12"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "substring", "value": "2026-01-20"}
+      ]
+    }
+  ]
+}

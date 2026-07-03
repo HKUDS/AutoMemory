@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "title": "Are Robust Financials Driving The Recent Rally In UnitedHealth Group Incorporated's (NYSE:UNH) Stock?",
+      "description": "Most readers would already be aware that UnitedHealth Group's (NYSE:UNH) stock increased significantly by 6.4% over the...",
+      "published_utc": "2025-04-06T20:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae025fc5a4ca83163daef6c191664daee0298ebc6deb59afbf06bb177163c8b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738590,
+      "datetime": 1743940813
+    },
+    {
+      "id": "ed5daca6c715f8e6cdf3cfb4b627453b90d92a50d2dab6baee43cae44364f7c0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "All the Stocks Warren Buffett Bought in the Last 2 Recessions: Are They Smart Picks Now?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-04-06T08:46:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/06/all-the-stocks-warren-buffett-bought-in-the-last-2/?source=iedfolrf0000001",
+      "tickers": [
+        "KR",
+        "KHC",
+        "ELV",
+        "JNJ",
+        "SNY",
+        "UNH",
+        "GOLD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/813579/buffett22-tmf.png",
+      "description": "Warren Buffett, the legendary investor, has built a substantial cash stockpile for Berkshire Hathaway, preparing to be 'greedy when others are fearful' during a potential recession. The article examines the stocks Buffett bought during the Great Recession and the COVID-19 pandemic, and analyzes which of them could be smart picks now.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "recession",
+        "stocks",
+        "investments"
+      ],
+      "insights": [
+        {
+          "ticker": "KR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Kroger is seen as a good defensive stock to own during market volatility, as cost-conscious consumers may opt for private-label foods over Kraft Heinz's brands if the economy worsens."
+        },
+        {
+          "ticker": "KHC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Kraft Heinz is also considered a defensive stock, but Kroger is viewed as the better pick of the two."
+        },
+        {
+          "ticker": "ELV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Healthcare stocks like Elevance Health, Johnson & Johnson, and Sanofi are expected to hold up well during market turbulence, and have delivered gains even as the stock market has plunged this year."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Healthcare stocks like Elevance Health, Johnson & Johnson, and Sanofi are expected to hold up well during market turbulence, and have delivered gains even as the stock market has plunged this year."
+        },
+        {
+          "ticker": "SNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Healthcare stocks like Elevance Health, Johnson & Johnson, and Sanofi are expected to hold up well during market turbulence, and have delivered gains even as the stock market has plunged this year."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "UnitedHealth Group has also performed well year to date and could remain a good stock to own during overall market turbulence."
+        },
+        {
+          "ticker": "GOLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Barrick Gold, a leading gold and copper mining company, has benefited as investors flocked to gold in recent months, and the stock remains attractively valued with a forward earnings multiple below 12, making it the best of the previous Buffett recession buys, at least over the near term."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:41.378304+00:00",
+    "cache_key": "news_600b97f7cf96e046d3c733ac00209148",
+    "count": 2
+  }
+}

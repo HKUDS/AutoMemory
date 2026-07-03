@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Trump's drug price order is part request, part threat: Analyst",
+      "description": "President Trump signed an executive order on Monday calling for pharmaceutical companies to cut their drug prices for US consumers. Bernstein Senior Analyst, US Biopharmaceuticals Courtney Breen comments on whether the Trump administration ultimately has the power to force drug companies to do this. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-05-13T07:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8f897935ba7a4a50063a61fa2f24998fe9bf1ec2d00f6721ed8763caed00d7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408474,
+      "datetime": 1747092000
+    },
+    {
+      "title": "S&P, Dow Pharma Stocks Boomerang On Drug-Pricing Order That Is 'All Bark' And 'Little Bite'",
+      "description": "Pharmaceutical stocks boomeranged Monday after Trump signed an executive order tying drug prices in the U.S. to international price tags.",
+      "published_utc": "2025-05-13T04:25:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e47244c465885beed6f1ca595ff644dcf2ed5efc962b3620a570a6251ee670b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408475,
+      "datetime": 1747081543
+    },
+    {
+      "title": "How Trump could go about executing order to slash drug prices",
+      "description": "President Trump signed an executive order on Monday asking drugmakers to cut prices on their prescription drugs. Yahoo Finance consumer affairs reporter Jordan Weissmann reviews Trump's latest push to slash drug costs and how the administration may seek to go about it. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-05-13T03:50:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a52f46ea96cc7f2bee0eca9dc418f58521acc508001fd2d07d07191ce2b8a2f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408480,
+      "datetime": 1747079446
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-05-13T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d07dbd11b5188c5fa1cdd836473e24eaa8593245dd7b55a4e3bf90badc48d8fb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134404314,
+      "datetime": 1747067700
+    }
+  ]
+}

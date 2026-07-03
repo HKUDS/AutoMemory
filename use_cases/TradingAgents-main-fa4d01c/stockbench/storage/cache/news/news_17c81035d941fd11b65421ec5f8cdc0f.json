@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Building A $75,000 Dividend Portfolio: Enhancing SCHD With June's Top High-Yield Picks",
+      "description": "SCHD remains a particularly attractive investment option for long-term investors. Check out how to build a $75,000 dividend portfolio with SCHD as a core.",
+      "published_utc": "2025-06-09T23:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c0b05b6b046c0884cb38ce1d8d3945aac05fc4b3f1edd559806651f1d738b791",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1174934129/image_1174934129.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137839,
+      "datetime": 1749481200
+    },
+    {
+      "title": "Intuitive Surgical Stock Is Falling. The MedTech Got Its First Sell Rating.",
+      "description": "Intuitive Surgical Stock Is Falling. The MedTech Got Its First Sell Rating.",
+      "published_utc": "2025-06-09T22:54:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1517d63b7a7d7de4ef1bf53186c117e6cb1466788d732c57f5b0756054b522dd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135151105,
+      "datetime": 1749480840
+    },
+    {
+      "title": "Judge rules J&J unit must pay $442M in antitrust case",
+      "description": "A federal judge awarded triple damages after a jury found Biosense Webster withheld support to hospitals that bought reprocessed catheters.",
+      "published_utc": "2025-06-09T17:53:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20aaba088f391adc51e24b21d598c19b558b8c2a407e5029b63e1e82e68484c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138332,
+      "datetime": 1749462813
+    },
+    {
+      "title": "Alcon's Tryptyr Adds Growth, But Valuation Keeps Shares On 'Hold'",
+      "description": "Alcon posts steady growth in Vision Care and Surgical, with new drug and therapy launches ahead but execution risks persist. Read why ALC stock is a hold.",
+      "published_utc": "2025-06-09T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6b1edd9ac6b49e70210fa65c0b5cc85c23e3db6dd2c08d2e413e847ac148f02a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/951515174/image_951515174.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135122867,
+      "datetime": 1749454200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:20.607681+00:00",
+    "cache_key": "news_17c81035d941fd11b65421ec5f8cdc0f",
+    "count": 4
+  }
+}

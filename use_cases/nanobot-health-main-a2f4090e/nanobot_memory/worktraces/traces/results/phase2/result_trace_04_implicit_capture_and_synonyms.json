@@ -1,0 +1,98 @@
+{
+  "trace_id": "trace_04_implicit_capture_and_synonyms",
+  "description": "Tests two weaknesses: (1) implicit/passive health capture \u2014 health data mentioned casually without explicit labeling; (2) synonym-based recall \u2014 user queries using medical terminology (edema, fatigue) when log entries use lay language (swollen ankles, sluggish). Also tests multi-day sleep log aggregation and single-mention BP reading.",
+  "n_turns": 20,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "edema",
+      "expected_information": [
+        "swollen",
+        "ankle"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Peripheral edema (swelling) \u2014 onset ~1 week ago, status: active, bilateral ankle and finger swelling; attributed to prolonged desk work/sitting\n- Fatigue/low energy \u2014 onset ~2 weeks ago, status: active, persistent sluggishness despite adequate sleep (8 hours); possible work stress or burnout\n- Hypertension \u2014 Stage 2, 142/88 mmHg at pharmacy kiosk, status: active\n- Lower back pain \u2014 onset ~3 day"
+    },
+    {
+      "query": "fatigue",
+      "expected_information": [
+        "/sluggish|energy|dragging/",
+        "/2 weeks|two weeks/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Peripheral edema (swelling) \u2014 onset ~1 week ago, status: active, bilateral ankle and finger swelling; attributed to prolonged desk work/sitting\n- Fatigue/low energy \u2014 onset ~2 weeks ago, status: active, persistent sluggishness despite adequate sleep (8 hours); possible work stress or burnout\n- Hypertension \u2014 Stage 2, 142/88 mmHg at pharmacy kiosk, status: active\n- Lower back pain \u2014 onset ~3 day"
+    },
+    {
+      "query": "sleep log",
+      "expected_information": [
+        "/5 hours|4.5 hours|5\\.5 hours/",
+        "/Monday|Sunday|Tuesday/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Peripheral edema (swelling) \u2014 onset ~1 week ago, status: active, bilateral ankle and finger swelling; attributed to prolonged desk work/sitting\n- Fatigue/low energy \u2014 onset ~2 weeks ago, status: active, persistent sluggishness despite adequate sleep (8 hours); possible work stress or burnout\n- Hypertension \u2014 Stage 2, 142/88 mmHg at pharmacy kiosk, status: active\n- Lower back pain \u2014 onset ~3 day"
+    },
+    {
+      "query": "blood pressure reading",
+      "expected_information": [
+        "142",
+        "88"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Peripheral edema (swelling) \u2014 onset ~1 week ago, status: active, bilateral ankle and finger swelling; attributed to prolonged desk work/sitting\n- Fatigue/low energy \u2014 onset ~2 weeks ago, status: active, persistent sluggishness despite adequate sleep (8 hours); possible work stress or burnout\n- Hypertension \u2014 Stage 2, 142/88 mmHg at pharmacy kiosk, status: active\n- Lower back pain \u2014 onset ~3 day"
+    },
+    {
+      "query": "back pain",
+      "expected_information": [
+        "back",
+        "/deadlift|squat|gym|workout/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Peripheral edema (swelling) \u2014 onset ~1 week ago, status: active, bilateral ankle and finger swelling; attributed to prolonged desk work/sitting\n- Fatigue/low energy \u2014 onset ~2 weeks ago, status: active, persistent sluggishness despite adequate sleep (8 hours); possible work stress or burnout\n- Hypertension \u2014 Stage 2, 142/88 mmHg at pharmacy kiosk, status: active\n- Lower back pain \u2014 onset ~3 day"
+    },
+    {
+      "query": "What symptoms have been reported?",
+      "expected_information": [
+        "/swollen|ankle/",
+        "/back/",
+        "/sluggish|energy|dragging|fatigue/"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Peripheral edema (swelling) \u2014 onset ~1 week ago, status: active, bilateral ankle and finger swelling; attributed to prolonged desk work/sitting\n- Fatigue/low energy \u2014 onset ~2 weeks ago, status: active, persistent sluggishness despite adequate sleep (8 hours); possible work stress or burnout\n- Hypertension \u2014 Stage 2, 142/88 mmHg at pharmacy kiosk, status: active\n- Lower back pain \u2014 onset ~3 day"
+    }
+  ]
+}

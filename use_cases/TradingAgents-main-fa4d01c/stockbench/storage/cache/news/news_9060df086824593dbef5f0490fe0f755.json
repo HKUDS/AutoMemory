@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "2 Dividend Stocks to Buy Hand Over Fist in April",
+      "description": "This stands to reason, as nearly every stage of drug development and marketing is resource- and capital-intensive, and as a result, cash can be in short supply.  Let's take a look at two outliers with dividend policies that have looked especially attractive lately -- pharmaceutical companies Amgen (NASDAQ: AMGN) and AbbVie (NYSE: ABBV).  Amgen's involvement in the high-demand obesity drugs race has attracted attention recently, but the pharmaceutical sector star has been on the radar of clever investors for years.",
+      "published_utc": "2025-04-05T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47fa695a11178c36c8983cee635d9ce915c658ed10229424a26a0498827c68e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727291,
+      "datetime": 1743856200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:10.409406+00:00",
+    "cache_key": "news_9060df086824593dbef5f0490fe0f755",
+    "count": 1
+  }
+}

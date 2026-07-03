@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Salesforce (NYSE:CRM) Expands Singapore AI Innovation With US$1B Investment And Airline Partnership",
+      "description": "Last week, Salesforce (NYSE:CRM) announced a significant collaboration with Singapore Airlines, integrating its technologies to enhance customer service through AI solutions. Despite this positive development, the company's stock faced a decline of 3.58% over the same period. This dip aligns with broader market trends, as the market itself dropped by 3.7%, affected by ongoing economic uncertainties, including concerns about tariff impacts and potential recession risks. During this time, major...",
+      "published_utc": "2025-03-13T01:23:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28dc1df7b9ea077e1ae409a9b231d3955d0ec1b94a8ce40d7f48d42c55394819",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184590,
+      "datetime": 1741800198
+    },
+    {
+      "title": "Marc Benioff on Agentic AI and Salesforce's Next Chapter",
+      "description": "Why Salesforce doesn't plan to hire any software engineers this year.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.  Should you invest $1,000 in Salesforce right now?",
+      "published_utc": "2025-03-13T00:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d38e4a3ec0043f12079dd35301f25ff6ae2e0c8a6058e9af0e8f46775da61b30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184591,
+      "datetime": 1741798680
+    }
+  ]
+}

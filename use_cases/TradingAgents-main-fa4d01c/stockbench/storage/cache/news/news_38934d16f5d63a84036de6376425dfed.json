@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co.'s Preferred Stocks Compared To A CEF-Issued One",
+      "description": "Increase portfolio exposure to high-quality investments. Learn why GGN-B outshines JPM-K in safety, yield & performance during downturns.",
+      "published_utc": "2025-03-01T16:08:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac155af3b14c075fb5e1674f46f59f91b51be7da5d4c44799a868faa35150aa6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1128909572/image_1128909572.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132937342,
+      "datetime": 1740816489
+    },
+    {
+      "title": "This Insurance Covers You When No One Else Does. The IRS Sees It as a Tax Dodge.",
+      "description": "This Insurance Covers You When No One Else Does. The IRS Sees It as a Tax Dodge.",
+      "published_utc": "2025-03-01T12:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1368c6d431de361b508ed99d9d798ff2fd64049122d9bd3813a45cc6c7477907",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132956069,
+      "datetime": 1740801600
+    },
+    {
+      "id": "9bf98f2a68c7a00787b28fba3df8ae1ae5321dc50f91211bbfcee6b33995cfa0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is JPMorgan Chase Stock a Buy Now?",
+      "author": "Neil Patel",
+      "published_utc": "2025-03-01T10:26:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/is-jpmorgan-chase-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "C",
+        "CpN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808808/speaking-with-banker-at-a-brand.jpg",
+      "description": "JPMorgan Chase is a financial services powerhouse with a massive scale and sustainable competitive advantages. However, its current valuation appears stretched, and investors may want to wait for a more compelling entry point.",
+      "keywords": [
+        "JPMorgan Chase",
+        "banking industry",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is a high-quality business with strong financial performance, sustainable competitive advantages, and a critical role in the economy. However, its current valuation is considered stretched, and the author suggests waiting for a more compelling entry point to buy the stock."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Citigroup is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Citigroup is mentioned as one of JPMorgan Chase's money-center peers, but the article does not provide any specific commentary or sentiment on the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:19.799441+00:00",
+    "cache_key": "news_38934d16f5d63a84036de6376425dfed",
+    "count": 3
+  }
+}

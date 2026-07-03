@@ -1,0 +1,155 @@
+{
+  "trace_id": "trace_id_6_macro_idempotent",
+  "memory_path": "macro",
+  "eval_mode": "qa",
+  "focus": "MacroNotes direct write_section idempotency, same-week overwrite, rolling cap, read_recent windowing",
+  "turns": [
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W40",
+        "bullets": ["Fed held rates at 5.25%", "S&P 500 at all-time highs", "China economic slowdown deepening"],
+        "trade_date": "2025-10-03"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W41",
+        "bullets": ["Inflation CPI 3.5% higher than expected", "Oil surged to $92 on Middle East tensions", "USD strengthened broadly"],
+        "trade_date": "2025-10-10"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W42",
+        "bullets": ["Earnings season starts strong: banks beat", "10-year Treasury yield 4.8% multi-year high", "Bitcoin broke $70K"],
+        "trade_date": "2025-10-17"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W43",
+        "bullets": ["Tech megacap earnings mixed", "Consumer confidence declined", "Dollar weakened on Fed pivot speculation"],
+        "trade_date": "2025-10-24"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W44",
+        "bullets": ["FOMC meeting: Fed paused as expected", "Job market softening; 150K jobs added", "Q3 GDP 2.1% below 2.4% estimate"],
+        "trade_date": "2025-10-31"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W41",
+        "bullets": ["OVERWRITE: Revised CPI data shows 3.3% not 3.5%", "OVERWRITE: Oil corrected to $88 on demand fears", "OVERWRITE: USD rally stalled after ECB hawkish surprise"],
+        "trade_date": "2025-10-11"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W45",
+        "bullets": ["US election risk premium rising", "VIX spiked to 25", "Defensive sectors outperforming"],
+        "trade_date": "2025-11-07"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W46",
+        "bullets": ["Election results: pro-growth policy expectations", "S&P 500 rallied 3% on election outcome", "Dollar surged; EM currencies sold off"],
+        "trade_date": "2025-11-14"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W47",
+        "bullets": ["Treasury yields rose on fiscal expansion fears", "Gold declined as real yields rose", "Small-caps outperforming on deregulation hope"],
+        "trade_date": "2025-11-21"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2025-W48",
+        "bullets": ["FOMC minutes: gradual cuts likely", "Tech earnings beat; AI capex theme intact", "Oil declined to $72 on supply concerns"],
+        "trade_date": "2025-11-28"
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "W41_overwrite_shows_revised_content",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 8},
+      "expected_information": [
+        {"type": "substring", "value": "Revised CPI data shows 3.3%"},
+        {"type": "not_substring", "value": "Inflation CPI 3.5% higher than expected"}
+      ]
+    },
+    {
+      "label": "read_recent_2_shows_only_latest_2",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "substring", "value": "2025-W48"},
+        {"type": "substring", "value": "2025-W47"},
+        {"type": "not_substring", "value": "2025-W46"},
+        {"type": "not_substring", "value": "2025-W40"}
+      ]
+    },
+    {
+      "label": "read_recent_3_shows_latest_3_weeks",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2025-W48"},
+        {"type": "substring", "value": "2025-W47"},
+        {"type": "substring", "value": "2025-W46"},
+        {"type": "not_substring", "value": "2025-W45"}
+      ]
+    },
+    {
+      "label": "cap_8_drops_oldest_W40",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 10},
+      "expected_information": [
+        {"type": "not_substring", "value": "2025-W40"},
+        {"type": "substring", "value": "2025-W41"}
+      ]
+    },
+    {
+      "label": "read_recent_8_has_8_or_fewer_sections",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 8},
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "## 2025-W"}
+      ]
+    },
+    {
+      "label": "last_updated_dates_present",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 5},
+      "expected_information": [
+        {"type": "regex", "value": "Last updated: 2025-1[01]-\\d{2}"}
+      ]
+    },
+    {
+      "label": "bullets_format_preserved",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "regex", "value": "- .+"}
+      ]
+    }
+  ]
+}

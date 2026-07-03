@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Best Dividend Aristocrats For April 2025",
+      "description": "Dividend Aristocrats in 2025 show resilience, outperforming the S&P 500. Click here to read what investors need to know.",
+      "published_utc": "2025-04-01T00:07:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8d2f7e6be3053b554cc8ee87405abf96ff95f26b38f72e7f7cdf82cef0d639bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165465384/image_2165465384.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133629387,
+      "datetime": 1743437243
+    }
+  ]
+}

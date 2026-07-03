@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Oil traders brace for turmoil as Iran crisis imperils supply",
+      "description": "(Bloomberg) -- Oil-watchers are bracing for a further price rally after Israeli strikes on Iranian energy assets heightened the risk to Middle East supplies.Most Read from BloombergShuttered NY College Has Alumni Fighting Over Its FutureAs Part of a $45 Billion Push, ICE Prepares for a Vast Expansion of Detention SpaceDo World’s Fairs Still Matter?NYC Renters Brace for Price Hikes After Broker-Fee BanAs American Architects Gather in Boston, Retrofits Are All the RageIsrael temporarily knocked ou",
+      "published_utc": "2025-06-16T00:41:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30b7b50378eb38fbdfbaacf8f0a8d22dbc0e9a5f07347374face99cbf837feb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135289540,
+      "datetime": 1750005696
+    }
+  ]
+}

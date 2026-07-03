@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "Is Caterpillar Inc. (CAT) the Cheap Global Stock to Buy Right Now?",
+      "description": "We recently published a list of 7 Cheap Global Stocks to Buy Right Now. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other cheap global stocks to buy right now. The geopolitical landscape has drastically changed since the beginning of the decade, with the COVID-19 pandemic […]",
+      "published_utc": "2025-02-26T06:31:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e06ebc2db5479ff65b0c477ad5da6ae8ab4cb4fa71eb05e5e6ab69a4c1bddbce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185159,
+      "datetime": 1740522685
+    },
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-26T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=35df3d2bf022ec076a75eb0162206dff94ebc696487e40335ccc5c4789f8fcb9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132883419,
+      "datetime": 1740501300
+    },
+    {
+      "id": "78dd871a1fc796867bf48882287bc6e882836d5f1928725d28c8223505f925e7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Construction Robots Market to Expand from USD 1.15 Billion in 2023 to USD 4.10 Billion by 2032 at a CAGR of 15.18% | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-25T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/25/3032190/0/en/Construction-Robots-Market-to-Expand-from-USD-1-15-Billion-in-2023-to-USD-4-10-Billion-by-2032-at-a-CAGR-of-15-18-Research-by-SNS-Insider.html",
+      "tickers": [
+        "EKSO",
+        "FANUY",
+        "YASKY",
+        "CAT",
+        "KMTUY",
+        "ABBNY",
+        "HSQVY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Construction Robots Market is experiencing significant growth due to the integration of advanced robotics and automation technologies, which are revolutionizing the construction industry and enhancing efficiency, safety, and precision.",
+      "keywords": [
+        "Construction Robots",
+        "Automation",
+        "AI",
+        "Robotics",
+        "Construction Industry"
+      ],
+      "insights": [
+        {
+          "ticker": "EKSO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing wearable exoskeletons for construction workers."
+        },
+        {
+          "ticker": "FANUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing industrial robots for construction applications."
+        },
+        {
+          "ticker": "YASKY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing industrial robots for automation."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is listed as a key player in the construction robots market, providing autonomous construction equipment."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing autonomous vehicles and robotic arms."
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is listed as a key player in the construction robots market, providing industrial robots and robotic arms."
+        },
+        {
+          "ticker": "HSQVY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is listed as a key player in the construction robots market, providing demolition and drilling robots."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:32.365808+00:00",
+    "cache_key": "news_a787372d2c476e8c5ef9f79cf392499d",
+    "count": 3
+  }
+}

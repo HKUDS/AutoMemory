@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Google’s Revenue Growth Slows, Sending Shares Down",
+      "description": "Google’s Revenue Growth Slows, Sending Shares Down",
+      "published_utc": "2025-02-05T03:09:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=554f568ec863e6e4ef02ec86b9e1ec30eeba6fa70732b9273a7cd0394ad55eca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564005,
+      "datetime": 1738696140
+    }
+  ]
+}

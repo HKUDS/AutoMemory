@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Trump Trade: Loss of $10B JEDI contract ‘watershed’ moment for Bezos",
+      "description": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: WATERSHED MOMENT: Sources detail how former Amazon (AMZN) CEO Jeff Bezos made peace with President Donald Trump, with many pointing to Amazon losing the $10B JEDI contract during Trump’s first term as a watershed moment, The Financial Times’ Anna Nicolaou, Stephen Morris, Rafe Uddin, and Alex Rog",
+      "published_utc": "2025-03-22T22:10:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e9af2f58bad975cc125464cff3fa5e62183748bb64005938d82dd1c61addb04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324286,
+      "datetime": 1742652613
+    },
+    {
+      "title": "Amazon told to find pilots for its self-flying delivery drones",
+      "description": "Amazon will be required to assign a remote pilot to monitor each of its self-flying delivery drones despite Rachel Reeves’s pledge to liberate the technology.",
+      "published_utc": "2025-03-22T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c39e3d72b2c4db30c54536e0a7da8ccdfc03cd2021974b44d4a237435ca76d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324287,
+      "datetime": 1742652000
+    },
+    {
+      "title": "Meet the Spectacular Vanguard ETF With 43.2% of Its Portfolio Invested in Nvidia, Amazon, Apple, and Microsoft",
+      "description": "The S&P 500 (SNPINDEX: ^GSPC) has only delivered back-to-back annual gains of 25% or more (including dividends) on two occasions in its history dating back to 1957: during the dot-com internet boom in 1997 and 1998, and during the artificial intelligence (AI) boom in 2023 and 2024.  The gains over the last two years have been driven by some of the largest companies in the index, including multitrillion-dollar giants like Nvidia, Amazon, Apple, and Microsoft.  In other words, investors who haven't owned those four stocks over the last two years have probably underperformed the S&P 500 by a wide margin.",
+      "published_utc": "2025-03-22T16:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c881a4e6afe79e2b160f95bb99a699afac4c6e0b7a642ca47801f8abd33585fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324227,
+      "datetime": 1742631960
+    },
+    {
+      "title": "VUG: Mag 7 Now The Lag 7, Better Valuation, Weaker Chart",
+      "description": "US large-cap growth stocks, particularly the Russell 1000 Growth Index, are in correction territory, with the Lag 7 stocks all down year-to-date.",
+      "published_utc": "2025-03-22T16:15:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9630443a249875083c6b75989594e66addfd14a9fdf30190765424de3deb9337",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2185288554/image_2185288554.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133318576,
+      "datetime": 1742631333
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "91fbad204addff62a5d6e00ccf194caf8f783029be6bc3df81b3f19ae4fe7218",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Stock That Turned $1,000 Into $66,000",
+      "author": "Neil Patel",
+      "published_utc": "2025-07-19T08:26:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/19/1-stock-that-turned-1000-into-66000/?source=iedfolrf0000001",
+      "tickers": [
+        "HD",
+        "LOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/825371/point-to-chart-on-screen.jpg",
+      "description": "Home Depot has grown from 340 stores in 1995 to 2,350 locations today, generating $39.9 billion in Q1 sales. Despite current macroeconomic challenges, the company remains a leader in home improvement retail with strong long-term potential.",
+      "keywords": [
+        "home improvement",
+        "retail",
+        "long-term investing",
+        "stock performance"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While the company has impressive historical growth and market leadership, current macroeconomic conditions and high valuation suggest caution. The stock is considered expensive with projected modest earnings growth, leading to a neutral outlook."
+        },
+        {
+          "ticker": "LOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a distant second to Home Depot in the home improvement retail space, with no specific detailed analysis provided."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:09:03.208113+00:00",
+    "cache_key": "news_7cf8bd60835fda161f2fac30f2a5c567",
+    "count": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Tracking George Soros's 13F Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-06-12T06:35:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4d50f4b3984e229ed6848177b77b6b022f08f0c646bbc944640289071aa804d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199218,
+      "datetime": 1749681323
+    },
+    {
+      "title": "Skillsoft Teams Up With Salesforce (NYSE:CRM) To Elevate AI-Powered Customer Support And Engagement",
+      "description": "Salesforce (NYSE:CRM) recently announced a collaboration with Skillsoft to integrate AI-powered upskilling into its platform, aligning with news that the Indiana Fever is implementing Salesforce's Agentforce to enhance fan engagement. These developments underscore Salesforce's commitment to innovation in workforce management and customer engagement. However, these initiatives coincided with a market environment where indexes, including the S&P 500 and Nasdaq, reached their highest levels...",
+      "published_utc": "2025-06-12T01:33:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d83978795086b55e963daa9d6e89cec569e66837707967feff0a2f303f3815ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135195016,
+      "datetime": 1749663195
+    }
+  ]
+}

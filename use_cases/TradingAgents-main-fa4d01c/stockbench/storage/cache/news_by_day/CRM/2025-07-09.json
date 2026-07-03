@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "description": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-09T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c4007c498b61e016a28ee34c536ace611dbe63d3edf971876ef494e6b581ad88",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135859004,
+      "datetime": 1751992320
+    },
+    {
+      "title": "CapStorm Launches CapStorm:AI: Self-Hosted AI for Salesforce and SQL Analytics",
+      "description": "CapStorm, a leader in secure Salesforce data management solutions, today announced the launch of CapStorm:AI, an AI-powered solution that lets users \"talk to their data\" using plain English. Designed for organizations seeking secure, self-hosted insights across their Salesforce and SQL environments, CapStorm:AI enables business users to ask complex data questions and receive real-time dashboards, instantly, and without writing a single line of code.",
+      "published_utc": "2025-07-09T00:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=081af12a604877c566cebabcab2428a2c8034d9e536ff52fdc294349bb84eed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135824959,
+      "datetime": 1751992200
+    }
+  ]
+}

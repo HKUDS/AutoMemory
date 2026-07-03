@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "The Goldman Sachs Group, Inc. (GS) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Goldman (GS) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-06-04T21:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28162ccba23498bb2dc6e0ef61ada4bb2dba42d175bed91cf6df6e1494471e20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010265,
+      "datetime": 1749042011
+    },
+    {
+      "title": "M2 Hits Record Highs: What The Return Of Easy Money Means For You",
+      "description": "Read about how the US M2 money supply growth signals a new monetary expansion cycle, its market implications, and potential investment opportunities in stocks and ETFs.",
+      "published_utc": "2025-06-04T20:09:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b393a09b51b1e4a88423f06910b3f06d0b8b8216f62e4e128eaf8179641ebf2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1428270630/image_1428270630.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011037,
+      "datetime": 1749038971
+    },
+    {
+      "title": "Global Stocks Hit Record as Economic Bets Outweigh Trade Jitters",
+      "description": "(Bloomberg) -- Global equities hit a record high for the first time since February, as signs of a resilient US economy overshadowed uncertainty around trade negotiations.Most Read from BloombergWhere the Wild Children’s Museums AreBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryThe Global Struggle to Build Safer CarsAt London’s New Design Museum, Visitors Get Hands-On AccessLA City Council Passes Budget That Trims Police, Fire SpendingThe MSCI All-Country World Index rose as much",
+      "published_utc": "2025-06-04T18:00:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=043260f92f3967281eebc7f643bb0114b00979e911f10a48d51d2cc3ba598ab6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135008331,
+      "datetime": 1749031224
+    }
+  ]
+}

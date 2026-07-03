@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JP Morgan unit joins forces with Ondo, Chainlink to execute landmark settlement",
+      "description": "JP Morgan's blockchain unit Kinexys partnered with Chainlink and Ondo Finance to complete the first atomic DvP settlement.",
+      "published_utc": "2025-05-15T03:01:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab1093624bc5fe658ca7f498ff5ecbfc52bcc4ea565503092ed9e77e5997277e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460700,
+      "datetime": 1747249317
+    },
+    {
+      "title": "J.P. Morgan Asset Management Focuses on Generational Opportunities in Real Estate, Appointing Chad Tredway as Global Head",
+      "description": "J.P. Morgan Asset Management is enhancing its real estate business with the appointment of Chad Tredway as Global Head of Real Estate. In this new role, he will oversee real estate operations across the Americas, Europe, and Asia Pacific, increasing the firm's global reach and ability to deliver innovative investment opportunities.",
+      "published_utc": "2025-05-15T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea887638204d51b9ba082118c0f85fb39d9e7dd14ffdbdb22bff84f82c5a38c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460701,
+      "datetime": 1747238400
+    }
+  ]
+}

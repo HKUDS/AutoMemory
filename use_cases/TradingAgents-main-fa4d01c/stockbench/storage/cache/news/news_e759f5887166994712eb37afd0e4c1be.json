@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "TimesSquare U.S. Small Cap Growth Strategy Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-23T22:58:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e08f93212ff37a990ca19adb459a906001e6fc7b0dfd5f9b6a999245c346c30",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134045979,
+      "datetime": 1745420280
+    },
+    {
+      "title": "Why Johnson & Johnson (JNJ) is a Top Value Stock for the Long-Term",
+      "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+      "published_utc": "2025-04-23T21:40:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b0f04ebb88071a91e76db816c198189436a6e4a9acf35ad22ffc29a8fa6883b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046305,
+      "datetime": 1745415608
+    },
+    {
+      "title": "2025 Dividend Kings: Weathering Tariff Volatility Better Than The Market",
+      "description": "",
+      "published_utc": "2025-04-23T17:58:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d95473ce6d5c40ead5673ea4913858101d82b94ef532021f9bd4bb9ef31c7056",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134044306,
+      "datetime": 1745402288
+    },
+    {
+      "title": "European pharma companies push for higher drug prices in EU amid U.S. tariff threats",
+      "description": "(Reuters) -European drugmakers are urging the EU to allow higher medicine prices, warning that without stronger investment incentives, the bloc would fall further behind the U.S., where tariff threats have triggered a wave of pharma investment announcements.  AstraZeneca Chief Executive Officer Pascal Soriot said that just like Europe has stepped up its defense spending, it now must do the same and invest more to protect its health sovereignty amid a shifting world order.  \"Europe spends a substantially lower share of GDP on innovative medicines than the U.S. and, as a result, is falling behind in attracting R&D and manufacturing investments, putting its ability to protect the health of its own people at risk,\" Soriot said in a statement.",
+      "published_utc": "2025-04-23T14:44:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eeab42fd3a21b354653bf7a401e5311bfbc7c019c6f38cd220d8cbca9cbbaa66",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046306,
+      "datetime": 1745390660
+    },
+    {
+      "title": "Magnificent 7 Earnings Out This Week Will Shed Light On Big Tech's Tariff Concerns",
+      "description": "",
+      "published_utc": "2025-04-23T11:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eaac6e9c845c2f82b606d3d73abdf9f438e0115f65507451348e00074b95c29c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134041757,
+      "datetime": 1745379600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:35:44.976673+00:00",
+    "cache_key": "news_e759f5887166994712eb37afd0e4c1be",
+    "count": 5
+  }
+}

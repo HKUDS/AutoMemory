@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "IBM: Steady In A Downturn",
+      "description": "IBM's strategic pivot under CEO Arvind Krishna has positioned it in growth areas like AI and hybrid cloud. Read why I am impressed with IBM stock.",
+      "published_utc": "2025-03-16T07:13:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0ec30737358f018a31e1d6e0d1ad18550f519b85e5072e1066e3b40ef95ce296",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1163948069/image_1163948069.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133180697,
+      "datetime": 1742080419
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:52.473581+00:00",
+    "cache_key": "news_6a9946b3facf68a591dc780fc8aefd15",
+    "count": 1
+  }
+}

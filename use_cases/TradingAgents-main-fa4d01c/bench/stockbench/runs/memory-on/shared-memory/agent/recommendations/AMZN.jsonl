@@ -1,0 +1,19 @@
+{"trade_date": "2025-06-02", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Action:** Sell (or initiate a short position) on a failed rally back into the $208-$211 resistance zone", "key_risks": []}
+{"trade_date": "2025-06-03", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Initiate a tactical SELL/short position on AMZN", "key_risks": []}
+{"trade_date": "2025-06-04", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Initiate a tactical short position in AMZN", "key_risks": []}
+{"trade_date": "2025-06-05", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Initiate a tactical short position in `AMZN` at or near current levels (~$207", "key_risks": []}
+{"trade_date": "2025-06-06", "ticker": "AMZN", "rating": "BUY", "one_line_thesis": "Initiate a long position in **AMZN** on a pullback to the $211-$212 support zone (the prior resistance, now support)", "key_risks": []}
+{"trade_date": "2025-06-09", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Initiate a tactical short position in **AMZN** via defined-risk options", "key_risks": []}
+{"trade_date": "2025-06-10", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain existing `AMZN` positions with a trailing stop-loss at $208", "key_risks": []}
+{"trade_date": "2025-06-11", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain existing long positions in AMZN with a tightened trailing stop-loss at **$208", "key_risks": []}
+{"trade_date": "2025-06-12", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain the current long position in **AMZN**", "key_risks": []}
+{"trade_date": "2025-06-13", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain the current long position in AMZN", "key_risks": []}
+{"trade_date": "2025-06-16", "ticker": "AMZN", "rating": "BUY", "one_line_thesis": "Initiate a long position in AMZN using a two-tiered entry strategy", "key_risks": []}
+{"trade_date": "2025-06-17", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain the current long position in **AMZN**", "key_risks": []}
+{"trade_date": "2025-06-18", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain existing long positions in AMZN with a tightened trailing stop-loss at $207", "key_risks": []}
+{"trade_date": "2025-06-20", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain existing long positions in AMZN", "key_risks": []}
+{"trade_date": "2025-06-23", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Execute a 30% reduction of the AMZN position via a limit sell order at $209", "key_risks": []}
+{"trade_date": "2025-06-24", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "We are executing a **40% reduction** of the AMZN position", "key_risks": []}
+{"trade_date": "2025-06-25", "ticker": "AMZN", "rating": "SELL", "one_line_thesis": "Execute a **final 20% reduction** of the remaining AMZN position, completing a full exit", "key_risks": []}
+{"trade_date": "2025-06-26", "ticker": "AMZN", "rating": "HOLD", "one_line_thesis": "Maintain a cash position", "key_risks": []}
+{"trade_date": "2025-06-27", "ticker": "AMZN", "rating": "BUY", "one_line_thesis": "Initiate a 5% portfolio position in AMZN at market open", "key_risks": []}

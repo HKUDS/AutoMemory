@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "How To Compound Wealth With The BLSH Strategy: Buy Low And Sell High, Consistently",
+      "description": "There are plenty of good strategies out there to invest. Check out how the BLSH strategy outperforms the S&P 500 with 14.5% annualized returns.",
+      "published_utc": "2025-06-29T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b3795acabd49bce16f042bf72110d5d33727e747748686d2ca130f89204883d7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192109305/image_2192109305.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135631201,
+      "datetime": 1751184000
+    },
+    {
+      "title": "Best Dividend Aristocrats For July 2025",
+      "description": "",
+      "published_utc": "2025-06-29T15:19:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b91450584c711e2485a33bfe300de3807c5ee9005c10f315f854c4ead198f45",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135631077,
+      "datetime": 1751181558
+    },
+    {
+      "title": "Merck: Don't Let Today's Bargain Opportunity Pass You By",
+      "description": "Merck remains a top Big Pharma name with strong leadership, rising sales, and high margins, despite regulatory fears and pressures. Learn why MRK stock is a buy.",
+      "published_utc": "2025-06-29T11:38:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ef8150d08e342399dd1513b3199ce82a7da44d655618d5191c837c31591dc9bb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249038014/image_1249038014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135628039,
+      "datetime": 1751168314
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:14.279721+00:00",
+    "cache_key": "news_011e05255d20b890f3f0c069ddb51744",
+    "count": 3
+  }
+}

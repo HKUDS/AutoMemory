@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Amgen (AMGN) is a Strong Growth Stock",
+      "description": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+      "published_utc": "2025-05-07T21:45:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=277b39db5c2c2482d634d7440ff0c082bf257bc91a0855ed2adf16bb95cac5f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316922,
+      "datetime": 1746625507
+    }
+  ]
+}

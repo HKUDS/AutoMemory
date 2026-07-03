@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Johnson & Johnson's (NYSE:JNJ) Recent Stock Performance Influenced By Its Fundamentals In Any Way?",
+      "description": "Most readers would already be aware that Johnson & Johnson's (NYSE:JNJ) stock increased significantly by 11% over the...",
+      "published_utc": "2025-02-22T19:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df274c953d2ec995540e86eed1ff8e98857cd03f3a5345f9cf4282861739a50d",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/2eedc463aef15274c4887c130e30e298",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902116,
+      "datetime": 1740222014
+    }
+  ]
+}

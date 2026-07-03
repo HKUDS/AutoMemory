@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Buy Sherwin-Williams Stock. It Can Help Paint Your Portfolio Green.",
+      "description": "The paints and coatings company looks especially resilient in a tough housing market. It’s set to outshine competitors.",
+      "published_utc": "2025-06-11T21:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0a5147ac7e60954fd59e8a2b6615b8b4c3bb4b3b01090d8ebeb6f562a6d04cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135193640,
+      "datetime": 1749647280
+    },
+    {
+      "title": "Sherwin-Williams Stock Can Help Paint Your Portfolio Green",
+      "description": "The paints and coatings company looks especially resilient in a tough housing market. It’s set to outshine competitors.",
+      "published_utc": "2025-06-11T13:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f05bdf8614040af905489344a43f5a70985f55faa241d79ba91556a709efc0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135180279,
+      "datetime": 1749618000
+    }
+  ]
+}

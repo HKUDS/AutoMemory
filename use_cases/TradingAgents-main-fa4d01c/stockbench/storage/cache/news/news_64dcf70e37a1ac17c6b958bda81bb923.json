@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple: $500 Billion Problem",
+      "description": "Apple's $500B U.S. investment falls short on innovation, especially in AI. AAPL stock trades at rich valuations despite limited growth. See more here.",
+      "published_utc": "2025-03-04T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4f308bf114bc1b805620331b521c56d2706a732578455dc3ab92ff3c20e69b4e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/494026008/image_494026008.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132970215,
+      "datetime": 1741032000
+    },
+    {
+      "title": "Trump says TSMC will spend $100 billion to expand chip manufacturing in U.S.",
+      "description": "Trump says TSMC will spend $100 billion to expand chip manufacturing in U.S.",
+      "published_utc": "2025-03-04T02:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21f7b78aa1bacf9bfaef53afaef91e5edd39b5dfd6d6feab3794459066807849",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973052,
+      "datetime": 1741024920
+    },
+    {
+      "title": "Berkshire Hathaway: Buffett Sells Banks, Buys Beer And Pizza As Economic Indicators Worsen",
+      "description": "Warren Buffett has sold record amounts of stock over the past 18 months but hasn't given the public much information as to why. Read more on the inflation-resistant picks made by Berkshire.",
+      "published_utc": "2025-03-04T00:48:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5c36dadbf3c9c1f9f431d5a66fd49eddf98b7c1b95ac4f6f894ec8dd5fd7ff6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/505663330/image_505663330.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132969359,
+      "datetime": 1741020524
+    },
+    {
+      "title": "Giant chipmaker TSMC to spend $100B to expand chip manufacturing in US, Trump announces",
+      "description": "WASHINGTON — Chip giant Taiwan Semiconductor Manufacturing Co. plans to invest a $100 billion in the United States, President Donald Trump announced Monday as he appeared with the company's head at...",
+      "published_utc": "2025-03-03T22:56:22",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d1f8a7ad0dd20b84341721f6db4b802e5143b6f7dead66fbfde2dbb40049404a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132959604,
+      "datetime": 1741013782
+    },
+    {
+      "title": "It's not just 'Magnificent Seven' stocks that are falling. Bonds are selling off, too.",
+      "description": "It's not just 'Magnificent Seven' stocks that are falling. Bonds are selling off, too.",
+      "published_utc": "2025-03-03T22:42:23",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a8807dda0a689a1fb061d77bdbf9aeeb1d57d49b5673cd962c61ad24c41fb3ae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973054,
+      "datetime": 1741012943
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:38.267238+00:00",
+    "cache_key": "news_64dcf70e37a1ac17c6b958bda81bb923",
+    "count": 5
+  }
+}

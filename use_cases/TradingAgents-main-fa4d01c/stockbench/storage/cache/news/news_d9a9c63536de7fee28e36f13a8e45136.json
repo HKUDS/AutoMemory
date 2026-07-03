@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
+      "description": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-07-29T00:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0658f4d0e6bcf70ead70ae36990e8df2385e202672d94042777d2110190a5364",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136125402,
+      "datetime": 1753720920
+    },
+    {
+      "title": "Best Dividend Aristocrats For August 2025",
+      "description": "Dividend Aristocrats are outperforming SPY in July but still trail year-to-date. Check out my Promising Aristocrats list here.",
+      "published_utc": "2025-07-28T13:19:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=830665c984684da2b011aea06a74a0926a66a23d46b32622de0a5dbcf64f981a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189040496/image_2189040496.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136105728,
+      "datetime": 1753679992
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:13:21.457631+00:00",
+    "cache_key": "news_d9a9c63536de7fee28e36f13a8e45136",
+    "count": 2
+  }
+}

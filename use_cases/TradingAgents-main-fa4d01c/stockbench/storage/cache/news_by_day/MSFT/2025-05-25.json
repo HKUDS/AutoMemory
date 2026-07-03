@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Alger Focus Equity Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-25T23:47:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0330a0cd73f4838193f3ed66397fd14ea7d09b93a9aadff23bedc6cf40415dc5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134695535,
+      "datetime": 1748188020
+    },
+    {
+      "title": "Nvidia has lost its shock power to investors, for now",
+      "description": "Nvidia's quarter may be tougher than normal to assess. Here's why.",
+      "published_utc": "2025-05-25T20:30:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e52fe45d75faaa5f50ef3deaccdb25ab150abf8e0d2e9e243903dc12a96aa1c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694174,
+      "datetime": 1748176245
+    },
+    {
+      "title": "Could Nvidia Stock Help You Retire a Millionaire?",
+      "description": "Demand for Nvidia's GPU chips looks to be nearly insatiable.  New products are extending its reach in the AI infrastructure market.  Nvidia just unveiled an open AI ecosystem that will immerse its products into even more AI projects.",
+      "published_utc": "2025-05-25T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5f91caf17d5de33f87fb4eaaf464d7f59a8b51f55826a64e7916e7cbb188090",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694175,
+      "datetime": 1748176200
+    }
+  ]
+}

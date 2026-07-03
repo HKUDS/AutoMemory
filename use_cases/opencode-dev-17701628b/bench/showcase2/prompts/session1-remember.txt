@@ -1,0 +1,9 @@
+remember: In this django project, always run tests with python -m pytest -xvs. Do not use ./tests/runtests.py.
+
+remember: After modifying code, always run flake8 before submitting the patch.
+
+Now fix the following django issue:
+
+{problem_statement}
+
+The repository is checked out at {base_commit}. Start by exploring the issue and identifying where the bug originates. Do NOT generate the full fix yet -- just locate the bug and explain your findings.

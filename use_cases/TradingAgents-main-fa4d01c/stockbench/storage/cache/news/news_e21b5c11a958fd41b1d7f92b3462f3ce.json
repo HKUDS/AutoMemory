@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Merck, Amgen share losses lead Dow's nearly 275-point drop",
+      "description": "Merck, Amgen share losses lead Dow's nearly 275-point drop",
+      "published_utc": "2025-05-06T22:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=495fcf3805f4833a3e4d02525ff82f3f6cc4393b3480cf518cd7916d3d9674be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270546,
+      "datetime": 1746543480
+    },
+    {
+      "title": "Here's Why Amgen (AMGN) is a Strong Value Stock",
+      "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+      "published_utc": "2025-05-06T21:40:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25fb9249e3099bfdc4533ef4e6340b7ea9a1e0b3b882a063b21a6855383077be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266497,
+      "datetime": 1746538808
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 375-point drop",
+      "description": "Merck, Amgen share losses contribute to Dow's 375-point drop",
+      "published_utc": "2025-05-06T21:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5300f2e1b5925f69dcee7e28e0d138178f9f13c36832e5eb690b5b2a3a58678c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270547,
+      "datetime": 1746538800
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 238-point drop",
+      "description": "Merck, Amgen share losses contribute to Dow's 238-point drop",
+      "published_utc": "2025-05-06T19:54:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1fd7a03c7f059de9209b18aff39cf159793ab5976e9310e77387d276b5a4eb0d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270548,
+      "datetime": 1746532440
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 133-point fall",
+      "description": "Merck, Amgen share losses contribute to Dow's 133-point fall",
+      "published_utc": "2025-05-06T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dbde898607555d56bcfb206c8083cbc86a09844a33fce089f037eb2261425cd3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270549,
+      "datetime": 1746528360
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:28.232058+00:00",
+    "cache_key": "news_e21b5c11a958fd41b1d7f92b3462f3ce",
+    "count": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dogs Of The Dow Chase A \"Safer\" Buy For March",
+      "description": "My monthly update and commentary on the top dividend stock picks from the Dogs Of The Dow, March 2025 edition. Click here to read more about Dogs of the Dow.",
+      "published_utc": "2025-03-04T22:56:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc6dd860b385b0d72b9bb16ee9ff5ee719c89916be0857afbb145306c6255282",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173947104/image_173947104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132979830,
+      "datetime": 1741100163
+    }
+  ]
+}

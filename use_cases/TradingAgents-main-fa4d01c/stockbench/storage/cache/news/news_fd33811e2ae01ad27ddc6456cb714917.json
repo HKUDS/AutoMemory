@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
+      "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
+      "published_utc": "2025-02-19T05:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7facde2ae5c066853e3c10f645338611f87bab1b8480e5a5ef704337d2dad585",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/940959558/image_940959558.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781249,
+      "datetime": 1739914800
+    },
+    {
+      "title": "Harding Loevner Global Equity ADR Q4 2024 Report",
+      "description": "Harding Loevner Global Equity ADR composite fell 1.12% (gross) in Q4 2024, compared with the 0.89% decline of the MSCI ACWI Index. Click here to read more.",
+      "published_utc": "2025-02-18T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=945203791e50bd4f0e8d96824a2b7b3492080c9411c3d1bf6358e65e6fe70196",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172483014/image_172483014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767114,
+      "datetime": 1739865600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:30.753084+00:00",
+    "cache_key": "news_fd33811e2ae01ad27ddc6456cb714917",
+    "count": 2
+  }
+}

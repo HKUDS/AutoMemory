@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Outperforms Broader Market: What You Need to Know",
+      "description": "In the most recent trading session, IBM (IBM) closed at $276.24, indicating a +1.53% shift from the previous trading day.",
+      "published_utc": "2025-06-11T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad71b7591b2bdf1753efb13fc20459a091a1551c6eb3020fe1aba94e4f6bfa78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171153,
+      "datetime": 1749591917
+    },
+    {
+      "title": "IBM (IBM) Sets 2029 Target for Practical Quantum Computer",
+      "description": "New roadmap aims for 200 logical qubits by end of decade, with larger systems to follow",
+      "published_utc": "2025-06-11T05:22:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6635f3cc0447d453257a6036ef906e29714915d134bfa7a056150215e91dcc93",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171154,
+      "datetime": 1749590545
+    },
+    {
+      "title": "When The Iconic CEO Moves On, Evaluate Your Investment",
+      "description": "When Jack Welch retired from GE, the stock price also suffered after GE peaked at a $500 billion market cap in early 2000.",
+      "published_utc": "2025-06-11T04:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8275924ff07be74eefe0c6ecf4b005194dd64be36140eb69394b3a8b7740dd3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1836864143/image_1836864143.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171640,
+      "datetime": 1749588000
+    },
+    {
+      "title": "IBM Stock Hits All-Time High as Firm Touts Roadmap to Quantum Computing Breakthrough",
+      "description": "IBM shares hit a record high Tuesday as the company showcased what it called a \"viable path\" to a breakthrough in quantum computing by the end of the decade.",
+      "published_utc": "2025-06-11T04:31:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a40a6dcb9cc5ac3996fb8a17252ae89f0a8f53eb4908d04e24e8664dc41ba21a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171155,
+      "datetime": 1749587495
+    },
+    {
+      "title": "Quantum Breaking: IBM Launches Nighthawk to Challenge Google, Amazon",
+      "description": "IBM Shares Surge as Quantum Starling Plan Sets 2029 Target",
+      "published_utc": "2025-06-11T04:27:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ff11fe9a20317e6bf1470250744e479934461d8e9666c0ab72f5a2984c784f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171156,
+      "datetime": 1749587238
+    }
+  ]
+}

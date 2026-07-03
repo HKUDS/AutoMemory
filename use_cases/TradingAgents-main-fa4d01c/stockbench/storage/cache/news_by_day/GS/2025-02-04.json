@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Bank of America: Pay Attention To What Buffett Does Next",
+      "description": "Warren Buffett has sold approximately $325 billion worth of stock, including Apple and Bank of America. See how investors may want to look at the BAC stock sale.",
+      "published_utc": "2025-02-04T23:00:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=df801878a27f42e6d3fcf876669584530cdd5d4190ba5847d6115cd5f4be7d8d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458692491/image_458692491.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132554532,
+      "datetime": 1738681217
+    },
+    {
+      "title": "GridStor Announces Acquisition of Texas Battery Energy Storage Project From Balanced Rock Power",
+      "description": "PORTLAND, Ore. - GridStor, a developer and operator of utility-scale battery energy storage systems, announced today that it has acquired a 150 MW / 300 MWh battery storage project in Texas from...",
+      "published_utc": "2025-02-04T14:47:44",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d35fe78820b0765f70968b8fb9b25bd5181a472f1628c5e80faa228294d564df",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132542262,
+      "datetime": 1738651664
+    }
+  ]
+}

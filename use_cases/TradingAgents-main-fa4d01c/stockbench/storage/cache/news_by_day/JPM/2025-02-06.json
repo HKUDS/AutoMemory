@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Contrafund Q4 2024 Review",
+      "description": "For Q4 2024, the Fidelity Contrafund's Retail Class shares gained 3.56%, topping the 2.41% advance of the S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-02-06T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a0a5a73483fa9fd7e332d0b4cf17231696a722fb5cfb954e54a0be6eb6011ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952762622/image_952762622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569795,
+      "datetime": 1738794900
+    }
+  ]
+}

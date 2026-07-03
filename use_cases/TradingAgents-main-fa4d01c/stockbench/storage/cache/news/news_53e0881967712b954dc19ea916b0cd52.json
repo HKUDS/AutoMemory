@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
+      "description": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
+      "published_utc": "2025-02-25T18:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5d8df69001a368cc7564e41276706e3c6f14d30e3f24dff7a91759150b66c268",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881259,
+      "datetime": 1740478860
+    },
+    {
+      "id": "f477999fdc1b825b666e9e4a53fd05b369382b2544645f659cd1313099761e09",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "The Rise of AI for Customer Service Market: A $47.82 billion Industry Dominated by Microsoft (US), IBM (US), Google (US) | MarketsandMarkets™",
+      "author": "Marketsandmarkets™",
+      "published_utc": "2025-02-25T13:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/25/3031927/0/en/The-Rise-of-AI-for-Customer-Service-Market-A-47-82-billion-Industry-Dominated-by-Microsoft-US-IBM-US-Google-US-MarketsandMarkets.html",
+      "tickers": [
+        "MSFT",
+        "IBM",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "CRM",
+        "TEAM",
+        "NOW",
+        "SAP",
+        "CXM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+      "description": "The global AI for Customer Service Market is expected to grow at a CAGR of 25.8% from $12.06 billion in 2024 to $47.82 billion by 2030, driven by advancements in AI-powered customer service tools that enhance efficiency, personalization, and customer satisfaction.",
+      "keywords": [
+        "AI",
+        "customer service",
+        "market growth",
+        "automation",
+        "personalization"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is identified as a key player in the AI for customer service market, indicating its strong presence and capabilities in this growing industry."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is also mentioned as a major player in the AI for customer service market, suggesting its significant involvement and expertise in this domain."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is listed as one of the dominant companies in the AI for customer service market, highlighting its prominent position and technological advancements in this area."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is listed as one of the dominant companies in the AI for customer service market, highlighting its prominent position and technological advancements in this area."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AWS is identified as a key player in the AI for customer service market, indicating its strong presence and capabilities in this growing industry."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is mentioned as one of the leading companies in the AI for customer service market, suggesting its significant involvement and expertise in this domain."
+        },
+        {
+          "ticker": "TEAM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Atlassian is listed as a prominent player in the AI for customer service market, highlighting its position and technological advancements in this area."
+        },
+        {
+          "ticker": "NOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ServiceNow is identified as a key player in the AI for customer service market, indicating its strong presence and capabilities in this growing industry."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP is mentioned as one of the leading companies in the AI for customer service market, suggesting its significant involvement and expertise in this domain."
+        },
+        {
+          "ticker": "CXM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sprinklr is identified as a key player in the AI for customer service market, indicating its strong presence and capabilities in this growing industry."
+        }
+      ]
+    },
+    {
+      "id": "65c84d34e15eb154881ff054422c6af3633d657e2db54b8bba1587c78a4a0ddc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Stephen Mandel Slashed His Stake in 2 Cutting-Edge Artificial Intelligence (AI) Stocks in 2024 and Piled Into a Smoking-Hot High-Yield Dividend Payer Instead",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-25T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/25/billionaire-stephen-mandel-sold-2-ai-stocks-2024/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "CRM",
+        "PM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808638/money-manager-stock-chart-reflection-glasses-laptop-buy-sell-getty.jpg",
+      "description": "Billionaire Stephen Mandel, the chief of Lone Pine Capital, reduced his stakes in two leading AI companies, Amazon and Salesforce, while significantly increasing his position in tobacco giant Philip Morris International, which offers a high dividend yield.",
+      "keywords": [
+        "Billionaire",
+        "Artificial Intelligence",
+        "AI",
+        "Dividend",
+        "Tobacco",
+        "Philip Morris International"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mandel reduced his stake in Amazon, likely due to valuation concerns, as the stock is trading at a relatively high multiple despite its strong performance in the current bull market."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mandel also reduced his stake in Salesforce, another leading AI-focused company, potentially for similar valuation reasons as Amazon."
+        },
+        {
+          "ticker": "PM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mandel significantly increased his position in Philip Morris International, a tobacco company with a high dividend yield and a growing smoke-free business, suggesting he sees value in the stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:42.736133+00:00",
+    "cache_key": "news_53e0881967712b954dc19ea916b0cd52",
+    "count": 3
+  }
+}

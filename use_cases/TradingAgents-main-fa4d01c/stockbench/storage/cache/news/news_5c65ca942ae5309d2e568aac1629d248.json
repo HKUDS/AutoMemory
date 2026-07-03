@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Johnson & Johnson (JNJ) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-01-02T01:10:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30e31713fc391c3dab5500271c4c358685d19af7ee26412a9a17fd5870a373c8",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132231365,
+      "datetime": 1735751414
+    },
+    {
+      "title": "The 5 worst-performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "The Dow's biggest losers include companies in the aerospace, biopharma, and sports apparel sectors.",
+      "published_utc": "2025-01-01T20:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7f3a696e0e56a3cd01b865ec5627e3b730f312cc93b2897bf9e4b8f3312dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226604,
+      "datetime": 1735732980
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Ascends While Market Falls: Some Facts to Note",
+      "description": "The latest trading day saw Johnson & Johnson (JNJ) settling at $144.62, representing a +0.89% change from its previous close.",
+      "published_utc": "2025-01-01T06:45:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7832f82998d3a9589dce1fad1afc41ce1e35870c4dd80432f886864e96970b77",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/gZA5XMnsr1RRZw6lGNAcdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NDA-/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132220789,
+      "datetime": 1735685119
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) Among the Best Low Volatility Stocks to Buy Right Now?",
+      "description": "We recently published a list of 8 Best Low Volatility Stocks To Buy Right Now. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best low volatility stocks to buy right now. The market has shown strong performance overall, with the S&P 500 up nearly […]",
+      "published_utc": "2025-01-01T02:57:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4701cbef955c2893ca9936797fa0ac1d710f7f9d22e20c9ad3e8fcd5e0645058",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DBFyZ0OZ_JyFkP8R8eQoiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9ccf3c88c7274582ef19e20143427c2",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132218406,
+      "datetime": 1735671479
+    },
+    {
+      "title": "Investors in Johnson & Johnson (NYSE:JNJ) have unfortunately lost 8.8% over the last three years",
+      "description": "For many investors, the main point of stock picking is to generate higher returns than the overall market. But if you...",
+      "published_utc": "2024-12-31T21:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08dc8a23465e19442f65b6153f91e115a3a0e33b62dbbd85235fe97f88ba217b",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/2eedc463aef15274c4887c130e30e298",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132218407,
+      "datetime": 1735650013
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:17:37.767357+00:00",
+    "cache_key": "news_5c65ca942ae5309d2e568aac1629d248",
+    "count": 5
+  }
+}

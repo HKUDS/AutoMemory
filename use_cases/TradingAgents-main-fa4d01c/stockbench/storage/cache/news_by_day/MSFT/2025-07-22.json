@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Polen Global Growth Portfolio Q2 2025 Commentary",
+      "description": "During the quarter, Polen Global Growth Portfolio returned 8.16% gross of fees (7.87% net of fees) compared to 11.53% for the Index. Read more here.",
+      "published_utc": "2025-07-22T06:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d175bc3623a511df6d3a413812fe88e9b9482ca9237a7d237886ed448b026549",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1148772285/image_1148772285.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028939,
+      "datetime": 1753135800
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation, July 2025",
+      "description": "Build a high-performing portfolio with over 20 expert-recommended stocks. Focused on capital growth, beat the S&P 500 using institutional-grade picks. See more.",
+      "published_utc": "2025-07-22T05:23:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1c798100ae494d89b0ad8561f66cf75a2e7da04aa6e2ba800c19a315d605d20",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028779,
+      "datetime": 1753133004
+    },
+    {
+      "title": "Microsoft Alerts Firms to Server-Software Attack",
+      "description": "Microsoft Alerts Firms to Server-Software Attack",
+      "published_utc": "2025-07-22T02:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a1eb9dbed394fd4347d9daea5b7bb05513a075b58cf0817295c2a5add74f76d8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136041106,
+      "datetime": 1753122600
+    }
+  ]
+}

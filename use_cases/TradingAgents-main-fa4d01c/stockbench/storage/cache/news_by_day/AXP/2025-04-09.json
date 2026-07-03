@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Stock Moves -1.44%: What You Should Know",
+      "description": "American Express (AXP) closed at $230.90 in the latest trading session, marking a -1.44% move from the prior day.",
+      "published_utc": "2025-04-09T05:50:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77e8ed8500e90744710e72655c380ee12ddacd5d3e6f2fa118f3930e54d872e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133812227,
+      "datetime": 1744149014
+    },
+    {
+      "title": "Jim Cramer on American Express Company (AXP): “An American Treasure – I Accept the Stock Going Down”",
+      "description": "We recently published a list of Jim Cramer Believes Trump Hasn’t Ordered A Market Crash & Discusses These 10 Stocks. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other stocks that Jim Cramer recently discussed. In his appearance on CNBC’s Squawk on the Street on […]",
+      "published_utc": "2025-04-09T02:26:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11d5a493efdcf137d9053e089d3c0ab7cffefa64f74cb46baed85acd49e7cb12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133812228,
+      "datetime": 1744136776
+    },
+    {
+      "title": "Building A $100,000 Dividend Portfolio: Enhancing SCHD With April's Top High-Yield Picks",
+      "description": "Enhance your dividend strategy with April 2025's top high-yield picks. Click here to learn how to boost SCHD income and optimize your portfolio's risk-reward balance.",
+      "published_utc": "2025-04-09T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=306a992842aae5d6149230ab59ff4971d480f95ddae7c596fbb018078e5d5dd3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159094952/image_2159094952.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133801761,
+      "datetime": 1744135200
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "description": "Financial Services Roundup: Market Talk",
+      "published_utc": "2025-04-09T00:57:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=5099555ced74181bcbeb2d5a1db208add07c35bdedd9a15825ced069c41d60d8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133832119,
+      "datetime": 1744131420
+    }
+  ]
+}

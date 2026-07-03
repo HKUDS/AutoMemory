@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "b8bddfa4e56c04b66b99eb672e05e77c59bc0e658c887aaf9a9c08ceebba5fc2",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "3 Dividend-Paying Stocks Bucking the Market’s Trend",
+      "author": "Marketbeat.Com",
+      "published_utc": "2025-02-25T12:41:00Z",
+      "article_url": "https://www.investing.com/analysis/3-dividendpaying-stocks-bucking-the-markets-trend-200657715",
+      "tickers": [
+        "KO",
+        "JNJ",
+        "MCD"
+      ],
+      "amp_url": "https://m.investing.com/analysis/3-dividendpaying-stocks-bucking-the-markets-trend-200657715?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Despite the broader market downturn, Coca-Cola, Johnson & Johnson, and McDonald's have shown resilience, with their dividend-paying stocks outperforming the market.",
+      "keywords": [
+        "dividend stocks",
+        "market downturn",
+        "Coca-Cola",
+        "Johnson & Johnson",
+        "McDonald's"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola's stock is up nearly 15% year-to-date, driven by a surprise earnings beat and continued momentum."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson has climbed 12.2% year-to-date, outperforming the broader market, and its strong earnings report has boosted investor confidence."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "McDonald's has outperformed the market with a 5.15% year-to-date return, and its resilience is evident in its ability to maintain its stock price near 52-week highs."
+        }
+      ]
+    }
+  ]
+}

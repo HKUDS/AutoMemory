@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "STRADVISION Wins 2025 AI Breakthrough Award for SVNet",
+      "description": "STRADVISION, a trailblazer in AI-driven perception technology for the automotive industry, today announced that its flagship software product, SVNet, was honored as a winner in the 2025 AI Breakthrough Awards. This distinguished accolade places STRADVISION alongside global innovators such as NVIDIA, Meta, Microsoft, Qualcomm, and UiPath, affirming its position as a top-tier innovator in artificial intelligence.",
+      "published_utc": "2025-06-26T07:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3b716ec64527c8ad26e0e85a72932289a61fdca40ee281348ceb2c6ace90a79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530541,
+      "datetime": 1750895880
+    },
+    {
+      "title": "OpenAI, Microsoft Rift Hinges on How Smart AI Can Get",
+      "description": "Silicon Valley is at odds over whether AI can reach and exceed humanlike intelligence, a milestone with major implications for the startup and technology giant’s partnership.",
+      "published_utc": "2025-06-26T06:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3327f85f71d78188976c2525bc2d234726274dd330fa7c99dde75f909a0784a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533475,
+      "datetime": 1750892040
+    },
+    {
+      "title": "Meta hires three OpenAI researchers, WSJ reports",
+      "description": "Meta Chief Executive Mark Zuckerberg has hired three OpenAI researchers to join his superintelligence efforts, the Wall Street Journal reported on Wednesday, citing people familiar with the matter. ...",
+      "published_utc": "2025-06-26T06:41:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fb723395e8d2d613b0c1917f4682b563259293d7829cbc9fab1a9ad1c66c250d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531996,
+      "datetime": 1750891267
+    },
+    {
+      "title": "Nvidia, Tech Stocks Keep the Momentum Going",
+      "description": "Tech stocks showed continued strength Wednesday, with Nvidia gaining 4.3% to notch its first record close since early January. The AI-chip maker also retook the title of largest company by market size, ahead of Microsoft.",
+      "published_utc": "2025-06-26T06:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3f68ab30ac1c4fa0a4921211e8081218443b832d1524f9016c0d2cc35d595a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533476,
+      "datetime": 1750890602
+    },
+    {
+      "title": "Microsoft, Wisconsin Economic Development Corporation, University of Wisconsin-Milwaukee and TitletownTech officially open AI Co-Innovation Lab to accelerate manufacturing innovation",
+      "description": "Microsoft Corp., in collaboration with the Wisconsin Economic Development Corporation (WEDC), the University of Wisconsin-Milwaukee (UWM) and TitletownTech announced on Wednesday the opening of an AI Co-Innovation Lab on the UWM campus. This marks Microsoft's first AI Co-Innovation Lab with a dedicated focus on manufacturing innovation.",
+      "published_utc": "2025-06-26T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d506d7b5dc9e08b55be0379440d87b3c0bea906ef2b02becc77dae216db4cba5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533477,
+      "datetime": 1750887000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:31.323252+00:00",
+    "cache_key": "news_7d301fcc5a78a1e98804ef70391c0d70",
+    "count": 5
+  }
+}

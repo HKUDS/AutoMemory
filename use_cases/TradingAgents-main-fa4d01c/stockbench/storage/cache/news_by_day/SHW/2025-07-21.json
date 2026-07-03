@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Donald Trump faces frosty reception on Aberdeen golf trip",
+      "description": "Hello and welcome to the working week.I must start with a thank you to my colleague Harvey for stepping in for me last week while I took an early...",
+      "published_utc": "2025-07-21T01:15:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2132ae185d24825223cdc381127f84a04e75c83395b1a98096b52d9e842a814",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136022911,
+      "datetime": 1753031710
+    }
+  ]
+}

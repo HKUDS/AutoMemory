@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Are Investors Undervaluing The Travelers Companies (TRV) Right Now?",
+      "description": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "published_utc": "2025-05-07T21:40:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f4b43e17e57f3ea5a13bbbd61e4774f905955b1c01a5dbf1ef2c1874b3460da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134317138,
+      "datetime": 1746625211
+    }
+  ]
+}

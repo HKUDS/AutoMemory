@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Materials Companies Trade Lower -- Materials Roundup",
+      "description": "Materials Companies Trade Lower -- Materials Roundup",
+      "published_utc": "2025-02-27T01:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=343a1171b35aef709edd92d1c37e03b3c691d988cdf0c7f07e8ce6d2dd7119f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132886297,
+      "datetime": 1740591960
+    }
+  ]
+}

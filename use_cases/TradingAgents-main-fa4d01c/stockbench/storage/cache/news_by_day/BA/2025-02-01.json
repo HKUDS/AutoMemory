@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "ca47db7d43e7d4df8d8f57fdefb41a061364a9acf3690d50ffdb7d3553f20386",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Archer Aviation Stock a Buy Now?",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-02-01T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/is-archer-aviation-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "ACHR",
+        "ACHR.WS",
+        "BA",
+        "BApA",
+        "LMT",
+        "NOC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805524/midnight-side-profile-on-tarmac.jpg",
+      "description": "Archer Aviation is developing electric vertical takeoff and landing (eVTOL) aircraft for urban air mobility, with plans to launch air taxi services in the UAE and US. The company has also partnered with Anduril to develop aircraft for defense applications, which could be a significant revenue driver. While Archer is still pre-revenue, the market potential for urban air mobility is substantial, and the company's progress in aircraft development and certification is promising.",
+      "keywords": [
+        "Archer Aviation",
+        "eVTOL",
+        "urban air mobility",
+        "Anduril",
+        "defense applications"
+      ],
+      "insights": [
+        {
+          "ticker": "ACHR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Archer Aviation is making significant progress in developing its eVTOL aircraft, with plans to launch air taxi services in the UAE and US. The company's partnership with Anduril for defense applications also presents a promising revenue opportunity. While the company is still pre-revenue, the market potential for urban air mobility is substantial, and Archer's development efforts are promising."
+        },
+        {
+          "ticker": "ACHR.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Archer Aviation is making significant progress in developing its eVTOL aircraft, with plans to launch air taxi services in the UAE and US. The company's partnership with Anduril for defense applications also presents a promising revenue opportunity. While the company is still pre-revenue, the market potential for urban air mobility is substantial, and Archer's development efforts are promising."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Boeing's performance or outlook."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Boeing's performance or outlook."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Lockheed Martin is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Lockheed Martin's performance or outlook."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Northrop Grumman is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Northrop Grumman's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

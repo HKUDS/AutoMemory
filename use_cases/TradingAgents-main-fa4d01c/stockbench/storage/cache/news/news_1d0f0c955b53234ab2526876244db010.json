@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "New to Investing? This 1 Finance Stock Could Be the Perfect Starting Point",
+      "description": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Focus List.",
+      "published_utc": "2025-01-01T22:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa8640627be06688232ee52875a863dd5faea2f74417d3346d21b6bcbef5a0f0",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132229140,
+      "datetime": 1735741802
+    },
+    {
+      "title": "Is JPMorgan Diversified Return Emerging Markets Equity ETF (JPEM) a Strong ETF Right Now?",
+      "description": "Smart Beta ETF report for JPEM",
+      "published_utc": "2025-01-01T19:20:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cc8dc03155d1739a4d265a6908880d8c5713d72cd50a3c402bcef6bcf196997",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132229142,
+      "datetime": 1735730407
+    },
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Is Due To Pay A Dividend Of $1.25",
+      "description": "The board of JPMorgan Chase & Co. ( NYSE:JPM ) has announced that it will pay a dividend on the 31st of January, with...",
+      "published_utc": "2025-01-01T02:13:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1d06a349de8aa66b8c766a4380ffc07f5a0c0dceec374446a72b9b585b3cb7a",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/393a21695c25a8a00f631cfd22c3f87a",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132217317,
+      "datetime": 1735668781
+    },
+    {
+      "title": "Fewer rate cuts will boost banks in 2025. Here's how.",
+      "description": "The Federal Reserve has reduced its projected interest rate cuts for 2025 to just two cuts. While broader markets reacted negatively to fewer anticipated rate cuts, slower monetary policy appears to be bullish for the banking sector. Yahoo Finance Reporter David Hollerith analyzes how this more gradual approach to rate cuts could benefit big banks, particularly focusing on its potential positive impact on major banks' profit margins. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here. This post was written by Angel Smith",
+      "published_utc": "2024-12-31T23:43:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77be013904981a9fe466b79b3c73fbd9febb4537f0182b4f8e66778a11d6e0fa",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lRUvvsCp.htskGDIrd.6dQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b73e98e0-c787-11ef-bffd-9e2256fe3737",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132216010,
+      "datetime": 1735659818
+    },
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Best Dividend Stock of 2024?",
+      "description": "We recently compiled a list of the Top 20 Dividend Stocks of 2024. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against the other dividend stocks. Macroeconomic factors have weighed on US stocks in the final days of the year, with the broader market declining by […]",
+      "published_utc": "2024-12-31T18:50:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6da78f7bd201ff58bc51d817303060491751514862c1e1e1ef9dad6f54c48e2a",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0BwlrHHssSozZHQNtMcVwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f82652d0e7c350dea8b9d7c85e94e30e",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132213675,
+      "datetime": 1735642206
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:16:40.236020+00:00",
+    "cache_key": "news_1d0f0c955b53234ab2526876244db010",
+    "count": 5
+  }
+}

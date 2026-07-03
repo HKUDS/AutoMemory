@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Mark Cuban Corrects Elizabeth Warren As She Slams JNJ, PFE For Higher Prices And Zero Taxes On Big Pharma: 'PBMs Corrupt Healthcare'",
+      "description": "A heated debate over the U.S. healthcare system erupted on X, pitting billionaire entrepreneur Mark Cuban against Sen. Elizabeth Warren (D-Mass) over the root causes of soaring drug prices. What Happened: The clash, unfolding as of Friday, has ...",
+      "published_utc": "2025-06-22T02:01:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=229a704315850195cad9b613efdfd2c00caa7a80abc512d9eee73eec7b626963",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135457509,
+      "datetime": 1750528886
+    },
+    {
+      "title": "JNJ’s Consistent Payout Makes It a Top Pick for Down Markets",
+      "description": "Johnson & Johnson (NYSE:JNJ) is among the best dividend stocks for a bear market. The company is facing a combination of slow revenue growth, unresolved legal battles over talc products, and looming drug price negotiations under new Medicare rules. These issues could weigh on investor sentiment and profitability in the near term. Despite current challenges, […]",
+      "published_utc": "2025-06-21T12:12:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4504dea7105be429c15605ff28a92a5c9a6acdd3f9db20b8461880c1238b7ec4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135447341,
+      "datetime": 1750479133
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:49.737922+00:00",
+    "cache_key": "news_0ca5b42f725ac37f8dc91846a93736d6",
+    "count": 2
+  }
+}

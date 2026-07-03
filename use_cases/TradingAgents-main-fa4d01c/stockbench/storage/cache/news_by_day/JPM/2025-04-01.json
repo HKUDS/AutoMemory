@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JPM: Sell Ahead Of Earnings",
+      "description": "JPMorgan Chase outperformed the U.S. bank index, owing to its high-quality franchise. Read more about JPM stock here.",
+      "published_utc": "2025-04-01T23:50:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cde38dfaade85ea56bd322307e319a5ed87a6c04611f2111afd7dd4a9570e5fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/880121294/image_880121294.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133655868,
+      "datetime": 1743522649
+    },
+    {
+      "title": "JPMorgan Private Markets Fund (JPMF) is Added to the Schwab Alternative Investment OneSource® Platform",
+      "description": "J.P. Morgan Asset Management has announced that its JPMorgan Private Markets Fund has been added to the Schwab Alternative Investment OneSource platform.",
+      "published_utc": "2025-04-01T22:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6b2dd4f7d80f85fcefb60c6015c2eb76e19bcb3af5ddfe2c1dbec931d2ae6b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645185,
+      "datetime": 1743518040
+    }
+  ]
+}

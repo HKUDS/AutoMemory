@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Ariel Investments Focused Value Q4 2024 Commentary",
+      "description": "In the fourth quarter, Ariel Focused Value outperformed the Russell 1000 Value Index, marginally falling -0.76% gross of fees (-0.85% net of fees) versus -1.98% for its primary benchmark.",
+      "published_utc": "2025-02-23T16:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aea6e9af28b6f15e4e6fcc70e1cb49908fc8e7872efcf10d9c28fd6ad62205c1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132857394,
+      "datetime": 1740298620
+    },
+    {
+      "title": "Ariel Investments Mid Cap Value Q4 2024 Commentary",
+      "description": "Ariel Mid Cap Value Composite delivered 0.00% gross of feesÂ (-0.14% net of fees) for the quarter, outpacing the Russell Midcap Value Indexâs -1.75% return. Read more here.",
+      "published_utc": "2025-02-23T15:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b37370a7b9a82a1119578dd7503409ffe18f9d5320086ea470ce76e9d06f2b91",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1305707642/image_1305707642.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132857227,
+      "datetime": 1740295860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:10:17.855346+00:00",
+    "cache_key": "news_27a23f293d8c32b3c6c1814b6cee58c0",
+    "count": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Netflix & UnitedHealth earnings, housing data: What to Watch",
+      "description": "Key earnings from Taiwan Semiconductor (TSM), UnitedHealth Group (UNH), American Express (AXP), and Netflix (NFLX) are set to be released Thursday, with Netflix no longer reporting its quarterly subscriber numbers. March housing data is also due, with economists forecasting declines in starts and permits. Meanwhile, markets are watching for more Federal Reserve commentary after Fed Chairman Jerome Powell’s remarks on Wednesday deepened a sell-off. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-17T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7e06ebce9438e512131946dbdb49bf306fa7ea6e3d7e5c4e211649e5ee035dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942500,
+      "datetime": 1744844400
+    },
+    {
+      "title": "Triumph Financial (TFIN) Q1 Earnings and Revenues Lag Estimates",
+      "description": "Triumph Financial (TFIN) delivered earnings and revenue surprises of -33.33% and 2.80%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "published_utc": "2025-04-17T05:20:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8f2bfa2d4f2649143b4b2cb5e361ed137b67aab5178b2a4e25e400cddfd66a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942616,
+      "datetime": 1744838402
+    },
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares tick lower on Powell comments",
+      "description": "",
+      "published_utc": "2025-04-17T04:26:28",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=f732a8103b4e6a54c88cbdd087f6027c4f44754ce4129ab9bc194ba802bd8838",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133937410,
+      "datetime": 1744835188
+    },
+    {
+      "title": "American Express (NYSE:AXP) Sees 11% Price Rise Over The Last Week",
+      "description": "American Express (NYSE:AXP) observed an 11% rise in its stock price over the last week, a period marked by broader market traction with an 8% overall market gain. While the focus was primarily on a strong market showing, the company's performance occurred amid broader economic discussions like U.S. chip export restrictions to China impacting tech stocks. Notably, American Express appeared resilient during a time when other sectors faced headwinds, although specific period events related to...",
+      "published_utc": "2025-04-17T01:35:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00e2bf53f703d8707c74b113a5671593ab75aa1a45785f1199cd67dbd4ed488d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942617,
+      "datetime": 1744824938
+    },
+    {
+      "title": "American Express Co. stock underperforms Wednesday when compared to competitors",
+      "description": "American Express Co. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-04-17T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=46bf7735ed83deafeabf6f661d8c96ebba4e0a5b3cc75fb31d2bf27e8acbb780",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133947528,
+      "datetime": 1744821240
+    }
+  ]
+}

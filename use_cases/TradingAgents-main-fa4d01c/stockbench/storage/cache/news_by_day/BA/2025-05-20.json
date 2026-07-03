@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "DAL vs. LUV: Which Airline Stock is a Stronger Play Now?",
+      "description": "Both DAL and LUV are being hit by tariff risks. Read on to know which company holds an edge now.",
+      "published_utc": "2025-05-20T22:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b72950cbe2210b8954b4318524e7f96c295e5f1422ab087e6a9e53ce6e6c3269",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628461,
+      "datetime": 1747750800
+    },
+    {
+      "title": "Qatar denies Trump’s $400m luxury plane is a bribe",
+      "description": "The prime minister of Qatar has denied that that a $400m (£300m) plane given to Donald Trump was a bribe.",
+      "published_utc": "2025-05-20T19:43:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2edb3144320cbd27c2867f2d9fad0d1028715103cc846e46cbe60dbe86bb17a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609178,
+      "datetime": 1747741400
+    }
+  ]
+}

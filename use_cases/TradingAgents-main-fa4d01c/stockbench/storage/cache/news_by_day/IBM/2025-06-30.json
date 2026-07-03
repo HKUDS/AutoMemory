@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Blockchain Technology Market to USD 687.4Billion by 2032, owing to enterprise digital transformation | SNS Insider",
+      "description": "Accelerated enterprise adoption and integration across sectorsPune, June 30, 2025 (GLOBE NEWSWIRE) -- “The SNS Insider report indicates Blockchain Technology Market size was valued at USD 19.2 billion in 2023 and estimated at USD 687.4 billion in 2032, growing at a CAGR of 48.84% from 2024 to 2032.” The U.S. Blockchain Technology Market was valued at USD 5.6 billion in 2023 and is projected to reach USD 199.3 billion by 2032, growing at a CAGR of 48.68 % during 2024–2032. Enterprise adoption, Fi",
+      "published_utc": "2025-06-30T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96c0d0023ad831cfbbf03a1868e415ffe552b13370671fdcd27c15f179ce3c43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671177,
+      "datetime": 1751292000
+    },
+    {
+      "title": "Profound Logic Wins AI Breakthrough Award For “Low Code AI Solution of the Year”",
+      "description": "Prestigious International Annual Awards Program Honors Standout AI Companies & SolutionsLOS ANGELES, June 30, 2025 (GLOBE NEWSWIRE) -- AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that Profound Logic, a leader in IBM i futurization, has been selected as winner of the “Low Code AI Solution of the Year” in the 8th annual AI Breakthrough Awards program. The",
+      "published_utc": "2025-06-30T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5567018fbc0ceb96690d3ebbb8cbb12c9053f4893909e3bff60e922578fbb4eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671508,
+      "datetime": 1751284800
+    },
+    {
+      "title": "Behind IBM’s Boldest Bet: The Quantum Test Lab",
+      "description": "IBM wants to redefine the future of computing. And inside this ultra-cold, high-tech lab, it’s betting everything on a technology that doesn’t just push the limits of physics—it rewrites them. Welcome to IBM’s Quantum Lab: where the world’s oldest tech company is making its boldest bet yet.",
+      "published_utc": "2025-06-30T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccbbc19cd9b2bd94d46b2e818fbbe88a068c1ac23b41d8165355df8a46f5475d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671507,
+      "datetime": 1751284800
+    }
+  ]
+}

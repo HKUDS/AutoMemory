@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM) Presents at Morgan Stanley Technology, Media & Telecom Conference (Transcript)",
+      "description": "",
+      "published_utc": "2025-03-05T02:26:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9f5b42eda99f65fdf77959b3fb66cb6104a831045aca1b6e60f06af7a48320a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132987996,
+      "datetime": 1741112794
+    }
+  ]
+}

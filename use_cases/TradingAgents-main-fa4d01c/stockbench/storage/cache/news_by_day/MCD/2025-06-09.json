@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Faces Better Quarters but Structural Headwinds Could Sustain, Morgan Stanley Says",
+      "description": "McDonald's (MCD) is likely to record relatively better next few quarters but faces structural headwi",
+      "published_utc": "2025-06-09T23:40:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71136039945945e0edb8087f582f6e424b8aff57bc563b0e0229d88678cb688f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135144381,
+      "datetime": 1749483640
+    },
+    {
+      "title": "MS downgrades McDonald’s on limited upside and structural pressures on fast food",
+      "description": "Investing.com -- Morgan Stanley downgraded McDonald’s (NYSE:MCD) Corp to Equal-weight from Overweight, saying the fast-food giant’s stock already reflects much of its near-term improvement, while longer-term challenges remain.",
+      "published_utc": "2025-06-09T22:55:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6e99af91e674c52ba5439776d638c704bea397a4124ca436280288280fc9412",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135133971,
+      "datetime": 1749480918
+    },
+    {
+      "title": "Stocks climb, dollar dips with US-China trade talks eyed",
+      "description": "Global stocks climbed onMonday while the dollar retreated as talks began in Londonbetween the United States and China, aimed at cooling a tradedispute between the world's two largest economies. ...",
+      "published_utc": "2025-06-09T22:54:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f389a67fde0aa2c0f7d4c221c9a0cd6667ab788b1b94eadd0a5fdac64023fdeb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138545,
+      "datetime": 1749480852
+    },
+    {
+      "title": "Stocks climb, dollar dips as US-China talks in focus",
+      "description": "Global stocks climbed onMonday while the dollar retreated as talks began in Londonbetween the United States and China, aimed at cooling a tradedispute between the world's two largest economies. ...",
+      "published_utc": "2025-06-09T22:54:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9fcf7726e1772a24ac454fcbb0607dfe24c85e2b34552d8b46d8d9fb3da67b2c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137751,
+      "datetime": 1749480852
+    }
+  ]
+}

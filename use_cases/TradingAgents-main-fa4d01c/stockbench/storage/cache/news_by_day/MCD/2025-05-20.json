@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "A Look At The Intrinsic Value Of McDonald's Corporation (NYSE:MCD)",
+      "description": "Key Insights Using the 2 Stage Free Cash Flow to Equity, McDonald's fair value estimate is US$347 With US$321 share...",
+      "published_utc": "2025-05-20T20:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1613b4a4b7596fa385e364d772cbcd99c76a462478526cc90613e3fd77fa8e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609112,
+      "datetime": 1747742412
+    },
+    {
+      "title": "Tariff-Driven Dollar Woes Help Brighten First-Quarter Earnings",
+      "description": "(Bloomberg) -- Tariffs unexpectedly devaluing the US dollar — and in turn boosting corporate earnings — was one of the few bright spots of the first-quarter earnings season in North America. Most Read from BloombergAmerica, ‘Nation of Porches’NJ Transit Train Engineers Strike, Disrupting Travel to NYCNJ Transit Makes Deal With Engineers, Ending Three-Day StrikeContrary to what analysts and executives had expected at the beginning of the year, a Bloomberg gauge of the dollar has collapsed in rece",
+      "published_utc": "2025-05-20T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be5762e94995a93f581ef53fe649117041668eb320f0ce05ed933bcc1ef1867d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608890,
+      "datetime": 1747742400
+    },
+    {
+      "title": "Krispy Kreme sued by investors over McDonald’s rollout pause",
+      "description": "The lawsuit claims the chain failed to disclose profitability issues it was having with the QSR partnership, which subsequently led to a steep decline in stock prices after Q1 2025 earnings.",
+      "published_utc": "2025-05-20T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cee953d84adb194b0ca9afffd8152f98ce57249463bc4bba4c482882b7921280",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628335,
+      "datetime": 1747740600
+    }
+  ]
+}

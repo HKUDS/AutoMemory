@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Amazon, Circle, Palantir, Tesla Rally Ahead Of Key Inflation Reports",
+      "description": "Dow Jones Futures: Amazon, Circle, Palantir, Tesla Rally Ahead Of Key Inflation Reports",
+      "published_utc": "2025-06-10T05:24:58",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=8eced70fb5eb9701f3c51d4e0086f07036f1a67700010170b244058dfd461b60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135150058,
+      "datetime": 1749504298
+    },
+    {
+      "title": "Top Stock Reports for Amazon.com, Walmart & Cisco Systems",
+      "description": "Zacks spotlights AMZN, WMT and CSCO, each navigating growth and headwinds as AI, tariffs and recurring revenue reshape outlooks.",
+      "published_utc": "2025-06-10T04:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efad5ac60efee91d2746321893c78d92ea272987d011e7862762725777998ad6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139357,
+      "datetime": 1749502560
+    },
+    {
+      "title": "Amazon wants to become a global marketplace for AI",
+      "description": "As the global AI race heats up, Amazon Web Services doubles down on its bet that every model should get a seat at the table.",
+      "published_utc": "2025-06-10T04:49:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8bc0210683d61078d51dde22abd8834b2a8b3e5545f51c821aeee0c74a77f43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139674,
+      "datetime": 1749502187
+    },
+    {
+      "title": "Amazon, Cameco, Universal Health Services: Trending Tickers",
+      "description": "Amazon (AMZN) is investing $20 billion in Pennsylvania data centers as Big Tech companies work to expand artificial intelligence (AI) infrastructure. Cameco (CCJ) stock surges after Westinghouse Electric Corporation, a company of which Cameco owns a significant portion, increased its EBITDA outlook for the next year and signed a nuclear deal. Universal Health Services (UHS) stock is falling after the company's CFO, Steve Filton, said that patients are spending longer in the hospital than they did pre-COVID. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-10T04:22:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=174a69b98e58fa39041c7d8cbab4ede47213e46694a6ef2e7a18dd6052a3f9c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140201,
+      "datetime": 1749500527
+    },
+    {
+      "title": "Whole Foods Distributor United Natural Foods Stock Dives on Cyberattack News",
+      "description": "Shares of United Natural Foods sank Monday after the company said its business operations were disrupted by \"unauthorized activity\" on its IT systems.",
+      "published_utc": "2025-06-10T02:26:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36aa159b802c8b2713f86b9a1f8303e259016fa44b900b3a2ea1402ac100d4bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140857,
+      "datetime": 1749493588
+    }
+  ]
+}

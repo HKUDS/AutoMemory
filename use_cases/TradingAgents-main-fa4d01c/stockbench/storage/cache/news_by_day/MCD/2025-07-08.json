@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "McDonald's: U.S. Traffic Recovery Delayed",
+      "description": "McDonald's strategic strengths are offset by U.S. traffic and value-mix dilution. See why we are initiating MCD stock at a Hold with a $329 target.",
+      "published_utc": "2025-07-08T07:30:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a39b42aa26962c32cfeaff4432eb420a9280fc1692428fed4cb76b8febd70d65",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209928795/image_2209928795.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792844,
+      "datetime": 1751931013
+    },
+    {
+      "title": "4 Disney Collectibles Expected To Skyrocket in Value Before 2025 Ends",
+      "description": "The Disney collectibles market has long captured the hearts (and wallets) of fans around the world. But in 2025, demand is reaching new heights, and the numbers back it up. Read More: 7 McDonald's...",
+      "published_utc": "2025-07-08T05:39:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46c149f76d9b559de8bf699bcee50aa2bed100e2debdadee83a718037e0f9188",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135803953,
+      "datetime": 1751924372
+    }
+  ]
+}

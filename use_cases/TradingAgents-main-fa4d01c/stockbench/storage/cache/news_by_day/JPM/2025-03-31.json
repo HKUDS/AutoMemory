@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble, Johnson & Johnson Among 10 Companies To Announce Dividend Increases In First Half Of April",
+      "description": "Discover predictions for upcoming dividend increases from top companies with long-term growth. Learn which stocks to watch this April.",
+      "published_utc": "2025-03-31T01:52:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5503695869030fb0a8e79bf30a7a19ee6be98c31dc0ee9344d42df26b3dffc3b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/483171344/image_483171344.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133620751,
+      "datetime": 1743357133
+    }
+  ]
+}

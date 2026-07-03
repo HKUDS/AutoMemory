@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "title": "AI makes further inroads into the mainframe ecosystem",
+      "description": "Capgemini and Rocket Software each rolled out automation tools to help enterprises manage and modernize legacy infrastructure last week.",
+      "published_utc": "2025-05-19T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b799db55ec8aa19b779e2c90458ef5bd8118d39da567d39563e513e38a08d87",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577266,
+      "datetime": 1747638000
+    },
+    {
+      "title": "Globant: Thoroughly Discounted For A 2026 Rebound",
+      "description": "Globant faces near-zero growth in 2025 due to macro headwinds and delayed IT spending, but this slowdown is sector-wide. Read my analysis.",
+      "published_utc": "2025-05-19T15:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42fc4357584a2c3ac367744b970b9a1293934d7a0350f3cee6b961908822c7ec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1933417108/image_1933417108.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134576510,
+      "datetime": 1747638000
+    },
+    {
+      "id": "e38467b0469904d6495ab032d7b9bb61af9911c9ff0be127a19bb1154210fd44",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Adaptive AI Market to Reach USD 33.6 Billion by 2032, Driven by Demand Across Healthcare, Finance, and Manufacturing | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-05-19T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/19/3084133/0/en/Adaptive-AI-Market-to-Reach-USD-33-6-Billion-by-2032-Driven-by-Demand-Across-Healthcare-Finance-and-Manufacturing-SNS-Insider.html",
+      "tickers": [
+        "IBM",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "NVDA",
+        "INTC",
+        "SAP",
+        "ORCL",
+        "SIEGY",
+        "CSCO",
+        "CRM",
+        "META",
+        "HPE",
+        "HPEpC",
+        "ACN",
+        "AI"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Adaptive AI market is rapidly expanding, driven by growing demand for sophisticated AI solutions in industries like healthcare, finance, and manufacturing. The market is expected to reach USD 33.6 billion by 2032, reflecting a robust CAGR of 44.80% from 2024 to 2032.",
+      "keywords": [
+        "Adaptive AI",
+        "Healthcare",
+        "Finance",
+        "Manufacturing",
+        "Automation",
+        "Decision-making"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a major player in the Adaptive AI market with its IBM Watson AI solution, indicating the company's strong presence and capabilities in this growing market."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's Azure AI is mentioned as a key player in the Adaptive AI market, showcasing the company's involvement and investment in this technology."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google Cloud AI is highlighted as a major player in the Adaptive AI market, demonstrating the company's focus on developing advanced AI solutions."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google Cloud AI is highlighted as a major player in the Adaptive AI market, demonstrating the company's focus on developing advanced AI solutions."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AWS AI Services are mentioned as a key player in the Adaptive AI market, indicating Amazon's participation in this growing industry."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NVIDIA's AI Enterprise solution is listed as a major player in the Adaptive AI market, highlighting the company's expertise and leadership in AI hardware and software."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel's OpenVINO is mentioned as a key player in the Adaptive AI market, showcasing the company's involvement in developing AI-powered solutions."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP's AI Core is highlighted as a major player in the Adaptive AI market, indicating the company's focus on integrating AI capabilities into its enterprise software solutions."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's AI solution is listed as a key player in the Adaptive AI market, demonstrating the company's efforts to develop advanced AI capabilities."
+        },
+        {
+          "ticker": "SIEGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Siemens' Industrial AI is mentioned as a major player in the Adaptive AI market, showcasing the company's focus on integrating AI into its industrial solutions."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco's AI Analytics solution is highlighted as a key player in the Adaptive AI market, indicating the company's involvement in developing AI-powered networking and analytics tools."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's Einstein AI is mentioned as a major player in the Adaptive AI market, showcasing the company's efforts to integrate AI capabilities into its customer relationship management platform."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta's AI solution is listed as a key player in the Adaptive AI market, demonstrating the company's focus on developing advanced AI technologies."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's Ezmeral AI is mentioned as a major player in the Adaptive AI market, indicating the company's involvement in providing AI-powered solutions for enterprises."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's Ezmeral AI is mentioned as a major player in the Adaptive AI market, indicating the company's involvement in providing AI-powered solutions for enterprises."
+        },
+        {
+          "ticker": "ACN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Accenture's AI solution is highlighted as a key player in the Adaptive AI market, showcasing the company's expertise in developing and implementing AI-powered business solutions."
+        },
+        {
+          "ticker": "AI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "C3.ai's AI Suite is listed as a major player in the Adaptive AI market, demonstrating the company's focus on providing comprehensive AI-powered solutions for enterprises."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:31.528231+00:00",
+    "cache_key": "news_9a6b9439dc9409903746359844e1b420",
+    "count": 3
+  }
+}

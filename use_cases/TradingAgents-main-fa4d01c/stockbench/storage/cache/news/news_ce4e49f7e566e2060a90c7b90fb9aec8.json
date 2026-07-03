@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Hedge Fund Millennium in talks with Goldman's Petershill Partners on stake sale, FT reports",
+      "description": "Hedge fund Millennium Management is in talks with Goldman Sachs' Petershill Partners to identify potential buyers for a minority stake in its management company, the Financial Times reported on Wednesday. Potential buyers could include some of Millennium's largest investors, the FT reported, citing people familiar with the matter. However, Millennium might ultimately decide not to work with Petershill, the FT added.",
+      "published_utc": "2025-05-08T04:29:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=665a08d3a199794fadef8caa55217bd5cb62717a23ca04de270273b97466251c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316842,
+      "datetime": 1746649748
+    },
+    {
+      "title": "Is The Goldman Sachs Group, Inc. (GS) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the […]",
+      "published_utc": "2025-05-08T02:02:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9586e4b407eff13325812b0a172c20a5436313dda9c458df7db1cdc9f006e31",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316843,
+      "datetime": 1746640963
+    },
+    {
+      "title": "Hartford Balanced Income Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-08T00:56:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=96a7906ceb9b4dcad22b47b4b1a9bb2f2d2c80e6ad8a47f60cf572ffd8191537",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134308335,
+      "datetime": 1746636960
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights The Goldman Sachs, JPMorgan and Morgan Stanley",
+      "description": "The Goldman Sachs, JPMorgan and Morgan Stanley are part of the Zacks top Analyst Blog.",
+      "published_utc": "2025-05-07T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11e1812263d53412b178118c0aa55db436e3b2dfcc5f1b610370e7c4e82d1e11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316660,
+      "datetime": 1746623100
+    },
+    {
+      "title": "Investors Heavily Search The Goldman Sachs Group, Inc. (GS): Here is What You Need to Know",
+      "description": "Goldman (GS) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-05-07T21:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b4a59fd7b82e30ea397dc415e13bcad39bbc300794da323793fd148eb68f25f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316845,
+      "datetime": 1746622811
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:44.945926+00:00",
+    "cache_key": "news_ce4e49f7e566e2060a90c7b90fb9aec8",
+    "count": 5
+  }
+}

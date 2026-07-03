@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "The Global Growth Engine: 2025 And Beyond",
+      "description": "Going into 2025, the PGM remains strong, with the potential for other regions to start closing the gap with the United States. Click to read.",
+      "published_utc": "2025-03-05T20:58:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9b384deb1ae51345c2d590cb8c406263c38ddf744b4c758a3ea58e7e0daed9e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1943639081/image_1943639081.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133016394,
+      "datetime": 1741179480
+    },
+    {
+      "title": "FTEC: Buy The Tech Correction, NVIDIA Events On Tap (Rating Upgrade)",
+      "description": "FTEC, with $12.5 billion AUM, has a low expense ratio and focuses on large-cap growth stocks like Apple, NVIDIA, and Microsoft, which are key for its performance. Read more here.",
+      "published_utc": "2025-03-05T18:54:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=61bcc9fd040d2749f9c54f8b37aa13edf7c4eac84f8e3309c6cfe57e245d7229",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/185108607/image_185108607.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133015645,
+      "datetime": 1741172087
+    },
+    {
+      "title": "YouTube brings cheaper subscription tier to US with no ads, except for music",
+      "description": "Alphabet's YouTube on Wednesday rolled out a $7.99 monthly subscription service that is ad-free for most videos, except music, to create a plan to compete more directly with offerings from Netflix and...",
+      "published_utc": "2025-03-05T17:48:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=37deb11a3ed0994ac71cc73ebee77eb74223f83ad0a70037b6acd94ed1293350",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133015230,
+      "datetime": 1741168090
+    }
+  ]
+}

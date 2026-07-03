@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "20 Kiplinger July Dividend Favorites: No Cigars",
+      "description": "",
+      "published_utc": "2025-07-27T19:45:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba2107d89171f2750e63236a717602fafce3448a1abd4960630a2ea4c7420659",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100985,
+      "datetime": 1753616739
+    },
+    {
+      "title": "Federal Reserve meeting, July jobs report, and Big Tech earnings: What to watch this week",
+      "description": "The stock market is at record highs as investors brace for what's expected to be the busiest week of the summer on Wall Street.",
+      "published_utc": "2025-07-27T19:37:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bf93a106db71e6d69c6f44ad5c19a5bbba0b26e66f32c58a2cfda3518507333",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101520,
+      "datetime": 1753616276
+    },
+    {
+      "title": "Wall Street Week Ahead (Update)",
+      "description": "",
+      "published_utc": "2025-07-27T17:53:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6d908604d4bb3aa1f7c598923d7d9fee81d97cae34684502fd2575006627ddfd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100655,
+      "datetime": 1753609980
+    }
+  ]
+}

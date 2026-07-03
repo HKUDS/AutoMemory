@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dogs Of The Dow Chase April's 'Safer' Buy",
+      "description": "",
+      "published_utc": "2025-04-01T20:05:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feed9044f044f2d4cb8422e3537e5db1ce869843f4c4367a375d4fa0a997d66",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133646857,
+      "datetime": 1743509147
+    },
+    {
+      "title": "Home Depot : Foundation Kicks Off National Volunteer Month with Service Projects for Veterans",
+      "description": "In celebration of National Volunteer Month, The Home Depot Foundation and Team Depot, The Home Depot's associate volunteer force, are rolling up their sleeves to give back to veterans and local...",
+      "published_utc": "2025-04-01T16:53:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=257c80748dcda7d6f3dc280bf9c750d32502432002c0545997c02eb99f59bbb7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133634958,
+      "datetime": 1743497603
+    }
+  ]
+}

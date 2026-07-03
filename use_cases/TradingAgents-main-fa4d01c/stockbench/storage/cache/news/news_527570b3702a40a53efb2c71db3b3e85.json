@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Burger King's Next Whopper Could Be Your Idea",
+      "description": "Other restaurant chains have also been focused on incorporating customer feedback into menu offerings.",
+      "published_utc": "2025-07-10T04:43:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95b3e581337a9f55a03c14dc27adca009bcb442062096b422c962732fc60bd28",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135849764,
+      "datetime": 1752093819
+    },
+    {
+      "title": "Snack Wrap redux: How McD's is refreshing its menu to lure back customers",
+      "description": "McDonald's is reviving its long-lamented Snack Wrap and leaning into affordable eats as it looks to reverse a rare sales slump.",
+      "published_utc": "2025-07-10T00:28:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f48b41576e7e2329dc02efb777ac37dbf8962b55acd0be29213d7e6a42b05060",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835834,
+      "datetime": 1752078514
+    },
+    {
+      "title": "Russia seizes $50 billion in assets as economy shifts during war in Ukraine, research shows",
+      "description": "Russian authorities haveconfiscated assets worth some $50 billion over the past threeyears, underscoring the scale of the transformation into afortress Russia economic model during the war in...",
+      "published_utc": "2025-07-09T19:41:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7b564c1e2df09f4d2d31b8bb61ccdfea533bed12a4e1a5c2564f28c36b1c1824",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835008,
+      "datetime": 1752061271
+    },
+    {
+      "title": "'Fortress Russia' has seized $50 billion in assets over 3 years, research shows",
+      "description": "Russian authorities haveconfiscated assets worth some $50 billion over the past threeyears, underscoring the scale of the transformation into afortress Russia economic model during the war in...",
+      "published_utc": "2025-07-09T19:41:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3e2d355db9a73ca386471440f8af8ef3ab4cac0d462f83a115284575b6220655",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135834844,
+      "datetime": 1752061271
+    },
+    {
+      "title": "Former McDonald's Supply Chain Leader Bob Stewart Joins FourKites' Strategic Advisory Council",
+      "description": "CHICAGO, July 09, 2025--FourKites®, the global leader in AI-driven supply chain transformation, today announced that Bob Stewart, former Senior Vice President and Chief Supply Chain Officer, North America at McDonald's, has joined its Strategic Advisory Council. Stewart brings 30 years of experience managing one of the world's most complex supply chains to FourKites' advisory council, where he will provide strategic guidance on product innovation and customer advocacy.",
+      "published_utc": "2025-07-09T19:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88cfbaece6d5de4169950de5331310d9e888cdf56a220ae7eb5f93268a812dbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835835,
+      "datetime": 1752060720
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:54.689807+00:00",
+    "cache_key": "news_527570b3702a40a53efb2c71db3b3e85",
+    "count": 5
+  }
+}

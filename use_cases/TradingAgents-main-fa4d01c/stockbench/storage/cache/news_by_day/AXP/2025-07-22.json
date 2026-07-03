@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "American Express Q2: Stunning Asset Quality Despite Uncertainty",
+      "description": "Upgrade American Express Company stock to Buy: Click for why AXP's strong Q2 results, robust loan growth, and attractive shareholder returns make it compelling.",
+      "published_utc": "2025-07-22T03:12:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f4f7b121eeb5615b169c3da8a28ae0111d7106b1ecc4c27a828e4bc29bf3872",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458652307/image_458652307.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028341,
+      "datetime": 1753125162
+    },
+    {
+      "title": "Tesla stock in search of an earnings charge: Opening Bid top takeaways",
+      "description": "Tesla bulls could use an upbeat earnings day. Same for Alphabet.",
+      "published_utc": "2025-07-22T00:31:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6126b6a72abebce63bc19c460672f81ba1084d03c70f9fbfaf14b5a264fb7a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031507,
+      "datetime": 1753115462
+    }
+  ]
+}

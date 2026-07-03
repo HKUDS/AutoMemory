@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": "a542fb182d5073b266d26b7d1a9d21c08199de6b282c6e08ad3f3a3e76931e8e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Dollar's Biggest Crash In Decades: These 7 Stocks Could Win Big",
+      "author": "Piero Cingari",
+      "published_utc": "2025-06-30T16:56:27Z",
+      "article_url": "https://www.benzinga.com/markets/forex/25/06/46175116/weaker-dollar-stocks-beneficiaries-foreign-revenue",
+      "tickers": [
+        "AVGO",
+        "CAT",
+        "EL",
+        "FCX",
+        "JBL",
+        "NKE",
+        "TXN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/06/30/Hourglass-Or-Sandglass-On-Us-Dollar-Bank.jpeg?width=1200&height=800&fit=crop",
+      "description": "The U.S. Dollar Index has plunged 10.5% year-to-date, marking its worst first-half performance since 1991. This decline benefits U.S. multinationals with strong international sales, as a weaker dollar increases their global competitiveness and boosts foreign revenue value.",
+      "keywords": [
+        "dollar",
+        "multinationals",
+        "international sales",
+        "currency",
+        "trade"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "75% international sales, +13.97% June return, strong presence in China, Singapore, and EMEA markets"
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "47% international sales, +11.74% June return, significant presence in EMEA and Asia-Pacific regions"
+        },
+        {
+          "ticker": "EL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "75% international sales, +19.30% June return, strong markets in EMEA, China, and Korea"
+        },
+        {
+          "ticker": "FCX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "69% international sales, +12.93% June return, key markets in Japan, Switzerland, and Chile"
+        },
+        {
+          "ticker": "JBL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "82.5% international sales, +29.39% June return, strong presence in Mexico, China, and Singapore"
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "58% international sales, +18.14% June return, significant markets in China, EMEA, and Latin America"
+        },
+        {
+          "ticker": "TXN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "60% international sales, +13.75% June return, key markets in China, Germany, and Japan"
+        }
+      ]
+    },
+    {
+      "title": "This Changes Everything: One Of The Most Important Shifts For Dividend Investors",
+      "description": "Inflation isn't just back, it's becoming policy. Read why I'm sharpening my focus on pricing power, hard assets, and income that's built for this new reality.",
+      "published_utc": "2025-06-30T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6717d8a1842f24e7cdc6fd6ac54bb5693c647a1fb7d3426c790987abbb7963d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171101396/image_2171101396.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135650270,
+      "datetime": 1751268600
+    },
+    {
+      "title": "3 Reasons to Sell CAT and 1 Stock to Buy Instead",
+      "description": "Caterpillar has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 5.7% to $383.80 per share while the index has gained 4.5%.",
+      "published_utc": "2025-06-30T12:03:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df088897ec348edd10ba88b24e1fadb62a009fc66e2a5a1cfcf5da27e6c6f8eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671633,
+      "datetime": 1751256198
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "2025 Travelers Championship Generates More Than $4 Million for Charity",
+      "description": "The Travelers Companies, Inc. today announced that the 2025 Travelers Championship – a PGA TOUR Signature Event – generated more than $4 million for over 215 nonprofits, both record...",
+      "published_utc": "2025-06-23T04:10:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4bb2647fb1a1a46a8e77a6cffee5f4b652bd968f993460464f6e995d4e15022c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135467244,
+      "datetime": 1750623006
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:09.297947+00:00",
+    "cache_key": "news_5d52524fc0fdeb7833cbf832c396dbc6",
+    "count": 1
+  }
+}

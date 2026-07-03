@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Meta In Talks To Invest Over $10B In Scale AI — Possibly The Biggest Private AI Deal This Year",
+      "description": "Meta (NASDAQ:META) is reportedly preparing to invest more than $10 billion in Scale AI, a startup providing high-quality labeled data to companies building next-generation AI models, including OpenAI and Microsoft (NASDAQ:MSFT). If finalized, the deal would rank among the largest private funding rounds in tech history, Bloomberg reports. San Francisco-based, Scale AI plays a pivotal role in the artificial intelligence supply chain by powering data pipelines used to train large language models li",
+      "published_utc": "2025-06-14T22:00:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3727a17bd0148c7fe0dfe6da026c7e73e6d67c3fc3affd090650eb821d17d958",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271626,
+      "datetime": 1749909646
+    },
+    {
+      "title": "JUST: ESG ETF Doing The Job, But Not The Best",
+      "description": "JUST offers ESG-focused exposure to Russell 1000 stocks with solid fundamentals but trails peers in impact, fees, and volume. Find out why JUST ETF is a hold.",
+      "published_utc": "2025-06-14T19:52:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4675da96ec78d4e7506d48cc041c9c739d55b5bb618f338e731cc767a0f41f38",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154241541/image_2154241541.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272014,
+      "datetime": 1749901948
+    },
+    {
+      "title": "Important Warning For Infrastructure Stocks: 4 Major Looming Risks",
+      "description": "Infrastructure investing offers steady cash flow and dividend growth, but faces macro risks. See why smart stock selection is key to managing that risk.",
+      "published_utc": "2025-06-14T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=924ebf5c539304f800586132cee2a3b9b71c31d656b1c9407ac22deee33089fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170470419/image_2170470419.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271816,
+      "datetime": 1749898800
+    },
+    {
+      "title": "Generational Buying Opportunity: Dividend Growth Machines For The AI Boom",
+      "description": "The AI boom may define the next decade, but most stocks are already priced for perfection. Learn why a few overlooked plays still offer a rare buying opportunity.",
+      "published_utc": "2025-06-14T18:29:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=521f4f5dc4cc136a8e0fefd6c2f1e6695b97c48e0f148acd918780a37b14a8e3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1761645896/image_1761645896.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271703,
+      "datetime": 1749896968
+    }
+  ]
+}

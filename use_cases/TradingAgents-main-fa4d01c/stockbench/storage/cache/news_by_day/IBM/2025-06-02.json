@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM Unveils Watsonx AI Labs",
+      "description": "International Business Machines Corp: * IBM UNVEILS WATSONX AI LABS: THE ULTIMATE ACCELERATOR FORAIBUILDERS, STARTUPS AND ENTERPRISES IN NEW YORK CITYSource text:Further company...",
+      "published_utc": "2025-06-02T21:25:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=27264c390b0d894027ba1249675be343ba8505736e7e324d38eaa1d7ed78904b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134951192,
+      "datetime": 1748870716
+    },
+    {
+      "title": "IT Services & Consulting Stocks Q1 Teardown: IBM (NYSE:IBM) Vs The Rest",
+      "description": "As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q1. Today, we are looking at it services & consulting stocks, starting with IBM (NYSE:IBM).",
+      "published_utc": "2025-06-02T11:33:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec147d84237a777e540b886a473274ccaeeec881bbd39e54b75d8a003d854a42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134937130,
+      "datetime": 1748835185
+    }
+  ]
+}

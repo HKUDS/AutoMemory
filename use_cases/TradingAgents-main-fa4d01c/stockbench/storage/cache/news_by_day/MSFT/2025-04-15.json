@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Microsoft (MSFT) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "Microsoft (MSFT) concluded the recent trading session at $387.81, signifying a -0.16% move from its prior day's close.",
+      "published_utc": "2025-04-15T05:45:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ea23c9323560cf14d1bb974b4e94ed37976608ba598baf214950924b04fe846",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917695,
+      "datetime": 1744667115
+    },
+    {
+      "title": "China's Harbin says US launched 'advanced' cyber attacks at Winter Games",
+      "description": "The public security bureau of China's northeastern Harbin city has accused the United States National Security Agency of launching cyber attacks ahead of its time during the Asian Winter Games in...",
+      "published_utc": "2025-04-15T05:31:46",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2a316acdec41a0cfdc8f9cd6a1ac7965405f78c1176d2708a4a4703b6d12a5d0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133910644,
+      "datetime": 1744666306
+    }
+  ]
+}

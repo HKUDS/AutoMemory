@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Wall Street sees strategic continuity as Caterpillar names Creed CEO",
+      "description": "Investing.com -- Caterpillar’s appointment of insider Joe Creed as its next chief executive, was dubbed a “well-telegraphed transition” by Wall Street that ensures strategic continuity at a pivotal time for the construction and machinery giant.",
+      "published_utc": "2025-04-15T23:15:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=695090832312c90f717bfac96fba49e81551f6d7567d0dba0832e3c14c8d2379",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133922221,
+      "datetime": 1744730102
+    }
+  ]
+}

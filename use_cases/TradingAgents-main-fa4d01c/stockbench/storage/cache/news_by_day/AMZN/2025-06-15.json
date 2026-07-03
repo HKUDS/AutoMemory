@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The \"Magnificent Seven\" Are Still Growing Faster Than the Rest of the S&P 500. Here's When That Could Change, According to Wall Street Analysts.",
+      "description": "The high valuations of most of the group could be a concern.",
+      "published_utc": "2025-06-15T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27b6d13a5859a563e15846ba0c95a8ba9a1c2b88d114a3d132db67ba4ae141a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135274105,
+      "datetime": 1749938400
+    },
+    {
+      "title": "Billionaire Bill Ackman Just Joined Warren Buffett and Cathie Wood by Adding This Monster Artificial Intelligence (AI) Stock to His Portfolio",
+      "description": "Ackman's Pershing Square Capital Management just plowed more money into another \"Magnificent Seven\" stock.",
+      "published_utc": "2025-06-15T04:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a916150849ccb2f0ee1a48a29ef605ae157590870afe168eedabb0bd01f3fdb6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135274610,
+      "datetime": 1749931740
+    }
+  ]
+}

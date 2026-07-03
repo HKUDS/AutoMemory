@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines (IBM): Among Stocks Insiders Were Piling Into Recently",
+      "description": "We recently published a list of Should You Buy the Dip and Follow Insiders into These 10 Stocks?. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other stocks insiders were piling into recently. After a turbulent week, stocks began recovering on Monday, with all […]",
+      "published_utc": "2025-03-23T04:22:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09a1f9bd43b4f32cf5f28b8ff6754f85dcd708d1fd02eca17f05d73ae98e5f0f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324762,
+      "datetime": 1742674929
+    }
+  ]
+}

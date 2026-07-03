@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Co. stock underperforms Monday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-05-06T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a6b704c38421b24fcf358b08c8ab2256a6009bd124074159958bce49ebcb4e3d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134254513,
+      "datetime": 1746462660
+    },
+    {
+      "title": "Procter & Gamble - Here's How We Keep Sustainability Front and Center for Our People",
+      "description": "Procter & Gamble - This blog post is guest authored by Virginie Helias, Chief Sustainability Officer.Sustainability is most powerful when it's deeply embedded into the way we work, think and lead. As...",
+      "published_utc": "2025-05-05T18:39:30",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8557868f9455e6b9b3f96305f3ebaeabebce4f7cbc4f2b5eb730ed71be8467bd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246515,
+      "datetime": 1746441570
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:13.667003+00:00",
+    "cache_key": "news_3b9c4a6d6dd62abb2e43dc67defa009e",
+    "count": 2
+  }
+}

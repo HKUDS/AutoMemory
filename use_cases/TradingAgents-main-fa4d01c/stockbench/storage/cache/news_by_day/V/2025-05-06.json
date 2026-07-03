@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for Alphabet, Berkshire Hathaway & Visa",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Alphabet Inc. (GOOGL), Berkshire Hathaway Inc. (BRK.B) and Visa Inc. (V), as well as a micro-cap stock bioAffinity Technologies, Inc. (BIAF).",
+      "published_utc": "2025-05-06T04:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12637df535710b4b394155317ce1e9dab71cb63881c8b41605d6cbeee688e4e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266224,
+      "datetime": 1746476580
+    }
+  ]
+}

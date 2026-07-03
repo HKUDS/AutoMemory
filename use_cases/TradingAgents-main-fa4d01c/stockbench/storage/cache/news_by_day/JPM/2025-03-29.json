@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 30",
+      "description": "Stay updated on dividend trends with a weekly summary of Dividend Champions, Contenders, and Challengers.",
+      "published_utc": "2025-03-29T09:55:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d81259496e5bef96a5d8efece4f738345e95e2f18fdc7fe0b3e58fce85ff9cc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133526802,
+      "datetime": 1743213342
+    },
+    {
+      "title": "PGIM Jennison Focused Value Fund Q4 2024 Commentary",
+      "description": "",
+      "published_utc": "2025-03-29T08:06:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=366e6cf744a8cddb0af116bc4d3af12181226e5a34a179a0f5babf04c1f1f565",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133526446,
+      "datetime": 1743206760
+    }
+  ]
+}

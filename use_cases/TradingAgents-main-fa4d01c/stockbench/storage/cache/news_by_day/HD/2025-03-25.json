@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Home Depot (HD): ‘If It Drops, BUY, BUY, BUY!’",
+      "description": "We recently published a list of 9 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other stocks on Jim Cramer’s radar. Jim Cramer, the host of Mad Money, shared his concerns on Thursday, describing the current stock market environment […]",
+      "published_utc": "2025-03-25T07:49:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5bf887316a5d591823588e8926caf821590fcbbc764829d02ddad96f2e972e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360362,
+      "datetime": 1742860170
+    }
+  ]
+}

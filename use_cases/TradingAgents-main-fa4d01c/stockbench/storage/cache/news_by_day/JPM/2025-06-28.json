@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nike, Boeing and Alphabet upgraded: Wall Street’s top analyst calls",
+      "description": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today’s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: HSBC upgraded Nike (NKE) to Buy from Hold with a price target of $80, up from $60, following the fiscal Q4 report. There is now “more than tangible evidence” that Nike has a path to see its sales rebound in the “not-too-distant future,” the analyst tells investors in a research note. Rothschild & Co Re",
+      "published_utc": "2025-06-28T22:01:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed2043f291e2bedff5d1232c22e314fcdbbe35f5b982aef6e40fe1c7e1bba984",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609655,
+      "datetime": 1751119271
+    },
+    {
+      "title": "JPMorgan: Robust Preferred Dividends Thanks To An Exceptional Performance",
+      "description": "JPMorgan's earnings demonstrate robust profitability. Read why JPM investors should look at the preferred shares from the banking giant.",
+      "published_utc": "2025-06-28T19:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9317f2bc6e3297bd271de5aa0ed1a60f126fac4da77691dc693f10092fbb442",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1541546954/image_1541546954.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609926,
+      "datetime": 1751110800
+    },
+    {
+      "title": "Payrolls And Job Openings In Focus, With Constellation Brands Set To Report Earnings",
+      "description": "Stay ahead with Seeking Alpha's Wall Street Week Ahead. Get key insights on earnings, IPOs, economic reports, and market trends.",
+      "published_utc": "2025-06-28T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=72a23662fd701221b54637b0be3895f1d338e5469ac76878987e3f086f2f18f4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609769,
+      "datetime": 1751108400
+    },
+    {
+      "title": "This guy has 45 credit cards. Here’s what you can learn from his strategy.",
+      "description": "This guy has 45 credit cards. Here’s what you can learn from his strategy.",
+      "published_utc": "2025-06-28T17:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9e8d3a641a874851525f2d34504dd1aa6b98c01394cce89bfff16353230acc60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135622588,
+      "datetime": 1751103180
+    },
+    {
+      "title": "5 Best CEFs This Month For Yields Up To 15% (June 2025)",
+      "description": "",
+      "published_utc": "2025-06-28T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e0a86f462779a4e5dc607ff8638f1066c5789e2e4e36dc6e6486fd8c5e48d456",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609180,
+      "datetime": 1751097600
+    }
+  ]
+}

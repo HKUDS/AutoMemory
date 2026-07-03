@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Canada Announces Leadership Transition",
+      "description": "McDonald's Canada today announced that Annemarie Swijtink, currently the Managing Director of McDonald's Netherlands, has been named President & Chief Executive Officer. Michèle Boudria, the current Canadian President & CEO, has announced her retirement after an impressive 40-year career with the company. The leadership changes will take effect on September 1, 2025.",
+      "published_utc": "2025-07-16T02:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ce25558badb6fe28dd5edfed3e096565e83b065a49cc9fef40d2134a535a756",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965218,
+      "datetime": 1752603300
+    },
+    {
+      "title": "KeyBanc: Sentiment positive for YUM and SHAK, Investors warming up to CMG, MCD",
+      "description": "Investing.com -- Investor sentiment in the restaurant sector is currently strongest for YUM! Brands and Shake Shack (NYSE:SHAK), according to the latest fieldwork and analysis from KeyBanc Capital Markets.",
+      "published_utc": "2025-07-16T01:04:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59f043458e55e572f1b57d5f0003115a09a2931306fcda570eb42b12985d854e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135958939,
+      "datetime": 1752599087
+    },
+    {
+      "title": "Here's What to Expect From McDonald's Next Earnings Report",
+      "description": "McDonald's is set to report its second-quarter results next month, and analysts are projecting a single-digit increase in profits.",
+      "published_utc": "2025-07-15T23:46:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aedb0e66ca3c241d9cfdccbafa7dd4e6a12e6f5ef42db68f438df0e9e71531dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965220,
+      "datetime": 1752594380
+    },
+    {
+      "title": "McDonald's Canada names Annemarie Swijtink as President & CEO",
+      "description": "McDonald's Canada: McDonald's Canada: Annemarie Swijtink named as McDonald's Canada President & CEO...",
+      "published_utc": "2025-07-15T22:38:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=50053c24b9c0782de935c2757cc792bd543b194a2b64b8c5b9d6b1379f45c207",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135954839,
+      "datetime": 1752590293
+    },
+    {
+      "title": "Jim Cramer Flags Bullish Turn on McDonald’s Stock",
+      "description": "McDonald’s Corporation (NYSE:MCD) is one of the stocks Jim Cramer shared his thoughts on. During the episode, Cramer mentioned the stock in light of Goldman Sachs’ recent coverage. He commented: “Finally, consider McDonald’s. Now, here’s another company that many managers seem to think has lost its way, with the stock going from a… positive performer […]",
+      "published_utc": "2025-07-15T13:11:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed3caf80fe6106b2330c129166aca74e46acc2343e68218b41bd57287c28a806",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936977,
+      "datetime": 1752556294
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:09.345814+00:00",
+    "cache_key": "news_a88b45f9dc78386af32877c970a50f5c",
+    "count": 5
+  }
+}

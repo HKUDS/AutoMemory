@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "2 Mega-Cap Stocks with Exciting Potential and 1 to Turn Down",
+      "description": "\"Too big to fail\" is how we would describe the megacap stocks in this article today. While they will likely stand the test of time, it’s not all sunshine and rainbows as their scale can limit their ability to find new sources of growth.",
+      "published_utc": "2025-03-05T21:06:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81f31b699ba68ce8caca85be95f02f79e4452f6cef72826c46dae20489dec9dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184540,
+      "datetime": 1741179978
+    }
+  ]
+}

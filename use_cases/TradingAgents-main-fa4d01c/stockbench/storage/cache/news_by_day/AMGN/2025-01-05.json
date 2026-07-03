@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amgen: Strong Fundamentals But Expensive Valuation Justifies A Hold",
+      "description": "Article analyzes Amgen's strong clinical progress and financials, recommending caution due to valuation and technical indicators.",
+      "published_utc": "2025-01-05T22:22:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6e2bada4590e6cb2a8a0f476dcec9117273e7206fb178f2a5f2430389dceffb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1323875427/image_1323875427.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132279730,
+      "datetime": 1736086947
+    }
+  ]
+}

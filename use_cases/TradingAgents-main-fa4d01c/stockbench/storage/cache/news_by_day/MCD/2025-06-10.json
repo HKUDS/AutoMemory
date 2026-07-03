@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s Stock Faces New Downgrade. ‘Pricing Power Has Eroded.’",
+      "description": "Morgan Stanley downgraded McDonald’s stock to Equal-Weight from Overweight, and trimmed its price target to $324 from $329.",
+      "published_utc": "2025-06-10T04:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d7757350597f4567ef2f079244014e0d3de6a0f9f560db4aed0b75007066e42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135144379,
+      "datetime": 1749500220
+    }
+  ]
+}

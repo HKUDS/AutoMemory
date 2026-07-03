@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "AMGEN ANNOUNCES WEBCAST OF 2025 FIRST QUARTER FINANCIAL RESULTS",
+      "description": "Amgen (NASDAQ:AMGN) today announced that it will report its first quarter 2025 financial results on Thursday, May 1, 2025, after the close of the U.S. financial markets. The announcement will be followed by a conference call with the investment community at 4:30 p.m. ET. Participating in the call from Amgen will be Robert A. Bradway, chairman and chief executive officer, and other members of Amgen's senior management team.",
+      "published_utc": "2025-04-29T04:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2d0230ae7b6093d6727572f28a3a2ed55bbf940599cdd33bc864111384d74ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131142,
+      "datetime": 1745870460
+    },
+    {
+      "title": "Zymeworks: A Strong Buy With Newly-Approved Cancer Drug, Excellent Financials, And Expansive Pipeline",
+      "description": "Zymeworks receives Strong Buy rating, driven by FDA-approved Ziihera, advancing R&D, strong partnerships, and financial health.",
+      "published_utc": "2025-04-29T01:33:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a4bccbebae64b2288cd7ad17e1db731193cbf06cd0ff56fd86ad9036211ba03b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160714898/image_2160714898.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134119553,
+      "datetime": 1745861583
+    },
+    {
+      "title": "Will These 5 Big Drug Stocks Surpass Q1 Earnings Forecasts?",
+      "description": "Let's look at five pharma and drug companies, PFE, LLY, AMGN, BIIB and REGN, which are scheduled to release their first-quarter 2025 results later this week.",
+      "published_utc": "2025-04-29T00:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0baf42e6b97681e5c18609832f6de6672ad5abe20f1451bccc8d6c2b17fbbd65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130904,
+      "datetime": 1745856480
+    },
+    {
+      "title": "Eli Lilly, Pfizer Risk Billions in Losses From Trump's 25% Pharma Tariffs",
+      "description": "Trump's Pharma Tariff Plan Could Cost Eli Lilly, Pfizer, Amgen $51B a Year",
+      "published_utc": "2025-04-28T23:20:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58fa783b95fdbb9abba48ed042be0996576e0fead0d7d94b3f2706f98374e7e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115299,
+      "datetime": 1745853637
+    },
+    {
+      "title": "Amgen (AMGN) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
+      "description": "Looking beyond Wall Street's top -and-bottom-line estimate forecasts for Amgen (AMGN), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended March 2025.",
+      "published_utc": "2025-04-28T21:15:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48442463d2c109ec4b2347c5a3d8833e192d81ffd5a310b8ba787b5944344522",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115238,
+      "datetime": 1745846153
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:18.976682+00:00",
+    "cache_key": "news_f3866ad9d780feda9d086da8c28e01ab",
+    "count": 5
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Citi Global Industrial Tech and Mobility Conference (Transcript)",
+      "description": "Honeywell International Inc. (NASDAQ:HON) Citi Global Industrial Tech and Mobility Results Conference February 18, 2025 8:00 AM ETCompany ParticipantsVimal...",
+      "published_utc": "2025-02-18T19:01:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5fe5bb6bb7cb47bc7af683789f71e64f866e6ee700fac0208cfb88c155681973",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132772261,
+      "datetime": 1739876461
+    },
+    {
+      "id": "402db2893ea8df311b056560d942540e2601c8b956f6792bb390c44e7faa169d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Seize the Opportunity – Key Insights into the Marine Sensors Market Valued $1.9 Billion by 2028!",
+      "author": "Globe Newswire",
+      "published_utc": "2025-02-18T01:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/18/3027463/0/en/Seize-the-Opportunity-Key-Insights-into-the-Marine-Sensors-Market-Valued-1-9-Billion-by-2028.html",
+      "tickers": [
+        "HON",
+        "ETN",
+        "TEL",
+        "GRMN",
+        "CW"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+      "description": "The Marine Sensors Market is estimated to grow from USD 1.4 Billion in 2023 to USD 1.9 Billion by 2028, at a CAGR of 6.5%. The market is driven by increasing demand for UUVs and AUVs, and technological advancements in marine sensors. However, the development of sensors that can withstand harsh marine environments is a challenge.",
+      "keywords": [
+        "marine sensors",
+        "UUV",
+        "AUV",
+        "maritime transportation",
+        "navies",
+        "marine environment",
+        "corrosion",
+        "biofouling"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is mentioned as one of the key players in the marine sensors industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "ETN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eaton Corporation is mentioned as one of the key players in the marine sensors industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "TEL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "TE Connectivity is mentioned as one of the key players in the marine sensors industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "GRMN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Garmin Ltd. is mentioned as one of the key players in the marine sensors industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "CW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Curtiss Wright is mentioned as one of the key players in the marine sensors industry, indicating its involvement and potential growth opportunities in this market."
+        }
+      ]
+    }
+  ]
+}

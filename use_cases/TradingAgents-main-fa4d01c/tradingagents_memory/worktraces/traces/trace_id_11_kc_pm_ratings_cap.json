@@ -1,0 +1,206 @@
+{
+  "trace_id": "trace_id_11_kc_pm_ratings_cap",
+  "memory_path": "knowledge_reflection",
+  "eval_mode": "qa",
+  "focus": "KnowledgeCard: LLM enforces <=5 PM Ratings entries after 7 merges; oldest ratings dropped; Technical Posture drops bullets older than 30 days",
+  "turns": [
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-01-05",
+        "state": {
+          "market_report": "CAPCO at $50. 50-day MA $48. RSI 52. No strong trend.",
+          "fundamentals_report": "CAPCO (CapCo Industries) specialty manufacturer. Revenue $800M, EPS $3.20, P/E 15.6x. D/E 0.5.",
+          "sentiment_report": "Neutral. No significant news catalyst.",
+          "news_report": "CAPCO maintained FY guidance in management meeting.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Stable cash flow, decent yield.",
+            "bear_history": "Bear: No growth catalyst. Sector headwinds."
+          },
+          "risk_debate_state": {"history": "Neutral PM: fair value, no action."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Hold. Fair value at current levels. No strong catalyst either way."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-01-12",
+        "state": {
+          "market_report": "CAPCO up to $53. Sector momentum improving. RSI 58.",
+          "fundamentals_report": "CAPCO sector index rose 5% — no company-specific news, but tailwind.",
+          "sentiment_report": "Slightly bullish on sector momentum.",
+          "news_report": "Sector ETF inflows accelerating; CAPCO a mid-cap beneficiary.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Sector tailwind + stable fundamentals = accumulate.",
+            "bear_history": "Bear: Momentum chasing without fundamental catalyst."
+          },
+          "risk_debate_state": {"history": "Moderate PM: small add on sector momentum."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Buy. Sector tailwind improving risk-reward. Light position add."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-01-19",
+        "state": {
+          "market_report": "CAPCO broke above $56 resistance on 2x volume. RSI 68. Breakout confirmed.",
+          "fundamentals_report": "CAPCO Q4 pre-announcement: revenue $215M (+10% QoQ), above consensus $205M.",
+          "sentiment_report": "Bullish after pre-announcement beat.",
+          "news_report": "CAPCO pre-announced Q4 revenue beat. Analyst upgrades expected.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Revenue beat + technical breakout = Strong Buy. Bear underestimated earnings power.",
+            "bear_history": "Bear: Pre-announcement one quarter doesn't change thesis. Wait for full results."
+          },
+          "risk_debate_state": {"history": "Aggressive PM: upgrade to Strong Buy on breakout + pre-announcement."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Strong Buy. Technical breakout + fundamental catalyst confirmed. Target $65."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-01-26",
+        "state": {
+          "market_report": "CAPCO pulled back to $54 after breakout. RSI 52. Normal consolidation.",
+          "fundamentals_report": "CAPCO fundamentals unchanged post-Q4 pre-ann. Full results due Feb 5.",
+          "sentiment_report": "Neutral. Wait-and-see ahead of full Q4 results.",
+          "news_report": "Sector-wide consolidation. No CAPCO-specific news.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Consolidation healthy. Thesis intact. Accumulate on dip.",
+            "bear_history": "Bear: Breakout failed to hold. Resistance confirmed."
+          },
+          "risk_debate_state": {"history": "Moderate PM: hold, do not add until full Q4."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Hold. Post-breakout consolidation. Await full Q4 results on Feb 5."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-02-02",
+        "state": {
+          "market_report": "CAPCO bounced to $55.50 ahead of earnings. RSI 60. Institutional buying visible.",
+          "fundamentals_report": "CAPCO Q4 full results: Revenue $217M, EPS $0.87 (+12% YoY). Beat on both lines.",
+          "sentiment_report": "Bullish post-earnings. Positive analyst commentary.",
+          "news_report": "CAPCO Q4 full beat; management guides for 8% FY2026 revenue growth.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Earnings beat + growth guidance = upgrade. Target $68.",
+            "bear_history": "Bear: 8% growth at 15.6x P/E is fairly valued. Limited upside."
+          },
+          "risk_debate_state": {"history": "Moderate PM: Buy on earnings confirmation. Position sizing limited by macro uncertainty."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Buy. Q4 beat and growth guidance justify upgrade. Target $64."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-02-09",
+        "state": {
+          "market_report": "CAPCO flat at $55. Sector-wide uncertainty from macro data. RSI 50.",
+          "fundamentals_report": "CAPCO no change to estimates. Management reiterated guidance on investor call.",
+          "sentiment_report": "Neutral. Macro caution overshadowing company results.",
+          "news_report": "CPI data came in hot at 3.4%; growth stocks sell off. CAPCO defensive relative to peers.",
+          "investment_debate_state": {
+            "bull_history": "Bull: CAPCO relatively defensive in macro selloff. Fundamentals intact.",
+            "bear_history": "Bear: Higher-for-longer rates could compress P/E multiple further."
+          },
+          "risk_debate_state": {"history": "Neutral PM: hold, macro risk elevated, do not add."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Hold. Macro headwind temporary but near-term caution warranted. Thesis intact."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "CAPCO",
+        "trade_date": "2026-02-16",
+        "state": {
+          "market_report": "CAPCO surged to $62 on government contract news. RSI 74 overbought. New 52-week high.",
+          "fundamentals_report": "CAPCO won a $180M 3-year US federal contract. EPS estimate raised to $3.80 for FY2026.",
+          "sentiment_report": "Very bullish. Media coverage and analyst upgrades.",
+          "news_report": "CAPCO awarded $180M government contract for specialty components. Multiple analyst upgrades today.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Government contract de-risks $60M annual revenue. Strong Buy with conviction.",
+            "bear_history": "Bear: RSI overbought; near-term pullback after spike likely. Execution risk on new contract."
+          },
+          "risk_debate_state": {"history": "Aggressive PM: Strong Buy on contract win. Accept short-term volatility. Stop at $56."},
+          "final_trade_decision": "Portfolio Manager rates CAPCO: Strong Buy. Government contract provides 3-year revenue visibility. Target $72."
+        }
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "CAPCO_card_has_all_four_sections",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "CAPCO"},
+      "expected_information": [
+        {"type": "substring", "value": "## Identity"},
+        {"type": "substring", "value": "## Stable Fundamentals"},
+        {"type": "substring", "value": "## Recent Technical Posture"},
+        {"type": "substring", "value": "## Recent PM Ratings"}
+      ]
+    },
+    {
+      "label": "CAPCO_latest_rating_strong_buy_feb16",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "CAPCO"},
+      "expected_information": [
+        {"type": "substring", "value": "Strong Buy"},
+        {"type": "substring", "value": "2026-02-16"},
+        {"type": "regex", "value": "gov(ernment)? contract", "case_sensitive": false},
+        {"type": "substring", "value": "Last updated: 2026-02-16"}
+      ]
+    },
+    {
+      "label": "CAPCO_pm_ratings_cap_at_five_entries",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "CAPCO"},
+      "expected_information": [
+        {"type": "not_substring", "value": "[2026-01-05]"},
+        {"type": "not_substring", "value": "[2026-01-12]"},
+        {"type": "substring", "value": "[2026-01-19]"}
+      ]
+    },
+    {
+      "label": "CAPCO_technical_posture_drops_old_bullets",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "CAPCO"},
+      "expected_information": [
+        {"type": "not_substring", "value": "2026-01-05"},
+        {"type": "not_substring", "value": "2026-01-12"},
+        {"type": "substring", "value": "2026-02-16"}
+      ]
+    },
+    {
+      "label": "CAPCO_card_format_integrity",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "CAPCO"},
+      "expected_information": [
+        {"type": "regex", "value": "^## Identity"},
+        {"type": "not_substring", "value": "#### ## "},
+        {"type": "not_substring", "value": "### ## "},
+        {"type": "count_exact", "value": "Last updated:", "count": 1}
+      ]
+    },
+    {
+      "label": "CAPCO_stable_fundamentals_updated",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "CAPCO"},
+      "expected_information": [
+        {"type": "substring", "value": "CAPCO"},
+        {"type": "regex", "value": "180M|government contract|3.80", "case_sensitive": false},
+        {"type": "substring", "value": "## Stable Fundamentals"}
+      ]
+    }
+  ]
+}

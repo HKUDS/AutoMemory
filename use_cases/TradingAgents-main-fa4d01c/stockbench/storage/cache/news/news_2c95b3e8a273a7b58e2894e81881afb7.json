@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "title": "BeOne Medicines: Brukinsa Momentum And Pipeline Catalysts Justify Its Premium",
+      "description": "Discover why BeOne Medicines (BEIGF) is a strong Buy with growth driven by Brukinsa, Tevimbra, and a promising oncology pipeline.",
+      "published_utc": "2025-06-16T19:06:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=48d2aa2b51419359ce3895ab9e676565b220c2273b8f4d8975dc223b1df171fe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160714898/image_2160714898.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135305491,
+      "datetime": 1750071968
+    },
+    {
+      "title": "EHA 2025: Regeneron’s Lynozyfic with Amgen’s Kyprolis combo emerges for R/R MM",
+      "description": "Lynozyfic’s global sales are projected to reach $707 million by 2031.",
+      "published_utc": "2025-06-16T18:36:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=462c3debc4a0ab7694021ac22831712b8a22ad338f9529618750b0b797bad9af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135303052,
+      "datetime": 1750070215
+    },
+    {
+      "title": "AMGEN AND FOOTBALL LEGEND BARRY SANDERS HIGHLIGHT DANGERS OF BAD CHOLESTEROL IN NEW DOCUMENTARY",
+      "description": "THOUSAND OAKS - Amgen announced the launch of The Making of a Heart Attack, a documentary that sheds light on the cardiovascular disease crisis in the United States, where every 40 seconds someone...",
+      "published_utc": "2025-06-16T17:16:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=68cf407a77ed423271a767fa7e9a2f294d523bd00348040564494d3b9ad96be1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300749,
+      "datetime": 1750065378
+    },
+    {
+      "id": "fd0d49a217158a85bbb89ce16783d4e33548eebf8df2df4d28982468445e6dde",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Saudia Arabia Introduces Strategic Healthcare Vision and Global Partnerships at BIO 2025",
+      "author": "Riyadh, Kingdom Of Saudi Arabia",
+      "published_utc": "2025-06-16T20:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/16/3100208/0/en/Saudia-Arabia-Introduces-Strategic-Healthcare-Vision-and-Global-Partnerships-at-BIO-2025.html",
+      "tickers": [
+        "VRTX",
+        "AMGN",
+        "ILMN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/fc29cd17-b3ff-4f16-b0ef-0dd97809f07c",
+      "description": "Saudi Arabia is making a significant presence at the BIO International Convention 2025, showcasing its commitment to scientific advancement, international collaboration, and innovation-driven healthcare transformation. The Kingdom has signed over a dozen high-impact partnerships with global biotech and healthcare leaders, reflecting its readiness to collaborate and shape the future of life sciences.",
+      "keywords": [
+        "Saudi Arabia",
+        "BIO International Convention 2025",
+        "biotech",
+        "healthcare",
+        "partnerships"
+      ],
+      "insights": [
+        {
+          "ticker": "VRTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Vertex Pharmaceuticals is partnering with Saudi Arabia's Health Holding Company, indicating a collaborative effort in precision medicine and therapeutic development."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amgen is partnering with Saudi Arabia's Health Holding Company, suggesting a positive outlook on the Kingdom's biotech ecosystem and potential for growth."
+        },
+        {
+          "ticker": "ILMN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Illumina is partnering with Saudi Arabia's Health Holding Company and King Abdullah International Medical Research Center, showcasing the Kingdom's focus on genomics research and diagnostics."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:53.159894+00:00",
+    "cache_key": "news_2c95b3e8a273a7b58e2894e81881afb7",
+    "count": 4
+  }
+}

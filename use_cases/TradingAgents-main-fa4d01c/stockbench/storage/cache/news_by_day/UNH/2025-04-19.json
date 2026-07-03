@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth: Don't Let This Steep Selloff Go To Waste",
+      "description": "",
+      "published_utc": "2025-04-19T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c18b422a76ab639a3cd848b5e013c41b072089fa41b67c0c4b45cc19717332e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972359,
+      "datetime": 1745062200
+    },
+    {
+      "title": "5 Dividend Growth Stocks I'm Buying As Defensive Sectors Become Sexy Again",
+      "description": "",
+      "published_utc": "2025-04-19T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e04ddb4a2370a140e471241ffff562b24956be86ca962ffa852894aabdc17a81",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133971210,
+      "datetime": 1745049900
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "description": "",
+      "published_utc": "2025-04-19T15:44:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=08c44b8ae67341e26dd2423b7c1a73e23d1bf8f72ed4602deb28cdbabca685b9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133971140,
+      "datetime": 1745048680
+    }
+  ]
+}

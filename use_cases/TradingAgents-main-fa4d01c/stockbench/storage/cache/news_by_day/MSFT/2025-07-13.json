@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "SpaceX to invest $2 billion in Musk's xAI startup, WSJ reports",
+      "description": "July 12 - SpaceX has committed $2 billion to xAI as part of a $5 billion equity round, deepening the ties between tech billionaire ElonMusk's ventures as...",
+      "published_utc": "2025-07-13T03:17:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5405ca9eae52525beb0aa64528bf5a99d95df4cb924cee3834bb6362b1aa04ee",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135901649,
+      "datetime": 1752347828
+    },
+    {
+      "title": "'Magnificent 7' check-in: Why these 3 names might not 'belong'",
+      "description": "Spear Invest founder and chief investment officer Ivana Delevska joins BD8 Capital Partners CEO and chief investment officer Barbara Doran and Market Catalysts host Julie Hyman to check in on the \"Magnificent Seven,\" noting the growing dissimilarities between stock names. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts here.",
+      "published_utc": "2025-07-13T03:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cc2bc552660396a6a282429d277f4bcb0a42399eeafa42581d1a8f252186c50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135903542,
+      "datetime": 1752346811
+    },
+    {
+      "title": "Salesforce, Inc. (CRM) Is Competing With The Rise Of AI, Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. Salesforce, Inc. (NYSE:CRM) is one of the stocks Jim Cramer recently discussed. Salesforce, Inc. (NYSE:CRM) is a SaaS company that provides customer relationship management software. The firm has spent a large portion of 2025 locked in a fierce battle with Microsoft for […]",
+      "published_utc": "2025-07-13T02:42:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c24a4b98ddd756569163e70ceb930e4011f6fa11f381387a303ef41878d3d6a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135902598,
+      "datetime": 1752345732
+    },
+    {
+      "title": "Machine Learning Engineer Interview Preparation Course 2025 - Top ML Jobs and Salary at Google Amazon Facebook Netflix Microsoft Updated",
+      "description": "Santa Clara, July 12, 2025 (GLOBE NEWSWIRE) -- Interview Kickstart, a leading platform for technical interview preparation, offers an Advanced Machine Learning Course designed to equip professionals with the skills needed to excel in ML roles, particularly within the cybersecurity domain. In an era where cyber threats are escalating in complexity and frequency, the integration of machine learning (ML) into cybersecurity has become imperative. Recent reports indicate that adversaries are leveragi",
+      "published_utc": "2025-07-13T00:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0822f8f13f060c496b624a580462209f2b622b95e734b92c483a705f5cbd9309",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135906500,
+      "datetime": 1752337980
+    }
+  ]
+}

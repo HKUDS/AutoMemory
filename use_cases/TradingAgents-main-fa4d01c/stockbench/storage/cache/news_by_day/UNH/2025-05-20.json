@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q1 2025 Update",
+      "description": "Appaloosaâs Q1 2025 portfolio value surged to $8.38B, with 39 holdings. Check out the major new bets and significant stake increases here.",
+      "published_utc": "2025-05-20T06:54:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=571b5fd48a654bb868cb2b6d859320d89d5a354aa0d0e9a754415714558138ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604514,
+      "datetime": 1747695282
+    },
+    {
+      "title": "UnitedHealth Stock Rallies From 5-Year Lows as CEO and Other Insiders Scoop Up Shares",
+      "description": "UnitedHealth insiders scooped up shares after the insurer’s stock swooned to a five-year low last week amid mounting federal fraud investigations and a sudden leadership change.",
+      "published_utc": "2025-05-20T06:01:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48e9f66b8427e3f36f46edd75dafccc550af621cc958174bf5657e56d844f7df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609080,
+      "datetime": 1747692065
+    },
+    {
+      "title": "S&P 500 Gains & Losses Today: Solar Stocks Fall, UnitedHealth Shares Jump",
+      "description": "The S&P 500 eked out a gain of 0.1% on Monday, May 19, 2025, as investors weighed the implications of Moody's downgrading its U.S. credit rating.",
+      "published_utc": "2025-05-20T05:18:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91aac6377e28e92557b12718d0dd870ad62752e8c7c19e48e6dc1b6f88651036",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609081,
+      "datetime": 1747689502
+    },
+    {
+      "title": "UnitedHealth Stock Gains 8% After Insider Buys. New CEO Bought $25 Million.",
+      "description": "The health insurer has been the worst-performing stock in the Dow Jones Industrial Average this year.",
+      "published_utc": "2025-05-20T05:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ff39cb97d3d3cfe08bced19fffc71b4a5eee68a71d5b530422d62cd84709ddc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609082,
+      "datetime": 1747688820
+    },
+    {
+      "title": "UnitedHealth surging: Why this strategist says 'stay away'",
+      "description": "UnitedHealth (UNH) stock is surging after its CEO bought $25 million in stock, even as the company faces legal and leadership challenges. Mizuho Americas healthcare equity strategist Jared Holz joins Market Domination with Josh Lipton and Julie Hyman to explain why he's telling clients to stay away from the stock for now. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-05-20T04:57:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=650deb00238002e5b208f3b1a28ff0ddecf34745fcf69672b5adb812924132e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609083,
+      "datetime": 1747688257
+    }
+  ]
+}

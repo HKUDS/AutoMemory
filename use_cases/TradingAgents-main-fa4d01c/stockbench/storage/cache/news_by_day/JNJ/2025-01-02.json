@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson Announces Quarterly Dividend for First Quarter 2025",
+      "description": "NEW BRUNSWICK, N.J., January 02, 2025--Johnson & Johnson (NYSE: JNJ) today announced that its Board of Directors has declared a cash dividend for the first quarter of 2025 of $1.24 per share on the company’s common stock. The dividend is payable on March 4, 2025 to shareholders of record at the close of business on February 18, 2025. The ex-dividend date is February 18, 2025.",
+      "published_utc": "2025-01-02T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=116f5255721c54ac921d72bd460508581525575a10c6ce68c3f5bbe8d22e9f74",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wJHpCuAClARJNJ2aa1vuvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTI-/https://media.zenfs.com/en/business-wire.com/7fec6b64e2e6d0041773e9ea4c190217",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240486,
+      "datetime": 1735822800
+    },
+    {
+      "title": "Will Johnson & Johnson (JNJ) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Johnson & Johnson (JNJ) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-01-02T01:10:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30e31713fc391c3dab5500271c4c358685d19af7ee26412a9a17fd5870a373c8",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/d7dcbe11345e3f8e5e71e6827fe3c4c9",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132231365,
+      "datetime": 1735751414
+    }
+  ]
+}

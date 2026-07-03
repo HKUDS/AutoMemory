@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Coinbase Connection – And This Telltale Clue – Boost Financial Powerhouse",
+      "description": "Set to launch the Coinbase One Card later this year exclusively on the American Express network, AmEx stock eyes a breakout.",
+      "published_utc": "2025-06-17T04:53:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a77bd3acfda43e1146d832902ef5e030e8b0b6cc4bcdf49e166efb2fccb7ce3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311856,
+      "datetime": 1750107185
+    }
+  ]
+}

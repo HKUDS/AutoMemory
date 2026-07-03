@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q1 2025 Update",
+      "description": "Appaloosaâs Q1 2025 portfolio value surged to $8.38B, with 39 holdings. Check out the major new bets and significant stake increases here.",
+      "published_utc": "2025-05-20T06:54:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=571b5fd48a654bb868cb2b6d859320d89d5a354aa0d0e9a754415714558138ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604514,
+      "datetime": 1747695282
+    },
+    {
+      "title": "Dow Jones Futures: Amazon, Broadcom, Meta, Palantir In Or Near Buy Zones",
+      "description": "Dow Jones Futures: Amazon, Broadcom, Meta, Palantir In Or Near Buy Zones",
+      "published_utc": "2025-05-20T06:21:38",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=459fcbf37ef4dee1ff6a2d9f9bac8240d987d20c2077a2da4f7f3b7337dfcd94",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134611793,
+      "datetime": 1747693298
+    },
+    {
+      "title": "The Tech Industry Is Huge—and Europe’s Share of It Is Very Small",
+      "description": "The Tech Industry Is Huge—and Europe’s Share of It Is Very Small",
+      "published_utc": "2025-05-20T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=200ab5085334aa14faa5d7cc2a5b442af82e14583e9bee75f76f518bfbb1c3d6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134611794,
+      "datetime": 1747688400
+    },
+    {
+      "title": "Tech stocks took a hit after the last two U.S. credit downgrades. Why this time could be different.",
+      "description": "Tech stocks took a hit after the last two U.S. credit downgrades. Why this time could be different.",
+      "published_utc": "2025-05-20T01:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4e273e7ca1bddc705d0718fbf20f17525ac049fe2709bf139e3fb5c5c4b47a91",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134611691,
+      "datetime": 1747674840
+    },
+    {
+      "title": "Microsoft goes all in on AI agents at annual Build conference",
+      "description": "Microsoft is leaning into AI agents at its annual Build conference in Seattle.",
+      "published_utc": "2025-05-20T00:00:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=151ad1c9534ac7fffccc9099c7597848f31fa22b269a0c68dba00f5e3b2e5818",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601435,
+      "datetime": 1747670423
+    }
+  ]
+}

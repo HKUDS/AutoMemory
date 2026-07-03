@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Clackamas Progress Partners announces completion of Oregon’s first P3 courthouse",
+      "description": "PORTLAND, Ore., May 03, 2025 (GLOBE NEWSWIRE) -- Clackamas Progress Partners (CPP), a Fengate Asset Management-led (Fengate) consortium, today announced the completion and handover of the new Clackamas County Circuit Courthouse – the first courthouse to be delivered as a public-private partnership (P3) in Oregon. CPP – comprising Fengate (developer), PCL Construction (design-builder), DLR Group (designer), and Honeywell (NASDAQ: HON) (services provider) – joined client Clackamas County, the Oreg",
+      "published_utc": "2025-05-04T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad492c3a653badb8ed0b4a295083ccab76a091e3bbefcf3cc5480d2bf964ad5a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134247122,
+      "datetime": 1746304200
+    }
+  ]
+}

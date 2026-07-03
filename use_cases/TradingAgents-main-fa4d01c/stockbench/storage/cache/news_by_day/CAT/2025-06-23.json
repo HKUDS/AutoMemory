@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Can Caterpillar's E&T Segment Continue to be Its Saving Grace?",
+      "description": "CAT leans on its Energy & Transportation segment, now 47% of sales, to offset pressure in the construction and mining units.",
+      "published_utc": "2025-06-23T22:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c6e75f355571120548cf1abfdf42f44395189eb1aa6ba2f148dfb5bab080145",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135490265,
+      "datetime": 1750689900
+    },
+    {
+      "title": "Caterpillar Inc. to Host 2025 Investor Day Nov. 4",
+      "description": "Caterpillar Inc. (NYSE: CAT) will host its 2025 Investor Day Nov. 4, in the Dallas area, beginning at 9:00 a.m. CST. Chief Executive Officer Joe Creed and the Caterpillar executive leadership team will provide an update on strategic priorities and growth opportunities as the company embarks on the next 100 years. Additional details will be provided in the coming months.",
+      "published_utc": "2025-06-23T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=675855e4850f4f5c6649fc076d74db0e0d9e99c2af96a871539b1ee513bcdc5a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481794,
+      "datetime": 1750683900
+    }
+  ]
+}

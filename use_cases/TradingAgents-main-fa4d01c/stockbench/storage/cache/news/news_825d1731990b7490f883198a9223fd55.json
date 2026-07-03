@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trump Exempts Some Electronics, Including Smartphones, From Tariffs on China",
+      "description": "President Trump’s tariff exemptions on some electronics are the latest twist in U.S. trade policy and could benefit companies such as Apple, Microsoft, Dell, Samsung and others that manufacture some products abroad.",
+      "published_utc": "2025-04-13T03:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e96b3a26be3231d3f025a8d38f4da424cedca6277ba00fe118098fe59fec8391",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895779,
+      "datetime": 1744485600
+    },
+    {
+      "title": "Apple, Nvidia Score Relief From US Tariffs With Exemptions",
+      "description": "(Bloomberg) -- President Donald Trump’s administration exempted smartphones, computers and other electronics from its so-called reciprocal tariffs, representing a major reprieve for global technology manufacturers including Apple Inc. and Nvidia Corp. even if it proves a temporary one.Most Read from BloombergThe Secret Formula for Faster TrainsIn Chicago, a Former Steel Mill Looks to Make a Quantum LeapMidtown Office Building Evacuated on Concerns of Wall CollapseNYC Tourist Helicopter Crashes i",
+      "published_utc": "2025-04-13T02:14:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b69f6094a957931170b13a8719803b4a3841910374b7d1dd7c36a1786b63dcf1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895780,
+      "datetime": 1744481653
+    },
+    {
+      "title": "Apple, Nvidia, Dell, and Others Get a Tariffs Exemption Under New Rules",
+      "description": "Smartphones, PCs, and servers won’t face the highest tariffs rates, according to a document from the U.S. Customs and Border Protection Agency.",
+      "published_utc": "2025-04-13T01:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89d65663f4552416bf2edebe0645d9b4f4e321ccdd280cce2466c403f480efdb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895781,
+      "datetime": 1744479720
+    },
+    {
+      "title": "Apple, Nvidia, and Microsoft can 'breathe a huge sigh of relief' after Trump's China tariff exemptions",
+      "description": "The ever-growing U.S. tariffs on imports from China won’t bite Big Tech so badly after all, after the Trump administration late Friday laid out significant exemptions from its wider trade war that include smartphones, laptop computers, chips, and more.",
+      "published_utc": "2025-04-13T01:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=767d7938ce5685cee656132cde20175f6c494e0b05f622b96fb8b3b69d2f52bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895782,
+      "datetime": 1744479540
+    },
+    {
+      "title": "Jim Cramer On Apple Inc. (AAPL): “Own Apple, Don’t Trade It!”",
+      "description": "We recently published a list of Jim Cramer Discussed These 12 Stocks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, host of Mad Money, described the 145% duty on China as so extreme that it essentially […]",
+      "published_utc": "2025-04-13T01:19:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02fbcca1d10da0956d2ae014a86f19a85ed1fa44378b5136019a5f4c09661248",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895783,
+      "datetime": 1744478394
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:47.419717+00:00",
+    "cache_key": "news_825d1731990b7490f883198a9223fd55",
+    "count": 5
+  }
+}

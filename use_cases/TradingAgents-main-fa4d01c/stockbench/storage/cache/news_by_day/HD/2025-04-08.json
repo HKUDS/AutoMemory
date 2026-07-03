@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (NYSE:HD) Faces Shareholder Activism as Proposals Challenge Company Policies",
+      "description": "Home Depot (NYSE:HD) experienced a flat price movement over the past week, amidst a backdrop of significant investor activism highlighting proposals on corporate governance and sustainability, which the company recommended voting against ahead of its annual meeting on May 22, 2025. At the same time, broader market volatility, driven by heightened uncertainties around new tariffs, saw the market dip significantly, with the Dow Jones index dropping sharply. This general market turbulence likely...",
+      "published_utc": "2025-04-08T01:23:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d82d22a3623316ff0479158f2c3e033f2dac0d3e7ee0b6982b5a237796202198",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741118,
+      "datetime": 1744046619
+    }
+  ]
+}

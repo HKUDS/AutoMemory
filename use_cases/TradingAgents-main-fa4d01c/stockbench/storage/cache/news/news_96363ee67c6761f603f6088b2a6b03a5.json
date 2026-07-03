@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer ‘Loves’ McDonald’s (MCD) Amid ‘Ironclad Story’ and ‘No Tariff’ Impact",
+      "description": "We recently published a list of Top 10 Stocks to Watch Ahead of May. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against other top stocks to watch ahead of May. Aswath Damodaran from NYU Stern School of Business said in a latest interview with CNBC that […]",
+      "published_utc": "2025-04-27T05:07:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a41c619f97a6aedd8ebe449650b6aa09ab9d418df82edc9f94e1a0cd23c6fd3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104535,
+      "datetime": 1745701645
+    },
+    {
+      "title": "McDonald's (NYSE:MCD) Enhances Lobbying Disclosures Following Shareholder Feedback",
+      "description": "McDonald's (NYSE:MCD) recently enhanced its lobbying-related disclosures following shareholder feedback, reinforcing its commitment to investor engagement. A 10% price increase in the last quarter aligns closely with the market's upward momentum. During this period, the announcement of a new share repurchase program contributed additional weight to McDonald's positive performance, providing reassurance amid broader market trends. Although the company reported lower Q4 earnings compared to the...",
+      "published_utc": "2025-04-27T01:18:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6eb145018b7a1b0db989980ec02b834fdd8a5a6cd78b6818e8bbe7ec9f447bdf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104536,
+      "datetime": 1745687935
+    },
+    {
+      "title": "McDonald's Corporation (NYSE:MCD) is largely controlled by institutional shareholders who own 74% of the company",
+      "description": "Key Insights Given the large stake in the stock by institutions, McDonald's' stock price might be vulnerable to their...",
+      "published_utc": "2025-04-26T19:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a46814602e2e9974354370e3de55ef50a08dadb6fb8fa52c9d8b6fc57efba57c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104537,
+      "datetime": 1745665213
+    },
+    {
+      "title": "Microsoft, Apple Set To Report Earnings As Markets Watch Out For Core PCE Price Index",
+      "description": "Tech giants MSFT, AAPL, META & AMZN are set to report earnings this week. Investors also look out for major economic indicators due on Friday. See an update here.",
+      "published_utc": "2025-04-26T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d78c26e18c68b7705191062a2c17e2e55a608a8277fc05a553bb1186f0311979",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134100310,
+      "datetime": 1745665200
+    },
+    {
+      "id": "200e9e565bf57973590c93e68a3e6ae9a986caf63645583ff3c784cdfdfee0f7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Vanguard Index Fund to Confidently Buy During the S&P 500 Correction",
+      "author": "Anthony Di Pizio",
+      "published_utc": "2025-04-26T09:56:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/26/1-vanguard-index-fund-confidently-buy-sp-500-corre/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "MCD",
+        "HD",
+        "AMZN",
+        "TSLA",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/815939/a-golden-bull-figurine-on-top-of-a-strip-of-money.jpg",
+      "description": "The S&P 500 index, which tracks 500 major U.S. companies, has fallen 12.5% from its all-time high due to global trade tensions. However, history suggests the index will eventually recover, making the Vanguard S&P 500 ETF a potential buy during the correction.",
+      "keywords": [
+        "S&P 500",
+        "Vanguard S&P 500 ETF",
+        "stock market correction",
+        "trade tensions"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the Vanguard S&P 500 ETF as a potential buy during the recent market correction, citing its low expense ratio and ability to track the performance of the S&P 500 index."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple, along with Microsoft and Nvidia, are the three largest companies in the S&P 500's information technology sector, which makes up 29.3% of the index. The article suggests these companies are likely to continue creating value for investors in the future."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft, along with Apple and Nvidia, are the three largest companies in the S&P 500's information technology sector, which makes up 29.3% of the index. The article suggests these companies are likely to continue creating value for investors in the future."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia, along with Apple and Microsoft, are the three largest companies in the S&P 500's information technology sector, which makes up 29.3% of the index. The article suggests these companies are likely to continue creating value for investors in the future."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that McDonald's is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Home Depot is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Tesla is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway, the $1 trillion holding company managed by Warren Buffett, is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway, the $1 trillion holding company managed by Warren Buffett, is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:35:58.525623+00:00",
+    "cache_key": "news_96363ee67c6761f603f6088b2a6b03a5",
+    "count": 5
+  }
+}

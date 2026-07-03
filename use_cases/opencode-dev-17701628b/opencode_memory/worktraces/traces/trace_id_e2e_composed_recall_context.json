@@ -1,0 +1,218 @@
+{
+  "trace_id": "trace_id_e2e_composed_recall_context",
+  "eval_mode": "qa",
+  "category": "multi_session",
+  "description": "Composed recall should combine facts, handoff, tool lessons, observations, and prior sessions without functional redundancy.",
+  "turns": [
+    {
+      "role": "user",
+      "content": "Remember: use Bun for package scripts in this repo.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "e2e" }
+    },
+    {
+      "role": "system",
+      "content": "latest compaction handoff",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish memory test stabilization",
+          "constraints": "Do not mock API calls that are supposed to hit OpenRouter",
+          "done": ["Added deterministic memory store tests"],
+          "inProgress": ["Checking extraction model availability"],
+          "blockers": ["Need OPENROUTER_API_KEY for LLM extraction slice"],
+          "decisions": ["Use minimax/minimax-m2.7 for regional availability"],
+          "nextSteps": ["Run OPENCODE_MEMORY_LLM_TEST_MODEL=minimax/minimax-m2.7 bun test test/memory"],
+          "files": ["packages/opencode/test/memory/memory-system.test.ts", "packages/opencode/test/preload.ts"]
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed with EACCES opening /tmp/opencode-cache/index.json",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 120, "error": "EACCES opening /tmp/opencode-cache/index.json" } }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed with EACCES opening /tmp/opencode-cache/index.json",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 100, "error": "EACCES opening /tmp/opencode-cache/index.json" } }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed with EACCES opening /tmp/opencode-cache/index.json",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 130, "error": "EACCES opening /tmp/opencode-cache/index.json" } }
+    },
+    {
+      "role": "system",
+      "content": "observation extracted from prior tool work",
+      "used_for_evaluation": true,
+      "metadata": {
+        "observation": {
+          "owner": "agent",
+          "type": "procedure",
+          "title": "Memory LLM test model override",
+          "l0": "Use minimax model override for memory LLM tests.",
+          "l1": "Run OPENCODE_MEMORY_LLM_TEST_MODEL=minimax/minimax-m2.7 bun test test/memory when OpenRouter default model is unavailable.",
+          "commands": ["OPENCODE_MEMORY_LLM_TEST_MODEL=minimax/minimax-m2.7 bun test test/memory"],
+          "tools": ["shell"],
+          "files": ["packages/opencode/test/memory/memory-system.test.ts", "packages/opencode/test/preload.ts"],
+          "evidence": { "sessionID": "e2e" },
+          "evidenceHash": "e2e-obs-001"
+        }
+      }
+    },
+    {
+      "role": "system",
+      "content": "prior auth session card",
+      "used_for_evaluation": true,
+      "metadata": {
+        "session_card": {
+          "sessionID": "ses-auth-e2e",
+          "title": "Auth throttle investigation",
+          "goal": "Investigate login throttling regression",
+          "outcome": "Confirmed OAuth retry bypass of the leaky bucket limiter.",
+          "files": ["packages/auth/src/throttle.ts"],
+          "commands": ["bun test packages/auth --filter throttle"],
+          "concepts": ["auth", "throttle", "oauth", "leaky-bucket"],
+          "l0": "Auth throttle regression traced to OAuth retry bypass.",
+          "l1": "Use packages/auth/src/throttle.ts and the throttle focused test when revisiting login rate limits.",
+          "time": { "start": 1700020000000, "end": 1700020100000 }
+        }
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Noise about unrelated refactoring and lint output.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "large unrelated command output",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush",
+      "used_for_evaluation": false,
+      "metadata": { "retention_flush": true }
+    },
+    {
+      "role": "agent",
+      "content": "Unrelated note about formatting final responses.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "rg searched docs and returned unrelated command examples",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "rg" }
+    },
+    {
+      "role": "user",
+      "content": "Please ignore those docs for now.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Ignoring unrelated docs.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "read_file returned an unrelated config block",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "read_file" }
+    },
+    {
+      "role": "agent",
+      "content": "No relevant memory signal in that config.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "another noise-only retention flush",
+      "used_for_evaluation": false,
+      "metadata": { "retention_flush": true }
+    },
+    {
+      "role": "tool",
+      "content": "format command completed with no changes",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "shell" }
+    },
+    {
+      "role": "agent",
+      "content": "Formatting did not change the task.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Pause after recording the useful parts.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Paused.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "terminal output included unrelated package manager warnings",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "shell" }
+    },
+    {
+      "role": "system",
+      "content": "final unrelated noise marker",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "End of noisy e2e transcript.",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What package manager should be used for scripts?",
+      "metadata": { "availableToolIds": ["shell"], "maxTotalChars": 9000 },
+      "expected_information": [
+        { "value": "use Bun for package scripts", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "How should I resume memory test stabilization?",
+      "metadata": { "availableToolIds": ["shell"], "maxTotalChars": 9000 },
+      "expected_information": [
+        { "value": "OPENCODE_MEMORY_LLM_TEST_MODEL=minimax/minimax-m2.7 bun test test/memory", "matcher": "substring" },
+        { "value": "OPENROUTER_API_KEY", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What exact shell permission error happened repeatedly?",
+      "metadata": { "availableToolIds": ["shell"], "maxTotalChars": 9000 },
+      "expected_information": [
+        { "value": "EACCES opening /tmp/opencode-cache/index.json", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What prior auth throttle work may be relevant?",
+      "metadata": { "availableToolIds": ["shell"], "maxTotalChars": 9000 },
+      "expected_information": [
+        { "value": "OAuth retry bypass", "matcher": "substring" },
+        { "value": "packages/auth/src/throttle.ts", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which memory test files were relevant?",
+      "metadata": { "availableToolIds": ["shell"], "maxTotalChars": 9000 },
+      "expected_information": [
+        { "value": "packages/opencode/test/memory/memory-system.test.ts", "matcher": "substring" },
+        { "value": "packages/opencode/test/preload.ts", "matcher": "substring" }
+      ]
+    }
+  ]
+}

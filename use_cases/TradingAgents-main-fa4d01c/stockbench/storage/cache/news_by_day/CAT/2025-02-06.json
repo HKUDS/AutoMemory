@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "A Peek At AI Revolution In Mining: Promise Meets Peril",
+      "description": "AI is transforming the mining industry and becoming an increasingly important component at various stages of the production process. Click to read.",
+      "published_utc": "2025-02-06T17:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce26812b7fae2731d4463153c8d87b28a61fdbb1f70984c652ed16c7f85d7cd3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2155116206/image_2155116206.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132572963,
+      "datetime": 1738835400
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH): Among Stocks Insiders Were Piling Into Recently",
+      "description": "We recently published a list of Should You Buy the Dip and Follow Insiders into These 10 Stocks?. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks insiders were piling into recently. After a turbulent week, stocks began recovering on Monday, with all three […]",
+      "published_utc": "2025-03-23T04:23:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4946865928425fc7e93d22a2b6919da7abb463d02ca5852917b753619bcaab6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324474,
+      "datetime": 1742675020
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:46.314278+00:00",
+    "cache_key": "news_7363db6e35287428e08cb7bca2a7c5d9",
+    "count": 1
+  }
+}

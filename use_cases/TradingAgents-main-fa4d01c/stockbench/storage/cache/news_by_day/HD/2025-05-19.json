@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q1 2025 Update",
+      "description": "Fisher Asset Managementâs Q1 2025 portfolio shifts focus with mega-cap tech reductions and energy sector boosts. Check out the significant stake increases here.",
+      "published_utc": "2025-05-19T05:36:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3d4ca0c5601d6c33d5b8a73480c0af970db18cd3837050d03c55d97c742ceec1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134572705,
+      "datetime": 1747604168
+    },
+    {
+      "title": "The Top Corporate Board Directors",
+      "description": "The Top Corporate Board Directors",
+      "published_utc": "2025-05-19T04:31:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3a8da79ef0fea5374c3f6ca6012be9e16fbb63d9a0d64bd39aac240b57995d59",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581204,
+      "datetime": 1747600260
+    },
+    {
+      "title": "Prices are probably going up at Walmart. Watch for Target and other retailers to detail the tariff impact this week.",
+      "description": "Prices are probably going up at Walmart. Watch for Target and other retailers to detail the tariff impact this week.",
+      "published_utc": "2025-05-19T02:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6452a4ec5873f3e1c251bc553a5625e0454952ec8df3cc9ed64c814072fccced",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134582345,
+      "datetime": 1747593840
+    }
+  ]
+}

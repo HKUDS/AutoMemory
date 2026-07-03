@@ -1,0 +1,19 @@
+{"trade_date": "2025-06-02", "ticker": "MSFT", "rating": "SELL", "one_line_thesis": "Action**: Initiate a trim of the MSFT position, targeting a reduction of 25-50% of current exposure to lock in profits and reduce portfolio beta", "key_risks": []}
+{"trade_date": "2025-06-03", "ticker": "MSFT", "rating": "SELL", "one_line_thesis": "Execute a 25-30% reduction of the MSFT position immediately via a limit sell order at $462", "key_risks": []}
+{"trade_date": "2025-06-04", "ticker": "MSFT", "rating": "SELL", "one_line_thesis": "Execute a tactical sell of the MSFT position to manage near-term risk", "key_risks": []}
+{"trade_date": "2025-06-05", "ticker": "MSFT", "rating": "SELL", "one_line_thesis": "Execute a tactical reduction of the **MSFT** position by 30-40% via a limit sell order at $468", "key_risks": []}
+{"trade_date": "2025-06-06", "ticker": "MSFT", "rating": "SELL", "one_line_thesis": "Execute an immediate tactical reduction of 35% of the **MSFT** position via a limit sell order at $468", "key_risks": []}
+{"trade_date": "2025-06-09", "ticker": "MSFT", "rating": "UNDERWEIGHT", "one_line_thesis": "Execute a tactical reduction of 15% of the MSFT position via a limit sell order at $472", "key_risks": []}
+{"trade_date": "2025-06-10", "ticker": "MSFT", "rating": "HOLD", "one_line_thesis": "Maintain the full core position in **MSFT** at $472", "key_risks": []}
+{"trade_date": "2025-06-11", "ticker": "MSFT", "rating": "HOLD", "one_line_thesis": "Maintain the full core position in **MSFT** at current levels (~$470-472)", "key_risks": []}
+{"trade_date": "2025-06-12", "ticker": "MSFT", "rating": "SELL", "one_line_thesis": "Execute a tactical reduction of 30% of the MSFT position via a limit sell order at $476", "key_risks": []}
+{"trade_date": "2025-06-13", "ticker": "MSFT", "rating": "UNDERWEIGHT", "one_line_thesis": "Execute a tactical 20% reduction of the MSFT position via a limit sell order at $478", "key_risks": []}
+{"trade_date": "2025-06-16", "ticker": "MSFT", "rating": "UNDERWEIGHT", "one_line_thesis": "Execute a tactical 15% reduction of the MSFT position at market open, targeting ~$475", "key_risks": []}
+{"trade_date": "2025-06-17", "ticker": "MSFT", "rating": "HOLD", "one_line_thesis": "Maintain the full core MSFT position", "key_risks": []}
+{"trade_date": "2025-06-18", "ticker": "MSFT", "rating": "HOLD", "one_line_thesis": "Action:** Maintain 100% of the existing MSFT core position", "key_risks": []}
+{"trade_date": "2025-06-20", "ticker": "MSFT", "rating": "BUY", "one_line_thesis": "Maintain the full core position in MSFT", "key_risks": []}
+{"trade_date": "2025-06-23", "ticker": "MSFT", "rating": "BUY", "one_line_thesis": "Maintain 100% of the core MSFT position", "key_risks": []}
+{"trade_date": "2025-06-24", "ticker": "MSFT", "rating": "HOLD", "one_line_thesis": "Maintain 100% of the existing core MSFT position", "key_risks": []}
+{"trade_date": "2025-06-25", "ticker": "MSFT", "rating": "UNDERWEIGHT", "one_line_thesis": "Initiate a 20% reduction of the MSFT position at or near the current price (~$490)", "key_risks": []}
+{"trade_date": "2025-06-26", "ticker": "MSFT", "rating": "UNDERWEIGHT", "one_line_thesis": "Initiate a **20% reduction** of the MSFT position at or near the current price (~$492-495)", "key_risks": []}
+{"trade_date": "2025-06-27", "ticker": "MSFT", "rating": "UNDERWEIGHT", "one_line_thesis": "Initiate a **30% reduction** of the MSFT position via a limit sell order at **$495", "key_risks": []}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq Correction: Can Buying These 2 Safe Stocks Today Set You Up for Life?",
+      "description": "These two blue chip stocks should durably grow over the next 10 years.",
+      "published_utc": "2025-03-13T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfbc546ca1faf5665180ffb19445beda827261b8f8ea272da10bddc90c91ed54",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185289,
+      "datetime": 1741811400
+    }
+  ]
+}

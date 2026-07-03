@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "09d449d3946ee1c4d1981de7d1d0848089016a3e5bcaa6bfe6c35c4aca26dc36",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "DNUT DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Krispy Kreme, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important July 15 Deadline in Securities Class Action – DNUT",
+      "author": "Rosen Law Firm",
+      "published_utc": "2025-07-05T20:21:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/05/3110575/673/en/DNUT-DEADLINE-ROSEN-GLOBAL-INVESTOR-COUNSEL-Encourages-Krispy-Kreme-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-July-15-Deadline-in-Securities-Cl.html",
+      "tickers": [
+        "DNUT",
+        "MCD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm alerts Krispy Kreme investors about a securities class action lawsuit regarding potential misleading statements about McDonald's partnership and product demand during February 25-May 7, 2025.",
+      "keywords": [
+        "securities",
+        "class action",
+        "lawsuit",
+        "investor rights",
+        "McDonald's partnership"
+      ],
+      "insights": [
+        {
+          "ticker": "DNUT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Lawsuit alleges false statements about McDonald's partnership, declining product demand, and potential risks to business operations, suggesting significant market performance concerns"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partnership context but not directly implicated in the lawsuit's allegations"
+        }
+      ]
+    }
+  ]
+}

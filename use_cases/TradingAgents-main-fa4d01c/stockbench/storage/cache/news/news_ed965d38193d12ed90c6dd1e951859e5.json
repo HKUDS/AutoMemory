@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Harbor Human Capital Factor US Large Cap ETF Q1 2025 Commentary",
+      "description": "During the first quarter, the Harbor Human Capital Factor US Large Cap ETF returned -4.13%, slightly underperforming its benchmark.",
+      "published_utc": "2025-06-14T13:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9bc3e7c6441a64481afd72aa8eca6680983a2c33dd68ff91f513d77c2bb8101",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203443147/image_2203443147.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135268235,
+      "datetime": 1749877800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:30.573435+00:00",
+    "cache_key": "news_ed965d38193d12ed90c6dd1e951859e5",
+    "count": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+      "description": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+      "published_utc": "2025-04-03T06:23:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c0f314a1e1bf8055d2ece5338905360ca2de93b3f4f38d245265eb761bb9105",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695019,
+      "datetime": 1743632625
+    },
+    {
+      "title": "Where Will Amazon Stock Be in 5 Years?",
+      "description": "Generating $638 billion in revenue last year, Amazon is now one of the largest companies in the world in terms of sales, and close to the top in terms of market capitalization.  Let's dive into the numbers and figure out where Amazon stock may trade five years from now.  Since its founding around 30 years ago, Amazon has become the dominant player within e-commerce in the United States.",
+      "published_utc": "2025-04-03T06:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58f308fe7086ac353f5b818715ce1acf14de13fe755951958cfdbc1ab1241d4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695029,
+      "datetime": 1743632520
+    },
+    {
+      "title": "Tariffs slam retailers as Walmart and Nike see declines",
+      "description": "Retail stocks are taking a hit in after-hours trading, with Walmart (WMT) and Amazon (AMZN) seeing significant drops. Yahoo Finance Executive Editor Brian Sozzi joins Asking for a Trend host Josh Lipton to explain how tariffs on imports from China and the European Union could hurt retailers like Walmart, Amazon, and Nike (NKE). To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+      "published_utc": "2025-04-03T05:36:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81e5925fc678954f8b4b2f500d86bfa1d694038ef077464159550e18c7c98f33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695030,
+      "datetime": 1743629784
+    },
+    {
+      "title": "Walmart, Target, Nike stocks drop as sweeping reciprocal tariffs are expected to hike consumer prices",
+      "description": "Retailers are already facing a cautious consumer.",
+      "published_utc": "2025-04-03T05:33:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f672eda7ec3810803c335c8f5e564b91a94aa5c35057ef1f941bea4b7622a61",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133680877,
+      "datetime": 1743629619
+    },
+    {
+      "title": "Walmart, Amazon Shares Slump on Tariffs Plans",
+      "description": "Shares of big U.S. retailers sold off on Trump’s plan to add tariffs ranging from at least 10% to as much as 49% on imports depending on the country of origin. Walmart, Amazon, Best Buy and Target were lower following the initial announcement.",
+      "published_utc": "2025-04-03T05:31:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76c99a75e2a94ee10dc9635e404acddead629e2095169ebb1a907575aa74371e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695031,
+      "datetime": 1743629493
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Boeing trims projection for 20-year jet demand",
+      "description": "(Reuters) -Boeing expects global demand for air travel to increase by more than 40% by 2030, driving the need for thousands of new jetliners in the next few years, according to its 20-year demand forecast for commercial airliners released Sunday ahead of the Paris Airshow.  European rival Airbus last week revised up its own 20-year commercial demand forecast by 2% to 43,420 jets, saying the air transport industry was expected to ride out current trade tensions.  Boeing's delivery projection includes nearly 33,300 single-aisle airliners, just over 7,800 widebody jets, 955 factory-built freighters and 1,545 regional jets.",
+      "published_utc": "2025-06-15T06:16:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60dda1accb83676e00324c75c74c9e9b1f0dda07fa4fc2e814f845142f36c600",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135273665,
+      "datetime": 1749939414
+    },
+    {
+      "title": "Boeing : 20-Year Forecast Shows Steady Demand for Nearly 44,000 New Airplanes",
+      "description": "Emerging markets driving air travel growth, fueled by consumers, competition and investment - Nearly half of deliveries will replace older airplanes, boosting efficiency of the...",
+      "published_utc": "2025-06-15T02:27:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6c03a42676af4ff9079519a197e2ef587a8204e376445d1f31f15aab7e0b9201",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135273627,
+      "datetime": 1749925624
+    }
+  ]
+}

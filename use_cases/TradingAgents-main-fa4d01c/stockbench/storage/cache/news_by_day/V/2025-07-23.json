@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Visa opens first Africa data centre in Johannesburg",
+      "description": "JOHANNESBURG (Reuters) -Visa Inc launched its first data centre in Africa on Wednesday, capitalising on the emerging economy's rapid growth in digital payments, company executives said.  Speaking at the launch, Michael Berner, Visa's head of Southern and East Africa, said the facility was part of a 1 billion rand ($57 million) investment in South Africa over the next three years.",
+      "published_utc": "2025-07-23T23:42:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25649bd77130af7f74a35fae5d98deea21d8900c9be96e0e5589c356f70d0844",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062112,
+      "datetime": 1753285373
+    },
+    {
+      "title": "Visa Swiping Toward a Beat: Should You Buy Before Q3 Earnings?",
+      "description": "V is likely positioned for another earnings beat as digital payments surge and volumes rise in fiscal Q3.",
+      "published_utc": "2025-07-23T21:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=948943a565a40f7a9b8cc66e30a7b662f707f5cd71b84f6eeaba999ee25b2a92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062113,
+      "datetime": 1753278480
+    },
+    {
+      "title": "3 Crypto-Centric Stocks to Grab on the Ongoing Bitcoin Rally",
+      "description": "HOOD, V and IBKR are riding the Bitcoin wave, with strong growth prospects and rising earnings estimates for 2025.",
+      "published_utc": "2025-07-23T20:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e512b0b51d5bbb06a8888e7a7198777b3b906c2d0a84a0889b9a1622e5690253",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062114,
+      "datetime": 1753275420
+    }
+  ]
+}

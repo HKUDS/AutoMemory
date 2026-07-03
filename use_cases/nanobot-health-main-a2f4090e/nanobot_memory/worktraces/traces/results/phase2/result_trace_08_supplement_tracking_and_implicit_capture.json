@@ -1,0 +1,98 @@
+{
+  "trace_id": "trace_08_supplement_tracking_and_implicit_capture",
+  "description": "Tests (1) high-density health info in one turn: shellfish allergy + 3 supplements with doses (vitamin D, magnesium, fish oil) must all be captured; (2) medication discontinuation with specific reason preserved in recall; (3) implicit symptom mentions in non-health context: knee pain while discussing hiking, orthostatic dizziness while discussing coffee; (4) two symptoms reported in one turn (dizziness + foot tingling). Failure modes: only some supplements captured from a busy turn; implicit symptoms not extracted because the user frames them as non-issues; allergy noted only briefly gets dropped.",
+  "n_turns": 21,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "shellfish allergy",
+      "expected_information": [
+        "shellfish",
+        "/EpiPen|anaphyl|severe/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Left knee pain \u2014 onset unknown, status: active, noted during descents and stairs; concerning for upcoming hiking activities (Zion Narrows)\n- Orthostatic hypotension \u2014 onset recent (reported 2025-01-26), status: active, brief lightheaded rush upon standing from bed or chair (1\u20132 seconds), resolves spontaneously; monitor for worsening or falls risk\n- Left foot paresthesia \u2014 onset ~2 weeks prior ("
+    },
+    {
+      "query": "vitamin D supplement",
+      "expected_information": [
+        "/vitamin D|vitamin d/",
+        "/3000 IU|3000/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Left knee pain \u2014 onset unknown, status: active, noted during descents and stairs; concerning for upcoming hiking activities (Zion Narrows)\n- Orthostatic hypotension \u2014 onset recent (reported 2025-01-26), status: active, brief lightheaded rush upon standing from bed or chair (1\u20132 seconds), resolves spontaneously; monitor for worsening or falls risk\n- Left foot paresthesia \u2014 onset ~2 weeks prior ("
+    },
+    {
+      "query": "supplements",
+      "expected_information": [
+        "/magnesium|Mg/",
+        "/fish oil|omega/",
+        "/400mg|400 mg/"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Left knee pain \u2014 onset unknown, status: active, noted during descents and stairs; concerning for upcoming hiking activities (Zion Narrows)\n- Orthostatic hypotension \u2014 onset recent (reported 2025-01-26), status: active, brief lightheaded rush upon standing from bed or chair (1\u20132 seconds), resolves spontaneously; monitor for worsening or falls risk\n- Left foot paresthesia \u2014 onset ~2 weeks prior ("
+    },
+    {
+      "query": "aspirin",
+      "expected_information": [
+        "aspirin",
+        "/discontinu|stopped|stop/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Left knee pain \u2014 onset unknown, status: active, noted during descents and stairs; concerning for upcoming hiking activities (Zion Narrows)\n- Orthostatic hypotension \u2014 onset recent (reported 2025-01-26), status: active, brief lightheaded rush upon standing from bed or chair (1\u20132 seconds), resolves spontaneously; monitor for worsening or falls risk\n- Left foot paresthesia \u2014 onset ~2 weeks prior ("
+    },
+    {
+      "query": "dizziness",
+      "expected_information": [
+        "/dizzi|lightheaded|orthostatic/",
+        "/stand|standing/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Left knee pain \u2014 onset unknown, status: active, noted during descents and stairs; concerning for upcoming hiking activities (Zion Narrows)\n- Orthostatic hypotension \u2014 onset recent (reported 2025-01-26), status: active, brief lightheaded rush upon standing from bed or chair (1\u20132 seconds), resolves spontaneously; monitor for worsening or falls risk\n- Left foot paresthesia \u2014 onset ~2 weeks prior ("
+    },
+    {
+      "query": "tingling foot",
+      "expected_information": [
+        "/tingle|tingling|pins.and.needles|paresthesia/",
+        "/foot|toe/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Left knee pain \u2014 onset unknown, status: active, noted during descents and stairs; concerning for upcoming hiking activities (Zion Narrows)\n- Orthostatic hypotension \u2014 onset recent (reported 2025-01-26), status: active, brief lightheaded rush upon standing from bed or chair (1\u20132 seconds), resolves spontaneously; monitor for worsening or falls risk\n- Left foot paresthesia \u2014 onset ~2 weeks prior ("
+    }
+  ]
+}

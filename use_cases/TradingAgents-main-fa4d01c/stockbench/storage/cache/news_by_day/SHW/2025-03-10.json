@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Paint company Sherwin-Williams downgraded amid housing market’s dour outlook",
+      "description": "Investing.com -- Jefferies downgraded Sherwin-Williams Co (NYSE:SHW) to \"Hold\" from \"Buy\" also cutting its price target by 10% to $380 amid concerns over a weakening housing market and broader economic uncertainty that could dampen demand for paint.",
+      "published_utc": "2025-03-10T22:35:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4401ce6abba52928bcc2067da879fa3eb290e35b4554f62ef4307efcab011a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186487,
+      "datetime": 1741617353
+    },
+    {
+      "title": "Jefferies Downgrades Sherwin-Williams (SHW)",
+      "description": "",
+      "published_utc": "2025-03-10T19:51:08",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=eae4803f5cc91287059f3a0f30f3a690883c72b1d3b4f85ea0730e79ab025e43",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133117163,
+      "datetime": 1741607468
+    },
+    {
+      "title": "ClearBridge ESG Investment Strategy Q4 2024 Commentary",
+      "description": "The importance of scale represents a key tenet of ClearBridgeâs approach to ESG integration. Click here to read more.",
+      "published_utc": "2025-03-10T17:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7a7ff8351e42b1296add3297746f1a78981491ccbd4536031cefc9098c7b0f72",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2139639268/image_2139639268.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133117502,
+      "datetime": 1741598400
+    }
+  ]
+}

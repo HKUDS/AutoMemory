@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "2025 Investment Playbook: How I'm Setting Up My 6-Digit Portfolio For Outperformance",
+      "description": "With a 31.1% gain, 2024 has proven to be my most successful investing year. Read more to see what I expect from 2025.",
+      "published_utc": "2025-01-06T15:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e4aad10e7e208fc08ac67e19dd7bee295027e8b4396e4f2f08a4a2cdf81d8ac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1877547665/image_1877547665.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132285231,
+      "datetime": 1736147700
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "If I Had To Invest $50,000 In The Top 10 F&B Dividend Growth Stocks",
+      "description": "Despite weak Consumer Staples performance, this food and beverage portfolio offers 3%+ yield with 8% growth. Read why its scoring factors ensure stability.",
+      "published_utc": "2025-02-01T13:20:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a31a7ce7324e2eb6da62fc8a6eb541afd1c465a73a5c7f2ba732713668bc7bae",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1180990096/image_1180990096.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132509585,
+      "datetime": 1738387243
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "items": [
+    {
+      "title": "Beware Of Following The Wall Street Fashion Show It's Too Late",
+      "description": "The Wall Street Fashion Show describes the shift of hot money from established narratives like AI to new fads. Learn more about the market outlook here.",
+      "published_utc": "2025-03-10T05:48:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1cc9a13ccd279359ca88676bc817528ef7caba0d873e6994053f588f9c77aa2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200529932/image_200529932.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114309,
+      "datetime": 1741556903
+    },
+    {
+      "title": "AMZY: A Conservative Income Strategy On Amazon That Produces Alpha",
+      "description": "YieldMax AMZN Option Income Strategy ETF allows investors to profit off Amazon's high volatility by selling options on the stock to generate income.",
+      "published_utc": "2025-03-09T22:07:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=502c1b81b08dc023b2e2cd1a269824e9d854c2c931a10647b40e6f0abc46b071",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452541809/image_1452541809.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133112552,
+      "datetime": 1741529279
+    },
+    {
+      "title": "Credo Technology Q3: Don't Blame Its Hyperscaler Concentration, Embrace It",
+      "description": "Credo Technology reported strong Q3 earnings, beating expectations and raising Q4 revenue guidance. Read why I maintain my buy rating on CRDO stock.",
+      "published_utc": "2025-03-09T13:14:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c03bcdebc681d4bb82b964d8844961f66cf42213823884236ee686e771ca0efc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249101863/image_1249101863.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133110655,
+      "datetime": 1741497283
+    },
+    {
+      "id": "51a6dd3ef14c6d492fcb2bf8110684abe89da55226b8cd195f28f3e9e1e214c1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nasdaq Correction: 3 Things Every Investor Should Know",
+      "author": "Adria Cimino",
+      "published_utc": "2025-03-09T22:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/nasdaq-correction-3-things-investors-should-know/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810504/gettyimages-1072035598.jpg",
+      "description": "The Nasdaq has entered a correction, falling more than 10% from its recent peak. While this may be concerning, history shows that corrections often lead to positive performance in the following 12 months. The correction also presents opportunities to add to favorite positions or find new buying opportunities, as valuations have become more reasonable.",
+      "keywords": [
+        "Nasdaq",
+        "correction",
+        "market downturn",
+        "investing",
+        "bargain hunting"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's stock price has also declined, trading at 31 times forward estimates, compared to 45 just a few months ago, making it a potential bargain."
+        }
+      ]
+    },
+    {
+      "id": "6d127689e9b49bc90f9b1c1743f64c7f95fdcf2badf5a25f09828deb6cd9ddb9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Incredible AI Stock's Management Predicts Revenue Will Double in 2025. Should You Buy It?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-09T11:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/this-incredible-ai-stocks-management-predicts/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809818/artificial-intelligence-robotics-ai-touchscreen.jpg",
+      "description": "SoundHound AI, an AI company that uses audio input instead of text, has predicted its revenue will double in 2025. The company has a large revenue backlog and is expected to become profitable by the end of 2025, but its stock is currently trading at a premium valuation.",
+      "keywords": [
+        "SoundHound AI",
+        "AI",
+        "revenue growth",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's strong revenue growth projections, large revenue backlog, and path to profitability, indicating the company's positive outlook."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's strong revenue growth projections, large revenue backlog, and path to profitability, indicating the company's positive outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon's Alexa as a digital assistant, but does not provide any specific commentary on Amazon's performance or outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple's Siri as a digital assistant, but does not provide any specific commentary on Apple's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:45.040992+00:00",
+    "cache_key": "news_20427d91dca176b99d9aca5bc4903763",
+    "count": 5
+  }
+}

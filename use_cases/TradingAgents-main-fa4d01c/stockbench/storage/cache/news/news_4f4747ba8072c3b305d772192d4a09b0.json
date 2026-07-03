@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is The Travelers Companies, Inc. (TRV) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where The Travelers Companies, Inc. (NYSE:TRV) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength […]",
+      "published_utc": "2025-05-08T02:17:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e52591ba01fef3f99d7d418e8b92ff088bd07b5256c1e2bdcfb262a10881af0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134317137,
+      "datetime": 1746641859
+    },
+    {
+      "title": "Are Investors Undervaluing The Travelers Companies (TRV) Right Now?",
+      "description": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "published_utc": "2025-05-07T21:40:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f4b43e17e57f3ea5a13bbbd61e4774f905955b1c01a5dbf1ef2c1874b3460da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134317138,
+      "datetime": 1746625211
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:03.135240+00:00",
+    "cache_key": "news_4f4747ba8072c3b305d772192d4a09b0",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Ballistic Ventures Welcomes David Schellhase as Entrepreneur in Residence",
+      "description": "Ballistic Ventures, the venture capital firm dedicated exclusively to funding and incubating entrepreneurs and innovations in cybersecurity, today announced that David Schellhase has joined the firm as an Entrepreneur in Residence (EIR).",
+      "published_utc": "2025-07-23T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd2792562b5b19dbc1e01807d1e736069dbd64db4d13d87090e45fc5cd6a973e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033440,
+      "datetime": 1753200000
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Hartford Equity Income Fund Q4 2024 Commentary",
+      "description": "Hartford Equity Income Fund (I share) underperformed the Russell 1000 Value Index during the quarter. Read more here.",
+      "published_utc": "2025-02-25T06:23:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f95c07e653005714d4816a7784c66ad729b2d2ab7264888ba8a672949ffd2bed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2095584352/image_2095584352.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132867316,
+      "datetime": 1740435780
+    },
+    {
+      "title": "Hartford Healthcare Fund Q4 2024 Commentary",
+      "description": "The Hartford Healthcare Fund (I share) underperformed the S&P Composite 1500 Health Care Index during the quarter. Read more here.",
+      "published_utc": "2025-02-25T05:43:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92dd3485faf0f8a524606aed0034df8cfd23fdf8f703e993912a4e84ebe7bca2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200386256/image_200386256.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132867176,
+      "datetime": 1740433380
+    },
+    {
+      "title": "Hartford Capital Appreciation Fund Q4 2024 Commentary",
+      "description": "Hartford Capital Appreciation Fund (I share) underperformed the Russell 3000 Index during the quarter. Read more here.",
+      "published_utc": "2025-02-25T05:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac1afa1887f0f6954a9345633a3b5326e2345cf0a4e41deabbb9825378b52de6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1089284390/image_1089284390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132867142,
+      "datetime": 1740432660
+    },
+    {
+      "title": "These 3 healthcare stories are spooking investors. But they shouldn’t worry.",
+      "description": "These 3 healthcare stories are spooking investors. But they shouldn’t worry.",
+      "published_utc": "2025-02-25T02:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=78e4502bde1d47c430caff53a5a425096ccf04099f891be716f3a1e530fd36ca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881807,
+      "datetime": 1740421800
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Singapore Set to Hold Policy as Economy Shows Tariff Resilience",
+      "description": "(Bloomberg) -- Singapore’s central bank will likely leave its monetary policy unchanged for the first time this year, adopting a wait-and-see approach as policymakers gauge looming US tariffs that risk weighing on growth. Most Read from BloombergBudapest’s Most Historic Site Gets a Controversial RebuildSan Francisco in Talks With Vanderbilt for Downtown CampusCan This Bridge Ease the Troubled US-Canadian Relationship?Trump Administration Sues NYC Over Sanctuary City PolicyFourteen of 19 economis",
+      "published_utc": "2025-07-29T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=158aa061fefb0d4706d675482face2b3c3fcfe13488134d8da856a4c42e0bada",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113422,
+      "datetime": 1753743600
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
+      "description": "Consumer stocks were mixed Monday afternoon, with the Consumer Staples Select Sector SPDR Fund (XLP)",
+      "published_utc": "2025-07-29T01:38:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3137b038f9a84eae228124cdf45678ccb2730c9fb3e07216a3dc80fcea703957",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107908,
+      "datetime": 1753724296
+    },
+    {
+      "title": "Most US Banks Deliver Quarterly Beats Amid Revenue Growth, Raymond James Says",
+      "description": "A majority of US banks have surpassed Wall Street's second-quarter expectations amid broad-based rev",
+      "published_utc": "2025-07-29T01:06:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eaa94ae19cdc3a0f3377b38c04435e388c7386eb0b9d67e03ccb1cc4a249ea46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107921,
+      "datetime": 1753722383
+    },
+    {
+      "title": "Update: Market Chatter: Diageo Appoints Bank of America, Goldman for East African Breweries Strategic Review",
+      "description": "(Updates with responses from Diageo and Bank of America, and Diageo recent stock movement in the las",
+      "published_utc": "2025-07-28T22:00:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1ce2ec461ab34e2644e1b19b0643e4ca62292ca3f1427a2daa63ba0c68a6a30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108056,
+      "datetime": 1753711240
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Netflix, Goldman Sachs and AMREP",
+      "description": "NVDA, NFLX, GS, and AXR stand out with strong performance and growth drivers, despite margin or macro risks.",
+      "published_utc": "2025-07-28T21:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24d2d86b4395aab02c647dcdde1504a4670c80630aee59e53a5708da704e229a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107960,
+      "datetime": 1753708320
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:13:14.189277+00:00",
+    "cache_key": "news_f044806e04c81dc8312009c362eee55f",
+    "count": 5
+  }
+}

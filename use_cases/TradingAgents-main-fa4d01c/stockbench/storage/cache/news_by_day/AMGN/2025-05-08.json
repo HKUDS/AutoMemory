@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. (AMGN): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Amgen Inc. (AMGN) on Substack by Magnus Ofstad. In this article, we will summarize the bulls’ thesis on AMGN. Amgen Inc. (AMGN)’s share was trading at $281.22 as of May 2nd. AMGN’s trailing and forward P/E were 25.64 and 13.48 respectively according to Yahoo Finance. Amgen (AMGN) delivered a strong […]",
+      "published_utc": "2025-05-08T02:52:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08570c4b93992ecb27dff21727a2b698ae56dbca90d43252544f7da3570ea912",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316920,
+      "datetime": 1746643954
+    },
+    {
+      "title": "Is Amgen Inc. (AMGN) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where Amgen Inc. (NASDAQ:AMGN) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of the […]",
+      "published_utc": "2025-05-08T02:18:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4447c4d7bb1dbc991f1cbf105f9f54b1f84b917ffd174d73a8eb9670d130417",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316921,
+      "datetime": 1746641918
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-05-08T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b439a13ffc560222aa8d94dc80ff4c69cf278a0aee81ba9498285646368b4073",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134342370,
+      "datetime": 1746635760
+    }
+  ]
+}

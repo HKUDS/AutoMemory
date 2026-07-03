@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Trump Touts Economic Wins in Detroit Speech. Americans Aren’t Buying It.",
+      "description": "Trump Touts Economic Wins in Detroit Speech. Americans Aren’t Buying It.",
+      "published_utc": "2025-04-30T04:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=894f4c2b17060051d215b00750f8b1016c97b3f546e01d577e2de7b7bbc65944",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134145981,
+      "datetime": 1745959560
+    },
+    {
+      "title": "Best Dividend Aristocrats For May 2025",
+      "description": "Dividend Aristocrats lag behind the S&P 500 in April, but 25 are undervalued with 10% returns potential. Click to read about promising Aristocrats.",
+      "published_utc": "2025-04-30T04:07:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f464ee9b58092cefa3cc5defb8d523f2a517a541963eb0ee91228b354b0a2cd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168720864/image_2168720864.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134137634,
+      "datetime": 1745957242
+    }
+  ]
+}

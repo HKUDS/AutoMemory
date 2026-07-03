@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Core CPI In Focus With JPMorgan, Goldman, Netflix Set To Report Earnings",
+      "description": "This week witnesses earnings from banking giants like JPM, WFC, BAC, BLK. Investors may also look at Core CPI and Core PPI on Tuesday and Wednesday.",
+      "published_utc": "2025-07-12T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7751bce4c5a6b5b71cb3d90dda3e6c5737835e031f364e5f29d650ea3b819155",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135899272,
+      "datetime": 1752318000
+    }
+  ]
+}

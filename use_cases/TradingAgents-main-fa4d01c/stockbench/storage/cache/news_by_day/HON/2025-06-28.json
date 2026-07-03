@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "When Should You Buy Honeywell International Inc. (NASDAQ:HON)?",
+      "description": "Today we're going to take a look at the well-established Honeywell International Inc. ( NASDAQ:HON ). The company's...",
+      "published_utc": "2025-06-28T19:00:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24f515f93dd18662a4383fe6fe7a723c2a477450e9576c0892e38e73d477dfc6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135617627,
+      "datetime": 1751108440
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 1",
+      "description": "",
+      "published_utc": "2025-05-31T09:12:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42b9a4d439225ecc47d5249cd8fe37b2557654876c54a9c9167fbc95d81a1d41",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134912242,
+      "datetime": 1748653941
+    },
+    {
+      "title": "abrdn Life Sciences Investors Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-31T08:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a43801cb46ae43d45b78fba22426c61b25efdf36ba75aa6357f4220e9041fb1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134911124,
+      "datetime": 1748650800
+    }
+  ]
+}

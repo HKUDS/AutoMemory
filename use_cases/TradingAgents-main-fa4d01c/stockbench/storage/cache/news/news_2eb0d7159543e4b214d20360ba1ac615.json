@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "b289f0723ed4616fa7806969c71013b0c72daf050f972598e4005efc56d439f4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Plunge in This E-Commerce Stock Is a Great Buying Opportunity",
+      "author": "Lee Samaha",
+      "published_utc": "2025-03-15T07:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/15/the-plunge-in-this-e-commerce-stock-is-a-great-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "GXO",
+        "HON",
+        "CGNX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810632/gettyimages-1210182430-1201x800-5b2df79.jpg",
+      "description": "GXO Logistics, a contract logistics provider, has experienced a stock price decline due to temporary setbacks with large customers. However, the company's long-term growth prospects remain excellent, driven by the increasing adoption of automation and intelligent technology in the logistics industry.",
+      "keywords": [
+        "GXO Logistics",
+        "contract logistics",
+        "automation",
+        "intelligent technology",
+        "e-commerce warehousing"
+      ],
+      "insights": [
+        {
+          "ticker": "GXO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the recent decline in GXO Logistics' stock price is a buying opportunity, as the company's long-term growth prospects remain excellent. The article highlights the company's ability to add value through the adoption of automation and intelligent technology, which is expected to drive future growth."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites Honeywell's management comments indicating that warehouse automation sales are expected to stabilize in 2025, suggesting a potential recovery in the industry."
+        },
+        {
+          "ticker": "CGNX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article quotes the CEO of Cognex, another company with exposure to e-commerce warehousing, who stated that market growth has improved as large e-commerce players return to capacity expansion, indicating a potential recovery in the industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:54.205996+00:00",
+    "cache_key": "news_2eb0d7159543e4b214d20360ba1ac615",
+    "count": 1
+  }
+}

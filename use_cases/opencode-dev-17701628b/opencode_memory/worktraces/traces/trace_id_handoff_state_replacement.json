@@ -1,0 +1,117 @@
+{
+  "trace_id": "trace_id_handoff_state_replacement",
+  "eval_mode": "qa",
+  "category": "multi_session",
+  "description": "Active handoff should replace stale task state and keep the current plan, blockers, decisions, and files.",
+  "turns": [
+    {
+      "role": "system",
+      "content": "older compaction wrote a stale checkout task",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish checkout refactor",
+          "constraints": "Do not edit generated clients",
+          "done": ["Mapped checkout service entry points"],
+          "inProgress": ["Editing src/checkout/cart.ts"],
+          "blockers": ["Need product API schema"],
+          "decisions": ["Use old CartClient"],
+          "nextSteps": ["Patch cart totals"],
+          "files": ["src/checkout/cart.ts"]
+        }
+      }
+    },
+    {
+      "role": "system",
+      "content": "--- session boundary ---",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "new compaction wrote the active billing migration task",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish billing migration rollout",
+          "constraints": "Keep Stripe calls in stub mode until staging signoff",
+          "done": ["Created migration scaffold", "Updated billing service tests"],
+          "inProgress": ["Verifying invoice retry backoff"],
+          "blockers": ["Need staging-east deploy token"],
+          "decisions": ["Use idempotency keys per invoice attempt"],
+          "nextSteps": ["Run bun test packages/billing --retry 2", "Deploy only after staging-east approval"],
+          "files": ["packages/billing/src/retry.ts", "packages/billing/test/retry.test.ts"]
+        }
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Noise about unrelated docs cleanup.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "format succeeded",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "shell" }
+    },
+    {
+      "role": "user",
+      "content": "Continue the migration later.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Acknowledged.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention pressure marker",
+      "used_for_evaluation": false,
+      "metadata": { "retention_flush": true }
+    },
+    {
+      "role": "tool",
+      "content": "test logs truncated",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "End of session.",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What is the active goal?",
+      "expected_information": [
+        { "value": "Finish billing migration rollout", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What is currently in progress?",
+      "expected_information": [
+        { "value": "Verifying invoice retry backoff", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What blocker must be resolved?",
+      "expected_information": [
+        { "value": "staging-east deploy token", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which files are relevant?",
+      "expected_information": [
+        { "value": "packages/billing/src/retry.ts", "matcher": "substring" },
+        { "value": "packages/billing/test/retry.test.ts", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Did the old checkout task remain active?",
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*checkout refactor)(?![\\s\\S]*src/checkout/cart\\.ts)[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

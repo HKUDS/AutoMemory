@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs, Amazon.com Inc. share gains contribute to Dow's 229-point climb",
+      "description": "Goldman Sachs, Amazon.com Inc. share gains contribute to Dow's 229-point climb",
+      "published_utc": "2025-04-02T23:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9edf30f41937168a3984c8fce44f17c34994380ed110caf7ac8ce94b9b03a7f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133704637,
+      "datetime": 1743608520
+    },
+    {
+      "title": "Dow's 115-point rally led by gains for Goldman Sachs, Amazon.com Inc. stocks",
+      "description": "Dow's 115-point rally led by gains for Goldman Sachs, Amazon.com Inc. stocks",
+      "published_utc": "2025-04-02T21:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21803cd693484d4c9f4cf02fd33326152e0f47b43694659cabd9512b0a318f89",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669494,
+      "datetime": 1743601800
+    },
+    {
+      "title": "Visa Offers Apple Millions to Get Credit Card Network Ops, Report Says",
+      "description": "Visa has reportedly offered Apple around $100 million in a bid to replace Mastercard as the provider of the Cupertino-based tech firm's payments network.",
+      "published_utc": "2025-04-02T21:27:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6841fb6b6840ac2febeeaa6d75aa7464e621caeed1d93797f2de6a4dcdf955ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669216,
+      "datetime": 1743600426
+    },
+    {
+      "title": "Dow's 250-point rally highlighted by gains for Goldman Sachs, Amazon.com Inc. shares",
+      "description": "Dow's 250-point rally highlighted by gains for Goldman Sachs, Amazon.com Inc. shares",
+      "published_utc": "2025-04-02T20:49:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f53cfbded9237c421a76c60e3c144db6fb6ba4574a74553fb2c141fca8feccd9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669500,
+      "datetime": 1743598140
+    }
+  ]
+}

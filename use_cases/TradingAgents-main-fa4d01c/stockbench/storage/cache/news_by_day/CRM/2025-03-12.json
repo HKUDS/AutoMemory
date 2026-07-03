@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "description": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "published_utc": "2025-03-12T21:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e185644cf9401799a776256a16a00a954fad7f8febe84f7bfca4603bbff76193",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157632,
+      "datetime": 1741786260
+    },
+    {
+      "title": "Salesforce Unveils $1 Billion Singapore Expansion, AI Workforce Plans",
+      "description": "Salesforce to Invest $1B in Singapore to Boost AI and Digital Transformation",
+      "published_utc": "2025-03-12T20:35:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30e4b91d51c5af109755afc1fee0c3aafa84abfba8959f4bb18d16aa9e74b46d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184592,
+      "datetime": 1741782914
+    },
+    {
+      "title": "Megacap tech stocks are pulling Wall Street back from the edge in midday trading",
+      "description": "Megacap tech stocks are pulling Wall Street back from the edge in midday trading",
+      "published_utc": "2025-03-12T20:25:36",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=12163ac1b21b6c4fd04ce48369494c564d1d8d63185886c854d224407f226530",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133154826,
+      "datetime": 1741782336
+    }
+  ]
+}

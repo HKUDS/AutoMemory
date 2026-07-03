@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-07T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8f6225113ec3808006072fa991ebb416b01001de34976f17735d1eae75d8f84d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132582725,
+      "datetime": 1738859640
+    }
+  ]
+}

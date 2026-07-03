@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (NYSE:UNH) Reaches US$69 Million Record ERISA Settlement",
+      "description": "UnitedHealth Group (NYSE:UNH) recently reached a $69 million settlement in a fiduciary duty lawsuit, underscoring its legal challenges. This development, coupled with UnitedHealth's exploration of selling its Latin American operations amid financial difficulties, significantly impacts the company's reputation and strategy. Last week, UnitedHealth's stock price increased by 3%, reflecting these events. The overall market remained flat during the same period, suggesting these specific...",
+      "published_utc": "2025-06-15T01:15:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98a3702fd7e90e177c3a0ac6230bc7b512d1c6f658761d91c70d63c74704fd71",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272475,
+      "datetime": 1749921320
+    }
+  ]
+}

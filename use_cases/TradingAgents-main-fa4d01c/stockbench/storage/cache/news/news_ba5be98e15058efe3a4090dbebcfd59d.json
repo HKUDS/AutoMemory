@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Apple, Nike share losses lead Dow's 250-point fall",
+      "description": "Apple, Nike share losses lead Dow's 250-point fall",
+      "published_utc": "2025-04-08T23:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=30996f3f54b72dfeadbfa0746a0ce9b1581598024b166e79aa129ea9071d3c36",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823018,
+      "datetime": 1744125000
+    },
+    {
+      "title": "1 Dow Jones Stock to Target This Week and 2 to Keep Off Your Radar",
+      "description": "While the Dow Jones represents industry leaders, not every stock in the index is a safe bet. Some are facing headwinds like declining demand, rising costs, or disruptive new competitors.",
+      "published_utc": "2025-04-08T22:25:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1b36e3a9cc066fb9de9889a58d6d856c230a5cb04bd1b6505a2471bfbb82a53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823429,
+      "datetime": 1744122350
+    },
+    {
+      "title": "Sherwin-Williams price target lowered to $400 from $430 at UBS",
+      "description": "UBS lowered the firm’s price target on Sherwin-Williams (SHW) to $400 from $430 and keeps a Buy rating on the shares. The firm sees another challenging earnings cycle, with “largely ok” downstream earnings, while upstream/commodity earnings will be impacted by higher costs and likely weaker end of quarter demand, the analyst tells investors in a research note. UBS sees earnings misses to drive stocks down vs. provide relief. Published first on TheFly – the ultimate source for real-time, market-m",
+      "published_utc": "2025-04-08T21:50:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ced6dea28a148af63f0f40b199ded6e9f3f49cabd615b46dcb03b902b6bbd743",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823909,
+      "datetime": 1744120227
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:14.828028+00:00",
+    "cache_key": "news_ba5be98e15058efe3a4090dbebcfd59d",
+    "count": 3
+  }
+}

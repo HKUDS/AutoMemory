@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (NYSE:JNJ) Submits sNDA For Schizophrenia Drug CAPLYTA® To FDA",
+      "description": "Johnson & Johnson (NYSE:JNJ) submitted a supplemental New Drug Application for CAPLYTA®, aiming to prevent schizophrenia relapse, marking a significant step in expanding its mental health portfolio. Over the last quarter, Johnson & Johnson's stock price increased by 4%. This movement aligns with the broader market trends, which have shown steady growth despite some trade uncertainties. The company's efforts in the pharmaceutical sector and robust earnings likely contributed positively to its...",
+      "published_utc": "2025-07-09T01:26:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dda058c5eb97ab0f86a5485aabe0905835e1f8076da4acf8c39439e820ce272",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829767,
+      "datetime": 1751995618
+    },
+    {
+      "title": "Trump says pharmaceutical tariffs could reach 200%",
+      "description": "U.S. President DonaldTrump on Tuesday said he plans to announce tariffs on importedpharmaceuticals which could reach 200% but he would givedrugmakers about one year to get their act together. ...",
+      "published_utc": "2025-07-09T01:15:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ad58440456c926559c68bd2e6b6e91ab8c66b954068a94580d45ed2a4b2923e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135822191,
+      "datetime": 1751994912
+    }
+  ]
+}

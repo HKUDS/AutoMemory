@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dow falls nearly 250 points on losses in Merck, Nike shares",
+      "description": "Dow falls nearly 250 points on losses in Merck, Nike shares",
+      "published_utc": "2025-05-28T23:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0e33b018e1d2fa8fd6437b1b95863915779c03437279ff09a553ad2b4033843c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134815337,
+      "datetime": 1748447400
+    },
+    {
+      "title": "Ex-Goldman Banker Leissner to Be Sentenced Over 1MDB Scandal",
+      "description": "(Bloomberg) -- Nearly seven years after pleading guilty to his role in one of the largest financial scandals in history, former Goldman Sachs Group Inc. banker Tim Leissner is set to find out on Thursday if he’s going to prison.Most Read from BloombergNYC Congestion Toll Brings In $216 Million in First Four MonthsNY Wins Order Against US Funding Freeze in Congestion FightLeissner, 53, admitted to helping siphon billions of dollars from the Malaysian investment fund, 1MDB, to pay about $2 billion",
+      "published_utc": "2025-05-28T23:20:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7d446e06f9c348b43ba96dee9d4f7f1bb26afd948357e583368db10dd7daa64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134755895,
+      "datetime": 1748445640
+    },
+    {
+      "title": "Harvard, MIT Lead Elite Colleges’ $4 Billion Debt Spree After Trump Threat",
+      "description": "(Bloomberg) -- Elite American universities have taken on more than $4 billion in additional debt since March that will help protect their finances as the Trump administration takes aim at their budgets.Most Read from BloombergNYC Congestion Toll Brings In $216 Million in First Four MonthsNY Wins Order Against US Funding Freeze in Congestion FightHarvard University, the face of the fight, has boosted its debt load 16% after a bond sale in April. The Massachusetts Institute of Technology just ramp",
+      "published_utc": "2025-05-28T22:00:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c0023f8786aaabb05538f314ff53ea34977eb9658d9b1669f55e3516e156e0e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134755858,
+      "datetime": 1748440806
+    },
+    {
+      "title": "Saudi Stocks Set to Be World’s Worst in May After Oil-Price Drop",
+      "description": "(Bloomberg) -- Saudi Arabia’s sliding stocks are on course to be the worst performers globally this month as falling oil prices prompt concerns of slower spending on mega projects in the kingdom. Most Read from BloombergNY Wins Order Against US Funding Freeze in Congestion FightThe Tadawul All Share Index has slumped 6.4% in May as of Tuesday’s close, the most among 92 equity benchmarks tracked by Bloomberg. The Saudi gauge is also dropping for a fourth month, the longest losing streak since 201",
+      "published_utc": "2025-05-28T17:26:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ee2d0542def2e5c6fa210344441e4a4c620ecaee3c840447cafefb6580f823a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134742048,
+      "datetime": 1748424400
+    }
+  ]
+}

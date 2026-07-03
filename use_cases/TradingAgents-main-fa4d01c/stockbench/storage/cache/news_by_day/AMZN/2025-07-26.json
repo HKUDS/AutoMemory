@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "2 Artificial Intelligence (AI) Stocks With High Conviction",
+      "description": "Are these two AI stocks good buys?",
+      "published_utc": "2025-07-26T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45c2ff97d4374c984b00f368c9bb9473289c46b1e56665df19f47d1b7e9ddd5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101511,
+      "datetime": 1753539300
+    }
+  ]
+}

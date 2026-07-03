@@ -1,0 +1,200 @@
+{
+  "trace_id": "trace_01_medication_management",
+  "description": "Tests stable health profile: basic profile, conditions, medication add/dose-update/discontinue, multiple allergies. Critical: dose change must update existing entry (not duplicate), discontinuation must mark as discontinued (not delete).",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "Hey, can you recommend any good Italian restaurants nearby? I'm in the mood for some pasta tonight."},
+        {"role": "assistant", "content": "I don't have access to live restaurant data, but I'd suggest checking Yelp or Google Maps for highly rated Italian spots near you. Look for places with house-made pasta and a good wine list!"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to store leftover pasta sauce?"},
+        {"role": "assistant", "content": "Store leftover pasta sauce in an airtight container in the refrigerator for up to 5 days, or freeze it for up to 3 months. Let it cool completely before refrigerating to avoid condensation."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I want to make sure you have my basic health info on file. My date of birth is March 15, 1968. My blood type is A positive. My emergency contact is my wife Jane Doe, her phone is 555-234-5678."},
+        {"role": "assistant", "content": "Got it! I've noted your basic profile: Date of birth March 15, 1968, blood type A+, and emergency contact Jane Doe (wife) at 555-234-5678. This is stored in your health profile for quick reference."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you help me understand how compound interest works?"},
+        {"role": "assistant", "content": "Compound interest means you earn interest on both your original principal and the accumulated interest. For example, $1,000 at 5% annual interest compounded annually becomes $1,050 after year 1, then $1,102.50 after year 2 — you earned interest on the interest."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I was diagnosed with type 2 diabetes back in early 2023. It's been a big lifestyle adjustment. Also found out I have hypertension — that was diagnosed in 2021."},
+        {"role": "assistant", "content": "Thank you for sharing that. I've added type 2 diabetes (diagnosed 2023) and hypertension (diagnosed 2021) to your problem list. These are important to track since they often interact. Are you currently on medications for either condition?"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What do you think is the best programming language to learn in 2026?"},
+        {"role": "assistant", "content": "Python remains excellent for data science and AI. Rust is growing fast for systems programming. TypeScript is dominant for web development. The 'best' depends on your goal — Python for ML/AI, JavaScript/TypeScript for web, Rust for performance-critical systems."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "For my diabetes I'm taking Metformin 500mg twice a day. I started it in January 2024. And for hypertension I'm on Lisinopril 10mg once a day, started that back in March 2022."},
+        {"role": "assistant", "content": "I've recorded your medications: Metformin 500mg twice daily (started January 2024, for type 2 diabetes) and Lisinopril 10mg once daily (started March 2022, for hypertension). I'll keep these updated as things change."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you suggest a good workout routine for someone who hasn't exercised in a while?"},
+        {"role": "assistant", "content": "Start with 3 days per week of mixed cardio and strength. Week 1-2: 20-minute walks + basic bodyweight exercises (squats, push-ups, planks). Gradually increase duration and intensity. Rest days are equally important for recovery."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any good science fiction books you'd recommend?"},
+        {"role": "assistant", "content": "Some excellent sci-fi reads: 'Project Hail Mary' by Andy Weir (optimistic, science-forward), 'The Three-Body Problem' by Liu Cixin (epic scope), 'Exhalation' by Ted Chiang (mind-bending short stories), and 'A Fire Upon the Deep' by Vernor Vinge (space opera classic)."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I should mention I take a few supplements too. I take Vitamin D 2000 IU every day, and fish oil 1000mg daily. Started both about 2 years ago."},
+        {"role": "assistant", "content": "Noted! I've added Vitamin D 2000 IU daily and fish oil 1000mg daily to your medication/supplement list, both started approximately 2 years ago. Vitamin D is important for bone health and immune function, especially alongside diabetes management."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to learn Spanish as an adult?"},
+        {"role": "assistant", "content": "Immersion-based learning works best: use Duolingo or Babbel for daily practice, watch Spanish TV shows with subtitles, find a language exchange partner, and try to think in Spanish rather than translating. Consistency beats intensity — 20 minutes daily is better than 3 hours weekly."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I need to tell you about my allergies. I'm allergic to penicillin — the last time I took it I got a full body rash and hives. The reaction was pretty bad, the doctor called it a moderate severity reaction. Also I have a sensitivity to ibuprofen — it causes GI bleeding when I take it, which the doctor classified as a severe adverse reaction. So I avoid both completely."},
+        {"role": "assistant", "content": "This is critically important — I've recorded your allergies:\n1. Penicillin → hives/full body rash (severity: moderate)\n2. Ibuprofen → GI bleeding (severity: severe adverse reaction)\n\nThese will always be visible in your health profile, and I'll flag any potential conflicts if you're ever considering a new medication."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good vacation spots in Europe for a first-time visitor?"},
+        {"role": "assistant", "content": "For first-time European visitors: Rome for history and food, Barcelona for architecture and beaches, Amsterdam for canals and culture, Prague for affordability and beauty, and Lisbon for great food and weather. Spring and early fall are ideal for avoiding peak crowds."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I get better at chess?"},
+        {"role": "assistant", "content": "Focus on these areas: study basic tactics (pins, forks, skewers) on Chess.com or Lichess, analyze your own games, learn 1-2 solid openings per color rather than many, and practice endgames — most amateurs neglect them. Playing regularly with post-game analysis is more valuable than quantity alone."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How should I store fresh herbs from the garden?"},
+        {"role": "assistant", "content": "For most fresh herbs like basil, place stems in a jar of water (like flowers) at room temperature. For herbs like cilantro and parsley, refrigerate in water. Hardier herbs like thyme and rosemary can be wrapped in damp paper towel and refrigerated for up to 2 weeks."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I saw my endocrinologist last week and she increased my Metformin dose. I'm now on Metformin 1000mg twice daily instead of the 500mg. She said my A1c needed more control. The new dose started on April 8, 2026."},
+        {"role": "assistant", "content": "I've updated your Metformin dose: changed from 500mg to 1000mg twice daily as of April 8, 2026, on your endocrinologist's recommendation for better A1c control. Your medication record now reflects the current dose of 1000mg — the old 500mg dose has been replaced."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you explain what machine learning actually is in simple terms?"},
+        {"role": "assistant", "content": "Machine learning is teaching computers to learn from examples rather than explicit rules. Instead of programming 'if cat → say cat,' you show the system thousands of cat photos and it learns what patterns make a cat. It's pattern recognition at scale — the computer finds the rules itself from data."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good tips for saving money on groceries?"},
+        {"role": "assistant", "content": "Key grocery savings tips: meal plan before shopping, buy store brands, shop sales for non-perishables, buy seasonal produce, use a grocery list to avoid impulse buys, check unit prices not just total price, and consider freezing bulk purchases. Loyalty cards and cashback apps also add up over time."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Actually I need to update something important. I had to stop taking Lisinopril — I developed a persistent dry cough which is apparently a common side effect. I discontinued it on March 30, 2026. My cardiologist switched me to Amlodipine 5mg once daily starting April 1, 2026, also for hypertension. The Lisinopril is completely stopped."},
+        {"role": "assistant", "content": "I've updated your medication list:\n- Lisinopril 10mg: DISCONTINUED as of March 30, 2026 (reason: persistent dry cough — common ACE inhibitor side effect)\n- Amlodipine 5mg once daily: ADDED starting April 1, 2026, for hypertension (replacement for Lisinopril)\n\nThe Lisinopril entry is marked as discontinued rather than deleted so your medication history is preserved."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the difference between a Roth IRA and a traditional IRA?"},
+        {"role": "assistant", "content": "Traditional IRA: contribute pre-tax money (lowers taxable income now), pay taxes on withdrawals in retirement. Roth IRA: contribute after-tax money (no upfront deduction), but withdrawals in retirement are tax-free. Roth is generally better if you expect to be in a higher tax bracket in retirement."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any tips for maintaining a car long-term?"},
+        {"role": "assistant", "content": "Key car maintenance habits: follow the manufacturer's oil change schedule, rotate tires every 5,000-7,500 miles, check tire pressure monthly, replace air filters regularly, flush coolant per schedule, and address warning lights promptly. Keep records of all maintenance for resale value."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good strategies for improving sleep quality?"},
+        {"role": "assistant", "content": "Evidence-based sleep hygiene: consistent sleep/wake times (even weekends), keep bedroom cool (65-68°F), avoid screens 1 hour before bed, limit caffeine after 2pm, avoid alcohol close to bedtime (disrupts sleep cycles), and get morning sunlight to set circadian rhythm. Exercise helps but not within 3 hours of sleep."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What medications is the user currently taking?",
+      "expected_information": [
+        "Metformin",
+        "1000mg",
+        "twice daily",
+        "Amlodipine",
+        "5mg",
+        "Vitamin D",
+        "2000 IU",
+        "fish oil"
+      ]
+    },
+    {
+      "query": "Is Lisinopril still an active medication?",
+      "expected_information": [
+        "/lisinopril/",
+        "/discontinu|stopped|inactive/"
+      ]
+    },
+    {
+      "query": "What is the current Metformin dose?",
+      "expected_information": [
+        "1000mg"
+      ]
+    },
+    {
+      "query": "What allergies does the user have?",
+      "expected_information": [
+        "penicillin",
+        "hives",
+        "moderate",
+        "ibuprofen",
+        "/GI bleeding|gastrointestinal/",
+        "severe"
+      ]
+    },
+    {
+      "query": "What are the user's basic profile details?",
+      "expected_information": [
+        "1968",
+        "A positive",
+        "Jane Doe",
+        "555-234-5678"
+      ]
+    },
+    {
+      "query": "What chronic conditions does the user have?",
+      "expected_information": [
+        "diabetes",
+        "2023",
+        "hypertension",
+        "2021"
+      ]
+    }
+  ]
+}

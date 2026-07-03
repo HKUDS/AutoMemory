@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Quiet Code: How Digital Leaders Build Trust Before They're Even Found",
+      "description": "Team Editorial - Evrima Chicago LOS ANGELES, CA / ACCESS Newswire / July 12, 2025 / In an online era shaped by algorithms, avatars, and attention spans shorter than a GIF loop, your digital presence isn't just a marketing asset-it's an existential ...",
+      "published_utc": "2025-07-13T03:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e3f52560bb761de1191ed9fe89f3f431fa4f812b89047a1ca2718de1b7e2909",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135904531,
+      "datetime": 1752348600
+    }
+  ]
+}

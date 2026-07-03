@@ -1,0 +1,297 @@
+{
+  "items": [
+    {
+      "title": "Texas Is the Low-Cost, High-Reward Darling of Big Tech",
+      "description": "Texas Is the Low-Cost, High-Reward Darling of Big Tech",
+      "published_utc": "2025-03-01T18:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=51782290be9bbf7906d63cd6e8656547a2407fe3bb63565b93085565f6e86b49",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955602,
+      "datetime": 1740823200
+    },
+    {
+      "title": "Apple's $500B Investment Plan Might Lead To Lower Buybacks And Margins",
+      "description": "Apple's $500B plan may pressure margins, reduce buybacks, and hurt shareholder returns. Read here to know why we are bearish on AAPL stock.",
+      "published_utc": "2025-03-01T09:52:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4d8e8ac16a0ca81c24396f63c33e180db19259cd568bf113c2b96659e678360d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1197870278/image_1197870278.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132924214,
+      "datetime": 1740793943
+    },
+    {
+      "id": "2ddbc798ab989211056dcfb2326791cad1bf0bea41297c0637c71fadf98f0b5e",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Best Generative (GenAI) Course 2025 For Product Managers & Software Engineers For Top AI Jobs At Google Facebook Amazon Apple",
+      "author": "Interview Kickstart",
+      "published_utc": "2025-03-01T18:42:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/01/3035118/0/en/Best-Generative-GenAI-Course-2025-For-Product-Managers-Software-Engineers-For-Top-AI-Jobs-At-Google-Facebook-Amazon-Apple.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2025/03/01/3035118/0/en/Best-Generative-GenAI-Course-2025-For-Product-Managers-Software-Engineers-For-Top-AI-Jobs-At-Google-Facebook-Amazon-Apple.html",
+      "description": "Interview Kickstart has launched an Applied Generative AI (GenAI) Course to equip tech professionals with cutting-edge AI expertise. The course offers specialized pathways for software engineers, product managers, and data scientists, providing hands-on training in deploying large language models, neural networks, and other GenAI frameworks.",
+      "keywords": [
+        "Generative AI",
+        "AI training",
+        "software engineering",
+        "product management",
+        "data science"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Google, indicating that the course is seen as beneficial for securing AI-related jobs at Google."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Google, indicating that the course is seen as beneficial for securing AI-related jobs at Google."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Amazon, indicating that the course is seen as beneficial for securing AI-related jobs at Amazon."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Apple, indicating that the course is seen as beneficial for securing AI-related jobs at Apple."
+        }
+      ]
+    },
+    {
+      "id": "86f6bd21e2100ecfdc1112656ba28242671ce024e7751277546d363cf7b8166a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Feb 24-Feb 28): Australian Regulators Fined Telegram A$1 Million, Apple May Integrate Google Gemini AI Into Siri & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-03-01T16:00:48Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/03/44065599/consumer-tech-news-feb-24-feb-28-australian-regulators-fined-telegram-a1-million-apple-may-integra",
+      "tickers": [
+        "AAPL",
+        "AMC",
+        "AMZN",
+        "CHGG",
+        "GOOG",
+        "GOOGL",
+        "NFLX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/01/What-Happened-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Key highlights include Australian regulators fining Telegram for failing to respond to an inquiry, Apple potentially integrating Google's Gemini AI into Siri, and Chegg suing Google over AI-generated search overviews.",
+      "keywords": [
+        "Telegram",
+        "Apple",
+        "Google",
+        "Chegg",
+        "AI",
+        "Siri"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple may integrate Google's Gemini AI into Siri, which could improve the assistant's capabilities. The company is also reportedly preparing to launch new MacBook Air models and working on a smart home doorbell."
+        },
+        {
+          "ticker": "AMC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AMC CEO Adam Aron's comments on the world's biggest streamers rethinking their approach to the big screen, but does not provide a clear positive or negative sentiment."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Apple and Amazon are fully on board with the big screen, but does not provide any additional details about Amazon's specific actions or plans."
+        },
+        {
+          "ticker": "CHGG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Chegg has sued Google, alleging that its AI-generated search overviews are unfairly using publishers' content, reducing site traffic, and threatening the future of online publishing."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "mixed",
+          "sentiment_reasoning": "The article mentions that Apple may integrate Google's Gemini AI into Siri, which could be seen as a positive development. However, Chegg has sued Google over its AI-generated search overviews, which is a negative aspect."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "mixed",
+          "sentiment_reasoning": "The article mentions that Apple may integrate Google's Gemini AI into Siri, which could be seen as a positive development. However, Chegg has sued Google over its AI-generated search overviews, which is a negative aspect."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Netflix still needs convincing on the big screen approach, but does not provide any additional details or commentary on the company's stance."
+        }
+      ]
+    },
+    {
+      "id": "2bfca2f68b05106a571f6ad15765628c4834ed0c425fa00fe67197719159892d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Has Been Stockpiling Cash. It May Not Be the Dire Warning People Think.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-01T11:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/warren-buffett-has-been-stockpiling-cash-it-may/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808764/buffett1-tmf.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been building up a large cash position, but this may not be a dire warning as it is primarily due to Berkshire's strategy of investing in Treasury bills to hedge against declining earnings in its businesses.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "cash stockpile",
+        "Treasury bills"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's large cash position is not a sign of an impending market crash, but rather a strategic move to hedge against declining earnings in its businesses by investing in Treasury bills."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's large cash position is not a sign of an impending market crash, but rather a strategic move to hedge against declining earnings in its businesses by investing in Treasury bills."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Apple, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway's position in Bank of America, so the sentiment is neutral."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:28.601161+00:00",
+    "cache_key": "news_70847c1d592863b13a59d75a3d275535",
+    "count": 5
+  }
+}

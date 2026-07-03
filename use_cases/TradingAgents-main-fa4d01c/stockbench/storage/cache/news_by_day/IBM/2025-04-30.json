@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Trump says IBM and Raytheon might get contract to modernize air traffic controller system",
+      "description": "President Donald Trump said on Wednesday that the companies Raytheon Technologies and IBM may get the contract to modernize the nation's air traffic controller system. Trump added there...",
+      "published_utc": "2025-04-30T20:11:01",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=49ae382761b90c10b73e9dfc4c67b902c370adc5ccce41bfe167ce0478236e10",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147181,
+      "datetime": 1746015061
+    }
+  ]
+}

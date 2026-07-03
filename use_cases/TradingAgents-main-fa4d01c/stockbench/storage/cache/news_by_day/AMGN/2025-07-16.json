@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Amgen: Biosimilars And Rare Disease Pipeline Crucial To Overcome Patent Cliff Concerns",
+      "description": "Amgen's expanding rare disease and biosimilar portfolios, coupled with growth potential and dividend history make AMGN stock a strong long-term opportunity.",
+      "published_utc": "2025-07-16T07:40:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd95196df08df83dcb835a89e877361f36e0ec6beb9048b6078e84cf1c31a0ac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1401241138/image_1401241138.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135959071,
+      "datetime": 1752622845
+    },
+    {
+      "title": "What Makes Amgen (AMGN) a New Buy Stock",
+      "description": "Amgen (AMGN) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
+      "published_utc": "2025-07-16T00:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b44d38097d2519786d59afc133ac8d48a56b4855fd6bc3f2d5d00bb9f8330487",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965430,
+      "datetime": 1752595203
+    }
+  ]
+}

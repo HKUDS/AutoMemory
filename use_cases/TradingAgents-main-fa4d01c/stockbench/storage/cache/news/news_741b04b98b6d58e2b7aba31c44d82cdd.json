@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "MCD Q1 Earnings Call: Consumer Pressure, Menu Innovation, and Value Initiatives Shape Outlook",
+      "description": "Fast-food chain McDonald’s (NYSE:MCD) missed Wall Street’s revenue expectations in Q1 CY2025, with sales falling 3.5% year on year to $5.96 billion. Its non-GAAP profit of $2.67 per share was in line with analysts’ consensus estimates.",
+      "published_utc": "2025-05-06T05:50:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27f00e8c63a8091d48711fceacaa217bd0880c01280d2c5da562267c24c538bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266393,
+      "datetime": 1746481822
+    },
+    {
+      "title": "Podcast: The Corporate Playbook for Navigating Lower Consumer Spending",
+      "description": "Consumers feel shaky. That’s creating new challenges for big food and beverage companies. McDonald’s reported its worst sales since the pandemic for established U.S. restaurants. The CEO of Kraft Heinz, Carlos Abrams-Rivera, meanwhile, said that consumer sentiment had reached one of its lowest points in 70 years.",
+      "published_utc": "2025-05-06T00:08:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6df38bc5e84268634075fa3ccef92413f3e0180b7dc93415246ff885d55ba07b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266319,
+      "datetime": 1746461304
+    },
+    {
+      "title": "A Cautious Wendy's Upgrade Is The Latest Sign of Concern for Fast-Food Stocks",
+      "description": "Wendy's stock got an upgrade from JPMorgan analysts on Monday, but it came with a lowered price target as analysts are staying cautious on an uncertain fast-food industry.",
+      "published_utc": "2025-05-05T21:36:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aedf382c818acfe06a982d846600339b1ac027f506db74417654b70bc0e457e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246976,
+      "datetime": 1746452171
+    },
+    {
+      "title": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "description": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "published_utc": "2025-05-05T20:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d2454692857ed12a2f43286076b646d13672034d2dcf9b27722bf6104fa2a8da",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134254151,
+      "datetime": 1746446580
+    },
+    {
+      "title": "India's Jubilant pulls ahead of KFC, McDonald's as fourth-quarter earnings near",
+      "description": "India's Jubilant FoodWorks' strong sales growth for the March quarter is set to outpace rivals whose franchisees are expected to report muted growth despite value-focused promotions, several analysts said.  Operators of U.S. chains KFC, McDonald's and Burger King are likely to report a decline to mid-single-digit growth in same-store sales, as inflation-hit consumers cut back and local competition intensifies, according to six brokerages.  Jubilant, however, has already flagged a 12.1% increase in like-for-like sales in India in its quarterly update, which analysts say has benefited from its focus on online sales, discounts on third-party platforms, and a waiver of delivery fees on app orders.",
+      "published_utc": "2025-05-05T17:09:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=620d6c9ee9051e94b41f9f2726270d41861b2fb23e1d3fc2d4efb56d3ea09d1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246977,
+      "datetime": 1746436178
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:53.000160+00:00",
+    "cache_key": "news_741b04b98b6d58e2b7aba31c44d82cdd",
+    "count": 5
+  }
+}

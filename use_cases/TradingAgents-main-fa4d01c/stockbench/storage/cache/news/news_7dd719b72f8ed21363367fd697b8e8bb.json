@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Mexico Economy Narrowly Dodges Recession Amid US Trade Chaos",
+      "description": "(Bloomberg) -- Mexico’s economy expanded slightly in the first quarter on a jump in agricultural output, allowing President Claudia Sheinbaum to avoid recession as she steers the nation through an unpredictable US tariff policy. Most Read from BloombergNJ Transit Urges Commuters to Work Remotely If Union StrikesNYC Lost $9 Billion of Income to Miami, Palm Beach in Five YearsNew York City Transit System Chips Away at Subway Fare EvasionNYC’s Congestion Toll Raised $159 Million in the First Quarte",
+      "published_utc": "2025-05-01T04:05:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32f4c5fbc9b0b149b97583ca41b1e4b24a5e54e3690f1c14798994c5784eea71",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165864,
+      "datetime": 1746043525
+    },
+    {
+      "title": "Is The Goldman Sachs Group Inc. (GS) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where The Goldman Sachs Group Inc. (NYSE:GS) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or […]",
+      "published_utc": "2025-05-01T02:28:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2adb2e3569ca3193b80c30d467cc9a75e4a4b28592c15ae06f85c2e1d87e9e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166026,
+      "datetime": 1746037718
+    },
+    {
+      "title": "Goldman Sachs : Announces Redemption of Floating Rate Notes due May 15, 2026",
+      "description": "NEW YORK, NY, April 30, 2025 -The Goldman Sachs Group, Inc. today announced that it will redeem all of the issued and outstanding Floating Rate Notes due May 15, 2026 on May 15, 2025 . The Notes...",
+      "published_utc": "2025-05-01T00:46:29",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2f168b9fb5537855d4af048b689853c2e6cae40950d47d8a5459fd98583b1351",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134163533,
+      "datetime": 1746031589
+    },
+    {
+      "title": "Jim Cramer Says The Goldman Sachs Group, Inc. (GS) CEO David Solomon’s Quarter Call Was ‘Extraordinary’",
+      "description": "We recently published an article titled Jim Cramer Says Businesspeople Are Emotional & Discusses These 10 Stocks. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against the other stocks Jim Cramer recently discussed. In a recent appearance on CNBC’s Squawk on the Street, Jim Cramer […]",
+      "published_utc": "2025-04-30T19:22:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4126b9e214a58933b14193c891f806c9c32eda15c4879f4b31582f58edf47128",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141674,
+      "datetime": 1746012141
+    },
+    {
+      "title": "IHG to unveil second Holiday Inn & Suites in Japan; 195-room Holiday Inn & Suites Sapporo Odori Park will open in late 2025",
+      "description": "Tokyo, Japan: IHG Hotels & Resorts , one of the world's leading hotel companies, announced today an agreement with Minami Nijo Operations, a wholly-owned subsidiary of World Brands Collection Hotels &...",
+      "published_utc": "2025-04-30T18:57:25",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=23fad9706dc1fdcfa5dc0aed5688bce67f0c9ad61bf7e712c1719ecbecf3d183",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134145577,
+      "datetime": 1746010645
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:04.712689+00:00",
+    "cache_key": "news_7dd719b72f8ed21363367fd697b8e8bb",
+    "count": 5
+  }
+}

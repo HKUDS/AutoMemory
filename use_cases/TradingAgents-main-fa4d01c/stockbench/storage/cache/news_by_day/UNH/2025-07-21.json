@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stocks Going On Sale, Netflix Fell After Earnings, Others Should Too",
+      "description": "I see high-quality growth stocks like NFLX and META as overbought and at risk of further pullbacks. Read why I believe a mid-course correction is likely.",
+      "published_utc": "2025-07-21T04:55:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0ae39d339ad7580abb5b47d2711bd976bc3d3de0fac92472fcf160891b4bc41a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393651026/image_1393651026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136021671,
+      "datetime": 1753044927
+    }
+  ]
+}

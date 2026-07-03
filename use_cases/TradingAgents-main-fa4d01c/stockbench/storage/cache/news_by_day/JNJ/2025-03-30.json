@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Eli Lilly Vs. Novo Nordisk: Which Is The Better Bargain For Investors",
+      "description": "Eli Lilly and Novo Nordisk occupy leading positions in the obesity and diabetes markets. Find out which is the better bargain for investors.",
+      "published_utc": "2025-03-30T13:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e065d0a1e1188ee694cc2bc6539fc5b42f511784f8985ea5256abcfe2f272f87",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1453972690/image_1453972690.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133598030,
+      "datetime": 1743310800
+    }
+  ]
+}

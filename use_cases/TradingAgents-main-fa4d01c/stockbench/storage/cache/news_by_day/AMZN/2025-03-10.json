@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Beware Of Following The Wall Street Fashion Show It's Too Late",
+      "description": "The Wall Street Fashion Show describes the shift of hot money from established narratives like AI to new fads. Learn more about the market outlook here.",
+      "published_utc": "2025-03-10T05:48:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1cc9a13ccd279359ca88676bc817528ef7caba0d873e6994053f588f9c77aa2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200529932/image_200529932.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114309,
+      "datetime": 1741556903
+    }
+  ]
+}

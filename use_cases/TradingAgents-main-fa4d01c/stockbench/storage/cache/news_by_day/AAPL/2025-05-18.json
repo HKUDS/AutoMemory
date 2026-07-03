@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Beyond Nvidia, Four Things to Know at Asia’s Biggest Tech Show",
+      "description": "(Bloomberg) -- Nvidia Corp.’s Jensen Huang headlines the 2025 edition of Asia’s biggest electronics conference, for years a showcase for his company’s cutting-edge AI chips and the companies lining up to buy them. This year, however, the spotlight may well be on another far bigger personality: US President Donald Trump.Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Power-Hungry Data Centers Are Warming Homes in the NordicsMaryland’s Credit Rat",
+      "published_utc": "2025-05-18T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf3c3ebbf777bfc1c509310cb44435dce54bfeb4752f6da188a1992a5ba8e779",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577068,
+      "datetime": 1747526400
+    },
+    {
+      "title": "Apple iPhone Production In US 'Not Feasible,' Says Tech Bull After Donald Trump Tells Tim Cook To Stay Out Of India",
+      "description": "Wedbush analyst, Dan Ives anticipates that Apple Inc. (NASDAQ:AAPL) could increase its iPhone assembly production in India to 60%-65% by fall, depending on tariff negotiations. What Happened: On Friday, Ives posted his views on X that Apple could significantly ramp up its iPhone assembly in India in a best-case scenario. However, he also noted that the tech giant could revert to a China-driven iPhone strategy depending on the tariff situation and deal negotiations. He added that U.S. iPhone prod",
+      "published_utc": "2025-05-18T07:31:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef1d270f1b7463bf6ad151a9351f71b3b706b07f545b0000c5208f7f49e6a3f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567645,
+      "datetime": 1747524709
+    },
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $500 Right Now",
+      "description": "Apple and American Express are two of Berkshire Hathaway's largest investments.  Apple's push into services, in addition to Apple Intelligence, should lead to profitable growth for investors.  American Express is a resilient credit card brand that continues to adapt its offering to win over a new generation of consumers.",
+      "published_utc": "2025-05-18T06:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a30e73cf5f4a389c820df1ff0c28a558addba241614336799c3407f0947fb9a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567646,
+      "datetime": 1747520040
+    },
+    {
+      "title": "Apple (NasdaqGS:AAPL) Faces Legal Setback as Court Advances Patent Infringement Trial",
+      "description": "Apple (NasdaqGS:AAPL) has experienced a 7% increase in its share price over the past month amid several noteworthy events. The company faces a new trial in a patent infringement case against Fintiv Inc., which could have created some market anxiety. However, this potential setback might have been counterbalanced by Apple's positive earnings report, showing revenue and net income growth. The announcement of a new $100 billion share repurchase plan and a dividend increase also likely bolstered...",
+      "published_utc": "2025-05-18T01:24:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a02495a09d7b14233e574ef0f97fee9bcb5763fbbc40fead4af799a97b5eee90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567647,
+      "datetime": 1747502657
+    },
+    {
+      "title": "Epic Games asks judge to force Apple to approve Fortnite",
+      "description": "Epic Games is escalating its efforts to pressure Apple to allow its game Fortnite into its App Store, with a new court filing asking Judge Yvonne Gonzalez Rogers to require that Apple “accept any compliant version of Fortnite onto the U.S. storefront of the App Store.” Epic and Apple have been engaged in a years-long legal battle over Apple’s App Store policies, particularly the commissions Apple charges for in-app purchases. The Fortnite publisher scored a major victory last month when Judge Ro",
+      "published_utc": "2025-05-18T00:20:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1594117106d07f26cdd4d1417d4b3f9765814a9bc5df5e26e764375579caac54",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567648,
+      "datetime": 1747498843
+    }
+  ]
+}

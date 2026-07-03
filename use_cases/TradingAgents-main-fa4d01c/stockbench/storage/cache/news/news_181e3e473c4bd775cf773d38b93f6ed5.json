@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Here’s What to Expect From Travelers Companies’ Next Earnings Report",
+      "description": "Travelers Companies is expected to announce its second-quarter results next month, and analysts anticipate significant double-digit earnings growth.",
+      "published_utc": "2025-06-30T22:32:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=149d218b2990dd67a9431e90dc2f9876dacda35b0d4e4b2f7156560a5579c75c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671996,
+      "datetime": 1751293941
+    },
+    {
+      "title": "Travelers Announces Most Frequent Wedding Claims of 2024",
+      "description": "HARTFORD, Conn., June 30, 2025--Ahead of peak wedding season, The Travelers Companies, Inc. (NYSE: TRV) is highlighting the important role of wedding insurance. Unforeseen events, alongside common causes of loss demonstrated by Travelers wedding insurance claims, underscore the value of being prepared.",
+      "published_utc": "2025-06-30T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb1c5f3a4d1bc64cc9fb45afa6fd99b6c2feffa99b58be6bc073bec3c6e6fd02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671997,
+      "datetime": 1751288400
+    },
+    {
+      "title": "Declining Stock and Solid Fundamentals: Is The Market Wrong About The Travelers Companies, Inc. (NYSE:TRV)?",
+      "description": "It is hard to get excited after looking at Travelers Companies' (NYSE:TRV) recent performance, when its stock has...",
+      "published_utc": "2025-06-30T19:00:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=415c2e66b059d7202fd96b1816cde064905caaa78ec7cd535ef9502df5402502",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671998,
+      "datetime": 1751281216
+    },
+    {
+      "title": "Travelers : MN Lobbyist Disbursement Report Jan - May 2025",
+      "description": "Minnesota Campaign Finance and Public Disclosure Board ReportYear 25 ReportQuarter 1 Submit Date 6/13/2025 ...",
+      "published_utc": "2025-06-30T16:19:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7ea8d288bd8d06551d5bb845886269f0b73dfe5ec9f188d9e612d3be1545dcec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135650962,
+      "datetime": 1751271548
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:33.476971+00:00",
+    "cache_key": "news_181e3e473c4bd775cf773d38b93f6ed5",
+    "count": 4
+  }
+}

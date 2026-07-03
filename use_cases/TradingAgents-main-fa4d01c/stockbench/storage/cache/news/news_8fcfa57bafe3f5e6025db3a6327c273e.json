@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen Says Imdelltra Reduced Death Risk by 40% in Small Cell Lung Cancer Trial",
+      "description": "Amgen (AMGN) said Monday its Imdelltra drug lowered the risk of death by 40% compared to standard ch",
+      "published_utc": "2025-06-03T04:29:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd1121c70a6968c9d27bc3e80597982813a212de2df250b39f7648123658b806",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968361,
+      "datetime": 1748896181
+    },
+    {
+      "title": "ASCO25: Amgen’s Nplate proves effective in GI cancer-linked thrombocytopaenia",
+      "description": "Nplate improved platelet response and reduced therapy modification for patients with chemotherapy-induced thrombocytopaenia.",
+      "published_utc": "2025-06-03T01:38:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7861878d7598db23633cbe515b1cc535e60b18a7fdffe0b33ff71501da1088f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968362,
+      "datetime": 1748885928
+    },
+    {
+      "title": "Amgen (NasdaqGS:AMGN) Announces Positive Results From Phase 3 Lung Cancer Trial",
+      "description": "Amgen (NasdaqGS:AMGN) recently announced interim results from its Phase 3 DeLLphi-304 trial for IMDELLTRA, showing significant improvement in survival outcomes for SCLC patients. This announcement coincided with a 6% rise in the company's stock last week. This gain aligns with the broader market trend, as the market also posted gains recently, despite minor fluctuations due to ongoing China-U.S. trade tensions. The promising clinical trial results likely provided additional positive sentiment...",
+      "published_utc": "2025-06-03T01:14:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5579c5db4802c5b88663553c6a53454527284ba8a6f2d764738a2aaa1c69f81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968363,
+      "datetime": 1748884498
+    },
+    {
+      "title": "IMDELLTRA® SIGNIFICANTLY REDUCED RISK OF DEATH BY 40% IN SMALL CELL LUNG CANCER PATIENTS",
+      "description": "Amgen (NASDAQ:AMGN) today announced new interim results from the global Phase 3 DeLLphi-304 trial showing IMDELLTRA® (tarlatamab-dlle) reduced the risk of death by 40% and significantly extended median overall survival (OS) by more than five months compared to standard-of-care (SOC) chemotherapy in patients with small cell lung cancer (SCLC) who progressed on or after one line of platinum-based chemotherapy (median OS: 13.6 vs 8.3 months; hazard ratio [HR], 0.60; 95% confidence interval [CI]: 0.",
+      "published_utc": "2025-06-02T20:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a16695b518ef42bbd852035eba4515850b7808df4c1927dd53b9a5d97590323",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134937219,
+      "datetime": 1748865840
+    },
+    {
+      "title": "Amgen Announces New Interim Results from the Global Phase 3 Dellphi-304 Trial Showing Imdelltra® (Tarlatamab-Llle)",
+      "description": "Amgen announced new interim results from the global Phase 3 DeLLphi-304 trial showing IMDELLTRA® reduced the risk of death by 40% and significantly extended median overall survival by more than...",
+      "published_utc": "2025-06-02T17:05:28",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a7a1221c3818480d79d82982516185537d2f1544959bb9466bdaa4cac6f1e35d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134938125,
+      "datetime": 1748855128
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:07.496833+00:00",
+    "cache_key": "news_8fcfa57bafe3f5e6025db3a6327c273e",
+    "count": 5
+  }
+}

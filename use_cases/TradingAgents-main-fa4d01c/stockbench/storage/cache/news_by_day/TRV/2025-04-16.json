@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Citizens earnings, Travelers stock pops: Trending tickers",
+      "description": "Wealth Host Brad Smith, joined Madison Mills, takes a closer look at some of the trending tickers during the trading day. Citizens Financial Group (CFG) reported net interest income and revenue that were in line with estimates as the firm beat on earnings. Travelers (TRV) reported a profit beat, with core earnings per share (EPS) coming in at $1.91, compared to estimates of $0.75. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+      "published_utc": "2025-04-16T23:38:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9479b6f738a4ea7b5db64a8af8b532a0fbeac9eb3c09a4e0413a643d20ae20e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935934,
+      "datetime": 1744817897
+    }
+  ]
+}

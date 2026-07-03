@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "How To Buy Low And Sell High Consistently For Lifelong Wealth",
+      "description": "",
+      "published_utc": "2025-04-12T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98245e313a1904662c3f16550cb0717c1994123cf8eff3760881c035898779cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894505,
+      "datetime": 1744446600
+    },
+    {
+      "title": "America’s Heartland Is Coming Back. Can the Recovery Last?",
+      "description": "America’s Heartland Is Coming Back. Can the Recovery Last?",
+      "published_utc": "2025-04-11T21:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=480bac1d652d9eb1dfb1f3a77f9251ef586a4e6eeb10d1b4ec59b4d96c572d3b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133889501,
+      "datetime": 1744378500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:26.046839+00:00",
+    "cache_key": "news_2e18d2b5c0a73b1fb052ccd6250f023a",
+    "count": 2
+  }
+}

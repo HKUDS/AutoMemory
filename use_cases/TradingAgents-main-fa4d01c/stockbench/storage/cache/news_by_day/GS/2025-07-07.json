@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Q2 Earnings Preview: M&A Outlook Should Become More Clear",
+      "description": "Goldman Sachs: Momentum-driven BUY rating despite slight overvaluation. Watch for Q2 earnings, M&A outlook, and asset management performance.",
+      "published_utc": "2025-07-07T22:42:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c2757ec555501bc25f520b5a337b4a67c9ec1375109851dcd749de04b398d4a7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365592578/image_1365592578.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787971,
+      "datetime": 1751899339
+    },
+    {
+      "title": "Does Capital One's Lower SCB Reflect Robust Capital Discipline?",
+      "description": "COF's lower SCB boosts capital flexibility, paving the way for growth investments, steady dividends, share repurchases and stronger returns.",
+      "published_utc": "2025-07-07T20:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e242323b5fffcbab20d8ae0898f466e7650feaf29f618180d23f87a7175d0ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135788669,
+      "datetime": 1751891280
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Apple, Oracle, Goldman Sachs and Precipio",
+      "description": "AAPL, ORCL, GS and PRPO are navigating growth, innovation and risk. See what Zacks analysts say about these standout names.",
+      "published_utc": "2025-07-07T18:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b14ce0580eb72bb28e9ef6936c864239897d59298ea5e4a91dcebf938a9ea7f0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135785130,
+      "datetime": 1751882580
+    },
+    {
+      "title": "Dye & Durham investor Plantro calls for special meeting, urges sale of company, documents show",
+      "description": "Canadian legal softwaremaker Dye & Durham's second biggest investor, PlantroLtd, has launched a proxy fight to elect new directors and ispushing for a sale of the company, according to documents...",
+      "published_utc": "2025-07-07T16:13:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aaceedae52ac088424b3ac8aca969306eacb67066f0b0b036463b4d8ebc3332a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135785133,
+      "datetime": 1751875998
+    }
+  ]
+}

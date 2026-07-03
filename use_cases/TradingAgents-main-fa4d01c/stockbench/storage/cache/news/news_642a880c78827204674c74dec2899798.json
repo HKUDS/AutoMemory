@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PHOENIX INVESTORS ACQUIRES 1.5 MILLION-SQUARE-FOOT INDUSTRIAL COMPLEX IN CORSICANA, TX",
+      "description": "An affiliate of Phoenix Investors (\"Phoenix\") announced the acquisition of a large industrial complex located at 2200 South Business 45 in Corsicana, Texas. The property adds approximately 1.5 million square feet across a 172-acre site to Phoenix's portfolio, bringing the Milwaukee-based commercial real estate firm's holdings to over 82 million square feet nationwide.",
+      "published_utc": "2025-06-26T01:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2bb119404462a23cd6fed57d67053df25417598f18b3d7eaa0eae1470159e02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533329,
+      "datetime": 1750873500
+    },
+    {
+      "title": "Is Supply Chain Modernization Enough to Lift Home Depot's Growth?",
+      "description": "HD's supply-chain investments and vendor partnerships aim to boost speed, efficiency and resilience.",
+      "published_utc": "2025-06-25T22:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3566f0f256a8ed2f33baaed465cd38e3aaeb518a1faa31cc55429e09ea52edc5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135528406,
+      "datetime": 1750861800
+    },
+    {
+      "title": "Raymond James downgrades GMS Inc. stock amid possible takeover speculation",
+      "description": "Investing.com - A surge in GMS shares following recent speculation around a potential bidding war has left the risk-to-reward profile of the stock more \"balanced,\" analysts at Raymond James said in a note downgrading their rating of the building-products distributor.",
+      "published_utc": "2025-06-25T19:31:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2937746d7d60e2c739e843e062fc5a7c96ce62c5ac2a83a3a2b52c419697e8dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135524290,
+      "datetime": 1750851097
+    },
+    {
+      "title": "NYC Democrats Rebuke Establishment With Vote for Zohran Mamdani",
+      "description": "(Bloomberg) -- Zohran Mamdani is poised to become the Democratic nominee for mayor of New York City after the 33-year-old democratic socialist forced his opponent Andrew Cuomo, the former governor of the state, to concede within hours after polls closed.Most Read from BloombergBezos Wedding Draws Protests, Soul-Searching Over Tourism in VeniceUS Renters Face Storm of Rising CostsUS State Budget Wounds Intensify From Trump, DOGE Policy ShiftsCommuters Are Caught in Johannesburg's Taxi Feuds as Tr",
+      "published_utc": "2025-06-25T19:15:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f937c274f81d24a784014721bd44a6ea14aca482b207587685f9b8bbf9617d0e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135526149,
+      "datetime": 1750850112
+    },
+    {
+      "title": "My Dividend Stock Portfolio: New May Dividend Record - 100 Holdings With 15 Buys",
+      "description": "Explore May 2025 market volatility, U.S.-China trade talks, and record dividend income growth.",
+      "published_utc": "2025-06-25T16:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28d3b832c1fca31770119594903f09760ded636b8898fcc7533e46ddeeaa3cac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135524419,
+      "datetime": 1750839000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:32.877875+00:00",
+    "cache_key": "news_642a880c78827204674c74dec2899798",
+    "count": 5
+  }
+}

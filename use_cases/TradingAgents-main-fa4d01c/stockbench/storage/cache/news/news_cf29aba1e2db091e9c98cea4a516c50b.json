@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Bond Yields Break The Bull",
+      "description": "Wednesday delivered a reminder that stocks donât float when bond yields flood the room.",
+      "published_utc": "2025-05-22T07:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cb82e1131cd3fea545cc00c892722650914432293162ab554ca6be9b533a374",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/503640774/image_503640774.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631689,
+      "datetime": 1747868700
+    },
+    {
+      "title": "What Sam Altman Told OpenAI About the Secret Device He’s Making With Jony Ive",
+      "description": "What Sam Altman Told OpenAI About the Secret Device He’s Making With Jony Ive",
+      "published_utc": "2025-05-22T06:59:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=ce75d2cd206453f719db93981d7d8cc14040a029dda16fc8eddadd14c2033c99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632313,
+      "datetime": 1747868340
+    },
+    {
+      "title": "Did a Top Apple Executive Just Give Investors the Ultimate Reason to Dump the Stock?",
+      "description": "An Apple executive recently testified at Google's antitrust case, and admitted that iPhones may not be needed in 10 years.  Artificial intelligence (AI) could result in a shift in users relying more on wearable devices.  Apple (NASDAQ: AAPL) has been one of the best stocks to own over the past five years on the stock market, rising more than 160% during that time frame.",
+      "published_utc": "2025-05-22T06:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbbb8de3b7a5db2bd07591ff4b9b841be75f7c469f737cefd283bb98b4b6bde9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647821,
+      "datetime": 1747866180
+    },
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-05-22T06:14:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e27504393d6270f71f4779aed94b422dee3a3fcabc889d6582ddb2468c20c3d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631523,
+      "datetime": 1747865679
+    },
+    {
+      "title": "Trump Stages Another Oval Office Ambush, Lecturing Ramaphosa",
+      "description": "(Bloomberg) -- President Cyril Ramaphosa came to the White House looking to persuade President Donald Trump to stop floating the conspiracy theory that there’s a genocide against White people in South Africa. Instead, the man who’d helped negotiate the end of apartheid walked into a trap.Most Read from BloombergCan Frank Gehry’s ‘Grand LA’ Make Downtown Feel Like a Neighborhood?Chicago’s O’Hare Airport Seeks Up to $4.3 Billion of Muni DebtNJ Transit Makes Deal With Engineers, Ending Three-Day St",
+      "published_utc": "2025-05-22T05:57:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d4b81999f6269e18b500083f0d1387aa1a44e9f236b66c8f0f461959afcf51d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647822,
+      "datetime": 1747864624
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:42.267995+00:00",
+    "cache_key": "news_cf29aba1e2db091e9c98cea4a516c50b",
+    "count": 5
+  }
+}

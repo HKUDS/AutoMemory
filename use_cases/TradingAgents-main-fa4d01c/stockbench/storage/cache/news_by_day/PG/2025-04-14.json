@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "14ac4532148e3afebe09670f2d44e161edefc4d6135da0ecb2a982f041d29a8e",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "3 Dividend Stocks Built for Stability as Growth Trades Cool Off",
+      "author": "Marketbeat.Com",
+      "published_utc": "2025-04-14T18:40:00Z",
+      "article_url": "https://www.investing.com/analysis/3-dividend-stocks-built-for-stability-as-growth-trades-cool-off-200659468",
+      "tickers": [
+        "PG",
+        "PEP",
+        "MCK"
+      ],
+      "amp_url": "https://m.investing.com/analysis/3-dividend-stocks-built-for-stability-as-growth-trades-cool-off-200659468?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses three dividend stocks - Procter & Gamble, PepsiCo, and McKesson - that offer stability and long-term returns as growth stocks cool off. These stocks face some near-term headwinds but are positioned for long-term success.",
+      "keywords": [
+        "dividend stocks",
+        "stability",
+        "growth stocks",
+        "Procter & Gamble",
+        "PepsiCo",
+        "McKesson"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Procter & Gamble's long history of delivering consistent returns for investors, with a dividend that has increased for 69 consecutive years and a current yield of 2.45%. Despite facing headwinds from inflation and softness in China, the company is well-positioned for long-term success."
+        },
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that PepsiCo is a dividend king, having increased its dividend for 53 consecutive years. While the company is facing some challenges, such as the GLP-1 weight loss trend and inflation, its diversified portfolio and strong dividend make it a solid long-term investment."
+        },
+        {
+          "ticker": "MCK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights McKesson's focus on efficiency in the healthcare sector, including its distribution of pharmaceutical drugs and medical supplies. Although the stock is expensive, the company's strong performance and analyst ratings make it a dividend stock worth considering."
+        }
+      ]
+    },
+    {
+      "title": "Trump Just Folded On Tariffs For The Second Time: Why I Am Bullish On U.S. Treasuries",
+      "description": "",
+      "published_utc": "2025-04-14T17:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe1a11ad1768c5ced673bc380ef46d0d5e9bdc0c95b1eaa6bd6f2cc614384a9e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133906732,
+      "datetime": 1744622100
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "In the most recent trading session, Procter & Gamble (PG) closed at $170.42, indicating a +1.42% shift from the previous trading day.",
+      "published_utc": "2025-04-01T05:50:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=595c41118183272bea0dc4bc99302ebbc3aa550e4de338cb6f3bd7cc2cd9c790",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632958,
+      "datetime": 1743457813
+    },
+    {
+      "title": "Is Procter & Gamble Company (PG) the Best FMCG Stock to Buy According to Billionaires?",
+      "description": "We recently published a list of 12 Best FMCG Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Procter & Gamble Company (NYSE:PG) stands against other best FMCG stocks to buy according to billionaires. Historically, the consumer-packaged-goods (CPG) industry outperformed most of the other industries, mainly due […]",
+      "published_utc": "2025-04-01T05:19:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f88bd51bb7aeb0d9c5db57490bbf1d1001f4fabd170f79b5193cb87168ec85f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632959,
+      "datetime": 1743455997
+    },
+    {
+      "title": "Procter & Gamble Likely to Downgrade Outlook Amid Weak Demand Trends, Deutsche Bank Says",
+      "description": "Procter & Gamble's (PG) fiscal third-quarter results are expected to reflect weak \"top-line realitie",
+      "published_utc": "2025-04-01T04:01:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86d7bfe042650558fb6b0c0218aaee0fc0c5bc44e87fd3dab091c5226971088f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632960,
+      "datetime": 1743451314
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-04-01T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b282223c0c044dcf36e36dbf0edfb0b037b98e11887511e5be9cc0b01ceeabf1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133636116,
+      "datetime": 1743438660
+    },
+    {
+      "title": "Earnings Growth & Price Strength Make Procter & Gamble (PG) a Stock to Watch",
+      "description": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
+      "published_utc": "2025-03-31T21:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa334e3156cc9d7c54e95301897bc393332f350adefe5708d493a05aefed7e98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627792,
+      "datetime": 1743427804
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:44.719202+00:00",
+    "cache_key": "news_a08c02ec24bb7f1bf65d2cd604963c62",
+    "count": 5
+  }
+}

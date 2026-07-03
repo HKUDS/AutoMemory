@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Wasatch Global Value Fund Q4 2024 Commentary",
+      "description": "The Wasatch Global Value FundâInvestor Class returned -5.78% in the fourth quarter of 2024, underperforming the MSCI AC (All Country) World Value Index, which lost -4.71%.",
+      "published_utc": "2025-03-25T07:06:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=67f3c46cb50bbfc33d2c77e916080be8cf5a7974d16a0ef65a382ddb19b11760",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1478940432/image_1478940432.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133359674,
+      "datetime": 1742857560
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Stock Dips While Market Gains: Key Facts",
+      "description": "The latest trading day saw Johnson & Johnson (JNJ) settling at $163.29, representing a -0.21% change from its previous close.",
+      "published_utc": "2025-03-25T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4843fb2848dc902668d74f5147b9562838148e44d92aa8b7bd55266d50f1277e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360353,
+      "datetime": 1742852717
+    },
+    {
+      "title": "ACIU Stock Crashes 18.3% in a Month: Buy, Sell or Hold?",
+      "description": "AC Immune's shares decline 18.3% in a month. While the company's pipeline progress is encouraging, we advise investors to remain on the sidelines for now.",
+      "published_utc": "2025-03-25T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a409d804aeaf45cebec460b6ca656c3ea42d6ca2b992f6051402256153b8f61",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360354,
+      "datetime": 1742842800
+    }
+  ]
+}

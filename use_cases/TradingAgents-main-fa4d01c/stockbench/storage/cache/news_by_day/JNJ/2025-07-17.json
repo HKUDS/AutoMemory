@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "3 Top Dividend Stocks Yielding More Than 3% That You Shouldn't Hesitate to Buy Right Now",
+      "description": "ExxonMobil has the best dividend growth track record in the oil industry.  Johnson & Johnson has increased its dividend for over 60 straight years.  Essex Property Trust has delivered over three decades of dividend increases.",
+      "published_utc": "2025-07-17T06:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b181e69f3e61e20da091b7ed6997bff0f93a10dd9fd44dc659a4e2a15e877d36",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993074,
+      "datetime": 1752703260
+    },
+    {
+      "title": "S&P 500 Gains & Losses Today: Johnson & Johnson Stock Jumps; Universal Health Services Shares Slide",
+      "description": "The S&P 500 ticked 0.3% higher on Wednesday, July 16, 2025, as President Trump sought to ease concerns that a dismissal of Fed Chair Jerome Powell could be imminent.",
+      "published_utc": "2025-07-17T05:35:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6cc59bb883b1a559bae8bd2ae07a0eafcfa53a42e2074ad1ef525cd643db3f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993145,
+      "datetime": 1752701750
+    },
+    {
+      "title": "Nasdaq Extends Record Run as Trump Denies he Plans to Fire Fed's Powell",
+      "description": "US equities finished higher Wednesday, propelling the Nasdaq Composite to a new high after President",
+      "published_utc": "2025-07-17T05:19:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb22e3c28e05ccb7ecd4c2deb7b2d6d14e963cb4eb98d10c870d68597796ebb7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993146,
+      "datetime": 1752700745
+    },
+    {
+      "title": "Stocks to Watch Recap: J&J, UnitedHealth, Goldman Sachs, Ford",
+      "description": "↗️ Johnson & Johnson (JNJ): J&J posted better-than-expected results and boosted its annual outlook. Shares rose 6.2%. ? Goldman Sachs (GS), Bank of America (BAC), Morgan Stanley (MS): The banks reported stronger-than-forecast profits, as tariff-related market turbulence boosted trading.",
+      "published_utc": "2025-07-17T05:05:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2b153ca4d3aff7d5972f5c95d839d832085d6567e756d091107460978a83a6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993147,
+      "datetime": 1752699920
+    },
+    {
+      "title": "These Stocks Moved the Most Today: ASML, J&J, Global Payments, Morgan Stanley, Ford, Palantir, Brighthouse, and More",
+      "description": "ASML falls sharply after issuing a growth warning, while Goldman Sachs, Morgan Stanley, and Bank of America post better-than-expected quarterly earnings.",
+      "published_utc": "2025-07-17T04:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fecee356d2b1467f121e83354870682bfa3855536c32c12ddfa3e16d2ffd41a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993149,
+      "datetime": 1752699000
+    }
+  ]
+}

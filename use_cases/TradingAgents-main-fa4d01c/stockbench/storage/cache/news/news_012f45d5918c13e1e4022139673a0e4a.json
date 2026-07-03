@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Sherwin-Williams Co. share gains contribute to Dow's 200-point climb",
+      "description": "NVIDIA Corp., Sherwin-Williams Co. share gains contribute to Dow's 200-point climb",
+      "published_utc": "2025-02-26T18:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=76145854ce642d4797286eba02aa2bd0b8cf4a1220b22f3937a1ec26b422a373",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881256,
+      "datetime": 1740564840
+    },
+    {
+      "id": "f19c0f36a3fdba617cd108d32df2a9125785bbaea7dec068d22f62291e63c145",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Marqeta's Q4 Revenue Beats, EPS Meets",
+      "author": "Jesterai",
+      "published_utc": "2025-02-26T22:19:32Z",
+      "article_url": "https://www.fool.com/data-news/2025/02/26/marqeta-s-q4-revenue-beats-eps-meets/?source=iedfolrf0000001",
+      "tickers": [
+        "MQ",
+        "AXP"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/f6b490f9ab58e0f5d28a931ee073b55616f08d67-600x400.jpg",
+      "description": "Marqeta reported solid Q4 results, with a 14.3% increase in revenue to $136 million and a 29% rise in total processing volume. However, the company's annual revenue decreased by 25% due to contract changes. Marqeta's focus on expanding its market presence and diversifying its offerings, as well as its strategic partnerships and technological advancements, have been critical to its success.",
+      "keywords": [
+        "Marqeta",
+        "financial services",
+        "payment processing",
+        "revenue",
+        "total processing volume"
+      ],
+      "insights": [
+        {
+          "ticker": "MQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Marqeta reported solid Q4 results, with revenue and total processing volume growth, but also faced challenges due to contract changes that led to a 25% decrease in annual revenue. The company's focus on expansion and diversification, as well as its strategic partnerships, suggest it is navigating the challenges and positioning itself for future growth."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Marqeta's introduction of the American Express network to its customers is seen as a positive move, as it broadens the company's product ecosystem and strengthens its offerings."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:12:10.152924+00:00",
+    "cache_key": "news_012f45d5918c13e1e4022139673a0e4a",
+    "count": 2
+  }
+}

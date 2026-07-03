@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (NYSE:CAT) Is Increasing Its Dividend To $1.51",
+      "description": "Caterpillar Inc. ( NYSE:CAT ) will increase its dividend on the 20th of August to $1.51, which is 7.1% higher than last...",
+      "published_utc": "2025-06-15T20:04:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=486a0a3fe4d02ca39993bd83180ed7cc601924596655b60dc10653d8dc6c5c56",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135286133,
+      "datetime": 1749989061
+    }
+  ]
+}

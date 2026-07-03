@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "id": "b5df91b87188742c68bf06ba5b1da7a1084938092d2c9eb4e6d0f0587f7c06ed",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "With New Glenn Rocket a Success, Blue Origin's Next Step Is to Build a $100 Billion Orbital Reef",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-02T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/blue-origin-will-build-a-100-billion-orbital-reef/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "BA",
+        "BApA",
+        "RDW",
+        "RDW.WS",
+        "NOC",
+        "HLT",
+        "EADSY",
+        "SPCE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805295/artists-conception-of-a-planned-orbital-reef-space-station-is-blue-origin.jpg",
+      "description": "Blue Origin, founded by Jeff Bezos, plans to build a $100 billion Orbital Reef space station to replace the International Space Station. The station will include advanced research facilities and luxurious living quarters, targeting high-end space tourism.",
+      "keywords": [
+        "Blue Origin",
+        "Orbital Reef",
+        "space station",
+        "space tourism",
+        "Jeff Bezos"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Jeff Bezos, the founder of Blue Origin, is a major shareholder of Amazon.com, which could potentially help fund the Orbital Reef project."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing is also a partner of Blue Origin in the Orbital Reef project, indicating a joint effort to develop the space station."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing is also a partner of Blue Origin in the Orbital Reef project, indicating a joint effort to develop the space station."
+        },
+        {
+          "ticker": "RDW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Redwire is another partner of Blue Origin in the Orbital Reef project, contributing to the development of the space station."
+        },
+        {
+          "ticker": "RDW.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Redwire is another partner of Blue Origin in the Orbital Reef project, contributing to the development of the space station."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Northrop Grumman is part of the team building the Starlab space station, which is a competing project to the Orbital Reef."
+        },
+        {
+          "ticker": "HLT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hilton Hotels is also part of the team building the Starlab space station, indicating its involvement in the space tourism industry."
+        },
+        {
+          "ticker": "EADSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Airbus is a partner of Voyager Technologies in the Starlab space station project, contributing to the development of a competing space station."
+        },
+        {
+          "ticker": "SPCE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Virgin Galactic is a competitor to Blue Origin in the space tourism industry, but it has been grounded since retiring its Unity spaceplane in June 2024."
+        }
+      ]
+    },
+    {
+      "id": "ca47db7d43e7d4df8d8f57fdefb41a061364a9acf3690d50ffdb7d3553f20386",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Archer Aviation Stock a Buy Now?",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-02-01T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/is-archer-aviation-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "ACHR",
+        "ACHR.WS",
+        "BA",
+        "BApA",
+        "LMT",
+        "NOC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805524/midnight-side-profile-on-tarmac.jpg",
+      "description": "Archer Aviation is developing electric vertical takeoff and landing (eVTOL) aircraft for urban air mobility, with plans to launch air taxi services in the UAE and US. The company has also partnered with Anduril to develop aircraft for defense applications, which could be a significant revenue driver. While Archer is still pre-revenue, the market potential for urban air mobility is substantial, and the company's progress in aircraft development and certification is promising.",
+      "keywords": [
+        "Archer Aviation",
+        "eVTOL",
+        "urban air mobility",
+        "Anduril",
+        "defense applications"
+      ],
+      "insights": [
+        {
+          "ticker": "ACHR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Archer Aviation is making significant progress in developing its eVTOL aircraft, with plans to launch air taxi services in the UAE and US. The company's partnership with Anduril for defense applications also presents a promising revenue opportunity. While the company is still pre-revenue, the market potential for urban air mobility is substantial, and Archer's development efforts are promising."
+        },
+        {
+          "ticker": "ACHR.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Archer Aviation is making significant progress in developing its eVTOL aircraft, with plans to launch air taxi services in the UAE and US. The company's partnership with Anduril for defense applications also presents a promising revenue opportunity. While the company is still pre-revenue, the market potential for urban air mobility is substantial, and Archer's development efforts are promising."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Boeing's performance or outlook."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Boeing's performance or outlook."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Lockheed Martin is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Lockheed Martin's performance or outlook."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Northrop Grumman is mentioned as one of the major defense prime contractors that Anduril beat out for the Collaborative Combat Aircraft program, but the article does not provide any specific commentary on Northrop Grumman's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:03:37.722177+00:00",
+    "cache_key": "news_3942a04d071bc7bf7124548f46f035a7",
+    "count": 2
+  }
+}

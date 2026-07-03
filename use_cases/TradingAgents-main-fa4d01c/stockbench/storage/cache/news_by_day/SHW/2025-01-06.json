@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow rallies 150 points on gains for NVIDIA Corp., Chevron stocks",
+      "description": "Dow rallies 150 points on gains for NVIDIA Corp., Chevron stocks",
+      "published_utc": "2025-01-06T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=34d8cfa6165da2fd9d0b9d03f33f17a90a029c2b2025e3a3716796e460965617",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321049,
+      "datetime": 1736156700
+    }
+  ]
+}

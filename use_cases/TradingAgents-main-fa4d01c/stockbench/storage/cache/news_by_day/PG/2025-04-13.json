@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Navigating Today's Volatile Market: A Stress-Free Approach",
+      "description": "The stock market faces volatility and uncertainty due to tariff unpredictability, inflation, and economic fluctuations. Our investment strategy lets you sleep well at night. Read more here.",
+      "published_utc": "2025-04-13T16:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f550b61b366c64e835b4cb13ccf6ac34159c26dff6938ed36481c05c9cfa4ca3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/88621226/image_88621226.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133900017,
+      "datetime": 1744531260
+    }
+  ]
+}

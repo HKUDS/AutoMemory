@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon",
+      "description": "Apple and Amazon are two leading consumer stocks, but their distinct approaches to AI could be a deciding factor in their future success.  Apple is taking a conservative approach to AI capital expenditures by leveraging partnerships.  Amazon is willing to spend substantial sums on AI, with over $24 billion spent in the first quarter alone.",
+      "published_utc": "2025-07-01T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c987426133d45ddf5de90225c39aca2fc2e83e307e67f27210aed77d1487241",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677330,
+      "datetime": 1751328000
+    },
+    {
+      "title": "What Apple's Budget Mac Could Mean",
+      "description": "New MacBook and new smart glasses spotlight Apple's hardware playbook",
+      "published_utc": "2025-07-01T06:36:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a8733fac0a92142b9d2745129f0a2e9fd52f426302da712def6f87ac474dbde",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677332,
+      "datetime": 1751322994
+    },
+    {
+      "title": "How to Find Attractively Priced Growth Stocks",
+      "description": "We highlight two popular GARP ETFs.",
+      "published_utc": "2025-07-01T05:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45b739440446d758f9191da42f122a131f53d39de65df85d05b7477622d07efe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677027,
+      "datetime": 1751320680
+    },
+    {
+      "title": "Apple (AAPL) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "Apple (AAPL) concluded the recent trading session at $205.17, signifying a +2.03% move from its prior day's close.",
+      "published_utc": "2025-07-01T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4202c136f1aafc255e685200d7addf120103d0bd042d744b9c15f140e18d4e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677334,
+      "datetime": 1751319903
+    },
+    {
+      "title": "Steve Jobs Once Spent Two Weeks Choosing A Washing Machine For His Palo Alto Home And He Got More 'Thrill' Out Of It Than Any Piece Of High Tech In Ages",
+      "description": "Steve Jobs once spent two weeks debating which washing machine to buy, a decision that turned into a dinner-table saga, illustrating the Apple co-founder's belief that every choice, no matter how mundane, deserved the same rigor he applied to the ...",
+      "published_utc": "2025-07-01T05:31:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28eac4ca75875e0c00820a219744d0747a3723185bada803dc33da58e94769cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677335,
+      "datetime": 1751319104
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:45.027230+00:00",
+    "cache_key": "news_4f0354ffd0e0a3fefad213eb905524d9",
+    "count": 5
+  }
+}

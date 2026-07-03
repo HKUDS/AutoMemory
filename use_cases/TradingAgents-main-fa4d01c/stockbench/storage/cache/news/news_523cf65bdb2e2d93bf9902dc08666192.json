@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "McDonald's (MCD) reached $296.29 at the closing of the latest trading day, reflecting a -1.86% change compared to its last close.",
+      "published_utc": "2025-06-17T05:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a00b7b9982561aa72d6191cb77f98b2bb5cffbf76d3f73bfa9d11fcc6960e239",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312708,
+      "datetime": 1750110602
+    },
+    {
+      "title": "McDonald's Corp. stock underperforms Monday when compared to competitors",
+      "description": "McDonald's Corp. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-06-17T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e3423c64d34d7ecea3d92ce10044a1e779fcbb4097e9bc9253061a973c6bb817",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135330478,
+      "datetime": 1750091520
+    },
+    {
+      "title": "McDonald’s and ESN reach settlement over advertising litigation",
+      "description": "The terms of the settlement remain confidential, and McDonald's has not admitted to any wrongdoing.",
+      "published_utc": "2025-06-16T22:01:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd589027373a57bfc06a0494eaa543cf49d7d589457825b1b33c0042451db171",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135309703,
+      "datetime": 1750082502
+    },
+    {
+      "title": "McDonald's Settles $10B Lawsuit: Should You Buy Now or Hold Steady?",
+      "description": "MCD is advancing its value platform, tech innovation and category expansion amid ongoing macroeconomic headwinds.",
+      "published_utc": "2025-06-16T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a943ee1cf040b17a672ba6ba4f0fb25b9e0d8d667df5907cf57ff5a4619d2569",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135309704,
+      "datetime": 1750079100
+    },
+    {
+      "title": "IYC: Consumer Discretionary Dashboard For June",
+      "description": "IYC offers broader exposure than XLY with lower volatility, but historically underperformed it. Check out the analysis of the consumer discretionary sector.",
+      "published_utc": "2025-06-16T08:26:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4c030714f13d7454f0665e666f4442ff8b0ecd99cda89f7fadb4deb08aec1fe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190631673/image_2190631673.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135288961,
+      "datetime": 1750033560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:47.441984+00:00",
+    "cache_key": "news_523cf65bdb2e2d93bf9902dc08666192",
+    "count": 5
+  }
+}

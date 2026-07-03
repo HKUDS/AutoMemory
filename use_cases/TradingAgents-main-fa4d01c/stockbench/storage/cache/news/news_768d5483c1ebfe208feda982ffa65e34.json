@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trump SEC pick discloses family fortune of more than $328 million",
+      "description": "Paul Atkins, President DonaldTrump's pick to lead the U.S. Securities and ExchangeCommission, has disclosed personal assets held jointly with hiswife valued at more than $328 million, according to...",
+      "published_utc": "2025-03-26T07:26:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e722614293a219465f0c0627ff0678c2c67f96b6dc5e9006f77bd33ce6d6fd69",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133439999,
+      "datetime": 1742945165
+    },
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "JPMorgan Chase & Co. (JPM) concluded the recent trading session at $251.13, signifying a +1.24% move from its prior day's close.",
+      "published_utc": "2025-03-26T05:45:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc343bc4bd02d942f9ec28b64d2e40276f62411ce06637d1704289343457297f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444832,
+      "datetime": 1742939114
+    },
+    {
+      "title": "Billionaire’s Fund Offers Cheap Play on Berkshire Hathaway",
+      "description": "Billionaire’s Fund Offers Cheap Play on Berkshire Hathaway",
+      "published_utc": "2025-03-26T01:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=92ef2da191a96da10b598b4b8e65b4473874fac7eeb17f904d5b336fe9978a26",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133448598,
+      "datetime": 1742925540
+    },
+    {
+      "title": "Trump's Social Security pick promises 'improving service' at agency roiled by upheaval",
+      "description": "Frank Bisignano, Donald Trump's pick to lead the Social Security administration, called improving customer service 'a mission critical function' Tuesday even as early Trump administration actions undermined existing service.",
+      "published_utc": "2025-03-26T01:41:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d82fce1db5b20cee94bdc53b6569f3674d0eddcfa126ae92fdd7f0b0b8f75f1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444833,
+      "datetime": 1742924493
+    },
+    {
+      "title": "JPMorgan Chase & Co. stock rises Tuesday, outperforms market",
+      "description": "JPMorgan Chase & Co. stock rises Tuesday, outperforms market",
+      "published_utc": "2025-03-26T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=24ac6050530f751343bcbf2643c19c1bd5b4dd38efe8362aa3c00f9e3f7a0a11",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133448890,
+      "datetime": 1742920260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:31.472099+00:00",
+    "cache_key": "news_768d5483c1ebfe208feda982ffa65e34",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why the Market Dipped But JPMorgan Chase & Co. (JPM) Gained Today",
+      "description": "JPMorgan Chase & Co. (JPM) concluded the recent trading session at $214.05, signifying a +1.79% move from its prior day's close.",
+      "published_utc": "2025-04-08T05:45:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2e9652c14c65725568b12e94c57545923ac64195ffaaa7df1378eba4fe86d18",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133804982,
+      "datetime": 1744062315
+    },
+    {
+      "title": "Multiple banks downgraded by Morgan Stanley ahead of earnings",
+      "description": "Financial stocks, like Goldman Sachs (GS), Jefferies (JEF), and Evercore (EVR), are in focus after Morgan Stanley downgraded its outlook for several names in the sector. Yahoo Finance Banking Reporter David Hollerith sits down with Julie Hyman and Trader Talk podcast host Kenny Polcari to check in on the financial sector ahead of earnings. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-08T05:05:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c3774531d13a53834bd7230f99e9ee00b52fd0e3332137cd57cc7b3bab6c9f6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133804983,
+      "datetime": 1744059921
+    },
+    {
+      "title": "What Chick-fil-A, Chinese tech giants, and a trading scandal taught JP Morgan’s CEO about good leadership",
+      "description": "JPMorgan Chase CEO Jamie Dimon urged executives to embrace discomfort, stay curious, study competitors, and lead with humility in his latest shareholder letter.",
+      "published_utc": "2025-04-08T02:55:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5be15f43d4534657ac82424960f96330a9fb6b79180829352c1c84adb7146f07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133804984,
+      "datetime": 1744052151
+    },
+    {
+      "title": "Four of Jamie Dimon's biggest concerns, per his letter",
+      "description": "JPMorgan Chase's CEO emphasized his concerns about geopolitical conflict and brought up recent culture shifts at the bank in his annual letter to shareholders.",
+      "published_utc": "2025-04-08T02:01:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f76f61004acd6f7ae176196347b66b11d0bb8767b708a2d1f35693d5b0603dae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133804985,
+      "datetime": 1744048914
+    },
+    {
+      "title": "Bank stocks, bitcoin falls, Spirit CEO steps down: Market Minute",
+      "description": "Madison Mills takes a closer look at the top stories as part of today's Market Minute. Big bank stocks, including JPMorgan (JPM) and Wells Fargo (WFC), are moving higher after an initial fall as analysts recalibrate their outlooks to account for mounting recession fears. Bitcoin (BTC-USD) is selling off as other crypto-related names, including Robinhood (HOOD), Strategy (MSTR), and Coinbase (COIN), are mixed today. Spirit Airlines (SAVEQ) stock is in focus after CEO Ted Christie stepped down. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-04-07T23:22:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e792c517827bf126e8e3c6ac4fb2954084140ae275897cefd3a406d989d44bfd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741080,
+      "datetime": 1744039355
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:21.989218+00:00",
+    "cache_key": "news_0c8886ebc0cfa44a25b8d934fbc2f6f4",
+    "count": 5
+  }
+}

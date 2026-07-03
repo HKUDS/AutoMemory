@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for Tesla, Home Depot & Boston Scientific",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Tesla, Inc. (TSLA), The Home Depot, Inc. (HD) and Boston Scientific Corp. (BSX), as well as two micro-cap stocks Frequency Electronics, Inc. (FEIM) and Bridger Aerospace Group Holdings, Inc. (BAER).",
+      "published_utc": "2025-03-27T04:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c6f34ec7caaa9d1cfdc3549a0eca814da8c0d819738474ca1ad39271724216e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462024,
+      "datetime": 1743022380
+    }
+  ]
+}

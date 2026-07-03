@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Clorox Among 14 Dividend Growth Companies Announcing Annual Increases In July",
+      "description": "Clorox is expected to announce a modest dividend increase of around 2%. Check out July dividend increase predictions for 14 long-term dividend growth companies.",
+      "published_utc": "2025-07-07T06:26:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41b499b87d35c97ef933ca3535b4728b725bf8bebb642db5236a58433640d1bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/600406380/image_600406380.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135778438,
+      "datetime": 1751840792
+    },
+    {
+      "title": "The Smartest Dividend Stocks To Own For What's Coming",
+      "description": "The current US policy shift favors growth over inflation control. Read why I recommend increasing exposure to real assets, REITs, and cyclical value stocks.",
+      "published_utc": "2025-07-06T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4efa6d4512b532110c5a6de59f744e6b0a574937b69185a053a9e2bae6030ae3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/643757808/image_643757808.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135775300,
+      "datetime": 1751787000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:04:10.960449+00:00",
+    "cache_key": "news_b8b1a07cc06949210893fa879b2891d0",
+    "count": 2
+  }
+}

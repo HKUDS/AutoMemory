@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Stock Sinks As Market Gains: What You Should Know",
+      "description": "In the closing of the recent trading day, JPMorgan Chase & Co. (JPM) stood at $243.66, denoting a -0.67% change from the preceding trading day.",
+      "published_utc": "2025-04-02T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3866ac6a47517bf339cb126c12a7fb2a4173af35f746c5ed8dd71dec9673a9c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658139,
+      "datetime": 1743543917
+    },
+    {
+      "title": "Wall Street hails Charlie Javice conviction—but wonders how JPMorgan failed to catch young woman’s $175 million fraud",
+      "description": "Charlie Javice, who faces a prison sentence of 14 to 17.5 years, unsuccessfully sought to portray JPMorgan Chase as careless.",
+      "published_utc": "2025-04-02T03:45:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df04da248b68e5e842bee7bc5e4138ddbb10e85bc38d47bf19c206973cfd112b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658140,
+      "datetime": 1743536749
+    },
+    {
+      "title": "JPMorgan Chase Fixed-Rate Preferred Shares Offer Attractive Income And Appreciation",
+      "description": "Discover why JPMorgan's Series JJ Preferred shares are a Buy, backed by strong earnings & Fed policy outlook. Click for more on JPM and its preferred shares.",
+      "published_utc": "2025-04-02T01:18:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9963bbe99532d3b264b8ff38d9fa05a508d2f119201b6ebeb3ac29a0b148b8b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157735574/image_157735574.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133656311,
+      "datetime": 1743527891
+    },
+    {
+      "title": "JPM: Sell Ahead Of Earnings",
+      "description": "JPMorgan Chase outperformed the U.S. bank index, owing to its high-quality franchise. Read more about JPM stock here.",
+      "published_utc": "2025-04-01T23:50:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cde38dfaade85ea56bd322307e319a5ed87a6c04611f2111afd7dd4a9570e5fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/880121294/image_880121294.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133655868,
+      "datetime": 1743522649
+    },
+    {
+      "title": "JPMorgan Private Markets Fund (JPMF) is Added to the Schwab Alternative Investment OneSource® Platform",
+      "description": "J.P. Morgan Asset Management has announced that its JPMorgan Private Markets Fund has been added to the Schwab Alternative Investment OneSource platform.",
+      "published_utc": "2025-04-01T22:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6b2dd4f7d80f85fcefb60c6015c2eb76e19bcb3af5ddfe2c1dbec931d2ae6b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645185,
+      "datetime": 1743518040
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:26:07.866966+00:00",
+    "cache_key": "news_dbd01b589ee531c4de9303285d6f1055",
+    "count": 5
+  }
+}

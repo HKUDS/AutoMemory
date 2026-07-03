@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. stock rises Tuesday, still underperforms market",
+      "description": "Honeywell International Inc. stock rises Tuesday, still underperforms market",
+      "published_utc": "2025-04-23T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8264256d9ce2c849f8b9c0ef66a1129734f76ab5e295b1473dd56d785a8ae6d9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134055264,
+      "datetime": 1745339760
+    },
+    {
+      "title": "Boeing Sells Jeppesen Unit to Thoma Bravo for $10.6 Billion",
+      "description": "(Bloomberg) -- Boeing Co. agreed to sell its flight navigation unit and other digital assets to Thoma Bravo for $10.6 billion in cash, the first major portfolio transaction under Chief Executive Officer Kelly Ortberg as he seeks to shore up the planemaker’s finances. Most Read from BloombergTrump Gives New York ‘One Last Chance’ to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampThe Racial Wealth Ga",
+      "published_utc": "2025-04-22T23:36:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c2171c48923f3d085a5a425c4b09899069180d9d9ac95d3d8f2de5d900ef30d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038877,
+      "datetime": 1745336192
+    },
+    {
+      "title": "Honeywell International Inc. (HON) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Release",
+      "description": "Honeywell International (HON) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-04-22T22:00:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26acf3871ed9a4f4576576e3142b3b8efb97faf99a24adf57f4e0af16ac519a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134039019,
+      "datetime": 1745330454
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:35:07.379578+00:00",
+    "cache_key": "news_698b70c365d92bd4e6f51faebd9ca1b9",
+    "count": 3
+  }
+}

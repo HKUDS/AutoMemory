@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "description": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-04-22T00:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4d64b7faab1b5081251f46831128ca74bf6887a1ff8120c31f346d21bbb3bfd9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134077536,
+      "datetime": 1745253840
+    },
+    {
+      "title": "ABEQ: Focused On High-Quality Companies With Margin Of Safety",
+      "description": "",
+      "published_utc": "2025-04-21T21:15:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=55cc2dfd65363de77939aecea68b0b3fe6261448cad6cd851ed3845210854cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024793,
+      "datetime": 1745241336
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:32.168446+00:00",
+    "cache_key": "news_848d6f7074558b8ba41600506aa84c41",
+    "count": 2
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. Increases Dividend",
+      "description": "The Board of Directors of Caterpillar Inc. (NYSE: CAT) voted today to raise the quarterly dividend by 10 cents, a seven percent increase, to one dollar and fifty-one cents ($1.51) per share of common stock, payable Aug. 20 to shareholders of record at close of business July 21. Caterpillar expects to continue to return substantially all Machinery, Energy & Transportation (ME&T) free cash flow to shareholders over time through dividends and share repurchases.",
+      "published_utc": "2025-06-11T22:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17d874a64830625b269671419089542dea1d3982df1fb6eaf3c5b183fb9291c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135193158,
+      "datetime": 1749651540
+    },
+    {
+      "title": "Dow up 231 points on gains for shares of Goldman Sachs, 3M",
+      "description": "Dow up 231 points on gains for shares of Goldman Sachs, 3M",
+      "published_utc": "2025-06-11T21:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=671facf985b90cea700e0ed4dbdfce9c9aa3e2c257783c5e34d0bf065e69b384",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135214890,
+      "datetime": 1749648300
+    },
+    {
+      "title": "Caterpillar Increases Dividend by 7.1%",
+      "description": "By Connor Hart Caterpillar raised its quarterly dividend to $1.51 a share from $1.41. The new payout, equal to $6.04 a share, represents an annual yield of about 1.7% based on Tuesday's...",
+      "published_utc": "2025-06-11T18:53:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6b1874ad219688958ee4d315c7c9fafd69a089d99ec677f9b8022df7d75e1362",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135185307,
+      "datetime": 1749639189
+    },
+    {
+      "title": "Caterpillar Raises Quarterly Dividend To $1.51 Per Share",
+      "description": "Caterpillar Inc: * CATERPILLAR INC. INCREASES DIVIDEND * CATERPILLAR INC - RAISES QUARTERLY DIVIDEND BY 10 CENTS TO$1.51PER SHARESource text:Further company coverage: ...",
+      "published_utc": "2025-06-11T18:24:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1ad7db4c72e3dc77a17a40e32fe3b54d187a74b450a6cd4603ebaf668b1075be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135183154,
+      "datetime": 1749637473
+    }
+  ]
+}

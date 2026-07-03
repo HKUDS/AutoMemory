@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "American Express Company (AXP): Among Dobermans of the Dow to Buy",
+      "description": "We recently published a list of Dobermans of the Dow: 10 Stocks to Consider. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other Dobermans of the Dow to buy. The Dobermans of the Dow strategy serves as an alternative to the well-known Dogs of the […]",
+      "published_utc": "2025-03-12T22:04:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7493d5f029af6fd42f7ae68d9e252b0dc41664bff40f804f665e3f240bbdbd5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185290,
+      "datetime": 1741788242
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Visa, Mastercard, American Express and Discover Financial Services",
+      "description": "Visa, Mastercard, American Express and Discover Financial Services are part of the Zacks top Analyst Blog.",
+      "published_utc": "2025-03-12T21:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c0feca98431820ea620d39aacd758c3ef40967ac61f809c8de59691000f7cb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184301,
+      "datetime": 1741786260
+    },
+    {
+      "title": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "description": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "published_utc": "2025-03-12T21:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e185644cf9401799a776256a16a00a954fad7f8febe84f7bfca4603bbff76193",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157632,
+      "datetime": 1741786260
+    },
+    {
+      "title": "Best credit card deals of the week, 12 March",
+      "description": "Discover the best credit cards to save money, earn rewards and travel smarter.",
+      "published_utc": "2025-03-12T18:37:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57b58e8d716baf6a280bbd8128ec0b1cbd1e961ea8f3c49e0533cf9a9a591a97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185293,
+      "datetime": 1741775861
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Krispy Kreme: Plan To Fix The Glaze",
+      "description": "Krispy Kreme's turnaround plan focuses on core products & cost cuts. Current price offers 40-50% upside if the turnaround plan gains traction. See more on DNUT.",
+      "published_utc": "2025-06-05T06:47:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c297712d008c1abea15b6a5519755012b2135b96e9a29c1064ba59aa7571292f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1615717898/image_1615717898.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135036290,
+      "datetime": 1749077255
+    },
+    {
+      "title": "McDonald's: Focus On Value Offerings And New Launches Should Drive Upside",
+      "description": "Discover why McDonald's is a strong buy amidst tough economic conditions. Explore its market share growth, margin recovery, and attractive valuation.",
+      "published_utc": "2025-06-04T21:09:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=781f66b5126c6b136c68bc703bbce4274fb9b9d803a3bd8b3549e20876e44212",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458546943/image_458546943.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135012852,
+      "datetime": 1749042594
+    },
+    {
+      "title": "WING's Earnings Estimates Trending Up: Is It Time to Buy the Stock?",
+      "description": "Wingstop surges 50% on Smart Kitchen rollout, bullish EPS trends and comps prospects, but will premium valuation give new buyers a pause?",
+      "published_utc": "2025-06-04T20:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fcf4d0cef52b4d409d42bbbb919a2456bc4ed3e298ff2533895cbb12cdcf2a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011308,
+      "datetime": 1749040320
+    },
+    {
+      "title": "Is it time to invest in the real TACO trade? Mexican restaurants now outsell pizza places.",
+      "description": "Is it time to invest in the real TACO trade? Mexican restaurants now outsell pizza places.",
+      "published_utc": "2025-06-04T19:54:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4a16c0088fcb4e5307d51e58ea5a7c1d140fbe54d83a6d247de1f3e79f642716",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135015497,
+      "datetime": 1749038040
+    },
+    {
+      "title": "Risk Averse? A 3-Fund Portfolio For A Balance Of Income And Growth",
+      "description": "Investing is essential for long-term wealth. Find out how to diversify with SCHD, SPIN, and SCHG for income, growth, and risk management in uncertain markets.",
+      "published_utc": "2025-06-04T14:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=58a309446367bae525e90ff8ce3d037c11267a2e486c548f26c025db6f723148",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1191685066/image_1191685066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135007681,
+      "datetime": 1749019800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:09.970004+00:00",
+    "cache_key": "news_1de9633f9ba6916b3eec1bf680b65ed5",
+    "count": 5
+  }
+}

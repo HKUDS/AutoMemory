@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Can Protagonist Take On Eli Lilly's Next-Generation Obesity Treatment?",
+      "description": "Protagonist Therapeutics is taking aim directly at Eli Lilly's obesity treatment with a newly announced drug that uses the same mechanism.",
+      "published_utc": "2025-07-01T04:05:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a41fbce3a267d3584c748a0066f35e342597111b0424027dbc0697f9b825d867",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677313,
+      "datetime": 1751313901
+    }
+  ]
+}

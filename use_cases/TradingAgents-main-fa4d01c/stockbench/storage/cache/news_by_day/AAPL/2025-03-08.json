@@ -1,0 +1,131 @@
+{
+  "items": [
+    {
+      "title": "Apple: The iPhone Lesson I've Learned",
+      "description": "Discover why Apple's service revenues hold the key to its future growth. Explore insights on margins, recurring income, and growth potential.",
+      "published_utc": "2025-03-08T17:20:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=73e82c9d65aab2b86237e51fc659c872dad5024bd29a03075aa6c09b1f2ba6d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1698903380/image_1698903380.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133106678,
+      "datetime": 1741425633
+    },
+    {
+      "id": "0cb0aaa0e4e72d1c6e7606945feb37db4e68f07861fbf9fb80e306016333d39f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "25% of Warren Buffett-Led Berkshire Hathaway's $288 Billion Portfolio Is Invested in Only 1 Stock",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-08T14:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/warren-buffett-berkshire-billion-portfolio-1-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809887/buffett22-tmf.png",
+      "description": "Warren Buffett's Berkshire Hathaway has invested 25% of its $288 billion portfolio in Apple, a company that has seen a 900% total return since 2016. However, the article suggests that investors should be cautious about Apple's current growth prospects and valuation.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Apple's growth prospects are stagnating, and its current valuation is expensive, with a P/E ratio of 37.8, which is a 65% premium to the trailing-10-year average. The article advises investors not to buy the stock due to these factors."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Berkshire Hathaway, led by Warren Buffett, has invested 25% of its $288 billion portfolio in Apple, which has been a lucrative investment, with a 900% total return since 2016."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Berkshire Hathaway, led by Warren Buffett, has invested 25% of its $288 billion portfolio in Apple, which has been a lucrative investment, with a 900% total return since 2016."
+        }
+      ]
+    },
+    {
+      "title": "Why Warren Buffett's Berkshire Hathaway Is Still Poised For Outperformance",
+      "description": "Berkshire Hathaway is set for success with defensive strategies, rising profits, and a strong cash position. Read more on BRK.A stock here.",
+      "published_utc": "2025-03-08T11:38:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0c621aaa04ed58366dcc7af962953f81095a69fe5eb1e44983536b69cfe3314d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/73562040/image_73562040.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133102805,
+      "datetime": 1741405081
+    },
+    {
+      "id": "aba709c1aced7f756a4e7888e3e5922fd12b9477a334d07f260314742e6f6a6d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Adobe Is One of the Few Tech Stocks That Haven't Sold Off in 2025. But It Has a Lot to Prove on March 12.",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-03-08T09:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/adobe-growth-stock-buy-tech-stock-sell-off/?source=iedfolrf0000001",
+      "tickers": [
+        "ADBE",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810001/gettyimages-2129774773-1200x857-eb97591-1.jpg",
+      "description": "Adobe has held up well in the tech sector sell-off, but its growth has decelerated, and it needs to prove that its AI investments can be a competitive advantage. The company's valuation is reasonable, and it could be a worthwhile long-term buy if it can deliver faster AI-fueled growth.",
+      "keywords": [
+        "Adobe",
+        "AI",
+        "technology stocks",
+        "earnings growth"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Adobe has held up well in the tech sector sell-off, but its growth has decelerated, and it needs to prove that its AI investments can be a competitive advantage. The company's valuation is reasonable, and it could be a worthwhile long-term buy if it can deliver faster AI-fueled growth."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple is mentioned as one of the megacap tech stocks that have sold off in 2025, leading the tech sector decline."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the megacap tech stocks that have sold off in 2025, leading the tech sector decline."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the megacap tech stocks that have sold off in 2025, leading the tech sector decline."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is mentioned as a software giant that has provided a clear road map for AI monetization, in contrast to Adobe."
+        }
+      ]
+    }
+  ]
+}

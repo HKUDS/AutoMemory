@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "US transportation chief to meet with Boeing on safety efforts",
+      "description": "U.S. Transportation Secretary Sean Duffy plans to visit a Boeing factory on Thursday in Washington State to ensure the U.S. planemaker is maintaining the highest level of safety. ...",
+      "published_utc": "2025-03-11T04:19:40",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a443949127bb43c4b3a493b82e52922a55ddb2b0d1e80b9f7fe1d36c09d6c790",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133128598,
+      "datetime": 1741637980
+    }
+  ]
+}

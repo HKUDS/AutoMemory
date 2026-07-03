@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Walmart, Goldman Sachs share gains contribute to Dow's 466-point rally",
+      "description": "Walmart, Goldman Sachs share gains contribute to Dow's 466-point rally",
+      "published_utc": "2025-03-17T22:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4a7445a4a723412d9de500ace64250b6f87b39695f76342aa68606bfd2a59800",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213766,
+      "datetime": 1742222280
+    },
+    {
+      "title": "Walmart, Goldman Sachs share gains contribute to Dow's 361-point jump",
+      "description": "Walmart, Goldman Sachs share gains contribute to Dow's 361-point jump",
+      "published_utc": "2025-03-17T21:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cd75541fdfafab1ec1bdbd5f950226850330f1411c6d6f4ec85db6dcc90b772d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213463,
+      "datetime": 1742218560
+    },
+    {
+      "title": "Junk Bond ‘Spreads’ Rose to the Highest Level in 6 Months. What It Means for Markets.",
+      "description": "Junk Bond ‘Spreads’ Rose to the Highest Level in 6 Months. What It Means for Markets.",
+      "published_utc": "2025-03-17T18:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4b255e5cfbcd46371a5c4cdce7c77ba59cb6755815a4cf61cfd73466e29b13b5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133214254,
+      "datetime": 1742208720
+    },
+    {
+      "title": "Goldman Sachs Lowers 2025-2026 Crude Forecasts -- OPIS",
+      "description": "Goldman Sachs Lowers 2025-2026 Crude Forecasts -- OPIS",
+      "published_utc": "2025-03-17T18:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=22eca659e1dfae9a9423e73d154a5b14a249f739fd37a25d91f2c25deb035f3c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133215082,
+      "datetime": 1742208120
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing settles lawsuits with two 737 MAX crash victims' families",
+      "description": "U.S. planemaker Boeing Co settled lawsuits with the families of two victims killed in the March 2019 crash of an Ethiopian Airlines Boeing 737 MAX on the eve of trial, lawyers for the families said.  The trial in the U.S. District Court in Chicago was set to be the first against the planemaker stemming from two fatal 737 MAX crashes in 2018 and 2019 that led to the bestselling plane's 20-month grounding and cost Boeing more than $20 billion.  Boeing agreed in 2021 to acknowledge liability for compensatory damages in lawsuits filed by families of the 157 people killed in the 2019 Ethiopian Airlines crash.",
+      "published_utc": "2025-04-07T22:22:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b038c17cfdd27bdc25e4257e2818b27db1f6b2fcc8f63fb9440120164281d84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741207,
+      "datetime": 1744035750
+    },
+    {
+      "title": "Defense Stocks Can’t Escape the Trade War. Expect to Hear This Term.",
+      "description": "Defense Stocks Can’t Escape the Trade War. Expect to Hear This Term.",
+      "published_utc": "2025-04-07T22:06:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7e989eacd0e473ac4040ca211057e18a8d0bc4f4f476c79540df853ad907e683",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133745689,
+      "datetime": 1744034760
+    },
+    {
+      "title": "Millennium Space Systems Completes FOO Fighter Critical Design Review in Just 10 Months",
+      "description": "Millennium Space Systems, a Boeing [NYSE: BA] company, completed the Fire-control On Orbit-support-to-the-war Fighter (FOO Fighter) critical design review (CDR) in just 10 months after authorization to proceed.",
+      "published_utc": "2025-04-07T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76f9e8d1edc88100e700192ae05bd49acb17a1f6f4388fe1b66356e8b394cf73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738870,
+      "datetime": 1744030800
+    }
+  ]
+}

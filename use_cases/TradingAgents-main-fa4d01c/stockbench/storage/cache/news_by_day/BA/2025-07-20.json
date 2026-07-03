@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "EU to Prepare Retaliation Plan as US Trade Stance Hardens",
+      "description": "(Bloomberg) -- European Union envoys are set to meet as early as this week to formulate a plan for measures to respond to a possible no-deal scenario with US President Donald Trump, whose tariff negotiating position is seen to have stiffened ahead of an Aug. 1 deadline.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomMumbai Facelift Is Inspired by 200-Year-Old New York BlueprintHow San Jose’s Mayor Is Wo",
+      "published_utc": "2025-07-20T23:22:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a0842d78a36e4d29643f8b2e0cf6a7976789d53d571a24f3edf27241d33cd6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019850,
+      "datetime": 1753024953
+    },
+    {
+      "title": "Prediction: Boeing Won the F-47 Contract -- and Maybe F/A-XX as Well",
+      "description": "Might the Department of Defense turn the F-47 fighter into a stealthier, sixth-generation F-35 with -A, -B, and -C models?",
+      "published_utc": "2025-07-20T15:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d836bcbec59ac6a621c4cde447a6a18a06ac6e89ed3cb78eadbe5c2e5704e837",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019851,
+      "datetime": 1752996180
+    },
+    {
+      "title": "Morgan Stanley Raises PT on RTX Corporation (RTX) to $165 from $135, Keeps Overweight Rating",
+      "description": "RTX Corporation (NYSE:RTX) is one of the best long term low volatility stocks to buy now. On July 17, Morgan Stanley raised the firm’s price target on RTX Corporation (NYSE:RTX) to $165 from $135, keeping an Overweight rating on the shares. The firm told investors that since aerospace stocks are trading at record multiples, the […]",
+      "published_utc": "2025-07-20T12:35:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab1056654d651e71ae95494093b00b209e99087e41d8489d097b2e39350f0ce3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019809,
+      "datetime": 1752986118
+    }
+  ]
+}

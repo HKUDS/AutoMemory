@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Market Update: Dow Jones, S&P 500 React To Fed Rate Decision",
+      "description": "The Federal Reserve kept interest rates steady, but hinted at possible rate cuts later in the year.",
+      "published_utc": "2025-03-20T03:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9649f3aaa568d60645bb48e6ae9525636fec9ac679041cfe495f248d47a8970c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262976,
+      "datetime": 1742412900
+    }
+  ]
+}

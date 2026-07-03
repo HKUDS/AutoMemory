@@ -1,0 +1,546 @@
+{
+  "items": [
+    {
+      "id": "d408b84f0bbd2c9075121faf715f89ef5cba55ddf55eb32b53ffe105c62c2f5d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "How Are 9 Out of the 11 Stock Market Sectors Outperforming the S&P 500 in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T20:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/sp-500-stock-market-mega-cap-growth-sell-off/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AVGO",
+        "TSLA",
+        "NFLX",
+        "VOX",
+        "VCR",
+        "VGT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809027/gettyimages-1309167654-1200x800-5b2df79.jpg",
+      "description": "The S&P 500 index has underperformed many sectors this year, as a handful of large tech companies make up a significant portion of the index. This concentration risk can lead to volatility if those top companies underperform.",
+      "keywords": [
+        "S&P 500",
+        "stock market sectors",
+        "concentration risk",
+        "index funds",
+        "ETFs"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia is one of the large tech companies that has underperformed the S&P 500 year-to-date, dragging down the index's performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple is another large tech company that has underperformed the S&P 500 year-to-date, contributing to the index's underperformance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft is also one of the large tech companies that has underperformed the S&P 500 year-to-date, negatively impacting the index's performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amazon is a large tech company that has underperformed the S&P 500 year-to-date, contributing to the index's underperformance."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet (Google) is another large tech company that has underperformed the S&P 500 year-to-date, dragging down the index's performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet (Google) is another large tech company that has underperformed the S&P 500 year-to-date, dragging down the index's performance."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Meta Platforms (Facebook) is a large tech company that has underperformed the S&P 500 year-to-date, negatively impacting the index's performance."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is a large tech company that is included in the S&P 500, but its performance is not explicitly mentioned in the article."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tesla is a large tech company that has underperformed the S&P 500 year-to-date, contributing to the index's underperformance."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Netflix is a large tech company that has underperformed the S&P 500 year-to-date, negatively impacting the index's performance."
+        },
+        {
+          "ticker": "VOX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Meta Platforms and Alphabet make up a significant portion of the Vanguard Communications ETF, but does not provide a clear sentiment on the ETF's performance."
+        },
+        {
+          "ticker": "VCR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Amazon and Tesla make up a significant portion of the Vanguard Consumer Discretionary ETF, but does not provide a clear sentiment on the ETF's performance."
+        },
+        {
+          "ticker": "VGT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Apple, Nvidia, Microsoft, and Broadcom make up a significant portion of the Vanguard Information Technology ETF, but does not provide a clear sentiment on the ETF's performance."
+        }
+      ]
+    },
+    {
+      "id": "ffb4064cb5e411d5e0c67d66c52734b6833b890946489510ba84594869b0c02a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Really Buy Stocks With the Market at Record-High Valuations? Here's What Warren Buffett Is Doing.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T17:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/should-you-follow-what-warren-buffett-is-doing/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "STZ",
+        "DPZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809526/buffett11-tmf.jpg",
+      "description": "The article discusses whether investors should buy stocks given the market's high valuations, and examines the actions of renowned investor Warren Buffett. Buffett has been cautious, with Berkshire Hathaway being a net seller of stocks in 2022 and holding a large cash position. However, the article suggests that selective buying opportunities still exist, even if the overall market is expensive.",
+      "keywords": [
+        "stocks",
+        "market valuations",
+        "Warren Buffett",
+        "Berkshire Hathaway"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Apple, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his holding in Bank of America, but the article does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "STZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Buffett opened a new position in Constellation Brands, suggesting a positive sentiment."
+        },
+        {
+          "ticker": "DPZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Buffett increased his position in Domino's Pizza by more than 86%, suggesting a positive sentiment."
+        }
+      ]
+    },
+    {
+      "title": "Trump Tariff Threats Have Turned the Stock Market’s Winners and Losers Upside Down",
+      "description": "Trump Tariff Threats Have Turned the Stock Market’s Winners and Losers Upside Down",
+      "published_utc": "2025-03-02T16:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=9d44ca6694f849eb4ab9863d745c12e5c188919297bde6b87138137eba6a6d8f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132948960,
+      "datetime": 1740902400
+    },
+    {
+      "id": "d5ae999e69a7e2c26f4b7e8a4e1ea9a65449446340fdadad41e88d5bc1b941b8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "You Have an Advantage Over Warren Buffett. He Just Told You What It Is.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T13:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/you-have-advantage-over-warren-buffett/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808833/buffett17-tmf.jpg",
+      "description": "The article discusses how Warren Buffett and Berkshire Hathaway's investment approach differs from that of retail investors. While Berkshire has been a net seller of stocks, Buffett explains that the company's large size makes it less agile compared to individual investors, who can more easily buy and sell stocks.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "stock market",
+        "investing"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article explains that Berkshire's large size and portfolio make it less agile than individual investors, who can more easily buy and sell stocks. While Berkshire has been a net seller of stocks, this is due to the company's unique constraints rather than a bearish market outlook."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article explains that Berkshire's large size and portfolio make it less agile than individual investors, who can more easily buy and sell stocks. While Berkshire has been a net seller of stocks, this is due to the company's unique constraints rather than a bearish market outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has sold large chunks of its Apple position, but the article suggests this is due to Berkshire's size rather than a negative view on the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Apple, Berkshire has sold parts of its Bank of America position, but this is attributed to Berkshire's size and not a negative sentiment on the company."
+        }
+      ]
+    },
+    {
+      "id": "8580c1cd1c8e9c446f1297fd036295132966754c8ddfc366a671d44c90982c8e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Warren Buffett Worried About a Market Crash After Selling S&P 500 ETFs?",
+      "author": "David Jagielski",
+      "published_utc": "2025-03-02T10:53:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/is-warren-buffett-worried-about-a-market-crash-aft/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VOO",
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808878/warren-buffett-in-a-group-of-people.jpg",
+      "description": "Berkshire Hathaway recently exited positions in the SPDR S&P 500 ETF Trust and the Vanguard S&P 500 ETF, leading some to wonder if Warren Buffett is worried about a market crash. However, the article suggests that these were not large positions for Berkshire, and Buffett's investment strategy differs from that of the average investor.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "S&P 500 ETF",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway exited its position in the SPDR S&P 500 ETF Trust, but the article suggests this was not a large position and does not necessarily indicate Buffett's concerns about the market."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway also exited its position in the Vanguard S&P 500 ETF, but the article suggests this was not a large position and does not necessarily indicate Buffett's concerns about the market."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that American Express is one of Berkshire Hathaway's staple top holdings, indicating Buffett's positive sentiment towards the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        }
+      ]
+    }
+  ]
+}

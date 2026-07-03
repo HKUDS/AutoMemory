@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Possible Bearish Signals With McDonald's Insiders Disposing Stock",
+      "description": "In the last year, many McDonald's Corporation ( NYSE:MCD ) insiders sold a substantial stake in the company which may...",
+      "published_utc": "2025-05-31T19:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7d989b800b89987bb36e76d8ad11ad8028cbe64c53fc46d3f0550b9210060f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917916,
+      "datetime": 1748689215
+    }
+  ]
+}

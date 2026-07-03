@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "FedEx plane makes emergency landing in Newark after bird strike",
+      "description": "A FedEx cargo plane made an emergency landing back to Newark Liberty International Airport in New Jersey on Saturday morning after a bird strike caused one of its engines to catch fire, according to...",
+      "published_utc": "2025-03-01T23:15:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=636a943e2e849dd9c69d1eac7fe840164aca43a737bd713632175c7f52621cc3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132939190,
+      "datetime": 1740842106
+    },
+    {
+      "title": "FedEx cargo plane makes emergency landing in Newark after bird strike",
+      "description": "A FedEx cargo plane made an emergency landing back to Newark Liberty International Airport in New Jersey on Saturday morning after a bird strike caused one of its engines to catch fire, according to...",
+      "published_utc": "2025-03-01T21:26:55",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=14f94b7f5d0360f6eb429f29748f4c1c979ea8dbf9c2c30dae3c2f90b8b54ba7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132938579,
+      "datetime": 1740835615
+    },
+    {
+      "title": "Boeing's Valuation Can't Be Justified",
+      "description": "Boeing faces financial hurdles despite a $25B capital raise.",
+      "published_utc": "2025-03-01T20:16:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce98353ff7efc962412ec00978829c146b11c59af965907f3096085655a8d34f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2136674540/image_2136674540.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132938275,
+      "datetime": 1740831409
+    },
+    {
+      "title": "FddEx cargo plane makes emergency landing in Newark after bird strike",
+      "description": "A FedEx cargo plane made an emergency landing back to Newark Liberty International Airport in New Jersey on Saturday morning after a bird strike caused one of its engines to catch fire, according to...",
+      "published_utc": "2025-03-01T19:28:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=69547b95c43bb2c842276a2a05f265cf4d450106fe7f6f752d48a8ed39257c1d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132938033,
+      "datetime": 1740828485
+    },
+    {
+      "title": "Spirit AeroSystems Heavily Leans On Boeing And Airbus Support",
+      "description": "Spirit AeroSystems shows positive cash flow but relies on customer credits. Read why SPR stock is a sell despite strong Q4 performance and Boeing acquisition.",
+      "published_utc": "2025-03-01T14:44:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28012906a6487901a3d7dd3418301140d694807797bb27dbf03fa78559c41942",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1893370292/image_1893370292.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132933959,
+      "datetime": 1740811474
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:25.050293+00:00",
+    "cache_key": "news_4bcab51d288de46eaee467e8a215187c",
+    "count": 5
+  }
+}

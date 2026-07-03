@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Mastercard's Fintech Ties in Emerging Markets: Bold Move or Risky Bet?",
+      "description": "MA deepens fintech ties across emerging markets, chasing digital growth while navigating complex regional risks.",
+      "published_utc": "2025-07-08T23:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3fa3c8bff69593dbb57ec7e3cbf5d897e6b8a886ba8ccaf90ed65d3b3facce9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135815994,
+      "datetime": 1751987700
+    }
+  ]
+}

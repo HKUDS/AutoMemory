@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Presents at Wolfe Research 2025 Global Transportation and Industrials Conference (Transcript)",
+      "description": "Honeywell International Inc. (NASDAQ:HON) Wolfe Research 2025 Global Transportation and Industrials Conference May 20, 2025 2:05 PM ETCompany...",
+      "published_utc": "2025-05-21T02:50:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5492970bd45749cfe6c093c8ec99b1ec57f9b9e78b873152a71e5e001adca473",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134620258,
+      "datetime": 1747767027
+    },
+    {
+      "title": "Honeywell International (NasdaqGS:HON) Expands Refrigerant Solutions With Arkema For Global Market",
+      "description": "Honeywell International (NasdaqGS:HON) recently experienced a significant share price increase of 14% over the past month. This upswing coincided with the announcement of a commercial partnership with Arkema to introduce new lower-GWP refrigerants, reflecting a proactive approach to environmental regulations. Additionally, despite reporting slightly down net income, Honeywell's raised FY 2025 earnings guidance and continued commitment to shareholder returns via dividends and share buybacks...",
+      "published_utc": "2025-05-21T02:01:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb9519b308bf78e95714f408a3545e06c71babdd37b262ae874a3755f30534b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628488,
+      "datetime": 1747764083
+    },
+    {
+      "title": "Transcript : Honeywell International Inc. Presents at 18th Annual Global Transportation & Industrials Conference, May-20-2025 02",
+      "description": "Presenter SpeechNigel Coe Great. I think we'll get started. We're running a little late here, but it's just for those on the webcast, thanks for joining the Wolfe Global Industrials and Transport...",
+      "published_utc": "2025-05-20T23:35:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ca9bc0eec57f836866264c4d475fdf0acda7c5d6c941a9ce3bda0be5bd806445",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134618864,
+      "datetime": 1747755316
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:05.833428+00:00",
+    "cache_key": "news_9c497fdf74d58a7ae0a7fe70a469a24c",
+    "count": 3
+  }
+}

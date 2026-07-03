@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "77a25634d1eae435d63210150180eb2b0fae31f1634b701143c0dbdf50defcf9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could XRP Reach $6 in 2025?",
+      "author": "Chris Neiger",
+      "published_utc": "2025-03-02T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/could-xrp-reach-6-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "FILG",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808931/gettyimages-1455038781.jpg",
+      "description": "The article discusses the potential for the XRP cryptocurrency to reach $6 in 2025, citing the launch of XRP exchange-traded funds (ETFs) and a crypto-friendly regulatory environment under the Trump administration as potential catalysts. However, the author expresses skepticism about the likelihood of XRP reaching that price target, given its volatility and concerns about the broader economic outlook.",
+      "keywords": [
+        "XRP",
+        "Ripple",
+        "Cryptocurrency",
+        "ETF",
+        "Regulation"
+      ],
+      "insights": [
+        {
+          "ticker": "FILG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Grayscale has filed applications with the SEC to launch spot XRP ETFs, which could be a positive catalyst for the cryptocurrency's price."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a JPMorgan estimate that investors could pour between $3 billion and $8 billion into XRP ETFs in their first year, which would be a positive development for the cryptocurrency's price."
+        }
+      ]
+    }
+  ]
+}

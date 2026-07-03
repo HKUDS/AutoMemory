@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "title": "Corporate U.S. Clean Energy Purchases Near 120 GW, Driven By AI Datacenter Boom",
+      "description": "The rise of AI has caused expectations for datacenter electricity demand to skyrocket since the unveiling of ChatGPT in the fall of 2022, prompting a rush toward clean energy purchases.",
+      "published_utc": "2025-03-01T18:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=408723eae8fa32fa1dc8da59cfd232d514febb63acecae251fe7837ac16d2aa7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1340507399/image_1340507399.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132937926,
+      "datetime": 1740825900
+    },
+    {
+      "id": "464b52aa481282a9e1b85a75dba7f93cc4faec2f78aa77920f75a9053e78b38f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Interested in Quantum Computing Investing? Here Are 4 Fantastic Picks to Maximize Your Odds of Picking a Winner",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-01T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/interested-in-quantum-computing-investing-here-are/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "IONQ",
+        "IONQ.WS",
+        "QBTS",
+        "QBTS.WS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808180/quantum-computing-cell.jpg",
+      "description": "The article discusses the quantum computing race and recommends a basket investing approach to capitalize on this trend. It highlights four companies - Alphabet, Microsoft, IonQ, and D-Wave - and their recent breakthroughs in the field.",
+      "keywords": [
+        "quantum computing",
+        "investing",
+        "basket investing",
+        "Alphabet",
+        "Microsoft",
+        "IonQ",
+        "D-Wave"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's recent launch of its Willow quantum computing chip, which made progress in solving the accuracy problem in quantum computing."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's recent launch of its Willow quantum computing chip, which made progress in solving the accuracy problem in quantum computing."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Microsoft's creation of a new state of matter to better control particles and improve the accuracy of its Majorana 1 quantum chip."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that IonQ has landed the largest quantum computing contract and is already selling commercially viable quantum computers."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that IonQ has landed the largest quantum computing contract and is already selling commercially viable quantum computers."
+        },
+        {
+          "ticker": "QBTS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that D-Wave is already selling commercially viable quantum computers, including the world's largest with 5,000 qubits."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that D-Wave is already selling commercially viable quantum computers, including the world's largest with 5,000 qubits."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:00:06.931463+00:00",
+    "cache_key": "news_615977af0a94b5acf9e3c7252dde6460",
+    "count": 2
+  }
+}

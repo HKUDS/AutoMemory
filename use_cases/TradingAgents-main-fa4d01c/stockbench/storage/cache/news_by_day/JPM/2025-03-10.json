@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs, Apple share losses lead Dow's 879-point drop",
+      "description": "Goldman Sachs, Apple share losses lead Dow's 879-point drop",
+      "published_utc": "2025-03-10T22:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6f43bd7637c038e6fe2822a99b5657d621e21f20f4c2754ed7a0a794753a93e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122808,
+      "datetime": 1741617000
+    },
+    {
+      "title": "Dow down 689 points on losses for shares of Apple, Goldman Sachs",
+      "description": "Dow down 689 points on losses for shares of Apple, Goldman Sachs",
+      "published_utc": "2025-03-10T21:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=07284c9cd93232eac366cf2802a17ca49f29056cda312225185aad62395fa974",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122811,
+      "datetime": 1741613340
+    },
+    {
+      "title": "Dow drops 569 points on losses in Apple, Goldman Sachs shares",
+      "description": "Dow drops 569 points on losses in Apple, Goldman Sachs shares",
+      "published_utc": "2025-03-10T20:22:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e8176bb52adb3872a029054ee02f8d02ab204963397e445353fa8bee4d821f3d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122812,
+      "datetime": 1741609320
+    },
+    {
+      "title": "Robinhood, Schwab, Other Financial Stocks Sell Off Sharply Amid Market Slump",
+      "description": "Robinhood, Schwab, Other Financial Stocks Sell Off Sharply Amid Market Slump",
+      "published_utc": "2025-03-10T20:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=42fd49359ad75dea668b6ca03a956bbe0cbf6ae9b1dfd9d9fb57b090dce11609",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133123266,
+      "datetime": 1741608480
+    },
+    {
+      "title": "Apple, NVIDIA Corp. share losses lead Dow's 450-point drop",
+      "description": "Apple, NVIDIA Corp. share losses lead Dow's 450-point drop",
+      "published_utc": "2025-03-10T18:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bc804a045fe566a1e486d80f48b53490ae0d6d32dbdc23cd388ead4055bcf900",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133118648,
+      "datetime": 1741603980
+    }
+  ]
+}

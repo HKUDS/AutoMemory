@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Meta Saw TikTok as ‘Highly Urgent’ Threat, Zuckerberg Says at Antitrust Trial",
+      "description": "(Bloomberg) -- Mark Zuckerberg, the first witness in the Federal Trade Commission’s trial to break up his social media empire, gave a rare window into how he makes business decisions: by fighting for survival, even when his company is ahead.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?DOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedLA County Floats Leane",
+      "published_utc": "2025-04-17T06:14:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46c629ba2547113d352c9fd66f3c6c8fdfa42350e34f5c7cd811ac381d96abc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942373,
+      "datetime": 1744841643
+    },
+    {
+      "title": "Microsoft Rethinks AI Growth as Recently Greenlit Ohio Project Gets Shelved",
+      "description": "Microsoft Slashes Cloud Buildout Over Weak AI Demand",
+      "published_utc": "2025-04-17T05:27:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b40d2ea20b18de457b46db757c7f0e4fe56ca76410d913f1e0a39a3200161e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942380,
+      "datetime": 1744838832
+    },
+    {
+      "title": "Is Microsoft (MSFT) the Best NASDAQ Stock to Buy So Far in 2025?",
+      "description": "We recently published a list of 13 Best NASDAQ Stocks to Buy So Far in 2025. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other NASDAQ stocks to buy in 2025. On April 4, Wedbush analyst Dan Ives appeared on CNBC to discuss the potential impact […]",
+      "published_utc": "2025-04-17T05:06:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ae2742d157a2a461ee0799163c9258ad193ed6379f764197f2ffc1c564b32b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942381,
+      "datetime": 1744837603
+    },
+    {
+      "title": "Microsoft Target Slashed to $472 as Demand Slips, but AI Bet Keeps Bulls Hopeful",
+      "description": "Morgan Stanley cut Microsoft's price target to $472 from $530, maintaining its Overweight rating.",
+      "published_utc": "2025-04-17T04:59:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66c8d9f8f97aa8b71048a07cda874f59d503b4b44706f6535244cc91188b0589",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942382,
+      "datetime": 1744837141
+    },
+    {
+      "title": "Why Microsoft Stock Tumbled 3.7% Today",
+      "description": "Microsoft (NASDAQ: MSFT) had one of its more forgettable sessions on the stock market Wednesday, with its share price melting by 3.7% at closing time.  In an article published this morning and citing an unnamed \"person familiar with the matter,\" Bloomberg wrote that leading artificial intelligence (AI) company OpenAI is in active talks to acquire another privately held AI business called Windsurf.  While OpenAI is a separate entity from Microsoft, the tech giant has invested considerably in the company.",
+      "published_utc": "2025-04-17T04:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40c854911ac8be2d5635701ebea87707c738b0ab8f20739a5e0e325cb79bbe1d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942383,
+      "datetime": 1744835160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:36.268701+00:00",
+    "cache_key": "news_5dadb8d11de1a3b0f79430f3574f64bc",
+    "count": 5
+  }
+}

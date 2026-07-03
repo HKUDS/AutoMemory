@@ -1,0 +1,110 @@
+{
+  "trace_id": "trace_id_5_macro_write_read",
+  "memory_path": "macro",
+  "eval_mode": "qa",
+  "focus": "MacroRefresher LLM write with mock news, read_recent content and week presence",
+  "turns": [
+    {
+      "component": "MacroRefresher",
+      "args": {
+        "trade_date": "2026-01-06",
+        "mock_news": "Fed minutes signal patience on rate cuts. US job market added 180K jobs in December. Oil prices rose 3% on OPEC+ supply cuts. China PMI fell below 50 for second consecutive month. European inflation eased to 2.3%. US consumer confidence index at 105, beating expectations. Tech sector earnings season begins next week with high expectations. Dollar strengthened against EM currencies. Treasury yields: 10-year at 4.5%. Corporate bond spreads tightening."
+      }
+    },
+    {
+      "component": "MacroRefresher",
+      "args": {
+        "trade_date": "2026-01-14",
+        "mock_news": "CPI came in at 3.1%, slightly above 3.0% consensus. Fed officials signal higher-for-longer stance. Bank earnings season strong: JP Morgan, Goldman beat estimates. Tech layoffs continue at mid-sized companies. China exports grew 5% YoY. Brent crude at $82, stable. Gold reached $2,700 on safe-haven demand. Yen weakened to 160 vs dollar. India GDP growth 7.2% for fiscal year. US 10-year Treasury yield at 4.6%."
+      }
+    },
+    {
+      "component": "MacroRefresher",
+      "args": {
+        "trade_date": "2026-01-20",
+        "mock_news": "US retail sales beat expectations at +0.4% MoM. Housing starts declined 8% on mortgage rate pressure. Fed's Waller: inflation progress stalling. ECB held rates steady as expected. Japan raised rates 25bps surprising markets. Nvidia AI chip demand: hyperscalers doubled capex guidance. EM capital outflows accelerating. VIX rose to 22 on uncertainty. Copper prices rising on China stimulus expectations. US Q4 GDP estimate: 2.8% annualized."
+      }
+    },
+    {
+      "component": "MacroRefresher",
+      "args": {
+        "trade_date": "2026-01-27",
+        "mock_news": "FOMC held rates at 4.5-4.75% as expected. Powell: two cuts possible in 2026 if inflation cooperates. Mega-cap tech earnings: strong AI-related capex. EU proposed new digital services regulation. Japan yen at 155 post rate hike stabilization. Oil: WTI $80, OPEC+ compliance 94%. US unemployment claims rose slightly to 225K. Corporate buyback activity at record levels. Gold at $2,750. China stimulus: $300B infrastructure package announced."
+      }
+    },
+    {
+      "component": "MacroRefresher",
+      "args": {
+        "trade_date": "2026-02-03",
+        "mock_news": "US ISM Manufacturing PMI at 51.2, first expansion in 18 months. Jobs report: 220K added, unemployment stable at 4.1%. Fed's Daly: patience on cuts needed. European energy prices stable. Semiconductor industry outlook upgraded by SEMI trade group. Dollar index (DXY) at 104. 10-year Treasury yield fell to 4.3% on cooler inflation expectations. AI infrastructure spending wave driving data center REITs. Emerging markets: Brazil and India outperforming YTD. Crypto Bitcoin at $98K."
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "macro_recent_2weeks_nonempty",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "non_empty"}
+      ]
+    },
+    {
+      "label": "macro_recent_2weeks_has_section_headers",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "regex", "value": "## \\d{4}-W\\d{2}"}
+      ]
+    },
+    {
+      "label": "macro_recent_5weeks_shows_all_written_weeks",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 5},
+      "expected_information": [
+        {"type": "substring", "value": "## 2026-W02"},
+        {"type": "substring", "value": "## 2026-W03"},
+        {"type": "substring", "value": "## 2026-W04"},
+        {"type": "substring", "value": "## 2026-W05"},
+        {"type": "substring", "value": "## 2026-W06"},
+        {"type": "substring", "value": "Last updated"}
+      ]
+    },
+    {
+      "label": "macro_recent_1week_only_latest",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 1},
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "2026"}
+      ]
+    },
+    {
+      "label": "macro_content_has_bullets",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 3},
+      "expected_information": [
+        {"type": "regex", "value": "- .+"}
+      ]
+    },
+    {
+      "label": "macro_5weeks_has_last_updated_dates",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 5},
+      "expected_information": [
+        {"type": "regex", "value": "Last updated: 2026-0[12]-\\d{2}"},
+        {"type": "non_empty"}
+      ]
+    },
+    {
+      "label": "macro_10weeks_bounded_at_5_sections",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 10},
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "## 2026-W06"},
+        {"type": "substring", "value": "## 2026-W05"}
+      ]
+    }
+  ]
+}

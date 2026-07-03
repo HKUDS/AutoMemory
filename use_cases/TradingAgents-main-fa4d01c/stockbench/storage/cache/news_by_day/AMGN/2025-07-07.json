@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co., Travelers share losses contribute to Dow's 400-point fall",
+      "description": "Sherwin-Williams Co., Travelers share losses contribute to Dow's 400-point fall",
+      "published_utc": "2025-07-07T20:19:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a6fc732d209e73fc0d2069b645ca1c5a7786f98ae4ee843b58132d910fd244d4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135813347,
+      "datetime": 1751890740
+    },
+    {
+      "title": "Dow's 263-point fall led by losses for UnitedHealth, Travelers shares",
+      "description": "Dow's 263-point fall led by losses for UnitedHealth, Travelers shares",
+      "published_utc": "2025-07-07T19:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=59abedcc9c1ee58e43a2e635a74f91050f8f574d942270f559317591411db106",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135812521,
+      "datetime": 1751886180
+    }
+  ]
+}

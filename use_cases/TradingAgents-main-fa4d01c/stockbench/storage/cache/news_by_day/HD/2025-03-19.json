@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot debuts Magic Apron to help customers get needed answers",
+      "description": "The Home Depot has debuted an AI-powered suite of tools, called Magic Apron, focused on helping customers get answers on home improvement questions.The Magic Apron has bee rolled out over the past...",
+      "published_utc": "2025-03-19T23:51:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0bd35a8cc5a5058a443a6d8f94de1f248a3559b440c4096150e2cc8b41e4a827",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262070,
+      "datetime": 1742399466
+    }
+  ]
+}

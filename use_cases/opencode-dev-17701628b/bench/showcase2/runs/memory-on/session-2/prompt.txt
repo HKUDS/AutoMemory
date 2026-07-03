@@ -1,0 +1,10 @@
+Continue the previous task. In the last session, we located the django ForeignKey descriptor data-loss bug.
+Use the previous analysis to complete the fix and generate the patch.
+
+Environment rules:
+Do not install system packages.
+Do not modify Python/conda/venv environment.
+Do not run pip install unless explicitly required by the task.
+The repository environment is already prepared.
+When running Python or tests from a shell, use the prepared interpreter only: from the repo root run `./.bench-venv/bin/python` or `./.bench-venv/bin/python -m pytest` (never rely on bare `python`, `python3`, or `pytest` on PATH — conda or system Python may take precedence).
+Focus only on fixing the issue.

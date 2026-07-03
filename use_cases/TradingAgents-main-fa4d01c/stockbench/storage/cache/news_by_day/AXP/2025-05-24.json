@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "id": "fa8411c5a477d2f55ff4e22393ad9372c6669ea16320dc657ca8d629239eb74d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Investing in Dividend Stocks: The Stability of Warren Buffett's Picks",
+      "author": "Justin Pope",
+      "published_utc": "2025-05-24T22:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/24/investing-in-dividend-stocks-the-stability-of-warr/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "KO",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818987/buffett1-tmf-5.jpg",
+      "description": "The article discusses Warren Buffett's top 5 dividend stock picks from Berkshire Hathaway's portfolio, including Apple, American Express, Coca-Cola, Bank of America, and Chevron. These stocks are analyzed for their dividend growth, stability, and potential to benefit Buffett's long-term investment strategy.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "dividend stocks",
+        "Apple",
+        "American Express",
+        "Coca-Cola",
+        "Bank of America",
+        "Chevron"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is Berkshire Hathaway's largest holding, and Buffett has referred to it as the company's best stock. Apple's massive user base and growing subscription services make it a lucrative investment, and it has consistently raised its dividend since 2012."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express is one of Buffett's longest-standing investments, and the company's credit card business and brand appeal to businesses and high earners make it a valuable asset. While the company has been cautious with dividend increases during tough times, its dividend generally grows over time."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is a Dividend King with 63 consecutive annual dividend raises, and Buffett is a long-time fan of the company. Coca-Cola's global reach, steady growth, and ability to develop new products and acquire emerging brands make it a reliable dividend stock for Buffett's portfolio."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is a core holding in Berkshire's portfolio, and the company has reinstated and raised its dividend for the past 11 years after recovering from the financial crisis. As a financial catch-all for the U.S. and global economies, Bank of America provides Buffett with exposure to a wide range of financial services."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chevron is an integrated oil major that has navigated the pandemic well and maintained its dividend growth streak. Buffett sees the energy sector as an important part of Berkshire's portfolio, and Chevron's 37-year consecutive dividend increase streak and nearly 5% yield make it an attractive dividend stock for Buffett."
+        }
+      ]
+    },
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
+      "description": "Berkshire has a small position in a massive tech juggernaut that benefits from multiple growth tailwinds and competitive advantages.  Durable financial performance, a strong brand, and network effects are probably why this leading financial services entity is a top Buffett holding.  Warren Buffett-led Berkshire Hathaway owns many stocks in its huge $284 billion public equity portfolio.",
+      "published_utc": "2025-05-24T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d1a9afb90c7d6184e645e7ccffae68687fb5946bcfda3aa0ab7ca298c4188ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694226,
+      "datetime": 1748073900
+    }
+  ]
+}

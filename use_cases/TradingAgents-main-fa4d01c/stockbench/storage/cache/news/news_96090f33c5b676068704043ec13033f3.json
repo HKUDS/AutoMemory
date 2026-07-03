@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Zeroes Across The Board",
+      "description": "Tuesday granted Wall Street a welcome rest, closing in a sea of zeroes resembling salary negotiations at an unpaid internship fair.",
+      "published_utc": "2025-04-16T06:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=30e59d241d487380724fc79a556df8a92f3872182493ef08f8e1fd068e162130",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2150714845/image_2150714845.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133930086,
+      "datetime": 1744755300
+    },
+    {
+      "title": "Boeing Hit From All Sides in Trump’s Trade War",
+      "description": "China tells domestic airlines not to place new orders for Boeing jets, adding new pressure to the struggling American plane maker.",
+      "published_utc": "2025-04-16T05:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25441aca9ae87ce58347fa4155730e11d924b963e7de1d347228ebcd4355ad0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932833,
+      "datetime": 1744751520
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Bank of America, Citigroup, Netflix, Boeing, Tesla, HPE, Applied Digital, and More",
+      "description": "Bank of America and Citigroup post better-than-expected first-quarter earnings, a report says China ordered a halt to Boeing jet deliveries as part of the escalating trade war with the U.S., and Tesla stock rises after its chart forms a ‘death cross.’",
+      "published_utc": "2025-04-16T04:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09fb0b39774eddc3da3e544d02d937f4809649943cab8a0fd3ff480122c92535",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932710,
+      "datetime": 1744749720
+    },
+    {
+      "title": "Donald Trump says ball in China's court on tariffs",
+      "description": "",
+      "published_utc": "2025-04-16T04:38:17",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=435a3f29aeb203890b1f9d0e1afe161b1c026c63f98c0f7de583a90d0d88b5a2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133928775,
+      "datetime": 1744749497
+    },
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares red despite US trade deal progress",
+      "description": "",
+      "published_utc": "2025-04-16T04:31:05",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=643bffb0af4a8ad5ef1b90e2eb1fce7b6965a80a17f439c0bbc45cdb8950a7b6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133928776,
+      "datetime": 1744749065
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:27.644469+00:00",
+    "cache_key": "news_96090f33c5b676068704043ec13033f3",
+    "count": 5
+  }
+}

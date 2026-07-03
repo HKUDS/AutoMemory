@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "IonQ Hires Quantum Veteran From JPMorgan",
+      "description": "Renowned scientist Marco Pistoia joined quantum-computing firm IonQ to oversee industry partnerships.",
+      "published_utc": "2025-07-29T00:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d859807595504a11f31bee92e8386c7524da10cd2eabd6274cf28cb4c52efde7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107922,
+      "datetime": 1753718820
+    }
+  ]
+}

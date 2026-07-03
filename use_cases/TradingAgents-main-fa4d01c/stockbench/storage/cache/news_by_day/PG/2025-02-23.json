@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Undercovered Dozen: Hammond Power Solutions, Blaize Holdings, Xiaomi, Coherent +",
+      "description": "Discover hidden investment opportunities with the 'Undercovered' Dozen, featuring promising stocks like Woodside Energy & Glencore.",
+      "published_utc": "2025-02-23T21:00:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2bed198c7d18d0c12c956775b6b06c4e5ea43a81196eb78b91962451d71654a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/178176540/image_178176540.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132858504,
+      "datetime": 1740315622
+    }
+  ]
+}

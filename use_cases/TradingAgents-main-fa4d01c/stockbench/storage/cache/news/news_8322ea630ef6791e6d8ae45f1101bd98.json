@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Warren Buffett Sold $133 Billion Worth of Stocks in 2024: Here Are 2 He's Not Selling",
+      "description": "Through the first nine months of 2024, Warren Buffett's Berkshire Hathaway unloaded $133 billion worth of stocks.  Buffett reduced Berkshire's massive stake in Apple and sold nearly a quarter of its Bank of America holding.  In the third quarter, Apple, American Express (NYSE: AXP), Bank of America, and Coca-Cola (NYSE: KO) made up 70% of Berkshire's $271 billion stock portfolio.",
+      "published_utc": "2025-01-05T23:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c43986e908c198dd5a4b84631458921e79adb40c005eaaa2f528f7150dcdb63e",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802774/warren-buffett-investor.jpg",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278599,
+      "datetime": 1736090100
+    },
+    {
+      "title": "This Top Warren Buffett Stock Could Soar Even Higher in 2025. Time to Buy?",
+      "description": "Excluding the stock positions Buffett trimmed throughout 2024, this is by far the famed investor's biggest bet.",
+      "published_utc": "2025-01-05T18:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=198b0a855764d979ab0333a4544b0a75a5638c6a0c435e7bbc874e53ff3385fc",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802787/axp-stock.jpeg",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132277543,
+      "datetime": 1736073960
+    },
+    {
+      "title": "QMOM: Compelling For Swing-Trading, Not For The Long Term",
+      "description": "QMOM ETF holds 50 trending stocks, with a focus on mid-caps, consumer discretionary and industrials. Read more to see my recommendation for the fund.",
+      "published_utc": "2025-01-05T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4687ae7f7a4e2a0de8053a4cd9b24f07e80b15e041b9d29ad5130d6979523a49",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1264804060/image_1264804060.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132277660,
+      "datetime": 1736064000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:35.635703+00:00",
+    "cache_key": "news_8322ea630ef6791e6d8ae45f1101bd98",
+    "count": 3
+  }
+}

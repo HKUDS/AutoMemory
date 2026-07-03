@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dogs of the Dow: Why Amgen’s (AMGN) Dividend Power Makes it a Standout Pick",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is included among the 11 Dogs of the Dow Dividend Stocks to Buy Now. Amgen Inc. (NASDAQ:AMGN) is on the hunt for its next breakthrough drug— a common pursuit among pharmaceutical companies looking to stay ahead of rivals, especially as biosimilar competition grows. The company boasts a robust pipeline, with dozens of […]",
+      "published_utc": "2025-07-28T01:35:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8580022aa107fd9739c3bcc5a3dded4ad6f24d0f3e882585051942dbd96d5677",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101872,
+      "datetime": 1753637756
+    }
+  ]
+}

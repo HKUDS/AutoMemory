@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "RBC Reiterates Outperform Rating on The Boeing Company (BA), Raises PT to $230",
+      "description": "The Boeing Company (NYSE:BA) is one of the best wide moat stocks to buy now. On June 9, RBC Capital Markets maintained an Outperform rating on Boeing and lifted the price target from $200 to $230. RBC analyst Ken Herbert noted positive solid market sentiment ahead of an upcoming airshow and a solid estimate for […]",
+      "published_utc": "2025-06-11T23:29:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=683542e8aad39ccaf3591a4e387fdccfbc0d265d589e6ac507bed222623ddaa7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199376,
+      "datetime": 1749655764
+    },
+    {
+      "title": "US Congress seeks to boost Navy and Air Force fleets in 2026 bill",
+      "description": "The House AppropriationsCommittee's Defense subcommittee released its draft bill forfiscal-year 2026 late on Tuesday, which aims to buy oneadditional F-35 jet versus the Pentagon's 2025 budget...",
+      "published_utc": "2025-06-11T22:01:55",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cb7436294f72450481b4d7a57261325efc5df2ab69ff1ccf9d7a2f13f8b00bf9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135192516,
+      "datetime": 1749650515
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Johnson & Johnson, T-Mobile, The Boeing and Franklin Financial Services",
+      "description": "JNJ, TMUS, BA, and FRAF show strong momentum as earnings growth, market share, and strategic moves fuel investor confidence.",
+      "published_utc": "2025-06-11T21:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5afed0604ab80e94783c33adb78d1bfff4b4df07ee5db8b8cfc085f951cf38bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135192549,
+      "datetime": 1749648840
+    }
+  ]
+}

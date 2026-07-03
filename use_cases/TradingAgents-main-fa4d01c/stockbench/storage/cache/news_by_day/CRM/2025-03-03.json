@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tracking George Soros's 13F Portfolio - Q4 2024 Update",
+      "description": "George Soros's 13F portfolio value decreased to $6.65B with 190 positions. Click here for a detailed analysis.",
+      "published_utc": "2025-03-03T07:56:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=63cecf62fd0d3c120f6a414dd5957f713005ca65fff2257e4947dca2edf77791",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451506045/image_1451506045.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132947068,
+      "datetime": 1740959818
+    }
+  ]
+}

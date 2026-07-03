@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "title": "CMA investigating anticipated acquisition of HashiCorp by IBM",
+      "description": "The United Kingdom’s Competition and Markets Authority announced it is investigating the anticipated acquisition by IBM (IBM) of HashiCorp (HCP). “The CMA is considering whether it is or may be the case that this transaction, if carried into effect, will result in the creation of a relevant merger situation under the merger provisions of the Enterprise Act 2002 and, if so, whether the creation of that situation may be expected to result in a substantial lessening of competition within any market",
+      "published_utc": "2024-12-31T20:50:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bc4bc9533eea3fdade9ccb68e717e3f3fb0e25b065887bb004be26cce4f7be3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132215836,
+      "datetime": 1735649414
+    },
+    {
+      "title": "IBM’s $6.4bn HashiCorp acquisition under UK antitrust review",
+      "description": "The CMA is assessing whether the merger could “result in a substantial lessening of competition within any market or markets in the United Kingdom for goods or services”.",
+      "published_utc": "2024-12-31T17:19:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8b72c21acbe23edd34d551df65b42d68af139ca4aac2cd65e20b488f077b69f",
+      "category": "company",
+      "image": "https://www.verdict.co.uk/wp-content/uploads/2024/12/UKreview-shutterstock_2068727069.jpg",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132212142,
+      "datetime": 1735636756
+    },
+    {
+      "id": "242ad858a13be7be5198136613a2922cd7f9b7990f29ea48859e175fe623e88e",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Revolutionizing Pharma: The Impact of Big Data and Technological Advances on the Pharma Industry",
+      "author": "Globe Newswire",
+      "published_utc": "2024-12-31T10:52:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/31/3003032/28124/en/Revolutionizing-Pharma-The-Impact-of-Big-Data-and-Technological-Advances-on-the-Pharma-Industry.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "IBM",
+        "CSCO",
+        "INFA",
+        "ORCL",
+        "MSFT",
+        "RXRX",
+        "IQV",
+        "AZN",
+        "GSK",
+        "LLY",
+        "NVS",
+        "PFE",
+        "SNY",
+        "TAK",
+        "MRK"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The report examines the trends shaping the big data in pharma landscape, including healthcare, technology, macroeconomic, and regulatory factors. It provides insights into leading players, future disruptors, and key drugs and markets in the pharmaceutical industry.",
+      "keywords": [
+        "big data",
+        "pharma",
+        "healthcare",
+        "technology",
+        "macroeconomic",
+        "regulatory"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "INFA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Informatica is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "RXRX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recursion is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "IQV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IQVIA is mentioned as one of the leading players in the big data value chain, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "AZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AstraZeneca is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "GSK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GSK is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eli Lilly and Co is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Novartis is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pfizer is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "SNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sanofi is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "TAK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Takeda is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Merck & Co is mentioned as one of the leading adopters of big data in the pharmaceutical industry, indicating its involvement and potential in the big data in pharma space."
+        }
+      ]
+    }
+  ]
+}

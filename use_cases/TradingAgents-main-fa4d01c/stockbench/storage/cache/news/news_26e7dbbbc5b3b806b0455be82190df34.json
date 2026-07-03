@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Advantage Large Cap Core V.I. Fund Q4 2024 Commentary",
+      "description": "BlackRock Advantage Large Cap Core V.I. Fund posted a return of 1.83% (Class I shares) for the fourth quarter of 2024. Read more here.",
+      "published_utc": "2025-03-20T05:48:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=88b9e83ec40291e85d337a6332101fd723b5ce7094d35e318fc3c558596d127e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1479375885/image_1479375885.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263515,
+      "datetime": 1742420880
+    },
+    {
+      "title": "BlackRock Global Dividend Fund Q4 2024 Commentary",
+      "description": "BlackRock Global Dividend Fund posted returns of -4.66% (Institutional shares) and -4.64% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-20T05:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe11fccefad920397ae12f7f4e4eda84c9f64cb98b126478d861edcec76868c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96502248/image_96502248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263378,
+      "datetime": 1742419260
+    },
+    {
+      "title": "CoreWeave to ask for $47 to $55 per share in IPO, sources say",
+      "description": "CoreWeave, the artificialintelligence startup backed by Nvidia, is planning toask investors to pay $47 to $55 for each of its shares when itbegins marketing its initial public offering this week,...",
+      "published_utc": "2025-03-20T01:01:32",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=787a78ba91837db586d7efd34fca9238a81ff0ecdd17ae133cb5281d47407786",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262361,
+      "datetime": 1742403692
+    },
+    {
+      "title": "Nvidia: Closing The Short Position (Rating Upgrade)",
+      "description": "Nvidia Corporation's P/E ratio now signals value, as Gen AI capex thrives despite economic fears. Click here for my updated look at NVDA stock.",
+      "published_utc": "2025-03-19T21:49:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4062b1235e050009c2e25e46a3c946c6fb346c929ac9c9f8ebf1fe3713f2afdd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1885497422/image_1885497422.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133257703,
+      "datetime": 1742392170
+    },
+    {
+      "title": "The Lag 7",
+      "description": "While a decline of 8% sounds relatively modest, individual stocks in the index, especially the ten largest, have seen much larger declines. Click to read.",
+      "published_utc": "2025-03-19T21:41:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a21efd2cc65d72528575d5ae12850dcda1afe0e148f7aeff6a08ab32efe16668",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2021524839/image_2021524839.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133256640,
+      "datetime": 1742391660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:44.352462+00:00",
+    "cache_key": "news_26e7dbbbc5b3b806b0455be82190df34",
+    "count": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase's Balance Sheet, Management Create 'Optionality,' BofA Says",
+      "description": "JPMorgan Chase's (JPM) balance sheet and management strength create \"optionality,\" BofA Securities s",
+      "published_utc": "2025-07-09T23:03:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74922b54b7ccc1cc537f33406bc0081a9ce0a0cc7b5bf61c193a0f03dd950f30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835665,
+      "datetime": 1752073428
+    }
+  ]
+}

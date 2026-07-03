@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Google Parent Alphabet to Sell High-Grade Corporate Bonds",
+      "description": "(Bloomberg) -- Alphabet Inc., parent company of Google, is offering about $4 billion of US high-grade corporate bonds on Monday, according to people with knowledge of the matter.Most Read from BloombergNewsom Says California Is Now the World’s Fourth-Biggest EconomyAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesUS Cricket Deepens Bet on Texas With HQ Shift From CaliforniaThe Last Thing US Transit Agencies Should Do NowThe",
+      "published_utc": "2025-04-28T20:41:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16bd3b8ef72006e1dc3ae2fa3caf92d9d49f9b9759e06563a2e6ae3348f8b800",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134114976,
+      "datetime": 1745844100
+    },
+    {
+      "title": "Why the tariff relief stock rally isn't shaking Wall Street's biggest bear",
+      "description": "Wall Street's biggest bear outlines several reasons to be cautious on rallying stocks.",
+      "published_utc": "2025-04-28T20:33:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=779a7482310b42bc0e9aa7155571d71a4d08876e3255b47dae3cd8394ca5e95f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115084,
+      "datetime": 1745843620
+    },
+    {
+      "title": "The Market May Be About To Get Turned Upside Down",
+      "description": "With the rise of AI, traditional index funds like SPY and QQQ could face challenges. Read why infrastructure and farmland could become the biggest winners.",
+      "published_utc": "2025-04-28T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e9623ed64cb59af2bc6e6996fd5a3e7c0b99b744a110dd5af3d0ebf5f19e7f10",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/591843230/image_591843230.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134113376,
+      "datetime": 1745825400
+    }
+  ]
+}

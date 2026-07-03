@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot Inc. stock outperforms competitors on strong trading day",
+      "description": "Home Depot Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-04T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a5cb05e9f2a074bb80159448579856e16a7f30acf6f959bf2aa580c07a7930e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135014863,
+      "datetime": 1748968260
+    }
+  ]
+}

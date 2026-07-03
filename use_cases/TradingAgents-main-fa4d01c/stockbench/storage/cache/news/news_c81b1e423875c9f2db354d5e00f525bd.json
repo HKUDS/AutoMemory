@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PRESS DIGEST-British Business - March 13",
+      "description": "March 13 - The following are the top storieson the business pages of British newspapers. Reuters has notverified these stories and does not vouch for their accuracy. ...",
+      "published_utc": "2025-03-13T07:35:42",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=263857feeedcbb184e3736b9655f4fbe41571f737ea17cd93825a5260a85b70b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133160074,
+      "datetime": 1741822542
+    },
+    {
+      "title": "Investors bought Magnificent 7 ETF amid downturn, data shows",
+      "description": "Individual investors snapped upshares of an exchange-traded fund tied to the MagnificentSeven group of technology megacap stocks during the recentnosedive in the U.S. stock market, according to...",
+      "published_utc": "2025-03-13T01:09:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f97909c1bdef1914bbf1f2ee5dcc8ef3ed727e691e3520152a82db685d49f17e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133158820,
+      "datetime": 1741799373
+    },
+    {
+      "title": "Investors Dumped Meta After Historic Run, Bought These Stocks Instead",
+      "description": "Investors Dumped Meta After Historic Run, Bought These Stocks Instead",
+      "published_utc": "2025-03-13T00:07:45",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4d0c36916202df28e7acb210090a2674ef8c75f435d7f76ad7ae349c627556f0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157527,
+      "datetime": 1741795665
+    },
+    {
+      "title": "\"I don't want to hurt Ireland but trade must be fair\" — Donald Trump",
+      "description": "President Donald Trump has said he does not want to do anything to hurt Ireland but added that the trade relationship between the countries should be focused on fairness.Trump levelled accusations...",
+      "published_utc": "2025-03-12T22:20:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bdd126881c1c45053c9e46b249eb5582bd505063252810c314797503643001bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156804,
+      "datetime": 1741789208
+    },
+    {
+      "title": "Wall Street Lunch: Inflation Eases But Warning Signs Lurk",
+      "description": "A soft inflation report before the bell brought out stock buyers, but they quickly retreated and gains faded into the open as investors looked under the hood.",
+      "published_utc": "2025-03-12T21:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b4350253053ba431cb3dae8d0ad012de7c8b73648a46fa11a785d17332a3cac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165462299/image_2165462299.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156513,
+      "datetime": 1741784700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:17.712842+00:00",
+    "cache_key": "news_c81b1e423875c9f2db354d5e00f525bd",
+    "count": 5
+  }
+}

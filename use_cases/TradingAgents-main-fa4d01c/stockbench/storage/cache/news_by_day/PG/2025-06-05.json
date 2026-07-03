@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "The latest trading day saw Procter & Gamble (PG) settling at $165.95, representing a -0.54% change from its previous close.",
+      "published_utc": "2025-06-05T05:50:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b22e7d32f3df825e1f0a14c0b38fa954b34507c946f315c94637a7534a4a61e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035520,
+      "datetime": 1749073812
+    }
+  ]
+}

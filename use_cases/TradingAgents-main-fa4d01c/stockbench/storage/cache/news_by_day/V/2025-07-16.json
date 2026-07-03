@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "AffiniPay Named to CNBC’s 2025 List of the World’s Top Fintech Companies",
+      "description": "AUSTIN, Texas, July 16, 2025--AffiniPay, a leader in legal practice management software, integrated payments, and embedded fintech solutions for professionals, has been named to CNBC’s list of the World’s Top Fintech Companies of 2025. The company appears in the payments category alongside global leaders including Visa, Adyen, and Affirm.",
+      "published_utc": "2025-07-16T23:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b29aade1c49fb619c59c9866b5c70774324ac1f4749f65737e42e2beb6042998",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135969098,
+      "datetime": 1752679200
+    },
+    {
+      "title": "Johnson & Johnson, Amgen share gains lead Dow's 229-point jump",
+      "description": "Johnson & Johnson, Amgen share gains lead Dow's 229-point jump",
+      "published_utc": "2025-07-16T23:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d4782c7b39a8beb3653018a7c1d810e0f711de118ad25008a0c5294e6bc8e4ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135974786,
+      "datetime": 1752678060
+    }
+  ]
+}

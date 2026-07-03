@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer On Procter & Gamble Co. (PG): “I’m Looking To Buy More”",
+      "description": "We recently published a list of Was Jim Cramer’s Call Right on These 10 Stocks? In this article, we are going to take a look at where Procter & Gamble Co. (NYSE:PG) stands against other stocks that Jim Cramer discussed 12 months ago. Back then, the show was heavily focused on the biggest media companies […]",
+      "published_utc": "2025-03-30T04:05:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c32a4c0b95c6d05a3230a800d74a8564b2bbda776aedf018586fd9d92f7fad9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622649,
+      "datetime": 1743278741
+    }
+  ]
+}

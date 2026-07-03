@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "title": "With 81% institutional ownership, Honeywell International Inc. (NASDAQ:HON) is a favorite amongst the big guns",
+      "description": "Key Insights Significantly high institutional ownership implies Honeywell International's stock price is sensitive to...",
+      "published_utc": "2025-06-14T20:00:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c33ec2f6300cbd448b73eb9ba0b0f3314c8f0635e59ad8cfc6e70b308bdc5d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272351,
+      "datetime": 1749902426
+    },
+    {
+      "id": "cf1f82901c24cf23451ed975ffdfe930e9d1bf6ea5a5303d0845da49711779af",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Refrigeration Oil Market to Reach USD 2.01 billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-06-14T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/14/3099384/0/en/Refrigeration-Oil-Market-to-Reach-USD-2-01-billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "SHEL",
+        "XOM",
+        "PSX",
+        "SOMMY",
+        "HON",
+        "MKKGY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Refrigeration Oil Market is expected to grow at a CAGR of 4.86% from 2025 to 2032, driven by the increasing use of eco-friendly cooling systems and rising environmental regulations. The U.S. market is the fastest-growing, with a CAGR of 6.25%, due to energy-efficient HVAC retrofits and the introduction of low-GWP synthetic oils.",
+      "keywords": [
+        "Refrigeration Oil",
+        "Eco-friendly",
+        "Emission norms",
+        "Cold-chain",
+        "HVAC",
+        "Synthetic oils"
+      ],
+      "insights": [
+        {
+          "ticker": "SHEL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Shell plc is mentioned as one of the key players in the Refrigeration Oil market, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ExxonMobil Corporation is mentioned as one of the key players in the Refrigeration Oil market, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "PSX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Phillips 66 Company is mentioned as one of the key players in the Refrigeration Oil market, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "SOMMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sumitomo Chemical Co., Ltd. is mentioned as one of the key players in the Refrigeration Oil market, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is mentioned as one of the key players in the Refrigeration Oil market and has introduced low-GWP synthetic oils to meet the increasingly stringent EPA regulations and growing healthcare sector refrigeration demand, indicating its technological advancements and growth potential in this market."
+        },
+        {
+          "ticker": "MKKGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Merck KGaA is mentioned as one of the key players in the Refrigeration Oil market, indicating its involvement and potential growth opportunities in this market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:53.307506+00:00",
+    "cache_key": "news_05999fe7ffa87dbd42782a0b1da6064b",
+    "count": 2
+  }
+}

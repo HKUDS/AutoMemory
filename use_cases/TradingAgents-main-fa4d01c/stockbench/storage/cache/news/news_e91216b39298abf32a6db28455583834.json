@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Momentum Commerce Confirms Record Sales for Amazon Prime Day 2025",
+      "description": "Momentum Commerce, a modern digital retail consultancy part of PMG, has released its final analysis of Amazon's Prime Day 2025 extended shopping event. The analysis observed more than $750 million in Amazon U.S. transactions across hundreds of brand accounts during the four-day Prime Day 2025 event.",
+      "published_utc": "2025-07-15T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b0ed4f1c00a9514c9a5e683f43eb25be57c95cca201d78ea9eb6176a0085b74",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936649,
+      "datetime": 1752534000
+    },
+    {
+      "title": "Morgan Stanley Raises Amazon PT to $300 — Manageable Tariffs, Strong AI Outlook",
+      "description": "Amazon.com, Inc. (NASDAQ:AMZN) is a Must-Watch AI Stock on Wall Street. On July 11, Morgan Stanley reiterated the stock as “Buy” and raised its price target on the stock to $300 per share from $250. Amazon was reiterated as a top pick, with the firm stating that it sees a “more manageable tariff and geopolitical backdrop.” […]",
+      "published_utc": "2025-07-15T06:48:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=678a8c6415ff9aaccd9e27ca0488d928422568a6725960ab0d517465c0fbefbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936650,
+      "datetime": 1752533306
+    },
+    {
+      "title": "Vertiv $135 PT, Buy Rating — UBS Says Fears Over AWS Are Misguided",
+      "description": "Vertiv Holdings Co (NYSE:VRT) is a Must-Watch AI Stock on Wall Street. On July 11, UBS analyst Amit Mehrotra reiterated a “Buy” rating on the stock with a $135.00 price target. The firm noted that Vertiv shares dropped on Thursday after Amazon Web Services announced that they have launched a liquid cooling system for data […]",
+      "published_utc": "2025-07-15T06:31:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6e0c1418f8ac8e00dfa793289d87d28b1fe96930f0c1b3c26e2cc007ab394d6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936651,
+      "datetime": 1752532270
+    },
+    {
+      "title": "Elon Musk spent months slashing federal contracts — Now his AI company is celebrating a $200M Pentagon contract and new unit to get government business",
+      "description": "xAI says that it wants to start servicing federal, local, state, and national security customers.",
+      "published_utc": "2025-07-15T06:24:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa31cf39b818a05b2577895155ecdbac5378030d44749e9fd2c6906193fd129e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135943053,
+      "datetime": 1752531853
+    },
+    {
+      "title": "Procter & Rivian downgraded, Starbucks gets a new Sell rating",
+      "description": "Evercore ISI downgraded Procter & Gamble (PG) to In Line from Outperform and cut its price target to $170 from $190, citing growing competition from Amazon and slowing growth. Guggenheim cut Rivian (RIVN) to Neutral from Buy and removed its price target on the stock amid reduced confidence in demand and the impact of weaker electric vehicle (EV) incentives. Melius initiated coverage on Starbucks (SBUX) with a Sell rating, warning that the path to a full turnaround may take longer than expected. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-07-15T04:46:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd62e692c059bc2e0ef3d71926d480da40823cde087597e1a37ae4512ec47d9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135935538,
+      "datetime": 1752526009
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:53.587714+00:00",
+    "cache_key": "news_e91216b39298abf32a6db28455583834",
+    "count": 5
+  }
+}

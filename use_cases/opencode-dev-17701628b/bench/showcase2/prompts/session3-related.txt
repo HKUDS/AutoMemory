@@ -1,0 +1,5 @@
+Fix the following django issue (different from the previous one, but in a related area):
+
+{problem_statement}
+
+The repository is checked out at {base_commit}. Generate a minimal patch to fix this issue.

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Bill Ackman on his move to recreate Warren Buffett's Berkshire Hathaway",
+      "description": "Pershing Square CEO Bill Ackman shares why he's taking aim at Warren Buffett's business model.",
+      "published_utc": "2025-05-06T02:59:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6a091098b2f3ebd0930f2fa26d9bf941b2ec5607aca5f29ad0aaed7a7eb0670",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266210,
+      "datetime": 1746471546
+    },
+    {
+      "title": "Companies Sold Commercial Paper to Boost Cash, JPMorgan Says",
+      "description": "(Bloomberg) -- Short-term debt issued by corporations surged in April as companies sought to bolster their liquidity in the wake of economic uncertainty wrought by the Trump Administration’s tariff policies, according to strategists at JPMorgan Chase & Co.Most Read from BloombergThe Battle Over the Fate of Detroit’s Renaissance CenterNYC Real Estate Industry Asks Judge to Block New Broker Fee LawNJ Transit Strike Would Be ‘Disaster’ for Region, Sherrill SaysIceland Plans for a More Volcanic Futu",
+      "published_utc": "2025-05-06T01:35:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6ca63f462f96578bd1639d5e286198cf46e51c1ca68a8e339dffe5d5fda45d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266211,
+      "datetime": 1746466501
+    },
+    {
+      "title": "JPMorgan says AI helped boost sales, add clients in market turmoil",
+      "description": "NEW YORK (Reuters) -JPMorgan Chase's artificial-intelligence tools enabled it to boost sales to wealthy clients and manage scores of requests from worried customers even during April's market rout, the bank's CEO of asset and wealth management said.  Goldman Sachs is rolling out a generative AI assistant to its bankers, traders and asset managers, while Morgan Stanley developed a chatbot for its financial advisers with OpenAI.  JPMorgan's AI tools supercharged the speed at which its bankers could provide research and investment advice to wealthy clients last month at a time when the U.S. tariff announcements erased trillions of dollars from the stock market.",
+      "published_utc": "2025-05-06T01:08:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87301ba1e10cbd3b28d8cda12ceec273e2ecc49a63d6ccf0af8d89b9902b5d74",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266212,
+      "datetime": 1746464905
+    }
+  ]
+}

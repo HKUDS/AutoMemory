@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "5 Low-Leverage Stocks Worth Adding to Your Portfolio in 2025",
+      "description": "The crux of safe investment lies in choosing a company that is not burdened with debt. You may buy FOX, NWG, ATR, JNJ and REVG.",
+      "published_utc": "2025-01-03T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=628bfbdd1907e7cac284c6221cf6f9478bb4cfa49ac1339dbc062c297b4ee674",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/a701fc30d7261d8bfb4d014b0449e1f8",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132243643,
+      "datetime": 1735848000
+    },
+    {
+      "title": "Johnson & Johnson stock outperforms competitors despite losses on the day",
+      "description": "Johnson & Johnson stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-01-03T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f9c247f76a6c3df47362b39b50b87238766bc408ba52ecef67eff40c43de41a5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321994,
+      "datetime": 1735835460
+    },
+    {
+      "title": "Neumora Therapeutics Stock Crashes 81% After Depression Drug Flops",
+      "description": "Neumora Therapeutics Stock Crashes 81% After Depression Drug Flops",
+      "published_utc": "2025-01-03T00:22:03",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=bdba1c1a72a28f274248b8196c278662c8538886cd0cb878f10532b36c0f3362",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321969,
+      "datetime": 1735834923
+    },
+    {
+      "title": "Johnson & Johnson Declares Dividend, Short Interest Declines",
+      "description": "Johnson & Johnson Announces Dividend Amid Positive Investor Sentiment and New Drug Approval",
+      "published_utc": "2025-01-03T00:11:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c60b94db12b27d32254dfe58cd02baaa707dfce4d90f46016df6220102099a0",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/us.finance.gurufocus/bdaa55c3f20876094730f297f4d514d5",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240483,
+      "datetime": 1735834302
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Viridian Therapeutics: The Song Remains The Same",
+      "description": "",
+      "published_utc": "2025-06-10T02:18:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a79f2dfd0cdc2a30ac78004695732ea25ffa9f781073e6e4aa440d09080cf9c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138974,
+      "datetime": 1749493088
+    }
+  ]
+}

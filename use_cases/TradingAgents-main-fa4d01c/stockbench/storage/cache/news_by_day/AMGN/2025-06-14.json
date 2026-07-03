@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Amgen: Imdelltra Data And Q1 Results Impress",
+      "description": "Amgen beat Q1 estimates with strong margins driven by Blincyto, Prolia, and standout Imdelltra growth, plus strength in obesity. See why AMGN stock is a buy.",
+      "published_utc": "2025-06-14T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e55e0165653634dfa6e0f1d12f98c2dbc180b62d6101deb1987ab0a63f0513ca",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1389349379/image_1389349379.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271702,
+      "datetime": 1749897000
+    },
+    {
+      "title": "Harbor Human Capital Factor US Large Cap ETF Q1 2025 Commentary",
+      "description": "During the first quarter, the Harbor Human Capital Factor US Large Cap ETF returned -4.13%, slightly underperforming its benchmark.",
+      "published_utc": "2025-06-14T13:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9bc3e7c6441a64481afd72aa8eca6680983a2c33dd68ff91f513d77c2bb8101",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203443147/image_2203443147.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135268235,
+      "datetime": 1749877800
+    }
+  ]
+}

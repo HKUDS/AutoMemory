@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "No signs of consumer rot in US markets — for now",
+      "description": "The US consumer hasn't fallen off a cliff.",
+      "published_utc": "2025-07-20T20:30:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b183eb0441eaeced29f1d0bdddd5a346ac74219b628629b1207dba92cc015bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019811,
+      "datetime": 1753014630
+    },
+    {
+      "title": "3 Dividend Stocks to Hold for the Next 10 Years",
+      "description": "Coca-Cola's global footprint is a strength.  McDonald's is the world's top fast-food franchise and plans to open 2,200 new locations this year.  The best thing about dividend stocks is that they're ideal for all types of investors.",
+      "published_utc": "2025-07-20T15:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e944c3191ca024b64618bdf688abd71ab4ae05c26f99d8ecc2980b87c70308eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019769,
+      "datetime": 1752996600
+    },
+    {
+      "id": "314152e1549b20d6ed8b8ce36c2f00cbc3dc7aa64300ab1fcb8a43f38ff66be4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "39.1% of Warren Buffett's $291 Billion Portfolio Is Invested in 3 Artificial Intelligence (AI) Stocks",
+      "author": "Bram Berkowitz",
+      "published_utc": "2025-07-20T08:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/20/warren-buffett-billion-portfolio-invest-ai-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/825259/buffett19-tmf.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway portfolio is significantly invested in AI-related stocks, with 39.1% allocated across Apple, American Express, and Amazon, demonstrating strategic positioning in emerging technological sectors.",
+      "keywords": [
+        "Warren Buffett",
+        "AI",
+        "Artificial Intelligence",
+        "Investing",
+        "Technology"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Currently struggling with stock performance (-13.5% in 2025) due to tariff challenges, but has strong long-term potential with innovative AI integration and market presence"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Actively developing AI capabilities through a dedicated Frontier Research Team, focusing on improving customer services, credit decisions, and operational efficiency"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Committed to significant AI investments (potentially $100 billion), developing AI tools, cloud services, and infrastructure to capitalize on emerging AI technologies"
+        }
+      ]
+    }
+  ]
+}

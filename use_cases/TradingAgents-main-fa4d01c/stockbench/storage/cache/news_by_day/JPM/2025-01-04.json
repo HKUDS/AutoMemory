@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Delta Air Lines, Albertsons Are The First Big Names To Report Results In 2025",
+      "description": "Stay ahead of the market with Seeking Alpha's Wall Street Week Ahead newsletter.",
+      "published_utc": "2025-01-04T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3959fe17bd8a79c62d4e66ce64a4facddd1c4405617ffcd06bb51a9e2303a177",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132269596,
+      "datetime": 1735988400
+    }
+  ]
+}

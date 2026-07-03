@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for Alphabet, Berkshire Hathaway & Visa",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Alphabet Inc. (GOOGL), Berkshire Hathaway Inc. (BRK.B) and Visa Inc. (V), as well as a micro-cap stock bioAffinity Technologies, Inc. (BIAF).",
+      "published_utc": "2025-05-06T04:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12637df535710b4b394155317ce1e9dab71cb63881c8b41605d6cbeee688e4e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266224,
+      "datetime": 1746476580
+    },
+    {
+      "title": "Jacobs to Report Q2 Earnings: What to Expect From the Stock?",
+      "description": "J's fiscal second-quarter results are likely to reflect continued strength in key markets, improved operational efficiency and solid project execution despite higher expenses.",
+      "published_utc": "2025-05-05T23:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90d32a6c1d55a77fa3fe0e91c85fd4002abcf2a990956142ee681a4caf74e0be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266225,
+      "datetime": 1746460620
+    },
+    {
+      "title": "Can Fidelity National Beat Q1 Earnings on Capital Market Solutions?",
+      "description": "FIS' first-quarter earnings are likely to have been aided by lower operating expenses.",
+      "published_utc": "2025-05-05T23:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=217cc04c3bd8dd5c4a73e8490782b51cc0747980de554da060147bfe83af08d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266226,
+      "datetime": 1746459360
+    },
+    {
+      "title": "Fidelity Contrafund Q1 2025  Commentary",
+      "description": "For Q1 2025, Fidelity Contrafund's Retail Class shares returned -4.05%, versus -4.27% for the benchmark S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-05-05T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d68fa487ff1e10454dec687d7b406bc1c36350f31225badcd098b41a3b93d0d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322205526/image_1322205526.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134245327,
+      "datetime": 1746430200
+    },
+    {
+      "title": "Fidelity Blue Chip Growth Fund Q1 2025 Commentary",
+      "description": "For Q1 2025, the Fidelity Blue Chip Growth Fund's Retail Class shares returned -13.06%, lagging the benchmark. Click here to read the full commentary.",
+      "published_utc": "2025-05-05T14:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ff40409c11011d0c9ee599c7681c4ba708bdb58f848054aafb9aa95086e79cc4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402430796/image_1402430796.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134244907,
+      "datetime": 1746426300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:47.153924+00:00",
+    "cache_key": "news_8854e56deec89ebec311484e9258587d",
+    "count": 5
+  }
+}

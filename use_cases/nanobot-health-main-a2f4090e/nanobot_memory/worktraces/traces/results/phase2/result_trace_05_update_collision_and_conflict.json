@@ -1,0 +1,96 @@
+{
+  "trace_id": "trace_05_update_collision_and_conflict",
+  "description": "Tests three hard scenarios: (1) multi-update collision \u2014 same goal updated multiple times, most recent value must win; (2) goal target revision \u2014 HbA1c target changes mid-trace, old target must not be reported as current; (3) allergy cross-reference \u2014 user asks about ibuprofen for a new symptom, system must surface the ibuprofen allergy from memory without requiring user to remind it.",
+  "n_turns": 21,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "What allergies does the user have?",
+      "expected_information": [
+        "ibuprofen",
+        "/GI bleeding|gastrointestinal/",
+        "severe"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type: O negative\n- Emergency contact: Mike (brother), 555-987-6543\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2022, status: active\n- Knee pain with swelling and stiffness \u2014 onset ~5 days ago, likely running-related; pending medical evaluation if unresolved\n\n## Medications\n- Metformin 750mg twice daily \u2014 started 2025-07-17, for Type 2 diabetes\n\n## Allergies & Adverse Reactions\n- Ibuprofen \u2192 severe GI bleeding (severity: severe)\n\n## Rece"
+    },
+    {
+      "query": "What is the current weight and progress toward the weight goal?",
+      "expected_information": [
+        "222",
+        "200"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type: O negative\n- Emergency contact: Mike (brother), 555-987-6543\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2022, status: active\n- Knee pain with swelling and stiffness \u2014 onset ~5 days ago, likely running-related; pending medical evaluation if unresolved\n\n## Medications\n- Metformin 750mg twice daily \u2014 started 2025-07-17, for Type 2 diabetes\n\n## Allergies & Adverse Reactions\n- Ibuprofen \u2192 severe GI bleeding (severity: severe)\n\n## Rece"
+    },
+    {
+      "query": "What is the HbA1c goal target?",
+      "expected_information": [
+        "6.5"
+      ],
+      "item_scores": [
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type: O negative\n- Emergency contact: Mike (brother), 555-987-6543\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2022, status: active\n- Knee pain with swelling and stiffness \u2014 onset ~5 days ago, likely running-related; pending medical evaluation if unresolved\n\n## Medications\n- Metformin 750mg twice daily \u2014 started 2025-07-17, for Type 2 diabetes\n\n## Allergies & Adverse Reactions\n- Ibuprofen \u2192 severe GI bleeding (severity: severe)\n\n## Rece"
+    },
+    {
+      "query": "What is the current Metformin dose?",
+      "expected_information": [
+        "750mg",
+        "/twice|twice daily|BID/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type: O negative\n- Emergency contact: Mike (brother), 555-987-6543\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2022, status: active\n- Knee pain with swelling and stiffness \u2014 onset ~5 days ago, likely running-related; pending medical evaluation if unresolved\n\n## Medications\n- Metformin 750mg twice daily \u2014 started 2025-07-17, for Type 2 diabetes\n\n## Allergies & Adverse Reactions\n- Ibuprofen \u2192 severe GI bleeding (severity: severe)\n\n## Rece"
+    },
+    {
+      "query": "knee",
+      "expected_information": [
+        "knee",
+        "/pain|swollen|stiff/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type: O negative\n- Emergency contact: Mike (brother), 555-987-6543\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2022, status: active\n- Knee pain with swelling and stiffness \u2014 onset ~5 days ago, likely running-related; pending medical evaluation if unresolved\n\n## Medications\n- Metformin 750mg twice daily \u2014 started 2025-07-17, for Type 2 diabetes\n\n## Allergies & Adverse Reactions\n- Ibuprofen \u2192 severe GI bleeding (severity: severe)\n\n## Rece"
+    },
+    {
+      "query": "Can the user take ibuprofen for pain?",
+      "expected_information": [
+        "ibuprofen",
+        "/allerg|adverse|contraindicated|avoid|severe/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type: O negative\n- Emergency contact: Mike (brother), 555-987-6543\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2022, status: active\n- Knee pain with swelling and stiffness \u2014 onset ~5 days ago, likely running-related; pending medical evaluation if unresolved\n\n## Medications\n- Metformin 750mg twice daily \u2014 started 2025-07-17, for Type 2 diabetes\n\n## Allergies & Adverse Reactions\n- Ibuprofen \u2192 severe GI bleeding (severity: severe)\n\n## Rece"
+    }
+  ]
+}

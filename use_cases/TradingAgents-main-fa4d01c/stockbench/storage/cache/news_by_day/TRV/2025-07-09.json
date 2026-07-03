@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "CINF Stock Trades Above 200-Day SMA: Time to Buy it for Solid Returns?",
+      "description": "Cincinnati Financial stock is poised to gain from new business-written premiums, agent-focused business model, improved interest income and effective capital deployment.",
+      "published_utc": "2025-07-09T22:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d4320972c4dca3c9a3d7ca2674f4ce6cbc3d769b0ae34cf43366d02432ca0db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135836194,
+      "datetime": 1752070740
+    },
+    {
+      "title": "COVU buys California-based Leland Insurance",
+      "description": "Leland Insurance Services, led by Richard Herscowitz, is known for its portfolio of personal, commercial P&C business.",
+      "published_utc": "2025-07-09T22:12:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dae31a7322c8d95202606c8338c216747e75c0f3bd39122d24b93a93189d03b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835964,
+      "datetime": 1752070356
+    }
+  ]
+}

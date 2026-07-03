@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "title": "Is The Procter & Gamble Company (PG) the Best Skincare Stock to Buy According to Hedge Funds?",
+      "description": "We recently compiled a list of the 10 Best Skincare Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against the other skincare stocks. According to NielsenIQ, the global beauty market is expected to increase by 7.3% annually to […]",
+      "published_utc": "2025-03-09T03:12:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9714daca80c009f54f31ae432085f891ee9f9e48c82af2b73a55d8b0bde8c90b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184389,
+      "datetime": 1741461145
+    },
+    {
+      "title": "2 Dividend Stocks to Double Up on Right Now",
+      "description": "When volatility hits the stock market, there's nothing like owning a portfolio of strong companies that pay consistent dividends every quarter.  The following stocks have an impressive record of paying dividends to shareholders.  Higher interest rates have weighed on the housing market the past few years, but the leading home improvement retailer continues to deliver solid returns.",
+      "published_utc": "2025-03-08T16:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b6fdcf43d1504587fb021debe6ddd3aec0a6f895cd1ec231be57476a6719779",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184390,
+      "datetime": 1741423800
+    },
+    {
+      "id": "9ee89b6fcab715ad403c7bf7756911cba87f9092978f5230f003b7710e21fc6b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Walmart Stock: A Millionaire Maker in the Making?",
+      "author": "Demitri Kalogeropoulos",
+      "published_utc": "2025-03-08T21:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/walmart-stock-a-millionaire-maker-in-the-making/?source=iedfolrf0000001",
+      "tickers": [
+        "WMT",
+        "COST",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809935/gettyimages-1428386188.jpg",
+      "description": "Walmart's recent strong performance, with 5% sales growth and 3% customer traffic increase, suggests it can continue delivering market-beating returns. While its valuation is elevated, the company's diversification into more profitable areas like advertising and its membership program could drive further margin expansion and growth.",
+      "keywords": [
+        "Walmart",
+        "retail",
+        "valuation",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart's recent strong financial results, including 5% sales growth and 3% customer traffic increase, indicate the company's ability to continue delivering market-beating returns. Additionally, its diversification into more profitable business segments like advertising and membership programs suggests potential for further margin expansion and growth."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Costco Wholesale is mentioned as a comparison to Walmart, with a higher valuation due to its faster growth and more stable profits from membership income. However, the article does not provide a clear sentiment on Costco Wholesale itself."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Procter & Gamble is mentioned as a potential alternative investment for investors concerned about an impending recession, as it pays a higher dividend. The article does not provide a clear sentiment on Procter & Gamble."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:14.257966+00:00",
+    "cache_key": "news_6c22197be2249c1f4f65ba8e1a95996d",
+    "count": 3
+  }
+}

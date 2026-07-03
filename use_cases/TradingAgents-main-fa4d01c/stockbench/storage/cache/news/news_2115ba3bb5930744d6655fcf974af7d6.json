@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q1 2025 Update",
+      "description": "Fisher Asset Managementâs Q1 2025 portfolio shifts focus with mega-cap tech reductions and energy sector boosts. Check out the significant stake increases here.",
+      "published_utc": "2025-05-19T05:36:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3d4ca0c5601d6c33d5b8a73480c0af970db18cd3837050d03c55d97c742ceec1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134572705,
+      "datetime": 1747604168
+    },
+    {
+      "title": "The Top Corporate Board Directors",
+      "description": "The Top Corporate Board Directors",
+      "published_utc": "2025-05-19T04:31:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3a8da79ef0fea5374c3f6ca6012be9e16fbb63d9a0d64bd39aac240b57995d59",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581204,
+      "datetime": 1747600260
+    },
+    {
+      "title": "Prices are probably going up at Walmart. Watch for Target and other retailers to detail the tariff impact this week.",
+      "description": "Prices are probably going up at Walmart. Watch for Target and other retailers to detail the tariff impact this week.",
+      "published_utc": "2025-05-19T02:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6452a4ec5873f3e1c251bc553a5625e0454952ec8df3cc9ed64c814072fccced",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134582345,
+      "datetime": 1747593840
+    },
+    {
+      "title": "Tax Bill News; Target, Home Depot, and Snowflake Earnings; and More Stock Market News to Watch This Week",
+      "description": "Tax Bill News; Target, Home Depot, and Snowflake Earnings; and More Stock Market News to Watch This Week",
+      "published_utc": "2025-05-18T22:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b2b148851e79b94364c05eb437be9ae3daad59e4b1aeafda9841b37c3b82d86f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134582511,
+      "datetime": 1747576800
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation: May 2025",
+      "description": "Discover a model portfolio of dividend-paying stocks & ETFs aimed to beat the S&P 500. Learn strategies for diversification & long-term growth. Click for more.",
+      "published_utc": "2025-05-18T21:25:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29e68c6a874f383bf720d101b9bbdde6f819a96418934ffe8a8abff486120174",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134570896,
+      "datetime": 1747574749
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:44:40.896079+00:00",
+    "cache_key": "news_2115ba3bb5930744d6655fcf974af7d6",
+    "count": 5
+  }
+}

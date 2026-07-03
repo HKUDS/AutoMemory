@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Quantum Computing Stocks: China Claims Milestone For 'Origin Wukong' Machine",
+      "description": "Quantum Computing Stocks: China Claims Milestone For 'Origin Wukong' Machine",
+      "published_utc": "2025-02-18T16:00:11",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e984f861be913e533a201d8b19a1234c65fcd74c14ff9a76afb3cd0685ee705f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767502,
+      "datetime": 1739865611
+    },
+    {
+      "title": "Quantum Computing: The Pressure Builds Up",
+      "description": "",
+      "published_utc": "2025-02-18T15:12:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=769d8f7177979840fcd0f63a9f07dd99075de38ed5c73cf4f787216e3676f76d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132766901,
+      "datetime": 1739862745
+    },
+    {
+      "id": "f163ec97c88fa8ecec84f06c5f2efcd132ab394432d494307d0fe304ee7e20c7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is IBM an Undervalued Dividend Stock?",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-02-18T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/18/is-ibm-an-undervalued-dividend-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807954/stock-market-person-looking-at-computer-charts.jpg",
+      "description": "IBM management has done an excellent job reinvigorating growth in this veteran tech company.",
+      "keywords": [
+        "IBM",
+        "technology",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that IBM management has done an excellent job reinvigorating growth in the company, indicating a positive sentiment towards IBM's performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:34.132584+00:00",
+    "cache_key": "news_2e7163103ed9db0684444b71d1c6b55b",
+    "count": 3
+  }
+}

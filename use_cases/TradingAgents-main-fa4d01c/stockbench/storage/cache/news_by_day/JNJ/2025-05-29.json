@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ) Stock Moves -0.54%: What You Should Know",
+      "description": "In the closing of the recent trading day, Johnson & Johnson (JNJ) stood at $152.43, denoting a -0.54% change from the preceding trading day.",
+      "published_utc": "2025-05-29T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0de0a52226d59d82385ca567772fbe7ba39addd1a0f1174784655fd9f89b2657",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134772182,
+      "datetime": 1748468717
+    },
+    {
+      "title": "Trump's tariffs and threatened trade actions",
+      "description": "A U.S. trade court on Wednesdayblocked President Donald Trump's tariffs from going into effect,ruling the president overstepped his authority by imposingacross-the-board duties on imports from...",
+      "published_utc": "2025-05-29T05:41:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ede2dc36265c12ee2019e3df39b36a179d0ae2b46944cf495c185a80c9078b93",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134776274,
+      "datetime": 1748468470
+    },
+    {
+      "title": "Johnson & Johnson to Host Investor Conference Call on Second-Quarter Results",
+      "description": "NEW BRUNSWICK, N.J., May 28, 2025--Johnson & Johnson (NYSE: JNJ) will host a conference call for investors at 8:30 a.m. (Eastern Time) on Wednesday, July 16th to review second-quarter results. Joaquin Duato, Chairman and Chief Executive Officer, Joseph J. Wolk, Executive Vice President and Chief Financial Officer and Darren Snellgrove, Vice President, Investor Relations will host the call. The question and answer portion of the call will also include additional members of Johnson & Johnson’s exe",
+      "published_utc": "2025-05-29T04:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4eb7bdf9ee98805f9d1f11530c743d31fd59dcfb5c48c4e30e19c6f88b59eb2e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134772184,
+      "datetime": 1748464980
+    }
+  ]
+}

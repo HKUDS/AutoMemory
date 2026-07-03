@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get ready for a big week on Wall Street! Major earnings, Q1 GDP updates, AI stock insights & market trends await.",
+      "published_utc": "2025-04-27T14:49:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ed9a878470ba849fd8998a85990741ddbf269ee7a8457c327b4c01fb96f15f6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187370220/image_2187370220.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134106087,
+      "datetime": 1745736578
+    }
+  ]
+}

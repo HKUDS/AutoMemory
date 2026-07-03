@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Rises But Trails Market: What Investors Should Know",
+      "description": "The latest trading day saw Honeywell International Inc. (HON) settling at $211.85, representing a +0.82% change from its previous close.",
+      "published_utc": "2025-03-25T06:15:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b6fdd3ecfe61c40db17f4674ff5aa5133b1d9f0b4d6cd8875a0742369f794c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360441,
+      "datetime": 1742854511
+    },
+    {
+      "title": "Tariffs Might Be Lighter Than Expected. It’s a Relief for Markets.",
+      "description": "Tariffs Might Be Lighter Than Expected. It’s a Relief for Markets.",
+      "published_utc": "2025-03-24T20:12:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0bd4826a99912a9962281b1936c4908522a7b02bc345241d463bc6165c914c8c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134149116,
+      "datetime": 1742818320
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:03.620763+00:00",
+    "cache_key": "news_fe5c2c0f6506b86c98ce9b33ce415572",
+    "count": 2
+  }
+}

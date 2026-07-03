@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Goldman Demands an Oath From Junior Bankers to Fend Off Private Equity Poaching",
+      "description": "(Bloomberg) -- Goldman Sachs Group Inc. plans to ask junior bankers to confirm their loyalty on a regular basis in a bid to limit advances from talent-hungry buyout firms.Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortAre Tourists Ruining Europe? How Locals Are Pushing BackCan Americans Just Stop Building New Highways?Denver City Hall Takes a Page From NASAPhiladelphia Trash Piles Up as Garbage Workers’ Strike Drags OnThe investment bank will a",
+      "published_utc": "2025-07-10T01:11:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6246cb436a6e0d35dff48ea3f2bd022c476ba84c4211a0370ab1926bcb4f995",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835664,
+      "datetime": 1752081098
+    },
+    {
+      "title": "'One Hell Of An Opportunity,' Fanatic's Business Training Camp Helps Professional Athletes Become Business Tycoons",
+      "description": "Giving professional athletes the necessary tools to secure their financial futures through workshops on tech, entrepreneurship, and business was the primary goal of Fanatics' inaugural \"Chapter: Next\" career intensive. Nearly two dozen athletes attended the event, which was hosted by sports merchandiser Fanatics and sports media and entertainment company Boardroom. The three-day business training camp promised to \"equip athletes and their associates with business skills needed for success beyond",
+      "published_utc": "2025-07-10T01:02:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1787a961d0a5b293ebab440666775c76f0e83594ed2ac60e2ba0d390a454ba3c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835823,
+      "datetime": 1752080528
+    },
+    {
+      "title": "Will Goldman (GS) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Goldman (GS) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-07-10T00:10:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1da574476193318876400f2fb0de88067b0ef02119326f16e65998d4e955c1d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835824,
+      "datetime": 1752077403
+    }
+  ]
+}

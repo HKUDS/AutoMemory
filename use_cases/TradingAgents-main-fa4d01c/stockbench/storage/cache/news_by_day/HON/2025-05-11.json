@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "3 \"Top Picks\" From Wall Street That Are Magnificent Buys Right Now",
+      "description": "Another is a building products and controls company that's outperforming expectations.  UBS analyst Amit Mehrotra recently added Honeywell International (NASDAQ: HON) to his list of \"top picks,\" which also includes industrials Johnson Controls (NYSE: JCI) and 3M (NYSE: MMM).  Simply put, Honeywell has the potential to outperform over the near and long term.",
+      "published_utc": "2025-05-11T06:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=238c3e18fd56b15c765ab2382f5e69eb3ddb451c240517694c7002967eb2110b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379411,
+      "datetime": 1746915240
+    }
+  ]
+}

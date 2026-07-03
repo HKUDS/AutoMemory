@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "description": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "published_utc": "2025-03-05T23:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=81e89f35d6261cbf1bf18f68f20315094b10be6b45e617a4a715b67f1db19283",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133052096,
+      "datetime": 1741187040
+    },
+    {
+      "title": "Caterpillar, Boeing share gains lead Dow's 429-point rally",
+      "description": "Caterpillar, Boeing share gains lead Dow's 429-point rally",
+      "published_utc": "2025-03-05T22:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0d5b0636a48216779ae0a972ae27251e7060e2df3b1b828649b484d9360c3e4e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133019031,
+      "datetime": 1741183380
+    },
+    {
+      "title": "Dow's 300-point rally highlighted by gains in Caterpillar, Boeing stocks",
+      "description": "Dow's 300-point rally highlighted by gains in Caterpillar, Boeing stocks",
+      "published_utc": "2025-03-05T20:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8c2bffb9b1d6068b306c2e314ff4477b72ceb6b5d091043ec48ed44fb2414783",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133016655,
+      "datetime": 1741179060
+    },
+    {
+      "title": "Dow rallies 182 points on gains for Caterpillar, 3M shares",
+      "description": "Dow rallies 182 points on gains for Caterpillar, 3M shares",
+      "published_utc": "2025-03-05T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6ef1f6cb7779811bb7a0e7f2d81822afebdf5bca5d5b448125faff9a05fd0636",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133018262,
+      "datetime": 1741167900
+    },
+    {
+      "title": "The Dividend Aristocrats Ranked By Quality Scores: March 2025",
+      "description": "S&P Dow Jones Indices added three new members to the S&P 500 Dividend Aristocrats Index. Click here to find out my ranking of dividend aristocrats.",
+      "published_utc": "2025-03-05T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e3ef3474491a6b5567284607c5a3cd370b427148e0daa152b12ba7634f962a01",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1051975094/image_1051975094.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133015093,
+      "datetime": 1741165200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:18.867198+00:00",
+    "cache_key": "news_0a1656b1c6323c966f2b4dfc3dbfd88b",
+    "count": 5
+  }
+}

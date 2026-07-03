@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble's Valuation Looks Pricey: Time to Buy, Hold or Sell?",
+      "description": "PG's global reach and brand strength support long-term growth, but valuation, China headwinds and macro risks warrant a cautious, hold-worthy outlook.",
+      "published_utc": "2025-04-07T23:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58f107787d79688061302ea20dbae735603552a18deb94cd24c791a869da9c9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741101,
+      "datetime": 1744039200
+    },
+    {
+      "title": "Procter & Gamble Company (The) (PG) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Zacks.com users have recently been watching P&G (PG) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2025-04-07T21:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0195f49cfed44b07d7694fa25ae67d0afe8f34ddb4c7b8df0337293a06516f57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741102,
+      "datetime": 1744030812
+    }
+  ]
+}

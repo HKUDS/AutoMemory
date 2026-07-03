@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "EU Renews Pressure on Visa, Mastercard Over Fee Practices",
+      "description": "European regulators have once again spotlighted Visa Inc. (NYSE:V) and Mastercard Incorporated (NYSE:MA). The latest round of scrutiny zeroed in on scheme fees, the charges levied on banks that facilitate card payments through their networks. New questionnaires dispatched by the Commission seek clarity on three main concerns, including the degree of choice retailers have in accepting Visa […]",
+      "published_utc": "2025-05-24T23:09:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edbc275487bf072d0cb674422e889d8301e699b7b09a733a08c27584aec67e32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694301,
+      "datetime": 1748099397
+    }
+  ]
+}

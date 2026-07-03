@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "4 of your biggest Trump tariff questions answered",
+      "description": "Inside the tariff talk happening in corporate America.",
+      "published_utc": "2025-04-27T20:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21a4f95f3202c9a8e1615cedffbae76a7866da5809651086eefaa01e5233fc5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115085,
+      "datetime": 1745757003
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:50.101478+00:00",
+    "cache_key": "news_22f18eca9753ced43aaf5630de25150b",
+    "count": 1
+  }
+}

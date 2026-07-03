@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Fall Late Afternoon",
+      "description": "Health care stocks declined late Tuesday afternoon, with the NYSE Health Care Index dropping 2.1% an",
+      "published_utc": "2025-04-02T04:00:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27dd22c7ea89dfbf74be7ad3b60e982777bb519a71dde1eec9895b61c00487f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658157,
+      "datetime": 1743537650
+    },
+    {
+      "title": "DOJ seeks death penalty in Luigi Mangione case",
+      "description": "The Department of Justice plans to seek the death penalty in the case against Luigi Mangione, the suspect in the murder of Brian Thompson, who was the CEO of UnitedHealthcare. Julie Hyman breaks down the latest on Wealth. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+      "published_utc": "2025-04-02T00:58:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=156b8191a69fe31249325f29059f3f13b8582c5e3364dbd8340dfcb45633e4d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133655191,
+      "datetime": 1743526707
+    },
+    {
+      "title": "Attorney General Directs Prosecutors to Seek Death Penalty Against Luigi Mangione",
+      "description": "The Justice Department’s directive comes in the case against the suspect charged with the killing of a UnitedHealth executive.",
+      "published_utc": "2025-04-01T23:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c688d300176e1d6b8766d4d15674e539e1a97c472f5808bbfdbcbce398c40dcf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133655192,
+      "datetime": 1743523140
+    },
+    {
+      "title": "UnitedHealth Group (UNH): Among the Best Healthcare Stocks to Buy According to Billionaires",
+      "description": "We recently published a list of 10 Best Healthcare Stocks to Buy According to Billionaires. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best healthcare stocks to invest in. Healthcare stocks experienced a challenging year in 2024, lagging behind high-growth sectors like tech and […]",
+      "published_utc": "2025-04-01T21:58:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d2aeb22667166938eaa6787f24587621d2bf15efcc5da7aadd4aa2c012dbf2d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645211,
+      "datetime": 1743515922
+    },
+    {
+      "title": "Dogs Of The Dow Chase April's 'Safer' Buy",
+      "description": "",
+      "published_utc": "2025-04-01T20:05:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feed9044f044f2d4cb8422e3537e5db1ce869843f4c4367a375d4fa0a997d66",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133646857,
+      "datetime": 1743509147
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:59.242030+00:00",
+    "cache_key": "news_08296bd6631a41ca001ca5de25c0c193",
+    "count": 5
+  }
+}

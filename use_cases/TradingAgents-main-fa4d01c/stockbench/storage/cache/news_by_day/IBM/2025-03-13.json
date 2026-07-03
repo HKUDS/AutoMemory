@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+      "description": "IBM (IBM) closed at $249.74 in the latest trading session, marking a +0.32% move from the prior day.",
+      "published_utc": "2025-03-13T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c2652241a60c62e26e09b9ba33a9165458a60d3834db9bb3927bb62ffb4f73f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184730,
+      "datetime": 1741815917
+    },
+    {
+      "title": "Mitsubishi Motors Canada unveils AI tool to enhance Outlander buying process",
+      "description": "Developed in collaboration with WongDoody and IBM, the tool provides an interactive and personalised experience for prospective buyers.",
+      "published_utc": "2025-03-13T02:15:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04a6c8e4117d911d9325fb549fc67e110603cff09f3406d23b707f7c670baadc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184731,
+      "datetime": 1741803339
+    },
+    {
+      "title": "IBM : Provides Historical Data as a Result of Update to Revenue Categories within Reportable Segments",
+      "description": "We are making changes to the reported revenue categories within our Software and Consulting reportable segments to reflect the market opportunities and how we address them. These changes better align...",
+      "published_utc": "2025-03-13T00:24:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=973281b307c4f020bd6fef9619f2bcfad658a128ec488895cc442e5ac9e5a8fc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157513,
+      "datetime": 1741796656
+    }
+  ]
+}

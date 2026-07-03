@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Digital Rights Management Market worth $11.05 billion by 2030 | MarketsandMarkets™",
+      "description": "According to MarketsandMarkets™, the Digital Rights Management Market is estimated to be USD 6.72 billion in 2025 and is projected to reach USD 11.05 billion by 2030, registering a CAGR of 10.5% during 2025–2030.",
+      "published_utc": "2025-07-29T22:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fad5a7264108101a0cb19c10c5940b463bf767ee09b2f4381c3720980ffbc60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136118993,
+      "datetime": 1753797660
+    }
+  ]
+}

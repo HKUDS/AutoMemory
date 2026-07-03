@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "d77f51a1c3e8e45f1d660fe9f64e0bbe5719d63bc02c7edc93bb72d29f502d3c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 No-Brainer Warren Buffett Stock to Buy Right Now",
+      "author": "Anders Bylund",
+      "published_utc": "2025-02-22T13:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/1-no-brainer-warren-buffett-stock-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "KO",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "CVX",
+        "OXY",
+        "OXY.WS",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808516/growing-plants-in-coin-jars-dividends-growth-over-time.jpg",
+      "description": "The article discusses Berkshire Hathaway's investments, particularly its large stake in Coca-Cola, and why the author believes Coca-Cola is a fantastic buy for new investors in 2025. The article highlights Coca-Cola's consistent dividend payouts and its potential to serve as a steady income generator in the long run.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "dividend stocks",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses Berkshire Hathaway's investment portfolio, including its stakes in financial and energy companies, but the author acknowledges that Berkshire's investment strategy may not always align with the author's own investment approach."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses Berkshire Hathaway's investment portfolio, including its stakes in financial and energy companies, but the author acknowledges that Berkshire's investment strategy may not always align with the author's own investment approach."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author believes Coca-Cola is a fantastic buy for new investors in 2025, citing the company's consistent dividend payouts and its potential to serve as a steady income generator in the long run."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Chevron as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "OXY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Occidental Petroleum as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "OXY.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Occidental Petroleum as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway is selling Apple stock, but the author does not provide any specific commentary on the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:30.248514+00:00",
+    "cache_key": "news_61b4ab3700d5fdff527281f2d85689b1",
+    "count": 1
+  }
+}

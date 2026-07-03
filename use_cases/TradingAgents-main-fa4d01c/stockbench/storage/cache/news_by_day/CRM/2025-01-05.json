@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "title": "With 81% ownership of the shares, Salesforce, Inc. (NYSE:CRM) is heavily dominated by institutional owners",
+      "description": "Key Insights Significantly high institutional ownership implies Salesforce's stock price is sensitive to their trading...",
+      "published_utc": "2025-01-05T22:00:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed0d58cc3564c6b854022fe031f66ac0a31ad46ba13569bec2a1d2374e315e70",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/4eef4b71b22e09c4093eaa95f81447d0",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132279014,
+      "datetime": 1736085624
+    },
+    {
+      "title": "GPUs Are So 2024 -- This Is 2025's Hottest Trend for the $15.7 Trillion Artificial Intelligence (AI) Revolution",
+      "description": "Hardware won't be the apple of AI investors' eyes in the new year.",
+      "published_utc": "2025-01-05T17:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d5cea7c410b59f2e6637e8eb90a0a266e8633a1741a1d59aa3f2c625321dda2",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802600/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132277234,
+      "datetime": 1736068860
+    },
+    {
+      "id": "b02085a3e77826d8182eebdc2980bf59a6d9fd4be25e7188102a4392fdc5f28c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Vanguard ETF to Ride the Agentic and Physical AI Revolution in 2025",
+      "author": "George Budwell",
+      "published_utc": "2025-01-05T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/05/1-vanguard-etf-to-ride-the-agentic-and-physical-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "CRM",
+        "ORCL",
+        "AVGO",
+        "AMD",
+        "VGT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802889/robotics-getty.jpg",
+      "description": "The article discusses the rise of agentic AI and physical AI, and how the Vanguard Information Technology ETF (VGT) provides exposure to companies developing these transformative technologies. The ETF's large-cap focus and diversified approach help manage risk as these AI subsectors move from conception to reality.",
+      "keywords": [
+        "agentic AI",
+        "physical AI",
+        "Vanguard Information Technology ETF",
+        "AI",
+        "technology sector"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is one of the largest holdings in the Vanguard Information Technology ETF, representing the vanguard of technology innovation."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is one of the largest holdings in the ETF and develops processors essential for the development of physical AI."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is one of the largest holdings in the ETF and represents the vanguard of technology innovation."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is a top-10 holding in the ETF and its established enterprise customer relationships could provide natural distribution channels for future AI technologies."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is a top-10 holding in the ETF and its established enterprise customer relationships could provide natural distribution channels for future AI technologies."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is a semiconductor company that develops processors essential for the development of physical AI, and is held in the ETF."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Advanced Micro Devices is a semiconductor company that develops processors essential for the development of physical AI, and is held in the ETF."
+        },
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF provides exposure to companies developing agentic AI and physical AI technologies, with a focus on established technology leaders to help manage risk."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Group Inc. stock underperforms Monday when compared to competitors",
+      "description": "Goldman Sachs Group Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-05-20T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=645620ecbc57fb856fc661b73d9e8c3421151a1b9d13bf63746b7bce5ea8a025",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134613500,
+      "datetime": 1747672440
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Options Markets Show Traders Reposition as Mideast Tension Fades",
+      "description": "(Bloomberg) -- Stocks hit record highs last week and energy futures retreated after Middle East tensions eased. But in some parts of the options markets, there are still signs of stress as investors position for potential geopolitical and macroeconomic upsets. Most Read from BloombergPhiladelphia Transit System Votes to Cut Service by 45%, Hike FaresSqueezed by Crowds, the Roads of Central Park Are Being ReimaginedSprawl Is Still Not the AnswerMapping the Architectural History of New York’s Chin",
+      "published_utc": "2025-06-29T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=041b4dd23676459a7ed635da96cd1e7b09b2896c9c9b20298c5963266955b48a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135632024,
+      "datetime": 1751205600
+    },
+    {
+      "title": "Jerome Powell Just Gave A Huge Gift To BDC Investors",
+      "description": "",
+      "published_utc": "2025-06-29T18:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=508d1eed59280dde2f9078622f541806e245e8d9ec0edb9a1945c5f0f55ec4fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135631622,
+      "datetime": 1751191200
+    },
+    {
+      "title": "VOO Vs. QQQ: Which Is The Better ETF For Investors In Their 30s",
+      "description": "",
+      "published_utc": "2025-06-29T17:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a58ab3780127ddd82c9c54cb94a356994e7ac1f3988a0120b00a3f9b2a44196d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135631432,
+      "datetime": 1751188500
+    }
+  ]
+}

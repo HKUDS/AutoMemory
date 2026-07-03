@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Meta's Llama AI Team Suffers Talent Exodus As Top Researchers Join $2B Mistral AI, Backed By Andreessen Horowitz And Salesforce",
+      "description": "Mistral AI, a Paris-based startup founded by former Meta (NASDAQ:META) researchers Guillaume Lample and Timothée Lacroix, is rapidly emerging as a key player in the open-source AI space, and it's doing so with Meta‘s top talent. The tech giant is contending with a major loss of talent within its AI division as the architects behind its flagship Llama models exit the company. According to Business Insider, only three of the 14 researchers credited on the 2023 Llama paper remain employed at Meta.",
+      "published_utc": "2025-06-01T07:11:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=092ddf92ba08550b1f393e8ba03c889daaabbe30fa05c9d51800a77bda23df79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134921045,
+      "datetime": 1748733116
+    },
+    {
+      "title": "Salesforce: You May Not Get It This Cheap Again (Rating Upgrade)",
+      "description": "Salesforce lags despite solid profits, but AI traction, M&A moves, and low valuation offer upside. See why CRM stock is upgraded to buy.",
+      "published_utc": "2025-05-31T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c73f4a7b4af0c3adbb1a35bf9465babbdd166fae125a598872159db750f80f1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1223906528/image_1223906528.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918633,
+      "datetime": 1748691000
+    },
+    {
+      "title": "Salesforce: Market's Obsession With Growth Presents An Opportunity",
+      "description": "Salesforce slipped post-Q1 2026 results, but improving profitability and low valuations support long-term upside amid transition. See why CRM stock is a buy.",
+      "published_utc": "2025-05-31T13:46:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d869aaa48d65eb36097cfa5806d584ca1b7ba7aa57f40397631a85cd7dd49d94",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1461527038/image_1461527038.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917370,
+      "datetime": 1748670404
+    },
+    {
+      "title": "Salesforce: A Steal For Growth Investors",
+      "description": "",
+      "published_utc": "2025-05-31T12:05:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15e0bac7775324fba76c66ab1760ba6e821bf17051ace0e86dd0dacc78012fec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917034,
+      "datetime": 1748664306
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:50:01.252400+00:00",
+    "cache_key": "news_44dd7cbe8d085b8cca76744db073bfa9",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "description": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-07T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2f19d1b1b63b85d86126db8869e9e3b956e49d70a3aee5f952c7f118994fc7e0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132582326,
+      "datetime": 1738859640
+    }
+  ]
+}

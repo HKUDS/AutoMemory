@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft: Approaching Future-Defining Cash Flow Inflection Point",
+      "description": "Microsoft is a 'Strong Buy' with AI-driven revenue growth, stellar execution, and free cash flow expansion. Price target: $585. See more on MSFT stock here.",
+      "published_utc": "2025-07-09T07:24:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bd6b6406e975d6c432bdb46ef3fa2d92a334ec1cba44a4bd5b4a21ca08310378",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1729779122/image_1729779122.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135827919,
+      "datetime": 1752017058
+    },
+    {
+      "title": "US government confirms arrest of Chinese national accused of stealing COVID research and mass-hacking email servers",
+      "description": "Accused hacker and Chinese national Xu Zewei was arrested in Italy at the request of U.S. prosecutors.",
+      "published_utc": "2025-07-09T04:40:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98177d7b33d75928d8fdf12c31fc23b2da3156d383f7bd7a9cae17a47c34042b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135827337,
+      "datetime": 1752007242
+    },
+    {
+      "title": "U.S. Based Company iDox.ai Expands Access to Scalable AI-Powered Redaction Tools for Privacy Compliance Across U.S. Sectors",
+      "description": "Fremont-based company supports growing demand for accurate, regulation-ready redaction software in government, legal, healthcare, and financeFremont, California, July 08, 2025 (GLOBE NEWSWIRE) -- iDox.ai, a U.S.-based company specializing in artificial intelligence-driven data protection, is expanding its reach across public and private sectors with redaction tools designed to meet national privacy compliance standards. As data privacy regulations grow increasingly complex, the need for accurate",
+      "published_utc": "2025-07-09T03:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd40a54d60369d2a619c684cecb8949a2f2c2c692886d61c2571af7a35f9a614",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135827338,
+      "datetime": 1752001560
+    },
+    {
+      "title": "Is Microsoft Stock A Buy In July? What The Fundamentals And Stock Chart Say Now",
+      "description": "Is Microsoft stock a buy in July?  Microsoft stock remains one of the \"Magnificent Seven\" tech giants, with 7.43 billion shares outstanding and a stock market value of nearly $3.7 trillion.  First off, should you even pay attention to Microsoft stock?",
+      "published_utc": "2025-07-09T02:42:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ca1f70b490d0e28296defc67ed019bd5e1f44dfb79769e4473c44eff4429b82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135827339,
+      "datetime": 1752000175
+    },
+    {
+      "title": "AFT to launch National Academy for AI Instruction with Microsoft, OpenAI, Anthropic and United Federation of Teachers",
+      "description": "The AFT, alongside the United Federation of Teachers and lead partner Microsoft Corp., founding partner OpenAI, and Anthropic, announced the launch of the National Academy for AI Instruction today. The groundbreaking $23 million education initiative will provide access to free AI training and curriculum for all 1.8 million members of the AFT, starting with K-12 educators. It will be based at a state-of-the-art bricks-and-mortar Manhattan facility designed to transform how artificial intelligence",
+      "published_utc": "2025-07-09T01:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6134465200a316151634428363b233d5ff32571239872e4adf111c520cc96b1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135827340,
+      "datetime": 1751996880
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:12.602458+00:00",
+    "cache_key": "news_73792ee644cc6358b1e32f9c9dfbefed",
+    "count": 5
+  }
+}

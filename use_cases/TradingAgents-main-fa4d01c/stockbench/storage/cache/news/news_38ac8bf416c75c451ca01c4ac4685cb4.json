@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. (AMGN) BofA Securities 2025 Healthcare Conference (Transcript)",
+      "description": "Amgen Inc. (NASDAQ:AMGN) BofA Securities 2025 Healthcare Conference Call May 14, 2025 12:20 PM ETCompany ParticipantsPeter Griffith - Executive Vice...",
+      "published_utc": "2025-05-15T00:21:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d78c8a2c2dfe47ebe605fe583a8af4142dc8a650682e47b8027c93502946eee6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134453599,
+      "datetime": 1747239682
+    },
+    {
+      "title": "BlackRock Health Sciences Opportunities Fund Q1 2025 Commentary",
+      "description": "BlackRock Health Sciences Opportunities Fund posted returns of 3.66% (Institutional shares) and 3.60% (Investor A shares, without sales charge) for the first quarter of 2025.",
+      "published_utc": "2025-05-14T23:38:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a09fa1031198fe3423a5318e0d47459c521efb03ae4196a089069f85176f0e54",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/183355336/image_183355336.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134453013,
+      "datetime": 1747237080
+    },
+    {
+      "title": "Dow's 115-point drop led by losses for Amgen, 3M stocks",
+      "description": "Dow's 115-point drop led by losses for Amgen, 3M stocks",
+      "published_utc": "2025-05-14T19:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fe994dfedeced3bae800e6590a04318330ed9fec1d3b55e456f1986dc367eb7e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134437978,
+      "datetime": 1747220700
+    },
+    {
+      "title": "A Path To Antibody Protection",
+      "description": "In the wake of the 2023 Supreme Court's decision in Amgen, Inc. v Sanofi, the remaining means by which patent practitioners can claim antibodies while satisfying the requirements of 35 U.S.C. § 112...",
+      "published_utc": "2025-05-14T18:15:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5029aff2c8e4f1162391f3db0cfa9082bcd8d23b92cdc7f7cac58e229d6d0edb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134436049,
+      "datetime": 1747217716
+    },
+    {
+      "title": "BBH: Fear Of Price Controls Is Not The Problem",
+      "description": "The VanEck Biotech ETF offers lower risk with established companies, but 23% of AUM in speculative stocks poses a risk. Check out why I rate BBH a sell.",
+      "published_utc": "2025-05-14T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5b9b2ebe607eb4d37afae12d3df292c9ef9d6c96c54e06f280d50c128a84afe4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200850893/image_2200850893.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134435713,
+      "datetime": 1747213200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:44.926557+00:00",
+    "cache_key": "news_38ac8bf416c75c451ca01c4ac4685cb4",
+    "count": 5
+  }
+}

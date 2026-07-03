@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Why And How To Plan For A Potential $2 Million Retirement",
+      "description": "$1 million may no longer be sufficient for folks in their late 40s or early 50s who are 15 years away from retirement. See here for easy-to-implement strategies.",
+      "published_utc": "2025-03-08T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe3268fcc31c44959b1441a991acedae06b7766c62d0a4e0d4fa57e4450f8133",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1497523107/image_1497523107.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133106436,
+      "datetime": 1741421700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:47.644907+00:00",
+    "cache_key": "news_e4bec51fc800152eef1588487305aea4",
+    "count": 1
+  }
+}

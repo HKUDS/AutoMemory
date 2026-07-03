@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Wall Street CEOs Stress Fed Independence Amid Powell Attacks",
+      "description": "(Bloomberg) -- Top bosses at some of Wall Street’s biggest banks emphasized the importance of an independent Federal Reserve as the long-running saga between President Donald Trump and central bank Chair Jerome Powell intensified.Most Read from BloombergThe Dutch Intersection Is Coming to Save Your LifeAdvocates Fear US Agents Are Using ‘Wellness Checks’ on Children as a Prelude to ArrestsLA Homelessness Drops for Second YearManhattan, Chicago Murder Rates Drop in 2025, Officials SayBank of Amer",
+      "published_utc": "2025-07-17T05:22:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f10780f81fbeb098a70fa649e7090cd1ef8adb535101e0f864d3bb2b2a0c33df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993024,
+      "datetime": 1752700959
+    },
+    {
+      "title": "Nasdaq Extends Record Run as Trump Denies he Plans to Fire Fed's Powell",
+      "description": "US equities finished higher Wednesday, propelling the Nasdaq Composite to a new high after President",
+      "published_utc": "2025-07-17T05:19:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb22e3c28e05ccb7ecd4c2deb7b2d6d14e963cb4eb98d10c870d68597796ebb7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993146,
+      "datetime": 1752700745
+    },
+    {
+      "title": "Stocks to Watch Recap: J&J, UnitedHealth, Goldman Sachs, Ford",
+      "description": "↗️ Johnson & Johnson (JNJ): J&J posted better-than-expected results and boosted its annual outlook. Shares rose 6.2%. ? Goldman Sachs (GS), Bank of America (BAC), Morgan Stanley (MS): The banks reported stronger-than-forecast profits, as tariff-related market turbulence boosted trading.",
+      "published_utc": "2025-07-17T05:05:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2b153ca4d3aff7d5972f5c95d839d832085d6567e756d091107460978a83a6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993147,
+      "datetime": 1752699920
+    },
+    {
+      "title": "Stocks End Higher After Trump Plays Down Intentions to Fire Powell",
+      "description": "A series of reports indicating that President Trump could attempt to fire Federal Reserve Chair  Jerome Powell  sparked a roller-coaster day on Wall Street, before major indexes closed the session near records.  Major stock indexes slid as much as 0.8% midday after news that Trump told Republican lawmakers that he was likely to attempt to remove Powell from his job soon.  The prospect that lower rates would eventually yield higher inflation sparked a selloff in long-dated Treasurys, driving up the 30-year yield around 0.1 percentage point.",
+      "published_utc": "2025-07-17T04:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=427088d4ae9b29d43bb709e1d9a6365bdd5c7fd46a5b0462f0d198d5affca247",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993025,
+      "datetime": 1752699240
+    },
+    {
+      "title": "These Stocks Moved the Most Today: ASML, J&J, Global Payments, Morgan Stanley, Ford, Palantir, Brighthouse, and More",
+      "description": "ASML falls sharply after issuing a growth warning, while Goldman Sachs, Morgan Stanley, and Bank of America post better-than-expected quarterly earnings.",
+      "published_utc": "2025-07-17T04:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fecee356d2b1467f121e83354870682bfa3855536c32c12ddfa3e16d2ffd41a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993149,
+      "datetime": 1752699000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:27.417809+00:00",
+    "cache_key": "news_67432a6aa3ffe4891023c035275577e8",
+    "count": 5
+  }
+}

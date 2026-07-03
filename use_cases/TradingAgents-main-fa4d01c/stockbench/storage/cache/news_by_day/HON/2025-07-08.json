@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Top Midday Stories: Canadian Regulator Advances Amazon Probe; Boeing Q2 Commercial Deliveries Up 63% YoY",
+      "description": "The Dow Jones Industrial Average was down around 0.2% in late-morning trading Tuesday, while the SP",
+      "published_utc": "2025-07-08T23:40:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f85223c5de3e4dd6180d91ccb178d63d6908f546582209715c1b5c8ad307c84e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135809521,
+      "datetime": 1751989233
+    }
+  ]
+}

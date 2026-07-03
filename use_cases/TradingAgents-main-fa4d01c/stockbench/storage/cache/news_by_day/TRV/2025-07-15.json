@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway vs. Travelers: Which Insurer Offers Better Return?",
+      "description": "TRV outpaces BRK.B in terms of return on equity and stock gains; however, both insurers face climate risks and rising tech-driven M&A activity.",
+      "published_utc": "2025-07-15T01:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4f77a3392414e1fad5dc2c4e79b1b26c161678b622017da33b04a73beabf5d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932647,
+      "datetime": 1752514680
+    }
+  ]
+}

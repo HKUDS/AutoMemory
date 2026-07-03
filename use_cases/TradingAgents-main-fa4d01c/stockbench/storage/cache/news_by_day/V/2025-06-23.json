@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visa's Crypto Integration: A Game Changer or a Risky Bet?",
+      "description": "V taps into stablecoins and tokenized assets as it deepens crypto ties. However, regulatory risks still remain.",
+      "published_utc": "2025-06-23T23:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56d4bc83aa56d6af5295e3a61bc6ecc967c0de9f250156352ae642d3aa0cd2e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489428,
+      "datetime": 1750693320
+    },
+    {
+      "title": "Analysts: Ignore the Stablecoin Panic and Keep Buying Visa Stock",
+      "description": "Analysts believe Visa’s payment dominance will not fade anytime soon.",
+      "published_utc": "2025-06-23T21:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89fedd7eb7388821952d1511f35bbc0830b15398046185ccaff48bb34b2000f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481671,
+      "datetime": 1750683602
+    }
+  ]
+}

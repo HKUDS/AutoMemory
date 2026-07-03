@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Templeton Growth Fund Q4 2024 Commentary",
+      "description": "During Q4 2024, global stocks were pressured by investor concerns about economic growth, persistent inflation in some regions and the uncertain path of interest-rate cuts in 2025.",
+      "published_utc": "2025-02-02T21:32:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5dc72c089e5dfa345da04b4165b1796b41709eb8d52e55aec7d6af0047f8e340",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1158571591/image_1158571591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132515763,
+      "datetime": 1738503120
+    },
+    {
+      "title": "Want to Bet on the L.A. Wildfires? Prediction Markets Are Getting Edgy",
+      "description": "Want to Bet on the L.A. Wildfires? Prediction Markets Are Getting Edgy",
+      "published_utc": "2025-02-01T13:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=1f2036571bb6b9f1c7e7f10a715c98d6863c3ff00143af7f9fd04111e620fafc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132521166,
+      "datetime": 1738387800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:48:20.320324+00:00",
+    "cache_key": "news_fab684aab7f8cb32bddfcde31eceb36e",
+    "count": 2
+  }
+}

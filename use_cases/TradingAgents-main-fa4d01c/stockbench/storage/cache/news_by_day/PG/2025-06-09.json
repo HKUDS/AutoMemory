@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Highlights Procter & Gamble (PG) “Plans to Cut 7,000 Jobs Over Two Years”",
+      "description": "We recently published a list of 15 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other stocks that Jim Cramer discusses. Discussing what is affecting the consumer packaged goods stocks, Cramer mentioned The Procter & Gamble Company (NYSE:PG) […]",
+      "published_utc": "2025-06-09T02:59:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f68b83da5a1195a6c2473e063e9f33656f99be83ba84f8709ac14147fdae5af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135117450,
+      "datetime": 1749409170
+    }
+  ]
+}

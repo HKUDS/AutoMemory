@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Global Dividend Fund Q4 2024 Commentary",
+      "description": "BlackRock Global Dividend Fund posted returns of -4.66% (Institutional shares) and -4.64% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-20T05:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe11fccefad920397ae12f7f4e4eda84c9f64cb98b126478d861edcec76868c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96502248/image_96502248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263378,
+      "datetime": 1742419260
+    },
+    {
+      "title": "Mag 7, tech weakness is breeding new opportunities: Where to look",
+      "description": "Meta Platforms (META) has erased its year-to-date gains, making it the final component of the Magnificent Seven group of tech stocks to turn negative in 2025. Where exactly are investors finding new opportunities as this might be a signal for them to pivot away from Big Tech? Aptus Capital Advisors portfolio manager David Wagner underlines the push to diversify into small-cap stocks, while naming some alternatives to mega-cap tech names in other sectors. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+      "published_utc": "2025-03-19T23:50:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1150dd31ee0a832dacaf70ab47e03b400742706c830bcbe5f91df04045855af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133307454,
+      "datetime": 1742399429
+    },
+    {
+      "title": "Is UnitedHealth Stock Still a Buy Despite Its Premium Price Tag?",
+      "description": "UNH is making significant investments in AI and digital tools to enhance consumer experiences and streamline healthcare processes.",
+      "published_utc": "2025-03-19T23:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a415f920fb8c2ae3d5fae579c4e5beb138ce8a19fbbe9e54b8f89aa2162cb8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324484,
+      "datetime": 1742396880
+    },
+    {
+      "title": "Is UnitedHealth Group Incorporated (UNH) the Top Stock to Buy According to Marshall Wace LLP?",
+      "description": "We recently published a list of Top 10 Stocks to Buy According to Marshall Wace LLP. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other top stocks to buy according to Marshall Wace LLP. Marshall Wace LLP is a prominent British hedge fund established in 1997 […]",
+      "published_utc": "2025-03-19T22:45:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9be74a11eaa2e30ca42c7436b051b14247bc00a5f144c13c0c92fea91aa8434",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324485,
+      "datetime": 1742395539
+    },
+    {
+      "title": "UnitedHealth eases rules on renewing some prescription drugs",
+      "description": "(Reuters) -UnitedHealth Group's pharmacy benefit manager, Optum Rx, said on Wednesday it would ease requirements to get insurance authorization when renewing prescriptions on about 80 drugs, aiming to reduce paperwork for patients and doctors.  The list, which could be expanded over time, will eliminate up to 25% of reauthorization requirements and accounts for more than 10% of all such pharmacy authorizations, it said.  The program starts on May 1 and will include drugs ranging from Amgen's migraine treatment Aimovig, Vertex Pharmaceutical's cystic fibrosis treatment Kalydeco, and Regeneron's Praluent for high cholesterol.",
+      "published_utc": "2025-03-19T19:07:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df1cf77b7b3d57ca0fd29f32cab87c40d9c89d7921597b95f6b4fe16a7864fc0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324486,
+      "datetime": 1742382438
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:59.424412+00:00",
+    "cache_key": "news_8edb4c5591fd386e7d07c10ebb351f2e",
+    "count": 5
+  }
+}

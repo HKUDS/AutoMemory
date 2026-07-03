@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "The Stock Market Was Due for a Rally. Why It Should Start Dropping Again Soon.",
+      "description": "The Stock Market Was Due for a Rally. Why It Should Start Dropping Again Soon.",
+      "published_utc": "2025-03-25T16:07:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ad032575bfb9abab5c5087793367214fda06accba4c9f0aeb3008c27e9a26db1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147379,
+      "datetime": 1742890020
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:21.742213+00:00",
+    "cache_key": "news_4f9abfa722f0b009f77d7a516b4632cf",
+    "count": 1
+  }
+}

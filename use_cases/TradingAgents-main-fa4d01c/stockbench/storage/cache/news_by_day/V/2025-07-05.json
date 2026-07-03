@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 9% (July 2025)",
+      "description": "It is best to invest regularly and consistently in good, solid dividend-paying stocks with reasonable or attractive valuations. Check out five such stocks here.",
+      "published_utc": "2025-07-05T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a6430737cab223aeeaa0abd13f92267e6b71ea15c7d111856b2675352d7fda4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135765831,
+      "datetime": 1751702400
+    },
+    {
+      "title": "ClearBridge Large Cap Growth Strategy Q2 2025 Commentary",
+      "description": "Growth stocks led a furious market rebound from tariff uncertainty with the higher-beta technology and communication services sectors leading in the return to a risk-on environment.",
+      "published_utc": "2025-07-05T13:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f34d09a01ca6bec9dd41d5fcfd384af4daabee079fbf3d8d5b4bb0bac30d840e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153770829/image_2153770829.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135764052,
+      "datetime": 1751692500
+    }
+  ]
+}

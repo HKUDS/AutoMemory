@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "d53e4d83324400c2a7a9fc0066999c8a8c9422462bc3a763e7eb6cb38e47a2a0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Top High-Yield Dividend Stocks I Plan to Buy in March for More Passive Income",
+      "author": "Matt Dilallo",
+      "published_utc": "2025-03-02T12:38:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/3-top-high-yield-dividend-stocks-i-plan-to-buy-in/?source=iedfolrf0000001",
+      "tickers": [
+        "PEP",
+        "JNJ",
+        "PLD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809536/gettyimages-2153758481-1200x800-5b2df79.jpg",
+      "description": "The author plans to invest in PepsiCo, Johnson & Johnson, and Prologis to generate passive income through their high-yielding and steadily increasing dividends. The companies are well-positioned to continue growing their payouts due to their strong financial profiles and growth prospects.",
+      "keywords": [
+        "passive income",
+        "dividend stocks",
+        "PepsiCo",
+        "Johnson & Johnson",
+        "Prologis"
+      ],
+      "insights": [
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "PepsiCo has a high dividend yield of 3.5%, more than double the S&P 500 average, and a strong track record of consecutive annual dividend increases, making it an attractive income-generating investment."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson has a 3% dividend yield and a long history of dividend growth, supported by its healthy financial profile and ongoing investments in growth, which should enable it to continue increasing its high-yielding dividend."
+        },
+        {
+          "ticker": "PLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Prologis, a leading logistics REIT, offers a 3.3% dividend yield and is expected to continue increasing its dividend at a solid pace, driven by growing demand for logistics space and its strong financial position to fund future growth."
+        }
+      ]
+    }
+  ]
+}

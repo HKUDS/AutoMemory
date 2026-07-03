@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International (HON): One of the Best Quantum Computing Stocks to Buy Right Now?",
+      "description": "We recently published a list of 11 Best Quantum Computing Stocks to Buy Right Now. In this article, we are going to take a look at where Honeywell International Inc. (NASDAQ:HON) stands against other best quantum computing stocks to buy right now. Quantum computing continues to advance rapidly, which has been helping businesses get new […]",
+      "published_utc": "2025-03-18T02:24:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=649a8c8a42f6457a6c202b3cac060fa72507c927a0b5e816fbfb6824457ec96f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325336,
+      "datetime": 1742235866
+    },
+    {
+      "title": "Honeywell enters into $3 bln 364-day credit agreement",
+      "description": "Honeywell International Inc: * HONEYWELL INTERNATIONAL INC - ENTERS INTO $3 BILLION364-DAYCREDIT AGREEMENT * HONEYWELL INTERNATIONAL INC - TERMINATES $1.5...",
+      "published_utc": "2025-03-18T01:48:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b6a08575ca0d5dea4e50404c80724e98e3978ffb8a53bbe6f3a63ac1d4d72a4a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133209905,
+      "datetime": 1742233693
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:01.651775+00:00",
+    "cache_key": "news_e46fb620040937537f406fe540e12752",
+    "count": 2
+  }
+}

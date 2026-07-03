@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "6 Top Quantum Computing Stocks to Buy in 2025",
+      "description": "In the fast-moving world of cutting-edge technologies, quantum computing is perhaps one of the most exciting developments in recent years.  Breakthroughs that could revolutionize machine learning, optimization problems, advanced simulations, and cryptography have opened the door for transformative commercial applications.  Industry estimates suggest quantum computing could represent an annual market valued at upward of $170 billion by 2040, driving multiple companies to pursue the opportunity.",
+      "published_utc": "2025-03-20T06:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1da9b7670b56af7360ccb90aaa828b5ed08469f09b4f4354d7d502dbb925870f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324772,
+      "datetime": 1742422860
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Teams With NVIDIA To Enhance Generative AI And Cloud Solutions",
+      "description": "International Business Machines (NYSE:IBM) recently announced a strategic collaboration with NVIDIA to enhance enterprise generative AI workloads through integrated solutions, which may have been a catalyst for the company's share price increasing by 12% in the last quarter. This initiative is part of IBM's broader focus on AI advancements, complemented by the upcoming launch of content-aware storage capabilities to strengthen hybrid cloud infrastructure. Furthermore, IBM's solid dividend...",
+      "published_utc": "2025-03-20T01:26:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3008ce8a7e976ca1a66ff876c90ef1d5858bdb7a0b66085b497d499e28dda0b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324773,
+      "datetime": 1742405178
+    }
+  ]
+}

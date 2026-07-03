@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com Inc. (AMZN): Among Billionaire Chase Coleman’s Stocks with Huge Upside Potential",
+      "description": "We recently published a list of Billionaire Chase Coleman’s 10 Stocks with Huge Upside Potential. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other Billionaire Chase Coleman’s stocks with huge upside potential. Equity markets achieved an unprecedented winning streak over the past two years at the […]",
+      "published_utc": "2025-05-05T05:12:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dea9c3c638cf7488db5332f78c4b2199c83519b523dcc63044e5bb6a78862d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246715,
+      "datetime": 1746393125
+    },
+    {
+      "title": "Franklin U.S. Focused Growth SMA Q1 2025 Commentary",
+      "description": "Stock markets worldwide were turbulent over 1Q25, with major US equity indexes, the S&P 500 Index, Dow Jones Industrial Average and NASDAQ Composite Index, sustaining overall declines.",
+      "published_utc": "2025-05-05T00:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1b03740efc1bd8ea4c599dcaefa2826f679de0406108b4c0d08c7cecf37985e5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190217190/image_2190217190.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134240939,
+      "datetime": 1746377400
+    },
+    {
+      "title": "2 Quantum Computing Stocks to Buy Right Now",
+      "description": "Quantum computing represents the next technological frontier, potentially revolutionizing fields from drug discovery to cybersecurity.  The global quantum computing market is expected to grow exponentially in the coming decades.  In 1981, Nobel Prize-winning physicist Richard Feynman first proposed the concept of quantum computers, recognizing that classical machines could never efficiently simulate quantum systems.",
+      "published_utc": "2025-05-04T23:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc364ed072105b0f8d3e2d828397cf1f95f582d83674bd0c11d9ed5caeaa4c1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246716,
+      "datetime": 1746372600
+    },
+    {
+      "title": "3 Soaring Retail Stocks to Hold for the Next 20 Years",
+      "description": "Kroger, Amazon, and Walmart are all evergreen retail investments.",
+      "published_utc": "2025-05-04T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54f2c9e7bc8df4c9b2a160fbb0fc70aa149a04d11b319ebd767700cf9227939a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246717,
+      "datetime": 1746366300
+    },
+    {
+      "title": "Analysts revise Amazon stock price target after earnings",
+      "description": "This is what could happen next to Amazon shares.",
+      "published_utc": "2025-05-04T21:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd909648af80bc884621842c20479d9c20b2d9cbb3a5bfa647abd739365e8a99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246718,
+      "datetime": 1746365580
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:34.880607+00:00",
+    "cache_key": "news_699b8862ea66a84fc4c9d6a3087aa2e3",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer’s Take on UnitedHealth Group (UNH): Bold Predictions for the Future",
+      "description": "We recently compiled a list of the Jim Cramer’s Bold Predictions About These 10 Healthcare Stocks. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against the other healthcare stocks Jim Cramer has made bold predictions about. Healthcare has been one of Jim Cramer’s favorite topics lately. […]",
+      "published_utc": "2025-01-02T01:57:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7118a216a7906a376849c351190a4aedbd266077b2c3937bc0042926d6a15ea",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a6c6a869a7c2c92171425bdb9b9fb0f6",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132230757,
+      "datetime": 1735754237
+    },
+    {
+      "title": "Here's Why UnitedHealth Group (UNH) is a Strong Value Stock",
+      "description": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+      "published_utc": "2025-01-01T22:40:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=999aabf5079916b5e74c809c61f3461fd68eb968a807b79cbaa9f49de9e5d06a",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/c2fdcaac033e049c74f38d188afcc9f9",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132230758,
+      "datetime": 1735742413
+    },
+    {
+      "title": "UnitedHealth Group (UNH) Stock Moves -0.38%: What You Should Know",
+      "description": "In the latest trading session, UnitedHealth Group (UNH) closed at $505.86, marking a -0.38% move from the previous day.",
+      "published_utc": "2025-01-01T06:45:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=266588ec898408d8eaf655133abaf9badadd41102f420c0fb13871398f31a4e3",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/a7cdcede0bb5a646be035f4a7e678781",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132222948,
+      "datetime": 1735685119
+    },
+    {
+      "title": "Is UnitedHealth Group (UNH) Among the Best Low Volatility Stocks to Buy Right Now?",
+      "description": "We recently published a list of 8 Best Low Volatility Stocks To Buy Right Now. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best low volatility stocks to buy right now. The market has shown strong performance overall, with the S&P 500 up nearly […]",
+      "published_utc": "2025-01-01T03:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8884230a348f9fe855d216e322127e37cd36ad809fc723adce4adde387580d01",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/BZethiGfzmapselBAdA_0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c34a56642082d17e3fa7c8675c6742b3",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132222949,
+      "datetime": 1735671610
+    },
+    {
+      "title": "'It's A Giant Money Machine'– Joe Rogan Slams The Health Insurance System That Cares More About Profits Than Patients",
+      "description": "Joe Rogan Slams Health Insurance: ‘It’s A Giant Money Machine’ That’s Not Focused On Making You Better The U.S. health care system is broken – at least, that's the view of many Americans, including podcast host Joe Rogan. On his show, “The Joe Rogan Experience,” he and comedian Duncan Trussell recently discussed why they think health insurance companies care more about making money than helping people. “It’s not really about making you better,” Rogan said. “Making you better is what they sell, b",
+      "published_utc": "2025-01-01T02:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0bcce52a6a36c573d8971b8ec3efa49c812e3a290e46b155d7aa5a330399b31",
+      "category": "company",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132216741,
+      "datetime": 1735668017
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:16:36.519659+00:00",
+    "cache_key": "news_e4f8002dde2e4c46d1a3c39064be4c89",
+    "count": 5
+  }
+}

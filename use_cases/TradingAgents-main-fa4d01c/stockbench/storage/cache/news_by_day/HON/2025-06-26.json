@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Stock Moves -1.25%: What You Should Know",
+      "description": "Honeywell International Inc. (HON) closed at $221.79 in the latest trading session, marking a -1.25% move from the prior day.",
+      "published_utc": "2025-06-26T06:15:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=775756407b57f4b1560c467a3858137123091bddae16f9ffdb76d356884eef84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135535681,
+      "datetime": 1750889702
+    },
+    {
+      "title": "How to play the defense sector amid growing global conflict",
+      "description": "Defense stocks are holding steady even as global tensions persist. Tony Bancroft, Gabelli Funds Aerospace and Defense ETF portfolio manager, joins Market Domination to explain how long-term instability could keep demand for US weapon systems high. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-26T05:43:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c23b0b0f71848ca3d9d88e3df09f1092ee0c2290b2462102b3d5a0de5b747126",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529390,
+      "datetime": 1750887807
+    }
+  ]
+}

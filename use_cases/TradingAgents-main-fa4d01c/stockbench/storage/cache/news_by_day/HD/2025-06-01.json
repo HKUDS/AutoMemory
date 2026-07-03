@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Eyes Stock Market Payoff With Contrarian Tariff Strategy",
+      "description": "Home Depot (HD) is charting a different course on tariffs. While competitors like Walmart (WMT) plan to raise prices on tariff-impacted goods, Home Depot aims to maintain steady prices, thanks to its flexible product lines and diversified supply chain. Although the company remains exposed to broader macroeconomic pressures, such as a slowdown in housing development, I believe it’s well-positioned for a strong rebound as conditions stabilize. As outlined in the following sections, this underpins",
+      "published_utc": "2025-06-01T05:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8465311c39208cd004b6fa1c069ce574ad76754d48760760c9269dce56e64c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134937081,
+      "datetime": 1748726760
+    }
+  ]
+}

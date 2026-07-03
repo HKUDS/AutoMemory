@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "When in doubt about your next best bet, consider poaching an idea (or three) from the world's most proven stock picker.",
+      "published_utc": "2025-04-05T17:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11e2b800f7f174568ef6ffad8faec8be876e58d239e7e467434951106e991b7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727182,
+      "datetime": 1743844020
+    },
+    {
+      "title": "5 Reasons to Buy American Express Stock Like There's No Tomorrow",
+      "description": "The credit card and banking giant is still an evergreen investment.",
+      "published_utc": "2025-04-05T16:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f5a48fc37f361c678add37aad14bd3c5c76a19d10c1f13dee8dde5a912ff473",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727386,
+      "datetime": 1743842400
+    },
+    {
+      "title": "2 Warren Buffett Stocks to Hold Forever",
+      "description": "Warren Buffett is known for saying his favorite holding period is \"forever.\"  In fact, it's been a net seller of stocks for the past nine quarters, a rarity for the holding company.  Throughout this time, there are two stocks (among others) he hasn't touched that he has said several times he would never sell: Coca-Cola (NYSE: KO) and American Express (NYSE: AXP).",
+      "published_utc": "2025-04-05T15:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=787682f03c102403361a547e799696991458a44dbe7087ee5753bc786bb5e1d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727298,
+      "datetime": 1743837240
+    }
+  ]
+}

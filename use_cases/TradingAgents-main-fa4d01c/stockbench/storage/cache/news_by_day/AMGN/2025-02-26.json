@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Apple, Amgen share losses lead Dow's 175-point drop",
+      "description": "Apple, Amgen share losses lead Dow's 175-point drop",
+      "published_utc": "2025-02-26T23:13:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7e25b1270deb7026de6b6b34b197b6c67acfb06bf1c29aaf9f0189d9baa3ae69",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881137,
+      "datetime": 1740582780
+    },
+    {
+      "title": "Boeing, Apple share losses lead Dow's 289-point drop",
+      "description": "Boeing, Apple share losses lead Dow's 289-point drop",
+      "published_utc": "2025-02-26T21:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8d5e76ddd9b6246d79b92079eb11f2b417b104f10a3350efd56591f7449c19b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881138,
+      "datetime": 1740578220
+    },
+    {
+      "title": "Dow falls 110 points on losses for Boeing, Amgen shares",
+      "description": "Dow falls 110 points on losses for Boeing, Amgen shares",
+      "published_utc": "2025-02-26T20:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0c818dab1edd19660f0d68c466c099a114115cbcf0d50af0a1123c1a58cc8252",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881139,
+      "datetime": 1740574560
+    },
+    {
+      "title": "Amgen Stock: Why I Still Rate It A 'Buy'",
+      "description": "In early February, Amgen released financial results for the 4th quarter of 2024. Check out why I continue to cover AMGN stock with a 'Buy' rating.",
+      "published_utc": "2025-02-26T20:31:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a057b459a23ece013b3cf450ae99f06fa5266ecf0435294fd851d9d2fad22c4b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1227488268/image_1227488268.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132879319,
+      "datetime": 1740573110
+    }
+  ]
+}

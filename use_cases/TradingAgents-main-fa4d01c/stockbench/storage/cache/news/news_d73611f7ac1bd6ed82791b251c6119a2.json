@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "description": "In the latest trading session, Home Depot (HD) closed at $354.11, marking a -0.87% move from the previous day.",
+      "published_utc": "2025-04-16T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12b58fe238d034787c23f90eeb7a23e2c4eed4d90b4d261652a4d0e93f48173d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932749,
+      "datetime": 1744753516
+    },
+    {
+      "title": "Is The Home Depot (HD) Among The Top Goldman Sachs Value Stocks?",
+      "description": "We recently published a list of Goldman Sachs Value Stocks: Top 12 Stock Picks. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other Goldman Sachs value stocks to invest in. As we recently discussed in another article, growth stocks are massively overvalued and trading […]",
+      "published_utc": "2025-04-15T20:58:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83b2f3918c2d070be281c5133bd210ad36e1f8bf4d9867b8bddb56ef3a436f98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133922111,
+      "datetime": 1744721884
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:07.622515+00:00",
+    "cache_key": "news_d73611f7ac1bd6ed82791b251c6119a2",
+    "count": 2
+  }
+}

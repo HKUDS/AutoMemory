@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft Pauses Some Construction on OpenAI Wisconsin Data Center",
+      "description": "Microsoft said in May that it planned to invest $3.3 billion by the end of 2026 to build an AI data center campus in the area.",
+      "published_utc": "2025-01-06T05:12:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f785a7a9db4ac2ede97387e85600768670e66a198e31a9d96e18afec191c0356",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281450,
+      "datetime": 1736111526
+    },
+    {
+      "title": "'A $2M Bet On Recovery': Bill Gates Quietly Buys 2 Stocks He Believes Will Define 2025's Economic Boom",
+      "description": "Bill Gates is turning heads again, but not for anything tech-related. While Microsoft (NASDAQ:MSFT) remains his largest holding (about $15.4 billion) in the Bill & Melinda Gates Foundation portfolio, Gates has been making some surprising moves. Over the past year, he sold nearly a quarter of his Microsoft stock, but his bold third-quarter buys have everyone talking. Gates put his money into two transportation companies, signaling he's betting big on an industry bounce-back. Don't Miss: It’s no w",
+      "published_utc": "2025-01-06T04:55:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dcc0b3103ecfdd11f87992ae6bccbb50945484c4a66351840ddf6a0f04cccb1",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/Benzinga/c82bf57cab3aef81be40d858597e4377",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132280746,
+      "datetime": 1736110521
+    },
+    {
+      "title": "1 Vanguard ETF I'm Buying in 2025 and Holding Forever",
+      "description": "The right investment has the power to transform your portfolio, and exchange-traded funds (ETFs) can be a smart way to supercharge your savings with very little effort.  An ETF is a group of securities bundled together into a single investment.  Each fund can contain dozens or hundreds of stocks, and by investing in just one share of an ETF, you'll instantly own a stake in all the companies within that fund.",
+      "published_utc": "2025-01-06T01:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f11e9314841aec415f15ab9fed0dd41ef3cefebd5fd16df9c4fccb3a24f54d70",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802578/person-looking-at-a-phone-and-smiling.jpg",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281452,
+      "datetime": 1736096400
+    },
+    {
+      "title": "Is Microsoft Corporation (NASDAQ:MSFT) the Hottest Large-Cap Stock Right Now?",
+      "description": "We recently compiled a list of the 10 Hottest Large-Cap Stocks Right Now. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against the other large-cap stocks. This article will analyze several prominent large-cap stocks that are currently exerting significant influence on market dynamics. These stocks are currently considered […]",
+      "published_utc": "2025-01-05T23:07:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=249e220e902cc7e8f22aed66361ad9de5c9ebaf12bce9c7813d9a6b953fe9686",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Ehrz1CBybY_oskwS2bSRJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281453,
+      "datetime": 1736089623
+    },
+    {
+      "title": "Why A Major Market Reversal Is Likely Coming In 2025",
+      "description": "Discover why a major market reversal may be on the horizon in 2025 and how one financial writer is adjusting their investments accordingly.",
+      "published_utc": "2025-01-05T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c30b7fbb9743d0743277cf7f1c95fac98b0eaf6f4f86e6638fbf0dbf95b3dc40",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/916713888/image_916713888.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278513,
+      "datetime": 1736074800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:31.116838+00:00",
+    "cache_key": "news_60bd1079fad50ef31d4498e38f2d649f",
+    "count": 5
+  }
+}

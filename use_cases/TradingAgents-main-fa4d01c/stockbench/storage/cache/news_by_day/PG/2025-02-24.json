@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway Paid Record 2024 Taxes. Here’s Why.",
+      "description": "Warren Buffett’s conglomerate paid the government $26.8 billion last year, largely related to the sale of highly appreciated Apple stock.",
+      "published_utc": "2025-02-24T01:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fedd5eef273a9f5d5e7e23c079153b93269a5aeca544f678dd02a7732f1bf67f",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943353,
+      "datetime": 1740331920
+    }
+  ]
+}

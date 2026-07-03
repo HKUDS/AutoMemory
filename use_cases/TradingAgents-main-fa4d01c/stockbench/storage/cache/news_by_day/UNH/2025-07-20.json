@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "59920024a0d26f8733b78f99b59e194e8a34f8b73150e7ce2ae8dbe6c772e1e1",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Bragar Eagel & Squire, P.C. Urges Investors in UnitedHealth, Bitfarms, or Reddit to Inquire About Their Rights in Class Action Lawsuits",
+      "author": "Bragar Eagel & Squire, P.C.",
+      "published_utc": "2025-07-20T15:15:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/20/3118347/0/en/Bragar-Eagel-Squire-P-C-Urges-Investors-in-UnitedHealth-Bitfarms-or-Reddit-to-Inquire-About-Their-Rights-in-Class-Action-Lawsuits.html",
+      "tickers": [
+        "UNH",
+        "BITF",
+        "RDDT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+      "description": "Law firm Bragar Eagel & Squire announces class action lawsuits against UnitedHealth, Bitfarms, and Reddit, alleging false statements and misleading disclosures that impacted investor interests.",
+      "keywords": [
+        "class action",
+        "securities",
+        "investor rights",
+        "financial disclosure"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Accused of denying health coverage to boost profits, resulting in regulatory scrutiny and public backlash, including allegations related to a murder incident"
+        },
+        {
+          "ticker": "BITF",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alleged to have maintained deficient internal financial controls, misclassified financial proceeds, and potentially needed to restate financial statements"
+        },
+        {
+          "ticker": "RDDT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Experienced significant user traffic reduction due to Google Search AI changes, leading to stock downgrades and decreased investor confidence"
+        }
+      ]
+    }
+  ]
+}

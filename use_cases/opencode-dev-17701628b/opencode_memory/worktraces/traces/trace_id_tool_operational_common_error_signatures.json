@@ -1,0 +1,57 @@
+{
+  "trace_id": "trace_id_tool_operational_common_error_signatures",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: repeated earlier failures should remain visible as common error signatures even when a later different error becomes the last sample.",
+  "turns": [
+    { "role": "tool", "content": "shell failed: ENOSPC no space left on device while writing coverage", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 300, "error": "ENOSPC no space left on device while writing coverage" } } },
+    { "role": "tool", "content": "shell failed: ENOSPC no space left on device while writing coverage", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 320, "error": "ENOSPC no space left on device while writing coverage" } } },
+    { "role": "tool", "content": "shell failed: ENOSPC no space left on device while writing coverage", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 310, "error": "ENOSPC no space left on device while writing coverage" } } },
+    { "role": "tool", "content": "shell failed: EACCES permission denied opening coverage/lcov.info", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 180, "error": "EACCES permission denied opening coverage/lcov.info" } } },
+    { "role": "tool", "content": "shell succeeded after cleanup", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": true, "durationMs": 90 } } },
+    { "role": "tool", "content": "shell succeeded after cleanup", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": true, "durationMs": 80 } } },
+    { "role": "tool", "content": "read_file succeeded", "used_for_evaluation": false, "metadata": { "tool_outcome": { "tool": "read_file", "ok": true, "durationMs": 25 } } },
+    { "role": "agent", "content": "Noise about unrelated cleanup.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush", "used_for_evaluation": false },
+    { "role": "agent", "content": "End.", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What are the final shell counters?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "calls=6", "matcher": "substring" },
+        { "value": "ok=2", "matcher": "substring" },
+        { "value": "err=4", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What common shell failure signature repeated most often?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "ENOSPC no space left on device while writing coverage", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What later shell failure signature also appeared?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "EACCES permission denied opening coverage/lcov.info", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does the high failure ratio still warn about shell?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "failed often", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does shell-only filtering exclude read_file?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*read_file)[\\s\\S]*shell[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

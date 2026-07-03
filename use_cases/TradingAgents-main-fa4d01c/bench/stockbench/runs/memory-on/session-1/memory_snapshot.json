@@ -1,0 +1,101 @@
+{
+  "ticker": "AAPL",
+  "trade_date": "2025-06-30",
+  "memory_root": "/data2/junzhou2/TradingAgents/bench/stockbench/runs/memory-on/shared-memory",
+  "kc_char_length": 1764,
+  "kc_in_prompt": true,
+  "decisions_log_count": 10,
+  "recent_decisions": [
+    {
+      "trade_date": "2025-06-13",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at market open",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-16",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open via market order",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-17",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open using a limit order set at $197",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-18",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open using a limit order set at $196",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-20",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-23",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at market open using a limit order at $201",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-24",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at market open using a limit order at $200",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-25",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of all AAPL positions at market open using a limit order at $199",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-26",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of the AAPL position",
+      "key_risks": []
+    },
+    {
+      "trade_date": "2025-06-27",
+      "ticker": "AAPL",
+      "rating": "SELL",
+      "one_line_thesis": "Execute a full exit of the AAPL position at market open with a limit order at $200",
+      "key_risks": []
+    }
+  ],
+  "reflection_counts": {
+    "bull_memory": 175,
+    "bear_memory": 175,
+    "trader_memory": 175,
+    "invest_judge_memory": 175,
+    "portfolio_manager_memory": 175
+  },
+  "portfolio_manager_memory_count": 175,
+  "analyst_cache_hits": {
+    "market": 0,
+    "social": 0,
+    "news": 0,
+    "fundamentals": 0
+  },
+  "analyst_cache_misses": {
+    "market": 607,
+    "social": 290,
+    "news": 260,
+    "fundamentals": 351
+  },
+  "analyst_cache_hit": false
+}

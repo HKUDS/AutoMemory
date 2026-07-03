@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Oil traders brace for turmoil as Iran crisis imperils supply",
+      "description": "(Bloomberg) -- Oil-watchers are bracing for a further price rally after Israeli strikes on Iranian energy assets heightened the risk to Middle East supplies.Most Read from BloombergShuttered NY College Has Alumni Fighting Over Its FutureAs Part of a $45 Billion Push, ICE Prepares for a Vast Expansion of Detention SpaceDo World’s Fairs Still Matter?NYC Renters Brace for Price Hikes After Broker-Fee BanAs American Architects Gather in Boston, Retrofits Are All the RageIsrael temporarily knocked ou",
+      "published_utc": "2025-06-16T00:41:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30b7b50378eb38fbdfbaacf8f0a8d22dbc0e9a5f07347374face99cbf837feb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135289540,
+      "datetime": 1750005696
+    },
+    {
+      "title": "How Stablecoins Can Be Destabilizing",
+      "description": "Stablecoins’ going mainstream wouldn’t take all of banks’ deposits away.  The Senate looks set to soon pass the so-called Genius Act, which will set guidelines for issuers of stablecoins—digital tokens that are fully backed by fiat currencies such as dollars.  One big debate over the wisdom of giving stablecoins a regulatory framework centers around how they would affect the current banking system if they were to hugely expand in size.",
+      "published_utc": "2025-06-15T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f7ef2af62f43615bce21d351f712f91b29296665686da8d39430f250fa30727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284815,
+      "datetime": 1749983400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:24.335061+00:00",
+    "cache_key": "news_b9d5167fd30f01d857920e72bda7254b",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Beat Out IBM for $8 Billion Informatica Deal",
+      "description": "IBM held acquisition talks with Informatica before Salesforce closed the $8B deal",
+      "published_utc": "2025-06-08T17:53:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebb7680f277a80ab54d6fee3983c5fd88a5185db8f966e7d5db1b4de2092f0ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114490,
+      "datetime": 1749376431
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
+      "description": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
+      "published_utc": "2025-02-25T18:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5d8df69001a368cc7564e41276706e3c6f14d30e3f24dff7a91759150b66c268",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881259,
+      "datetime": 1740478860
+    },
+    {
+      "title": "Citigroup: Undervalued And Trading At A Discount To Book Value Despite Rallying",
+      "description": "Citigroup's shares surged 94% in 2023. Learn about its restructuring, strong growth outlook, and $20B buyback.",
+      "published_utc": "2025-02-25T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3bdfc6948354dc4593df09872a9fa137901318f61451bb274865cd81456dfb51",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445810162/image_1445810162.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132870865,
+      "datetime": 1740474000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:44.508281+00:00",
+    "cache_key": "news_291d50e5b14b79928f2a40f5361fc06c",
+    "count": 2
+  }
+}

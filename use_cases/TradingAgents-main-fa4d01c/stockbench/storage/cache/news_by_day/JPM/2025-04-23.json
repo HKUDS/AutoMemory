@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "JP Morgan tops M&A financial adviser rankings in power sector for Q1 2025",
+      "description": "JP Morgan secured its leading position by advising on four deals, which collectively amounted to $19.5bn.",
+      "published_utc": "2025-04-23T23:36:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cb25ddcb17aeee3b023bed6fda912d3bd8b22354a88fb5f248a52d62dd50ee2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046244,
+      "datetime": 1745422585
+    },
+    {
+      "title": "The Fed Can Ease Policy, And It Won't Be Bad",
+      "description": "",
+      "published_utc": "2025-04-23T23:17:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2751a85df7326169638558106a90ae01a2d99406bd413c4821ccbe3f64adf358",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046265,
+      "datetime": 1745421479
+    },
+    {
+      "title": "Goldman Sachs Sees Big Drop in Support for CEO Pay, Wins Vote Anyway",
+      "description": "Goldman Sachs Sees Big Drop in Support for CEO Pay, Wins Vote Anyway",
+      "published_utc": "2025-04-23T23:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ec47c5da9169accf9fa6497edec50aee9a3cf632c5a5769e0104fbdcabf4cd65",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134146478,
+      "datetime": 1745420700
+    },
+    {
+      "title": "Why Bank of America, JPMorgan Chase, and American Express Stocks All Popped Today",
+      "description": "Here are three banks stocks benefiting from today's positive political news -- and two of them are worth buying.",
+      "published_utc": "2025-04-23T23:02:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=902a4338e2b10bdb0267d296e367c9868a536798285a91ec1ce1b678953bfd01",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046245,
+      "datetime": 1745420525
+    }
+  ]
+}

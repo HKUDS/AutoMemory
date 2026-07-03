@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Exceeds Market Returns: Some Facts to Consider",
+      "description": "In the most recent trading session, McDonald's (MCD) closed at $306.92, indicating a +1.09% shift from the previous trading day.",
+      "published_utc": "2025-03-20T05:50:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d31c413b92d2b5c0a10bd7c40ce35d1393eebc0ed139926f364af263d69339b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324812,
+      "datetime": 1742421015
+    },
+    {
+      "title": "Yum China Plans Ambitious Expansion, Pledges $3 Bil To Investors",
+      "description": "Yum China plans to add 1,800 stores this year. Up to 80% will be KFC or Pizza Hut chains. The restaurateur plans a $3 billion buyback.",
+      "published_utc": "2025-03-20T04:43:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4720af5e779d25a229b645a3a549da256cf9647256c8c59782a5c3449339e7ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324813,
+      "datetime": 1742416987
+    },
+    {
+      "title": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "description": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-03-20T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=284f546b41aa8b6ef28eafba16c9109f5bfc21931684c45e7a045eb83fb4b855",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133265808,
+      "datetime": 1742401980
+    },
+    {
+      "title": "McDonald’s Canada trials new McVeggie burger in select locations",
+      "description": "The move follows previous unsuccessful attempts to target the vegetarian market.",
+      "published_utc": "2025-03-20T00:03:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5ea92914df178ada08207b81aad94b0f361eeb08858ff6541ff9d8bb24de690",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324814,
+      "datetime": 1742400213
+    },
+    {
+      "title": "Dividend Kings Of The Future Continued",
+      "description": "Discover 8 companies on track to become Dividend Kings with yields from 0.80%-4.5% & average 10-year growth of 8.6%. Click here to read the picks.",
+      "published_utc": "2025-03-19T22:15:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0626d7151c3616faa3800e17120ce2f387b42e75b12184d34805a9072bc7f838",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1202614610/image_1202614610.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133258730,
+      "datetime": 1742393737
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:57.369702+00:00",
+    "cache_key": "news_29f5062b643eb10d3c85150dab7747a6",
+    "count": 5
+  }
+}

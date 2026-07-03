@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Recommends Home Depot Over Sherwin-Williams",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) is one of the 16 stocks Jim Cramer recently discussed. A caller asked Cramer’s thoughts on the company, and here’s what he had to say in response: “Sherwin-Williams, okay, Dow stock now, by the way. I think Sherwin-Williams, look, I like the stock of Home Depot. Home Depot, which is, by […]",
+      "published_utc": "2025-06-15T17:26:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9b0fa6b11eda32bd245dfcec4d7b89be5dc4cbc8a17d9daa41fdbb1a9ab4cd4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284854,
+      "datetime": 1749979610
+    }
+  ]
+}

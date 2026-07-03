@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "PHOENIX INVESTORS ACQUIRES 1.5 MILLION-SQUARE-FOOT INDUSTRIAL COMPLEX IN CORSICANA, TX",
+      "description": "An affiliate of Phoenix Investors (\"Phoenix\") announced the acquisition of a large industrial complex located at 2200 South Business 45 in Corsicana, Texas. The property adds approximately 1.5 million square feet across a 172-acre site to Phoenix's portfolio, bringing the Milwaukee-based commercial real estate firm's holdings to over 82 million square feet nationwide.",
+      "published_utc": "2025-06-26T01:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2bb119404462a23cd6fed57d67053df25417598f18b3d7eaa0eae1470159e02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533329,
+      "datetime": 1750873500
+    }
+  ]
+}

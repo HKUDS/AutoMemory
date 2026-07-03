@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Berkshire May Have Sold Bank Stocks. These Are the Candidates.",
+      "description": "Investors should find out which stocks Warren Buffett’s company bought and sold when it files its 13-F report of its equity holdings, likely on Thursday.",
+      "published_utc": "2025-05-15T04:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5428c0a9124f8c9189b489b3310f55f92102852ca8469432ef17eee655cab09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460792,
+      "datetime": 1747254300
+    }
+  ]
+}

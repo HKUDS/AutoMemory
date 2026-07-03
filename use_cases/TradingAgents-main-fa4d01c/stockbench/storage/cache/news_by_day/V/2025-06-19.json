@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Visa (V) Declines More Than Market: Some Information for Investors",
+      "description": "The latest trading day saw Visa (V) settling at $340.38, representing a -4.88% change from its previous close.",
+      "published_utc": "2025-06-19T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0977ae954689326253a46af0c820f943f0e200bd8bc76119e7a5edd61a7df37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375316,
+      "datetime": 1750283103
+    },
+    {
+      "title": "Stablecoin Legislation Will Juice Demand for Treasurys—to a Point",
+      "description": "Issuers of digital currencies need Treasury bills for their reserves, but analysts say the consequences are uncertain.",
+      "published_utc": "2025-06-19T05:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b29c5c6206f34ed53d1d547e057cfaedcde95018fff45d68bdd40a8ee88e8fb4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375150,
+      "datetime": 1750282680
+    },
+    {
+      "title": "Coinbase Stock Jets Past Buy Point On Stablecoin News, Senate GENIUS Bill",
+      "description": "Coinbase stock rallies on stablecoin payments solution, starting with Shopify. Visa, Mastercard, PayPal fall. Senate passes GENIUS bill.",
+      "published_utc": "2025-06-19T05:11:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16511df7f86e4d278246382cf066f08c29a5348ace064e0d3bf18ac9748e2ffa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374774,
+      "datetime": 1750281068
+    },
+    {
+      "title": "S&P 500 Gains & Losses Today: Coinbase Stock Surges, Credit-Card Shares Retreat",
+      "description": "The S&P 500 ended with a loss of less than 0.1% on Wednesday, June 18, 2025, as the Fed held interest rates steady and updated its economic forecasts.",
+      "published_utc": "2025-06-19T04:56:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6de891395182e3dc803b16f72e43cd53b4cc353595ec413ab5580af9d334d23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375319,
+      "datetime": 1750280202
+    },
+    {
+      "title": "Top Analyst Reports for NVIDIA, Visa & Exxon Mobil",
+      "description": "NVDA, V, and XOM lead Zacks' top analyst picks with standout gains driven by AI, digital payments, and upstream strength.",
+      "published_utc": "2025-06-19T04:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61d384300d03ff79c7fd9b868e69ead7a6992dff03119e27c240222a63686858",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375063,
+      "datetime": 1750278780
+    }
+  ]
+}

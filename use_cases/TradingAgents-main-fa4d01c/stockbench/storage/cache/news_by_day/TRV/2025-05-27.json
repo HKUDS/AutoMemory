@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Wait To Jump On Chubb",
+      "description": "Discover insights on Chubb (CB), a global insurance leader. Learn why its valuation and growth suggest a Hold rating for cautious investors.",
+      "published_utc": "2025-05-27T18:45:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36c48d29e59c18723947563d3b0ddf78bc65ed88f5648a870b7e523778fa29bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153829785/image_2153829785.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709067,
+      "datetime": 1748342705
+    }
+  ]
+}

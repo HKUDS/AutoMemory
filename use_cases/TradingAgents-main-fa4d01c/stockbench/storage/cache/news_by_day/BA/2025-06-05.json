@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "US Senate committee to consider nomination of Republic Airways CEO to head FAA",
+      "description": "The U.S. Senate CommerceCommittee said on Wednesday it would hold a June 11 hearing onPresident Donald Trump's nomination of Republic Airways CEOBryan Bedford to head the Federal Aviation...",
+      "published_utc": "2025-06-05T06:18:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=23ceb4f525564faf4eac74e1f02a0793bf382e5cc1b085084d97aa6baaee630f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135036045,
+      "datetime": 1749075488
+    },
+    {
+      "title": "Boeing Agrees to Pay $1.1 Billion to Avoid Prosecution for 737 MAX Crashes",
+      "description": "The new deal means Boeing avoids a trial that was scheduled to start June 23 in connection with the two crashes, which left 346 people dead.",
+      "published_utc": "2025-06-05T05:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94182364fe5c441e743f1d59e65bd2d2947280851db2f247e8ad689447025784",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035685,
+      "datetime": 1749074340
+    },
+    {
+      "title": "Boeing Signs Non-Prosecution Agreement With DoJ to Settle Matters Related to 737 Crashes",
+      "description": "Boeing (BA) said Wednesday that it signed a non-prosecution agreement with the US Department of Just",
+      "published_utc": "2025-06-05T05:14:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c476bfefdd314d18eca76d1832a990adfa399fa8536a3d1d6d21f98eaaa06958",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035686,
+      "datetime": 1749071698
+    },
+    {
+      "title": "Boeing Co - On May 29, Enters Non-Prosecution Agreement With U.S. Department Of Justice",
+      "description": "Boeing Co: * BOEING CO - ON MAY 29, ENTERS NON-PROSECUTION AGREEMENTWITHU.S. DEPARTMENT OF JUSTICE - SEC FILING * BOEING CO - SUBJECT TO $487.2 MILLION CRIMINAL...",
+      "published_utc": "2025-06-05T00:43:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8ce34c0ade7c6098928fbbad35f84e2f816ce54223c360894cef83ffcfacfd49",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135018780,
+      "datetime": 1749055388
+    },
+    {
+      "title": "US FAA not currently considering lifting Boeing 737 MAX production cap",
+      "description": "The acting head of the Federal Aviation Administration said he is not currently considering lifting a production cap of 38 planes per month on Boeing's 737 MAX imposed after a January 2024 mid-air emergency involving a new Alaska Airlines Boeing plane missing four key bolts.  \"Not at this time,\" Acting FAA Administrator Chris Rocheleau told reporters after a U.S. House hearing.  Boeing did not immediately comment.",
+      "published_utc": "2025-06-05T00:30:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4aa625de4a3e853ed6462ae157b39f6031b80671c25ef06a28a220a4fdf906ea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035688,
+      "datetime": 1749054609
+    }
+  ]
+}

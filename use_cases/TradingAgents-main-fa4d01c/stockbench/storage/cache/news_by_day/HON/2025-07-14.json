@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Investors in Honeywell International (NASDAQ:HON) have seen decent returns of 70% over the past five years",
+      "description": "If you buy and hold a stock for many years, you'd hope to be making a profit. But more than that, you probably want to...",
+      "published_utc": "2025-07-14T21:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cfe52230280c407c426ad73019993fbce9cd7cff55d4dcc08fab9b856a9872e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927724,
+      "datetime": 1752498017
+    },
+    {
+      "id": "4e36ce76aa022c7fe9affeecd153832ae22631884f91ac2bfedbe090bfbf4e0b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "U.S. HVAC System Market to Reach $32.35 Billion by 2029",
+      "author": "Marketsandmarkets",
+      "published_utc": "2025-07-14T13:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/14/3114779/0/en/U-S-HVAC-System-Market-to-Reach-32-35-Billion-by-2029.html",
+      "tickers": [
+        "JCI",
+        "CARR",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+      "description": "The US HVAC system market is projected to grow from $22.35 billion in 2024 to $32.35 billion by 2029, driven by energy efficiency demands, government incentives, and increasing smart technology adoption.",
+      "keywords": [
+        "HVAC",
+        "energy efficiency",
+        "heating",
+        "cooling",
+        "smart technology",
+        "sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "JCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a significant company in HVAC market growth and technology development"
+        },
+        {
+          "ticker": "CARR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among major companies driving HVAC system market growth in the US"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a significant player in the evolving HVAC technology landscape"
+        }
+      ]
+    }
+  ]
+}

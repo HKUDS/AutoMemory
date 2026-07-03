@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "1 Super Stock That Could Join Nvidia, Apple, Microsoft, Alphabet, Amazon, and Meta in the $1 Trillion Club",
+      "description": "The U.S. economy has produced the world's most valuable companies for more than a century.  United States Steel became the first $1 billion company in 1901, and 117 years later in 2018, Apple became the first enterprise to achieve a valuation of $1 trillion.  Apple remains the world's largest company with a market capitalization of $3.3 trillion.",
+      "published_utc": "2025-03-16T06:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9140227e80ff12265e2049708e96b209010fa30476049a578858f12e59b9fec2",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/810875/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183948,
+      "datetime": 1742077680
+    },
+    {
+      "title": "Apple (AAPL) Stock Target Cut as AI-Powered Siri Updates Face Delays",
+      "description": "We recently published a list of 12 AI Stocks Poised for Massive Growth. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other AI stocks poised for massive growth. With the AI arms race heating up every passing day, more businesses and countries are eager to stake […]",
+      "published_utc": "2025-03-16T04:24:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c27fdc3021c54f2f1a812749170ea46e13a8d979ea289626852c2df880cd4eb5",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183949,
+      "datetime": 1742070246
+    },
+    {
+      "title": "Apple (NasdaqGS:AAPL) Sees 10% Price Dip Despite Launch Of MacBook Air With M4 Chip",
+      "description": "Apple (NasdaqGS:AAPL) recently rolled out several innovative products, such as the MacBook Air with the M4 chip and the high-performance M3 Ultra chip. Despite these advancements, Apple's stock saw a 10% decrease over the past month. This downward trend coincides with the broader market's four-week slump, driven by economic uncertainties and the impact of new tariffs. Although Apple's announcements, including the iPhone 16e and its investment plans in the U.S., aimed to bolster its position,...",
+      "published_utc": "2025-03-16T01:17:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2d27c74ecca93c13f3c71ca4c0b253c19bf7704cc859b168293c6832cab8040",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/13f69b02f49f819df1dcc276114d4a99",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183951,
+      "datetime": 1742059054
+    },
+    {
+      "title": "Tech Support: Apple’s MacBook Air is $100 cheaper and still among the best laptops you can buy",
+      "description": "Apple’s latest MacBook Air is here, bringing the company’s newest processor, the M4, to its bestselling line of laptops. The updated Air, available in both 13-inch and 15-inch models, also gets an extremely rare feature for a modern gadget: a $100 price cut.",
+      "published_utc": "2025-03-15T22:30:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b55a88c5246886371001f7ae2dfc006966c19ad0211f83f48d613217de74828a",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/sUpBPXCbxnzTfT9qn8VrNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/bbf07a90-f93f-11ef-bff7-8399db9a5ad4",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183952,
+      "datetime": 1742049011
+    },
+    {
+      "title": "Apple is quietly planning to add genius new feature to AirPods",
+      "description": "The tech giant is cooking up a major update that would give AirPods a competitive edge.",
+      "published_utc": "2025-03-15T21:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a83de9c552819761dd8fa6665f73d514fa45ae4014f881537cba51644dfebfc8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183953,
+      "datetime": 1742045580
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:00.336758+00:00",
+    "cache_key": "news_a2897a7db2094354ad915d3b9eb45d51",
+    "count": 5
+  }
+}

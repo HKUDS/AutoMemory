@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "‘It Is Going to Happen’: JPMorgan CEO Jamie Dimon Warns of Crack in the Bond Market",
+      "description": "JPMorgan Chase  CEO Jamie Dimon warned of a crack in the bond market and said the U.S. should be stockpiling military equipment instead of Bitcoin at an economic forum on Friday.  Dimon, who was interviewed on stage at the Reagan National Economic Forum in Simi Valley, Calif., prompted some market jitters during Friday’s sideways trading session.  Asked if he thought so-called “bond vigilantes” that sell U.S. Treasuries due to worries about growing deficits have returned, Dimon replied “Yeah.”",
+      "published_utc": "2025-05-31T23:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b76043d8b495f328364180f3b8c3ec851e6442a7437eff4b29c12d49bc6b2d78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134921032,
+      "datetime": 1748704980
+    },
+    {
+      "title": "Palantir, JPMorgan Chase Lead Five Stocks Near Buy Points",
+      "description": "Palantir Technologies has been getting no shortage of good news from the Trump administration as other contractors struggle.",
+      "published_utc": "2025-05-31T21:32:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a47b6a8e111b2b1f968e3d8abc50c6e2445f96b01a3540cbb05b2ca86757ad17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918224,
+      "datetime": 1748698337
+    },
+    {
+      "title": "Potentially Earn 12%-15% Income: Monthly Options Series (June 2025)",
+      "description": "Writing options does involve some learning curve and practice. Check out stocks suitable for writing options to generate consistent income for June.",
+      "published_utc": "2025-05-31T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e4df0496932fa1b73a504f99abf4c36a89c9f1abaeb0b2d97462707b4596d43",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/803420378/image_803420378.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917918,
+      "datetime": 1748680200
+    },
+    {
+      "title": "DLY: Limited Foreign Exposure And Above-Average Price",
+      "description": "",
+      "published_utc": "2025-05-31T11:49:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ede4c7c16f9ab562f2a97b57fb689d51398d82ccc6971020130fa1c181a6d1f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134916960,
+      "datetime": 1748663392
+    }
+  ]
+}

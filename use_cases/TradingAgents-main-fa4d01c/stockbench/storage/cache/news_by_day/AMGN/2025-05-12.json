@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Trump Declares War On Pharma Drug Pricing, But The Stocks Aren't Tanking - Yet",
+      "description": "Trump aims to cut US drug prices by 30-80% via Executive Order. Check out how pharma companies could be affected and how this may play out in the future.",
+      "published_utc": "2025-05-12T20:30:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3bdfb278b3d923fb7ecd9a0eb0a6ca51ad748153503c12329641a35d2d60c57",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1756275584/image_1756275584.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134386076,
+      "datetime": 1747053003
+    }
+  ]
+}

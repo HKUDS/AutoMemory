@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Analysts revamp IBM stock price target after AI-fueled new high",
+      "description": "IBM stock hits a new high, but analysts say the rally may just be starting.",
+      "published_utc": "2025-06-22T01:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=101a516f776ad26ceec4d40b284a2d9b98c01a14f8b7d30b00d8556f9c40ef0b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456504,
+      "datetime": 1750526220
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Amends And Extends Credit Agreements To 2028 and 2030",
+      "description": "International Business Machines (NYSE:IBM) recently reshaped its debt structure through extended credit agreements, potentially providing the company with greater financial flexibility. This strategic move coincides with a 15% share price increase over the last quarter, a period that also saw market trends align with a 10% annual increase. Notably, IBM's partnerships, such as the collaboration with Deutsche Bank and the extension with Oracle, may have bolstered its position amidst these...",
+      "published_utc": "2025-06-22T01:14:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8adee7a7d5c1ee74617a5f2587e2e4e4b3f1f8270c1fd9606199c4548076bb59",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135458386,
+      "datetime": 1750526051
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:38.781577+00:00",
+    "cache_key": "news_4654d1712883bf534012ff41fe0b018e",
+    "count": 2
+  }
+}

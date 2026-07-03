@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson, Amgen share losses contribute to Dow's 100-point drop",
+      "description": "Johnson & Johnson, Amgen share losses contribute to Dow's 100-point drop",
+      "published_utc": "2025-04-09T19:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e27971560febbb982a6ff26dac51197f646ae4bbe9a6cd38a00460b2d2d4f9ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133836304,
+      "datetime": 1744199820
+    },
+    {
+      "title": "Merck, Goldman Sachs share losses lead Dow's 166-point fall",
+      "description": "Merck, Goldman Sachs share losses lead Dow's 166-point fall",
+      "published_utc": "2025-04-09T17:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fedda70006cdbcdf41609b628db08d5e1884d8ff447d818ede58e89d4cfcce97",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133829335,
+      "datetime": 1744192020
+    },
+    {
+      "id": "d587c75695e29d836c16686637865a5b1a925f33a99f640b678083ed870732d2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Stock Market Crash: Here's 1 High-Dividend Stock That Could Be a Steal Right Now",
+      "author": "Matt Frankel",
+      "published_utc": "2025-04-09T10:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/09/stock-market-crash-heres-1-high-dividend-stock-tha/?source=iedfolrf0000001",
+      "tickers": [
+        "PLD",
+        "AMZN",
+        "WMT",
+        "UPS",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/814042/warehouse-2022.jpg",
+      "description": "Prologis, the largest real estate investment trust in the world, has seen its stock price decline by 17% since the announcement of tariffs. However, the article argues that Prologis is a rock-solid REIT with a bright future, currently trading at a discount, and could be a great value investment opportunity.",
+      "keywords": [
+        "Prologis",
+        "REIT",
+        "real estate",
+        "tariffs",
+        "e-commerce",
+        "industrial property"
+      ],
+      "insights": [
+        {
+          "ticker": "PLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that Prologis is a rock-solid REIT with a bright future, despite some short-term concerns related to tariffs. The company has strong fundamentals, including growth in funds from operations, a strong balance sheet, and exposure to the growing e-commerce industry. The article suggests that Prologis is currently trading at a discount and could be a great value investment opportunity."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as Prologis' largest tenant, but does not provide any specific commentary on Amazon's performance or outlook."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Walmart as one of Prologis' major tenants, but does not provide any further analysis on the company."
+        },
+        {
+          "ticker": "UPS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions UPS as one of Prologis' major tenants, but does not provide any additional information about the company."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Home Depot as one of Prologis' major tenants, but does not offer any commentary on the company."
+        }
+      ]
+    }
+  ]
+}

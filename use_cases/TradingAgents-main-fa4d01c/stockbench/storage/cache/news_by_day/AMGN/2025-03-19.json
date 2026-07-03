@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "FDA Accepts RDY & ALVO's Prolia & Xgeva Biosimilar BLA for Review",
+      "description": "Dr. Reddy and Alvotech announce the FDA acceptance of the BLA for their proposed biosimilar candidate of Amgen's Prolia and Xgeva for review.",
+      "published_utc": "2025-03-19T23:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=680e92563ff55e9cf92e684f269a9a0f0ecfe386216b43ca15b520979fde53b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325059,
+      "datetime": 1742397180
+    }
+  ]
+}

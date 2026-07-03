@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jefferies’ Profit Falls 40%. CEO Strikes Positive Tone on Dealmaking Outlook.",
+      "description": "The investment banking firm recorded $88 million of net earnings for the second quarter, a decline from $145 million a year earlier.",
+      "published_utc": "2025-06-26T05:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b720bbaabf22388f6ec2fdf07fa2a870647c2a08773957eff3a5d34f4849af00",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530867,
+      "datetime": 1750887420
+    },
+    {
+      "title": "Goldman Sachs (GS) Gains BofA’s Attention for Return on Equity Potential Among Other Catalysts",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the 10 cheap Jim Cramer stocks to invest in. On June 11, BofA analyst Ebrahim Poonawala maintained a Buy rating on the stock with a price target of $700. The analyst highlighted GS stock as a strong candidate for a secular re-rating due to its ongoing […]",
+      "published_utc": "2025-06-26T04:28:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7f4b91a2799626f92bdf9c204726a080f22d90851b47f1ec18cb05199f291a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531986,
+      "datetime": 1750883288
+    },
+    {
+      "title": "These Stocks Will Thrive Because of Subprime Customers",
+      "description": "Goldman highlighted stocks like Monster Beverage that will win if subprime customers remain resilient.",
+      "published_utc": "2025-06-26T04:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b41d988df8ca2926ce3a639efa2b207c7077523f919960db4e859cc0af05abfa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529114,
+      "datetime": 1750882140
+    },
+    {
+      "title": "Bank Regulators Propose Modification to Key G-SIB Leverage Ratio",
+      "description": "The Office of the Comptroller of the Currency, the Federal Reserve and the Federal Deposit Insurance",
+      "published_utc": "2025-06-26T02:10:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eec70566d810586a109541e7c5ca2c576c4642d828ef76c45300ac1fbba709f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529383,
+      "datetime": 1750875013
+    },
+    {
+      "title": "Big banks are closer to getting one of biggest regulatory rollbacks since 2008",
+      "description": "US regulators on Wednesday proposed one of the most dramatic rollbacks of bank capital rules since the 2008 financial crisis, which would give a major victory to lenders seeking relief from the new Trump administration.",
+      "published_utc": "2025-06-26T01:40:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=767da59b02e5802a120926f5c504c9e6a90eff02076fbfc2aeb1c21886e4b974",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135528211,
+      "datetime": 1750873207
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:29.575531+00:00",
+    "cache_key": "news_0061de56e3da4e75bd4c60ba871a82b7",
+    "count": 5
+  }
+}

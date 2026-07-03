@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "1 Super Stock That Could Join Nvidia, Apple, Microsoft, Alphabet, Amazon, and Meta in the $1 Trillion Club",
+      "description": "The U.S. economy has produced the world's most valuable companies for more than a century.  United States Steel became the first $1 billion company in 1901, and 117 years later in 2018, Apple became the first enterprise to achieve a valuation of $1 trillion.  Apple remains the world's largest company with a market capitalization of $3.3 trillion.",
+      "published_utc": "2025-03-16T06:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9140227e80ff12265e2049708e96b209010fa30476049a578858f12e59b9fec2",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/810875/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183948,
+      "datetime": 1742077680
+    },
+    {
+      "title": "Nasdaq Sell-Off: 2 AI Stocks That Are on Sale in 2025",
+      "description": "These two AI-powered stocks can be compelling picks on the dip.",
+      "published_utc": "2025-03-16T06:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53def2ffc582d5ada8086dac8178deb5453c7e738a5144259999495d2d6b98a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184120,
+      "datetime": 1742076720
+    },
+    {
+      "title": "Microsoft (MSFT) Explores Natural Gas for AI Data Centers Amid Energy Challenges",
+      "description": "We recently published a list of 12 AI Stocks Poised for Massive Growth. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks poised for massive growth. With the AI arms race heating up every passing day, more businesses and countries are eager to stake […]",
+      "published_utc": "2025-03-16T04:32:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4cc53b3decf44a81c301784a413ea59b88a8b90f62f5376222545b79add6d022",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184121,
+      "datetime": 1742070763
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s is spicing up its McMuffins. Will hot-food loving Gen Z and millennials bite?",
+      "description": "McDonald’s is spicing up its McMuffins. Will hot-food loving Gen Z and millennials bite?",
+      "published_utc": "2025-07-13T19:12:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2e0cf29ae5c936b724503f76196bdaa41c4973aa3ad996219ea9a048ea14dfd0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135949826,
+      "datetime": 1752405120
+    },
+    {
+      "title": "Truist Increases PT on Bank of America to $53, Maintains Buy Rating On the Stock",
+      "description": "Bank of America Corporation (NYSE:BAC) is one of the 12 Best Stocks to Invest in for Good Returns. On July 9, Truist increased the price target on Bank of America Corporation (NYSE:BAC) from $51 to $53, maintaining its Buy rating on the stock. John McDonald from Truist Financial made the price upgrade on BAC ahead […]",
+      "published_utc": "2025-07-13T12:27:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cccc9b1c9ef011f91544859c63b6f13ea98a7c806945f63b6fdbe63e0e759ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135909166,
+      "datetime": 1752380835
+    },
+    {
+      "title": "5 Most Valuable ‘Error Coins’ Ever Minted — Look for These Misprints",
+      "description": "Errors are a common feature in valuable coins and can push values up to six figures or higher.",
+      "published_utc": "2025-07-13T08:03:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf9c306d1a3ce375bbd6906d589b4b0c03fa509a3b38ac03b06e00de935b2a6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135901903,
+      "datetime": 1752364988
+    },
+    {
+      "id": "95be40562176a81015594923b4acd6a419ebe4058e45aba989f44f3b94f835b1",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "DNUT DEADLINE TUESDAY: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Krispy Kreme, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important July 15 Deadline in Securities Class Action – DNUT",
+      "author": "Rosen Law Firm",
+      "published_utc": "2025-07-13T00:10:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/13/3114404/673/en/DNUT-DEADLINE-TUESDAY-ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-Krispy-Kreme-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-July-15-Deadline-in-S.html",
+      "tickers": [
+        "DNUT",
+        "MCD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm is notifying Krispy Kreme investors who purchased securities between February 25 and May 7, 2025, about a potential class action lawsuit regarding misleading statements about McDonald's partnership performance.",
+      "keywords": [
+        "securities lawsuit",
+        "class action",
+        "investor rights",
+        "McDonald's partnership"
+      ],
+      "insights": [
+        {
+          "ticker": "DNUT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The lawsuit alleges the company made false statements about product demand at McDonald's locations, declining sales, and partnership profitability, suggesting potential misrepresentation of business performance"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partnership context but not directly implicated in the lawsuit's allegations"
+        }
+      ]
+    }
+  ]
+}

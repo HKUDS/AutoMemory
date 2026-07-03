@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Dips More Than Broader Market: What You Should Know",
+      "description": "In the most recent trading session, Honeywell International Inc. (HON) closed at $221.79, indicating a -1.03% shift from the previous trading day.",
+      "published_utc": "2025-06-18T06:15:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d126405d3f32c3b9ca96a366f4614e353a8401dec6b7a60e73bc28edb63ae57d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135341256,
+      "datetime": 1750198502
+    },
+    {
+      "title": "Honeywell International Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Honeywell International Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-06-18T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=38fcdfea859c4417a31837e944922cb47cdcfcf18777d1e74a9b35d4968676e3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135356851,
+      "datetime": 1750178100
+    },
+    {
+      "title": "Electronic Grade Nitric Acid Market to Reach USD 135.10 Million by 2032, Driven by Semiconductor and EV Battery Industry Growth | Report by SNS Insider",
+      "description": "Rising miniaturization of electronic components and increased adoption of advanced chip fabrication technologies are fueling demand for ultra-pure nitric acid globally.Austin, June 17, 2025 (GLOBE NEWSWIRE) -- The Electronic Grade Nitric Acid Market Size was valued at USD 87.80 million in 2024 and is expected to reach USD 135.10 million by 2032, growing at a CAGR of 5.54% over the forecast period of 2025-2032. Rising Demand from High-Tech Industries Accelerates Adoption of Ultra-Pure Nitric Acid",
+      "published_utc": "2025-06-17T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=076ac7581985389a858fa5a441e11a9aa25d7ccae3820e88764aede3df1af2a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135336653,
+      "datetime": 1750168800
+    },
+    {
+      "title": "Honeywell, Near Earth Autonomy Test Pilot-Free Helicopter For Faster, Safer Marine Supply",
+      "description": "Honeywell (NASDAQ:HON) and Near Earth Autonomy announced on Tuesday that they have completed the first autonomous test flight of a Leonardo AW139 helicopter in support of the U.S. Marine Corps Aerial Logistics Connector (ALC) program. The flight demonstrates the feasibility of uncrewed, autonomous aircraft operating in contested environments without an onboard pilot or remote operator. The test flight on Honeywell’s AW139 took place in Phoenix, Arizona, in May and marks a critical step in effort",
+      "published_utc": "2025-06-17T17:48:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=256cb1f82acd56d0c2ca2c791e6940a59e33cc1893aca243eabd45e9d3a1a56d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135336654,
+      "datetime": 1750153739
+    },
+    {
+      "title": "HONEYWELL AND NEAR EARTH AUTONOMY COMPLETE FIRST AUTONOMOUS FLIGHT OF LEONARDO AW139 HELICOPTER",
+      "description": "Honeywell (NASDAQ: HON) and Near Earth Autonomy have successfully completed the first autonomous test flight of a Leonardo AW139 helicopter, marking a major milestone in support of the U.S. Marine Corps Aerial Logistics Connector (ALC) program. This flight demonstrates the feasibility of uncrewed, autonomous aircraft capable of operating in contested environments without an onboard pilot or remote operator.",
+      "published_utc": "2025-06-17T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0eabb41407b26b241ae84183609d72a961510d22aa11f349f036c3717726211c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135336655,
+      "datetime": 1750143600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:32.946710+00:00",
+    "cache_key": "news_0bdb3741d64a1900a9f50079e8c6d465",
+    "count": 5
+  }
+}

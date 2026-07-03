@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Boeing Space Joint Venture to Launch 12 Times in 2025, and Double That in 2026",
+      "description": "To make more money, United Launch Alliance must launch more rockets. And now it can.",
+      "published_utc": "2025-04-05T19:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dfe1fd359c4aff048d3d7b075032666dfe91d0b43c787da7177960125b015ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727179,
+      "datetime": 1743851220
+    }
+  ]
+}

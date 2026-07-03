@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Stock Moves -1.3%: What You Should Know",
+      "description": "Amgen (AMGN) concluded the recent trading session at $273.68, signifying a -1.3% move from its prior day's close.",
+      "published_utc": "2025-04-22T05:50:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=204681717ede7c4f154ae4d74d633eb95dfa1757abb4be521b52cc7cd217cae4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031988,
+      "datetime": 1745272233
+    }
+  ]
+}

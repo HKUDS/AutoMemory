@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Calls The Procter & Gamble Company (PG) a ‘Recession Stock’",
+      "description": "We recently published an article titled Was Jim Cramer Right About These 12 Stocks? In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against the other stocks. Back then, Cramer was focused on the impact of future rate cuts and how different stocks would react. He […]",
+      "published_utc": "2025-02-19T02:52:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09e0d936aeb51decce8d7f61eeb6798964b3874bd39d9dad93d116f2d67aaad7",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1ZohQ2YSKqgMoq3VoXxDpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e67c69f89d80ec8ce4e58c9699e33b0e",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943358,
+      "datetime": 1739904735
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-19T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=743196fb0742fcf0a5c557476bd406ba707b9755c0e710449fe4aba7dab83895",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132785410,
+      "datetime": 1739896260
+    }
+  ]
+}

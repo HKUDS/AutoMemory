@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Long-Term S&P 500 Earnings Trends Along With Market Returns",
+      "description": "Over the years, one data point Iâve noticed is that many S&P 500 valuation models use a long-run S&P 500 EPS growth metric of 7% to estimate fair value on the benchmark.",
+      "published_utc": "2025-03-18T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4755d18bac5fdb5596006da7239920751926c5157e5baa344b890b59bbda123",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182036952/image_2182036952.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133210484,
+      "datetime": 1742242200
+    }
+  ]
+}

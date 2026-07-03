@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "A 'Grande' Starbucks Special Situation",
+      "description": "Starbucks' focus on restoring its coffeehouse vibe under CEO Brian Niccol's leadership could lead to a turnaround and a 25% investment return. See more here.",
+      "published_utc": "2025-02-26T03:00:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5173da913f3806e08bdf3a8430e311fafd69213265fa192b033bfae2b06244d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458259287/image_458259287.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132873968,
+      "datetime": 1740510026
+    },
+    {
+      "title": "Procter & Gamble Trades Above 50 & 200-Day SMAs: Buy Now or Wait?",
+      "description": "PG drives growth through productivity and cost savings but faces headwinds from geopolitical tensions, currency volatility and challenges in key markets.",
+      "published_utc": "2025-02-26T01:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae1e5e6227004633f663a77276c9eff9fec033696e145778a962488a937547f3",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/7f3667ffb0901a87f0646d99fc0299de",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943348,
+      "datetime": 1740505980
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "description": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "published_utc": "2025-02-26T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dce44cc6adca2f8e21de0357197c2702e2b960fc4c350e3f944ef3432b018a58",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881926,
+      "datetime": 1740501060
+    }
+  ]
+}

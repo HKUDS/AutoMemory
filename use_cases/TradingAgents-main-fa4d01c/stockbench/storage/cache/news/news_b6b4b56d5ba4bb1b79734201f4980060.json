@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Johnson & Johnson (JNJ) is the Best Pharma Stock to Buy According to Hedge Funds",
+      "description": "We recently published a list of the 11 Best Pharma Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against the other best pharma stocks to buy according to hedge funds. Why is China the Talk of the Town in […]",
+      "published_utc": "2025-03-13T02:26:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69a67d28f25787a36e848fa3c19962a31e24e6f183b1db9fd845cb5dc5a43eca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184439,
+      "datetime": 1741804014
+    },
+    {
+      "title": "Johnson & Johnson : 2025 Proxy Statement and additional solicitation materials (Johnson Johnson 2025 Proxy)",
+      "description": "2025 Proxy Statement and Additional Definitive Proxy Solicitation Materials Definitive Proxy Statement, filed March 12, 2025 ...",
+      "published_utc": "2025-03-12T22:00:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b1959e33189e69f08c2ecb71e923f3d09fd8dd831197c0e8c5302001cc3bca42",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156707,
+      "datetime": 1741788012
+    },
+    {
+      "title": "Johnson & Johnson : Meeting agenda (2025 Meeting agenda)",
+      "description": "Annual Shareholders Meeting April 24, 2025 Agenda Welcome 2024 Business Review ...",
+      "published_utc": "2025-03-12T22:00:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7e62b462630aa1c7e37760ac208fd4a2100fabc8d461f8470a5614e1ff81d3ee",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156708,
+      "datetime": 1741788011
+    },
+    {
+      "title": "Johnson & Johnson (JNJ): Among Dobermans of the Dow to Buy",
+      "description": "We recently published a list of Dobermans of the Dow: 10 Stocks to Consider. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other Dobermans of the Dow to buy. The Dobermans of the Dow strategy serves as an alternative to the well-known Dogs of the […]",
+      "published_utc": "2025-03-12T21:47:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd0b2104f844a45c1915f426e37c498508e1fce5856489d211fe78ede56c872f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184440,
+      "datetime": 1741787233
+    },
+    {
+      "title": "Caterpillar: Diversification Without Diworsification; Home Depot Looks Healthy, So Do Others",
+      "description": "Diversify Caterpillar holdings with tax-efficient strategies. Explore HD, LOW, and SNA for income replacement potential and strong dividend growth.",
+      "published_utc": "2025-03-12T21:29:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cf9ca56103d930886a81f4fb47de06448e6f9ac30502d33ccf692493d220c13",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2033001899/image_2033001899.jpg?io=getty-c-w750",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156626,
+      "datetime": 1741786147
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:20.480464+00:00",
+    "cache_key": "news_b6b4b56d5ba4bb1b79734201f4980060",
+    "count": 5
+  }
+}

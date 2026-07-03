@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble's (NYSE:PG) Upcoming Dividend Will Be Larger Than Last Year's",
+      "description": "The Procter & Gamble Company ( NYSE:PG ) has announced that it will be increasing its periodic dividend on the 15th of...",
+      "published_utc": "2025-04-12T20:40:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0173cdc6723bd62a41d20e4dca87df89e2bca187e283a717f6f1928bcdfdd27",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895941,
+      "datetime": 1744461658
+    },
+    {
+      "title": "How To Buy Low And Sell High Consistently For Lifelong Wealth",
+      "description": "",
+      "published_utc": "2025-04-12T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98245e313a1904662c3f16550cb0717c1994123cf8eff3760881c035898779cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894505,
+      "datetime": 1744446600
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 13",
+      "description": "Read here for highlights on recent and upcoming dividend related activity for dividend stocks on the Dividend Champions list.",
+      "published_utc": "2025-04-12T09:27:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e95e93ebd3945294b14d4290660b0e6afef57e4895ae77b28981fce83310d060",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133884206,
+      "datetime": 1744421273
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:51.336143+00:00",
+    "cache_key": "news_d922849b629e6ec34aa39a77b5f81803",
+    "count": 3
+  }
+}

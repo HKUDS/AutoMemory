@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "American Express Company: A Bull Case Theory",
+      "description": "We came across a bullish thesis on American Express Company on Chit Chat Stocks Newsletter’s Substack by Brett Schafer. In this article, we will summarize the bulls’ thesis on AXP. American Express Company’s share was trading at $298.59 as of June 20th. AXP’s trailing and forward P/E ratios were 20.85 and 19.76, respectively, according to Yahoo Finance. […]",
+      "published_utc": "2025-06-23T23:19:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff6ed103158751666bf748ef346958c823af6d9637712b7298fc005ad4281408",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481796,
+      "datetime": 1750691941
+    },
+    {
+      "title": "Earnings Growth & Price Strength Make American Express (AXP) a Stock to Watch",
+      "description": "The Zacks Focus List offers investors a way to easily find top-rated stocks and build a winning investment portfolio. Here's why you should take advantage.",
+      "published_utc": "2025-06-23T21:30:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58c4edf0d20c37298e9ef191c5acc839f07db3ca14787bf9a51e0d0bf453ed35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481797,
+      "datetime": 1750685401
+    },
+    {
+      "title": "American Express, Amgen share losses contribute to Dow's 100-point drop",
+      "description": "American Express, Amgen share losses contribute to Dow's 100-point drop",
+      "published_utc": "2025-06-23T20:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=23c4a1c5b1a620244bf1ab3756d2d86716cab65f31b9e1a87f9fae948ee3ad25",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135499241,
+      "datetime": 1750681920
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:41.243848+00:00",
+    "cache_key": "news_6c71da3c948d6ce19543ef4976025fcd",
+    "count": 3
+  }
+}

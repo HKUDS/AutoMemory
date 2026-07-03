@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Secret Super Stocks: If You Invested $1K in These 3 Companies 5 Years Ago, See What You’d Have Today",
+      "description": "Most people think you need to be rich to make big money in the stock market. But what if all it took was spotting the right stock at the right time and investing just $1,000? While you might try to...",
+      "published_utc": "2025-07-06T07:01:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48c666a841ee4581286d82248b34a2ab41bda1b23b87537cf94f3ea6279952a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768332,
+      "datetime": 1751756479
+    },
+    {
+      "title": "Dow Jones Futures: Trump Tariffs Back In Focus; Tesla Rival Uber Leads 5 Stocks In Buy Zones",
+      "description": "With President Trump's budget now law, the focus shifts back to tariffs this week. Tesla rival Uber leads five stocks in buy zones.",
+      "published_utc": "2025-07-06T04:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=474437dcaa16260048d51abe966b433dfd77bf34f96beb60408e6a101bf096aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135767577,
+      "datetime": 1751747880
+    },
+    {
+      "title": "Apple (AAPL) Stock Upgraded to ‘Hold’ by Jefferies — But Analysts Still Cautious on AI",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the 10 Trending AI Stocks on News and Ratings. On July 2, Jefferies upgraded the stock to “Hold” from underperform and raised the price target to roughly $188 per share from $171. Analyst Edison Lee highlighted Apple’s 15% annual growth in sales volume in April and May as a catalyst behind […]",
+      "published_utc": "2025-07-06T00:11:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a10c4a871913002c5029cd91835b6b26930749adb5e813a73cedafe4ccd4d01b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766991,
+      "datetime": 1751731903
+    }
+  ]
+}

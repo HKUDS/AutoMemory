@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Why American Express Stock Jumped Today",
+      "description": "American Express stock jumped on the news that consumer confidence was higher than expected in May.  The Consumer Confidence Index was up for the first time in months.  The move up comes as the S&P 500 (SNPINDEX: ^GSPC) jumped 2% and the Nasdaq Composite (NASDAQINDEX: ^IXIC) jumped 2.5%.",
+      "published_utc": "2025-05-28T05:40:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=946493f8d707c74df7c4f2bd9d39635c6e5b06a17ef8ff74de15ccbcc7c66294",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134742077,
+      "datetime": 1748382040
+    }
+  ]
+}

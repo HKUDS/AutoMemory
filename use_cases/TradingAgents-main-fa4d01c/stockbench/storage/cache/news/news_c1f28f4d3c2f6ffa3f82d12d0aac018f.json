@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple stock surges on tariff pause despite China exclusion",
+      "description": "US President Trump temporarily walked back his tariff policy on all countries except China. Apple (AAPL) was among the names to surge on the announcement despite its significant reliance on China for sourcing. TECHnalysis Research president and chief analyst Bob O'Donnell joins Morning Domination Overtime with Josh Lipton to discuss the stock move, the impact of Trump's tariffs on the iPhone maker, and whether the president could grant the company a tariff exception. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-10T06:31:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c09fd5cdae9cfc25eb0fa819073ec28cde6915b28d2203fee511eff905c3ffc4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841158,
+      "datetime": 1744237900
+    },
+    {
+      "title": "Analysts rework Apple stock price target amid tariff troubles",
+      "description": "This is what could happen next to Apple shares.",
+      "published_utc": "2025-04-10T06:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d9b15808f804fca2edc37876c676ee36af948b5f39aaa4f24d69d80a1659bc2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841159,
+      "datetime": 1744236180
+    },
+    {
+      "title": "Apple soars 15% as Trump reverses on most tariffs",
+      "description": "Investing.com -- Apple shares soared over 15% on Wednesday after President Trump announced a 90-day pause in reciprocal tariffs for all countries besides China. For China, the rate will go up to 125%. Other countries will have a base rate of 10% during the negotiation period.",
+      "published_utc": "2025-04-10T05:26:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a847c9d7d032ffc3214d820965ef054afb65ccb77c0abafc99fc18eb15dda00",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841160,
+      "datetime": 1744233991
+    },
+    {
+      "title": "Apple Stock Jumps on Tariff News, Hope for Exemption",
+      "description": "President Donald Trump is raising China’s tariff rate to 125% but also said he is considering excluding imports by some companies.",
+      "published_utc": "2025-04-10T04:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=198d1e8ac2196227490129e049401d5878bb1a54cc45ec0c85619ab739e28881",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841161,
+      "datetime": 1744231560
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Walmart, Apple, Tesla, Delta, Bristol Myers, Nvidia, Ford, and More",
+      "description": "Walmart, Apple, Tesla, and Nvidia shares jump after President Donald Trump says he will be delaying tariffs above 10% on some countries for 90 days.",
+      "published_utc": "2025-04-10T04:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1138bafe793d239afa4116059479c20699906654ce124e06fc49e964f7d8f16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841162,
+      "datetime": 1744230840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:08.084156+00:00",
+    "cache_key": "news_c1f28f4d3c2f6ffa3f82d12d0aac018f",
+    "count": 5
+  }
+}

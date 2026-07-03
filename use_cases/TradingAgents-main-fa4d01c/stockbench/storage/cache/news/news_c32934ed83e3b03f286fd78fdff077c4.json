@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "AI Is Wall Street’s Modern Gold Rush. Here’s How Investors Are Placing Their Bets.",
+      "description": "AI Is Wall Street’s Modern Gold Rush. Here’s How Investors Are Placing Their Bets.",
+      "published_utc": "2025-02-02T13:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=68f2df1096dfad182c85cb51687f9679e27a5bcca03dff42f22fd6f52a1b7ddb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132544074,
+      "datetime": 1738474200
+    },
+    {
+      "title": "Moscow Has $2 Billion Stuck at JPMorgan. The U.S. Isn’t Sure What to Do With It.",
+      "description": "Moscow Has $2 Billion Stuck at JPMorgan. The U.S. Isn’t Sure What to Do With It.",
+      "published_utc": "2025-02-02T08:01:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=0ddcb2ff5d8d9d3d88afd3dc0339615ffadbf7eead0474c233a84f783006a87c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132521042,
+      "datetime": 1738454460
+    },
+    {
+      "title": "Northern Trust: Q4, Strong Growth In Revenue And AUM (Rating Upgrade)",
+      "description": "The new administration's tax policies are expected to benefit Northern Trust Corporation. Read why I rate NTRS stock a Buy for long-term investors.",
+      "published_utc": "2025-02-02T06:36:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1cf0aa6bceee1b7a4ce40b2e75783cc6dafb7033a6ff071d9ab2229139ae93f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/684152254/image_684152254.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132512945,
+      "datetime": 1738449376
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Upto 8% (February 2025)",
+      "description": "See top dividend-paying stock picks offering discounts and yields ranging from 3.67% to 8% in our monthly article for conservative investors. Click for the picks.",
+      "published_utc": "2025-02-01T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bb4a889d6e69937cf2599947495c3b89551babea13725a81bdcb25d2910a1d20",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132510325,
+      "datetime": 1738400400
+    },
+    {
+      "title": "ESG: An ESG ETF Including Oil Companies",
+      "description": "FlexShares STOXX US ESG Select Index Fund (ESG) holds ethical stocks with above-median ESG scores, outperforming Russell 1000 with similar risk. See more here.",
+      "published_utc": "2025-02-01T13:41:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba0ff7fedaa939c3fa3ecb8054ea30811429c62a74ffe7c08384421e3a9b87df",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349094914/image_1349094914.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132509680,
+      "datetime": 1738388485
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T14:58:07.283428+00:00",
+    "cache_key": "news_c32934ed83e3b03f286fd78fdff077c4",
+    "count": 5
+  }
+}

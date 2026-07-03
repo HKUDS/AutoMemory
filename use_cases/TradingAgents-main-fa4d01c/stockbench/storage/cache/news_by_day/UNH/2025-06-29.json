@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Returns On Capital At UnitedHealth Group (NYSE:UNH) Have Hit The Brakes",
+      "description": "If we want to find a potential multi-bagger, often there are underlying trends that can provide clues. Firstly, we'd...",
+      "published_utc": "2025-06-29T20:00:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fcdb68e917807bab5c1af406a4d1b27c0dacbc66a4906b98be64fa4c284994b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135631548,
+      "datetime": 1751198429
+    },
+    {
+      "title": "Calamos Long/Short Equity & Dynamic Income Trust Q1 2025 Commentary",
+      "description": "For the quarter ending March 31, 2025, Calamos Long/Short Equity & Dynamic Income Trustâs total return was 1.69% on NAV and 6.82% on market price. Read more here.",
+      "published_utc": "2025-06-29T18:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b5c5a4c1f5342a8db74c7b2150105d48fc0e37dc2df68bd10fbb84b183141f9f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1154731469/image_1154731469.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135631618,
+      "datetime": 1751191260
+    },
+    {
+      "title": "This Dirt Cheap Healthcare Stock Could Be a Hidden Artificial Intelligence (AI) Opportunity (Hint: It's Not Eli Lilly)",
+      "description": "Artificial intelligence (AI) has the potential to transform several different areas of the healthcare industry.",
+      "published_utc": "2025-06-29T15:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=828053772495bf5fe2cb5a0dc2852f8d98fda77a4970b20e11c24610fd3cbf9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135630841,
+      "datetime": 1751183700
+    },
+    {
+      "title": "UnitedHealth: Pivotal Changes Underway",
+      "description": "UnitedHealth's leadership shakeups are a strategic move to drive a turnaround after recent challenges and margin pressures. See why we remain bullish on UNH stock.",
+      "published_utc": "2025-06-29T11:27:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24e057a05b0bd66f1f37705d8ada8a5bf6e5617b3b50cc8b0fe335eca090a9dd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2162932737/image_2162932737.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135627834,
+      "datetime": 1751167642
+    }
+  ]
+}

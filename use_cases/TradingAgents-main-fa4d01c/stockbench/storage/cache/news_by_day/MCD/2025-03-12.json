@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Select Consumer Discretionary Portfolio Q4 2024 Review",
+      "description": "For the quarter, the fund gained 10.33%, slightly underperforming the MSCI U.S. IMI Consumer Discretionary 25/50 Index. Read more here.",
+      "published_utc": "2025-03-12T05:54:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d90645a915d20592f1cc15f63751ba7d968c67d1e79817506b0b38bed53c3a99",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2157739338/image_2157739338.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133140495,
+      "datetime": 1741730040
+    }
+  ]
+}

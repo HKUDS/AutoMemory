@@ -1,0 +1,2 @@
+# Dry-run harness staging (real artifacts stay under showcase/*/runs/)
+.dryrun/

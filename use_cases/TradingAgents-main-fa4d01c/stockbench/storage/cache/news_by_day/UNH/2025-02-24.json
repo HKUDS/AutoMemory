@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Hartford Dividend And Growth Fund Q4 2024 Commentary",
+      "description": "Hartford Dividend and Growth Fund (I shares) underperformed the S&P 500 Index for the quarter. Read more here.",
+      "published_utc": "2025-02-24T22:03:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7dc980509a36eac275b2142e4fca0e11820c26f6d268f82362164c22c1478a84",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2095584352/image_2095584352.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132865261,
+      "datetime": 1740405780
+    }
+  ]
+}

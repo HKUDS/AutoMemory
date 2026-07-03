@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines (NYSE:IBM) Partners With Deca For Advanced Chiplet Packaging Expansion",
+      "description": "International Business Machines (NYSE:IBM) experienced a price move of approximately 12% over the last month, coinciding with several significant corporate developments, including a newly announced partnership with Deca Technologies to integrate advanced packaging technology at IBM's facility in Bromont, Quebec. This collaboration aims to strengthen IBM's semiconductor packaging capabilities, potentially adding value in AI and data center applications. Additionally, IBM's ongoing alliances...",
+      "published_utc": "2025-05-22T01:30:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18e6c0d28280431b2788bbd2e7c56b59165b09e3188746669a81711446b8e83a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628318,
+      "datetime": 1747848626
+    }
+  ]
+}

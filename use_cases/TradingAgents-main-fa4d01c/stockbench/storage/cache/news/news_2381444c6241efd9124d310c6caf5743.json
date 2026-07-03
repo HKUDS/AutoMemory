@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Advances But Underperforms Market: Key Facts",
+      "description": "The latest trading day saw Caterpillar (CAT) settling at $341.67, representing a +1.75% change from its previous close.",
+      "published_utc": "2025-03-25T05:45:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e1d989009c16b68883a8baf194777d4281bd2a410621629f8a539527e123459",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360415,
+      "datetime": 1742852714
+    },
+    {
+      "title": "Caterpillar Inc. stock rises Monday, still underperforms market",
+      "description": "Caterpillar Inc. stock rises Monday, still underperforms market",
+      "published_utc": "2025-03-25T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b4228bf8f4c568a3cac02c01b8d9c5552a22c7ff399cdbb70c73c7edb4e95f39",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133363103,
+      "datetime": 1742834040
+    },
+    {
+      "title": "US business equipment borrowings down more than 7% y/y in February, ELFA says",
+      "description": "U.S. companies borrowed 7.4% lessto finance equipment investments in February compared with thesame period a year earlier, the Equipment Leasing and FinanceAssociation said on Monday. ...",
+      "published_utc": "2025-03-24T23:00:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=791bfcc6b55be71cece7a7a7ec724ee0b9a1f04ea4698519b209cd9e16afef87",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133355870,
+      "datetime": 1742828400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:21:49.251541+00:00",
+    "cache_key": "news_2381444c6241efd9124d310c6caf5743",
+    "count": 3
+  }
+}

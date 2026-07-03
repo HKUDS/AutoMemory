@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "FDA Expands Surprise Inspections At Foreign Drug And Food Facilities, Targets Double Standards In Overseas Manufacturing Oversight",
+      "description": "The U.S. Food and Drug Administration (FDA) announced its intent to expand the use of unannounced inspections at foreign manufacturing facilities that produce foods, essential medicines, and other medical products intended for American consumers and patients. This change builds upon the agency’s Office of Inspection and Investigations’ Foreign Unannounced Inspection Pilot program in India and China and aims to ensure that foreign companies will receive the same level of regulatory oversight and",
+      "published_utc": "2025-05-08T02:54:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f28b40b90f1b011da3e6cdd35bc1c6a252b56d69de77ea843a3600d92e91fa39",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316704,
+      "datetime": 1746644047
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of […]",
+      "published_utc": "2025-05-08T02:28:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ff411b46d3c6308090e7548f196f23962efa7df845a5390c3371dc86677ad45",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316705,
+      "datetime": 1746642507
+    },
+    {
+      "title": "Hartford Balanced Income Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-08T00:56:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=96a7906ceb9b4dcad22b47b4b1a9bb2f2d2c80e6ad8a47f60cf572ffd8191537",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134308335,
+      "datetime": 1746636960
+    },
+    {
+      "title": "J&J Medtech survey finds strong European support for healthcare data sharing",
+      "description": "73% of surveyed Europeans said they supported the sharing of healthcare data in exchange for personalised treatment plans.",
+      "published_utc": "2025-05-08T00:49:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74800eb2f7859d874b91d0a374cd8542128483641646999efe34c6b77c32c247",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316706,
+      "datetime": 1746636597
+    }
+  ]
+}

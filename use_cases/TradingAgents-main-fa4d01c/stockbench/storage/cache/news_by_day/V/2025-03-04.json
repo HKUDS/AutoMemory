@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "When Do You Sell A Winner? - January Dividend Income Report",
+      "description": "Starbucks reported better-than-expected results despite a double-digit declining EPS and flat revenue. Click to read.",
+      "published_utc": "2025-03-04T19:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=daa1ab421ce4c6b22f328d690d0e3f775de8c4ab55f31751658795acf56e9309",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1830160967/image_1830160967.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132975821,
+      "datetime": 1741087020
+    },
+    {
+      "title": "SCHD Alternative Strategy - Running At An 18.81% CAGR",
+      "description": "Maximize your investments with the 4-factor dividend growth portfolio, outperforming SPY and SCHD with an 18.81% CAGR. Explore more details here.",
+      "published_utc": "2025-03-04T15:06:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2d3e3cebaeddbd1d331bb8ea238985d83236b7693a4b767ac90ea32f25d7cf8b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165465384/image_2165465384.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132974243,
+      "datetime": 1741071972
+    },
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For March 2025",
+      "description": "Read here for nine attractively valued dividend stocks with detailed analysis and unique valuations. Stay ahead in 2025's market with expert insights.",
+      "published_utc": "2025-03-04T08:42:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f1fd84764364d70ffd5f4581ba18b970e5cd587e629c6b6f93842680c8e41c2b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2150522257/image_2150522257.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132971204,
+      "datetime": 1741048973
+    }
+  ]
+}

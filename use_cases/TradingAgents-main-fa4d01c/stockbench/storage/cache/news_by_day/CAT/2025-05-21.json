@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Market Madness In 2025: It's All About Getting Over One Big Hurdle",
+      "description": "The market faces a big hurdle with $7T of U.S. debt coming to maturity. Click to learn about the hurdle, its potential impact, and what happens once it's resolved.",
+      "published_utc": "2025-05-21T23:30:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e04154f938326f7781438d38281a5404e29f9e6891162c9d7469e3335e7d937b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2013211303/image_2013211303.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134627710,
+      "datetime": 1747841451
+    },
+    {
+      "title": "US business equipment borrowings decline in April, ELFA says",
+      "description": "U.S. companies borrowed 4.4% less tofinance equipment investments in April compared with the sameperiod from the year earlier, the Equipment Leasing and FinanceAssociation said on Wednesday. ...",
+      "published_utc": "2025-05-21T23:01:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=48bfadeaa1a8178b5d1762fa9f349480bcda0ec3ac3168aa2939e747c903de1a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134627445,
+      "datetime": 1747839668
+    },
+    {
+      "title": "Astec (NASDAQ:ASTE): Strongest Q1 Results from the Construction Machinery Group",
+      "description": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let’s take a look at how Astec (NASDAQ:ASTE) and the rest of the construction machinery stocks fared in Q1.",
+      "published_utc": "2025-05-21T11:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e649ce978e96c221bb2e7d16c628569abe0b3201f7491af3b1c1dff981637791",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628426,
+      "datetime": 1747798500
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) Advances While Market Declines: Some Information for Investors",
+      "description": "UnitedHealth Group (UNH) concluded the recent trading session at $307.7, signifying a +1.31% move from its prior day's close.",
+      "published_utc": "2025-07-09T05:50:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e4f2a62514352be7483bf49e3bdeac0109d500e2f9ccd8045ce7453350e46dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829794,
+      "datetime": 1752011406
+    },
+    {
+      "title": "WellBe Senior Medical Welcomes Dr. Michael Le as New President",
+      "description": "WellBe Senior Medical has announced the appointment of Dr. Michael Le as the company's first President. Dr. Le brings more than 25 years of leadership experience in both clinical and operational teams within the healthcare industry.",
+      "published_utc": "2025-07-09T00:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e507ca57442218e2496009cb7459ee339a0c277111956c146b82f14101323f4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829795,
+      "datetime": 1751990880
+    }
+  ]
+}

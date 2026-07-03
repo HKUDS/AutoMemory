@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Wingstop: Time To Feast Again (Rating Upgrade)",
+      "description": "Wingstop has seen its digital sales grow to 70% of system-wide sales, as they drive personalized offers. See why I upgrade WING stock from hold to buy.",
+      "published_utc": "2025-02-23T11:37:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cbad8a61d6233e5f666b892520ee453ea1db813d66be20e3b938f2883947f7f5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1016672786/image_1016672786.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132856450,
+      "datetime": 1740281822
+    }
+  ]
+}

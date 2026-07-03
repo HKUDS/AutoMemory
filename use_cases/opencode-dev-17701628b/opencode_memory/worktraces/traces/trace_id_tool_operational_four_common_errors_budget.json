@@ -1,0 +1,230 @@
+{
+  "trace_id": "trace_id_tool_operational_four_common_errors_budget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: tool lessons should preserve four repeated common error signatures when a single-tool budget has room.",
+  "turns": [
+    {
+      "role": "tool",
+      "content": "shell failed auth alpha",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 200,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker ROTATE_ALPHA_TOKEN"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth alpha",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 201,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker ROTATE_ALPHA_TOKEN"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth beta",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 220,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker CLEAR_BETA_COOKIE"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth beta",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 221,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker CLEAR_BETA_COOKIE"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth gamma",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 240,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker RESET_GAMMA_SESSION"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth gamma",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 241,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker RESET_GAMMA_SESSION"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth delta",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 260,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker REISSUE_DELTA_CERT"
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed auth delta",
+      "used_for_evaluation": true,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "shell",
+          "ok": false,
+          "durationMs": 261,
+          "error": "AUTH_RELAY_FAILURE while refreshing test credentials; remediation marker REISSUE_DELTA_CERT"
+        }
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Noise after repeated failures.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush marker one",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "read_file succeeded",
+      "used_for_evaluation": false,
+      "metadata": {
+        "tool_outcome": {
+          "tool": "read_file",
+          "ok": true,
+          "durationMs": 10
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": "Continue with shell lessons.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Ready.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush marker two",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "Are shell counters represented?",
+      "metadata": {
+        "availableToolIds": [
+          "shell"
+        ],
+        "maxChars": 1200
+      },
+      "expected_information": [
+        {
+          "value": "shell: calls=8",
+          "matcher": "substring"
+        },
+        {
+          "value": "failed often",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "Is alpha auth remediation visible?",
+      "metadata": {
+        "availableToolIds": [
+          "shell"
+        ],
+        "maxChars": 1200
+      },
+      "expected_information": [
+        {
+          "value": "ROTATE_ALPHA_TOKEN",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "Is beta auth remediation visible?",
+      "metadata": {
+        "availableToolIds": [
+          "shell"
+        ],
+        "maxChars": 1200
+      },
+      "expected_information": [
+        {
+          "value": "CLEAR_BETA_COOKIE",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "Is gamma auth remediation visible?",
+      "metadata": {
+        "availableToolIds": [
+          "shell"
+        ],
+        "maxChars": 1200
+      },
+      "expected_information": [
+        {
+          "value": "RESET_GAMMA_SESSION",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "Is delta auth remediation visible?",
+      "metadata": {
+        "availableToolIds": [
+          "shell"
+        ],
+        "maxChars": 1200
+      },
+      "expected_information": [
+        {
+          "value": "REISSUE_DELTA_CERT",
+          "matcher": "substring"
+        }
+      ]
+    }
+  ]
+}

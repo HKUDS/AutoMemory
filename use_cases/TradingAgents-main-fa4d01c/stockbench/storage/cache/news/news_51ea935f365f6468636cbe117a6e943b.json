@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on UnitedHealth Group (UNH): “I Have to Take a Pass”",
+      "description": "We recently published a list of Jim Cramer Had These 21 Stocks on His Radar. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that Jim Cramer discusses. A caller inquired if UnitedHealth Group Incorporated (NYSE:UNH) stock presents a buying opportunity or has it […]",
+      "published_utc": "2025-05-28T05:54:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=becfc4c7fa6f0ef2be29e8c903aecf4d2e1127439d764a038f99d07650c9c2c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134741984,
+      "datetime": 1748382848
+    },
+    {
+      "title": "UnitedHealth: A Phoenix Rises From The Ashes",
+      "description": "UnitedHealth stock plummets over 60%, but insider buying signals recovery potential.",
+      "published_utc": "2025-05-27T23:26:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b311c9fbb41445570ab1a516b95af72db3299a43ecc8d4ceb609c16fd98a9e47",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226507581/image_1226507581.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134714351,
+      "datetime": 1748359608
+    },
+    {
+      "title": "Apple and Nvidia Fall Out of Favor With Fund Managers. 7 Stocks They Like More.",
+      "description": "Active large-cap mutual-fund managers have bigger relative positions in financials such as Wells Fargo and BofA than big tech stocks.",
+      "published_utc": "2025-05-27T21:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36f298fe76aa4f8fde6759f6f887b1ffa75aa0533e05e7b2583bcc5d75096a5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715948,
+      "datetime": 1748351520
+    },
+    {
+      "title": "John Hancock Disciplined Value Fund Q1 2025 Commentary",
+      "description": "The Russell 1000 Value Indexâthe fundâs benchmarkârecorded a gain of 2.14% in the first quarter. Read more here.",
+      "published_utc": "2025-05-27T20:22:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c42fd7704f46c785476f7b80ae46a7782023230483292439ca1d9cd559204576",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1085514446/image_1085514446.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709697,
+      "datetime": 1748348520
+    },
+    {
+      "title": "BNY Mellon Income Stock Fund Q1 2025 Commentary",
+      "description": "BNY Mellon Income Stock Fund (Class A at NAV) returned 3.11% during the first quarter of 2025.",
+      "published_utc": "2025-05-27T18:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=daa65f5c3dbc517f6c21c1e66b32a2b50aec8c1b7dc22bd14c2abe6bbb05afde",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1881807987/image_1881807987.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134708851,
+      "datetime": 1748340060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:47.515488+00:00",
+    "cache_key": "news_51ea935f365f6468636cbe117a6e943b",
+    "count": 5
+  }
+}

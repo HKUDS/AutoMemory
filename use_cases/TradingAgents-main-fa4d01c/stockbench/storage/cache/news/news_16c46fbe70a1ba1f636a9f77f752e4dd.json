@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Raised the PT on UnitedHealth Group (UNH), Keeps a Buy Rating",
+      "description": "UnitedHealth Group Incorporated (NYSE:UNH) is one of the 10 Best and Cheap Stocks to Buy Now. On June 19, JPMorgan analyst Lisa Gill raised the firm’s price target on UnitedHealth Group Incorporated (NYSE:UNH) from $405 to $418, while keeping a Buy rating on the stocks. Analyst Lisa Gill noted that the firm revised its price target […]",
+      "published_utc": "2025-06-26T04:37:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=452f67ea03ae2decd987c28ed5d2cc0d0e53107e6f2e60120ef9f76818e6f6fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531168,
+      "datetime": 1750883843
+    },
+    {
+      "title": "UnitedHealth probe to focus on PBM unit, Capital Forum reports",
+      "description": "Investing.com -- The Department of Justice (DOJ) Antitrust leadership is considering redirecting its investigation into Unitedhealth Group (NYSE:UNH) to focus on the company’s pharmacy benefits management (PBM) unit, according to The Capital Forum, citing sources familiar with the matter.",
+      "published_utc": "2025-06-26T04:15:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19ccdebebc311bc80955e792cabac729a2fdc205bedca1aa3a374967e2aa8269",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531169,
+      "datetime": 1750882548
+    },
+    {
+      "title": "Why The Market Is Wrong About UnitedHealth Group",
+      "description": "UnitedHealth Group shows resilience despite policy and regulatory challenges. Discover why its diversified model and Optum Insights fuel a 21% upside.",
+      "published_utc": "2025-06-25T22:40:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=430a2ed8ae4757a171281b288210cc5bef0aa4e8a84ca268bed9e95866edda12",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190970533/image_2190970533.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527653,
+      "datetime": 1750862451
+    },
+    {
+      "title": "Tracking Strong Dividend Increase Trends Amid Macro Uncertainty",
+      "description": "",
+      "published_utc": "2025-06-25T21:41:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c906a799171a1c298caea06f9661d374addf57e4053b06a96aae02f0873a64b1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527239,
+      "datetime": 1750858860
+    },
+    {
+      "title": "Brokers Suggest Investing in UnitedHealth (UNH): Read This Before Placing a Bet",
+      "description": "According to the average brokerage recommendation (ABR), one should invest in UnitedHealth (UNH). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "published_utc": "2025-06-25T21:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35d42bdf753bfdbcb84fcfc1302a753da9438423829b5b880bd516e683f5b6af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531170,
+      "datetime": 1750858202
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:41.660522+00:00",
+    "cache_key": "news_16c46fbe70a1ba1f636a9f77f752e4dd",
+    "count": 5
+  }
+}

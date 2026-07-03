@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Are High-Yield Dividend Stocks Best for Income-Focused Investors?",
+      "description": "Dividends come with many clear benefits, including a passive income stream and a shield against drawdowns in other positions.",
+      "published_utc": "2025-03-11T07:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdf431b26e840376c1ed4a347b7e1e05d545e53f81166debba7e988880a82b79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184450,
+      "datetime": 1741647840
+    }
+  ]
+}

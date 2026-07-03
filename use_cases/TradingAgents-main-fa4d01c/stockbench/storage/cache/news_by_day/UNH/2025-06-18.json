@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Two Healthcare Heavyweights, One Winner: UnitedHealth or CVS Health?",
+      "description": "CVS gains steam as rising margins, strong Medicare results, and cost cuts set it apart from UNH.",
+      "published_utc": "2025-06-18T21:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aecf2ee3b0ced8396ba75ad026be82e82d66d15be381d0ef5476ab3057b9fa9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135362639,
+      "datetime": 1750253760
+    },
+    {
+      "title": "It’s Time for UnitedHealth to Get Transparent With Its Accounting. But Will It?",
+      "description": "Investors long trusted UnitedHealth to deliver earnings beats, despite limited transparency. Now they want answers.",
+      "published_utc": "2025-06-18T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcd8581b42ab2db871681dead6397f164c9f074234cd5d5ab5a6ab179ec79462",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135362983,
+      "datetime": 1750239000
+    },
+    {
+      "title": "Two ETFs Offering Yield, Growth, And Potential Outperformance",
+      "description": "With inflation concerns and high valuations, finding the right investment can be challenging. Read about two ETFs that offer a compelling mix of yield and growth.",
+      "published_utc": "2025-06-18T17:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6470d504446c9214d12b354d393975f057cf60d8082648985694b35b1ad94d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2155694776/image_2155694776.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135353720,
+      "datetime": 1750238100
+    },
+    {
+      "title": "Move Over Hims & Hers Health: This Insurance Business Could Be the Next Monster Healthcare Stock (Hint: It's Not UnitedHealth)",
+      "description": "Hims & Hers Health shares rocketed higher over the last year, rewarding investors.",
+      "published_utc": "2025-06-18T16:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8645a39cfccb91d25054cf6b9af779bd36c85a38e2cd67f28d569e6ebe5599d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135349674,
+      "datetime": 1750234800
+    }
+  ]
+}

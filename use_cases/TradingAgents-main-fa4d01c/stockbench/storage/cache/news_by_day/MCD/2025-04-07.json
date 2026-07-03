@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "SBUX Stock Slips 19% in a Month: Should Investors Buy the Dip or Wait?",
+      "description": "Starbucks' ability to reconnect with customers, improve in-store operations, and drive long-term brand loyalty should support a sustainable recovery over time.",
+      "published_utc": "2025-04-07T22:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5aa8fd3b5c2e63633bb2e007995216245ae02e63f94d3e1f6ce4d7f4a59604a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741128,
+      "datetime": 1744034460
+    },
+    {
+      "title": "Palm Valley Capital Fund Q1 2025 Commentary",
+      "description": "For Q1 2025, the Palm Valley Capital Fund increased 0.57% vs. 8.93% decline for the S&P SmallCap 600 Total Return Index. Click here to read the full letter.",
+      "published_utc": "2025-04-07T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3dddc0d27958a9eff576c26363b87494ebfccb991ab3d1da1f10fb3d332d6f7d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1916501163/image_1916501163.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133740548,
+      "datetime": 1744025400
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "4 Retail Home Furnishing Stocks to Watch in a Thriving Industry",
+      "description": "A focus on digitization, e-commerce, product innovation and new marketing techniques is encouraging for the Zacks Retail-Home Furnishing industry players like HD, WSM, FND and TPX.",
+      "published_utc": "2025-01-02T23:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=114a63d46dc7bf9488d40b1415fdc07cab30fdcb82eea9b0a549b9de1536def9",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/4e5cb64741d41a8cc390b997aca02560",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240642,
+      "datetime": 1735831920
+    },
+    {
+      "title": "3 Market Predictions For January",
+      "description": "What is ahead for investors as we open 2025? We share three market predictions for the month of January. Click here to read the full analysis.",
+      "published_utc": "2025-01-02T23:19:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac1f4102ca834cf02ce43d447cca19a1fb6fbe39788fd06a0c3bee9666ba2b32",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/136802589/image_136802589.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132241946,
+      "datetime": 1735831146
+    }
+  ]
+}

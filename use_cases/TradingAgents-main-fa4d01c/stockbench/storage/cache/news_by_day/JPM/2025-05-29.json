@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Bond Traders See Treasuries Selloff Going Even Further",
+      "description": "(Bloomberg) -- Traders rattled by the rout in long-dated Treasuries are turning more bearish as yields continue to oscillate around a key 5% psychological threshold. Most Read from BloombergNYC Congestion Toll Brings In $216 Million in First Four MonthsNY Wins Order Against US Funding Freeze in Congestion FightNY Congestion Pricing Is Likely to Stay Until Year End During Court CaseA JPMorgan Chase & Co. survey of traders released Wednesday spotlighted that investors expect the selloff to worsen,",
+      "published_utc": "2025-05-29T04:30:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c537da60c081e5b307c0c991711fe567a14069a0151d49608be9624983eaadaf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134811754,
+      "datetime": 1748464211
+    },
+    {
+      "title": "Moody's Downgrade Of The U.S. To Aa1 And The Ripple Effect On Bond Ratings",
+      "description": "The Moodyâs downgrade of the US rating to Aa1 from Aaa had a ripple effect through the bond markets, in the form of downgraded credits.",
+      "published_utc": "2025-05-29T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e970feb8913abb1fdc45b220dde7046897685cc207d9587513b60b9b508a43c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1586267240/image_1586267240.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134769732,
+      "datetime": 1748463300
+    },
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Expands Affluent Banking With 14 New Financial Centers",
+      "description": "JPMorgan Chase (NYSE:JPM) recently announced the expansion of its affluent banking services, opening 14 new J.P. Morgan Financial Centers across key U.S. states, while also leasing new office space in Paris. These initiatives are expected to enhance client engagement and strengthen market presence. In tandem, the company unveiled the JPMorgan Chase Center for Geopolitics, focusing on global business trends, alongside updates in quantum research software. Amid a largely flat market, the...",
+      "published_utc": "2025-05-29T01:35:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0462c46f60422e2e51357c6367ecf067d318f3d4290fab6dcdce684ec79ffa4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134755761,
+      "datetime": 1748453746
+    }
+  ]
+}

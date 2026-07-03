@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams to Buy BASF's Suvinil in an All-Cash Transaction",
+      "description": "The buyout will allow SHW to accelerate profitable above-market growth by providing industry-leading solutions.",
+      "published_utc": "2025-02-18T23:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4ace8e3d2b16685eac819ee490b1ec93182cacb8a0756e0c5d9dd1c9d12a6e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186498,
+      "datetime": 1739893260
+    },
+    {
+      "title": "Sherwin-Williams to buy BASF Brazilian architectural paints business for $1.15B",
+      "description": "Sherwin-Williams (SHW) announced it has entered into a definitive agreement with BASF Group (BASFY) to acquire BASF’s Brazilian architectural paints business, “Suvinil,” for $1.15B in an all-cash transaction. Sherwin-Williams intends to finance the transaction through a combination of cash on hand, liquidity available under existing facilities and new debt. The purchase price represents a low teens EBITDA multiple following anticipated post transaction synergies net of one-time costs. The transa",
+      "published_utc": "2025-02-18T21:12:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aa1ed57c71d1430c80a4fa6c9cf98e89be716f25eead9bc97dbd84dac71924b",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/tipranks_452/bc6094b7dacb386d1db42fd55332a052",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132828891,
+      "datetime": 1739884365
+    },
+    {
+      "title": "Sherwin-Williams Strikes $1.15 Billion Deal to Buy BASF's Brazilian Architectural Paints Business",
+      "description": "Sherwin-Williams (SHW) agreed to acquire German chemical giant BASF Group's architectural paints bus",
+      "published_utc": "2025-02-18T19:29:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9443fb0c3892e114bc6d1ab2003d51834f1597748b146e12ea3a39431aec1b77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186500,
+      "datetime": 1739878183
+    },
+    {
+      "title": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "description": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "published_utc": "2025-02-18T17:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=94cc7b8e2e5e9af34eb71ff375051129a16c10facf53c80475ad38658bda4cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767999,
+      "datetime": 1739872740
+    },
+    {
+      "id": "073548e957b4f62e02fe88509c52da7f1607f8cda4b7ac7fc49be821ee4ab19f",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Sherwin-Williams Expands In Brazil: Snaps Up BASF's Suvinil For $1.15B",
+      "author": "Shivani Kumaresan",
+      "published_utc": "2025-02-18T13:41:50Z",
+      "article_url": "https://www.benzinga.com/markets/equities/25/02/43780681/sherwin-williams-expands-in-brazil-snaps-up-basfs-suvinil-for-1-15b",
+      "tickers": [
+        "SHW",
+        "BASFY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/18/Mastering-Negotiation-Skills.jpeg?width=1200&height=800&fit=crop",
+      "description": "Sherwin-Williams has agreed to acquire BASF's Brazilian architectural paints division, Suvinil, for $1.15 billion. The deal is expected to strengthen Sherwin-Williams' presence in the Brazilian market and complement its existing operations.",
+      "keywords": [
+        "Sherwin-Williams",
+        "BASF",
+        "Suvinil",
+        "Brazil",
+        "acquisition"
+      ],
+      "insights": [
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The acquisition of Suvinil is expected to strengthen and accelerate Sherwin-Williams' growth prospects in Brazil, offering a broader product selection and extensive distribution."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "BASF is selling its Brazilian architectural paints division, Suvinil, to Sherwin-Williams, which is a strategic business decision but does not indicate a positive or negative sentiment towards the company."
+        }
+      ]
+    }
+  ]
+}

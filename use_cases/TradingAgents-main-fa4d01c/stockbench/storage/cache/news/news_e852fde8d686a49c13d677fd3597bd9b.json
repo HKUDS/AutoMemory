@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-04T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9f0e321bd84bc0908c2d60cad98d6eeb676558d49ff712e015222291e5c555b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132546177,
+      "datetime": 1738600500
+    },
+    {
+      "title": "AMGEN ANNOUNCES WEBCAST OF 2024 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
+      "description": "THOUSAND OAKS - Amgen today announced that it will report its fourth quarter and full year 2024 financial results on Tuesday, February 4, 2025, after the close of the U.S. financial markets.The...",
+      "published_utc": "2025-02-03T17:04:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ac95a84ae9d3e39df7252d37b37f47ef1a81f708ce60cb0fbde970864bc9f6e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520510,
+      "datetime": 1738573457
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Stay informed with the latest financial updates! Get a daily podcast of Wall Street Breakfast on Seeking Alpha, iTunes, and Spotify by 8:00 a.m.",
+      "published_utc": "2025-02-02T14:09:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b628db79bec8b4ba19db49d42ef374af40f7c9effdf8a9adc7a8aa86c521dc6d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175464726/image_175464726.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132514375,
+      "datetime": 1738476596
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:49:41.413591+00:00",
+    "cache_key": "news_e852fde8d686a49c13d677fd3597bd9b",
+    "count": 3
+  }
+}

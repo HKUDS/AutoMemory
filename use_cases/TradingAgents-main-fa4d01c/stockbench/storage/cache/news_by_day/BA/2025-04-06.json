@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tariffs Stoke Fears That Hung Debt Will Return",
+      "description": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they’ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s Tariffs Are Already Hurting New York Eco",
+      "published_utc": "2025-04-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcdf8afa08c74dfb7bc324925a7e4269a01e0ba35515a963fc3095e192cb5781",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727253,
+      "datetime": 1743879600
+    }
+  ]
+}

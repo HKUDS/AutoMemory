@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM Faces UK Watchdog Scrutiny for HashiCorp Buyout: Trouble Brewing?",
+      "description": "IBM appears primed for further price appreciation despite apparent roadblocks and investors are likely to profit if they bet on this high-flying stock now.",
+      "published_utc": "2025-01-03T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc9402307f79c9c2444346cf19f4e4861474d9a797e002190a8ae74acda1be09",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/58724708490e67ef1bafc8867f3885b5",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132246818,
+      "datetime": 1735848000
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-01-03T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e48bd93776f74b80dbea7abafd438eb48c86047ce187238c9c946d6625e47329",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322786,
+      "datetime": 1735835760
+    }
+  ]
+}

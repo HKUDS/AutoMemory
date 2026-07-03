@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "Honeywell International Inc. (HON) closed at $206.35 in the latest trading session, marking a -1.07% move from the prior day.",
+      "published_utc": "2025-03-13T06:15:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d052a743619da3814d757ddb5fbb7f75318a7a820277d154703f7b43c5968ba6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185413,
+      "datetime": 1741817717
+    },
+    {
+      "title": "International Test Pilots School, Honeywell Launch New Program to More Efficiently Train Flight Test Teams",
+      "description": "Honeywell Aerospace Flight Test team is first customer for innovative new program London, Ontario--(Newsfile Corp. - March 12, 2025) - The International Test Pilots School (ITPS) and Honeywell (NASDAQ: HON) have teamed to launch a new flight test training program designed to improve the way flight test professionals are trained. ITPS has developed the unique Hybrid Industry Training Solutions for Flight Test Teams program, and the Honeywell Aerospace Flight Test team will be the launch ...",
+      "published_utc": "2025-03-13T02:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2fa6ae5dac49d94ad17751bb3f6ba58f8677ba304f39428dbb035ed871e9139",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185414,
+      "datetime": 1741802820
+    }
+  ]
+}

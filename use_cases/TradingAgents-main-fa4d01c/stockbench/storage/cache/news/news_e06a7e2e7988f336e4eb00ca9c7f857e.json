@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Visa to Announce Fiscal Second Quarter 2025 Financial Results on April 29, 2025",
+      "description": "SAN FRANCISCO, April 08, 2025--Visa (NYSE: V) will report its fiscal second quarter 2025 financial results on Tuesday, April 29, 2025. After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial information, on the Visa Investor Relations website. Visa will issue a news wire alert when the earnings materials are publicly available, including a link to those documents.",
+      "published_utc": "2025-04-09T04:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42f5194df38ed1442dc4586606364301de0fc14d2124966f34fae8ac6cbfeade",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823283,
+      "datetime": 1744142700
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Tuesday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-04-09T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=789624895b552e70e3be209c71cc73fcabda0e1e22973c8e7c28dd61e8300954",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133824025,
+      "datetime": 1744129860
+    },
+    {
+      "title": "Visa Insiders Sold US$20m Of Shares Suggesting Hesitancy",
+      "description": "Over the past year, many Visa Inc. ( NYSE:V ) insiders sold a significant stake in the company which may have piqued...",
+      "published_utc": "2025-04-08T21:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=994692a09993820f775dc71f23306a3ba4c0ecc9564026d9e94fed7dcc36bf73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823284,
+      "datetime": 1744117217
+    },
+    {
+      "title": "2 Stocks With Incredible Balance Sheets That Can Offer Safety in Tariff Chaos",
+      "description": "These companies have the business strength and financials to give you peace of mind in a fearful market.",
+      "published_utc": "2025-04-08T17:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d98c6daf2e779aa9b1b6fc9f8107f0c53852c14dc122862ab4e0584d2776e64b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133771063,
+      "datetime": 1744104180
+    },
+    {
+      "title": "Recession-Proofing Your Portfolio",
+      "description": "",
+      "published_utc": "2025-04-08T15:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2ab752356c3f58c4231fd378b6a8bad0c06f7634cd29b3b9df9021a06d80764f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133771330,
+      "datetime": 1744096500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:41.650847+00:00",
+    "cache_key": "news_e06a7e2e7988f336e4eb00ca9c7f857e",
+    "count": 5
+  }
+}

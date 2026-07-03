@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Analysts Positive on Salesforce, Inc. (CRM) Amid Mixed Stock Performance",
+      "description": "Salesforce, Inc. (NYSE:CRM) secures a place on our list of the 12 Best Ethical Companies to Invest in 2025. Salesforce, Inc. (NYSE:CRM) is demonstrating a mixed performance as of the time of writing. The stock last closed at $268.35, an increase of 1.74% from the previous trading day. The stock outperformed the broader market, which […]",
+      "published_utc": "2025-07-27T22:14:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce42c1ccbd601471afd2130eb2bae287dd2c727a1ff0fe9cf0a46572896e8ae2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101758,
+      "datetime": 1753625685
+    },
+    {
+      "title": "Templeton Growth Fund Q2 2025 Commentary",
+      "description": "The MSCI All Country World Index of stocks generated positive returns in US-dollar terms for the quarter. Read more here.",
+      "published_utc": "2025-07-27T18:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e84b9c1dec3d291c984e1de33e42b51733bcf807e1d940269f87eb4f25225b08",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972341389/image_1972341389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100687,
+      "datetime": 1753610400
+    }
+  ]
+}

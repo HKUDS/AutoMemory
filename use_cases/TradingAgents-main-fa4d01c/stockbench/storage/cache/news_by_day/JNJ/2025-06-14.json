@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "UBS Backs Johnson & Johnson as a Defensive Play in Uncertain Times",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the best stocks for a retirement stock portfolio. On June 12, UBS global equity strategist Andrew Garthwaite’s team pointed to Johnson & Johnson as one of the top cyclical picks, excluding financials, whose performance tends to move with the broader economy. The stock has gained over 9% in […]",
+      "published_utc": "2025-06-14T09:30:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83bf14f8daf3391ac35972137fc25a05e5ee4b370992015514f1eb4572f7e2d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135270160,
+      "datetime": 1749864636
+    },
+    {
+      "title": "Healthcare Sector Taps AI Boom via Intuitive Surgical Stock (ISRG)",
+      "description": "When investors think of artificial intelligence (AI), names like Nvidia (NVDA), Palantir (PLTR), and Alphabet (GOOGL) typically come to mind. But AI’s impact extends well beyond the traditional tech sector. A standout example is Intuitive Surgical (ISRG), the clear global leader in robotic surgery, now making significant strides in integrating AI into healthcare. The company’s latest system, the da Vinci 5, incorporates AI capabilities that could unlock a powerful new and recurring revenue strea",
+      "published_utc": "2025-06-14T08:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d805b9ee41b2ca7358f24b5fa64aa92c4ce85f1445aff6fcedce5b5a31ee23a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135258011,
+      "datetime": 1749862560
+    }
+  ]
+}

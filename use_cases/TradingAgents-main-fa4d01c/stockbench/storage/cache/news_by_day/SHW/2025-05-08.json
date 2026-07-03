@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is The Sherwin-Williams Company (SHW) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where The Sherwin-Williams Company (NYSE:SHW) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of […]",
+      "published_utc": "2025-05-08T02:16:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a28ddd6f2d450dd487f9b45afd68d6ce7a1d285dd4bfab0a68aef45fffde1f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134317065,
+      "datetime": 1746641782
+    }
+  ]
+}

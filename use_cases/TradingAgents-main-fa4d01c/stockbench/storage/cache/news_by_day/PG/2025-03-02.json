@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "8a08d871ba07d3a74d775a0bbabc227926569c7d69d1490f650c860fbe659696",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is High-Yield Altria Stock Worth the Accelerating Risk Profile?",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-03-02T11:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/high-yield-altria-stock-worth-accelerating-risk/?source=iedfolrf0000001",
+      "tickers": [
+        "MO",
+        "PG",
+        "GIS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809242/22_12_05-a-person-putting-their-hand-up-to-say-no-to-tobacco-cigarettes-_mf-dload.jpg",
+      "description": "Altria, a consumer staples company known for its cigarette products, offers a high dividend yield of 7.4%. However, the company's core cigarette business is facing a concerning decline in volume, with a 10.2% drop in 2024. While Altria has tried to diversify into vaping and marijuana, these efforts have not been successful. The article suggests that the accelerating risk in Altria's business may not be worth it for the average dividend investor.",
+      "keywords": [
+        "Altria",
+        "dividend",
+        "cigarettes",
+        "consumer staples",
+        "vaping",
+        "marijuana"
+      ],
+      "insights": [
+        {
+          "ticker": "MO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Altria's core cigarette business is facing a concerning decline in volume, with a 10.2% drop in 2024. The company's efforts to diversify into vaping and marijuana have not been successful, and the accelerating risk in its business may not be worth the high dividend yield for the average investor."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Procter & Gamble is mentioned as an example of a consumer staples company that makes life necessities, unlike Altria's cigarettes."
+        },
+        {
+          "ticker": "GIS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "General Mills is mentioned as an example of a consumer staples company that makes food, unlike Altria's cigarettes."
+        }
+      ]
+    }
+  ]
+}

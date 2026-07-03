@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is OpenAI's Deal With Alphabet a Game Changer?",
+      "description": "OpenAI just teamed up with Alphabet's Google Cloud Platform.",
+      "published_utc": "2025-06-22T06:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef9b756e5325b4c9689a58a3059211e7038f34b50f2520d4f583c29fe873577d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135458022,
+      "datetime": 1750543500
+    },
+    {
+      "title": "European leaders worry they’re too reliant on U.S. tech",
+      "description": "European governments may be reconsidering their use of American technology and services, according to a new report in The New York Times.",
+      "published_utc": "2025-06-22T04:16:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d80fb7f6a7d7b40606062a5648ce644bc2ccd3addf55b8f1ecd5eead7c343034",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135460354,
+      "datetime": 1750536969
+    },
+    {
+      "title": "3 Stocks to Profit From the Upcoming Nuclear Power Boom",
+      "description": "NuScale Power is a leading developer of small modular reactors, which offer a variety of benefits compared to traditional nuclear power plants.  Cameco is a uranium mining leader that has the potential to benefit from growth in small modular reactors.  President Donald Trump, committed to facilitating a rebirth of America's nuclear energy industry, issued four executive orders in late May. From expediting the licensing process for nuclear reactors to examining the potential for nuclear fuel recycling, Trump addressed a range of issues that had hindered the industry's growth for years.",
+      "published_utc": "2025-06-22T00:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed2c4331ac094d97cdffae560087649a5d8bfb2a949f5a07e063d9c22d3a448a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456470,
+      "datetime": 1750523580
+    },
+    {
+      "title": "Bernstein SocGen Lifts MSFT Target to $540 on AI-Driven Cloud Outlook",
+      "description": "Bernstein SocGen has raised its price target on Microsoft (NASDAQ: MSFT) to $540 from $520, and kept an Outperform rating for the stock a couple of weeks ago. Shares are trading at $477, near their 52-week high, with a market cap of $3.55 trillion. The firm sees longer-term upside tied to Microsoft’s partnership with OpenAI. […]",
+      "published_utc": "2025-06-21T21:39:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cbd4932ee67a76a562136b389fc20b5f398b6458cfe45437ea7b2725328e94a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135460356,
+      "datetime": 1750513182
+    },
+    {
+      "title": "If I Could Buy Only 1 \"Magnificent 7\" Stock Over the Next Year, Alphabet Would Be It, but Here's the Key Reason",
+      "description": "Alphabet stock is lagging behind other Magnificent 7 stocks, but is that a buying opportunity?",
+      "published_utc": "2025-06-21T19:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96b720b0c9eefdad3cf32236d5f950d4254dc771f7335a29a1159d48b2629356",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454683,
+      "datetime": 1750506660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:15.513752+00:00",
+    "cache_key": "news_7ca835c036c6984c45cf8f44b34c83b5",
+    "count": 5
+  }
+}

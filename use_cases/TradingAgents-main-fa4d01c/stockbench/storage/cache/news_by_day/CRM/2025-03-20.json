@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) a Stock That Members of Congress Own?",
+      "description": "We recently compiled a list of the 10 Stocks That Members of Congress Own. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the stocks that members of Congress own. Members of the US Congress have historically been permitted to own and actively trade stocks, a practice […]",
+      "published_utc": "2025-03-20T07:49:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a3c71dbb81007a4ac23296e6ae078e11c5a98d8fdbc342de8edda47a91821d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324690,
+      "datetime": 1742428184
+    },
+    {
+      "title": "BlackRock Global Dividend Fund Q4 2024 Commentary",
+      "description": "BlackRock Global Dividend Fund posted returns of -4.66% (Institutional shares) and -4.64% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-20T05:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe11fccefad920397ae12f7f4e4eda84c9f64cb98b126478d861edcec76868c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96502248/image_96502248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263378,
+      "datetime": 1742419260
+    },
+    {
+      "title": "Stephens & Co. Initiates Coverage of Salesforce (CRM) with Equal-Weight Recommendation",
+      "description": "",
+      "published_utc": "2025-03-20T02:30:25",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=9eb545e0759cf9d33b276a1e8d77b8d79a6dfa5ff687ed3a4cf1fb023200c228",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133259307,
+      "datetime": 1742409025
+    }
+  ]
+}

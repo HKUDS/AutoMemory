@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Commentary: Why are investors buying the dip in stocks?",
+      "description": "And so the dip-buying in markets continues.",
+      "published_utc": "2025-03-30T20:30:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b9c76c720364cc3ccdc8a0fdd381b225128cbfdc8e22ef86e69a21b95169f5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133611400,
+      "datetime": 1743337813
+    }
+  ]
+}

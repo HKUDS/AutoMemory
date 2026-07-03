@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "IBM watsonx AI to Boost Fan Experience in 2025 Masters Tournament",
+      "description": "IBM watsonx introduces new AI native features in the Master's App and website to ensure an immersive experience for golf fans.",
+      "published_utc": "2025-04-08T00:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52b3ba2b254c69e90e5a3fa38e9d3df5f5decace431a14e2d42ac04987fcdd5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741129,
+      "datetime": 1744042200
+    }
+  ]
+}

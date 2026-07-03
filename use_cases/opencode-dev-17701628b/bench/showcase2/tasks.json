@@ -1,0 +1,46 @@
+{
+  "showcase": "multi-session-django",
+  "source": "SWE-bench Verified (django/django)",
+  "dataset": "SWE-bench/SWE-bench_Verified",
+  "repo": "django/django",
+  "tasks": [
+    {
+      "instance_id": "django__django-13964",
+      "role": "primary",
+      "sessions": [1, 2],
+      "expected_files": ["django/db/models/fields/related_descriptors.py"]
+    },
+    {
+      "instance_id": "django__django-13933",
+      "role": "related",
+      "sessions": [3],
+      "expected_files": ["django/forms/models.py"]
+    }
+  ],
+  "sessions": [
+    {
+      "order": 1,
+      "task": "django__django-13964",
+      "prompt_file": "prompts/session1-remember.txt",
+      "goal": "explore_and_locate",
+      "expected_files": ["django/db/models/fields/related_descriptors.py"],
+      "should_verify": false
+    },
+    {
+      "order": 2,
+      "task": "django__django-13964",
+      "prompt_file": "prompts/session2-continue.txt",
+      "goal": "fix_and_patch",
+      "expected_files": ["django/db/models/fields/related_descriptors.py"],
+      "should_verify": true
+    },
+    {
+      "order": 3,
+      "task": "django__django-13933",
+      "prompt_file": "prompts/session3-related.txt",
+      "goal": "fix_related",
+      "expected_files": ["django/forms/models.py"],
+      "should_verify": true
+    }
+  ]
+}

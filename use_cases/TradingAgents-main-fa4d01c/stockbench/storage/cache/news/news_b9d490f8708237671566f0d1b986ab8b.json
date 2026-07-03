@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JP Morgan unit joins forces with Ondo, Chainlink to execute landmark settlement",
+      "description": "JP Morgan's blockchain unit Kinexys partnered with Chainlink and Ondo Finance to complete the first atomic DvP settlement.",
+      "published_utc": "2025-05-15T03:01:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab1093624bc5fe658ca7f498ff5ecbfc52bcc4ea565503092ed9e77e5997277e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460700,
+      "datetime": 1747249317
+    },
+    {
+      "title": "J.P. Morgan Asset Management Focuses on Generational Opportunities in Real Estate, Appointing Chad Tredway as Global Head",
+      "description": "J.P. Morgan Asset Management is enhancing its real estate business with the appointment of Chad Tredway as Global Head of Real Estate. In this new role, he will oversee real estate operations across the Americas, Europe, and Asia Pacific, increasing the firm's global reach and ability to deliver innovative investment opportunities.",
+      "published_utc": "2025-05-15T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea887638204d51b9ba082118c0f85fb39d9e7dd14ffdbdb22bff84f82c5a38c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460701,
+      "datetime": 1747238400
+    },
+    {
+      "title": "JPMorgan’s Kinexys Connects With Public Blockchain on Ondo Chain Testnet Debut",
+      "description": "The testnet deal links JPMorgan’s Kinexys payments network to Ondo Chain using Chainlink’s cross-chain tech",
+      "published_utc": "2025-05-14T22:14:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3603c23186b376d0e84adba8c42d24ab130afa3a13e4569c36b7bf44975e44e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460702,
+      "datetime": 1747232095
+    },
+    {
+      "title": "JPMorgan Chase steps beyond ‘walled garden’ to settle transaction on public blockchain",
+      "description": "This is the first time the U.S.'s largest bank has built out a system to interface with a public blockchain.",
+      "published_utc": "2025-05-14T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=668d0a6138ee8d2ad2fae287240991cc7f7bcab0a601f7626860e231cc626245",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460703,
+      "datetime": 1747227600
+    },
+    {
+      "title": "Wells Fargo: There Are Currently Far Better Deals In The Banking Sector",
+      "description": "Wells Fargo struggles with negative growth, high valuation, and average profitability. Click to know about the uncertainties around WFC and why it could become more bearish.",
+      "published_utc": "2025-05-14T18:46:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e528f0d0a39ee3f9a91687b73f2e2f8ceace5804d3c781f10c8a54abb71d12ed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1874242649/image_1874242649.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134436438,
+      "datetime": 1747219599
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:49.435741+00:00",
+    "cache_key": "news_b9d490f8708237671566f0d1b986ab8b",
+    "count": 5
+  }
+}

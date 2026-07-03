@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Hooters’ Bankruptcy Is the Latest Sign of Trouble for Restaurants",
+      "description": "Hooters’ Bankruptcy Is the Latest Sign of Trouble for Restaurants",
+      "published_utc": "2025-04-02T01:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=373281a31c5dc743f7d5de8c1253b50ad7925d6826414a28d26ad5e5966fa09b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133659854,
+      "datetime": 1743528720
+    }
+  ]
+}

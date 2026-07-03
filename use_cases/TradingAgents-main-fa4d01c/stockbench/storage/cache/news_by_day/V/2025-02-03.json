@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "226dbc35eb2e8b05527c69b5a25562d4efd32ca0d8377978388b8ca8c35d20a4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Norway Cards and Payments Opportunities and Risks 2025-2028: Current and Forecast Values for Each Market in the Norwegian Cards and Payments Industry, including Debit, Credit and Charge Cards",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-02-03T09:56:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/03/3019271/28124/en/Norway-Cards-and-Payments-Opportunities-and-Risks-2025-2028-Current-and-Forecast-Values-for-Each-Market-in-the-Norwegian-Cards-and-Payments-Industry-including-Debit-Credit-and-Char.html",
+      "tickers": [
+        "SAN",
+        "NRDBY",
+        "DNKEY",
+        "MA",
+        "V",
+        "AXP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The report analyzes the Norwegian cards and payments industry, including trends, market sizing, and competitive landscape. It provides insights into payment instruments, e-commerce, and regulatory changes affecting the industry.",
+      "keywords": [
+        "Norway",
+        "cards",
+        "payments",
+        "e-commerce",
+        "regulation"
+      ],
+      "insights": [
+        {
+          "ticker": "SAN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Santander as a leading card issuer in Norway, but does not provide any specific positive or negative information about the company."
+        },
+        {
+          "ticker": "NRDBY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nordea entered into an agreement to acquire Danske Bank's retail banking services and private banking business in Norway, which is expected to strengthen Nordea's position as a dominant player in the Norwegian banking sector."
+        },
+        {
+          "ticker": "DNKEY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nordea acquired Danske Bank's retail banking services and private banking business in Norway, but does not provide any specific positive or negative information about Danske Bank itself."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Mastercard as a leading payment scheme in Norway, but does not provide any specific positive or negative information about the company."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Visa as a leading payment scheme in Norway, but does not provide any specific positive or negative information about the company."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as a leading payment scheme in Norway, but does not provide any specific positive or negative information about the company."
+        }
+      ]
+    }
+  ]
+}

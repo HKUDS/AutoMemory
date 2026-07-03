@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Medincell Proposes Board Appointments of Industry Veterans Dr. Sharon Mates and Dr. Charles Kunsch",
+      "description": "MONTPELLIER, France, July 29, 2025--Regulatory News: Medincell (Paris:MEDCL):",
+      "published_utc": "2025-07-29T23:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4f0d681e72ec56047499f3ee0604ec5bcaa290900c8dcd598e3ea328dc0dd03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119160,
+      "datetime": 1753803900
+    }
+  ]
+}

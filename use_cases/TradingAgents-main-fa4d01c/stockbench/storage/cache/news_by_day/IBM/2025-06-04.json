@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "title": "An All AI Portfolio: AI Already Has ROI",
+      "description": "",
+      "published_utc": "2025-06-04T19:16:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=db331ddd484f0cd682426fad31a527e19757fdb47cf0e0a154e2b8b6e26f8ab3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010315,
+      "datetime": 1749035770
+    },
+    {
+      "title": "Is IBM cool again?",
+      "description": "Also: Trump says Xi is \"hard to make a deal with,\" Wells Fargo is out of the doghouse, and Ray Dalio rings in AI era.",
+      "published_utc": "2025-06-04T18:04:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b981cf30ca09937fc332a7ba3ed9ef1c81bad430f7e522a864825c48ca647e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010302,
+      "datetime": 1749031498
+    },
+    {
+      "id": "f96732a1251815cfd9f34ea16a9e869bcbe17a780c56c238c02587f46b5b7634",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "New MLPerf Training v5.0 Benchmark Results Reflect Rapid Growth and Evolution of the Field of AI",
+      "author": "Mlcommons",
+      "published_utc": "2025-06-04T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/04/3093769/0/en/New-MLPerf-Training-v5-0-Benchmark-Results-Reflect-Rapid-Growth-and-Evolution-of-the-Field-of-AI.html",
+      "tickers": [
+        "AMD",
+        "IBM",
+        "NVDA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/fb61f28d-6bae-4356-93c8-770d2bd7c737",
+      "description": "MLCommons announced new results for the MLPerf Training v5.0 benchmark suite, highlighting rapid growth and evolution in the field of AI. The benchmark suite includes a new large language model pretraining benchmark based on the Llama 3.1 405B generative AI system, and the results show notable performance improvements for newer benchmarks.",
+      "keywords": [
+        "MLPerf Training",
+        "AI benchmark",
+        "Llama 3.1 405B",
+        "performance improvements"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AMD is mentioned as one of the companies that submitted results to the MLPerf Training v5.0 benchmark, indicating their involvement and participation in the industry-leading AI benchmark."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as a first-time MLPerf Training submitter, which suggests their increased involvement and interest in the AI benchmark."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NVIDIA is mentioned as one of the companies that submitted results, including new processor families like the Blackwell GPU, indicating their continued leadership and innovation in the AI hardware space."
+        }
+      ]
+    }
+  ]
+}

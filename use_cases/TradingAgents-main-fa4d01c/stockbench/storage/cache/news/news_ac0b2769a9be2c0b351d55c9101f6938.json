@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "Procter & Gamble (PG) concluded the recent trading session at $158.32, signifying a +2.12% move from its prior day's close.",
+      "published_utc": "2025-07-23T05:50:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ffbb127c120d7b3585e5532e014f4223f538284fdc79c952821f3c5a6fe5bb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038215,
+      "datetime": 1753221004
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "description": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "published_utc": "2025-07-23T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=85f1df9b05ad1afa77f3080b959c92dea072f851e8be990a7bd7debe95b567d7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136041645,
+      "datetime": 1753201860
+    },
+    {
+      "title": "Procter & Gamble (PG) Earnings Expected to Grow: Should You Buy?",
+      "description": "P&G (PG) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-07-22T22:00:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8da7c473699802183349a029bc63c300c82a90361c6dc9c3b17076e250470d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033335,
+      "datetime": 1753192806
+    },
+    {
+      "title": "Procter & Gamble Company (The) (PG) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "P&G (PG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-07-22T21:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b912580cb7d15288e4bcdc305b188bf04769a14b2b9e61e515c9a99757b29c42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033336,
+      "datetime": 1753189203
+    },
+    {
+      "title": "Best Dividend Kings: July 2025",
+      "description": "Discover why 14 Dividend Kings outperform the S&P 500 in 2025.",
+      "published_utc": "2025-07-22T17:31:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0abfb9a06bfcdd22331e819cff2f63c95a0a2e603f074263e23c8ab514d9f843",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158691690/image_2158691690.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031024,
+      "datetime": 1753176661
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:11:05.780488+00:00",
+    "cache_key": "news_ac0b2769a9be2c0b351d55c9101f6938",
+    "count": 5
+  }
+}

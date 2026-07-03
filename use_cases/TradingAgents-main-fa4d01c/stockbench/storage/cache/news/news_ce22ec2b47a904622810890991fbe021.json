@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "title": "Tariffs Stoke Fears That Hung Debt Will Return",
+      "description": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they’ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s Tariffs Are Already Hurting New York Eco",
+      "published_utc": "2025-04-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcdf8afa08c74dfb7bc324925a7e4269a01e0ba35515a963fc3095e192cb5781",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727253,
+      "datetime": 1743879600
+    },
+    {
+      "title": "Janux Therapeutics: Buying For The Promising Pipeline, Holding For The Buyout",
+      "description": "",
+      "published_utc": "2025-04-05T16:14:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5819a095f5ce7ff62af0002f01ef824941e9b6f627ef88cbc30cd37e023de276",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133725543,
+      "datetime": 1743840853
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (April 2025)",
+      "description": "We discuss five discounted, large-cap dividend stocks for stable growth and income. Read here for our filtering process for top DGI picks.",
+      "published_utc": "2025-04-05T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a6d9de19c396701d482892fc3ddcb18bd7765e7a83f5a8f9f7304c93cdc7cd9a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133725403,
+      "datetime": 1743840000
+    },
+    {
+      "id": "c8a222707e5f9543cac1a2eb3801a6d0e3f93d37b1194e1aac4808399e129b2b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "President Trump's Tariffs Have Arrived. 3 Things to Do to Protect Your Portfolio.",
+      "author": "Adria Cimino",
+      "published_utc": "2025-04-05T07:40:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/05/trumps-tariffs-3-things-to-protect-portfolio/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "WMT",
+        "AMZN",
+        "ETSY",
+        "KO",
+        "JNJ",
+        "ABT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/813729/gettyimages-2203818627-1200x762-95f5f52.jpg",
+      "description": "The article discusses strategies for investors to protect their portfolios amid the market turmoil caused by the broader-than-expected tariff announcement by President Trump. It suggests holding on to well-established companies, considering companies that may benefit from the tariffs, and investing in Dividend Kings for passive income.",
+      "keywords": [
+        "tariffs",
+        "portfolio protection",
+        "investing strategies",
+        "Dividend Kings"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that well-established companies like Nvidia have historically recovered and gained over time, even during tough market conditions."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that well-established companies like Walmart have historically recovered and gained over time, even during tough market conditions."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon may benefit from the tariffs, as they could boost the company's competitiveness against foreign rivals like Shein."
+        },
+        {
+          "ticker": "ETSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Etsy may benefit from the tariffs, as they could boost the company's competitiveness against foreign rivals like Shein."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Dividend Kings, such as Coca-Cola, which have a history of increasing their dividend payments and have the financial strength to continue doing so even during difficult times."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Dividend Kings, such as Johnson & Johnson, which have a history of increasing their dividend payments and have the financial strength to continue doing so even during difficult times."
+        },
+        {
+          "ticker": "ABT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Dividend Kings, such as Abbott Laboratories, which have a history of increasing their dividend payments and have the financial strength to continue doing so even during difficult times."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:28.684840+00:00",
+    "cache_key": "news_ce22ec2b47a904622810890991fbe021",
+    "count": 4
+  }
+}

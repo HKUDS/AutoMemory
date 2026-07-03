@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs names Raghav Maliah as global chairman of investment banking",
+      "description": "Goldman Sachs hasappointed Raghav Maliah as a chairman of investment banking, aglobal position that he will take on alongside his existingregional responsibilities, according to a memo issued by...",
+      "published_utc": "2025-07-02T06:23:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fefba4d893605d474d092434b68ad246c018970b95e1b03dfc715a92af737b1e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135701911,
+      "datetime": 1751408588
+    },
+    {
+      "title": "Goldman Sachs names Raghav Maliah as global chairman of investment banking, memo shows",
+      "description": "Goldman Sachs hasappointed Raghav Maliah as a chairman of investment banking, aglobal position that he will take on alongside his existingregional responsibilities, according to a memo issued by...",
+      "published_utc": "2025-07-02T06:23:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=56d3e962ce931fadd3eca91081934afcc471540ffa548e7bcfc59caf11afc071",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135701414,
+      "datetime": 1751408588
+    },
+    {
+      "title": "Big Banks Raise Dividends, Boost Buybacks After Less-Stressful Stress Test",
+      "description": "It’s a sign that some of the world’s most systemically important lenders are sitting on more than enough capital.",
+      "published_utc": "2025-07-02T06:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb7ba3a51cf4fb6402ad4a128bd3862a0fa35e7f43825bc8c23a11741cb1a5c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699833,
+      "datetime": 1751407260
+    },
+    {
+      "title": "Bank stocks surge ahead of increased shareholder payouts",
+      "description": "Investing.com -- Bank stocks surged higher Tuesday with a number of big names hitting 52-week highs on expectations that raised dividends and buybacks announcements will be forthcoming following the Fed’s latest bank stress test results.",
+      "published_utc": "2025-07-02T05:00:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a25b3fad27c583b5a4c41afe3d7426309dc92a899260bb3dd6e94edcbe1839ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699820,
+      "datetime": 1751403621
+    },
+    {
+      "title": "Correction to Goldman Sachs to Raise Dividend Article",
+      "description": "Goldman Sachs's new dividend, on an annualized basis, is equal to $16 a share and represents a yield of 2.3% based on Tuesday's closing price of $706.46. Goldman Sachs to Raise Dividend by 33%, at...",
+      "published_utc": "2025-07-02T04:10:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=292a69999f87fe70c17c42ee669dec7ddcaca5eb70e68531661cfd6ca3e0c11c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135700020,
+      "datetime": 1751400608
+    }
+  ]
+}

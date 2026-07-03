@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "2 Top Buffett Stocks to Buy and Hold for the Long Haul",
+      "description": "Few investors manage to become a household name, but Warren Buffett is one of them.  Tons of investors look to Berkshire Hathaway's portfolio and investing moves to get an idea of moves they should make.  If you're seeking out a couple of Buffett stocks to add to your portfolio, look no further than the following two.",
+      "published_utc": "2025-04-20T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7764fab3dd9f8619105b0579e29162de0ff195a9664c46897c603bc8b2245571",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134016162,
+      "datetime": 1745158500
+    },
+    {
+      "title": "Invest In 6 Funds For A Potential $5,000 Monthly Income",
+      "description": "",
+      "published_utc": "2025-04-20T17:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19d78225aaa1a3a8abc48990b856c01e944b0efbb03b9d6b9bc1bc40bef81d64",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133978193,
+      "datetime": 1745141400
+    }
+  ]
+}

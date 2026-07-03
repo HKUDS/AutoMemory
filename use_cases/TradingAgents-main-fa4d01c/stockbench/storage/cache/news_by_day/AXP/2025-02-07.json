@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Weekly Option Windfall: Trading AXP Options Following Q4 Earnings Beat",
+      "description": "One of Warren Buffett's long-held positions, American Express just delivered its fourth consecutive earnings beat.",
+      "published_utc": "2025-02-07T04:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d2942eeac6672957d3189e7b125c7799e93efbdddef55a06f8354946cdff4a4",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/c6c1c3149db795d75ce670ec5d90c6d2",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604972,
+      "datetime": 1738872600
+    },
+    {
+      "title": "MarketAxess Q4 Earnings Beat on Strong Emerging Markets Volumes",
+      "description": "MKTX's fourth-quarter results reflect solid trading volumes in Eurobonds and emerging markets, driving commission revenues. Elevated marketing and advertising expenses partially offset the results.",
+      "published_utc": "2025-02-07T02:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e25c4cb3dc405ad6ed7e830a18ee8b9bd5b366bf03bb758cf7c3faa4d8740910",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/5e3463114a5e85713272fa6b2be1c546",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604974,
+      "datetime": 1738867080
+    },
+    {
+      "title": "Jim Cramer: Buy American Express (AXP) on Travel Strength",
+      "description": "We recently published a list of Jim Cramer Discusses These 10 Stocks & President Trump’s Tariffs. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other stocks that Jim Cramer discusses with insights on President Trump’s tariffs. In a fresh appearance on CNBC’s Squawk on the […]",
+      "published_utc": "2025-02-07T01:50:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bcced0b18dc19cea43a90afdf825198181300572695a72dbb013aea9f87b594",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fTraY96se0UtN7GF9x5Fsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a44e70b22da11d3cbca7b31155886c1a",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604977,
+      "datetime": 1738864232
+    }
+  ]
+}

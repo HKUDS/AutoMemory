@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Google Wants To Hit Net Zero By 2030 — So It Signed A Massive Deal With A Bill Gates-Backed Startup That's Still Years Away From Making Energy",
+      "description": "Google has signed a groundbreaking agreement with Commonwealth Fusion Systems, a nuclear startup backed by Bill Gates, in one of the first commercial deals for fusion energy. The tech giant plans to purchase 200 megawatts of power from CFS's upcoming affordable, robust, and compact fusion plant in Chesterfield County, Virginia, enough to supply roughly 75,000 homes, The Wall Street Journal reports. According to the Journal, this deal represents a defining moment for the fusion energy sector. Fus",
+      "published_utc": "2025-07-07T23:46:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28cf0a4d42b955beeb68ad9b55d4f4d16210a3d04526f2f30966401872c22d79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787559,
+      "datetime": 1751903186
+    },
+    {
+      "title": "Who could win and lose on tighter Trump AI controls? UBS weighs in",
+      "description": "Investing.com -- UBS analysts warn that the reported new U.S. export restrictions on AI chips to Malaysia and Thailand could create turbulence for tech investors, as the Trump administration aims to block China’s indirect access to high-performance semiconductors.",
+      "published_utc": "2025-07-07T21:51:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9725a07c58d9565c872bc9b9df77ad9ac43d7d77fc160f6677155920b71abcb7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787560,
+      "datetime": 1751896284
+    },
+    {
+      "title": "Microsoft announces public preview of deep research in Azure AI foundry",
+      "description": "Microsoft Corp:* Microsoft: announces public preview of deep research in Azure AI foundry - blog...",
+      "published_utc": "2025-07-07T21:33:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=68644dcd2eee8e0f284cd9e3902912e583256445f1f4d403e1d09dd235d74acc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787461,
+      "datetime": 1751895194
+    },
+    {
+      "title": "Why Microsoft (MSFT) is a Top Stock for the Long-Term",
+      "description": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Focus List.",
+      "published_utc": "2025-07-07T21:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea3f5ffee57a4910f5ce1f194106d08510647391c90f8ff71a6dc1f57ff9895f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787561,
+      "datetime": 1751895002
+    },
+    {
+      "title": "Company News for Jul 7, 2025",
+      "description": "Companies in The News Are: SNPS, DDOG, MSFT, TRIP",
+      "published_utc": "2025-07-07T21:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae494183a17b8fd8b9161f22a55831f84c30084432ca771d9796c5dce777d5f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787562,
+      "datetime": 1751894580
+    }
+  ]
+}

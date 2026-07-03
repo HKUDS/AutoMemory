@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Visa (V) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "In the latest trading session, Visa (V) closed at $344.95, marking a +0.31% move from the previous day.",
+      "published_utc": "2025-03-26T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=719348dc8a2b8393b73780e2184c4a7ac6b4999832a60aadf52ccd045c567026",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444841,
+      "datetime": 1742939116
+    },
+    {
+      "title": "Tracking Chris Hohn's TCI Fund Management 13F Portfolio - Q4 2024 Update",
+      "description": "Read here for key insights from TCI Fund Management's 13F portfolio, including top holdings, stake changes in MSFT and GE, and key investments.",
+      "published_utc": "2025-03-25T09:41:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=12238d27c8271af5c7de95d6eebbd074ee535e9ea8e4d4f1cbabd9544cc1ad93",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/629073396/image_629073396.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133361971,
+      "datetime": 1742866882
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:17.389408+00:00",
+    "cache_key": "news_1f66ae5b886495126d0deda907cb2d7b",
+    "count": 2
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Stock market racing to price in a 'lost year' for corporate profits",
+      "description": "The profit outlook for businesses has dimmed considerably post Trump tariff news.",
+      "published_utc": "2025-04-07T22:53:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d2596a37eb98553056ed8381bf4f7b874f5000b1ee003ac78d618f3d068b3d6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741029,
+      "datetime": 1744037639
+    },
+    {
+      "title": "One chart shows how much optimism has been wiped out of the 'Magnificent 7' because of Trump tariffs",
+      "description": "It hasn't been pretty for the \"Magnificent Seven.\"",
+      "published_utc": "2025-04-07T22:03:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b45cbaca9d2fe7970a5f9f11035a2e0b6947995a97a04be06d12dec6369b6825",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741020,
+      "datetime": 1744034585
+    },
+    {
+      "title": "'Magnificent 7' stocks continue getting hammered as Trump tariffs drag markets lower",
+      "description": "The Magnificent Seven tech stocks continued their sell-off Monday as the Trump administration’s global tariff plan rocked markets.",
+      "published_utc": "2025-04-07T21:39:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a75618165797c0aa97bd3b91179449e4785ad65181c49a8ea8334bd85b285f7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741023,
+      "datetime": 1744033160
+    }
+  ]
+}

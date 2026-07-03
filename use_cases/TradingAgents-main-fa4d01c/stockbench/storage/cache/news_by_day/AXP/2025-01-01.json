@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The 5 best performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "From artificial intelligence to retail, these Dow stocks delivered the biggest gains in 2024.",
+      "published_utc": "2025-01-01T21:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=487a03abb7224c7bee2055d5524b55f2f0d0ee9e856b2d6bf6b7348de19b8776",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132227359,
+      "datetime": 1735736580
+    },
+    {
+      "title": "These Are The 5 Best Dow Jones Stocks Of 2024",
+      "description": "Led by Nvidia and Walmart, the best Dow Jones stocks have far outpaced the index's overall 13% gain.",
+      "published_utc": "2025-01-01T03:45:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6d5923db315fa611f11436c7a391f72ca2401b85099e2650235b632c939dc0f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132218396,
+      "datetime": 1735674321
+    }
+  ]
+}

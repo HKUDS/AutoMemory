@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Was Jim Cramer Right About Salesforce, Inc. (CRM)?",
+      "description": "We recently published a list of 13 Stock Predictions That Jim Cramer Got Completely Wrong. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stocks that Jim Cramer discusses. During a recent episode of Mad Money, which aired on Monday, the 5th of May, Jim Cramer gave some […]",
+      "published_utc": "2025-05-10T20:55:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=acd79766357d6ebf063d8fc47c7876d42a15a94daf54cf989ad5ecb5db691ef9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379291,
+      "datetime": 1746881753
+    },
+    {
+      "title": "Salesforce's AI-Driven Comeback: A Buying Opportunity After the Tariff-Induced Sell?Off",
+      "description": "With Agentforce traction, margin expansion and a fortress balance sheet, Salesforce looks poised for renewed growth despite macro headwinds",
+      "published_utc": "2025-05-10T18:18:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51480e511b509024768ad15765ef5e8029ac605294212a0cc00ba2d85d2200db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379292,
+      "datetime": 1746872289
+    },
+    {
+      "title": "30 AI stocks that could surge up to 73% — and are loved by a bullish tech analyst",
+      "description": "30 AI stocks that could surge up to 73% — and are loved by a bullish tech analyst",
+      "published_utc": "2025-05-10T16:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d3b045daf208ae45c5e03ff89465e64d81e7aef1125bcb88e36d490b59d68c8a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134382270,
+      "datetime": 1746865800
+    }
+  ]
+}

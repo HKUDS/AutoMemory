@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow up nearly 150 points on gains in shares of JPMorgan Chase, American Express",
+      "description": "Dow up nearly 150 points on gains in shares of JPMorgan Chase, American Express",
+      "published_utc": "2025-06-18T19:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=46708006bfc5b7381c6e8ae7c33aacdcf8206f24f3eb6d9b4e908258b30000c0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135388974,
+      "datetime": 1750247880
+    },
+    {
+      "title": "JPMorgan Chase, American Express share gains contribute to Dow's nearly 275-point climb",
+      "description": "JPMorgan Chase, American Express share gains contribute to Dow's nearly 275-point climb",
+      "published_utc": "2025-06-18T18:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=64f8681056ebe1c21bbf8be639df5b50268d0e31fcc9b67eb3ce782ab99661e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135388672,
+      "datetime": 1750244220
+    },
+    {
+      "title": "Dow rallies 113 points on gains for JPMorgan Chase, Goldman Sachs shares",
+      "description": "Dow rallies 113 points on gains for JPMorgan Chase, Goldman Sachs shares",
+      "published_utc": "2025-06-18T17:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7c7e6df5cb053f7bcc352cdba5c8a56707b9f1b6b9da757fdf05edd38d5b7c58",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135355837,
+      "datetime": 1750240560
+    }
+  ]
+}

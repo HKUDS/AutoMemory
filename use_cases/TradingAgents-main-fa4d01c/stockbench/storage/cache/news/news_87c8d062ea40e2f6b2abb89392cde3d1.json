@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Franklin Rising Dividends Fund Q1 2025 Commentary",
+      "description": "Over the quarter, Franklin Rising Dividends Fund was more resilient than its benchmark, the S&P 500 Index. Read more here.",
+      "published_utc": "2025-05-01T07:27:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26941f83084757ed624985370f3fd39d40943f91642b1ebf6fc6e3c4526f1c0d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316707586/image_1316707586.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165430,
+      "datetime": 1746055620
+    },
+    {
+      "title": "Mexico Economy Narrowly Dodges Recession Amid US Trade Chaos",
+      "description": "(Bloomberg) -- Mexico’s economy expanded slightly in the first quarter on a jump in agricultural output, allowing President Claudia Sheinbaum to avoid recession as she steers the nation through an unpredictable US tariff policy. Most Read from BloombergNJ Transit Urges Commuters to Work Remotely If Union StrikesNYC Lost $9 Billion of Income to Miami, Palm Beach in Five YearsNew York City Transit System Chips Away at Subway Fare EvasionNYC’s Congestion Toll Raised $159 Million in the First Quarte",
+      "published_utc": "2025-05-01T04:05:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32f4c5fbc9b0b149b97583ca41b1e4b24a5e54e3690f1c14798994c5784eea71",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165864,
+      "datetime": 1746043525
+    },
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the […]",
+      "published_utc": "2025-05-01T02:27:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a318cd91d582291c26a7c071d425d9cb30c71b87b214b631996117278708302e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165865,
+      "datetime": 1746037670
+    },
+    {
+      "title": "Visa CEO on economic slowdown, new stablecoin deal, and AI agents that shop for you",
+      "description": "Visa CEO Ryan McInerney shares his perspective on more cautious consumers, a new stablecoin deal, and efforts to support AI agent shopping.",
+      "published_utc": "2025-05-01T02:15:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=251e0247f547651ddfeb2b01b84e304e89317cac50e5f1e5d01c41baaf4dc1c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165866,
+      "datetime": 1746036918
+    },
+    {
+      "title": "51-Year-Old Making $4,970 a Month In Dividends Shares His Top 6 Stocks, Aims To 'Create Generational Wealth For Kids And Their Families'",
+      "description": "Dividend stocks are gaining ground as investors scramble to safeguard their portfolios amid the ongoing US-China trade war. Jared Hoff, a senior portfolio manager at Federated Hermes, said while talking to The Wall Street Journal that dividend stocks are seeing a surge in demand, reversing the trend of the past couple of years when demand for risk-averse investments was low. Don't Miss: ‘Scrolling To UBI' — Deloitte's #1 fastest-growing software company allows users to earn money on their phones",
+      "published_utc": "2025-05-01T01:15:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eee86821ae52ce2aec7190370b4a65d9d95337d356e8e836a8669b268bd05ca0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165867,
+      "datetime": 1746033322
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:22.058165+00:00",
+    "cache_key": "news_87c8d062ea40e2f6b2abb89392cde3d1",
+    "count": 5
+  }
+}

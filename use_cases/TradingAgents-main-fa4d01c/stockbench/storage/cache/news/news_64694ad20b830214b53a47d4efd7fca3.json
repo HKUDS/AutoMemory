@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Rises Higher Than Market: Key Facts",
+      "description": "In the closing of the recent trading day, IBM (IBM) stood at $294.78, denoting a +1.75% move from the preceding trading day.",
+      "published_utc": "2025-07-01T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72f169984efe725ab721e964556cde9f3f8f137364939671c7a141f86f29deaf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135679313,
+      "datetime": 1751319905
+    },
+    {
+      "title": "These 5 Stocks Will Replace Your Job",
+      "description": "Back in 1999, when I enlisted in the Marine Corps, my base pay started at less than $1,000 a month. Even after four years and a promotion to corporal, I was making just over $1,300 living paycheck to paycheck. In total, my entire enlistment earned me less than $55,000. Fast forward to today, and I […]",
+      "published_utc": "2025-07-01T00:22:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d25022ea41cc5ff4a04650dbd8cf9c46dd753324a4c959a2b077d40856a6cbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671147,
+      "datetime": 1751300555
+    },
+    {
+      "title": "Blockchain Technology Market to USD 687.4Billion by 2032, owing to enterprise digital transformation | SNS Insider",
+      "description": "Accelerated enterprise adoption and integration across sectorsPune, June 30, 2025 (GLOBE NEWSWIRE) -- “The SNS Insider report indicates Blockchain Technology Market size was valued at USD 19.2 billion in 2023 and estimated at USD 687.4 billion in 2032, growing at a CAGR of 48.84% from 2024 to 2032.” The U.S. Blockchain Technology Market was valued at USD 5.6 billion in 2023 and is projected to reach USD 199.3 billion by 2032, growing at a CAGR of 48.68 % during 2024–2032. Enterprise adoption, Fi",
+      "published_utc": "2025-06-30T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96c0d0023ad831cfbbf03a1868e415ffe552b13370671fdcd27c15f179ce3c43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671177,
+      "datetime": 1751292000
+    },
+    {
+      "title": "Profound Logic Wins AI Breakthrough Award For “Low Code AI Solution of the Year”",
+      "description": "Prestigious International Annual Awards Program Honors Standout AI Companies & SolutionsLOS ANGELES, June 30, 2025 (GLOBE NEWSWIRE) -- AI Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global Artificial Intelligence (AI) market, today announced that Profound Logic, a leader in IBM i futurization, has been selected as winner of the “Low Code AI Solution of the Year” in the 8th annual AI Breakthrough Awards program. The",
+      "published_utc": "2025-06-30T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5567018fbc0ceb96690d3ebbb8cbb12c9053f4893909e3bff60e922578fbb4eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671508,
+      "datetime": 1751284800
+    },
+    {
+      "title": "Behind IBM’s Boldest Bet: The Quantum Test Lab",
+      "description": "IBM wants to redefine the future of computing. And inside this ultra-cold, high-tech lab, it’s betting everything on a technology that doesn’t just push the limits of physics—it rewrites them. Welcome to IBM’s Quantum Lab: where the world’s oldest tech company is making its boldest bet yet.",
+      "published_utc": "2025-06-30T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccbbc19cd9b2bd94d46b2e818fbbe88a068c1ac23b41d8165355df8a46f5475d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671507,
+      "datetime": 1751284800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:38.294841+00:00",
+    "cache_key": "news_64694ad20b830214b53a47d4efd7fca3",
+    "count": 5
+  }
+}

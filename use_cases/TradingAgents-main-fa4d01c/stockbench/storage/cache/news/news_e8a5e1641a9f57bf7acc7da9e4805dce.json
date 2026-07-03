@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "title": "Adobe, DICK's Sporting Goods, Dollar General To Report Results As Investors Look To Inflation Report",
+      "description": "This week's earnings include retailers like Dickâs Sporting Goods, Dollar General, and Kohlâs. Investors will look for Feb. CPI reading that is due Wednesday. See more.",
+      "published_utc": "2025-03-08T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f4b619d2cf93924be55eec7d9a738fb12b105973012d993b08df63400d06dd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133107059,
+      "datetime": 1741431600
+    },
+    {
+      "title": "Why And How To Plan For A Potential $2 Million Retirement",
+      "description": "$1 million may no longer be sufficient for folks in their late 40s or early 50s who are 15 years away from retirement. See here for easy-to-implement strategies.",
+      "published_utc": "2025-03-08T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe3268fcc31c44959b1441a991acedae06b7766c62d0a4e0d4fa57e4450f8133",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1497523107/image_1497523107.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133106436,
+      "datetime": 1741421700
+    },
+    {
+      "title": "Box: Solid Fundamentals, But Valuation Leaves No Room For Error",
+      "description": "Boxâs solid growth and operational efficiency make it a key player, but its valuation is too high. Read why BOX stock remains a hold due to competitive pressures.",
+      "published_utc": "2025-03-08T15:59:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f66b213c9897ab2df8a47c3a1ab12c40ea7c77ab4d85bd9fec8df07d31ac0646",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96502230/image_96502230.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133106375,
+      "datetime": 1741420755
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 9",
+      "description": "Read here for weekly updates on Dividend Champions, Contenders, and Challengers. Track dividend changes, ex-dividend dates, and upcoming pay dates.",
+      "published_utc": "2025-03-08T08:36:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0c88e6b6649340df865b9b0c9db5ae959268a73935092926aa354a8a048ef754",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133102197,
+      "datetime": 1741394217
+    },
+    {
+      "id": "9a87bfdb2f9026e435e05faac0d600509af6f057f35cfeec5031f7a5c326a6ae",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Despite Soaring Revenue, IonQ Shares Tumbled. Is This an Opportunity to Buy the Stock on the Dip?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-08T14:49:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/despite-soaring-revenue-ionq-shares-tumbled-is-thi/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809706/gettyimages-1648617109.jpg",
+      "description": "IonQ, a quantum computing company, saw its stock price drop despite a surge in revenue. The article discusses the company's recent financial results and outlook, and suggests that the stock may be too speculative for most investors at this stage.",
+      "keywords": [
+        "IonQ",
+        "quantum computing",
+        "revenue",
+        "stock price"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on IonQ, acknowledging the company's strong revenue growth but also its significant losses and cash burn. The author suggests that the stock is too speculative for most investors at this stage, given the early nature of quantum computing and the uncertainty around its commercial viability."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on IonQ, acknowledging the company's strong revenue growth but also its significant losses and cash burn. The author suggests that the stock is too speculative for most investors at this stage, given the early nature of quantum computing and the uncertainty around its commercial viability."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's (Google's parent company) breakthrough with its quantum computing chip, Willow, which is seen as a significant achievement in the industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's (Google's parent company) breakthrough with its quantum computing chip, Willow, which is seen as a significant achievement in the industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that IonQ offers access to its quantum computing solutions through Amazon's AWS Braket, indicating a business relationship between the two companies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that IonQ offers access to its quantum computing solutions through Microsoft's Azure Quantum, indicating a business relationship between the two companies."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:44.417822+00:00",
+    "cache_key": "news_e8a5e1641a9f57bf7acc7da9e4805dce",
+    "count": 5
+  }
+}

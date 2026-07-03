@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Is Johnson & Johnson (JNJ) the Best Income Stock to Invest in Now?",
+      "description": "We recently published a list of the Best Income Stocks to Invest in Now. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best income stocks. Amid concerns over trade restrictions and a weakening economy, some investors are seeking stability in dividend-paying stocks—a traditional defensive […]",
+      "published_utc": "2025-05-10T16:09:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b5797c8793152d55cdea850c739e1dadf98c4c9d3260a733b61c0dee67975e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379272,
+      "datetime": 1746864541
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:53.823473+00:00",
+    "cache_key": "news_67cee41a05db197036cac495784c3be1",
+    "count": 1
+  }
+}

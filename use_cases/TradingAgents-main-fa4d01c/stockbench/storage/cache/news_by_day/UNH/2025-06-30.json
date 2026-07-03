@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group Incorporated(NYSE: UNH) dropped from Russell 1000 Growth-Defensive Index",
+      "description": "UnitedHealth Group Incorporated dropped from Russell 1000 Growth-Defensive Index...",
+      "published_utc": "2025-06-30T05:17:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=240d41ff8a73459ceae1c482b11204c1b6b8097316fba850e227a20d9294befc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135634274,
+      "datetime": 1751231827
+    }
+  ]
+}

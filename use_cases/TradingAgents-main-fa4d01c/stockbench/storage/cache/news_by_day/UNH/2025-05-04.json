@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth’s Stock Is Ailing. A Bigger Business Hasn’t Helped.",
+      "description": "UnitedHealth has shed almost $200 billion in market value over the last five months. More customers and more business lines were supposed to help the stock.",
+      "published_utc": "2025-05-04T12:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6518aff86e9fe882bf9e40a33ef34647960e869402dc8427bd86bc6308ec958",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246892,
+      "datetime": 1746331500
+    }
+  ]
+}

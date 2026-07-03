@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Possible Bearish Signals With Amgen Insiders Disposing Stock",
+      "description": "Many Amgen Inc. ( NASDAQ:AMGN ) insiders ditched their stock over the past year, which may be of interest to the...",
+      "published_utc": "2025-05-28T20:00:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bc4e201b83a39af16da83375fee5279a105bf482bf7520f7151dd9b0bd710a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134742095,
+      "datetime": 1748433628
+    }
+  ]
+}

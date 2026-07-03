@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "title": "Boeing (BA) Jumps 5.9% on Spirit Merger Progress",
+      "description": "Boeing Company (NYSE:BA) is one of the 10 Stocks Leave Wall Street Stunned. The Boeing Company grew its share prices by 5.91 percent on Friday to close at $214.55 apiece following news that its plan to acquire its former subsidiary, Spirit Aerosystems, is now progressing to secure regulatory approvals. This followed the UK Competition and Markets […]",
+      "published_utc": "2025-06-28T22:25:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bab536a0b89a36feb29135849030eabfe47547bbb06288d28b0afbb73f43b724",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609654,
+      "datetime": 1751120732
+    },
+    {
+      "title": "Nike, Boeing and Alphabet upgraded: Wall Street’s top analyst calls",
+      "description": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today’s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: HSBC upgraded Nike (NKE) to Buy from Hold with a price target of $80, up from $60, following the fiscal Q4 report. There is now “more than tangible evidence” that Nike has a path to see its sales rebound in the “not-too-distant future,” the analyst tells investors in a research note. Rothschild & Co Re",
+      "published_utc": "2025-06-28T22:01:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed2043f291e2bedff5d1232c22e314fcdbbe35f5b982aef6e40fe1c7e1bba984",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609655,
+      "datetime": 1751119271
+    },
+    {
+      "title": "NCV: Appealing Discount But Weak Track Record To Peers",
+      "description": "",
+      "published_utc": "2025-06-28T16:55:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3aac797c49848c3bd9e9979f2fda0ad5918b0024e7fd6ae2fdb08d1bbc7399c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609348,
+      "datetime": 1751100923
+    },
+    {
+      "id": "06372b345510f82796aa657bacc7549c06d52c5b9a5cd49a90501cc659c07238",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of The Boeing Company - BA",
+      "author": "Pomerantz Llp",
+      "published_utc": "2025-06-28T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/28/3106946/1087/en/INVESTOR-ALERT-Pomerantz-Law-Firm-Investigates-Claims-On-Behalf-of-Investors-of-The-Boeing-Company-BA.html",
+      "tickers": [
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2025/06/28/3106946/1087/en/INVESTOR-ALERT-Pomerantz-Law-Firm-Investigates-Claims-On-Behalf-of-Investors-of-The-Boeing-Company-BA.html",
+      "description": "A Boeing 787 Dreamliner operated by Air India crashed in Ahmedabad, India on June 12, 2025, causing Boeing's stock to drop 6.39% over the next two trading sessions.",
+      "keywords": [
+        "Boeing",
+        "aircraft crash",
+        "investor alert",
+        "securities fraud"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock price dropped 6.39% following a fatal aircraft crash, with potential legal investigation into possible securities fraud or corporate misconduct"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock price dropped 6.39% following a fatal aircraft crash, with potential legal investigation into possible securities fraud or corporate misconduct"
+        }
+      ]
+    }
+  ]
+}

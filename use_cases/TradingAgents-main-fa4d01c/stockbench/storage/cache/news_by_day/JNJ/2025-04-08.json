@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Transcript : Johnson & Johnson Presents at BofA Securities 2025 Healthcare Conference, May-13-2025 10",
+      "description": "Presenter SpeechTimothy Anderson Okay. I think we're live. Thank you for joining us. And sorry for the few-minute delay. I'm Tim Anderson, a large-cap and U.S. pharma analyst and biotech analyst at...",
+      "published_utc": "2025-04-08T00:25:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=79256d9ae0ccbcbd148c6495a126b7d5a6a92673e724a8114f281398a9a475e2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134406219,
+      "datetime": 1744043100
+    }
+  ]
+}

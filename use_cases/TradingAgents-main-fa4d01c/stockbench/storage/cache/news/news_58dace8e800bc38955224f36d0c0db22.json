@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Hartford Growth Opportunities Fund Q1 2025 Commentary",
+      "description": "The Hartford Growth Opportunities Fund (I Share) underperformed the Russell 3000 Growth Index during the quarter. Read more here.",
+      "published_utc": "2025-05-08T06:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b44bd256d23b79f849fd26897a02f4ddcc1e3a0037f6e7edba09e100f587ddc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2054524126/image_2054524126.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134314054,
+      "datetime": 1746658320
+    },
+    {
+      "title": "Is Visa Inc. (V) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of the […]",
+      "published_utc": "2025-05-08T02:54:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a14e70d669eef999227251f4067ed6a8489eebc4cc0115ad4fb0e12f3884bbf7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316670,
+      "datetime": 1746644050
+    },
+    {
+      "title": "Visa (NYSE:V) Collaborates With Webull For Rapid Fund Transfers Via Visa Direct",
+      "description": "Visa (NYSE:V) recently announced a collaboration with Webull to integrate Visa Direct on their platform, aiming to facilitate faster financial transactions. This news comes amidst Visa's reported 11% price increase over the past month, a notable movement in conjunction with the company's other strategic announcements, such as its robust share buyback program and a new partnership with Rain for stablecoin settlements. While the market waited on the Fed's interest rate decision, Visa's price...",
+      "published_utc": "2025-05-08T02:12:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50734fa18af47b7e5ad69b7c3231aec1d93d44f2b3051f001569ef7bf0f3b0ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316671,
+      "datetime": 1746641545
+    },
+    {
+      "title": "Visa's Strong Q2 Payments & Cross-Border Volumes: How to Play V Now",
+      "description": "Through strategic diversification, innovation and resilient consumer spending, V is well-positioned for long-term growth.",
+      "published_utc": "2025-05-07T22:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b40f8590848a4424ba40b41054bc790a619c2b18744e0b8007a8cd1e2e305aec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316672,
+      "datetime": 1746629040
+    },
+    {
+      "title": "Surge In Stock Buybacks On Stretched Valuations A Sign Of Hubris",
+      "description": "Discover why the S&P 500's optimism might be misplaced as U.S. macroeconomic fundamentals and SPX valuations flash warning signs.",
+      "published_utc": "2025-05-07T21:28:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3c1584e74f7a25491730e3e914489bc6069ac55a6f9ca84742ff916df0adc1d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/465491983/image_465491983.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134297379,
+      "datetime": 1746624530
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:50.539335+00:00",
+    "cache_key": "news_58dace8e800bc38955224f36d0c0db22",
+    "count": 5
+  }
+}

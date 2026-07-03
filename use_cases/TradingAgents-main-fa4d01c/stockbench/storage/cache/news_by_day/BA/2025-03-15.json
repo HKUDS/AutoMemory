@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "1d38b9a46136f17108f2577f6757a73ff9b71290e62dc3ec9eb2d4338bb31aac",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Air Force Asked L3Harris: Can You Build Us a Fighter Plane for Less Than $50 Million?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-15T14:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/15/the-air-force-asked-l3harris-can-you-build-us-a-fi/?source=iedfolrf0000001",
+      "tickers": [
+        "LHX",
+        "LMT",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810413/l3harris-skyraider-in-the-air.jpg",
+      "description": "The U.S. Air Force awarded L3Harris a $3 billion contract to deliver 75 modified Air Tractor AT-802U Sky Warden turboprop aircraft, which will cost less than $50 million per plane. The new 'Skyraider II' planes are designed for close air support and reconnaissance missions, and have attracted interest from over 20 potential overseas buyers.",
+      "keywords": [
+        "L3Harris",
+        "fighter plane",
+        "Air Force",
+        "Skyraider II",
+        "Air Tractor AT-802U",
+        "SOCOM"
+      ],
+      "insights": [
+        {
+          "ticker": "LHX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "L3Harris won a $3 billion contract from the U.S. Air Force to deliver 75 modified turboprop aircraft, which are expected to cost less than $50 million per plane. The new 'Skyraider II' planes have also attracted interest from over 20 potential overseas buyers, indicating a potential expansion opportunity for L3Harris."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Lockheed Martin as a major defense contractor that builds fighter planes, but does not provide any specific information about the company's involvement in the Skyraider II program."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Boeing as a major defense contractor that builds fighter planes, but does not provide any specific information about the company's involvement in the Skyraider II program."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Boeing as a major defense contractor that builds fighter planes, but does not provide any specific information about the company's involvement in the Skyraider II program."
+        }
+      ]
+    },
+    {
+      "title": "Jim Cramer On The Boeing Company (BA) – “Planes Will Get More Expensive – How Would Boeing Handle It? I Have No Idea”",
+      "description": "We recently published a list of What Did Jim Cramer Say About These 19 Stocks Recently? In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other stocks that Jim Cramer discussed recently. Jim Cramer kicked off his latest episode of Mad Money by highlighting the wild […]",
+      "published_utc": "2025-03-15T10:29:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2f71bb5611fb013ab98b2ad4edd4c89c5fc7c57745a7cfa9ec867979527b720",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185693,
+      "datetime": 1742005779
+    }
+  ]
+}

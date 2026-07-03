@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Meme Stock Euphoria Spreads as Retail Traders Pick New Wagers",
+      "description": "(Bloomberg) -- Meme stock mania is spreading to a growing number of speculative stocks, underscoring the appetite among retail traders for riskier bets with the market at all-time highs. Most Read from BloombergTrump Awards $1.26 Billion Contract to Build Biggest Immigrant Detention Center in USWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionThe High Costs of Trump’s ‘Big Beautiful’ New Car Loan DeductionSalt Lake City Turns Winter Olympic Bid Into Statewide Bond BoomMilan Corrup",
+      "published_utc": "2025-07-24T04:33:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2a75c89c38a150cc2e660723fa106a675834ee33ccc7c70eeb247d8d1424b66",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062234,
+      "datetime": 1753302829
+    },
+    {
+      "title": "Goldman and BNY Team Up to Tokenize Money-Market Funds",
+      "description": "The banking giants join a growing list of traditional financial firms seeking to bring crypto technology to assets ranging from stocks and investment funds to commodities.",
+      "published_utc": "2025-07-24T03:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=409a4e1c7da2999189ac593e1e10d60252417fb223fdc7e770b9aaed1ad5a9a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062235,
+      "datetime": 1753299420
+    },
+    {
+      "title": "'You'd Have to Be Very Skilled to Have A Job': AI Godfather Geoffrey Hinton Predicts Healthcare Will Survive AI Disruption",
+      "description": "\"You'd have to be very skilled to have a job,\" said AI godfather Geoffrey Hinton, warning that automation could erase much of today's intellectual labor. As generative AI floods workplaces, Hinton's comments highlight growing uncertainty about the future of work. Speaking on \"The Diary of a CEO\" podcast, Hinton argued that automation will swallow \"mundane intellectual labor\" yet spare medicine, where demand seems bottomless. The bold claim invites a pressing question: Can health care outrun algo",
+      "published_utc": "2025-07-24T00:57:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84e04528af592426d882e84c807e81827c1a5cbbfedd500c0dcafb49eadb3b8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062236,
+      "datetime": 1753289876
+    },
+    {
+      "title": "Goldman Sachs Group Inc. stock outperforms competitors on strong trading day",
+      "description": "Goldman Sachs Group Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-24T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a02a1ca268bbafa1f00cc57854439bd9d6ac846edec7656d5832de44086a7849",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136110733,
+      "datetime": 1753288440
+    },
+    {
+      "title": "Goldman Sachs & Bank of New York Mellon, Lucid, Galaxy Digital",
+      "description": "Goldman Sachs (GS) and BNY Mellon (BK) are launching tokenized money market funds, with ownership tracked on Goldman's blockchain. Lucid (LCID) is teaming up with North American critical mineral producers to secure electric vehicle (EV) battery components and reduce reliance on imports. Jefferies initiated coverage on Galaxy Digital (GLXY) with a Buy rating and $35 price target, citing its pivot to artificial intelligence (AI)–powered data centers. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts here.",
+      "published_utc": "2025-07-24T00:05:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f519669905b865290e64689b9caf74a410fb4c652c9a75009e8104ea150cb2e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062237,
+      "datetime": 1753286739
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:11:08.853742+00:00",
+    "cache_key": "news_a5ff2e9f7d75fbcf769347b09ba10628",
+    "count": 5
+  }
+}

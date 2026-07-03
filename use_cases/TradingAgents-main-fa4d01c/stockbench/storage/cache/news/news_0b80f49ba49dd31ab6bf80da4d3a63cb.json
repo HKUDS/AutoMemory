@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "American Express, Amazon.com Inc. share losses lead Dow's 150-point drop",
+      "description": "American Express, Amazon.com Inc. share losses lead Dow's 150-point drop",
+      "published_utc": "2025-05-20T23:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=815da64bea28ae485c4d60d4cdd7962b52cd49c3afea0696bacc1f4037f4da67",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632386,
+      "datetime": 1747756380
+    },
+    {
+      "title": "Dow's 260-point fall led by losses in NVIDIA Corp., Apple shares",
+      "description": "Dow's 260-point fall led by losses in NVIDIA Corp., Apple shares",
+      "published_utc": "2025-05-20T22:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=41d5fa82be44a3a972b82445727244b7edd359732e8bb9b96baaff88aba981ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632306,
+      "datetime": 1747751340
+    },
+    {
+      "title": "NVIDIA Corp., American Express share losses lead Dow's 135-point drop",
+      "description": "NVIDIA Corp., American Express share losses lead Dow's 135-point drop",
+      "published_utc": "2025-05-20T17:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bd03d26f1affc1921eb0da13359ddbc0011973141e2b3f1b113528ffeaf29387",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134611689,
+      "datetime": 1747734600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:55.386800+00:00",
+    "cache_key": "news_0b80f49ba49dd31ab6bf80da4d3a63cb",
+    "count": 3
+  }
+}

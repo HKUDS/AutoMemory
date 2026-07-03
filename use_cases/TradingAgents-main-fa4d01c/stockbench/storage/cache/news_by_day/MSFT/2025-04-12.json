@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Mark Zuckerberg's empire at stake as Meta prepares to battle Trump's antitrust cops in court",
+      "description": "Meta is preparing for the start of a courtroom battle Monday with the US government in an antitrust case that could force Mark Zuckerberg to break up his $1.3 trillion empire and sell one of its crown jewels: Instagram.",
+      "published_utc": "2025-04-12T22:00:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55f2d5976866b96d1bd1a65933e4714cb3f4b0134d7b61549dd1178b47bc1edf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895788,
+      "datetime": 1744466419
+    },
+    {
+      "title": "Tariff confusion leaves tech shoppers questioning if they should buy now or risk waiting",
+      "description": "Trump's trade war leaves consumers wondering whether they should buy now or later.",
+      "published_utc": "2025-04-12T21:00:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8927c8b14aa2fbd9d193903f73ad1142edec704df9eec614cdfca80861980a78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895789,
+      "datetime": 1744462852
+    }
+  ]
+}

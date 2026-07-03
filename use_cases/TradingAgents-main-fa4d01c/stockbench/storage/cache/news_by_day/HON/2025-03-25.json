@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Rises But Trails Market: What Investors Should Know",
+      "description": "The latest trading day saw Honeywell International Inc. (HON) settling at $211.85, representing a +0.82% change from its previous close.",
+      "published_utc": "2025-03-25T06:15:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b6fdd3ecfe61c40db17f4674ff5aa5133b1d9f0b4d6cd8875a0742369f794c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360441,
+      "datetime": 1742854511
+    }
+  ]
+}

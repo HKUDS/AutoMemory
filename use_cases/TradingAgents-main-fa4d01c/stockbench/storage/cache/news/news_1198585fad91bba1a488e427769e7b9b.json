@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Research Reports for Visa, AstraZeneca & Shell",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Visa Inc. (V), AstraZeneca PLC (AZN) and Shell plc (SHEL), as well as two micro-cap stocks Ocean Power Technologies, Inc. (OPTT) and Wheeler Real Estate Investment Trust, Inc. (WHLR).",
+      "published_utc": "2025-05-21T04:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15d10cbbff1e7714621ddadba290cf0b239e1be2b31c38b76d05efaf43755d25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628144,
+      "datetime": 1747774440
+    },
+    {
+      "title": "Jim Cramer Thinks “Visa (V)’s Sensational”",
+      "description": "We recently published a list of Jim Cramer Put These 12 Stocks Under the Spotlight. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other stocks that Jim Cramer discussed. On Friday’s episode of Mad Money, Jim Cramer reflected on a significant shift in market sentiment over […]",
+      "published_utc": "2025-05-21T02:53:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a897ab9e1c02950b77eaef3de72d87a2515a8c176ae43f61c2d7d323d27e0be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628145,
+      "datetime": 1747767231
+    },
+    {
+      "title": "Visa Inc. (V): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Visa Inc. (V) on Substack by Margin of Sanity. In this article, we will summarize the bulls’ thesis on V. Visa Inc. (V)’s share was trading at $365.12 as of May 16th. V’s trailing and forward P/E were 36.70 and 32.26 respectively according to Yahoo Finance. Visa represents one of […]",
+      "published_utc": "2025-05-21T01:36:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=412f804640a3d28bde910347fcde600502873e1a742e167539adfd2d66359c42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628146,
+      "datetime": 1747762585
+    },
+    {
+      "title": "Visa: Stop Swiping For Now",
+      "description": "",
+      "published_utc": "2025-05-20T20:44:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41f35a571cbfe272255c552a490c7ed1c0a9a5a99dc9c1b89c6b54206b5007a8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134611421,
+      "datetime": 1747745073
+    },
+    {
+      "title": "Janus Henderson Global Research Fund Q1 2025 Commentary",
+      "description": "The Fund returned -1.49% and the MSCI World Index returned -1.79%.",
+      "published_utc": "2025-05-20T17:33:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51ac3412915715ffec0d9343fe811d79c4b7adbd26e693fb357112384995a3e6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197655235/image_2197655235.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608977,
+      "datetime": 1747733580
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:46.273249+00:00",
+    "cache_key": "news_1198585fad91bba1a488e427769e7b9b",
+    "count": 5
+  }
+}

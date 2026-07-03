@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia Just Became the World's Most Valuable Company. Here's What May Happen Next.",
+      "description": "Nvidia, with a market value of $3.444 trillion, topped software giant Microsoft.  This happened a week after Nvidia's report of double-digit revenue growth and strong demand for its artificial intelligence chips.  Nvidia (NASDAQ: NVDA) might be the company everyone's talking about thanks to its dominance in the high-growth area of artificial intelligence (AI), but it remained behind one other tech player, Microsoft, in terms of market value.",
+      "published_utc": "2025-06-05T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53cedd85d21c0df157222c6e7ddf60946072ebdae3d212b0f3932009917947de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135033679,
+      "datetime": 1749075000
+    },
+    {
+      "title": "Microsoft (MSFT) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "In the closing of the recent trading day, Microsoft (MSFT) stood at $463.87, denoting a +0.19% change from the preceding trading day.",
+      "published_utc": "2025-06-05T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c197c7f866170c11a84b19c278695a52ab5788112ba65f59aab0c63f04819db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035566,
+      "datetime": 1749073516
+    },
+    {
+      "title": "Nvidia (NVDA) Tops Microsoft, Becomes World's Most Valuable Company Again",
+      "description": "Investors continue betting on Nvidia's dominance in AI chip infrastructure",
+      "published_utc": "2025-06-05T05:03:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c699b9fcd3a65f31d589813700fe10d0a4a3c26f02f318a5a25e3b7e419694c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135033681,
+      "datetime": 1749071036
+    },
+    {
+      "title": "Why Centrus Energy Stock Soared Today",
+      "description": "Is Microsoft slowing down on artificial intelligence (AI) investment? Amazon and Meta certainly are not -- and that's bullish for nuclear stocks.",
+      "published_utc": "2025-06-05T03:46:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa14f9f5a5e1c9fc1238c32b485e90a5ea226805e2f9fd4dda86768b6200e966",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035568,
+      "datetime": 1749066380
+    },
+    {
+      "title": "Reddit Sues Anthropic, Says AI Company Exploited User Data",
+      "description": "(Bloomberg) -- Reddit Inc. sued artificial intelligence firm Anthropic, saying it has used the social media company’s content without permission to train its AI models. Most Read from BloombergICE Moves to DNA-Test Families Targeted for Deportation with New ContractThe Global Struggle to Build Safer CarsAt London’s New Design Museum, Visitors Get Hands-On AccessNYC Residents Want Safer Streets, Cheaper Housing, Survey SaysThe Buffalo Architect Fighting for Women in DesignThe lawsuit, which was f",
+      "published_utc": "2025-06-05T03:45:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d034077b9972e6cdc7c8d0593694c1f606a1e02ba6cf9ab871c94f645ce6a3b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035569,
+      "datetime": 1749066311
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:00.670342+00:00",
+    "cache_key": "news_0233255bf37ffc18adf71c43d1bd3070",
+    "count": 5
+  }
+}

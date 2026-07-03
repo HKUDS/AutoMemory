@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Home Depot, Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "description": "Home Depot, Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "published_utc": "2025-03-24T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e4cad1359df1f93d056a8aba6e7a6134e30ffd5f99d445c186e7cfef3cb49096",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133338679,
+      "datetime": 1742809500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:21:54.095346+00:00",
+    "cache_key": "news_41957ade65646d718a677db560a41267",
+    "count": 1
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "id": "8580c1cd1c8e9c446f1297fd036295132966754c8ddfc366a671d44c90982c8e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Warren Buffett Worried About a Market Crash After Selling S&P 500 ETFs?",
+      "author": "David Jagielski",
+      "published_utc": "2025-03-02T10:53:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/is-warren-buffett-worried-about-a-market-crash-aft/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VOO",
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808878/warren-buffett-in-a-group-of-people.jpg",
+      "description": "Berkshire Hathaway recently exited positions in the SPDR S&P 500 ETF Trust and the Vanguard S&P 500 ETF, leading some to wonder if Warren Buffett is worried about a market crash. However, the article suggests that these were not large positions for Berkshire, and Buffett's investment strategy differs from that of the average investor.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "S&P 500 ETF",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway exited its position in the SPDR S&P 500 ETF Trust, but the article suggests this was not a large position and does not necessarily indicate Buffett's concerns about the market."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway also exited its position in the Vanguard S&P 500 ETF, but the article suggests this was not a large position and does not necessarily indicate Buffett's concerns about the market."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that American Express is one of Berkshire Hathaway's staple top holdings, indicating Buffett's positive sentiment towards the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Bank of America is one of Berkshire Hathaway's largest holdings, suggesting Buffett's confidence in the company."
+        }
+      ]
+    }
+  ]
+}

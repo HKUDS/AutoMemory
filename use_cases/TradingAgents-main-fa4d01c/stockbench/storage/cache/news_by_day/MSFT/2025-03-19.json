@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Nvidia: Closing The Short Position (Rating Upgrade)",
+      "description": "Nvidia Corporation's P/E ratio now signals value, as Gen AI capex thrives despite economic fears. Click here for my updated look at NVDA stock.",
+      "published_utc": "2025-03-19T21:49:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4062b1235e050009c2e25e46a3c946c6fb346c929ac9c9f8ebf1fe3713f2afdd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1885497422/image_1885497422.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133257703,
+      "datetime": 1742392170
+    },
+    {
+      "title": "The Lag 7",
+      "description": "While a decline of 8% sounds relatively modest, individual stocks in the index, especially the ten largest, have seen much larger declines. Click to read.",
+      "published_utc": "2025-03-19T21:41:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a21efd2cc65d72528575d5ae12850dcda1afe0e148f7aeff6a08ab32efe16668",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2021524839/image_2021524839.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133256640,
+      "datetime": 1742391660
+    }
+  ]
+}

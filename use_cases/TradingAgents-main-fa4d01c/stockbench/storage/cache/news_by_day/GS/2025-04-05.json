@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Stock rout and dealmaking freeze raise stakes for start of Wall Street's earnings season",
+      "description": "A dealmaking freeze and the biggest rout in financial stocks since 2023 are raising the stakes for the start of Wall Street’s earnings season this coming week.",
+      "published_utc": "2025-04-05T19:55:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=277850d8c075dfebbb34ed6d031d71e3c3ad8f9bd86c9c6aa57527036b606051",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727256,
+      "datetime": 1743854143
+    },
+    {
+      "title": "Oil Price in Freefall Reorders Global Energy Landscape",
+      "description": "(Bloomberg) -- The plunge in oil prices over the past two days following the twin shocks of President Donald Trump’s tariffs and the surprise boost in production from OPEC+ has altered the global energy landscape with stunning speed.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s T",
+      "published_utc": "2025-04-05T08:27:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=015d67a18b182ab32d53f056915ef43c236e26e03a18fe325efcf7decf58651c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727352,
+      "datetime": 1743812864
+    }
+  ]
+}

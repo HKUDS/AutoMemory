@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "title": "Amgen Announces Significant Survival Benefit for Lung Cancer Drug IMDELLTRA in Phase 3 Trial",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the 11 most profitable NASDAQ stocks to buy now. On June 2, Amgen announced new interim results from the global Phase 3 DeLLphi-304 trial for its drug IMDELLTRA (tarlatamab-dlle). The data were presented at the 2025 ASCO Annual Meeting and published in The New England Journal of Medicine. It […]",
+      "published_utc": "2025-06-15T17:38:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ade9c6a07583000661c09cc57a6742ec84f2214dc11119de14e60272eb9827bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285503,
+      "datetime": 1749980324
+    },
+    {
+      "id": "907c6524b667598d790d967a711232d50712dc365f87b55afd23fb2cbd7b5a23",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Eli Lilly Just Made Another Move to Dominate the Weight Loss Market: Should You Buy the Stock?",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-06-15T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/15/eli-lilly-made-another-move-to-dominate-the-weight/?source=iedfolrf0000001",
+      "tickers": [
+        "LLY",
+        "AMGN",
+        "NVO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/820747/patient-sitting-on-hospital-bed.jpg",
+      "description": "Eli Lilly is strengthening its position in the weight-management market by partnering with Camurus to develop long-acting delivery of its GLP-1 medicines. This move could make Lilly's treatments more attractive and boost their sales. Lilly also has a deep pipeline and continues to grow its revenue, making it a compelling investment option.",
+      "keywords": [
+        "Eli Lilly",
+        "weight loss",
+        "Camurus",
+        "GLP-1",
+        "long-acting delivery",
+        "revenue growth",
+        "pipeline"
+      ],
+      "insights": [
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eli Lilly is strengthening its position in the weight-management market through a partnership with Camurus, which could improve the delivery and efficacy of its GLP-1 medicines. The company also has a deep pipeline and is experiencing rapid revenue growth, making it an attractive investment option."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amgen's work on a once-monthly anti-obesity therapy, but does not provide a clear assessment of its potential impact on the market."
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Novo Nordisk is mentioned as Eli Lilly's only real competitor in the weight-management medicines market, but the article does not provide a clear assessment of Novo Nordisk's position or performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:18.907249+00:00",
+    "cache_key": "news_a5acb395f3f24720b0221d7340bcfe5c",
+    "count": 2
+  }
+}

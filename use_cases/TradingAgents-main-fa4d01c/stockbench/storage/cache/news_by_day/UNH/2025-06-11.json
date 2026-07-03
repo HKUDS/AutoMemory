@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Why UnitedHealth Stock Imploded Last Month",
+      "description": "UnitedHealth Group continued its historic drop in May, losing 26.6% during the month.  The health insurer is facing new allegations of fraud and misconduct.  Shares of UnitedHealth Group (NYSE: UNH) fell in May, finishing the month down 26.6%.",
+      "published_utc": "2025-06-11T07:11:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fc4370d59f480af3dcfd393fe98bf36dc595f99719be55320b61e993d59dcbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171146,
+      "datetime": 1749597105
+    }
+  ]
+}

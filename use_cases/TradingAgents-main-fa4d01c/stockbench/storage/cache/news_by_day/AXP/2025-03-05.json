@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "a7a24190c3bd3f4d49cb6f2e51619e1fd3eebb70d63085fc84d81a9c9fb2e2b5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want to Invest Like Buffett? This Is What He Just Said He Looks For in \"Really Outstanding Businesses,\" and It May Not Be What You Think",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-05T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/05/want-to-invest-like-buffett-this-is-what-he-just/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "KO",
+        "AAPL",
+        "MCO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808763/buffett2-tmf.jpg",
+      "description": "Warren Buffett looks for large, profitable businesses with household names and high returns on equity when investing. He focuses on resilient companies that can generate reliable earnings and dividends, rather than hyped-up stocks.",
+      "keywords": [
+        "Warren Buffett",
+        "investing",
+        "business characteristics",
+        "profitability",
+        "brand recognition",
+        "return on equity"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett considers American Express a 'very large and highly profitable business with a household name' that can generate reliable earnings and dividends."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett views Coca-Cola as a 'very large and highly profitable business with a household name' that has maintained its resilience and profitability for over a century."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett considers Apple a 'very large and highly profitable business with a household name' that has created a loyal customer base and can consistently generate high returns on equity."
+        },
+        {
+          "ticker": "MCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett sees Moody's as a leading player in an essential industry with few top competitors, allowing it to generate reliable sales and earnings."
+        }
+      ]
+    }
+  ]
+}

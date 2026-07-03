@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce.com (CRM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "The latest trading day saw Salesforce.com (CRM) settling at $330.66, representing a -1.1% change from its previous close.",
+      "published_utc": "2025-01-03T06:45:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4fffe8622de045c32e2a792c798f52d2226f620fa06d0055835ac85a6023245",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132244854,
+      "datetime": 1735857921
+    },
+    {
+      "title": "Software AI Stocks Start Off 2025: Palantir Falls, SoundHound Wavers, Snowflake Climbs",
+      "description": "Palantir stock and other software AI stocks turned in mixed results on the first day of 2025 trading. SoundHound stock wavered.",
+      "published_utc": "2025-01-03T01:08:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e6a5b8851a68ba02060a82a69a56376306ebf5c33c9daf0ee1b76ccc20ab8f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240464,
+      "datetime": 1735837693
+    },
+    {
+      "title": "Salesforce.com (CRM) Down 9.1% Since Last Earnings Report: Can It Rebound?",
+      "description": "Salesforce.com (CRM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "published_utc": "2025-01-03T00:30:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34524eb3b8e2cd1670b44f24ba5f3eccc47353982610490fb7bbc5df39313707",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/e8e4b0344809eaac6d73c9fd25fd180a",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240539,
+      "datetime": 1735835406
+    },
+    {
+      "title": "Dow drops 169 points on losses for shares of Apple, Boeing",
+      "description": "Dow drops 169 points on losses for shares of Apple, Boeing",
+      "published_utc": "2025-01-02T22:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6dc38dca4c7bc98b70aa98883c1b32e6ac2793c3e70586025b16da43c9c53c11",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322120,
+      "datetime": 1735829520
+    },
+    {
+      "title": "Dow's 288-point drop led by losses for Boeing, Apple stocks",
+      "description": "Dow's 288-point drop led by losses for Boeing, Apple stocks",
+      "published_utc": "2025-01-02T21:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a0da67497e0cb014326b4174994d93fd5dd9a74d57c02703992617411d79ec68",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322121,
+      "datetime": 1735824600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:00:47.990326+00:00",
+    "cache_key": "news_b998992f64bb4c0e49dd63e137323b12",
+    "count": 5
+  }
+}

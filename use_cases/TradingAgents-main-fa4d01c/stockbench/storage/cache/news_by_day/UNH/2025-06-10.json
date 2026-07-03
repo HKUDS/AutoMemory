@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Eyes $1 Billion Sale of Latin American Unit",
+      "description": "Four nonbinding bids test appetite amid rising costs and CEO transition",
+      "published_utc": "2025-06-10T22:13:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef3d3d61ce85f05d18cf4ca783b0a2ea07bec51a06a806c985717083f5ad0c02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135156516,
+      "datetime": 1749564808
+    },
+    {
+      "title": "UnitedHealth Group considers bids to divest Latin American unit",
+      "description": "UnitedHealth has received four non-binding bids for Banmedica, estimated at around $1bn.",
+      "published_utc": "2025-06-10T21:52:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=633f54683e4e0e8859960ba0c753ea059be365dfe5493c906e70a4be6c544281",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135156517,
+      "datetime": 1749563562
+    },
+    {
+      "title": "5 Ideal 'Safe' Buys From June Fortune Return On Leadership Screen",
+      "description": "Fortune has partnered with Indiggo to measure Return On Leadership, called the ROL100. Read which dividend stocks we recommend from the list.",
+      "published_utc": "2025-06-10T20:47:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab3738e113bcda4ee72d65cbb95f1689283e6dabb69ca10d1bd4dbb1aad2f56e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1410966689/image_1410966689.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135161067,
+      "datetime": 1749559623
+    },
+    {
+      "title": "UnitedHealth : Mail order pharmacies lead to improved clinical outcomes and cost savings",
+      "description": "Health care is changing to keep up with what people need and want. And now, people want to choose where and when they get care. Here's how Optum® Home Delivery Pharmacy offers convenience and saves...",
+      "published_utc": "2025-06-10T17:08:25",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6c13eced833c4e356531079d380545a95d98261a7ae8ec050f4fe487bd3f0e40",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135148212,
+      "datetime": 1749546505
+    }
+  ]
+}

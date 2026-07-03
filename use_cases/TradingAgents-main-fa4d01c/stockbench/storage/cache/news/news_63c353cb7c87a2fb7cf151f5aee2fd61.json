@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here's What Boeing's Big News Means for Investors",
+      "description": "There has been some interesting and mixed news flow around  Boeing (NYSE: BA) recently.  A Reuters article cited a White House official who stated that deliveries of the two Boeing VC-25B planes that will serve as the next \"Air Force One\" could be delayed until 2029, after Boeing's previous delays pushed the delivery dates into 2027 or 2028.  A Bloomberg article claimed that key airline customer Emirates now expects that deliveries of the 205 Boeing 777X widebody jets it ordered won't begin to take place any sooner than the second quarter of 2027, and possibly won't start until 2028.",
+      "published_utc": "2025-02-23T00:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=666cd0f62ba0b17056d6397eb7c93a4fa3d3a6c6842b736bad2980cf1e4eb028",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/808110/successful-investor.jpg",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878307,
+      "datetime": 1740241260
+    },
+    {
+      "title": "Atlas Air, DHL terminate Polar Air Cargo joint venture",
+      "description": "Polar Air Cargo has ceased operating after Atlas Air and DHL Express determined the joint venture was no longer useful. The post Atlas Air, DHL terminate Polar Air Cargo joint venture appeared first on FreightWaves.",
+      "published_utc": "2025-02-22T22:15:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d92b4e1c2074b769492fd99cea3db1d7cfeb7a198499a1deb5257ecf7562e839",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/freightwaves_373/400e986024a054444ce5a919becddd1b",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878308,
+      "datetime": 1740233738
+    },
+    {
+      "title": "Elon Musk's DOGE overdrive, Trump bashes Boeing, and supersonic planes: Business news roundup",
+      "description": "The Trump administration is planning to lay off at least 40% of the Federal Housing Administration’s (FHA) workers, according to a Bloomberg report.",
+      "published_utc": "2025-02-22T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28542c0905723e3d969fcf2a39b21ceffb44683a70af8ddd3e572f46eb3656cf",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/quartz.com/61fceee74c1e7256230a5b1225fdedf1",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878309,
+      "datetime": 1740232800
+    },
+    {
+      "title": "Blue Origin Prepares for Layoffs. Here's What Space Stock Investors Need to Know",
+      "description": "When it comes to space companies, layoffs aren't always bad news.",
+      "published_utc": "2025-02-22T20:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c24f13c0911e857d7f7e0b0b29775bd487754211df2c2d6e718a2078e6a95518",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/808204/january-16-new-glenn-rocket-launch-is-blue-origin.jpg",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878310,
+      "datetime": 1740226020
+    },
+    {
+      "title": "Boeing's chief aerospace safety officer set to retire, memo shows",
+      "description": "The aerospace company in the next few weeks will appoint a successor to Delaney who has been working with Boeing for nearly four decades, company chief Kelly Ortberg told employees in an internal message.  Delaney, appointed in 2021, bolstered Boeing's safety practices, the message said.",
+      "published_utc": "2025-02-22T10:06:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fc18d75cf2839f8f28bdbb7ad11c78e8dc6bc36a90b12a25ec47eee2977f788",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/8bd563de96550dcd2f192f8e2af63ab5",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878311,
+      "datetime": 1740190009
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:42.843256+00:00",
+    "cache_key": "news_63c353cb7c87a2fb7cf151f5aee2fd61",
+    "count": 5
+  }
+}

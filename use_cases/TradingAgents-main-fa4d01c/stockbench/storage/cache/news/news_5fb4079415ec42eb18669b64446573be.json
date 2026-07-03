@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "title": "IBM: Is The Stock Price Overvalued?",
+      "description": "IBM's hybrid cloud expansion, watsonx AI, and improving margins signal a 19% upside. Read here for an investment analysis of IBM stock.",
+      "published_utc": "2025-04-05T10:13:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=098f45816c90463063a98fcfa8d805f83b4b687b109dd2c945818354646589b1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1163948069/image_1163948069.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133723828,
+      "datetime": 1743819210
+    },
+    {
+      "id": "c440d0d62fb3ba7cfd7d0d664ae24de2087aa7c7000a0d448809bc373c1b2292",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Rigetti Computing Stock a Buy Now?",
+      "author": "Leo Sun",
+      "published_utc": "2025-04-05T15:41:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/05/is-rigetti-computing-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "RGTI",
+        "RGTIW",
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/813461/quantum-computing.jpg",
+      "description": "Rigetti Computing, a quantum computing company, went public in 2022 but faced challenges, including disappointing financial results and the resignation of its founder. However, the company has since launched new products, improved its technology, and seen its stock price surge. Despite this recovery, the article suggests Rigetti's valuation may be too high compared to its peers.",
+      "keywords": [
+        "Rigetti Computing",
+        "quantum computing",
+        "technology",
+        "stock performance"
+      ],
+      "insights": [
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Rigetti Computing's journey, highlighting both the challenges the company faced and its recent recovery. While the article suggests the company's valuation may be too high, it also acknowledges Rigetti's progress in launching new products and improving its technology."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Rigetti Computing's journey, highlighting both the challenges the company faced and its recent recovery. While the article suggests the company's valuation may be too high, it also acknowledges Rigetti's progress in launching new products and improving its technology."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article compares Rigetti's valuation to that of IonQ, noting that IonQ is expected to grow at a faster rate than Rigetti over the next three years and trades at a lower valuation relative to its projected sales."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article compares Rigetti's valuation to that of IonQ, noting that IonQ is expected to grow at a faster rate than Rigetti over the next three years and trades at a lower valuation relative to its projected sales."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors, but this information is not directly relevant to the main focus of the article."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors, but this information is not directly relevant to the main focus of the article."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that big tech giants like IBM are ramping up their development of quantum computing chips and systems, which could pose competition for Rigetti."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Alphabet and IBM, the article mentions that Microsoft is also developing quantum computing technology, which could impact Rigetti's competitive landscape."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:17.703654+00:00",
+    "cache_key": "news_5fb4079415ec42eb18669b64446573be",
+    "count": 2
+  }
+}

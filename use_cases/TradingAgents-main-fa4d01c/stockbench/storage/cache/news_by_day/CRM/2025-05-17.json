@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "4 Top Artificial Intelligence Stocks to Buy Right Now",
+      "description": "Palantir has one of the largest opportunities of any AI company out there.  Nvidia remains well-positioned to benefit from AI infrastructure spending.  Salesforce is looking to become a leader in agentic AI.",
+      "published_utc": "2025-05-17T15:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97a50c6f1e9350a3405c7e3420899b1f033a548086868c76b87a13ec396e6e4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567805,
+      "datetime": 1747468500
+    }
+  ]
+}

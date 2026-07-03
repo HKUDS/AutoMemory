@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Hightower’s Bob Oros: Why I Decided to Step Down as CEO",
+      "description": "Hightower’s Bob Oros: Why I Decided to Step Down as CEO",
+      "published_utc": "2025-02-18T23:11:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bd24bfe6e8c9a105a2d45d9f1379353d405246d1c3dae231ebb4e3418fa08d6e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132786268,
+      "datetime": 1739891460
+    },
+    {
+      "title": "How Much Higher Can Gold Prices Go? Wall Street Sees More Records Ahead.",
+      "description": "How Much Higher Can Gold Prices Go? Wall Street Sees More Records Ahead.",
+      "published_utc": "2025-02-18T19:23:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b01e5fb276ae3688e1dc1423fc59d69266e96a7fc4215d1b1dd29b1aa8555e70",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132786269,
+      "datetime": 1739877780
+    },
+    {
+      "title": "Goldman and UBS Hike Gold Forecast. Why the Rally Has Legs.",
+      "description": "Goldman and UBS Hike Gold Forecast. Why the Rally Has Legs.",
+      "published_utc": "2025-02-18T16:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d0d130323cf35aae33a270d1b07636798c7a58dacd9fd1d1bd6dceb67493eec8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132769133,
+      "datetime": 1739867580
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:11.194842+00:00",
+    "cache_key": "news_af786e33bb4ee3e3590c95dcce7ae717",
+    "count": 3
+  }
+}

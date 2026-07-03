@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "In the most recent trading session, American Express (AXP) closed at $264.38, indicating a -0.47% shift from the previous trading day.",
+      "published_utc": "2025-03-18T05:50:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33bd21c0fe6d55e08c83d29b361d9950d1609d7bdedef3e8f761619e0f2ad63a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325172,
+      "datetime": 1742248214
+    },
+    {
+      "title": "S&P 500 Correction: Is American Express Stock a Buy After Plunging 20%?",
+      "description": "Howard Marks, who correctly foresaw and made a ton of money during the Great Recession, writes extensively about the market's tendency to cycle between extremes.  A less traditional valuation metric, dividend yield, tilts the balance here, given that the current 1.2% yield, while more attractive than it was in January, is still toward the low end of the company's historical yield range.",
+      "published_utc": "2025-03-17T21:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3db219786fea68702ed1fa06038eeacc75dcb0c0851faa845b63eed98d556328",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325173,
+      "datetime": 1742216940
+    },
+    {
+      "title": "American Express Says USCS Card Member Loans Net Write-Off Rate-Principal 2.5 % At Feb End",
+      "description": "American Express Co: * U.S. SMALL BUSINESS CARD MEMBER LOANS 30 DAYS PAST DUELOANS ASA % OF TOTAL 1.6% AT FEB END * USCS CARD MEMBER LOANS 30 DAYS PAST DUE LOANS AS A %...",
+      "published_utc": "2025-03-17T20:18:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=69a5d6e3f0b3a797be8ae6923adc79ade8916a73e3d504b0c24663ecfa1accf0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133208135,
+      "datetime": 1742213900
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights: American Express and Pearson",
+      "description": "American Express and Pearson have been highlighted in this Investment Ideas article.",
+      "published_utc": "2025-03-17T16:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3918ad31b04cf25cd1eb4137d2d195924118862a74954718e3a82cd35ef78f0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325175,
+      "datetime": 1742201820
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:51.314992+00:00",
+    "cache_key": "news_2e7e5af48017ca900165775ce44e2aee",
+    "count": 4
+  }
+}

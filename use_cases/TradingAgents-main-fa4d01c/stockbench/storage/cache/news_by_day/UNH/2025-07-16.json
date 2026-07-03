@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "New Reports Call UnitedHealth’s Earnings Momentum Into Question. How Should You Play UNH Stock Here?",
+      "description": "UnitedHealth stock sinks further on reports it quietly sold stakes in business units to preserve its streak of beating earnings estimates. Wolfe continues to recommend owning UNH shares here.",
+      "published_utc": "2025-07-16T23:09:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=421d90f93554f3e58f42f8b1cc3a7b50b59bcfd6453762fec2b929bc9e9f31ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993257,
+      "datetime": 1752678545
+    },
+    {
+      "title": "UnitedHealth Group Incorporated's (NYSE:UNH) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong?",
+      "description": "It is hard to get excited after looking at UnitedHealth Group's (NYSE:UNH) recent performance, when its stock has...",
+      "published_utc": "2025-07-16T22:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=936dc4d8392c954ea2dae8b0d5ab041c39a3ed7dfe019a04b5fb377b946bbb37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993258,
+      "datetime": 1752674411
+    },
+    {
+      "title": "Stocks to Watch Wednesday: J&J, Bank of America, UnitedHealth, Goldman",
+      "description": "↗️ Johnson & Johnson (JNJ): J&J boosted its annual outlook, after posting better-than-expected quarterly profit and sales. Shares rose nearly 2% in premarket trading. ↗️ Goldman Sachs (GS): The Wall Street bank reported a stronger-than-expected quarterly profit, fueled by a pickup in dealmaking and surging trading during tariff-driven market turmoil.",
+      "published_utc": "2025-07-16T20:25:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d74486a509df0a877ba382fef42875b59cc83c326422e6954b9a70c08187840",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135964984,
+      "datetime": 1752668750
+    }
+  ]
+}

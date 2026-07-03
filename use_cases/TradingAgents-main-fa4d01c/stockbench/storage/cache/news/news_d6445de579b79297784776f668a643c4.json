@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Private Credit’s Cracks Widened Before Turmoil",
+      "description": "(Bloomberg) -- The companies that get private credit loans are looking increasingly wobbly and banks are among those that could eventually be on the hook for losses.Most Read from BloombergWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesNewsom Says California Is Now the World’s Fourth-Biggest EconomyBackyard Micro-Flats Aim to Ease South Africa’s Housing CrisisAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesMany",
+      "published_utc": "2025-04-27T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5948622f316b2086f8ab62246f05cdd3717750f4adb0e00625afef98e266a22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104468,
+      "datetime": 1745694000
+    },
+    {
+      "title": "Warren Buffett-Led Berkshire Hathaway Owns $37 Billion Worth of 1 Stock. Here Are 3 Reasons You Should Buy It Right Now.",
+      "description": "Berkshire Hathaway, the massive enterprise with its hand in various industries, also owns a sizable public equities portfolio.  Directed by legendary investor Warren Buffett, the conglomerate has done a remarkable job compounding capital.  Everyday investors can find potential ideas by looking at what the Oracle of Omaha owns.",
+      "published_utc": "2025-04-26T16:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=024d8768234a69311b5855bed4e4dab015329d3d745c1132d923996093f70d7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104595,
+      "datetime": 1745655240
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:02.134450+00:00",
+    "cache_key": "news_d6445de579b79297784776f668a643c4",
+    "count": 2
+  }
+}

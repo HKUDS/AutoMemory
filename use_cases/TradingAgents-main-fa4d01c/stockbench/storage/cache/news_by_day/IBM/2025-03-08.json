@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Adobe, DICK's Sporting Goods, Dollar General To Report Results As Investors Look To Inflation Report",
+      "description": "This week's earnings include retailers like Dickâs Sporting Goods, Dollar General, and Kohlâs. Investors will look for Feb. CPI reading that is due Wednesday. See more.",
+      "published_utc": "2025-03-08T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f4b619d2cf93924be55eec7d9a738fb12b105973012d993b08df63400d06dd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133107059,
+      "datetime": 1741431600
+    },
+    {
+      "id": "6e98bf446a15896a80bd041c297081c644d1cab2a0f3e4aa9b13adbcc83e7e3a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Dividend Tech Stocks That Are Screaming Buys in March",
+      "author": "Leo Sun",
+      "published_utc": "2025-03-08T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/dividend-tech-stocks-that-are-screaming-buys/?source=iedfolrf0000001",
+      "tickers": [
+        "VZ",
+        "IBM",
+        "CSCO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809727/watering-coins-next-to-piggy-bank.jpg",
+      "description": "The article recommends three undervalued tech stocks - Verizon, IBM, and Cisco - that offer attractive valuations and dividends, in contrast to the market's focus on high-growth tech stocks that may be overvalued.",
+      "keywords": [
+        "tech stocks",
+        "undervalued stocks",
+        "dividends",
+        "Verizon",
+        "IBM",
+        "Cisco"
+      ],
+      "insights": [
+        {
+          "ticker": "VZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Verizon's wireless business has recovered, and its high dividend yield and low valuation make it a safe investment option."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM has improved its business under new leadership, with revenue and earnings growth, and its stock is reasonably valued with a decent dividend."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco's business is expected to stabilize after overcoming inventory issues, and its stock is cheap with a good dividend."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers: Stock Is Attractive Given A Favorable 2025 Environment",
+      "description": "Travelers Companies' shares have potential for double-digit returns in 2025, making it a buy with a solid balance sheet and improving combined ratio. Click to read.",
+      "published_utc": "2024-12-31T22:21:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c281e8ab97b976cdca598eb9619d1fc12c94b169e54b9724cceaed8a4799275e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1874759858/image_1874759858.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132217586,
+      "datetime": 1735654867
+    }
+  ]
+}

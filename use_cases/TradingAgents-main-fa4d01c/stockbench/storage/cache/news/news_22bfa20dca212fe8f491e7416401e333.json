@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Emirates executive says no impact seen from US tariffs, but airline remains vigilant",
+      "description": "DUBAI (Reuters) -Emirates has not seen any impact from U.S. President Donald Trump's tariffs, but remains cautious due to ongoing uncertainty, the airline's Deputy President and Chief Commercial Officer Adnan Kazim told Reuters on Wednesday.  Kazim said delays in aircraft deliveries had prompted Emirates to accelerate its $5 billion fleet retrofitting programme, first announced in 2021, allowing it to maintain capacity amid surging demand and supply shortages.  Emirates, the largest airline in the United Arab Emirates and a key contributor to its economy, is the world's biggest operator of Boeing 777 jets and one of the largest cargo carriers globally.",
+      "published_utc": "2025-05-01T04:16:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9169202c7a69a5beca0f7b0bedd9c57999a349a946a08de4b6d3762dd3591535",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166096,
+      "datetime": 1746044180
+    },
+    {
+      "title": "US lawmaker warns Ryanair against buying Chinese-made planes",
+      "description": "A senior U.S. lawmaker has warned Ryanair against purchasing Chinese-made aircraft due to security concerns, following comments by the CEO of the low-cost Irish airline that he would consider buying Chinese jets at the right price, according to a letter seen by Reuters.  Ryanair responded to the letter by saying it would consider cancelling planes it has on order from Boeing if U.S. tariffs materially affect the price and look at alternatives, including Chinese planemaker COMAC.  U.S. Representative Raja Krishnamoorthi, a Democrat from Illinois, said in the April 29 letter to Ryanair CEO Michael O'Leary that COMAC has close ties to the Chinese military and that evidence indicates it has benefited from the illicit acquisition of foreign intellectual property.",
+      "published_utc": "2025-05-01T03:53:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98187c74011a71a173a9f89484b81ac199a07b839c9400c1eb12538b2289a12f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134173653,
+      "datetime": 1746042827
+    },
+    {
+      "title": "20 company reactions — good and bad — to Trump’s tariff war",
+      "description": "Here’s a sector-by-sector breakdown of how major players are reacting to the mounting pressure of tariffs and retaliatory trade measures. The post 20 company reactions — good and bad — to Trump’s tariff war appeared first on FreightWaves.",
+      "published_utc": "2025-05-01T03:02:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b30b371442b5cf2ad4ed05142abaccc00981cef97b842dc6efeaefd1496df3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165691,
+      "datetime": 1746039737
+    },
+    {
+      "title": "Is The Boeing Company (BA) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, […]",
+      "published_utc": "2025-05-01T02:30:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff9a9753dedd8b2aa8417e8569cda65a50d7879d1ae4dbe83755bea05a45baf3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166100,
+      "datetime": 1746037806
+    },
+    {
+      "title": "Boeing vs. Airbus: Which Jet Giant Offers Investors a Smoother Flight?",
+      "description": "EADSY may appeal more to conservative investors seeking stability, whereas BA suits those with a higher risk appetite betting on a rebound.",
+      "published_utc": "2025-05-01T01:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=736526a228cbc4064f3335687c6c1a925cb3a89cfdba46fd5eee1a6cf3ac552a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166101,
+      "datetime": 1746033120
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:26.579133+00:00",
+    "cache_key": "news_22bfa20dca212fe8f491e7416401e333",
+    "count": 5
+  }
+}

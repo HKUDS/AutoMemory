@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "6 Reasons Berkshire Stock Has Lagged the Market—and 3 Reasons It Could Outperform Again",
+      "description": "Berkshire Hathaway  stock has badly lagged the  since the company’s annual meeting on May 3, but there’s also reason to believe the period of underperformance is over.  Berkshire Hathaway’s Class A shares ended Friday at $727,455, up 1% on the session.  Berkshire is up just under 7% so far this year, against 7.5% for the index.",
+      "published_utc": "2025-07-06T13:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e52d2bd19ffe6d046c2a496ffa1075a0dc5c290dd77e5bf25df03a05470c3df3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135771206,
+      "datetime": 1751779800
+    }
+  ]
+}

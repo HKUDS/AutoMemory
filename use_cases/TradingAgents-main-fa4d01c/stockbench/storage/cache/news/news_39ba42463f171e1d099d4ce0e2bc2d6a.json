@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Q2 Preview: Weak Housing Market To Pressure Topline Growth",
+      "description": "See why The Sherwin-Williams Company faces challenges with overvaluation, weak housing markets, and risks from its Suvinil acquisition. Click for my SHW update.",
+      "published_utc": "2025-07-14T21:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=04fc882858e14561ff28ddb52321290b5a5ac3eff4ae3f1b4493e60aeda909ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160230261/image_2160230261.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135929918,
+      "datetime": 1752499740
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:32.468853+00:00",
+    "cache_key": "news_39ba42463f171e1d099d4ce0e2bc2d6a",
+    "count": 1
+  }
+}

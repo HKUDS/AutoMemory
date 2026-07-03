@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Mid Stay Of Its Case Against Google, SFI Sues IBM Over Three New Patents",
+      "description": "Its first case against Alphabet still stayed to await the outcome of multiple inter partes review proceedings, Virginia plaintiff Security First Innovations, LLC has now sued IBM in the Eastern...",
+      "published_utc": "2025-05-20T10:10:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=be42e965fc02309b6350729f4bc0da3c5974c1413da5422dcce8abfbb4d29407",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134605419,
+      "datetime": 1747707006
+    }
+  ]
+}

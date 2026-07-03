@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's 265-point drop led by losses in shares of Caterpillar, 3M",
+      "description": "Dow's 265-point drop led by losses in shares of Caterpillar, 3M",
+      "published_utc": "2025-06-02T19:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5a5d943ce409b3c928e55fb66374bb02409611ccfa031a23cd5e5c22aed554c4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134945216,
+      "datetime": 1748864100
+    },
+    {
+      "title": "Dow falls 150 points on losses for 3M, Sherwin-Williams Co. stocks",
+      "description": "Dow falls 150 points on losses for 3M, Sherwin-Williams Co. stocks",
+      "published_utc": "2025-06-02T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a6ac72fb0fb1448f94b45b5be90d2b4883893fa033ef1c058e9243d89a8a7d45",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134940365,
+      "datetime": 1748857500
+    },
+    {
+      "title": "2 Industrials Stocks Worth Your Attention and 1 to Avoid",
+      "description": "Even if they go mostly unnoticed, industrial businesses are the backbone of our country. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the market seems to be baking in a prolonged downturn as the industry has shed 12.1% over the past six months. This drop was worse than the S&P 500’s 2.4% fall.",
+      "published_utc": "2025-06-02T12:32:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c44ee7ef896f2196d0fe04362375ab454293e7436b7c49b0e1d47645519a7c41",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134936600,
+      "datetime": 1748838731
+    }
+  ]
+}

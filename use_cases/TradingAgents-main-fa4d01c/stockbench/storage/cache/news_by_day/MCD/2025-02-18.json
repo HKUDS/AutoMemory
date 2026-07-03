@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "description": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "published_utc": "2025-02-18T17:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=94cc7b8e2e5e9af34eb71ff375051129a16c10facf53c80475ad38658bda4cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767999,
+      "datetime": 1739872740
+    },
+    {
+      "title": "American Century Equity Income Fund Q4 2024 Commentary",
+      "description": "Growth stocks outpaced their value counterparts during the quarter, even as some investors sought lower-volatility positions. Read more here.",
+      "published_utc": "2025-02-18T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24059a49384deda6cb03e2a6a8cc929779b10eefc7554041ca94201b12b89841",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1376140848/image_1376140848.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767113,
+      "datetime": 1739865600
+    }
+  ]
+}

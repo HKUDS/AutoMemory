@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Dips More Than Broader Market: What You Should Know",
+      "description": "In the most recent trading session, Home Depot (HD) closed at $361.73, indicating a -0.77% shift from the previous trading day.",
+      "published_utc": "2025-05-06T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75ac467d24d12b9e3e7646dfa5421add338ec1ae9261205728935040881663a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266301,
+      "datetime": 1746481517
+    }
+  ]
+}

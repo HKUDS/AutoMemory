@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "title": "American Express Co (AXP) Q2 2025 Earnings Call Highlights: Record Revenue and Strong EPS ...",
+      "description": "American Express Co (AXP) reports a 9% revenue increase and a 17% rise in EPS, reaffirming its financial guidance despite facing competitive pressures and macroeconomic uncertainties.",
+      "published_utc": "2025-07-19T15:05:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c43e331d40ac9ed701f9cea701ad91cb5ccfb8e0582d19a706716d5601632bf9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136011936,
+      "datetime": 1752908726
+    },
+    {
+      "id": "1ba5b500a22ba2ce2dc9c6eb27fe30244a854686cefdb5fe3d8cbe109dbe4765",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "10 Reasons to Buy and Hold This Market-Leading Stock Forever",
+      "author": "Lee Samaha",
+      "published_utc": "2025-07-19T08:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/19/10-reasons-to-buy-and-hold-this-market-leading-sto/?source=iedfolrf0000001",
+      "tickers": [
+        "DAL",
+        "AXP",
+        "UAL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/825365/air-passenger.jpg",
+      "description": "Delta Air Lines demonstrates strong potential for long-term investment through strategic diversification, premium cabin growth, customer loyalty programs, disciplined capacity management, and robust financial performance.",
+      "keywords": [
+        "airline industry",
+        "investment",
+        "premium cabin",
+        "SkyMiles",
+        "return on invested capital"
+      ],
+      "insights": [
+        {
+          "ticker": "DAL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Trading at attractive valuation, generating strong free cash flow, expanding premium cabin revenue, maintaining disciplined capacity management, and achieving return on invested capital above weighted average cost of capital"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner purchasing miles from Delta, with growing financial transactions but no direct investment recommendation"
+        },
+        {
+          "ticker": "UAL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Briefly mentioned as aligning with industry capacity reduction trends, with no specific investment analysis"
+        }
+      ]
+    }
+  ]
+}

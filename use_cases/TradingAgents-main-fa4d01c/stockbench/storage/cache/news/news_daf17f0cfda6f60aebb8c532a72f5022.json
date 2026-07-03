@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Stock Moves -0.07%: What You Should Know",
+      "description": "McDonald's (MCD) closed at $299.89 in the latest trading session, marking a -0.07% move from the prior day.",
+      "published_utc": "2025-04-08T05:50:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=735327c8278617ece3f61b382632d6a9369a47b72c1b9d705a30dfac352771ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823432,
+      "datetime": 1744062616
+    },
+    {
+      "title": "Is McDonald’s Corporation (MCD) the Most Profitable Dividend Stock to Buy Now?",
+      "description": "We recently published a list of the 8 Most Profitable Dividend Stocks to Buy Now. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against other profitable dividend stocks. When it comes to profits, dividend investing is the first thing that springs to mind. Dividends represent a portion of […]",
+      "published_utc": "2025-04-08T02:24:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b42a0e6cc8fc9e58b2de4b90b45226624a42ebce3feb55d8fc0d468f084ee36",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823435,
+      "datetime": 1744050259
+    },
+    {
+      "title": "SBUX Stock Slips 19% in a Month: Should Investors Buy the Dip or Wait?",
+      "description": "Starbucks' ability to reconnect with customers, improve in-store operations, and drive long-term brand loyalty should support a sustainable recovery over time.",
+      "published_utc": "2025-04-07T22:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5aa8fd3b5c2e63633bb2e007995216245ae02e63f94d3e1f6ce4d7f4a59604a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741128,
+      "datetime": 1744034460
+    },
+    {
+      "title": "Palm Valley Capital Fund Q1 2025 Commentary",
+      "description": "For Q1 2025, the Palm Valley Capital Fund increased 0.57% vs. 8.93% decline for the S&P SmallCap 600 Total Return Index. Click here to read the full letter.",
+      "published_utc": "2025-04-07T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3dddc0d27958a9eff576c26363b87494ebfccb991ab3d1da1f10fb3d332d6f7d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1916501163/image_1916501163.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133740548,
+      "datetime": 1744025400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:10.938522+00:00",
+    "cache_key": "news_daf17f0cfda6f60aebb8c532a72f5022",
+    "count": 4
+  }
+}

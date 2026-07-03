@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "When Fewer Americans Are Buying Homes, These Companies Suffer",
+      "description": "The sputtering U.S. housing market is hurting the businesses that depend on Americans opening their wallets to fix up and furnish their new homes.  Retailers announced more U.S. store closures than openings in 2024, according to data firm Coresight Research, reversing a two-year trend of net openings.  Home retailers were one of the biggest drivers of the contraction, with companies such as  Big Lots  and  Conn’s  filing for bankruptcy and announcing plans to close hundreds of locations.",
+      "published_utc": "2024-12-31T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e7872572a801446ae786e13df49db5e37c58c656059dfbc34b02db77ba86c9b",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132213949,
+      "datetime": 1735641000
+    }
+  ]
+}

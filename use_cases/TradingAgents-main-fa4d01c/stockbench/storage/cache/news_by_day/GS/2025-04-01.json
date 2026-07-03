@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "Goldman Sachs (GS) reachead $546.29 at the closing of the latest trading day, reflecting a +0.58% change compared to its last close.",
+      "published_utc": "2025-04-01T05:50:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86c5e966bc162d643a679dec31dfbc1ee75011fd9f9c1582993424ccfca8d60b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133633023,
+      "datetime": 1743457816
+    },
+    {
+      "title": "Wall Street swings again as the approach of Trump's 'Liberation Day' wallops stock markets worldwide",
+      "description": "NEW YORK — President Donald Trump’s fast-approaching “Liberation Day” sent stock markets swinging sharply worldwide on Monday. On Wall Street, the S&P 500 rose 0.6% in another...",
+      "published_utc": "2025-04-01T00:30:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=472a5b539f4a47946b9ab71ae8a614f0a4273597ad89aa642cc93bd0a67e137b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133629445,
+      "datetime": 1743438620
+    }
+  ]
+}

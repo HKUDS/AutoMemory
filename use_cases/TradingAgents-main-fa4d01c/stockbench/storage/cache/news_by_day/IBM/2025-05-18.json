@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "AI Daily: Nvidia says not sending GPU designs to China",
+      "description": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this daily recap compiled by The Fly: NO GPU DESIGNS TO CHINA: Nvidia (NVDA) says it isn’t sending GPU plans to China following a report that the AI chipmaker is working on a research and development center in Shanghai, CNBC’s Samantha Subin reports. The Financial Times had previously reported that Nvidia is looking to build a research and development center in S",
+      "published_utc": "2025-05-18T01:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=694b4db628bc7aaf5fa01837411b17bafa9dd91c30d6a9a7e41ea42405285e38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567600,
+      "datetime": 1747503360
+    },
+    {
+      "title": "Charter to combine with Cox, Take-Two reports mixed Q4 results: Morning Buzz",
+      "description": "The major averages were little changed near noon following the release of downbeat consumer sentiment data and as April housing starts came in slightly below consensus estimates. Investors continue to weigh potentially easing trade tensions as well. Meanwhile, President Trump said in a post on Truth Social that Republican lawmakers “must unite” to pass his “beautiful” tax bill. Looking to commodities, gold prices are slipping after yesterday’s rebound, while oil is up fractionally, keeping the c",
+      "published_utc": "2025-05-18T00:06:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7c736e0cf3bb691410a1822714cabef8d9fbb2d9d5248d402cd3ae874175c59",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567603,
+      "datetime": 1747498006
+    }
+  ]
+}

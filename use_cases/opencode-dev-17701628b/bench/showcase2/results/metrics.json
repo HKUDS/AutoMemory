@@ -1,0 +1,250 @@
+[
+  {
+    "showcase": "showcase2",
+    "condition": "memory-off",
+    "session": 1,
+    "instanceID": "django__django-13964",
+    "dryRun": false,
+    "resolved": false,
+    "resolvedSource": "swebench",
+    "tokenTotal": 1303916,
+    "tokensSent": 175216,
+    "tokensReceived": 18812,
+    "inputTokens": 175216,
+    "outputTokens": 18812,
+    "costTotal": 0.14173248000000005,
+    "totalAssistantSteps": 38,
+    "toolCalls": {
+      "bash": 15,
+      "grep": 10,
+      "read": 14,
+      "glob": 1
+    },
+    "toolCallsCore": {
+      "bash": 15,
+      "grep": 10,
+      "read": 14,
+      "edit": 0,
+      "write": 0
+    },
+    "totalToolCalls": 40,
+    "failedToolCalls": 2,
+    "stepsToFirstTouch": 2,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 0,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase2/runs/memory-off/session-1/session-log.jsonl",
+    "patchPath": "showcase2/runs/memory-off/session-1/patch.diff"
+  },
+  {
+    "showcase": "showcase2",
+    "condition": "memory-off",
+    "session": 2,
+    "instanceID": "django__django-13964",
+    "dryRun": false,
+    "resolved": false,
+    "resolvedSource": "swebench",
+    "tokenTotal": 4174022,
+    "tokensSent": 187157,
+    "tokensReceived": 69329,
+    "inputTokens": 187157,
+    "outputTokens": 69329,
+    "costTotal": 0.3743940599999999,
+    "totalAssistantSteps": 73,
+    "toolCalls": {
+      "memory_recall": 1,
+      "glob": 2,
+      "bash": 58,
+      "grep": 15,
+      "read": 14,
+      "edit": 2
+    },
+    "toolCallsCore": {
+      "bash": 58,
+      "grep": 15,
+      "read": 14,
+      "edit": 2,
+      "write": 0
+    },
+    "totalToolCalls": 92,
+    "failedToolCalls": 2,
+    "stepsToFirstTouch": 3,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 900,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase2/runs/memory-off/session-2/session-log.jsonl",
+    "patchPath": "showcase2/runs/memory-off/session-2/patch.diff"
+  },
+  {
+    "showcase": "showcase2",
+    "condition": "memory-off",
+    "session": 3,
+    "instanceID": "django__django-13933",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 451857,
+    "tokensSent": 75079,
+    "tokensReceived": 3754,
+    "inputTokens": 75079,
+    "outputTokens": 3754,
+    "costTotal": 0.04940994,
+    "totalAssistantSteps": 27,
+    "toolCalls": {
+      "grep": 2,
+      "read": 9,
+      "edit": 6,
+      "bash": 8,
+      "glob": 1
+    },
+    "toolCallsCore": {
+      "bash": 8,
+      "grep": 2,
+      "read": 9,
+      "edit": 6,
+      "write": 0
+    },
+    "totalToolCalls": 26,
+    "failedToolCalls": 3,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 2883,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase2/runs/memory-off/session-3/session-log.jsonl",
+    "patchPath": "showcase2/runs/memory-off/session-3/patch.diff"
+  },
+  {
+    "showcase": "showcase2",
+    "condition": "memory-on",
+    "session": 1,
+    "instanceID": "django__django-13964",
+    "dryRun": false,
+    "resolved": false,
+    "resolvedSource": "swebench",
+    "tokenTotal": 53500,
+    "tokensSent": 44474,
+    "tokensReceived": 1735,
+    "inputTokens": 44474,
+    "outputTokens": 1735,
+    "costTotal": 0.01586166,
+    "totalAssistantSteps": 4,
+    "toolCalls": {
+      "task": 1,
+      "read": 2
+    },
+    "toolCallsCore": {
+      "bash": 0,
+      "grep": 0,
+      "read": 2,
+      "edit": 0,
+      "write": 0
+    },
+    "totalToolCalls": 3,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 2,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 0,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 12,
+    "logPath": "showcase2/runs/memory-on/session-1/session-log.jsonl",
+    "patchPath": "showcase2/runs/memory-on/session-1/patch.diff"
+  },
+  {
+    "showcase": "showcase2",
+    "condition": "memory-on",
+    "session": 2,
+    "instanceID": "django__django-13964",
+    "dryRun": false,
+    "resolved": false,
+    "resolvedSource": "swebench",
+    "tokenTotal": 305743,
+    "tokensSent": 268164,
+    "tokensReceived": 6325,
+    "inputTokens": 268164,
+    "outputTokens": 6325,
+    "costTotal": 0.08991444,
+    "totalAssistantSteps": 19,
+    "toolCalls": {
+      "read": 2,
+      "grep": 2,
+      "edit": 1,
+      "bash": 14,
+      "glob": 1
+    },
+    "toolCallsCore": {
+      "bash": 14,
+      "grep": 2,
+      "read": 2,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 20,
+    "failedToolCalls": 3,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": true
+    },
+    "patchBytes": 838,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 12,
+    "logPath": "showcase2/runs/memory-on/session-2/session-log.jsonl",
+    "patchPath": "showcase2/runs/memory-on/session-2/patch.diff"
+  },
+  {
+    "showcase": "showcase2",
+    "condition": "memory-on",
+    "session": 3,
+    "instanceID": "django__django-13933",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 263988,
+    "tokensSent": 236005,
+    "tokensReceived": 2959,
+    "inputTokens": 236005,
+    "outputTokens": 2959,
+    "costTotal": 0.07585373999999999,
+    "totalAssistantSteps": 16,
+    "toolCalls": {
+      "grep": 2,
+      "read": 6,
+      "edit": 2,
+      "bash": 5
+    },
+    "toolCallsCore": {
+      "bash": 5,
+      "grep": 2,
+      "read": 6,
+      "edit": 2,
+      "write": 0
+    },
+    "totalToolCalls": 15,
+    "failedToolCalls": 1,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 1212,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 12,
+    "logPath": "showcase2/runs/memory-on/session-3/session-log.jsonl",
+    "patchPath": "showcase2/runs/memory-on/session-3/patch.diff"
+  }
+]

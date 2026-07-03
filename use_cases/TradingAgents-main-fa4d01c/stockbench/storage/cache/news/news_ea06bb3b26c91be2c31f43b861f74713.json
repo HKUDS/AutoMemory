@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Expect Visa To Benefit, Not Suffer, From Stablecoin's Imminent Rise",
+      "description": "Visa is actively innovating in stablecoin settlement, launching new products and partnerships to monetize the evolving payments landscape. Read why V is a Hold.",
+      "published_utc": "2025-06-24T03:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24770cf71e704302104e5c2b39a21d226d321e08fe976577f8b5bfced5b65bc4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1708723316/image_1708723316.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135485707,
+      "datetime": 1750707300
+    },
+    {
+      "title": "Visa defeats lawsuit over 'card draining' Vanilla gift card scam",
+      "description": "NEW YORK (Reuters) -Visa defeated a proposed class action lawsuit on Monday by consumers who accused the world's largest card payments network of failing to warn that its prepaid \"Vanilla\" gift cards were susceptible to being drained by thieves.  U.S. District Judge Gregory Woods in Manhattan said it was unreasonable for consumers to consider gift cards impervious to scams, or that Visa's logo amounted to a promise that no scams would occur and the company would help victims.  Woods also rejected a claim that Visa provided inadequate warnings on the cards' packaging about possible tampering, citing news coverage of \"card draining\" and comments in online forums about Visa Vanilla scams.",
+      "published_utc": "2025-06-24T01:30:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bffb8eeec4d0e14b8daf68cbbc6eca9cc4cb9293a4e6f610aaaa905179be1aeb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492044,
+      "datetime": 1750699855
+    },
+    {
+      "title": "Visa Inc. Cl A stock outperforms competitors on strong trading day",
+      "description": "Visa Inc. Cl A stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-24T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b029f3d8bbbc4cd47d9d2201c0c25ee3fbfb7db92b6f19e2573842ab008b7615",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135498627,
+      "datetime": 1750696260
+    },
+    {
+      "title": "Visa's Crypto Integration: A Game Changer or a Risky Bet?",
+      "description": "V taps into stablecoins and tokenized assets as it deepens crypto ties. However, regulatory risks still remain.",
+      "published_utc": "2025-06-23T23:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56d4bc83aa56d6af5295e3a61bc6ecc967c0de9f250156352ae642d3aa0cd2e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489428,
+      "datetime": 1750693320
+    },
+    {
+      "title": "Analysts: Ignore the Stablecoin Panic and Keep Buying Visa Stock",
+      "description": "Analysts believe Visa’s payment dominance will not fade anytime soon.",
+      "published_utc": "2025-06-23T21:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89fedd7eb7388821952d1511f35bbc0830b15398046185ccaff48bb34b2000f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481671,
+      "datetime": 1750683602
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:31.414399+00:00",
+    "cache_key": "news_ea06bb3b26c91be2c31f43b861f74713",
+    "count": 5
+  }
+}

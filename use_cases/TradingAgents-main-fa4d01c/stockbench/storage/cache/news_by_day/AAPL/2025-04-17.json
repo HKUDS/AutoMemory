@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Meta Saw TikTok as ‘Highly Urgent’ Threat, Zuckerberg Says at Antitrust Trial",
+      "description": "(Bloomberg) -- Mark Zuckerberg, the first witness in the Federal Trade Commission’s trial to break up his social media empire, gave a rare window into how he makes business decisions: by fighting for survival, even when his company is ahead.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?DOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedLA County Floats Leane",
+      "published_utc": "2025-04-17T06:14:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46c629ba2547113d352c9fd66f3c6c8fdfa42350e34f5c7cd811ac381d96abc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942373,
+      "datetime": 1744841643
+    },
+    {
+      "title": "Why Apple Inc. (AAPL) Is One of the Best Blue Chip Stocks to Buy According to Billionaires",
+      "description": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock market […]",
+      "published_utc": "2025-04-17T05:08:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b37626758ee3ce50081d2f203da0b36686f0401d6da805dd4c884cb057341ebc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942374,
+      "datetime": 1744837726
+    },
+    {
+      "title": "Trading Day: When the chips are down",
+      "description": "World stocks fell into a downward spiral on Wednesday led by tech losses after Washington said it is putting new curbs on AI chip exports to China, marking an escalation in the global trade war.  The Trump administration's latest broadside sparked huge demand for safe-haven assets like gold, the Swiss franc and U.S. Treasuries, even though Fed Chair Jerome Powell signalled he is in no rush to cut interest rates.  If U.S. Big Tech had acquired a safe-haven status in the eyes of some investors in recent years, it is disappearing fast.",
+      "published_utc": "2025-04-17T05:03:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d08bfd94a2972b3f62791151cbbaf1dd35aa9c574d103ee3b23c4ca005e113b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942375,
+      "datetime": 1744837412
+    },
+    {
+      "title": "Big Tech’s China Risks Go Far Beyond Nvidia",
+      "description": "Within the largest companies in the sector, the players least affected by China risk are Alphabet and Meta Platforms.",
+      "published_utc": "2025-04-17T03:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a44b4d3f894b9c5afe111184a412047259a248db45d2d7ad9a29351b9c03fd09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942376,
+      "datetime": 1744831260
+    },
+    {
+      "title": "Magnificent Seven Stocks Sell Off: Nvidia Plunges; Apple, Tesla Slide",
+      "description": "Dubbed the Magnificent Seven stocks, Apple, Microsoft, Google parent Alphabet, Amazon.com, Nvidia, Meta Platforms and Tesla lived up to their name in 2024 with solid gains. Through the first three months of 2025, however, performance for these mega-cap stocks has been negative thus far.",
+      "published_utc": "2025-04-17T00:21:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e436d79d8cbef4bb8c289db9d61fd57ad65e04371b713a486a35e184d159a7ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935479,
+      "datetime": 1744820502
+    }
+  ]
+}

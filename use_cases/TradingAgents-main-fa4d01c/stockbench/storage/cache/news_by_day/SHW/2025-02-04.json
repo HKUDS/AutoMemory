@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "11 Dividend Increases Expected In February 2025",
+      "description": "February 2025 will see 11 expected dividend increases from companies with a history of consistent annual dividend hikes. Read more to see a full review.",
+      "published_utc": "2025-02-04T16:29:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bd23e1cf7cefa0b52efb0fefabd01bf1d0ab283c37369dc93f9e6ede5b7129d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445810148/image_1445810148.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543039,
+      "datetime": 1738657775
+    }
+  ]
+}

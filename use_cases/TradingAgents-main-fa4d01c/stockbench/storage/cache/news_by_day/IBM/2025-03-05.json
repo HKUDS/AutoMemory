@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Technology Shares Inch Higher, Defying Selloff -- Tech Roundup",
+      "description": "Technology Shares Inch Higher, Defying Selloff -- Tech Roundup",
+      "published_utc": "2025-03-05T00:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a31bed86b3b012688aadbae77b3fd97f1dcee3baef71086ba062b6a0cdc28de",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981946,
+      "datetime": 1741107180
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-03-05T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=771bf2a94c15788f45a342af01a242c858e714440b77bcaed37612b20cdcdce4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981948,
+      "datetime": 1741105920
+    },
+    {
+      "title": "$20 Billion Club: For The Largest Corporate DB Plans, Maximizing Returns Is Not The Goal",
+      "description": "Russell Investments expects the trend toward liability-hedging fixed income to persist as funded status inches upward. We also expect ongoing interest in alternative asset classes.",
+      "published_utc": "2025-03-05T00:24:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=468745bdb483d27c46aee362eedc06edc9b8f3deba0af40c14a83b479e7a1bb2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1210533728/image_1210533728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132980421,
+      "datetime": 1741105440
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar: Excavating A Path Out Of Uncertainty",
+      "description": "Current indicators suggest that Caterpillar will continue to face headwinds for FY2025. Read why investors should look at stocks other than CAT stock now.",
+      "published_utc": "2025-02-02T06:32:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e4c34ee4672f0b57bc341bd16ec8e56a1fd5d283471776d1ee33285d5e266a0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1166201723/image_1166201723.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132512914,
+      "datetime": 1738449131
+    }
+  ]
+}

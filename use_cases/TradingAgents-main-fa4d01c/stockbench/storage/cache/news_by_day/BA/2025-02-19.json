@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "This New Airbus Jet Is Bad News for Boeing",
+      "description": "This New Airbus Jet Is Bad News for Boeing",
+      "published_utc": "2025-02-19T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=74acb3b60d5e448ddb00690fd47f5ba627aafa396e3dfca14b5e5daf101a9cde",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132787581,
+      "datetime": 1739912400
+    }
+  ]
+}

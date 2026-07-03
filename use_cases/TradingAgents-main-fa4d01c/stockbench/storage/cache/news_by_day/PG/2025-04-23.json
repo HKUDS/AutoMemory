@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "U.S. stocks remain higher in early afternoon trading. These consumer-staples companies are weighing on the S&P 500.",
+      "description": "U.S. stocks remain higher in early afternoon trading. These consumer-staples companies are weighing on the S&P 500.",
+      "published_utc": "2025-04-23T20:56:26",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c7883b69014d8fe45d78c09d6035ed8594c27037b22ab5fb5617325922454d03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134053061,
+      "datetime": 1745412986
+    },
+    {
+      "title": "How To Earn $500 A Month From Procter & Gamble Stock Ahead Of Q3 Earnings",
+      "description": "Procter & Gamble Company (NYSE:PG) will release third-quarter earnings results before the opening bell on Thursday, April 24. Analysts expect the Cincinnati, Ohio-based company to report quarterly earnings at $1.53 per share, up from $1.52 per share in the year-ago period. Procter & Gamble projects to report quarterly revenue at $20.15 billion, compared to $20.2 billion a year earlier, according to data from Benzinga Pro. On Tuesday, RBC Capital analyst Nik Modi reiterated Procter & Gamble with",
+      "published_utc": "2025-04-23T20:25:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0761bb9b23144f0df3859b46c5b19ddec937fefbaf6634800c47b2f560a748ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046301,
+      "datetime": 1745411113
+    }
+  ]
+}

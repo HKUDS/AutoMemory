@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "profile_id": "user110_AT_demo",
+    "generated_at": "2026-02-15T04:19:31.623949",
+    "generation_type": "synthetic",
+    "language": "en",
+    "generation_params": {
+      "gender": "male",
+      "age_range": [
+        22,
+        55
+      ]
+    },
+    "use_case": {
+      "name": "Healthy control cohort",
+      "description": "No clear chronic diagnosis; focused on preventive care and lifestyle maintenance.",
+      "user_id_range": [
+        1090,
+        1095
+      ],
+      "demographics_preference": {
+        "age_range": [
+          22,
+          55
+        ]
+      },
+      "health_hints": [
+        "No confirmed chronic disease at present; overall health status is good.",
+        "Main focus areas are sleep, exercise, body weight, and annual health checkups.",
+        "No obvious clustering pattern of chronic diseases in family history."
+      ],
+      "generation_params": {
+        "device_days": 1251,
+        "exam_count": 7,
+        "event_sparsity": 1
+      }
+    }
+  },
+  "demographics": {
+    "age": 34,
+    "gender": "Male",
+    "occupation": "Sales Manager",
+    "location_type": "Urban",
+    "education_level": "Bachelor's",
+    "marital_status": "Married"
+  },
+  "personality": "Thriving on the fast-paced rhythm of urban life, he projects a charismatic and high-energy exterior typical of a seasoned sales manager, though he meticulously safeguards his downtime to recharge through disciplined exercise and sleep. He approaches both his quarterly targets and personal health with strategic conscientiousness, preferring structured plans over spontaneity to navigate the pressures of his career and marriage. While outwardly warm and engaging, he possesses a steady, competitive undercurrent that drives him to constantly self-improve rather than settling for the status quo.",
+  "health_profile": {
+    "summary": "This 34-year-old male Sales Manager presents with a generally excellent health status and no active chronic conditions. He leads a high-pressure, fast-paced lifestyle typical of his urban environment and occupation but mitigates these stressors through disciplined self-care routines. His current health focus is entirely preventive, prioritizing weight maintenance, sleep hygiene, and physical fitness to sustain his high professional performance. There are no concerning patterns in his family history.",
+    "physical_measurements": {
+      "height": 178,
+      "weight": 79
+    },
+    "patient_narrative": {
+      "chief_complaints": "Presentation for annual preventive health screening; no acute symptoms reported. Interested in optimizing energy levels for work.",
+      "goals_of_care": "Maintain optimal BMI, prevent occupational burnout, and ensure long-term cardiovascular health through lifestyle management.",
+      "impact_on_daily_life": "The patient reports that his high-energy career requires peak physical and mental condition; he views his health as a critical asset for his professional success."
+    },
+    "mental_health": {
+      "summary": "The patient exhibits a resilient and high-functioning psychological profile. He displays 'Type A' traits including competitiveness and conscientiousness. While his job involves significant stress, he manages it proactively without signs of anxiety or depression.",
+      "coping_mechanisms": [
+        "Rigorous gym schedule",
+        "Strict adherence to sleep routines",
+        "Strategic planning and scheduling"
+      ]
+    },
+    "family_history": [
+      {
+        "relative": "Father",
+        "condition": "Hypertension (onset age 55, controlled)"
+      },
+      {
+        "relative": "Mother",
+        "condition": "Healthy"
+      }
+    ],
+    "past_medical_history": [
+      {
+        "diagnosis": "Appendectomy (Laparoscopic)",
+        "age_at_diagnosis": 22,
+        "treatment_summary": "Emergency surgery for acute appendicitis.",
+        "outcome": "Full recovery with no complications."
+      }
+    ],
+    "allergies_and_intolerances": [
+      "Seasonal pollen"
+    ],
+    "lifestyle": {
+      "smoking_status": "Never smoker",
+      "alcohol_consumption": "Social drinker (1-2 units per week, usually at client dinners)",
+      "physical_activity": "High activity level; attends the gym 4 days a week for a mix of strength training and cardio intervals.",
+      "diet_narrative": "Conscious eater; prioritizes high-protein and whole foods. Does meal prep for lunches to avoid unhealthy office snacks, though occasionally indulges during business dinners.",
+      "sleep_pattern_narrative": "Strictly safeguards an 11:00 PM to 6:30 AM sleep schedule. Uses blackout curtains and tracks sleep quality via smartwatch.",
+      "stress_management_practices": [
+        "Regular physical exercise",
+        "Weekend disconnect from work email"
+      ]
+    },
+    "chronic_conditions": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "CEO of Rubbermaid, Sharpie maker: Trump tariffs are creating a lot more uncertainty",
+      "description": "Another consumer products giant warns about Trump tariffs.",
+      "published_utc": "2025-03-10T21:27:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db07a81d9aa86624850fa5e07d025dfc8171ea225905006c5324138ce467d12f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184386,
+      "datetime": 1741613227
+    },
+    {
+      "title": "Cascade Launches New & Improved Platinum Plus to Tackle Today’s Toughest Meal Cleanups",
+      "description": "CINCINNATI, March 10, 2025--Cascade®, America’s #1 recommended dishwasher detergent brand*, is launching New & Improved Cascade Platinum Plus to address consumers’ top concerns of stuck-on food, tough grease and spotty dishes. The new product features an upgraded formula designed to remove up to 100% of food and deliver a virtually spot-free shine and dry. In a new campaign to support the launch, the brand has enlisted comedian Kenan Thompson to help put the product to the test and encourage con",
+      "published_utc": "2025-03-10T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=698b125c89c47a63846d108d95b87548b6a12de85ccfafb38ab2117dcc5b5ee1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184388,
+      "datetime": 1741611600
+    },
+    {
+      "title": "Olay Body and Wantable Elevate Body Care and Style with Limited-Edition Collection",
+      "description": "CINCINNATI-Gone are the days of playing it safe with fashion because of body skin insecurities. Olay Body has teamed up with Wantable, the leader in the personalized styling space, to launch the Power...",
+      "published_utc": "2025-03-10T19:32:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=78ba8170db753de9eb58617e434819965299478f368b8305d4157f594fdb3403",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133120964,
+      "datetime": 1741606340
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Franklin Mutual Beacon Fund Q2 2025 Commentary",
+      "description": "Franklin Mutual Beacon Fund (Class Z) outperformed its benchmark, the MSCI World Value Index, for the quarter ended June 30, 2025. Read more here.",
+      "published_utc": "2025-07-29T06:43:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22c75f32885bae3b8af49f776d34794759c2b534965b99abce83be1a57b050de",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2150251948/image_2150251948.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136112676,
+      "datetime": 1753742580
+    },
+    {
+      "title": "Treasury Expects to Borrow Over $1 Trillion This Quarter",
+      "description": "The Treasury Department said it expects to borrow over a trillion dollars in the current quarter because it began July with a small cash balance and expect less cash flow in the coming months.  The Treasury estimated net marketable borrowing, the difference between the total amount to be borrowed and the amount of debt maturing, to be $1.007 trillion for the three months from July through September.  The Treasury more or less matched the expectation of Wall Street.",
+      "published_utc": "2025-07-29T05:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c455fb4313717c226d7d0bc15fa06a622fae92b291481288562bbc71bb29bcf3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113384,
+      "datetime": 1753736760
+    },
+    {
+      "title": "JPMorgan Chase's Newest 6% Bond Appears Better Than CDs Or Treasuries",
+      "description": "JPMorgan Chase's new 6% coupon bond offers higher yields & and amid market risks. With equity market risks elevated, I recommend this bond as a safe. See more.",
+      "published_utc": "2025-07-29T04:48:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e432485efd18efd46575bbcd8fd16babac5fbbd346ff23dcba33db6f244f28e5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1503371245/image_1503371245.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136112347,
+      "datetime": 1753735734
+    },
+    {
+      "title": "Why Boot Barn (BOOT) Stock Is Trading Up Today",
+      "description": "Shares of clothing and footwear retailer Boot Barn (NYSE:BOOT) jumped 3.1% in the morning session after analysts at JPMorgan Chase & Co. and Piper Sandler raised their price targets on the stock, signaling confidence in the company's outlook.",
+      "published_utc": "2025-07-29T03:40:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b22cdc366db4c172c3181778623f6e17ab1498e8618fcaa469ada145f6f48eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113385,
+      "datetime": 1753731642
+    },
+    {
+      "title": "Oil Rises as Trump’s Russia Comments Boost Concerns Over Flows",
+      "description": "(Bloomberg) -- Oil rose after US President Donald Trump said he would move up the deadline for Russia to agree to a truce in Ukraine, reigniting concerns that tensions between Moscow and the West will threaten flows of crude supplies.Most Read from BloombergBudapest’s Most Historic Site Gets a Controversial RebuildCan This Bridge Ease the Troubled US-Canadian Relationship?Trump Administration Sues NYC Over Sanctuary City PolicyWest Texas Intermediate climbed by 2.4% to settle at the highest in a",
+      "published_utc": "2025-07-29T03:12:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a861a563236a45002f9f3edb07ae1c62d977a5eed51d40700bd986e10af47164",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107916,
+      "datetime": 1753729963
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer On Lowe’s Companies, Inc. (LOW): “Marvin Ellison’s Excellent Quarter – It’s Not as Bad as Feared”",
+      "description": "We recently published a list of Jim Cramer Discusses These 14 Stocks & Zero Day Options. In this article, we are going to take a look at where Lowe’s Companies, Inc. (NYSE:LOW) stands against other stocks that Jim Cramer discusses with insights into Zero Day Options. In a recent appearance on CNBC’s Squawk on the […]",
+      "published_utc": "2025-03-08T21:30:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=997ddf86a70298edde1f250bbe56d7608f92aecfcea72b2033a0287bef18bb2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184527,
+      "datetime": 1741440621
+    },
+    {
+      "title": "Only Four Days Left To Cash In On Home Depot's (NYSE:HD) Dividend",
+      "description": "Regular readers will know that we love our dividends at Simply Wall St, which is why it's exciting to see The Home...",
+      "published_utc": "2025-03-08T20:32:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b96ce2d6964ef8c481a0a751b425c1fe931b98aa7b508a6311647a8a530df41",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184528,
+      "datetime": 1741437166
+    },
+    {
+      "title": "Adobe, DICK's Sporting Goods, Dollar General To Report Results As Investors Look To Inflation Report",
+      "description": "This week's earnings include retailers like Dickâs Sporting Goods, Dollar General, and Kohlâs. Investors will look for Feb. CPI reading that is due Wednesday. See more.",
+      "published_utc": "2025-03-08T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f4b619d2cf93924be55eec7d9a738fb12b105973012d993b08df63400d06dd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133107059,
+      "datetime": 1741431600
+    },
+    {
+      "title": "Should You Forget Home Depot and Buy These 3 Housing-Related Stocks Instead?",
+      "description": "It's no secret that Home Depot's (NYSE: HD) prospects are guided by home improvement spending, which is led by the housing market.  As such, many investors buy into the stock to play an improving housing market in an environment of, hopefully, lower interest rates.  Here's a look at why Whirlpool (NYSE: WHR), Stanley Black & Decker (NYSE: SWK), and Owens Corning (NYSE: OC) might be better buys.",
+      "published_utc": "2025-03-08T18:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78efd5d5fdafdc6513620bc88f6bfceb6377df9f09a86f0724ecf6413416e126",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184529,
+      "datetime": 1741428360
+    }
+  ]
+}

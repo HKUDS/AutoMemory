@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Why JPMorgan Chase, Wells Fargo, and American Express Plunged Today",
+      "description": "Shares of major financial companies JPMorgan Chase (NYSE: JPM), Wells Fargo (NYSE: WFC), and Warren Buffett holding American Express (NYSE: AXP) were all down significantly on Monday, falling 3.8%, 5.1%, and 2.9%, respectively, as of 12:04 p.m. ET.  Uncertainty over Trump's tariff policy has recently led to recession or stagflation fears; over the weekend, Trump declined to rule out tolerating a recession as a result of the protectionist policies.",
+      "published_utc": "2025-03-11T02:22:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdbb391d8bab21759f719195b98b82daee3099a3bb151476c44f8716b581101d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185298,
+      "datetime": 1741630962
+    },
+    {
+      "title": "AmEx Enhances Card Capabilities With Center Acquisition",
+      "description": "AXP announces the acquisition of Center in a bid to enhance its commercial card offerings.",
+      "published_utc": "2025-03-11T01:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e1c379731d874f2d381587d11167a1496ef0b34300e443d92af2799c6267727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185299,
+      "datetime": 1741628820
+    }
+  ]
+}

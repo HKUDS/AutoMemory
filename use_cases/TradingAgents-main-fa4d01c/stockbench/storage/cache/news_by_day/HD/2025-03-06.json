@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "3 takeaways from retailers this earnings season",
+      "description": "As major retailers report earnings, Yahoo Finance Senior Reporter Brooke DiPalma sits down with Madison Mills on Wealth to share three takeaways from the sector results: consumer demand is uncertain, shoppers are deals-driven, and tariffs are in focus. Also catch Yahoo Finance's coverage of Target's (TGT) own earnings print and how the retailer is forecasting tariff impacts. to discuss Abercrombie's results, outlining how concerns about consumer spending and tariffs contributed to the company's weak outlook and stock decline. To watch more expert insights and analysis on the latest market action, check out more Wealth here. This post was written by Naomi Buchanan.",
+      "published_utc": "2025-03-06T01:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7f7bdfd6f4fdf750335c256324cac507711dcb23007e498510fd6776f8f5837",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184538,
+      "datetime": 1741197300
+    },
+    {
+      "title": "Trump’s tariffs worry companies. Here’s what they’re saying about the uncertainty.",
+      "description": "Trump’s tariffs worry companies. Here’s what they’re saying about the uncertainty.",
+      "published_utc": "2025-03-06T01:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fc48751279cf9d523178fd0e7ad790c0157f79ced260ed8c5c5200ca0d6a8f1e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133035377,
+      "datetime": 1741197000
+    },
+    {
+      "title": "Home Depot (NYSE:HD) Promotes Key Leaders Including New EVP Of Pro And HR As CEO Of Canadian Division",
+      "description": "Last week saw important leadership changes at Home Depot (NYSE:HD), reflecting the company’s emphasis on developing strategic growth with professional customers and enhancing internal culture. In a competitive market scenario where major stock indexes, including the S&P 500 and Nasdaq, faced volatility amid tariff discussions and mixed economic data, Home Depot's share price experienced a 3% decline. The appointment of Michael Rowe as Executive Vice President of Pro and Stephanie Smith’s...",
+      "published_utc": "2025-03-06T01:34:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ef125c9c42e4c1f5d45e65066147afeda6d5198e7b91097a6e4b695c6774af5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184539,
+      "datetime": 1741196083
+    },
+    {
+      "title": "Home Depot Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "description": "Home Depot Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "published_utc": "2025-03-06T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a8c5c183a475339f36ebf06e8e66cd3052d663e25e981275310c7fe87e2ab62f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133052972,
+      "datetime": 1741192260
+    }
+  ]
+}

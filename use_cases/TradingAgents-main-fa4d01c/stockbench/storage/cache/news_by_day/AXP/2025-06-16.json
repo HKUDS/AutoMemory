@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dow up 275 points on gains for shares of American Express, Goldman Sachs",
+      "description": "Dow up 275 points on gains for shares of American Express, Goldman Sachs",
+      "published_utc": "2025-06-16T22:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b1811026487b1c3bd6ecdb8776832cd209d9e41ff58fbb40640a28ddc32cae4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135328357,
+      "datetime": 1750085460
+    },
+    {
+      "title": "American Express Planning 'Major Updates' for Platinum Cards Later This Year",
+      "description": "The annual fee for an American Express Platinum card is $695. Don't expect that to last much longer.",
+      "published_utc": "2025-06-16T22:00:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86362d17c8c6c2fd5d2ac2d9f2c8d2f3b10b0d4f1b05c2e5ecfcdd41e70b226e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135317956,
+      "datetime": 1750082430
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Big Bank earnings, CPI data, Fed commentary: What to Watch",
+      "description": "Here's what investors are watching on Tuesday, July 15. Big Banks will be kicking off earnings season in earnest, with JPMorgan (JPM), Wells Fargo (WFC), Citigroup (C), and Bank of New York Mellon (BK) releasing results. The Bureau of Labor Statistics will release June's Consumer Price Index (CPI) data, giving investors a fresh look at the US economy. Federal Reserve officials, including Fed governor Michelle Bowman, Fed governor Michael Barr, Boston Fed president Susan Collins, and Dallas Fed president Lorie Logan, will comment on the state of the US economy. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-07-15T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3af38788acbeffd15b1921dabcc876efa6a0bd78ed43b1876c6218af41a75ad3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932810,
+      "datetime": 1752534000
+    },
+    {
+      "title": "How JPMorgan Is Playing the Private Lending Boom",
+      "description": "JPMorgan Chase CEO Jamie Dimon says Wall Street’s hottest trend is a recipe for a financial crisis, but he’s investing billions to get in on it anyway. His plan: swoop in strategically and profit if there’s a meltdown.",
+      "published_utc": "2025-07-15T06:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a10c0f5844ce50acfa7aabe7f679c2ad11746168ce2516293bd0a7c523e4fa53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135934303,
+      "datetime": 1752532202
+    },
+    {
+      "title": "Markets Close in the Green; Nasdaq at Fresh Highs",
+      "description": "We get started with a new CPI report and Q2 earnings results on Tuesday ahead of the open.",
+      "published_utc": "2025-07-15T06:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=740253a9b805801c9567bedcd17a3c7607ad03352102498b4252be2b29813f88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932811,
+      "datetime": 1752532080
+    },
+    {
+      "title": "Nasdaq Reaches New High as Investors Brush Off Tariff Concerns",
+      "description": "US equities moved higher Monday, lifting the Nasdaq Composite to a new all-time high as traders appe",
+      "published_utc": "2025-07-15T04:56:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a1e4850495b7fdf21be6f6a45fb0488e70e8d93edd85671224f83e82c7c0327",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931766,
+      "datetime": 1752526601
+    },
+    {
+      "title": "Bank Earnings: What to Expect From JPMorgan, Wells Fargo, and More",
+      "description": "Major U.S. banks are due to release second-quarter results Tuesday morning, giving investors a window into how investment bankers, trading desks, consumer-banking businesses, and wealth-management arms fared during the volatile second quarter.",
+      "published_utc": "2025-07-15T04:52:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e2f701d5b1bed2fefed0ce3709648e4be8fa1ec800da11f2959766f27d76204",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932812,
+      "datetime": 1752526331
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:46.344585+00:00",
+    "cache_key": "news_cd16dcf6ac99033f957c56d27548d077",
+    "count": 5
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Small business seeks early Supreme Court review of Trump's tariffs",
+      "description": "A small business on Tuesday askedthe U.S. Supreme Court to decide the legality of PresidentDonald Trump’s tariffs, saying the court should take the rarestep of hearing the case before appeals...",
+      "published_utc": "2025-06-17T23:45:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=731f2ce82053de925f606eb43a6840cbc8394cb1761096df6b9dcdc3ccd8e616",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135339142,
+      "datetime": 1750175115
+    },
+    {
+      "title": "Jamie Dimon wants workers in the office. So why is he letting JPMorgan’s European chief work remotely?",
+      "description": "Jamie Dimon wants workers in the office. So why is he letting JPMorgan’s European chief work remotely?",
+      "published_utc": "2025-06-17T23:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=83634a758abe5542009bb5fb898fbcaeee9c12f367b6730eeedb121172f8d7d6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135354281,
+      "datetime": 1750172640
+    }
+  ]
+}

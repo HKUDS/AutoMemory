@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "London Stock Exchange Group: The Facts Have Changed",
+      "description": "London Stock Exchange's data is mostly commoditized and lacks high value. Click here to read why LNSTY stock is downgraded from Buy to Sell.",
+      "published_utc": "2025-03-06T03:47:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92622bafd16b9d7976369cf0f3d11984289acc820f46870484391b0b9f357490",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178349113/image_2178349113.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133043731,
+      "datetime": 1741204062
+    },
+    {
+      "title": "CDT Insider Sentiment February 2025: Tariff Paralysis",
+      "description": "President Trump promised a radical approach to trade policy during his campaign, and he has delivered.",
+      "published_utc": "2025-03-06T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69ff694d689b049731aa118c0b989ab7cde04b689c493e267b2c6c81a2b3bbd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189862167/image_2189862167.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133040442,
+      "datetime": 1741201200
+    }
+  ]
+}

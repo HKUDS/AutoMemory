@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Analysts Estimate Lowe's (LOW) to Report a Decline in Earnings: What to Look Out for",
+      "description": "Lowe's (LOW) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-05-14T22:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ead8c603b0faff5f0f3e6f291eb3e895bdb8b5bbd1c83026430bf0277817920a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460748,
+      "datetime": 1747231205
+    },
+    {
+      "title": "The London Company Large Cap Strategy Exited The Home Depot (HD) in Q1",
+      "description": "The London Company, an investment management company, released “The London Company Large Cap Strategy” first quarter 2025 investor letter. A copy of the letter can be downloaded here. The US equities experienced a correction in the first quarter following two years of robust performance. The portfolio returned 2.4% (2.3%, net) during the quarter compared to […]",
+      "published_utc": "2025-05-14T21:34:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c6344d57761b1dad43158020b2160f1c1dd35796ad4ff78d6c33a17bcc2098b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460749,
+      "datetime": 1747229667
+    },
+    {
+      "title": "Walmart, Target, Home Depot CEOs Tell Trump Prices Will Rise — 'Shelves Will Be Empty' If Tariffs Persist",
+      "description": "“Shelves will be empty,” was the blunt warning delivered by the CEOs of Walmart (NYSE:WMT), Target (NYSE:TGT), and Home Depot (NYSE:HD) to U.S. President Donald Trump during a private Oval Office meeting in early April. In response to mounting pressure from retailers and economic indicators, the U.S. and China reached an agreement on May 12, to reduce tariffs for a 90-day period. Under this deal, U.S. tariffs on Chinese goods will decrease from 145% to 30%, while China’s tariffs on American impo",
+      "published_utc": "2025-05-14T20:30:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d43a43cadcdbadb22265fc64a69631c5b6e41b9bcb553017379d1d277ba6852",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460742,
+      "datetime": 1747225832
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:32.950601+00:00",
+    "cache_key": "news_08b4475bd9df250f19873e4dd6c61e7d",
+    "count": 3
+  }
+}

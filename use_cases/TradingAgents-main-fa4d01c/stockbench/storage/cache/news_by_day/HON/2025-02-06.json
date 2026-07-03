@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's 175-point fall led by losses in shares of Honeywell, Salesforce",
+      "description": "Dow's 175-point fall led by losses in shares of Honeywell, Salesforce",
+      "published_utc": "2025-02-06T23:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0fc11537943c0917a3e0674a6ea8756e7e546640b21c4c5616558eee7236a341",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132581651,
+      "datetime": 1738856820
+    },
+    {
+      "title": "Dow's nearly 300-point drop led by losses for Honeywell, Salesforce shares",
+      "description": "Dow's nearly 300-point drop led by losses for Honeywell, Salesforce shares",
+      "published_utc": "2025-02-06T22:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6df5b890c37a4bda978689993897c29a8d17d2504a64c39d2573a8a7f0436d7a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132581652,
+      "datetime": 1738852320
+    },
+    {
+      "title": "These two stocks can be blamed the Dow's selloff",
+      "description": "These two stocks can be blamed the Dow's selloff",
+      "published_utc": "2025-02-06T22:09:22",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=08291787dc638b09dc092f18d4044cf57a50cc511bdf87e2b26846cc7cf0c629",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132581653,
+      "datetime": 1738850962
+    }
+  ]
+}

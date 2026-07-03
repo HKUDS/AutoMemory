@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dow's 218-point drop led by losses for Amazon.com Inc., Nike stocks",
+      "description": "Dow's 218-point drop led by losses for Amazon.com Inc., Nike stocks",
+      "published_utc": "2025-04-30T23:27:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=702dec8d12b3ab46f404d857ab41959e912290ad64a60151f7d6239a159ad61a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134179137,
+      "datetime": 1746026820
+    },
+    {
+      "title": "Chevron, Amazon.com Inc. share losses contribute to Dow's 100-point fall",
+      "description": "Chevron, Amazon.com Inc. share losses contribute to Dow's 100-point fall",
+      "published_utc": "2025-04-30T22:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=28c159562f0c03ac267f99eaf3aa3241a5b93b999413bd1d4d17d90575f34e92",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134179142,
+      "datetime": 1746022860
+    },
+    {
+      "title": "Amazon.com Inc., Nike share losses lead Dow's nearly 350-point drop",
+      "description": "Amazon.com Inc., Nike share losses lead Dow's nearly 350-point drop",
+      "published_utc": "2025-04-30T21:13:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2aa0490bb5c7ce29ec9be71ec1d57700639dec9aaab4d8c3bab17e6f7cfe1862",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134151954,
+      "datetime": 1746018780
+    },
+    {
+      "title": "Dow's 237-point fall led by losses in Chevron, Amazon.com Inc. stocks",
+      "description": "Dow's 237-point fall led by losses in Chevron, Amazon.com Inc. stocks",
+      "published_utc": "2025-04-30T19:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8f5db8bb05f279b315d175cf3df51eee27a83b72c60e0b3c17a7da160779d936",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134146061,
+      "datetime": 1746013620
+    }
+  ]
+}

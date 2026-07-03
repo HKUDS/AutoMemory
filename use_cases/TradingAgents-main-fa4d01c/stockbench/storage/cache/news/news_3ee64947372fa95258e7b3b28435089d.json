@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Honeywell Acquires Sundyne & Boosts Critical Equipment Offerings",
+      "description": "HON's acquisition of Sundyne will enable it to strengthen its product offerings and boost its Energy and Sustainability Solutions business.",
+      "published_utc": "2025-06-10T21:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f4ef178498ac98de099d9fc031cd1d90c7e60c4e11101f628dc96d206f4bfb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135152697,
+      "datetime": 1749561900
+    },
+    {
+      "title": "Honeywell Unveils AI-Powered Building Management Solution",
+      "description": "Honeywell announced the launch of Honeywell Connected Solutions, an AI-powered platform that integrates critical building software and technologies into a single interface to help enable more...",
+      "published_utc": "2025-06-10T20:20:38",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c7ad0cfdca7b2c348cdb2c9d472fa5a18866e7f0339cbefa5e342d2a6e6e7249",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135158964,
+      "datetime": 1749558038
+    },
+    {
+      "title": "Honeywell launches Connected Solutions to link building systems",
+      "description": "The AI-powered building management system provides facility managers with remote monitoring and diagnostics, predictive maintenance prompts and can be installed in only a few hours, the company says.",
+      "published_utc": "2025-06-10T19:32:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d9d154ad9a21faf8998d127a17e5af64907b9ed15771843dcf9488a4da7c8fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171183,
+      "datetime": 1749555136
+    },
+    {
+      "title": "Does This Valuation Of Honeywell International Inc. (NASDAQ:HON) Imply Investors Are Overpaying?",
+      "description": "Key Insights Honeywell International's estimated fair value is US$172 based on 2 Stage Free Cash Flow to Equity...",
+      "published_utc": "2025-06-10T19:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7c81b2fbca06820a82e375ccfb983163bfb32ebf8161f466c7a03994cb6df3d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135149013,
+      "datetime": 1749553218
+    },
+    {
+      "title": "The Highest-Quality Dividend Contenders By Quality Scores",
+      "description": "",
+      "published_utc": "2025-06-10T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a715141ace3b115707a223df8914be7859358185883c42415537be64b013a81",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135148116,
+      "datetime": 1749546000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:43.906443+00:00",
+    "cache_key": "news_3ee64947372fa95258e7b3b28435089d",
+    "count": 5
+  }
+}

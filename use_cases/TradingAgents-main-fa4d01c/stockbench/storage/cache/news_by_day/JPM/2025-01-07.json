@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Stock Sinks As Market Gains: Here's Why",
+      "description": "JPMorgan Chase & Co. (JPM) closed at $240.85 in the latest trading session, marking a -1% move from the prior day.",
+      "published_utc": "2025-01-07T06:45:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f3d8f0887797426e4edd5277352825118f9d55ab7211ebfe05050d4fe2aa6d5",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132295244,
+      "datetime": 1736203519
+    },
+    {
+      "title": "JPMorgan Chase & Co. stock falls Monday, still outperforms market",
+      "description": "JPMorgan Chase & Co. stock falls Monday, still outperforms market",
+      "published_utc": "2025-01-07T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c79a927397e89a1cc6929beab3fe8a73139311108d8934bc08584d3bbdebfd4a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321483,
+      "datetime": 1736181180
+    }
+  ]
+}

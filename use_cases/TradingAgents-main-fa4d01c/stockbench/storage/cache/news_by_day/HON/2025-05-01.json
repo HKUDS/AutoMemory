@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Honeywell International Inc. (HON) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where Honeywell International Inc. (NASDAQ:HON) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, […]",
+      "published_utc": "2025-05-01T02:29:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f645bdcf6ae9806cdab77f48aa9fe6b25f3ca67525277c1389472788e4c7e0b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166118,
+      "datetime": 1746037784
+    }
+  ]
+}

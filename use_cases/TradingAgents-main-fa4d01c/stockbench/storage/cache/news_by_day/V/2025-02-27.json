@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q4 2024 Update",
+      "description": "Read here for an update on Fundsmith's latest 13F portfolio shifts with reduced major stakes, new small positions, and notable disposals.",
+      "published_utc": "2025-02-27T04:45:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4260df84acb1d040c8e5174d41bf079cdf4a02743d7da9afbddc6cd0b22b4c1b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/538053368/image_538053368.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132893007,
+      "datetime": 1740602751
+    }
+  ]
+}

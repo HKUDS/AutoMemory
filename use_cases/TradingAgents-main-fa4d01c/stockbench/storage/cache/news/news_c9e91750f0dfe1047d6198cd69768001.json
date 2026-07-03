@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PJM Appoints Deena O'Brien as Senior Director of Communications",
+      "description": "PJM Interconnection has appointed Deena O'Brien as senior director of corporate communications with responsibility for external and internal communications, creative services, PJM's online presence, and service delivery for external and internal conferences and meetings.",
+      "published_utc": "2025-07-01T01:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f680a1c5636ca8a1404c7c8d6ca2e815c5647805c0e8754e3ddd7417659acc9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671395,
+      "datetime": 1751304420
+    },
+    {
+      "title": "The Hackett Group® Announces Winners of the 2025 Hackett Innovation Awards",
+      "description": "MIAMI, June 30, 2025--The Hackett Group, Inc. (NASDAQ: HCKT), a leading generative artificial intelligence (Gen AI) consultancy and executive advisory firm, today announced the winners of its inaugural Hackett Innovation Awards, which recognize companies that are using artificial intelligence (AI) to transform their end-to-end business process performance. These companies have successfully infused AI into a wide range of end-to-end business processes.",
+      "published_utc": "2025-06-30T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=481d3c5265bc6a5da5e3b9e559f10b0af7e2623c2e9786579a7ef2a701bab1ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135670304,
+      "datetime": 1751292000
+    },
+    {
+      "title": "US FDA to revise ADHD stimulants labels to warn of weight loss risk in children under 6",
+      "description": "The U.S. Food and DrugAdministration said on Monday it is revising the labeling of allextended-release stimulants used to treat attention-deficithyperactivity disorder to include warnings about the...",
+      "published_utc": "2025-06-30T21:58:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=707bf1861c1a63c2461625dd51960426e01e2fa32e0965cb0ef58d705c2b2907",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135675800,
+      "datetime": 1751291888
+    },
+    {
+      "title": "US FDA to revise label of ADHD stimulants to add weight loss risk in patients younger than 6",
+      "description": "The U.S. Food and DrugAdministration said on Monday it is revising the labeling of allextended-release stimulants to treat attention-deficithyperactivity disorder to warn about the risk of...",
+      "published_utc": "2025-06-30T21:58:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=af5d8074b103e5c58ab3a1f0c6e46d28be1d434a3e9ff610b079dda052b40eac",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135670178,
+      "datetime": 1751291888
+    },
+    {
+      "title": "Johnson & Johnson: Patience Will Be Rewarded",
+      "description": "",
+      "published_utc": "2025-06-30T19:13:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e11d75d293afa34cf784f4f259ea502fa6d557f9fc391837dc421c285d08e37",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135654100,
+      "datetime": 1751281989
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:48.246722+00:00",
+    "cache_key": "news_c9e91750f0dfe1047d6198cd69768001",
+    "count": 5
+  }
+}

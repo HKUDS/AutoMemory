@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "Amgen (AMGN) concluded the recent trading session at $311.55, signifying a +1.5% move from its prior day's close.",
+      "published_utc": "2025-04-01T06:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0a364ba6bee873340f902350d7509fb0e4322e2e929d5e14266bd46254cdae2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133633050,
+      "datetime": 1743458415
+    }
+  ]
+}

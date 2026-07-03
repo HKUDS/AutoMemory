@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM): Among Ken Fisher’s Technology Stock Picks with Huge Upside Potential",
+      "description": "We recently published an article titled Billionaire Ken Fisher’s 10 Technology Stock Picks with Huge Upside Potential. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other technology stocks. Technology stocks have faced heightened volatility in 2025, with market sentiment swinging sharply in response to President Donald […]",
+      "published_utc": "2025-05-03T22:22:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8ed2c32175ba020d3c8c7bb10da9c3a32ea7710658d721ba56ce57fc5b8b3fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246934,
+      "datetime": 1746282167
+    },
+    {
+      "title": "Dogs Of The Dow Chase May's 'Safer' Buy",
+      "description": "Discover the top Dow Dogs for potential gains of 21%-45% by 2026, with Verizon leading in dividends. Read more on the price gainers for 2026 based on 1-year target prices.",
+      "published_utc": "2025-05-03T17:46:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=350e7769b702ab011e6e05a8a775d6afbeec758c10f0e5378d06981688951dc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470996886/image_1470996886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134226264,
+      "datetime": 1746265597
+    },
+    {
+      "title": "Safe Haven In Uncertain Times, Year Three",
+      "description": "Long-term growth investing journey began in 2022 with a focus on tax efficiency and generational wealth. See an update on my portfolio here.",
+      "published_utc": "2025-05-03T09:47:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2b74f6bdc63327694ca22ad8d815ce5b0d32cecb81d56f89ea41780c3e5032ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393651026/image_1393651026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134208413,
+      "datetime": 1746236820
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:54.416104+00:00",
+    "cache_key": "news_b0358fffd15fec26f369249dfe8e5a4f",
+    "count": 3
+  }
+}

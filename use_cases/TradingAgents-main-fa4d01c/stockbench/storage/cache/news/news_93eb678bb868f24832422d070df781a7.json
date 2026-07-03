@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Nvidia Looms After Palantir, Axon, Tesla Lead Market Sell-Off. Here's What To Do.",
+      "description": "Dow Jones Futures: Nvidia Looms After Palantir, Axon, Tesla Lead Market Sell-Off. Here's What To Do.",
+      "published_utc": "2025-02-22T19:54:13",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c975ed8e1ae99fa4bf022f4b0c35627fb11e8588ce55bc02c8d32c4dbd226ae8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132834651,
+      "datetime": 1740225253
+    },
+    {
+      "title": "Nvidia The Focus Of Earnings Reports This Week",
+      "description": "All eyes on Nvidia as it reports earnings this week. Does DeepSeek impact NVDA in any form? Wait and watch. US Q4 GDP's second estimate is due Friday. See more here.",
+      "published_utc": "2025-02-22T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26e80035243ee12f6743073bacabfac4e6c4e777fe7dbf60fd88718b4048a9ca",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132833931,
+      "datetime": 1740222000
+    },
+    {
+      "title": "Palantir: The Market Has Lost Its Mind",
+      "description": "Palantirâs strong growth doesnât justify its high valuation. Read why PLTR stock is overvalued, with a fair value of $49.95 and speculative price pressure.",
+      "published_utc": "2025-02-22T12:03:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d0e4c68763fef5e24c00f87c3309507f2c1429ac72042f0cdbd762cffb971025",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154525211/image_2154525211.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132832510,
+      "datetime": 1740197034
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:35.779671+00:00",
+    "cache_key": "news_93eb678bb868f24832422d070df781a7",
+    "count": 3
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Alphabet results lead busy day of earnings",
+      "description": "Alphabet results lead busy day of earnings",
+      "published_utc": "2025-02-04T13:55:10",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e5dfd889369f51d42634e6a306820faabbe83decbd89331f4eace874326224f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543886,
+      "datetime": 1738648510
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-04T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9f0e321bd84bc0908c2d60cad98d6eeb676558d49ff712e015222291e5c555b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132546177,
+      "datetime": 1738600500
+    }
+  ]
+}

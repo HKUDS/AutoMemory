@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Visa (V) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+      "description": "Visa (V) closed the most recent trading day at $334.27, moving +0.87% from the previous trading session.",
+      "published_utc": "2025-04-24T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1fca0dbb5b83cb836e55cab12cc066b2b4c61c56ad6703bc6b4cbb79f70b972f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059279,
+      "datetime": 1745444717
+    },
+    {
+      "title": "Is Visa Inc. (V) the Best Nancy Pelosi Stock to Invest In Now?",
+      "description": "We recently published a list of 15 Best Nancy Pelosi Stocks To Invest In Now. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best Nancy Pelosi stocks to invest in now. We are aware that Nancy Pelosi isn’t the only member of the Congress with […]",
+      "published_utc": "2025-04-24T05:24:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9af3de72d3eb73d22a90dc91fee8539353285c1d83ded2b1aacfaf538e68698",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059280,
+      "datetime": 1745443452
+    },
+    {
+      "title": "UnitedHealth Stock Crash: 3 Better Dow Jones Dividend Stocks to Buy Now",
+      "description": "After UnitedHealth Group (NYSE: UNH) delivered a surprisingly weak first-quarter report last Thursday, its stock price crashed more than 22% on Friday -- the insurer's worst single-session drop since August 1998.  Prior to that sell-off, UnitedHealth was the largest component in the price-weighted Dow Jones Industrial Average (DJINDICES: ^DJI).  Now, the baton has been passed to Goldman Sachs.",
+      "published_utc": "2025-04-24T04:14:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=278e7328d0f3aade1d90a4eaa41ff05aca87b4654305a1e6942b3fbd3bd44b8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059281,
+      "datetime": 1745439257
+    }
+  ]
+}

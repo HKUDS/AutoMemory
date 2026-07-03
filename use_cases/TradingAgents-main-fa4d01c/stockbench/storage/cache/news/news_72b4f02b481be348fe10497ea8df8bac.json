@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
+      "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
+      "published_utc": "2025-02-19T05:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7facde2ae5c066853e3c10f645338611f87bab1b8480e5a5ef704337d2dad585",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/940959558/image_940959558.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781249,
+      "datetime": 1739914800
+    },
+    {
+      "title": "Creators Insist Coupon Browser Extensions Are Stealing Their Money. Will the Courts Agree?",
+      "description": "Creators Insist Coupon Browser Extensions Are Stealing Their Money. Will the Courts Agree?",
+      "published_utc": "2025-02-19T01:58:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=2c386bf24a4aab5d972880afb8bc9c5987bac3856d37eef9040281cb3713e34b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784577,
+      "datetime": 1739901480
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Inches Higher, Intel Soars On This Hope; Warren Buffett Loads Up On These Stocks (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Inches Higher, Intel Soars On This Hope; Warren Buffett Loads Up On These Stocks (Live Coverage)",
+      "published_utc": "2025-02-19T00:24:57",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a2a05a4cdb4c90fdc1d9da3608bcf4bbf7f995500120a17b3fb1f797ec0c1da0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784496,
+      "datetime": 1739895897
+    },
+    {
+      "title": "Big Tech May Have to Wait a Little Longer for a Merger Spree",
+      "description": "Big Tech May Have to Wait a Little Longer for a Merger Spree",
+      "published_utc": "2025-02-18T23:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c721ff9af03597f39fa63132f8aaeffa603c9115b507a785fa3708de2a9fc35e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784518,
+      "datetime": 1739894160
+    },
+    {
+      "title": "Meta Stock’s Huge Rally Ended Today",
+      "description": "Meta Stock’s Huge Rally Ended Today",
+      "published_utc": "2025-02-18T22:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6deca0c374b365bb8c05aef43c84817d5a9bc60519c24bae1d9fb1011507a3ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784519,
+      "datetime": 1739887800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:12.681066+00:00",
+    "cache_key": "news_72b4f02b481be348fe10497ea8df8bac",
+    "count": 5
+  }
+}

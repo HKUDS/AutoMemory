@@ -1,0 +1,101 @@
+{
+  "trace_id": "trace_id_1_decisions_log_dedup",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "Same-date overwrite, ticker isolation, read_last_n ordering",
+  "turns": [
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-05", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "AI chip demand accelerating into Q1", "key_risks": ["export restrictions", "inventory build"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-06", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Valuation stretched after recent run-up", "key_risks": ["margin compression", "competition from AMD"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-07", "ticker": "NVDA", "rating": "Sell", "one_line_thesis": "Technical breakdown signals near-term weakness", "key_risks": ["rising yields", "FOMO reversal"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "AAPL", "record": {"trade_date": "2026-01-05", "ticker": "AAPL", "rating": "Hold", "one_line_thesis": "Services growth offsetting hardware slowdown", "key_risks": ["regulatory pressure", "India manufacturing ramp"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-08", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Dip bought by institutions; support holds at 150", "key_risks": ["macro slowdown", "China export ban expansion"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "AAPL", "record": {"trade_date": "2026-01-06", "ticker": "AAPL", "rating": "Buy", "one_line_thesis": "Vision Pro gaining enterprise traction", "key_risks": ["execution risk on new product lines"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-09", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Consolidation phase expected before next leg up", "key_risks": ["interest rate sensitivity", "earnings guidance risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "AAPL", "record": {"trade_date": "2026-01-07", "ticker": "AAPL", "rating": "Sell", "one_line_thesis": "iPhone cycle peak; near-term downside risk", "key_risks": ["consumer spending weakness"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-05", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "OVERWRITE: Blackwell ramp ahead of schedule, revised upward", "key_risks": ["supply chain bottlenecks"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-10", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Momentum resuming post-consolidation", "key_risks": ["geopolitical risk", "sector rotation"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-11", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Risk-reward balanced; waiting for earnings catalyst", "key_risks": ["analyst downgrade risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-07", "ticker": "NVDA", "rating": "Strong Sell", "one_line_thesis": "OVERWRITE: confirmation of distribution pattern, high volume selling", "key_risks": ["systemic credit risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-12", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Re-entry on weakness; Blackwell orders confirmed by suppliers", "key_risks": ["tariff expansion"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-13", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Sideways action expected; wait for direction", "key_risks": ["elevated implied volatility"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-14", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "Breakout confirmed with volume; target raised to 200", "key_risks": ["short squeeze unwind"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "AAPL", "record": {"trade_date": "2026-01-08", "ticker": "AAPL", "rating": "Hold", "one_line_thesis": "Mixed signals; watching for services guidance update", "key_risks": ["ad revenue slowdown"]}}}
+  ],
+  "recall_queries": [
+    {
+      "label": "NVDA_last3_ratings_content",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-12"},
+        {"type": "substring", "value": "2026-01-13"},
+        {"type": "substring", "value": "2026-01-14"},
+        {"type": "substring", "value": "Strong Buy"},
+        {"type": "substring", "value": "Breakout confirmed"}
+      ]
+    },
+    {
+      "label": "NVDA_dedup_jan05_shows_overwrite",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 20},
+      "expected_information": [
+        {"type": "substring", "value": "Strong Buy"},
+        {"type": "substring", "value": "Blackwell ramp ahead of schedule"},
+        {"type": "not_substring", "value": "AI chip demand accelerating into Q1"}
+      ]
+    },
+    {
+      "label": "NVDA_dedup_jan07_shows_overwrite",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 20},
+      "expected_information": [
+        {"type": "substring", "value": "Strong Sell"},
+        {"type": "substring", "value": "confirmation of distribution pattern"},
+        {"type": "not_substring", "value": "Technical breakdown signals near-term weakness"}
+      ]
+    },
+    {
+      "label": "NVDA_record_count_after_dedup",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 20},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-05"},
+        {"type": "substring", "value": "2026-01-06"},
+        {"type": "substring", "value": "2026-01-07"},
+        {"type": "substring", "value": "2026-01-08"},
+        {"type": "substring", "value": "2026-01-09"},
+        {"type": "substring", "value": "2026-01-10"},
+        {"type": "substring", "value": "2026-01-11"},
+        {"type": "substring", "value": "2026-01-12"},
+        {"type": "substring", "value": "2026-01-13"},
+        {"type": "substring", "value": "2026-01-14"}
+      ]
+    },
+    {
+      "label": "AAPL_ticker_isolation",
+      "component": "DecisionsLog",
+      "args": {"ticker": "AAPL", "n": 5},
+      "expected_information": [
+        {"type": "substring", "value": "AAPL"},
+        {"type": "not_substring", "value": "NVDA"},
+        {"type": "not_substring", "value": "Blackwell"}
+      ]
+    },
+    {
+      "label": "TSLA_empty_for_unknown_ticker",
+      "component": "DecisionsLog",
+      "args": {"ticker": "TSLA", "n": 3},
+      "expected_information": [
+        {"type": "none_or_empty"}
+      ]
+    },
+    {
+      "label": "NVDA_ordering_oldest_first_in_window",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 3},
+      "expected_information": [
+        {"type": "regex", "value": "2026-01-12.*2026-01-13.*2026-01-14"}
+      ]
+    }
+  ]
+}

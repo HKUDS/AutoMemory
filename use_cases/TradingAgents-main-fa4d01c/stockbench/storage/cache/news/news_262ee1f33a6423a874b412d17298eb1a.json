@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "AI CEO issues grave warning about the future of Nvidia",
+      "description": "Despite its recent progress, the AI leader may be at serious risk of falling into a trap.",
+      "published_utc": "2025-03-27T06:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d508d288dbc4054c6c8fdf7f624ec8489e7e07b36ef3e6747136c304a88a622e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461940,
+      "datetime": 1743026580
+    },
+    {
+      "title": "Rising Stars: 3 AI Stocks to Watch in the Quantum Computing Space",
+      "description": "You might be surprised to learn which AI giants are poised to dominate the quantum computing market in the long run. These three familiar companies are building the future in two cutting-edge fields simultaneously.",
+      "published_utc": "2025-03-26T23:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bdb2ff8eb9f0f985edde85309191d838382156f39420e0828f2992d9f6c8814",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133458244,
+      "datetime": 1743003540
+    },
+    {
+      "title": "Here's Why IBM's AI Growth Makes It a Stock to Buy Now",
+      "description": "IBM's AI strategy is paying off with explosive acceleration after a slow start. Are you paying attention to this unsung hero of enterprise-class computing?",
+      "published_utc": "2025-03-26T21:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=435c389804493e15bc558354369629be75560caf0bf67976f83df5135e9ca7e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133457141,
+      "datetime": 1742995020
+    },
+    {
+      "title": "Dow rallies 225 points on gains in shares of Honeywell, IBM",
+      "description": "Dow rallies 225 points on gains in shares of Honeywell, IBM",
+      "published_utc": "2025-03-26T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0f54bf309547556e7549cc8f1c9604ea9cfeb1bf07c2d9a802860126484632b2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133463714,
+      "datetime": 1742982300
+    },
+    {
+      "title": "IonQ: Building A Unique Quantum Edge",
+      "description": "IonQ's unique trapped-ion technology and strategic partnerships drive strong growth. See why I continue to rate IONQ stock as a strong buy.",
+      "published_utc": "2025-03-26T12:23:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b678be0c38132bf26086800d80302cbc448f2bff51f405f76733b5d666612435",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2156615862/image_2156615862.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133446549,
+      "datetime": 1742962984
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:23:02.469189+00:00",
+    "cache_key": "news_262ee1f33a6423a874b412d17298eb1a",
+    "count": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Advances While Market Declines: Some Information for Investors",
+      "description": "Amgen (AMGN) closed the most recent trading day at $297, moving +1.38% from the previous trading session.",
+      "published_utc": "2025-07-09T06:00:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02841acc548213510ab6e4df3a2f300cb66ad139277362300596abe233cf09ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829936,
+      "datetime": 1752012001
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500 slip as Trump stays firm on August tariff deadline, announces copper duties",
+      "description": "Investors are digesting Trump's stiff tariffs on imports from more than a dozen countries and delayed the return of sweeping April levies.",
+      "published_utc": "2025-07-09T04:01:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12c0ac73d9cc5505678bbf10c23b364195435680ed971716860e125a792a1e4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135819266,
+      "datetime": 1752004893
+    },
+    {
+      "title": "Uber's highs, Trump tariff warning, Wendy’s CEO heads to Hershey",
+      "description": "Market Domination host Josh Lipton tracks key movers and headlines in this Market Minute. Pharma stocks such as Pfizer (PFE), Amgen (AMGN), and AbbVie (ABBV) are in focus after President Trump warned of tariffs up to 200%, though he hinted at a grace period for companies shifting production to the US. Uber (UBER) briefly hit another intraday record. Meanwhile, Wendy’s (WEN) CEO Kirk Tanner will exit the company to lead Hershey (HSY), with CFO Ken Cook stepping in as interim chief of the fast food chain. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-07-09T02:17:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f06d83f3ce26c3a1771ddee70d6d411dd52da58d6f3c81a484d185c7865d8174",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135814702,
+      "datetime": 1751998666
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-09T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bb46691b77c80515fb98a0730d2a9c99a8a015adadee663e858cdbc99c4141b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135859998,
+      "datetime": 1751992560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:27.042988+00:00",
+    "cache_key": "news_484e5e71bad28af8bfc748be00ed464a",
+    "count": 4
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Mastercard: Remains A Buy Due To Its Dominant Duopoly Position",
+      "description": "",
+      "published_utc": "2025-06-10T07:16:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4c5762294f923dd4974e240bfa453953ce822cdce8978ad55dc69679067e5d7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140509,
+      "datetime": 1749511007
+    },
+    {
+      "title": "Jim Cramer Says to “Look No Further Than Visa (V)”",
+      "description": "We recently published a list of Jim Cramer Recently Looked at These 18 Stocks. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other stocks that Jim Cramer discusses. Cramer made some positive comments toward Visa Inc. (NYSE:V) and called it a “reliable fintech,” as he said: […]",
+      "published_utc": "2025-06-10T03:04:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63459388f2e79dc00ad8627d2de18517a1edd94e0b6353a12cfa565afafa1ab2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139627,
+      "datetime": 1749495842
+    },
+    {
+      "title": "Will New Client Wins Unit Aid Gorilla Technology's Q1 Earnings?",
+      "description": "GRRR's Q1 results are expected to gain on expanding geographic presence and solid demand for its AI-driven security and intelligence solutions.",
+      "published_utc": "2025-06-10T00:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4856848f1f9f2bebd09ad9ee26ffe5ada053021fb0830a941d60ca9d9f2ee68f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139628,
+      "datetime": 1749487800
+    },
+    {
+      "title": "Mastercard's Global Transactions Roaring: Can It Sustain the Growth?",
+      "description": "MA rides on strong global spending and 15% cross-border volume growth, but rising costs may test its momentum.",
+      "published_utc": "2025-06-10T00:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a871e58bead7a054317db327a94074841bb62bb41c21b05641d64dfdaf121b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138000,
+      "datetime": 1749486360
+    },
+    {
+      "title": "Visa: A Cornerstone Of My Portfolio Since 2016 - And Its Evolution Keeps Me Bullish",
+      "description": "Visa's dominance in cashless payments, stellar financials, and growth potential make it a hold forever investment. Click here to read my most recent analysis.",
+      "published_utc": "2025-06-09T23:50:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=07f00360ae670ed2c8be3f909ed86006d0b73aeef276172220df4b648bf40086",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458685619/image_458685619.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138251,
+      "datetime": 1749484209
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:53.600915+00:00",
+    "cache_key": "news_bbd4ae0ab2fbdbb0e3008e328ab257df",
+    "count": 5
+  }
+}

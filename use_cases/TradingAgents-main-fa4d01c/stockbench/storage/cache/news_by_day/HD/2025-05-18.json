@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Tax Bill News; Target, Home Depot, and Snowflake Earnings; and More Stock Market News to Watch This Week",
+      "description": "Tax Bill News; Target, Home Depot, and Snowflake Earnings; and More Stock Market News to Watch This Week",
+      "published_utc": "2025-05-18T22:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b2b148851e79b94364c05eb437be9ae3daad59e4b1aeafda9841b37c3b82d86f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134582511,
+      "datetime": 1747576800
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation: May 2025",
+      "description": "Discover a model portfolio of dividend-paying stocks & ETFs aimed to beat the S&P 500. Learn strategies for diversification & long-term growth. Click for more.",
+      "published_utc": "2025-05-18T21:25:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29e68c6a874f383bf720d101b9bbdde6f819a96418934ffe8a8abff486120174",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134570896,
+      "datetime": 1747574749
+    }
+  ]
+}

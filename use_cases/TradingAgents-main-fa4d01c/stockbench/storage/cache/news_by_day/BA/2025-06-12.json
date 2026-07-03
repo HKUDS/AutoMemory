@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Boeing Restarts 737 MAX Shipments to China",
+      "description": "The Boeing Company (NYSE:BA) is one of the best Dow stocks to invest in. On June 9, a Boeing 737 MAX aircraft landed in China, marking what appears to be the resumption of deliveries to Chinese airlines after a pause linked to trade tensions between the US and China. Flight tracking data showed the jet, […]",
+      "published_utc": "2025-06-12T04:54:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20f5f03a7baee0338f2ac0d5e98603070bd20c9dfca07018a96c54415759252d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199375,
+      "datetime": 1749675265
+    },
+    {
+      "title": "US lawmakers to attend Paris Airshow amid tariff, national security concerns",
+      "description": "WASHINGTON -More than two dozen U.S. lawmakers are set to attend the Paris Airshow next week amid rising concerns about potential American aerospace tariffs and national security issues, lawmakers...",
+      "published_utc": "2025-06-12T00:54:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8b2357345356b7409379d5e21ce4d0a02f12083e75ee57af571ff33b05e330f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135194322,
+      "datetime": 1749660857
+    }
+  ]
+}

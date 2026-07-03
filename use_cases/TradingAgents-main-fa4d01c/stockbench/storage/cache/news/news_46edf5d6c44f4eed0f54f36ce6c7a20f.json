@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth (UNH) Moves 5.4% Higher: Will This Strength Last?",
+      "description": "UnitedHealth (UNH) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+      "published_utc": "2025-04-09T23:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba1d84718d24494f41feff310856576d3092753bd2f6dc77ebacf9bb4db22d4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841317,
+      "datetime": 1744211460
+    },
+    {
+      "title": "UnitedHealth vs. Humana: Which Healthcare Stock Should You Buy Now?",
+      "description": "The CMS announced a hike in MA payments for fiscal year 2026, which will likely deliver a notable boost to UNH & HUM's bottom lines.",
+      "published_utc": "2025-04-09T23:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a078016912aebcae3621d02dcbedff26f109d1a9711b2db73799a7ee46de414a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841318,
+      "datetime": 1744211400
+    },
+    {
+      "title": "Company News for Apr 9, 2025",
+      "description": "Companies in The News Are: UNH, TSLA, CEG, ALB",
+      "published_utc": "2025-04-09T21:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=212191b64d2bb907013eb22fd43edcb5b1b9f641fc4c848402e0335d250ab73b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133829192,
+      "datetime": 1744204920
+    },
+    {
+      "title": "Apple, Walmart share gains lead Dow's 325-point jump",
+      "description": "Apple, Walmart share gains lead Dow's 325-point jump",
+      "published_utc": "2025-04-09T20:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=03eb637b8c5be11f9baec3c0b9d7f5ea41132066aef6a63c370e9646a381dccd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133843774,
+      "datetime": 1744203480
+    },
+    {
+      "title": "JGRW: A New Growth ETF With Relative Low Volatility",
+      "description": "JGRW is a low-volatility, tech-focused large-cap ETF with strong ROE criteria. Is it the right investment for your portfolio? Read more about the ETF here.",
+      "published_utc": "2025-04-09T20:19:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd2419709116a14ef6cf3a7dccea1f00d7bb7d8c025a6919f0f041afbdb02816",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1152373308/image_1152373308.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133836536,
+      "datetime": 1744201172
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:50.565252+00:00",
+    "cache_key": "news_46edf5d6c44f4eed0f54f36ce6c7a20f",
+    "count": 5
+  }
+}

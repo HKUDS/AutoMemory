@@ -1,0 +1,1372 @@
+{
+  "user_id": "user110_AT_demo",
+  "description": "Mixed user turns: profile merged into 2026-01-01 (shuffled, seed 42); timeline chronological; one turn per day. Timestamps for nanobot ingest are assigned in bench/esl_turn_timing.py.",
+  "sources": {
+    "profile": "user_turn_profile.json",
+    "timeline": "user_turn_timeline.json"
+  },
+  "mixing": {
+    "random_seed": 42,
+    "profile_merge_date": "2026-01-01",
+    "profile_order": "shuffled_turns_then_messages_in_turn_order",
+    "ingest_time_assignment": "bench/esl_turn_timing.py",
+    "layout": "one_turn_per_calendar_day"
+  },
+  "turns": [
+    {
+      "date": "2026-01-01",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Allergies and intolerances: I have seasonal pollen allergy. No other allergies or adverse reactions come to mind right now."
+        },
+        {
+          "role": "user",
+          "content": "For stress management, the two things that help me most are regular physical exercise and disconnecting from work email on weekends. That weekend disconnect is important because otherwise work tends to bleed into everything."
+        },
+        {
+          "role": "user",
+          "content": "Past medical history: I had a laparoscopic appendectomy when I was 22 because of acute appendicitis. It was emergency surgery, but I fully recovered and had no complications afterward."
+        },
+        {
+          "role": "user",
+          "content": "Family history: my father has hypertension that started around age 55, but it's controlled. My mother is healthy. There doesn't seem to be any obvious clustering of chronic diseases in my family history."
+        },
+        {
+          "role": "user",
+          "content": "Just to summarize the current picture: I'm a generally healthy 34-year-old male sales manager with no active chronic disease, seasonal pollen allergy, prior appendectomy at 22 with full recovery, a family history of controlled hypertension in my father, and a prevention-focused plan around weight, sleep, exercise, burnout prevention, and cardiovascular health."
+        },
+        {
+          "role": "user",
+          "content": "Sleep is a big one for me. I try to strictly protect an 11:00 PM to 6:30 AM sleep schedule. I use blackout curtains and track sleep quality with my smartwatch."
+        },
+        {
+          "role": "user",
+          "content": "On mental health, I think I'm resilient and high-functioning. My job definitely brings significant stress, but I manage it proactively and I don't have signs of anxiety or depression. My main coping mechanisms are a rigorous gym schedule, strict adherence to sleep routines, and strategic planning and scheduling."
+        },
+        {
+          "role": "user",
+          "content": "Overall my health is good. I don't have any active chronic conditions right now, and I'm mostly focused on prevention: keeping my weight stable, maintaining good sleep habits, staying physically fit, and making sure my long-term cardiovascular health stays on track. My job can be stressful, but I try to offset that with self-care routines."
+        },
+        {
+          "role": "user",
+          "content": "Lifestyle-wise, I have never smoked. I drink socially, usually around 1 to 2 units per week, mostly at client dinners. For exercise, I'm highly active and usually go to the gym 4 days a week, mixing strength training with cardio intervals."
+        },
+        {
+          "role": "user",
+          "content": "For measurements, I'm 178 cm tall and about 79 kg. I'm not coming in with acute symptoms; this is basically for annual preventive health screening. I am interested in optimizing my energy levels for work because my career demands a lot physically and mentally, and I see my health as a real asset for doing well professionally."
+        },
+        {
+          "role": "user",
+          "content": "My goals of care are pretty straightforward: maintain an optimal BMI, avoid occupational burnout, and protect long-term cardiovascular health through lifestyle management. I don't want to wait until something becomes a problem; I'd rather stay ahead of things."
+        },
+        {
+          "role": "user",
+          "content": "Hey, I want to set up my basic health profile so you have some context about me going forward. I'm a 34-year-old male, married, living in an urban area. I work as a Sales Manager, and my education level is a Bachelor's degree."
+        },
+        {
+          "role": "user",
+          "content": "A bit more about my personality and day-to-day style: I thrive in a pretty fast-paced city rhythm and I come across as high-energy and outgoing, which fits my sales work. At the same time, I really try to protect my downtime and recharge through disciplined exercise and sleep. I'm fairly strategic and conscientious, maybe a bit Type A, and I prefer structured plans over just winging it. I'm warm with people, but I also have a competitive streak and I like constantly improving myself."
+        },
+        {
+          "role": "user",
+          "content": "For diet, I'm pretty conscious about food. I prioritize high-protein and whole foods, and I meal prep lunches so I don't end up snacking on unhealthy office food. I do occasionally indulge during business dinners, though."
+        },
+        {
+          "role": "user",
+          "content": "Hey nanobot, just checking in. My moderate activity time today was 49.0289 minutes, which feels a bit low compared to my usual routine."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: My BP was 76.8609 mmHg, and I noticed my average heart rate during exercise was 137.2382 bpm. Also, my basal body temperature was 36.4469 °C."
+        },
+        {
+          "role": "user",
+          "content": "Midday update: I walked 7267.6102 meters today, and my daily exercise duration was 19.583 minutes. My recovery time was 36.4794 hours, which seems a bit high."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: My heart rate variability was 68.2418 ms, and I had 217.2383 minutes of light sleep. My sleep efficiency was 89.7308 %, which is decent."
+        },
+        {
+          "role": "user",
+          "content": "Evening check: My moderate activity time was 49.0289 minutes, and I had 25.4811 minutes of vigorous activity. My VO2 max was estimated at 50.2061 mL/kg/min."
+        }
+      ],
+      "turn_kind": "mixed",
+      "profile_message_count": 14,
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-02",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning log: my body weight was 77.9674 kg, and I had a pretty good sleep with 426.0342 minutes total. Also, my heart rate during exercise averaged 138.2955 bpm."
+        },
+        {
+          "role": "user",
+          "content": "Midday check-in: I hit 9866 steps today and moved around a lot with 25.4469 minutes of vigorous activity. My Body Battery is at 79.4186 %, so I feel pretty good."
+        },
+        {
+          "role": "user",
+          "content": "Evening note: My resting heart rate is 52.9533 bpm, and my glucose levels were 4.8117 mmol/L. I also had a great workout with a max heart rate of 175.5542 bpm."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-03",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my weight was 78.1374 kg, and my sleep recovery score was 91.3446. I also noticed my muscle mass was 61.73 kg today."
+        },
+        {
+          "role": "user",
+          "content": "Just did a quick log: my daily stress score was 39.248, and I stood for 120.3462 minutes. The 24-hour average diastolic BP was 73.9776 mmHg, and systolic was 114.093 mmHg."
+        },
+        {
+          "role": "user",
+          "content": "After my workout, my recovery time was 24.9615 hours. I also had a decent sleep with 440.221 minutes total sleep time and 96.933% sleep efficiency."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: my body weight has been decreasing from 78.1374 kg on 2026-01-03 to 77.0778 kg on 2026-01-29. That's a drop of -1.0596 kg."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-04",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my sleep recovery score this morning, and it was 96.0354. That's pretty solid, and I feel pretty rested."
+        },
+        {
+          "role": "user",
+          "content": "After my workout, my recovery time showed 28.6656 hours. I also noticed my training readiness was on the low side."
+        },
+        {
+          "role": "user",
+          "content": "Morning check-in: my weight was 77.9814 kg today, and my sleep felt pretty decent after about 7 hours."
+        },
+        {
+          "role": "user",
+          "content": "Quick log for tonight: stress was moderate, and my glucose readings looked pretty normal. Also, my wake after sleep onset was 10.2893 minutes."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-05",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today: my training load was 85.4666, which feels pretty high after that tough workout yesterday."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my average heart rate during exercise was 140.2031 bpm. I wonder how that compares to the next few weeks."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: I had a solid 67.7399 minutes of exercise today, which is a good start to my fitness goals."
+        },
+        {
+          "role": "user",
+          "content": "My heart rate recovery was 40.0527 bpm, and my resting heart rate was 51.9367 bpm. Both seem pretty normal."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my daily step count was 11376 steps, which is a bit lower than usual, but I was pretty busy today."
+        },
+        {
+          "role": "user",
+          "content": "Today’s sleep was great, with 97.674% efficiency and only 15.3348 minutes of wake time after falling asleep."
+        },
+        {
+          "role": "user",
+          "content": "My weight is 78.2853 kg, and I’m feeling a bit more energetic than usual. Maybe the training load is helping."
+        },
+        {
+          "role": "user",
+          "content": "I also saw my daily stress score was 35.9781, which isn’t too bad. I should try to keep it lower this week."
+        },
+        {
+          "role": "user",
+          "content": "Glucose levels were around 5.0613 mmol/L, which seems stable. No worries there."
+        },
+        {
+          "role": "user",
+          "content": "I had a lot of light activity today, 209.1451 minutes, and 42.8202 minutes of moderate activity. That’s a good balance."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 30
+    },
+    {
+      "date": "2026-01-06",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my sleep stats for today - my sleep latency was 12.8653 minutes. I feel like I fell asleep pretty quickly, but I was up a few times during the night."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my weight is 78.6068 kg, and my Body Battery is at 89.9519 %. I feel pretty good, but I noticed my stress levels were a bit high last night."
+        },
+        {
+          "role": "user",
+          "content": "Another data point: my daily exercise duration was 65.745 minutes, and my average heart rate during that time was 138.8325 bpm. I think I pushed myself a bit harder today."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: my sleep efficiency was 97.9713 %, which is really good. I got about 7 hours and 40 minutes of sleep, but I had some wake after sleep onset at 13.6347 minutes."
+        },
+        {
+          "role": "user",
+          "content": "My glucose levels were pretty stable today, averaging 5.1405 mmol/L. I also had a decent amount of deep sleep at 105.152 minutes, which is great for recovery."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-07",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today. My total sleep time was 458.602 minutes, which is about 7 hours and 38 minutes. Not bad for a busy day."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my 24-hour average systolic blood pressure was 113.0927 mmHg. Feels stable, but I'll keep an eye on it."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: I had 27.7749 minutes of vigorous activity today. That’s pretty active, but I wonder how my cardiorespiratory fitness is doing."
+        },
+        {
+          "role": "user",
+          "content": "Cardiorespiratory fitness today was 49.1627. I remember it was a bit higher last week, so maybe I need to step up my training a bit."
+        },
+        {
+          "role": "user",
+          "content": "By the way, from January 7th to 15th, my cardiorespiratory fitness decreased by 0.2809. Not too bad, but I should track it more closely."
+        },
+        {
+          "role": "user",
+          "content": "I also noticed my daily step count was 12,382 steps and I walked 7,912.2178 meters. A good day for movement."
+        },
+        {
+          "role": "user",
+          "content": "My stress score was 41.3971, which is moderate. I feel like I managed it pretty well today."
+        },
+        {
+          "role": "user",
+          "content": "My resting heart rate was 52.4289 bpm, and my recovery time after workouts was 21.6 hours. Not too bad for a day with some intense activity."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-08",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Had a pretty active day today, logged 45.0823 minutes of moderate activity on my smart watch. Also, I burned around 940.4636 kcal and moved 7202.5835 meters."
+        },
+        {
+          "role": "user",
+          "content": "Ending the day, my Body Battery was at 83.8691 %, and I had a good night's sleep with 108.263 minutes of deep sleep. My stress was a bit high at 43.7324, but I feel generally okay."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: my weight is 78.2404 kg, and my body fat is 17.4579 %. I also had 204.8779 minutes of light activity and 580.3071 minutes of sedentary time today."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-09",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today: my training readiness was 54.2623, and my body battery score was 71.7761 %."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my heart rate variability was 71.1158 ms, and my sleep latency was 5.7474 minutes. Also, my training load was 81.0712."
+        },
+        {
+          "role": "user",
+          "content": "Today's body battery score was 71.7761 %, which is up from 69.115 % last week. I'm feeling a little more energized."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my active calories were 691.2785 kcal today. Also, my average heart rate during exercise was 138.5554 bpm."
+        },
+        {
+          "role": "user",
+          "content": "Just saw my 24-hour average systolic blood pressure was (no reading) today. Not sure why it didn't show up."
+        },
+        {
+          "role": "user",
+          "content": "My daily average METs were 1.5686, and I walked 7307.3274 meters. Not bad for a day of work and some light activity."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 30
+    },
+    {
+      "date": "2026-01-10",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today - my recovery time was 35.9616 hours, which feels a bit high, but I guess I had a pretty intense week. Also, my active calories were 663.4803 kcal, so that's a solid number."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: I noticed my training readiness was at 48.1295, which is on the lower side. But my sleep efficiency was 95.8039%, so that's pretty good. Oh, and my recovery time was 35.9616 hours."
+        },
+        {
+          "role": "user",
+          "content": "Quick update: My daily step count was 9292 steps, and I had 17.8308 minutes of exercise. My recovery time was 35.9616 hours, which I found interesting. Also, my heart rate variability was 72.8465 ms."
+        },
+        {
+          "role": "user",
+          "content": "Just thought I'd note my recovery time was 35.9616 hours today. It's a bit strange, but I guess it's related to how much I've been training. My daily distance was 7378.0419 meters, and my VO2 max was 51.9645 mL/kg/min."
+        },
+        {
+          "role": "user",
+          "content": "Another day, another log. My recovery time was 35.9616 hours, and my daily stress score was 32.4921. I had a decent amount of moderate activity time too - 42.2236 minutes."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-11",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Had a pretty good night's sleep, got around 7 hours and 17 minutes total, which is 437.3503 minutes. My body felt rested, and I woke up feeling pretty refreshed."
+        },
+        {
+          "role": "user",
+          "content": "Morning check-in: my weight was 77.9611 kg, and my heart rate was 48.5854 bpm. I also noticed my Body Battery was at 87.601 %, which is pretty high."
+        },
+        {
+          "role": "user",
+          "content": "During my workout, my average heart rate was 143.6564 bpm, and my recovery time was 43.0129 bpm. I think I did pretty well today."
+        },
+        {
+          "role": "user",
+          "content": "By the end of the day, my stress level was at 33.3098, and my glucose levels were 4.7386 mmol/L. I feel like I'm keeping things in check."
+        },
+        {
+          "role": "user",
+          "content": "I had a good day overall. My sleep was solid, my exercise was decent, and I didn't notice any major issues with my health metrics."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-12",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Woke up feeling pretty good, my Body Battery was at 85.581 %, which is a solid start to the day."
+        },
+        {
+          "role": "user",
+          "content": "Checked the scale this morning and my Body Fat Percentage is 17.3424 %, and my BMI is 24.6453 kg/m². Still in a healthy range."
+        },
+        {
+          "role": "user",
+          "content": "My cardio fitness is at 49.7753, which seems decent. I also had a pretty active day with 11741 steps and 68.6451 minutes of exercise."
+        },
+        {
+          "role": "user",
+          "content": "The smart watch showed my heart rate recovery was 41.4054 bpm after a workout, and my HRV is 75.3386 ms. Not bad for a day of activity."
+        },
+        {
+          "role": "user",
+          "content": "Fasting blood glucose was 4.4227 mmol/L, and my average glucose was 4.6328 mmol/L. Everything looks normal."
+        },
+        {
+          "role": "user",
+          "content": "I had a total of 438.3376 minutes of sleep, which is about 7 hours and 18 minutes. My sleep efficiency was 97.4 %, so I must have slept pretty soundly."
+        },
+        {
+          "role": "user",
+          "content": "My training readiness is at 80.3476, which is pretty high. I feel ready for another workout tomorrow."
+        },
+        {
+          "role": "user",
+          "content": "I was pretty active throughout the day, with 220.1179 minutes of light activity and 43.3107 minutes of moderate activity. I even managed 28.7055 minutes of moderate exercise."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my muscle mass is 62.213 kg, and my visceral fat level is 6.24. I guess I'm in a good place overall."
+        },
+        {
+          "role": "user",
+          "content": "I had a good day overall, with a lot of movement and good sleep. My Body Battery is still at 85.581 %, and I feel pretty energized."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-13",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked in for the day. My body battery was at 82.951 %, which feels pretty good. Also, my 24-hour average diastolic blood pressure was 73.7005 mmHg this morning."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: I was active with 1074.3286 kcal burned, and my heart rate during exercise averaged 139.7545 bpm. My body fat percentage is 17.274 %, and my BMI is 24.6493 kg/m²."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: My body battery score has gone up a lot since last week, from 71.7761 % to 82.951 %. That’s a big jump. Also, my diastolic BP went up by 1.7331 mmHg from the start of the month."
+        },
+        {
+          "role": "user",
+          "content": "Just finished a workout. My training readiness is at 77.7982, and my recovery time is 35.9616 hours. I also had a good night's sleep with 435.4968 minutes total and 97.2207 % sleep efficiency."
+        },
+        {
+          "role": "user",
+          "content": "Another day of tracking: My average heart rate during exercise was 139.7545 bpm, and my maximum heart rate during that session was 175.6932 bpm. My glucose levels are looking normal at 4.6473 mmol/L."
+        },
+        {
+          "role": "user",
+          "content": "I walked 7814.1491 meters today and had 74.2422 minutes of exercise. My HRV is 81.5865 ms, and I spent 215.0038 minutes in light activity. Also, my SpO2 stayed around 97.6886 %."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-14",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked in for the day. My training load was 92.0125, which feels pretty high. Also, my max heart rate during exercise was 174.2582 bpm."
+        },
+        {
+          "role": "user",
+          "content": "Hey nanobot, my daily step count was 10335 steps today. I remember seeing that it went up to 11397 steps by the 18th, so that's a nice increase."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: My heart rate recovery was 42.0945 bpm, and my sleep efficiency was 95.7486%. I also had a good 7 hours of sleep."
+        },
+        {
+          "role": "user",
+          "content": "Another day of tracking. My training readiness was 77.2707, and my VO2 max was estimated at 50.5451 mL/kg/min."
+        },
+        {
+          "role": "user",
+          "content": "Just did a quick check. My daily step count was 10335 steps, and my active calories were 990.1779 kcal. I feel like I was pretty active today."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-15",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my body fat percentage was 16.628 % today, and my weight was 78.4195 kg on the smart scale. I also had a good night's sleep with 438.4674 minutes total sleep time."
+        },
+        {
+          "role": "user",
+          "content": "Just synced my smart watch data: my cardiorespiratory fitness is 48.8818, and my training load was 79.3013. I noticed my recovery time was 17.7527 hours, which feels a bit long."
+        },
+        {
+          "role": "user",
+          "content": "Quick log for the day: my active calories were 922.1819 kcal, and I took 11270 steps. My heart rate variability was 79.7003 ms, and my glucose levels were normal at 4.4 mmol/L fasting."
+        },
+        {
+          "role": "user",
+          "content": "End-of-day thoughts: my cardiorespiratory fitness has slightly decreased from earlier this month, but it's still in a good range. I also saw that my body fat percentage has decreased a bit from last week."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-16",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Woke up feeling pretty good this morning, and my Basal Body Temperature was 36.4818 °C. Also, my Body Fat Percentage came in at 16.8038 %, which seems consistent."
+        },
+        {
+          "role": "user",
+          "content": "Just checked my smart scale again, and my Body Weight is 78.2146 kg. My Muscle Mass is 62.1938 kg, which is looking solid."
+        },
+        {
+          "role": "user",
+          "content": "My smart watch didn't have much data today, like Active Calories and Daily Distance. But my Visceral Fat Level is 6.5841 level. Not too bad, I guess."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-17",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just wanted to note that my sedentary time today was 608.0329 minutes. I was sitting a lot during the day, but I also did some light movement here and there."
+        },
+        {
+          "role": "user",
+          "content": "During the day, I noticed my active calories were around 986.3432 kcal and my daily step count hit 10275 steps. I feel like I was pretty active overall."
+        },
+        {
+          "role": "user",
+          "content": "My body fat percentage came in at 16.6966%, and my weight was 77.7839 kg. I'm keeping an eye on those numbers as I continue my routine."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-18",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just checking in. My step count today was 11397 steps, which is a bit higher than last week. I also noticed my heart rate during exercise was around 143.89 bpm."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: I had a pretty active day with 11397 steps and 69.43 minutes of exercise. My average heart rate during that time was 143.89 bpm, and I felt pretty good."
+        },
+        {
+          "role": "user",
+          "content": "Quick update: I hit 11397 steps today, which is up from 10335 steps on the 14th. I also had a good workout and my recovery time was 23.68 hours. Not bad for a week's progress."
+        },
+        {
+          "role": "user",
+          "content": "Just wanted to note that my step count for today was 11397 steps, which is a solid increase from the 10335 steps I had a few days ago. I also had 22.61 minutes of vigorous exercise."
+        },
+        {
+          "role": "user",
+          "content": "Today's log: I hit 11397 steps and had a good workout with 22.61 minutes of vigorous activity. My training readiness was at 80.84, so I felt ready to go."
+        },
+        {
+          "role": "user",
+          "content": "Morning check-in: My step count today was 11397 steps, and I had 69.43 minutes of exercise. I also noticed my heart rate during exercise was 143.89 bpm, which felt good."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-19",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just wanted to log some of my stats from today. My wake after sleep onset was 16.2603 minutes, which seems pretty normal. Also, my resting heart rate was 50.9056 bpm, which feels good."
+        },
+        {
+          "role": "user",
+          "content": "Morning check-in: I had 91.874 minutes of deep sleep, and my lowest SpO2 was 93.8113 %. The cardiorespiratory fitness score was 49.7269, which is a slight increase from earlier in the week."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my body battery was at 75.8179 % today. Also, my average heart rate during exercise was 129.0925 bpm. I wonder if that's related to my increased cardiorespiratory fitness."
+        },
+        {
+          "role": "user",
+          "content": "Today's data shows my daily step count was 5648 steps and I walked 7279.3149 meters. My light activity time was 223.0399 minutes, and I had 49.2862 minutes of moderate activity. Overall, I feel pretty active."
+        },
+        {
+          "role": "user",
+          "content": "I also had a 24-hour average systolic blood pressure of 110.715 mmHg, and my fasting blood glucose was 4.5523 mmol/L. My mean glucose was 4.615 mmol/L, which seems stable."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 30
+    },
+    {
+      "date": "2026-01-20",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked in for the day. My HRV was 71.0304 ms, and I had a pretty solid sleep with around 7 hours of rest."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: I did some light movement, and my resting heart rate was 49.4422 bpm. Also, I stood for 108.8723 minutes today."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: My average heart rate during exercise was 114.6818 bpm, which is a nice improvement from a couple weeks ago. It's down by 25.5213 bpm since January 5th."
+        },
+        {
+          "role": "user",
+          "content": "My VO2 max is looking good at 50.2895 mL/kg/min. Also, I burned 290.0112 kcal today, and my step count was 3,911 steps."
+        },
+        {
+          "role": "user",
+          "content": "Fasting glucose was 4.682 mmol/L, which seems normal. I also had a good recovery time of 34.9164 bpm after my workout."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-21",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for the morning: my cardiorespiratory fitness is 49.0263, and my daily average METs are 1.2973 METs. Not sure if that's good or not, but it's consistent."
+        },
+        {
+          "role": "user",
+          "content": "On my way to work, I noticed my recovery time was 21.0185 hours. That feels a bit long, but I guess I wasn't super active today."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: my heart rate recovery after exercise was 37.0824 bpm. I wonder if that's a sign of good fitness or just a fluke."
+        },
+        {
+          "role": "user",
+          "content": "My daily step count was 4168, and I walked 6910.0423 meters. I guess that's a decent amount, but I could do better."
+        },
+        {
+          "role": "user",
+          "content": "My stress score was 38.4328, which seems pretty low. I guess I didn't have too much going on today."
+        },
+        {
+          "role": "user",
+          "content": "I had a good night's sleep—total sleep time was 398.7064 minutes, and my sleep recovery score was 74.9201. Feels like I rested well."
+        },
+        {
+          "role": "user",
+          "content": "My VO2 max estimate is 49.2131 mL/kg/min. Not sure what that means, but it’s a number I can track over time."
+        },
+        {
+          "role": "user",
+          "content": "My glucose levels were normal, with a fasting blood glucose of 4.8385 mmol/L and a mean glucose of 4.8646 mmol/L. No issues there."
+        },
+        {
+          "role": "user",
+          "content": "I had 30.0379 minutes of moderate exercise and 7.7893 minutes of vigorous activity. Not too bad for a lazy day."
+        },
+        {
+          "role": "user",
+          "content": "I spent 118.8614 minutes standing and 484.13 minutes lying down. I guess I was pretty sedentary, but I didn’t notice it at the time."
+        },
+        {
+          "role": "user",
+          "content": "My resting heart rate is 52.317 bpm. That’s pretty steady, so I guess I'm feeling okay."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-22",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just checking in. My step count today was 3988 steps, which feels a bit low compared to last week. I also did about 10.144 minutes of exercise, but I think I could have done a bit more."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my weight is 77.1691 kg, and my body fat percentage is 16.4942%. I had a little bit of stress today, but nothing too bad."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: I did 10.144 minutes of exercise today, but I noticed my training readiness was at 51.1939. Not the best, but I guess I wasn't feeling too motivated."
+        },
+        {
+          "role": "user",
+          "content": "Today's steps were 3988, which is a big drop from the 11397 I had last week. I wonder if I was less active because of the weather or just not feeling up to it."
+        },
+        {
+          "role": "user",
+          "content": "I had a light workout today, and my heart rate during it averaged 100.8757 bpm. My recovery time was 20.4267 hours, which feels a bit long."
+        },
+        {
+          "role": "user",
+          "content": "My glucose levels were normal today at 4.8844 mmol/L, and my sleep was decent at around 6 hours and 40 minutes. I had a lot of light sleep though, which is 205.0475 minutes."
+        },
+        {
+          "role": "user",
+          "content": "I also noticed my daily distance was 7281.1391 meters, which isn't too bad for a day with only 3988 steps. Maybe I walked more than I realized."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-23",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Had a weird night last night, couldn't really tell how many times I woke up. My sleep felt a bit fragmented, but I'm not sure if that's from the WASO or just my usual restless sleep."
+        },
+        {
+          "role": "user",
+          "content": "Morning check-in: my weight was 77.07 kg, and my BMI was 24.41. I guess I'm still in the healthy range, but I wish I could see more consistent progress."
+        },
+        {
+          "role": "user",
+          "content": "Just checked my blood pressure, and it was 77.53 mmHg. That seems normal, but I wish I had more data to track how it changes through the day."
+        },
+        {
+          "role": "user",
+          "content": "I tried to get in some exercise, but my smart watch didn't seem to pick up anything. I think I was too lazy to actually do anything, but I'll keep trying."
+        },
+        {
+          "role": "user",
+          "content": "My glucose readings were pretty stable today, around 4.93 mmol/L. I'm glad I didn't have any big spikes or drops, but I'd like to see more variety in my diet to keep things balanced."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-24",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today. My VO2 max came in at 50.6808 mL/kg/min, and my cardiorespiratory fitness was 50.8382. Feels like I'm making some progress."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my lowest SpO2 was 93.3492 %, which is a bit lower than usual. I also did 10.4957 minutes of exercise today. Not too bad."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: my 24-hour average diastolic blood pressure is up to 75.4336 mmHg from last week. Still in a good range though. My body battery is at 64.9743 %, so I should be ready for the day."
+        },
+        {
+          "role": "user",
+          "content": "Today’s exercise duration is up a bit from earlier in the week, now at 10.4957 minutes. My cardiorespiratory fitness also increased a little to 50.8382. I feel more energized."
+        },
+        {
+          "role": "user",
+          "content": "Just noticed my daily average METs are at 1.2868. Not too high, but I was pretty active today. My sleep recovery score is 80.4513, so I got decent rest."
+        },
+        {
+          "role": "user",
+          "content": "Another update: I had 10.4957 minutes of exercise today, and my training readiness is at 52.8472. I'm feeling ready to push a bit more."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-25",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my BMI was 24.302 kg/m² today, and my body fat percentage was 16.5092 %. I also weighed in at 76.934 kg on the smart scale."
+        },
+        {
+          "role": "user",
+          "content": "After my workout, I saw that my active calories burned were 635.8077 kcal and my average heart rate during exercise was 123.7201 bpm. My training readiness was at 68.1632, which feels decent."
+        },
+        {
+          "role": "user",
+          "content": "Quick log for the day: my sleep was pretty good with 427.5906 minutes total, and I had 73.2109 minutes of deep sleep. My recovery time was 22.6371 hours, which seems a bit long but maybe due to the workout."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my body fat percentage dropped slightly from 16.628 % on January 15th to 16.5092 % today. I wonder if that's from the new gym routine I started."
+        },
+        {
+          "role": "user",
+          "content": "Also, I saw that my BMI increased a bit from 24.302 kg/m² on January 25th to 24.3875 kg/m² by February 2nd. I guess it's just a small fluctuation."
+        },
+        {
+          "role": "user",
+          "content": "My daily step count was 8017 steps, and I walked 6594.5475 meters. I also had 50.2157 minutes of moderate activity today."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 30
+    },
+    {
+      "date": "2026-01-26",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just checking in. My body fat percentage was 16.3336 % today, which is a slight decrease from yesterday. Also, my lowest SpO2 was 93.3383 %, which feels a bit low but maybe it's just during sleep."
+        },
+        {
+          "role": "user",
+          "content": "Quick log: today's 24-hour average systolic blood pressure was 110.6311 mmHg, and my average heart rate during exercise was 125.9797 bpm. I also noticed my body battery was at 60.4987 %."
+        },
+        {
+          "role": "user",
+          "content": "Morning update: my basal body temperature was 36.0459 °C, and I had a cardiorespiratory fitness score of 49.5921. I also did 45.6816 minutes of exercise today."
+        },
+        {
+          "role": "user",
+          "content": "Nighttime check: I had 76.0014 minutes of deep sleep and 223.9333 minutes of light sleep. My heart rate variability was 68.5432 ms, and my recovery time was 20.3368 hours."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-27",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Had a pretty active day today, burned around 714.12 kcal, and my heart rate during exercise averaged 125.84 bpm."
+        },
+        {
+          "role": "user",
+          "content": "My body battery was at 66.86%, and I felt like I needed some rest after all the activity."
+        },
+        {
+          "role": "user",
+          "content": "The smart scale showed my body weight is 76.79 kg, and my body fat percentage is 16.35%."
+        },
+        {
+          "role": "user",
+          "content": "I had a good sleep, with 415.8 minutes of total sleep time, including 80.67 minutes of deep sleep."
+        },
+        {
+          "role": "user",
+          "content": "My glucose levels were pretty stable, with a fasting reading of 4.85 mmol/L and an average of 4.96 mmol/L."
+        },
+        {
+          "role": "user",
+          "content": "I had a stress score of 44.74 today, which feels pretty manageable."
+        },
+        {
+          "role": "user",
+          "content": "My recovery time was 23.65 hours, and my training readiness was at 68.39, so I feel ready for more workouts soon."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-28",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just wanted to log some stuff from today. My light activity time was 213.3047 minutes, which feels pretty active. I also noticed my deep sleep duration was 83.2835 minutes, so that's a solid amount of rest."
+        },
+        {
+          "role": "user",
+          "content": "Quick update: my 24-hour average systolic blood pressure was 111.2138 mmHg, and I burned 655.3725 kcal today. My body battery was at 61.4314 %, which seems decent for the day."
+        },
+        {
+          "role": "user",
+          "content": "I had a pretty good day overall. My heart rate during exercise averaged 128.9677 bpm, and my resting heart rate was 53.3087 bpm. I also had a deep sleep of 83.2835 minutes, which helped me feel refreshed."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-29",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just checked in this morning. My weight is 77.0778 kg, and I feel a bit lighter than last week."
+        },
+        {
+          "role": "user",
+          "content": "Quick log: my blood pressure was 111.09 mmHg systolic and 74.4034 mmHg diastolic. Also, I burned 679.8643 kcal today."
+        },
+        {
+          "role": "user",
+          "content": "Woke up with a basal temperature of 36.4033 °C. I had a decent night's sleep, about 7 hours total."
+        },
+        {
+          "role": "user",
+          "content": "My heart rate during exercise was 125.1014 bpm, and my maximum was 153.9612 bpm. I felt pretty good during the workout."
+        },
+        {
+          "role": "user",
+          "content": "Sleep was pretty deep—83.4613 minutes of deep sleep, and my recovery score was 92.4653. Not bad for a Tuesday."
+        },
+        {
+          "role": "user",
+          "content": "I had 58.7045 minutes of exercise today, mostly moderate activity. My training readiness was 66.7006, so I should be good to go tomorrow."
+        },
+        {
+          "role": "user",
+          "content": "My step count was 8290 steps. I need to up that a bit, but I'm moving more than usual."
+        },
+        {
+          "role": "user",
+          "content": "Body fat is at 16.6251 %, and muscle mass is 62.0579 kg. I'm keeping track of these numbers as I work on my fitness goals."
+        },
+        {
+          "role": "user",
+          "content": "My glucose level was 4.8913 mmol/L—normal range. No spikes or drops today."
+        },
+        {
+          "role": "user",
+          "content": "Heart rate variability was 69.2659 ms, and my resting heart rate was 54.7537 bpm. Everything looks stable."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-30",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey nanobot, just wanted to log some of my stats for today. My moderate activity time was 41.7047 minutes, and I walked a total of 6276.3174 meters. Also, my training readiness was 67.6443, which seems pretty good."
+        },
+        {
+          "role": "user",
+          "content": "I also noticed my daily exercise duration was 46.9209 minutes, and my average heart rate during exercise was 126.5791 bpm. My body battery was at 70.553 %, which feels decent."
+        },
+        {
+          "role": "user",
+          "content": "Tonight, I saw my daily stress score was 44.071, and my sleep efficiency was 94.6179 %. I had a pretty restful night with 85.3417 minutes of deep sleep and 217.4723 minutes of light sleep."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-01-31",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my training readiness was 66.1899 today, and I felt a bit low on energy despite a good night's sleep."
+        },
+        {
+          "role": "user",
+          "content": "After my workout, I noticed my recovery time was 21.7606 hours. Also, my body battery was at 59.7228%, which felt a bit low."
+        },
+        {
+          "role": "user",
+          "content": "Quick log for tonight: my blood pressure was 107.1218 mmHg systolic and 73.0945 mmHg diastolic. My glucose levels were 4.8617 mmol/L fasting, which looked normal."
+        },
+        {
+          "role": "user",
+          "content": "I had a pretty active day with 634.2969 kcal burned and 7832 steps. My heart rate recovery was 36.4276 bpm, and my HRV was 67.4006 ms."
+        },
+        {
+          "role": "user",
+          "content": "Overall, my training readiness was 66.1899, and I felt like I needed more rest after the workout."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-01",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my weight was 77.1683 kg today, and I noticed my resting heart rate was 52.9775 bpm. Also, I had 209.2831 minutes of light activity so far."
+        },
+        {
+          "role": "user",
+          "content": "Just finished a quick workout, and my recovery time was 34.4276 hours. The training readiness was at 56.1162, which feels a bit low, but I guess I need more rest."
+        },
+        {
+          "role": "user",
+          "content": "I just checked my daily step count and it's at 8396 steps. My light sleep was 221.809 minutes, and I had a total sleep time of 468.6213 minutes. Not bad for a night's rest."
+        },
+        {
+          "role": "user",
+          "content": "My body weight increased from 77.0778 kg on January 29th to 77.1683 kg today—so a small gain of 0.0905 kg. Still, I'm keeping an eye on it."
+        },
+        {
+          "role": "user",
+          "content": "I just had a moment to check my blood pressure. The 24-hour average diastolic was 73.3552 mmHg and the systolic was 106.5305 mmHg. Seems stable."
+        },
+        {
+          "role": "user",
+          "content": "Today's daily exercise duration was 65.9304 minutes, and my average heart rate during exercise was 141.1382 bpm. I also had a maximum heart rate of 163.7859 bpm during the workout."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 30
+    },
+    {
+      "date": "2026-02-02",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my training readiness was 76.837, and my body mass index came in at 24.3875 kg/m². Also, my visceral fat level was 6.3329 level."
+        },
+        {
+          "role": "user",
+          "content": "On the way to work, I noticed my active calories were 1060.6294 kcal and my daily step count was 10344 steps. My BP was 109.3167 mmHg systolic and 74.7481 mmHg diastolic."
+        },
+        {
+          "role": "user",
+          "content": "After my workout, my training load was 136.9669 and my heart rate recovery was 40.2032 bpm. I also had a pretty good average heart rate during exercise."
+        },
+        {
+          "role": "user",
+          "content": "Evening log: my BMI has increased from 24.302 kg/m² on January 25th to 24.3875 kg/m² today. I also noticed my muscle mass is at 61.9466 kg and my body fat percentage is 16.7416 %."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-03",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my 24-hour average diastolic blood pressure was 77.2967 mmHg today, which is a bit higher than it was a few weeks ago."
+        },
+        {
+          "role": "user",
+          "content": "Just updated my health log: my BMI went up a little to 24.4497 kg/m² today. I also had a good workout session with an average heart rate of 144.8259 bpm."
+        },
+        {
+          "role": "user",
+          "content": "Midday update: my body battery is at 73.3564%, and I felt pretty good after my morning walk. My blood pressure seems stable, but I noticed it's up a bit from last week."
+        },
+        {
+          "role": "user",
+          "content": "Quick log: today's 24-hour average diastolic blood pressure is 77.2967 mmHg. My BMI is up slightly to 24.4497 kg/m², and I had a decent amount of light activity."
+        },
+        {
+          "role": "user",
+          "content": "Evening recap: my 24-hour average diastolic blood pressure is 77.2967 mmHg, and my BMI is 24.4497 kg/m². I had a pretty active day with 9824 steps and 69.5779 minutes of exercise."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-04",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today: my training load was 125.1174, and my heart rate recovery after exercise was 34.6439 bpm. Feels like I pushed pretty hard today."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: my 24-hour average diastolic BP was 77.2758 mmHg, and I burned 958.324 kcal. Also, my body battery was at 65.79 %, so I might need a break soon."
+        },
+        {
+          "role": "user",
+          "content": "Quick note: my average heart rate during exercise was 143.9005 bpm, and my maximum heart rate during the workout was 174.4959 bpm. Definitely a good session."
+        },
+        {
+          "role": "user",
+          "content": "Afternoon check: my sleep efficiency was 96.4616 %, and I had 113.4312 minutes of REM sleep. I feel pretty rested, even though I only got 7 hours."
+        },
+        {
+          "role": "user",
+          "content": "Just saw my training load was 125.1174 and my heart rate recovery was 34.6439 bpm. I think I did a solid workout today, but I might need to ease up a bit tomorrow."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-05",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Woke up feeling decent, but my sleep was a bit disrupted. I had 401.5078 minutes of total sleep, and I woke up 13.7656 minutes during the night."
+        },
+        {
+          "role": "user",
+          "content": "During my morning routine, I checked my basal body temperature and it was 36.3805 °C. I also noticed my resting heart rate was 53.8526 bpm, which felt normal."
+        },
+        {
+          "role": "user",
+          "content": "My smart watch tracked my activity all day. I did 66.8957 minutes of exercise, with 25.383 minutes of vigorous activity, and my recovery time was 34.9672 hours."
+        },
+        {
+          "role": "user",
+          "content": "I had a good day of movement, with 190.7771 minutes of light activity and 47.4629 minutes of moderate activity. My VO2 max was estimated at 49.6963 mL/kg/min, which feels solid."
+        },
+        {
+          "role": "user",
+          "content": "At the end of the day, my heart rate variability was 69.0658 ms, and my training readiness was 69.9226. I'm feeling pretty good overall!"
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-06",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for today: my recovery time was 36.0532 hours, and my sleep efficiency was 94.0732%. Feels like I got a good rest."
+        },
+        {
+          "role": "user",
+          "content": "Morning update: my lowest SpO2 was 91.3846%, which is a bit lower than usual, but I guess it's still within normal range. My body weight is 77.8573 kg, and I had a decent amount of deep sleep."
+        },
+        {
+          "role": "user",
+          "content": "Quick log: I burned 976.7644 kcal today, and my daily step count hit 10517 steps. My heart rate variability was 69.5861 ms, and I had a pretty active day with 53.5925 minutes of exercise."
+        },
+        {
+          "role": "user",
+          "content": "End of the day: my sleep efficiency was 94.0732%, and my recovery time was 36.0532 hours. I also noticed my lowest SpO2 was 91.3846%, but I don’t think it’s anything to worry about."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-07",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just checked my stats for the day - my daily average METs went up to 1.6458 METs, which is an increase from 1.2973 METs back on 2026-01-21. That's a pretty solid jump by 0.3485 METs."
+        },
+        {
+          "role": "user",
+          "content": "Morning log: I had a good workout session, and my active calories hit 1048.9457 kcal. My daily average METs are looking strong at 1.6458 METs today."
+        },
+        {
+          "role": "user",
+          "content": "Another day with 71.4469 minutes of exercise, and my daily average METs climbed to 1.6458 METs. It's nice to see some progress there."
+        },
+        {
+          "role": "user",
+          "content": "Just had a quick check - my daily average METs are at 1.6458 METs, and I'm feeling more active than usual. My training readiness is at 67.7836, so I'm in decent shape."
+        },
+        {
+          "role": "user",
+          "content": "Today's daily average METs are 1.6458 METs, which is up from 1.2973 METs earlier this month. I've been moving more, and it's showing in the numbers."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-08",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Woke up feeling decent, my resting heart rate was 53.7 bpm this morning. I also had a pretty efficient sleep with 98.4% efficiency."
+        },
+        {
+          "role": "user",
+          "content": "Just finished a workout and my average heart rate during exercise was 154.9 bpm. My training readiness is at 76.2, so I think I'm in a good spot to push harder next time."
+        },
+        {
+          "role": "user",
+          "content": "My body battery is at 75.3%, which feels pretty good. I walked about 7,789 meters today and took 9,833 steps. I also burned 974.4 active calories."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my heart rate recovery after the workout was 38 bpm. My maximum heart rate during the workout was 186.3 bpm, which is pretty high but I guess that's normal for a tough session."
+        },
+        {
+          "role": "user",
+          "content": "My sleep was mostly good, but I had a few minutes of wakefulness during the night. I had 118.5 minutes of REM sleep and 511.8 minutes of lying time. My stress score was 51.0, which is fairly low."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-09",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning check-in: my heart rate variability was 62.3203 ms, and my 24-hour average diastolic blood pressure is 74.2884 mmHg. I also had a pretty solid 7 hours of sleep."
+        },
+        {
+          "role": "user",
+          "content": "Just finished a quick workout, and my training load came in at 123.8948. My estimated VO2 max is 50.9706 mL/kg/min, which feels good for today."
+        },
+        {
+          "role": "user",
+          "content": "Tonight's log: my resting heart rate is 54.6934 bpm, and I noticed my blood pressure has decreased by 3.0083 mmHg from last week. Also, I burned 637.2212 kcal today."
+        },
+        {
+          "role": "user",
+          "content": "Another day on the go—my step count is at 6738 steps, and I walked 6654.2731 meters. My heart rate recovery was 31.922 bpm, and my sleep was pretty consistent."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 30
+    },
+    {
+      "date": "2026-02-10",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just woke up and checked my BMI this morning, it's 24.7183 kg/m². That's a slight increase from last week, which was around 24.45 kg/m²."
+        },
+        {
+          "role": "user",
+          "content": "After my morning routine, I noticed my blood pressure was 114.44 mmHg for systolic and 74.55 mmHg for diastolic. I also had a resting heart rate of 56 bpm."
+        },
+        {
+          "role": "user",
+          "content": "I did a quick workout this afternoon and my average heart rate was around 145 bpm. My maximum heart rate during the session hit 174 bpm, which feels good for my current fitness level."
+        },
+        {
+          "role": "user",
+          "content": "I had a light sleep last night, about 233 minutes of light sleep and 95 minutes of deep sleep. I woke up 3 times, which is a bit more than usual."
+        },
+        {
+          "role": "user",
+          "content": "My body fat percentage is 16.89%, and I weigh 77.94 kg. My BMI is 24.72 kg/m², which is still in the healthy range."
+        },
+        {
+          "role": "user",
+          "content": "I had a pretty active day, walking over 6,800 meters and taking around 6,230 steps. I also had some moderate and vigorous activity, but not too much."
+        },
+        {
+          "role": "user",
+          "content": "My stress level today was around 58.6, which is moderate. I felt a bit tired by the end of the day, but nothing too bad."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-11",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Woke up feeling decent, but my resting heart rate was 56.3925 bpm this morning. Also, my sleep efficiency was 91.7057 %, which seems good."
+        },
+        {
+          "role": "user",
+          "content": "Had a solid workout session today, and my average heart rate during exercise was 148.1079 bpm. My maximum heart rate hit 173.6802 bpm, which feels pretty intense."
+        },
+        {
+          "role": "user",
+          "content": "My body battery was at 63.6701 % today, which is a bit low. I also had 51.8976 minutes of daily exercise, so I guess that's why I'm feeling a bit drained."
+        },
+        {
+          "role": "user",
+          "content": "My glucose levels weren't logged today, but I did notice my body fat percentage is 16.9181 %. I wonder if that's a good number or not."
+        },
+        {
+          "role": "user",
+          "content": "Today's 24-hour average diastolic BP was 74.8836 mmHg. I should probably keep an eye on that."
+        },
+        {
+          "role": "user",
+          "content": "I had 638.6879 minutes of sedentary time, which is a lot. I need to move more throughout the day."
+        },
+        {
+          "role": "user",
+          "content": "My training readiness was 65.5294 today, which is okay. But I also had a training load of 131.9244, so I guess that's why I'm feeling a bit tired."
+        },
+        {
+          "role": "user",
+          "content": "I had 96.0417 minutes of REM sleep, which is good. But I also woke up 30.1336 minutes during the night, so my sleep wasn't perfect."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-12",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Woke up feeling decent, but my BP and BBT weren't recorded today. My smart watch showed I burned about 965 kcal and had an average heart rate of 145.7 bpm during my workout."
+        },
+        {
+          "role": "user",
+          "content": "During the day, I noticed my stress score was 68.5, and my glucose levels were pretty stable at 4.6 mmol/L. I also had a good night's sleep with 438 minutes total, and my sleep efficiency was 94.4%."
+        },
+        {
+          "role": "user",
+          "content": "I took around 10,148 steps today and covered 7,185 meters. My resting heart rate was 55.2 bpm, and my heart rate variability was 73.2 ms. I also had 33.6 minutes of moderate exercise."
+        },
+        {
+          "role": "user",
+          "content": "My body fat percentage was 17.0%, and my BMI was 24.8. I also had a training readiness score of 68.7, which felt a bit low. I stood for 121.6 minutes and lay down for 511.4 minutes today."
+        },
+        {
+          "role": "user",
+          "content": "I had a pretty active day overall, with 208.4 minutes of light activity. My lowest oxygen level was 92.0%, and my cardio fitness was 48.9. I also had a mean glucose of 5.2 mmol/L today."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-13",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning log: my VO2 max was 49.6072 mL/kg/min, and my heart rate recovery after exercise was 36.402 bpm. Also, I burned 955.3574 kcal today."
+        },
+        {
+          "role": "user",
+          "content": "Quick check-in: I had a pretty active day with 63.1428 minutes of exercise, and my training readiness was at 72.5096. My BMI is 24.7592 kg/m², and I stepped 8899 times."
+        },
+        {
+          "role": "user",
+          "content": "End of day: my resting heart rate was 53.9068 bpm, and I got 435.1961 minutes of sleep. I also had 27.3756 minutes of vigorous activity and 25.3185 minutes of moderate exercise."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-14",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Felt pretty good after the workout, my Body Battery was at 74.7%, and my training readiness was 74.0%. I also had a solid sleep last night, with a recovery score of 94.7%."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    },
+    {
+      "date": "2026-02-15",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just woke up, and my Body Battery is at 71.8735 %. Feels decent, but I could use a little more energy. Also, my Resting Heart Rate is 51.5052 bpm – that's pretty low, so I'm probably well-rested."
+        },
+        {
+          "role": "user",
+          "content": "I checked my BP this morning, and it's 114.4624 mmHg. That's in the normal range. My sleep last night was pretty good, with 91.6875 minutes of deep sleep and 103.7075 minutes of REM. Not bad for a night's rest."
+        },
+        {
+          "role": "user",
+          "content": "Today's step count is already at 9910 steps. I think I hit my goal early. I also did 57.3553 minutes of exercise, mostly moderate and vigorous activity. My VO2 Max is 52.2318 mL/kg/min – still holding steady."
+        },
+        {
+          "role": "user",
+          "content": "I noticed my glucose levels are looking good. Fasting blood glucose is 4.6175 mmol/L, and my mean glucose is 5.153 mmol/L. I also had a low SpO2 of 92.253 %, but it bounced back to 97.5967 % on average."
+        },
+        {
+          "role": "user",
+          "content": "I've been pretty active today. I spent 52.9001 minutes on moderate activity and 25.3738 minutes on vigorous activity. My muscle mass is at 61.828 kg, and my BMI is 24.8988 kg/m². Not too bad for a day of activity."
+        }
+      ],
+      "turn_kind": "timeline",
+      "source_row_count": 29
+    }
+  ]
+}

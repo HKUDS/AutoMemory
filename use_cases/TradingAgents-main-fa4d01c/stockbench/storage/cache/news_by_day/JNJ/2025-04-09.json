@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Trump says pharmaceutical tariffs may be coming: What to know",
+      "description": "Drugmaker stocks, including Eli Lilly (LLY), Johnson & Johnson (JNJ), Merck (MRK), and Pfizer (PFE), are under pressure on Wednesday after President Trump announced that he may impose tariffs on pharmaceutical imports. Yahoo Finance Senior Health Reporter Anjalee Khemlani joins Morning Brief to break down the details. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+      "published_utc": "2025-04-09T22:11:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a04ba988dddb39f80fffc7912b11ca46a589bf0f30c8ab29645f4be12e91d0bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828249,
+      "datetime": 1744207917
+    },
+    {
+      "title": "Novo Nordisk, AbbVie Stocks Slide After Trump Vows Pharma Tariffs",
+      "description": "Stocks in drugmakers sold off globally after President Trump said tariffs on pharmaceutical imports will be unveiled shortly, signaling the industry could be next in line amid a trade war that is causing market turmoil.  AbbVie, Eli Lilly, Johnson & Johnson, Merck and Pfizer all fell at least 2% Wednesday morning.  Denmark's Novo Nordisk, Switzerland's Novartis and the U.K.'s AstraZeneca and GSK also fell 2% or more in the U.S.",
+      "published_utc": "2025-04-09T21:51:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ad9c1d7fea3deeec7d2b3a280135f38198b941591a33ba2179d1043ce0de99c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828256,
+      "datetime": 1744206677
+    },
+    {
+      "title": "Goldman Sachs Upgrades Johnson & Johnson (JNJ)",
+      "description": "",
+      "published_utc": "2025-04-09T20:04:27",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=7117b90dd0fb3487881bf2948e28a1e142f83e8b8542dc4f1e32cc1f901d011a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133827439,
+      "datetime": 1744200267
+    },
+    {
+      "title": "Johnson & Johnson, Amgen share losses contribute to Dow's 100-point drop",
+      "description": "Johnson & Johnson, Amgen share losses contribute to Dow's 100-point drop",
+      "published_utc": "2025-04-09T19:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e27971560febbb982a6ff26dac51197f646ae4bbe9a6cd38a00460b2d2d4f9ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133836304,
+      "datetime": 1744199820
+    }
+  ]
+}

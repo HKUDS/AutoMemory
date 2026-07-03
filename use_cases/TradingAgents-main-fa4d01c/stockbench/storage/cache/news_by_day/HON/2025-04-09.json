@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International : 2025 Proxy Statement",
+      "description": "LETTER FROM THE LEAD DIRECTOR DEAR SHAREOWNERS, As I reflect on my first year as Honeywell's independent Lead...",
+      "published_utc": "2025-04-09T15:56:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=44e3467e7c30b37edc76b11e1bf9485fdd51a7079d3db6aac1e7177a7092630d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133827131,
+      "datetime": 1744185371
+    }
+  ]
+}

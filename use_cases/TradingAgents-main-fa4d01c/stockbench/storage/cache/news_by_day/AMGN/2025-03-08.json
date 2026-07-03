@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "3 Magnificent Growth Stocks to Buy in March",
+      "description": "Prosper Junior Bakiny (Eli Lilly): What's considered excellent revenue growth depends on the industry.  With that context in mind, consider that Eli Lilly's revenue growth has not dipped below 20% since mid-2023.",
+      "published_utc": "2025-03-08T23:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9e2ea71c875b99b34fdb720c216a37bf14fa2904bbfc4b0be137be181e6570e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185017,
+      "datetime": 1741448460
+    },
+    {
+      "title": "AMGEN AND KYOWA KIRIN PROVIDE TOP-LINE RESULTS FROM ROCATINLIMAB PHASE 3 IGNITE STUDY IN ADULTS WITH MODERATE TO SEVERE ATOPIC DERMATITIS",
+      "description": "Amgen (NASDAQ:AMGN) and Kyowa Kirin Co., Ltd. (Kyowa Kirin, TSE: 4151) today announced new results from the ongoing ROCKET Phase 3 clinical trial program evaluating rocatinlimab, an investigational T-cell rebalancing therapy targeting the OX40 receptor, in moderate to severe atopic dermatitis (AD).",
+      "published_utc": "2025-03-08T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbbfb1eb2a7fd77209918912861331726ccd65b30c935eb30d33e850c1ee96a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185018,
+      "datetime": 1741431600
+    },
+    {
+      "title": "A Major Market Rotation Is Likely Coming",
+      "description": "The market hasnât priced in several undervalued AI stocks. Read why these stocks could outperform tech in the next market cycle.",
+      "published_utc": "2025-03-08T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c6d6c18c949ac77909a5de381dc8c854be2e40d9ba7d6a9459ec91dbff1bf7c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151843291/image_2151843291.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133107060,
+      "datetime": 1741431600
+    }
+  ]
+}

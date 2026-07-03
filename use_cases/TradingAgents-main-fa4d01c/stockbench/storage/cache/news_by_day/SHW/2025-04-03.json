@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "PPG Industries: Further Pain Is Expected",
+      "description": "PPG Industries, Inc. faces 2024 challenges with weak demand & auto struggles but growth in aerospace. Click for my look at PPG stock prospects amid tariff threats.",
+      "published_utc": "2025-04-03T00:02:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b61e7ad8e7332264749df309861cb7a98acfb6019d6fabeeacd4d764ff6edfc8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1021927100/image_1021927100.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133675582,
+      "datetime": 1743609769
+    }
+  ]
+}

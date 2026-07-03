@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Why Caterpillar Stock Jumped 11.5% in June",
+      "description": "Any fears about the impact of tariffs on Caterpillar and its stock price appear to be overblown.",
+      "published_utc": "2025-07-09T03:03:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa1674c0d5897bdf5cd0448ad8d94ee34f2dd0919b0c7a0c5c55cf9f187ae554",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135826581,
+      "datetime": 1752001382
+    }
+  ]
+}

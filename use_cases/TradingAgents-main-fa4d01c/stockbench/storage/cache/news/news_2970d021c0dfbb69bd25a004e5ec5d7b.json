@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "The Travelers Companies, Inc. (TRV) Hit a 52 Week High, Can the Run Continue?",
+      "description": "Travelers (TRV) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+      "published_utc": "2025-06-02T21:15:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c6b1a006c9891c15112d753669549a538765b13d0c59f5a807d1993242d6185",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134944765,
+      "datetime": 1748870103
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:10.102520+00:00",
+    "cache_key": "news_2970d021c0dfbb69bd25a004e5ec5d7b",
+    "count": 1
+  }
+}

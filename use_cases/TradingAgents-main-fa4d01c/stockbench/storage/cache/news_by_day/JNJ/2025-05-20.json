@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ) RBC Capital Markets Global Healthcare Conference",
+      "description": "Johnson &amp; Johnson (NYSE:JNJ) RBC Capital Markets Global Healthcare Conference May 20, 2025 1:35 PM ETCorporate ParticipantsJoe Wolk - EVP, Chief...",
+      "published_utc": "2025-05-20T23:10:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=74bf315e087a1a7e595c1e798036a55ca2777247c2180cf6c5e8d2c5ac9f4553",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134618698,
+      "datetime": 1747753855
+    },
+    {
+      "title": "Transcript : Johnson & Johnson Presents at RBC Capital Markets Global Healthcare Conference 2025, May-20-2025 01",
+      "description": "Presenter SpeechShagun Singh Chadha Hello, everyone. I am Shagun Singh, Senior Research Analyst at RBC. And I'm very happy to host the next session with Johnson & Johnson. Joining us from the",
+      "published_utc": "2025-05-20T22:35:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=124f6229ae3e21f9876803f4b8347b9a66650f5ade72680ee59987d33c7b4663",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134615154,
+      "datetime": 1747751723
+    }
+  ]
+}

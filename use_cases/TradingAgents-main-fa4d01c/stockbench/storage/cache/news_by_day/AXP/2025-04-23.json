@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Synchrony Beats Q1 Earnings Estimates, Unveils 20% Dividend Hike",
+      "description": "SYF's Q1 results benefit from growth in interest and fees on loans across Home & Auto and Lifestyle platforms, partly offset by rising expenses. It currently forecasts 2025 net charge-offs to be between 5.8% and 6%.",
+      "published_utc": "2025-04-23T01:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=feb2b40183fe5dda6c9c34cac351d84a86c19acd03438c65c2da31ca0127e8e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038991,
+      "datetime": 1745342640
+    },
+    {
+      "title": "American Express price target lowered to $315 from $340 at Truist",
+      "description": "Truist lowered the firm’s price target on American Express (AXP) to $315 from $340. The firm reduced its 2025 and 2026 EPS estimates for American Express to $15.25 and $17.50, respectively, citing heightened macroeconomic uncertainties that could put pressure on billed business and revenue growth. Truist keeps a Buy rating on the shares given its loyal high-earning core customer base and current under-valuation vs. long-term history. Published first on TheFly – the ultimate source for real-time,",
+      "published_utc": "2025-04-23T00:06:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=381222cec6c8ac6a139df309fd01fe10edf0ceeb91e935e8feac97816d6ba983",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038992,
+      "datetime": 1745337988
+    }
+  ]
+}

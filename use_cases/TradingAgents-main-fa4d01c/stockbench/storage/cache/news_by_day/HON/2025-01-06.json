@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "title": "Dow's 100-point drop led by losses in shares of Procter & Gamble, Honeywell",
+      "description": "Dow's 100-point drop led by losses in shares of Procter & Gamble, Honeywell",
+      "published_utc": "2025-01-06T23:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2032db3d04f5bcee677bb858186704d69e9ed0690c087e16e44e3e8f9a6c4ea6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321908,
+      "datetime": 1736178480
+    },
+    {
+      "title": "Carrier: Fairly Valued After Transition Nears Completion",
+      "description": "Carrier has transformed into a near pure play HVAC business, driven by strategic acquisitions and divestments. Read why I remain neutral on CARR stock.",
+      "published_utc": "2025-01-06T13:11:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bd6a82f3fde68e644df046c6d13fc3486343492d74c8b9c22c19c755c1362e9d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1325708815/image_1325708815.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132284430,
+      "datetime": 1736140276
+    },
+    {
+      "id": "46f3f9ed962fa63ede41cfc2b5097426fe8761e93deb2841428ba5b1ee9b179e",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Next-Generation Catalysts Market to Reach US$ 3,585.4 Million by 2034 with a CAGR of 5.7% | Fact.MR Report",
+      "author": "Fact.Mr",
+      "published_utc": "2025-01-06T12:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/06/3004441/0/en/Next-Generation-Catalysts-Market-to-Reach-US-3-585-4-Million-by-2034-with-a-CAGR-of-5-7-Fact-MR-Report.html",
+      "tickers": [
+        "ALB",
+        "ALBpA",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
+      "description": "The global next-generation catalysts market is projected to grow at a CAGR of 5.7% and reach US$ 3,585.4 million by 2034, driven by strict environmental regulations, the need for energy efficiency, and growing demand for high-value chemicals. The Asia-Pacific region is a key market, followed by Europe and North America.",
+      "keywords": [
+        "next-generation catalysts",
+        "market growth",
+        "environmental regulations",
+        "energy efficiency",
+        "high-value chemicals",
+        "Asia-Pacific",
+        "Europe",
+        "North America"
+      ],
+      "insights": [
+        {
+          "ticker": "ALB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Albemarle Corporation is mentioned as one of the key players driving innovation in the next-generation catalysts market, indicating their strong presence and contribution to the industry."
+        },
+        {
+          "ticker": "ALBpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Albemarle Corporation is mentioned as one of the key players driving innovation in the next-generation catalysts market, indicating their strong presence and contribution to the industry."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell UOP is mentioned as one of the key players driving innovation in the next-generation catalysts market, indicating their strong presence and contribution to the industry."
+        }
+      ]
+    }
+  ]
+}

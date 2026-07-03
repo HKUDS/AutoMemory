@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is American Express Company (AXP) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of […]",
+      "published_utc": "2025-05-08T02:07:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebc7493a74ef81fe5dd43c94a161750b7370936844ad3de0e19320c1fa9fc911",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316903,
+      "datetime": 1746641264
+    },
+    {
+      "title": "Capital One vs. AmEx: Which Credit Card Stock is the Better Pick Now?",
+      "description": "Which among the two major credit card players, COF & American Express, is better placed to navigate uncertain macroeconomic conditions? Let's find out.",
+      "published_utc": "2025-05-07T20:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8160fbed64f1dbb612151ff90e460a2a454ba32ff614b56aef9612a135d8bb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316904,
+      "datetime": 1746621900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:59.285313+00:00",
+    "cache_key": "news_8e51af31b7b764f1b04787ebe1ae1d79",
+    "count": 2
+  }
+}

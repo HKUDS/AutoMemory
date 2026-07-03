@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "How to Find Strong Retail-Wholesale Stocks Slated for Positive Earnings Surprises",
+      "description": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+      "published_utc": "2025-04-01T21:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e006c3d243a114faf422d901e49cc042068e7a45bb92c947b9a06c335c879cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645310,
+      "datetime": 1743512409
+    }
+  ]
+}

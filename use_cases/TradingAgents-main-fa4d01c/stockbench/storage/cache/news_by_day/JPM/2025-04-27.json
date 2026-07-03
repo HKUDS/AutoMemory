@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Private Credit’s Cracks Widened Before Turmoil",
+      "description": "(Bloomberg) -- The companies that get private credit loans are looking increasingly wobbly and banks are among those that could eventually be on the hook for losses.Most Read from BloombergWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesNewsom Says California Is Now the World’s Fourth-Biggest EconomyBackyard Micro-Flats Aim to Ease South Africa’s Housing CrisisAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesMany",
+      "published_utc": "2025-04-27T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5948622f316b2086f8ab62246f05cdd3717750f4adb0e00625afef98e266a22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104468,
+      "datetime": 1745694000
+    },
+    {
+      "title": "China weighs U.S. tariff exemptions, Alphabet reports Q1 beat: Morning Buzz",
+      "description": "The major averages were mixed near noon following several days of gains as investors process the latest batch of earnings reports, including a notable one from a big tech bellwether. Optimism over easing U.S.-China trade tensions, particularly with China reportedly considering tariff exemptions for certain American products, is also being weighed, though President Trump said he would consider it a “total victory” if the U.S. has high tariffs of 20%-50% on foreign nations a year from now, accordi",
+      "published_utc": "2025-04-27T00:20:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45dda7f219845d362c372d9ea360e40eaed019f671bd925f18f86699e541d72a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134103528,
+      "datetime": 1745684455
+    }
+  ]
+}

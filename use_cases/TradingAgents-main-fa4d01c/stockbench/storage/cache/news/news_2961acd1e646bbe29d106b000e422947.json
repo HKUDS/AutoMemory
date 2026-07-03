@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Travelers Companies, Inc. (NYSE:TRV): Among the Best Insurance Stocks to Buy According to Hedge Funds",
+      "description": "We recently published a list of the 10 Best Insurance Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where The Travelers Companies, Inc. (NYSE:TRV) stands against the other insurance stocks held by hedge funds. The insurance stocks have done better in 2025 despite the losses […]",
+      "published_utc": "2025-04-09T21:22:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=867eb399b778077bac7fc153073005f72f359daea06863e17a3d352a987fddfd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828644,
+      "datetime": 1744204977
+    },
+    {
+      "title": "Johnson & Johnson, Amgen share losses contribute to Dow's 100-point drop",
+      "description": "Johnson & Johnson, Amgen share losses contribute to Dow's 100-point drop",
+      "published_utc": "2025-04-09T19:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e27971560febbb982a6ff26dac51197f646ae4bbe9a6cd38a00460b2d2d4f9ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133836304,
+      "datetime": 1744199820
+    },
+    {
+      "title": "ClearBridge Appreciation Strategy Q1 2025 Commentary",
+      "description": "The ClearBridge Appreciation Strategy outperformed the benchmark S&P 500 Index in Q1 2025. Click here to read the full letter.",
+      "published_utc": "2025-04-09T13:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=083f158d4301c89c95f0620eb374801f3c24c5ea5191a271a05948cd419529b0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197707031/image_2197707031.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133826516,
+      "datetime": 1744178100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:55.890639+00:00",
+    "cache_key": "news_2961acd1e646bbe29d106b000e422947",
+    "count": 3
+  }
+}

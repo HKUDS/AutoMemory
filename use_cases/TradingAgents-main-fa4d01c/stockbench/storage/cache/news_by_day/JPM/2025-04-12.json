@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Jamie Dimon argues JPMorgan can help fix the bond chaos if regulators get on board — ‘It’s not relief to the banks, it’s relief to the markets’",
+      "description": "The Treasury market helps the global economy go-round, and Wall Street is watching closely for signs the Fed may need to intervene.",
+      "published_utc": "2025-04-12T20:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3498607b096bbf745d1fefc3d1aa26471fa984aebdd2b1b94c0704dfbb863688",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895915,
+      "datetime": 1744461660
+    },
+    {
+      "title": "7 Quality Dividend Stocks I'm Buying As Tariff Risks Remain",
+      "description": "",
+      "published_utc": "2025-04-12T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c5d5d7971edfc3e5f7ee56bff19e55db9bf60ed86bf190ae24d84acf6221a5b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894339,
+      "datetime": 1744445100
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "description": "",
+      "published_utc": "2025-04-12T15:50:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0ceeb318b0a22f70a575fd49c3ad8de93f041118c297444b0b849c2e7672fe01",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894275,
+      "datetime": 1744444210
+    },
+    {
+      "title": "JPMorgan Chase & Co (JPM) Q1 2025 Earnings Call Highlights: Strong Revenue Growth Amid ...",
+      "description": "JPMorgan Chase & Co (JPM) reports robust financial performance with an 8% revenue increase, despite rising credit costs and market challenges.",
+      "published_utc": "2025-04-12T15:00:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ade2f3c532eb8e9d46503cb1f7a8cec51eb521cea8410becfdcd56a70d2ece4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895916,
+      "datetime": 1744441245
+    }
+  ]
+}

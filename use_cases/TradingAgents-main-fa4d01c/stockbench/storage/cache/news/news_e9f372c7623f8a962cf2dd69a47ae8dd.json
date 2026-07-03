@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "S&P 500 Gains & Losses Today: Johnson & Johnson Drops as Judge Rejects Liability Settlement",
+      "description": "The S&P 500 edged 0.4% higher on Tuesday, April 1, ahead of Wednesday's anticipated rollout of reciprocal tariffs by Donald Trump's administration.",
+      "published_utc": "2025-04-02T05:06:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df4f122f105911d371f75008b8dd229ebd0f04fa1d11f30d2c4ce5bfff0a0565",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658131,
+      "datetime": 1743541562
+    },
+    {
+      "title": "Hims & Hers adds Eli Lilly GLP-1 drugs, Johnson & Johnson setback",
+      "description": "Yahoo Finance Senior Reporter Anjalee Khemlani joins Market Domination to discuss some of the top stories of the trading day, including Johnson & Johnson's (JNJ) setback in its litigation. Additionally, Hims & Hers (HIMS) expanded its offerings, adding Eli Lilly's (LLY) GLP-1 drugs to its telehealth platform, following its earlier partnership with Novo Nordisk. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-02T04:48:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16c699b332de57394a58b8070aba6ae3a3bec745ff109be2aa73ba7125a2e757",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658154,
+      "datetime": 1743540527
+    },
+    {
+      "title": "Johnson & Johnson Announces Expected Closing Date for Intra-Cellular Acquisition",
+      "description": "NEW BRUNSWICK, N.J., April 01, 2025--Johnson & Johnson (NYSE: JNJ) today announced that following the approval of its pending acquisition of Intra-Cellular Therapies, Inc. by Intra-Cellular Therapies’ shareholders on March 27, 2025, Johnson & Johnson intends to complete its acquisition of Intra-Cellular Therapies on or around April 2, 2025.",
+      "published_utc": "2025-04-02T04:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f216126ca22988d0a8ef10c48bdbb75b6eba9dea21c4e2b29a68c23391d4d1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658183,
+      "datetime": 1743537960
+    },
+    {
+      "title": "Equity Markets Mixed Amid Weak Manufacturing Data",
+      "description": "US benchmark equity indexes are on track to close mixed on Tuesday, as March US manufacturing data s",
+      "published_utc": "2025-04-02T03:50:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bb359bf6c20a58a2f461aa914fc735aed484a9e2137883ae93f181fd9e2f33d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658184,
+      "datetime": 1743537015
+    },
+    {
+      "title": "Stocks to Watch Recap: J&J, Xiaomi, PVH, XPeng",
+      "description": "↗️ Newsmax (NMAX): The media company's shares rose sharply for a second straight day after a wild stock-market debut. The stock rose 179% on the day to close at $233. ↘️ Johnson & Johnson (JNJ): A judge dismissed J&J's third attempt to resolve its mass talcum powder liabilities through chapter 11 bankruptcy.",
+      "published_utc": "2025-04-02T03:33:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac986e31a245f3fb4e9340ad1df315a2c1df17cc897702c453ab8dd611620543",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658098,
+      "datetime": 1743535995
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:26:17.265166+00:00",
+    "cache_key": "news_e9f372c7623f8a962cf2dd69a47ae8dd",
+    "count": 5
+  }
+}

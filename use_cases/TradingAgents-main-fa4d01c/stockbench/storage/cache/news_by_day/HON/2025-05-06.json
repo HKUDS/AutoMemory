@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "HONEYWELL ANNOUNCES PARTICIPATION AT UPCOMING INVESTOR CONFERENCES",
+      "description": "Honeywell (NASDAQ: HON) today announced its participation at upcoming investor conferences in May.",
+      "published_utc": "2025-05-06T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33b989542e6c9f4520752f812b652e2a90dd57c9b96216fbd56805c4b9fc9d19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266509,
+      "datetime": 1746536400
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 133-point fall",
+      "description": "Merck, Amgen share losses contribute to Dow's 133-point fall",
+      "published_utc": "2025-05-06T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dbde898607555d56bcfb206c8083cbc86a09844a33fce089f037eb2261425cd3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270549,
+      "datetime": 1746528360
+    },
+    {
+      "title": "Transcript : Honeywell International Inc. Presents at Bank of America Industrials, Transportation & Airlines Key Leaders Conference 2025, May-13-2025 08",
+      "description": "Presenter SpeechAndrew Obin With that, we're going to kick off right on time. We have Honeywell. We upgraded Honeywell last week. The stock is neglected, for a lack of a better term. And we think...",
+      "published_utc": "2025-05-06T17:00:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=918d430b8e8537126b4ab8518d54227523b3b2d6af23e63537c15a5b6adef54d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134399238,
+      "datetime": 1746522000
+    }
+  ]
+}

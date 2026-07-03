@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Acquires Moonhub — The AI Recruiting Startup Joins $8B Informatica Deal In AI Hiring Revolution",
+      "description": "Moonhub announced Monday that it has bewen acquired by Salesforce (NYSE:CRM), marking a new chapter for the AI-powered recruiting startup founded by former Meta (NASDAQ:META) engineer Nancy Xu. The move comes on the heels of Salesforce's recent $8 billion acquisition of Informatica and signals a clear acceleration of its AI-first product strategy, The Economic Times reports. Moonhub Built a Holistic, Bias-Conscious Approach to AI Hiring Founded in 2022 and backed by Khosla Ventures, TIME Venture",
+      "published_utc": "2025-06-08T21:31:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a31a2750eb1ec5ce402df18e97974193092a0fce55e887ebdd108803a0f2e2b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135115110,
+      "datetime": 1749389485
+    },
+    {
+      "title": "Salesforce Beat Out IBM for $8 Billion Informatica Deal",
+      "description": "IBM held acquisition talks with Informatica before Salesforce closed the $8B deal",
+      "published_utc": "2025-06-08T17:53:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebb7680f277a80ab54d6fee3983c5fd88a5185db8f966e7d5db1b4de2092f0ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114490,
+      "datetime": 1749376431
+    }
+  ]
+}

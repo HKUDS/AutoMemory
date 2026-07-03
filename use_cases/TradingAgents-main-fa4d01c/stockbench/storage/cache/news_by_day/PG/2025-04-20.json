@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM, Parker-Hannifin Among 10 Companies To Announce Dividend Increases In Second Half Of April",
+      "description": "Discover upcoming dividend increases from companies like Procter & Gamble, Johnson & Johnson, Ameriprise Financial, and Parker-Hannifin.",
+      "published_utc": "2025-04-20T23:14:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2114261c46464da83a17d4505ad4e0858fb89e87bf95411cd9c2c80f8af10337",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322147027/image_1322147027.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133985780,
+      "datetime": 1745162052
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "",
+      "published_utc": "2025-04-20T13:52:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=731ee64826eae50507c3c828b852d395a3640319bb972a4bffd06b147caf31fd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133977246,
+      "datetime": 1745128330
+    }
+  ]
+}

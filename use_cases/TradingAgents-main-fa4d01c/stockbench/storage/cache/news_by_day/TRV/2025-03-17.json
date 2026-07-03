@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow's 250-point rally highlighted by gains for Nike, IBM shares",
+      "description": "Dow's 250-point rally highlighted by gains for Nike, IBM shares",
+      "published_utc": "2025-03-17T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=150d28d09075adfbf7ce03d6f4d538c5a9a40eb473f0e0c768863250a76728a2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133214302,
+      "datetime": 1742204700
+    }
+  ]
+}

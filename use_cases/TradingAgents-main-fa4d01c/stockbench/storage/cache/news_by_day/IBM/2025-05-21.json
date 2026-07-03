@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow drops 690 points on losses for shares of UnitedHealth, Nike",
+      "description": "Dow drops 690 points on losses for shares of UnitedHealth, Nike",
+      "published_utc": "2025-05-21T22:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=236b3870721d9b00a6a627922282cd67e4f65891ffe45242c263629e5befdb8b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134633368,
+      "datetime": 1747837020
+    },
+    {
+      "title": "Naoris Protocol Begins Token Sale for First Post-Quantum Infrastructure Layer",
+      "description": "Naoris Protocol, the first quantum-resistant architecture and blockchain, today opened its highly anticipated public sale for the $NAORIS token, following over 15,000 pre-registrations.The sale,...",
+      "published_utc": "2025-05-21T21:33:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7d6755259882fec9cef12076bb38365ae5ccd8cc9e7cd33468d489c906de87e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134627011,
+      "datetime": 1747834387
+    },
+    {
+      "title": "Dow's 365-point drop led by losses for shares of UnitedHealth, Amazon.com Inc.",
+      "description": "Dow's 365-point drop led by losses for shares of UnitedHealth, Amazon.com Inc.",
+      "published_utc": "2025-05-21T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d997455c79d3e5632fcbef54d529c2d1457bcf4443a9618786724c3cdc55e01a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632385,
+      "datetime": 1747820700
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "853ace3498db784651560851f8ada87d612b63d5a52819cffab7bcf41871fa58",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Concrete Sealers Market worth $2.95 billion by 2030, at 6.4%, says MarketsandMarkets™",
+      "author": "Marketsandmarkets",
+      "published_utc": "2025-05-12T02:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/12/3078763/0/en/Concrete-Sealers-Market-worth-2-95-billion-by-2030-at-6-4-says-MarketsandMarkets.html",
+      "tickers": [
+        "SXYAY",
+        "ARKAY",
+        "BASFY",
+        "SHW"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+      "description": "The global Concrete Sealers Market is expected to grow from $2.03 billion in 2024 to $2.95 billion by 2030, at a CAGR of 6.4%, driven by advancements in sealer technology, including nanotechnology and eco-friendly formulations.",
+      "keywords": [
+        "concrete sealers",
+        "market growth",
+        "sealer technology",
+        "nanotechnology",
+        "eco-friendly"
+      ],
+      "insights": [
+        {
+          "ticker": "SXYAY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Sika AG as one of the key players in the Concrete Sealers Market, indicating their strong presence and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "ARKAY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Arkema is mentioned as one of the key players in the Concrete Sealers Market, implying their participation and potential to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes BASF SE as one of the key players in the Concrete Sealers Market, indicating their market involvement and potential to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Sherwin-Williams Company as one of the key players in the Concrete Sealers Market, implying their market involvement and potential to capitalize on the market's expansion."
+        }
+      ]
+    }
+  ]
+}

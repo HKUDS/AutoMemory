@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS): Among Stocks Insiders Were Piling Into Recently",
+      "description": "We recently published a list of Should You Buy the Dip and Follow Insiders into These 10 Stocks?. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against other stocks insiders were piling into recently. After a turbulent week, stocks began recovering on Monday, with […]",
+      "published_utc": "2025-03-23T04:29:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d8265a53c0c1c15024c9678c9ddbf26e5278fc72d4536c451fba7055273c48b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324958,
+      "datetime": 1742675396
+    }
+  ]
+}

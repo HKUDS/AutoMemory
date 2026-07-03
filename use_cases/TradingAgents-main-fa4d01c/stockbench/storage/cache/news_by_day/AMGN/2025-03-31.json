@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "RDY & Bio-Thera Ink Deal for JNJ's Stelara/Simponi Biosimilar",
+      "description": "Dr. Reddy's inks collaboration deal with Bio-Thera to develop and commercialize proposed biosimilar candidates of J&J's Stelara and Simponi in Southeast Asia.",
+      "published_utc": "2025-03-31T21:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2773ab609e61ad22906a0206ba8fbb465ae5eb55308723b21508b88063cb85c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627790,
+      "datetime": 1743427800
+    },
+    {
+      "title": "Dow's 113-point rally led by gains for shares of Amgen, IBM",
+      "description": "Dow's 113-point rally led by gains for shares of Amgen, IBM",
+      "published_utc": "2025-03-31T19:41:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b1fb324310d32eea420b654186992bd8c2d3679e66c43181f1bbace1b43b05e5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133635908,
+      "datetime": 1743421260
+    },
+    {
+      "title": "Amgen: Excellent Buy And Hold For A Volatile Market",
+      "description": "",
+      "published_utc": "2025-03-31T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6d643e1c4e21bfac29ba203376af3f793fb7d80465b59acc84050d17347b3e1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133625373,
+      "datetime": 1743408000
+    }
+  ]
+}

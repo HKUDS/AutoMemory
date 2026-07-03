@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Inside Visa's battle to get a head start beating scams",
+      "description": "The card network said it saved would-be victims $350 million in the first year after it combined several crime-fighting units.",
+      "published_utc": "2025-03-18T03:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7778ca3467ea1789eea0f13ed4b97867a866cdec663c6a98f9e00d0e4b7a66d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311391,
+      "datetime": 1742239800
+    },
+    {
+      "title": "Should You Avoid Mastercard Stock As Wall Street Cuts Earnings View?",
+      "description": "MA invests heavily in meeting the growing demand for its service offerings, such as cybersecurity and data analytics, facilitating its diversification efforts.",
+      "published_utc": "2025-03-17T22:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81ec13dc211ea556bbd2dbe8a53d072b602831116b5bbe3b7570fe37ffc53580",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311392,
+      "datetime": 1742222940
+    },
+    {
+      "title": "Is Visa Stock a Millionaire-Maker?",
+      "description": "Visa (NYSE: V) certainly falls into this category, as its shares have produced a total return of 2,560% since their initial public offering in 2008 (as of March 13).  One reason that Visa is a fantastic business is because its competitive position is virtually unassailable.  With $4.1 trillion in total payment volume in the last three months of calendar 2024, it has top market share by far in the U.S. with this key metric.",
+      "published_utc": "2025-03-17T18:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=093eeb600d14e143dbe626e6d24d12309b6be99d1129963bfce2f9bd39993fc0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311393,
+      "datetime": 1742207160
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Robinhood Markets, Interactive Brokers Group and Visa",
+      "description": "NVIDIA, Robinhood Markets, Interactive Brokers Group and Visa are included in this Analyst Blog.",
+      "published_utc": "2025-03-17T17:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1389ef94da83bba6326c00006a0f6cebd1eb5339c90350e9acf25a1af9fd1f67",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311394,
+      "datetime": 1742204460
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q4 2024 Update",
+      "description": "Viking Global's 13F stock portfolio increased from $27.44B to $30.90B, with holdings rising from 83 to 86. Read more to see the portfolio's Q4 2024 review.",
+      "published_utc": "2025-03-17T15:41:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4231b308425ecd6a3e209526e09eef1176bde00a59c04dad85e1b4110c15fc5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200502280/image_200502280.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133206548,
+      "datetime": 1742197295
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:42.277176+00:00",
+    "cache_key": "news_ba22e6e57ff25f7787dfedb059f76cc2",
+    "count": 5
+  }
+}

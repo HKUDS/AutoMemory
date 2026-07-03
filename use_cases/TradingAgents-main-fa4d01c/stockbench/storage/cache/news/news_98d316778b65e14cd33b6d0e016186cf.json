@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Columbia Contrarian Core Fund Q4 2024 Commentary",
+      "description": "Institutional Class shares of Columbia Contrarian Core Fund returned 2.37% (net ) during Q4 2024, underperforming the fundâs benchmark, Click here to read more.",
+      "published_utc": "2025-02-24T06:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b97809cd4fccd881b55f8ff8ccf6e578fae567082bbc8e50d7e115a2c810d5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322205513/image_1322205513.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132860374,
+      "datetime": 1740348300
+    },
+    {
+      "title": "Top Preferred Equity ETFs For High Monthly Dividends: Up To 7% Yields",
+      "description": "Preferred equity sits lower on the capital stack than bonds. Check out preferred securities ETFs, focused on dividend yields and performance metrics.",
+      "published_utc": "2025-02-24T04:22:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19429c3b517a53f5ee31f53ec710819e179e300743a4d26595c2bd15df9b8649",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593766/image_1072593766.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132860007,
+      "datetime": 1740342152
+    },
+    {
+      "title": "Stock investors stopped freaking out over interest rates. Now this threat is re-emerging.",
+      "description": "Stock investors stopped freaking out over interest rates. Now this threat is re-emerging.",
+      "published_utc": "2025-02-23T23:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ace9a04540bfc660e542334a260dfbe7ee7d77147fb48425780caf1a8dd1eb98",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881567,
+      "datetime": 1740323820
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:10:39.402189+00:00",
+    "cache_key": "news_98d316778b65e14cd33b6d0e016186cf",
+    "count": 3
+  }
+}

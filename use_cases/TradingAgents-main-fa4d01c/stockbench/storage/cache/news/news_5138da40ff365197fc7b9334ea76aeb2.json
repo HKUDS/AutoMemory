@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Is Johnson & Johnson (NYSE:JNJ) a Cheap NYSE Stock to Invest in According to Hedge Funds?",
+      "description": "We recently published a list of the 11 Cheap NYSE Stocks to Invest in According to Hedge Funds. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other cheap NYSE stocks. On March 26, Jack Caffrey of JPMorgan Asset Management provided an analysis of market trends […]",
+      "published_utc": "2025-04-12T21:05:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d2644366fa1d27f1a10019b4aeac6b7f8a73144dff2571ed6190807eb5a815b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895942,
+      "datetime": 1744463122
+    },
+    {
+      "title": "Goldman Sachs, J&J, To Report Earnings As Investors Watch Out For Retail Sales Data",
+      "description": "",
+      "published_utc": "2025-04-12T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b70116013298834748f4a12f97a5843422715d67cbee0366197a479831bae39b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894906,
+      "datetime": 1744455600
+    },
+    {
+      "title": "How To Buy Low And Sell High Consistently For Lifelong Wealth",
+      "description": "",
+      "published_utc": "2025-04-12T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98245e313a1904662c3f16550cb0717c1994123cf8eff3760881c035898779cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894505,
+      "datetime": 1744446600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:53.291417+00:00",
+    "cache_key": "news_5138da40ff365197fc7b9334ea76aeb2",
+    "count": 3
+  }
+}

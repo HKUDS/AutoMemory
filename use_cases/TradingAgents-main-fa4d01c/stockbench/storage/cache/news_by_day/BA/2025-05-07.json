@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Aerospace faces wider tariffs as Europe draws up retaliation",
+      "description": "Aerospace companies are preparing forthe next chapter in a new trade war as the European Union drawsup expected counter-measures against Boeing jets in retaliationfor 10% U.S. tariffs on European...",
+      "published_utc": "2025-05-07T19:21:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c12cd1f18fe66cb4a9ead681c5d0ef90703e63d232889a6192d2d1fdbd262e34",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134296207,
+      "datetime": 1746616874
+    }
+  ]
+}

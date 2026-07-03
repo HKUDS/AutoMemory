@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "description": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "published_utc": "2025-02-05T22:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=14522b0ead6971c45a7d15acc074a34c685995d64c40e7b4752770b363481809",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564061,
+      "datetime": 1738764480
+    },
+    {
+      "title": "Woodward Stock: Still A Buy Despite China And Boeing Headwinds",
+      "description": "Woodward's stock price target is updated to $218, reflecting 16% upside, despite challenges in aerospace and transportation segments. Read my analysis of WWD.",
+      "published_utc": "2025-02-05T21:38:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a829974caf3dcbae6e8e701e8e241a720a8855cfc6d835b919c6e3d545d1e44",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1438906876/image_1438906876.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132563743,
+      "datetime": 1738762719
+    },
+    {
+      "title": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "description": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-02-05T19:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cd443e114c79cbc979e50a14141aa0503528955326bdd3ab0714973ab0a7ecc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564063,
+      "datetime": 1738756320
+    },
+    {
+      "title": "Franklin Income SMA Q4 2024 Commentary",
+      "description": "US stocks collectively rose in the fourth quarter of 2024 despite retreating in December. Read more here.",
+      "published_utc": "2025-02-05T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f027c554676430d7d151c524dfdac6397a4fd1493ee08f271ada9ccaec5809af",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403196687/image_1403196687.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132562057,
+      "datetime": 1738743300
+    }
+  ]
+}

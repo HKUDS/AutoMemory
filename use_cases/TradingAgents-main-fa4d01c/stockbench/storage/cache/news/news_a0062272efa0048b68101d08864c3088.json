@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "title": "Bert's April 2025 Dividend Income Summary",
+      "description": "",
+      "published_utc": "2025-05-26T16:22:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f5280549d19f303c881f8a3605ad35891c32640d04bbd86a10e4bc88f042308d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134699677,
+      "datetime": 1748247720
+    },
+    {
+      "id": "6f424d00cde6ebadc0a419ae4dde4fe4506d9932552004567d4f3f957515239a",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "It’s Nvidia Week as Magnificent 7 Chip Maker’s Earnings in Spotlight",
+      "author": "Valuewalk",
+      "published_utc": "2025-05-26T17:28:00Z",
+      "article_url": "https://www.investing.com/analysis/its-nvidia-week-as-magnificent-7-chip-makers-earnings-in-spotlight-200661302",
+      "tickers": [
+        "NVDA",
+        "CRM",
+        "HPQ",
+        "DKS",
+        "M",
+        "HRL",
+        "COST"
+      ],
+      "amp_url": "https://m.investing.com/analysis/its-nvidia-week-as-magnificent-7-chip-makers-earnings-in-spotlight-200661302?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "This week, all eyes will be on Nvidia's earnings report, as the AI chip maker is expected to post strong revenue and earnings growth. Other notable companies reporting earnings include Salesforce, HP, Dick's Sporting Goods, Macy's, Hormel Foods, and Costco.",
+      "keywords": [
+        "Nvidia",
+        "Salesforce",
+        "HP",
+        "Dick's Sporting Goods",
+        "Macy's",
+        "Hormel Foods",
+        "Costco"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is expected to report strong revenue and earnings growth, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Salesforce is expected to report revenue and earnings growth, but the figures are not expected to be exceptionally high."
+        },
+        {
+          "ticker": "HPQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about HP's earnings expectations, so a neutral sentiment is assigned."
+        },
+        {
+          "ticker": "DKS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Dick's Sporting Goods' earnings expectations, so a neutral sentiment is assigned."
+        },
+        {
+          "ticker": "M",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Macy's earnings expectations, so a neutral sentiment is assigned."
+        },
+        {
+          "ticker": "HRL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Hormel Foods' earnings expectations, so a neutral sentiment is assigned."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Costco's earnings expectations, so a neutral sentiment is assigned."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:18.598648+00:00",
+    "cache_key": "news_a0062272efa0048b68101d08864c3088",
+    "count": 2
+  }
+}

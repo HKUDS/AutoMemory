@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "DOJ Drops Challenge to Amex GBT's Acquisition of CWT",
+      "description": "DOJ Drops Challenge to Amex GBT's Acquisition of CWT",
+      "published_utc": "2025-07-29T23:39:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7c53f1935eaa6d773cbe6e01215e50af129e8220e3b5e28b498dec61860e8a5d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136135292,
+      "datetime": 1753803540
+    },
+    {
+      "title": "Mastercard Q2 Earnings Incoming: Hold the Card or Fold the Hand?",
+      "description": "MA eyes a Q2 earnings beat with strong cross-border volumes and rising demand for services, despite higher costs.",
+      "published_utc": "2025-07-29T22:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1963c8d0947ded00ba396ed877de5695af472a2d421302c37a62c25d0daa14f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119128,
+      "datetime": 1753800720
+    },
+    {
+      "title": "JPMorgan nears deal to take over Apple's credit card program, WSJ reports",
+      "description": "Talks between the largest U.S. bank and the tech giant began last year, as Goldman sought to unwind a partnership that had once been a cornerstone of its consumer banking strategy.  JPMorgan and Goldman declined to comment on the WSJ report, while Apple did not immediately respond to a Reuters request for comment.",
+      "published_utc": "2025-07-29T22:43:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbc19839ca03a5bbe440048c39d607cf19488581c5bd4b6e1a94fc5516198721",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119011,
+      "datetime": 1753800197
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Warns Investors to Avoid McDonald’s Corporation (MCD) Amid Growing Challenges",
+      "description": "McDonald’s Corporation (NYSE:MCD) is one of the best Dow stocks to invest in. Morgan Stanley suggested that the company may soon start feeling some of the broader challenges affecting the fast food industry. On June 9, the firm downgraded the stock from “Overweight” to “Equal Weight” and lowered its price target from $329 to $324 […]",
+      "published_utc": "2025-06-12T04:19:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ac64eb2070f0e2cfced65f3c1d24fbce9b1bfd5df82a313fc49cf403288be76",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135203034,
+      "datetime": 1749673153
+    },
+    {
+      "title": "Famous fast food chain posts cryptic message asking for help",
+      "description": "Kalshi uses market data to respond to McDonald's viral \"help\" tweet with a sharp 1% sentiment chart.",
+      "published_utc": "2025-06-12T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0288c5c51e40ebbc74c85cc317427428d5ed7924d333b4a3cc0d07c93366f704",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135203036,
+      "datetime": 1749672900
+    }
+  ]
+}

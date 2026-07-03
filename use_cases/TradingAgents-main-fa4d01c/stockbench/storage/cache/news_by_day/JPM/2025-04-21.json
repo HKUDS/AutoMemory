@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stocks, Dollar Sink on Threats to Fed Independence: Markets Wrap",
+      "description": "(Bloomberg) -- A selloff in US assets deepened as President Donald Trump stepped up criticism of Jerome Powell on social media, with stocks, the dollar and longer-dated Treasuries sliding amid concerns about the Federal Reserve’s future independence.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveNashville’s $3 Billion Transit Pla",
+      "published_utc": "2025-04-21T22:46:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=183cda9acd331df0ca9feda571cdc41785b57c485ada57aef24b5af858fdb305",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022679,
+      "datetime": 1745246780
+    }
+  ]
+}

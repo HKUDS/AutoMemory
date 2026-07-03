@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow rallies 225 points on gains in shares of Honeywell, IBM",
+      "description": "Dow rallies 225 points on gains in shares of Honeywell, IBM",
+      "published_utc": "2025-03-26T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0f54bf309547556e7549cc8f1c9604ea9cfeb1bf07c2d9a802860126484632b2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133463714,
+      "datetime": 1742982300
+    }
+  ]
+}

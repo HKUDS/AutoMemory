@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "2 Quantum Computing Stocks to Buy Right Now",
+      "description": "Quantum computing represents the next technological frontier, potentially revolutionizing fields from drug discovery to cybersecurity.  The global quantum computing market is expected to grow exponentially in the coming decades.  In 1981, Nobel Prize-winning physicist Richard Feynman first proposed the concept of quantum computers, recognizing that classical machines could never efficiently simulate quantum systems.",
+      "published_utc": "2025-05-04T23:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc364ed072105b0f8d3e2d828397cf1f95f582d83674bd0c11d9ed5caeaa4c1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246716,
+      "datetime": 1746372600
+    },
+    {
+      "title": "3 Soaring Retail Stocks to Hold for the Next 20 Years",
+      "description": "Kroger, Amazon, and Walmart are all evergreen retail investments.",
+      "published_utc": "2025-05-04T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54f2c9e7bc8df4c9b2a160fbb0fc70aa149a04d11b319ebd767700cf9227939a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246717,
+      "datetime": 1746366300
+    },
+    {
+      "title": "Analysts revise Amazon stock price target after earnings",
+      "description": "This is what could happen next to Amazon shares.",
+      "published_utc": "2025-05-04T21:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd909648af80bc884621842c20479d9c20b2d9cbb3a5bfa647abd739365e8a99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246718,
+      "datetime": 1746365580
+    }
+  ]
+}

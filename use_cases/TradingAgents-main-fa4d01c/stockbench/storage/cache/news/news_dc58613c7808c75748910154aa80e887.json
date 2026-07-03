@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs combines three Asia IB businesses, names Drayton new unit head",
+      "description": "HONG KONG -Goldman Sachs is merging three Asian investment banking businesses it previously managed separately into a single unit to integrate its regional deals advisory and capital market...",
+      "published_utc": "2025-05-22T07:41:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=14bc57482878d3261a934c5c86bdffb4945b9580e0e31e2aa56a11c83d91c58d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631896,
+      "datetime": 1747870867
+    },
+    {
+      "title": "Goldman Sachs combines Asia investment banking units, names Drayton APAC head",
+      "description": "HONG KONG -Goldman Sachs is bringing together previously separately-managed three Asian investment banking businesses into one unit to integrate its regional deals advice and capital market...",
+      "published_utc": "2025-05-22T07:41:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=90b13650557139470b0d1676bb89434d5c6bc99792b583a37aafefad0a56e816",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631755,
+      "datetime": 1747870867
+    },
+    {
+      "title": "Goldman Sachs Stays Strong Amid Market Turbulence, But Still Sensitive",
+      "description": "Goldman Sachs remains a leader in M&A and trading, with strong Q1 2025 results despite a challenging market environment. Read why I rate GS stock as a Hold.",
+      "published_utc": "2025-05-22T07:15:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=915603fbb2fcbf84678c22e53b658e790d42d885e383bb8daf3c8b0dd74e25f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182976025/image_2182976025.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631723,
+      "datetime": 1747869315
+    },
+    {
+      "title": "Oil Climbs on Report That Israel Is Preparing to Strike Iran",
+      "description": "(Bloomberg) -- Oil swung on a CNN report that Israel is preparing to potentially strike Iranian nuclear facilities, while traders assessed data showing an increase in US crude stockpiles.Most Read from BloombergCan Frank Gehry’s ‘Grand LA’ Make Downtown Feel Like a Neighborhood?Chicago’s O’Hare Airport Seeks Up to $4.3 Billion of Muni DebtNJ Transit Makes Deal With Engineers, Ending Three-Day StrikeWest Texas Intermediate traded near $62 a barrel after government data showed that US crude invent",
+      "published_utc": "2025-05-21T22:52:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=926cb69d4373aa055c1b0178b2ed8bd6031f8344f19c89410d18737e9681f7b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628357,
+      "datetime": 1747839163
+    },
+    {
+      "title": "Investing in Goldman Sachs Group (NYSE:GS) five years ago would have delivered you a 249% gain",
+      "description": "When you buy shares in a company, it's worth keeping in mind the possibility that it could fail, and you could lose...",
+      "published_utc": "2025-05-21T22:00:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c00f3e752333d44913ead05cce3bfe191f6fae407f37682c4fa07cfbd7a919a6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628358,
+      "datetime": 1747836025
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:15.356747+00:00",
+    "cache_key": "news_dc58613c7808c75748910154aa80e887",
+    "count": 5
+  }
+}

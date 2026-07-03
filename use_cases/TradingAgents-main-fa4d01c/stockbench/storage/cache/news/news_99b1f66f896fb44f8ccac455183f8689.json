@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "title": "Walmart, Home Depot share gains contribute to Dow's 236-point climb",
+      "description": "Walmart, Home Depot share gains contribute to Dow's 236-point climb",
+      "published_utc": "2025-02-25T23:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e023b6578b940024f7b428d23001d3302559880734b587eb9555b29673277bd2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881889,
+      "datetime": 1740496800
+    },
+    {
+      "title": "The Sherwin-Williams Company (SHW): Among Top 10 S&P 500 Dividend Aristocrats List",
+      "description": "We recently published a list of S&P 500 Dividend Aristocrats List: Sorted By Hedge Fund Sentiment. In this article, we are going to take a look at where The Sherwin-Williams Company (NYSE:SHW) stands against the other S&P 500 dividend aristocrats sorted by hedge fund sentiment. Dividend Aristocrats are companies that have consistently increased their dividend […]",
+      "published_utc": "2025-02-25T22:50:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b532cea1ca6e22bf9f72734a1a3f0c9f8805ff2410a25a5280d1d2def5a81480",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186494,
+      "datetime": 1740495036
+    },
+    {
+      "title": "Home Depot, Walmart share gains contribute to Dow's 118-point climb",
+      "description": "Home Depot, Walmart share gains contribute to Dow's 118-point climb",
+      "published_utc": "2025-02-25T20:43:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=23886a01e0e97de982f764d310e57b084be68ad289ffcde3906a14232bfd205d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881890,
+      "datetime": 1740487380
+    },
+    {
+      "id": "4de08a5123b3fb78c2cfede628d7daee375953ac7ab8bdd01bc7e4793300432b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "UV-Curable Coatings Market to Reach USD 20.94 Billion by 2032, Driven by Demand from Automotive, Electronics, and Packaging Sectors | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-25T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/25/3032187/0/en/UV-Curable-Coatings-Market-to-Reach-USD-20-94-Billion-by-2032-Driven-by-Demand-from-Automotive-Electronics-and-Packaging-Sectors-SNS-Insider.html",
+      "tickers": [
+        "PPG",
+        "AKZOY",
+        "BASFY",
+        "SHW",
+        "AXTA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The UV-curable coatings market is projected to reach $20.94 billion by 2032, driven by the increasing demand for eco-friendly coatings across various industries. The market is being fueled by advancements in UV LED technology and the growing application of high-performance coatings in automotive, electronics, and industrial sectors.",
+      "keywords": [
+        "UV-curable coatings",
+        "automotive",
+        "electronics",
+        "packaging",
+        "sustainability",
+        "eco-friendly",
+        "UV LED technology"
+      ],
+      "insights": [
+        {
+          "ticker": "PPG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists PPG Industries Inc. as one of the key players in the UV-curable coatings market, suggesting their involvement and potential to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "AKZOY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Akzo Nobel N.V. is mentioned as a key player in the UV-curable coatings market, indicating their strong position and ability to benefit from the growing demand for these coatings."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that BASF SE expanded its UV-curable coatings portfolio in 2023, demonstrating their commitment to the market and potential to capitalize on the increasing demand for sustainable coating solutions."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Sherwin-Williams introduced a new range of UV-curable wood coatings in 2023, indicating their focus on providing innovative and eco-friendly solutions to the market."
+        },
+        {
+          "ticker": "AXTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Axalta Coating Systems Ltd. is listed as one of the key players in the UV-curable coatings market, suggesting their strong presence and potential to benefit from the market's growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:30.204870+00:00",
+    "cache_key": "news_99b1f66f896fb44f8ccac455183f8689",
+    "count": 4
+  }
+}

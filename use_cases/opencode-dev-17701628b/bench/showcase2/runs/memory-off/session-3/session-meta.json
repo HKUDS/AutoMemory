@@ -1,0 +1,21 @@
+{
+  "showcase": "showcase2",
+  "condition": "memory-off",
+  "order": 3,
+  "instance_id": "django__django-13933",
+  "repo": "django/django",
+  "base_commit": "42e8cf47c7ee2db238bf91197ea398126c546741",
+  "expected_files": [
+    "django/forms/models.py"
+  ],
+  "should_verify": true,
+  "dry_run": false,
+  "python_env": {
+    "path": "/data2/junzhou2/opencode/bench/showcase2/runs/memory-off/session-3/repo/.bench-venv",
+    "bin": "/data2/junzhou2/opencode/bench/showcase2/runs/memory-off/session-3/repo/.bench-venv/bin",
+    "python": "/data2/junzhou2/opencode/bench/showcase2/runs/memory-off/session-3/repo/.bench-venv/bin/python",
+    "sourcePython": "/home/anaconda3/bin/python3",
+    "sourcePythonVersion": "3.9.13",
+    "prepared": true
+  }
+}

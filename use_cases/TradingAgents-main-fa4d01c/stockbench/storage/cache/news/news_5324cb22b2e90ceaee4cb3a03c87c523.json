@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "EPU: Peru Isn't One Of My Top LatAm Picks Right Now",
+      "description": "Peru's political instability and upcoming elections present significant risks, particularly vs. other countries in the region. Read why EPU ETF is a Hold.",
+      "published_utc": "2025-07-27T09:03:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3f365a739b7a2271829d8c7123cf0bb3e9fd512711aac2528c62e0dff2359dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387126975/image_1387126975.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136099223,
+      "datetime": 1753578215
+    },
+    {
+      "title": "Microsoft Corporation (MSFT): “Will You Cut It Out?” Asks Jim Cramer",
+      "description": "We recently published 9 Stocks Jim Cramer Discussed As He Commented On Big Tech. Microsoft Corporation (NASDAQ:MSFT) is one of the stocks Jim Cramer recently discussed. Microsoft Corporation (NASDAQ:MSFT)’s shares have gained 22% year-to-date as the firm has managed to shift its AI narrative. While the shares had struggled in 2024, the firm has managed […]",
+      "published_utc": "2025-07-27T07:12:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b60c147c5e1c91e4fbf4502a63f2f185dcce98c1e6329e2c914488bb2279a6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101527,
+      "datetime": 1753571579
+    },
+    {
+      "title": "Alphabet Inc. (GOOGL): “I Got It Wrong,” Admits Jim Cramer",
+      "description": "We recently published 9 Stocks Jim Cramer Discussed As He Commented On Big Tech. Alphabet Inc. (NASDAQ:GOOGL) is one of the stocks Jim Cramer recently discussed. Alphabet Inc. (NASDAQ:GOOGL)’s shares, like Microsoft’s stock, have staged a recovery in 2025. They have gained 1.5% year-to-date after having dipped by 16% from the start of the year […]",
+      "published_utc": "2025-07-27T07:12:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61b8cef752e30c8c2befb7c4cbb440d3814dd8e7bbf5ce8daedd8e8c81f23ddc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101528,
+      "datetime": 1753571555
+    },
+    {
+      "title": "Fidelity Large Cap Stock Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-27T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dabed13e4a285da09db3a5961cd1a6f4f26ff2adc0f4484530b23cbfe012b2e6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136098550,
+      "datetime": 1753569300
+    },
+    {
+      "title": "Fidelity Fund Q2 2025 Commentary",
+      "description": "Fidelity Investments reviews Q2 fund performance amid market volatility. See how stock selection shaped returns and explore their forward-looking strategy.",
+      "published_utc": "2025-07-27T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5df73e5d2e5214870ef208a2b29b34e9e97fe3be2676717d08eed9859d5472c9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165312975/image_2165312975.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136098255,
+      "datetime": 1753564500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:12:12.442763+00:00",
+    "cache_key": "news_5324cb22b2e90ceaee4cb3a03c87c523",
+    "count": 5
+  }
+}

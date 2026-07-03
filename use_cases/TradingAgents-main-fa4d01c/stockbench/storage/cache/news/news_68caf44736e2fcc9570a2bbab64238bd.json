@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "Republicans may need an AI boom to have any hope of paying for their 'one big, beautiful bill'",
+      "description": "President Trump is promising blockbuster economic growth in part because it is needed to pay for his 'big, beautiful bill.' Even wary economists say there is one long-shot way it could happen: an AI-fueled boom.",
+      "published_utc": "2025-06-14T20:00:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ca2d19f7f6d262714c6f5854710b48b9bd72baa8c10b01015003ee348688972",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271976,
+      "datetime": 1749902426
+    },
+    {
+      "title": "Bank of America Bullish on Goldman Sachs, Predicts Surge to $700",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the best stocks for a retirement stock portfolio. On June 12, Bank of America reaffirmed its Buy rating on Goldman Sachs, highlighting the firm’s ability to evolve with changing conditions, describing it as having “proven DNA to adapt to an ever-changing world.” The bank set a […]",
+      "published_utc": "2025-06-14T09:29:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c979ad1dcbd5c90745962f0accf2fb29d3883ab5944be9207753be172a01387a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135259151,
+      "datetime": 1749864569
+    },
+    {
+      "id": "d499b4a5346c7354e4c39b284ef432662844320c5286768f0b6cc5d67dfaebe4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "The Power Behind BACXN: A Global Elite Team Driving Platform Innovation and Breakthroughs",
+      "author": "Bacxn",
+      "published_utc": "2025-06-14T10:25:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/14/3099365/0/en/The-Power-Behind-BACXN-A-Global-Elite-Team-Driving-Platform-Innovation-and-Breakthroughs.html",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "PANW",
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/31c9c17b-232d-4b63-b61b-f642d914d8b0",
+      "description": "BACXN, a blockchain-based platform, has completed a global restructuring of its core team, integrating expertise in blockchain, fintech, cybersecurity, and global markets. The platform has achieved compliance certifications in North America and Southeast Asia, and has surpassed 10 million users.",
+      "keywords": [
+        "BACXN",
+        "blockchain",
+        "fintech",
+        "cybersecurity",
+        "global markets",
+        "compliance",
+        "user growth"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that BACXN's founder previously served as the Head of Fintech at Goldman Sachs, indicating his experience in the financial industry."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that BACXN's founder previously served as the Head of Fintech at Goldman Sachs, indicating his experience in the financial industry."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that BACXN's founder previously served as the Head of Fintech at Goldman Sachs, indicating his experience in the financial industry."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that BACXN's founder previously served as the Head of Fintech at Goldman Sachs, indicating his experience in the financial industry."
+        },
+        {
+          "ticker": "PANW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that former security experts from Palo Alto Networks have established security mechanisms for BACXN, indicating the platform's focus on security and risk management."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that former security experts from Visa have established security mechanisms for BACXN, suggesting the platform's focus on compliance and risk control."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:27.092378+00:00",
+    "cache_key": "news_68caf44736e2fcc9570a2bbab64238bd",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "TCW Artificial Intelligence ETF Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-06-09T07:28:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9d89b1d0177d48b8495bfb4fef4a76174ec44c938684a31e124c4068c8bd466",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135117336,
+      "datetime": 1749425280
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is PDD Holdings Inc. (PDD) The Dirt Cheap Stock To Invest In Now?",
+      "description": "We recently published a list of 10 Dirt Cheap Stocks To Invest In Now. In this article, we are going to take a look at where PDD Holdings Inc. (NASDAQ:PDD) stands against other dirt cheap stocks to invest in now. Investor’s Guide to Navigating the Volatilitc The stock market has been experiencing volatility and has […]",
+      "published_utc": "2025-04-17T05:23:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f1abefc74f609a3cdb499be34176e2ec890b83fcf959b06d35e5ece2a03474b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942415,
+      "datetime": 1744838610
+    },
+    {
+      "title": "Nvidia's $5.5B charge: 'Nobody' should be 'surprised'",
+      "description": "Nvidia (NVDA) and Advanced Micro Devices (AMD) plunge after comments from Federal Reserve Chair Jerome Powell deepened losses sparked by costs associated with new US restrictions on exports to China. Futurum CEO Daniel Newman sits down with Josh Lipton, joined by Defiance ETFs CEO and chief investment officer Sylvia Jablonski, to discuss the latest chip news and what it means for investors. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-17T04:24:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5949b10a370dc816999a53f29a8e9a7940b9ccf07e3bdd4536b7e737ac286023",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942384,
+      "datetime": 1744835071
+    },
+    {
+      "title": "Big Tech’s China Risks Go Far Beyond Nvidia",
+      "description": "Within the largest companies in the sector, the players least affected by China risk are Alphabet and Meta Platforms.",
+      "published_utc": "2025-04-17T03:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a44b4d3f894b9c5afe111184a412047259a248db45d2d7ad9a29351b9c03fd09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942376,
+      "datetime": 1744831260
+    },
+    {
+      "title": "Is Amazon.com Inc. (NASDAQ:AMZN) the Best Machine Learning Stock to Buy Now?",
+      "description": "We recently published a list of the 10 Best Machine Learning Stocks to Buy Now. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other machine-learning stocks. Grand View Research reported that the global machine-learning market was valued at $36.73 billion in 2022. It’s now expected to […]",
+      "published_utc": "2025-04-17T03:01:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e21d5914d11b4186f6f7db13076ad88df4ad7dc0a5b35cef830df6503c6590d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942418,
+      "datetime": 1744830079
+    },
+    {
+      "title": "Wall Street’s 12 favorite stocks could soar as much as 54% over the next year, analysts say",
+      "description": "These stocks are rated a buy or the equivalent by at least 90% of analysts polled by FactSet.",
+      "published_utc": "2025-04-17T02:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=606e7d7c81901f0796e95bbc75fcbd5c4274c48ce3306b7759732712c2388c4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942548,
+      "datetime": 1744827180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:57.706117+00:00",
+    "cache_key": "news_198a34cadaa466b4094a659f3be9433a",
+    "count": 5
+  }
+}

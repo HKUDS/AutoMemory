@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Piper Sandler downgrades Best Buy on weak appliance sales",
+      "description": "Investing.com -- Piper Sandler downgraded Best Buy Co (NYSE:BBY). to Neutral from Overweight and cut its price target to $75, warning that the U.S. electronics retailer is unlikely to deliver meaningful growth in the coming quarters as appliance and TV sales continue to lag.",
+      "published_utc": "2025-07-14T23:10:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a38b4fd238070088cbcc6274089c2e4c9f5a3ff4a631323c6d03b22d8e91fdb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927493,
+      "datetime": 1752505808
+    },
+    {
+      "title": "Jefferies lifts price targets on home improvement stocks, sees multi-year catalyst",
+      "description": "Investing.com -- Jefferies analysts raised their price targets on Home Depot (NYSE:HD) and Lowe’s (NYSE:LOW) in a note Monday, citing a structural recovery in home equity withdrawals that could fuel years of increased spending in the repair and remodel (R&R) sector.",
+      "published_utc": "2025-07-14T23:01:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ab3c5a3e7fc4c65a50cc4e29358977005d4014c575698ae901f30291dedb2b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927543,
+      "datetime": 1752505279
+    },
+    {
+      "title": "Can Home Depot's Technology Investments Fix Sluggish DIY Sales Trends?",
+      "description": "HD adopts AI tools and associated tech investments to revive DIY sales as big-ticket projects stall in a high-rate environment.",
+      "published_utc": "2025-07-14T22:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e46b768db383b1124c0740b8cc1d3438e826b65f31949da6a4e11be47f7fe8d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932505,
+      "datetime": 1752504660
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Home Depot (HD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-07-14T21:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5126e1b6a976239fc4fa8d723f3926389653c48a900880243ffece1e49175b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135926479,
+      "datetime": 1752498003
+    },
+    {
+      "title": "Resolute Holdings Enhances Board of Directors with the Appointment of Two Additional Independent Directors",
+      "description": "NEW YORK, July 14, 2025 (GLOBE NEWSWIRE) -- Resolute Holdings Management, Inc. (“Resolute Holdings”) (Nasdaq: RHLD), an operating management company responsible for providing management services to CompoSecure Holdings, L.L.C. (“CompoSecure Holdings”), a wholly owned subsidiary of CompoSecure, Inc. (“CompoSecure”) (Nasdaq: CMPO), today announced the appointment of two new members to its Board of Directors (“Board”). Wayne M. Hewett and Timothy O. Mahoney have been appointed to join Resolute Hold",
+      "published_utc": "2025-07-14T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4eee49ec58c36b8fd9b0a4e8cc712ab405c3ae11c1328ce00cd82ffc9dffb44",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135926481,
+      "datetime": 1752496200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:28.387815+00:00",
+    "cache_key": "news_9c942d7e753e033c12efa6c06cc109e3",
+    "count": 5
+  }
+}

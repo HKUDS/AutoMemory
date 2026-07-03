@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
+      "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
+      "published_utc": "2025-02-19T05:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7facde2ae5c066853e3c10f645338611f87bab1b8480e5a5ef704337d2dad585",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/940959558/image_940959558.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781249,
+      "datetime": 1739914800
+    }
+  ]
+}

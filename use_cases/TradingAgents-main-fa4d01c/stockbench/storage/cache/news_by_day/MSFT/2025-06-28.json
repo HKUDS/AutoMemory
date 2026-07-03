@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Meta hires four more OpenAI researchers, The Information reports",
+      "description": "Meta Platforms is hiringfour more OpenAI artificial intelligence researchers, TheInformation reported on Saturday. The researchers, Shengjia Zhao, Jiahui Yu, Shuchao Bi andHongyu Ren...",
+      "published_utc": "2025-06-28T21:55:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8e523236759b3cc205ef94e2edbf695fdb24e244aba57cd24efeebe1ba6cd67b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610511,
+      "datetime": 1751118918
+    }
+  ]
+}

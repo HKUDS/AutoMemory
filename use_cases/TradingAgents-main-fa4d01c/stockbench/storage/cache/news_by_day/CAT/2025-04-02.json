@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Rises But Trails Market: What Investors Should Know",
+      "description": "In the most recent trading session, Caterpillar (CAT) closed at $330.57, indicating a +0.23% shift from the previous trading day.",
+      "published_utc": "2025-04-02T05:45:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41974bdbaf62e65192fb7e9117d000621bd8eea68b6b03274efd6b11f141549b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658268,
+      "datetime": 1743543918
+    }
+  ]
+}

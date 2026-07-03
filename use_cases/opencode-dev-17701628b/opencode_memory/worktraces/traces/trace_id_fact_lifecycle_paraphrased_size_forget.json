@@ -1,0 +1,84 @@
+{
+  "trace_id": "trace_id_fact_lifecycle_paraphrased_size_forget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: a natural forget request that paraphrases a corrected bundle size constraint should deactivate the matching active fact without topic-specific fuzzy expansions.",
+  "turns": [
+    {
+      "role": "user",
+      "content": "Remember: mobile checkout bundles must stay below 180 KB after gzip.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-bundle" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: correction, mobile checkout bundles must stay below 160 KB after gzip.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-bundle" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: checkout dark launches require feature flag checkout_v3_shadow.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-bundle" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: the user wants rollout summaries grouped by risk.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-bundle" }
+    },
+    {
+      "role": "user",
+      "content": "Please forget the asset size limit for mobile checkout.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-bundle" }
+    },
+    { "role": "agent", "content": "Acknowledged and continuing unrelated checkout work.", "used_for_evaluation": false },
+    { "role": "tool", "content": "noise: build report includes many gzip references", "used_for_evaluation": false },
+    { "role": "agent", "content": "Ignored unrelated gzip references.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: checkout smoke tests use CHECKOUT_SHADOW_QUEUE=memory.", "used_for_evaluation": false, "metadata": { "session_id": "fact-bundle" } },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false, "metadata": { "retention_flush": true } },
+    { "role": "tool", "content": "noise: docs mention old bundle budgets", "used_for_evaluation": false },
+    { "role": "agent", "content": "Docs noise is unrelated to active memory.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: checkout canary dashboards live under Grafana folder Payments/Checkout.", "used_for_evaluation": false, "metadata": { "session_id": "fact-bundle" } },
+    { "role": "agent", "content": "Stored the dashboard location.", "used_for_evaluation": false },
+    { "role": "system", "content": "final noise marker", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What active mobile checkout bundle size memory remains?",
+      "expected_information": [
+        {
+          "value": "^(?![\\s\\S]*180 KB)(?![\\s\\S]*160 KB)[\\s\\S]*$",
+          "matcher": "regex",
+          "description": "The paraphrased asset-size forget should remove both old and corrected bundle size facts."
+        }
+      ]
+    },
+    {
+      "query": "Which feature flag gates checkout dark launches?",
+      "expected_information": [
+        { "value": "checkout_v3_shadow", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "How should rollout summaries be grouped?",
+      "expected_information": [
+        { "value": "grouped by risk", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What queue do checkout smoke tests use?",
+      "expected_information": [
+        { "value": "CHECKOUT_SHADOW_QUEUE=memory", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Where are checkout canary dashboards?",
+      "expected_information": [
+        { "value": "Payments/Checkout", "matcher": "substring" }
+      ]
+    }
+  ]
+}

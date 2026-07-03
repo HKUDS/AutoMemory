@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "AMGEN ANNOUNCES WEBCAST OF 2024 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
+      "description": "THOUSAND OAKS - Amgen today announced that it will report its fourth quarter and full year 2024 financial results on Tuesday, February 4, 2025, after the close of the U.S. financial markets.The...",
+      "published_utc": "2025-02-03T17:04:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ac95a84ae9d3e39df7252d37b37f47ef1a81f708ce60cb0fbde970864bc9f6e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520510,
+      "datetime": 1738573457
+    }
+  ]
+}

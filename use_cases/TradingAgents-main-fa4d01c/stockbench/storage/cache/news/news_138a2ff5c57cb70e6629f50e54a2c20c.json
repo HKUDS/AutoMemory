@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Retail Stocks See Big Buys From Large Investors",
+      "description": "Retail Stocks See Big Buys From Large Investors",
+      "published_utc": "2025-03-23T11:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=303d5efac8a547b0ad8d081a8b7e1ba650a2c88ca7f745620674f0c541e0b74d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134146943,
+      "datetime": 1742698800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:21:12.516559+00:00",
+    "cache_key": "news_138a2ff5c57cb70e6629f50e54a2c20c",
+    "count": 1
+  }
+}

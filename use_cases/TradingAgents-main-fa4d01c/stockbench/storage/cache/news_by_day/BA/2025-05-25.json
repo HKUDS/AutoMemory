@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "EasyJet pounces on Ryanair woes as budget rivalry reignites",
+      "description": "EasyJet is poised to rekindle a long-running battle for dominance in discount travel as it prepares to swap 80 of its smallest jets for bigger and more efficient models.",
+      "published_utc": "2025-05-25T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cb7a6d755906684aa925d818bb905b04a02df9d8436888591163ef7fcdd4aca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694405,
+      "datetime": 1748170800
+    },
+    {
+      "title": "Applied Energetics: Recent 165% Surge May Be Built On False Hopes And Golden Dome",
+      "description": "",
+      "published_utc": "2025-05-25T11:30:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d135369e112ddd7d8b8f94c29c2b5c516bd9ccbf30558cd8a27f6c9ad8f7b490",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134691994,
+      "datetime": 1748143804
+    }
+  ]
+}

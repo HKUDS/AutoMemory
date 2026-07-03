@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "U.S. FDA Oncologic Drugs Advisory Committee votes in favor of the benefit-risk profile of DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) for high-risk smoldering multiple myeloma",
+      "description": "Johnson & Johnson (NYSE:JNJ) announced today the U.S. Food and Drug Administration (FDA) Oncologic Drugs Advisory Committee (ODAC) voted (6-2) in favor of the benefit-risk profile of single-agent DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) for the treatment of adult patients with high-risk smoldering multiple myeloma (HR-SMM). An application for the approval of DARZALEX FASPRO® for adult patients with HR-SMM was submitted to the FDA in November 2024.",
+      "published_utc": "2025-05-21T06:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c10d3e935f1da769afe8a3b36ecf11a8d40b61fa4022a0abe4b2353c8419d36b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628232,
+      "datetime": 1747779660
+    },
+    {
+      "title": "Tracking Tweedy Browne Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-05-21T04:02:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b56a1197ba3557ed11605f018678b006950461bd3eaab99f2f9c8e953eefbdb4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134620526,
+      "datetime": 1747771331
+    },
+    {
+      "title": "J&J Says FDA Advisory Panel Favors Benefit-Risk Profile of Darzalex Faspro in Myeloma Treatment",
+      "description": "J&J Says FDA Advisory Panel Favors Benefit-Risk Profile of Darzalex Faspro in Myeloma Treatment",
+      "published_utc": "2025-05-21T02:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73e8398f321ff127b9afd3cb532b8f702c784e51f153a98550298bb317a3c41c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134633143,
+      "datetime": 1747766820
+    }
+  ]
+}

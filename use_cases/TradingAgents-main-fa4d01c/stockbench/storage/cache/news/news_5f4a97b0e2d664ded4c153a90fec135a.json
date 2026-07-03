@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Adobe: Risks Of Being Upended By AI Rivals Are Getting Real (Rating Downgrade)",
+      "description": "Adobe faces challenges from AI-first rivals, with slow AI revenue growth raising doubts.",
+      "published_utc": "2025-06-15T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9be8bfd3ead0d5881d8b1a6986908e95d7d5aaf6dc827ded0df0c9df79d2f561",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195600079/image_2195600079.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285665,
+      "datetime": 1749987000
+    },
+    {
+      "title": "Despite Limited Near-Term Catalysts, Oppenheimer Reaffirms Salesforce (CRM) at Overweight",
+      "description": "Salesforce Inc. (NYSE:CRM) is one of the 10 best tech stocks to buy according to billionaires right now. On June 9, an analyst at Oppenheimer reiterated his Outperform rating on the stock and maintained a $370 price target. In this latest note, the analyst pointed to a positive tone from the company management in their recent meeting, […]",
+      "published_utc": "2025-06-15T17:47:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b9e52e33a361776e90f1e8bb00ca8bbb9e0ab5760123fa3a5515f761f108f06",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285031,
+      "datetime": 1749980864
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:22.474353+00:00",
+    "cache_key": "news_5f4a97b0e2d664ded4c153a90fec135a",
+    "count": 2
+  }
+}

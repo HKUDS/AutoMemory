@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Private Credit’s Cracks Widened Before Turmoil",
+      "description": "(Bloomberg) -- The companies that get private credit loans are looking increasingly wobbly and banks are among those that could eventually be on the hook for losses.Most Read from BloombergWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesNewsom Says California Is Now the World’s Fourth-Biggest EconomyBackyard Micro-Flats Aim to Ease South Africa’s Housing CrisisAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesMany",
+      "published_utc": "2025-04-27T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5948622f316b2086f8ab62246f05cdd3717750f4adb0e00625afef98e266a22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104468,
+      "datetime": 1745694000
+    },
+    {
+      "title": "China weighs U.S. tariff exemptions, Alphabet reports Q1 beat: Morning Buzz",
+      "description": "The major averages were mixed near noon following several days of gains as investors process the latest batch of earnings reports, including a notable one from a big tech bellwether. Optimism over easing U.S.-China trade tensions, particularly with China reportedly considering tariff exemptions for certain American products, is also being weighed, though President Trump said he would consider it a “total victory” if the U.S. has high tariffs of 20%-50% on foreign nations a year from now, accordi",
+      "published_utc": "2025-04-27T00:20:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45dda7f219845d362c372d9ea360e40eaed019f671bd925f18f86699e541d72a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134103528,
+      "datetime": 1745684455
+    },
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Best Safe Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 11 Best Safe Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other best safe stocks to buy according to hedge funds. In times when you never know what you’ll wake up […]",
+      "published_utc": "2025-04-26T21:20:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b22451a2b6bb0c01a47b2be7b089d713349d6950144f28766cbc81cb8865b301",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104470,
+      "datetime": 1745673647
+    },
+    {
+      "title": "Better Dividend Stock: JPMorgan Chase vs. Goldman Sachs",
+      "description": "Despite these uncertainties, reliable and high-quality dividend income from a diversified portfolio can be a great option for investors to ride out stock market turbulence.  Let's discuss which of these financial titans is the better dividend stock to buy now.  In this case, it's not a coincidence that shares of JPMorgan have outperformed the broader market, returning 30% over the past year.",
+      "published_utc": "2025-04-26T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83f56dc0cdc743188605803fe165df487ff0f121d4647a0210c243abf7aa3f58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104471,
+      "datetime": 1745659800
+    },
+    {
+      "title": "A Big Market Reversal Might Be Coming In 2025",
+      "description": "We will still likely face a recession. See which investments are poised to outperform amid a potential recession and trade war resolution.",
+      "published_utc": "2025-04-26T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7050ea206420403c0c47d08179210238b7f66cf311225db019e11774a0e7864b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209734748/image_2209734748.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099521,
+      "datetime": 1745655300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:09.142381+00:00",
+    "cache_key": "news_7ffacd4e6e2a249a15c5014fd5b18260",
+    "count": 5
+  }
+}

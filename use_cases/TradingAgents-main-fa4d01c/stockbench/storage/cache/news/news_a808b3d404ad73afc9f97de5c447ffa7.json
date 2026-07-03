@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Workday Stock: “I’m Worried”",
+      "description": "Workday, Inc. (NASDAQ:WDAY) is one of the 11 stocks Jim Cramer put under the microscope recently. During the lightning round, a caller inquired about the company, and Cramer replied: “I’m worried. There’s a lot of companies coming for Workday, and I don’t like that. I think that what happens is we begin to see what’s […]",
+      "published_utc": "2025-06-29T00:20:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3df8bf7fc7e84fc8bb81178a7d405576b5d5a209a06e5ce40aa7f69487f25bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623487,
+      "datetime": 1751127613
+    },
+    {
+      "title": "Salesforce (CRM) Expands PayPal Integration with Agentforce Platform Upgrade",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the 12 stocks that will make you rich in 10 years. On June 23, the company announced an enhanced collaboration with PayPal (NASDAQ:PYPL) through the Salesforce Agentforce platform. Specifically, users can now integrate PayPal as a featured Model Context Protocol (MCP) Server on Agentforce’s AgentExchange platform. The partnership enables […]",
+      "published_utc": "2025-06-28T17:41:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=65c8dd5c95ec4b425497cf7f7b8266556f937b585a1c5ae7084e973775b0e4ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623789,
+      "datetime": 1751103673
+    },
+    {
+      "title": "Morgan Stanley Remains a Buy on Salesforce (CRM) With a PT of $404",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the 13 Best Long Term Growth Stocks to Invest in Right Now. In a report released on June 24, Keith Weiss from Morgan Stanley maintained a Buy rating on Salesforce, Inc. (NYSE:CRM) with a price target of $404.00. The analyst supported the optimistic sentiment with the company’s potential for future […]",
+      "published_utc": "2025-06-28T16:52:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=094d95789ec690f6c1d382b60b0afa09f7028cfdb19841e470eb999a590f066f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135624147,
+      "datetime": 1751100776
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:25.690459+00:00",
+    "cache_key": "news_a808b3d404ad73afc9f97de5c447ffa7",
+    "count": 3
+  }
+}

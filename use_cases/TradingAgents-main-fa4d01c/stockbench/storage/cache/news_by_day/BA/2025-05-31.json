@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "At the Worst Possible Moment for Boeing, Airbus' Space Business Is Booming",
+      "description": "Why bet on a maybe Boeing turnaround when Airbus has already, definitively turned the corner?",
+      "published_utc": "2025-05-31T19:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4823fa1e28243be1c86bbdc6ec1c104b46bdd4888a9f076a1f2981573e53a655",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918154,
+      "datetime": 1748689620
+    },
+    {
+      "title": "Pension Funds Won’t Save the Bond Market",
+      "description": "Higher yields on long-term bonds have helped many pensions derisk. Now their appetite might be waning.",
+      "published_utc": "2025-05-31T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f272fa983f101e6fb8135d93dc4b4edf373f796119eab837c3eea598e87a7b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918197,
+      "datetime": 1748687400
+    }
+  ]
+}

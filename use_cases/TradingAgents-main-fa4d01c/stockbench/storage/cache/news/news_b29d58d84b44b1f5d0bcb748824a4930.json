@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) One of the Best Blue Chip Stocks to Buy According to Billionaires?",
+      "description": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock market […]",
+      "published_utc": "2025-04-19T23:16:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7455631bf4f1868acccced542e184b3acf56c35805323c21ec7a93656e2a76dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134004395,
+      "datetime": 1745075811
+    },
+    {
+      "title": "4 Top Tech Stocks to Buy Right Now",
+      "description": "Amidst the market volatility due to tariffs and trade tensions, many top tech companies are now selling at much more attractive valuations than just a few months ago.  Pinterest (NYSE: PINS) operates an online vision board that has more than 550 million monthly active users (MAU) across the globe.  Better monetizing its user base is a huge opportunity for Pinterest, especially in the markets outside the U.S. and Europe where more than half its user base resides.",
+      "published_utc": "2025-04-19T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c527f6fc1a7713a62e619ebfb415d38f213a74f51125d1cf48beb638eb2b0c83",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134004271,
+      "datetime": 1745062200
+    },
+    {
+      "title": "Salesforce's Bet On Agentic AI Is Just Getting Started",
+      "description": "",
+      "published_utc": "2025-04-19T10:55:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=544501e2e8cbc70e7a16a2a9edcf20d9b3690dc7c06df276f13b8be503264431",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133969151,
+      "datetime": 1745031305
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:33:24.055010+00:00",
+    "cache_key": "news_b29d58d84b44b1f5d0bcb748824a4930",
+    "count": 3
+  }
+}

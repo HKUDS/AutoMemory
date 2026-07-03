@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) the Best Stock for 15 Years?",
+      "description": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the elevated […]",
+      "published_utc": "2025-04-14T05:39:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=160d297b245195d605bda1460a7768fad7f0b6c6f46c7a002da56a78fb854c11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908245,
+      "datetime": 1744580344
+    },
+    {
+      "title": "ClearBridge Appreciation ESG Strategy Q1 2025 Commentary",
+      "description": "Marketâs sector performance exhibited a defensive posture in Q1 with health care, consumer staples, utilities and real estate the top-performing industries, outside of energy.",
+      "published_utc": "2025-04-13T21:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1482822139534b3cf52f21a40eba7b71687da970c3c2ff83e4d40f14f065caa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178325066/image_2178325066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901044,
+      "datetime": 1744550100
+    },
+    {
+      "title": "Salesforce, Inc.'s (NYSE:CRM) Fundamentals Look Pretty Strong: Could The Market Be Wrong About The Stock?",
+      "description": "Salesforce (NYSE:CRM) has had a rough three months with its share price down 20%. However, stock prices are usually...",
+      "published_utc": "2025-04-13T20:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=785e195b26a97d96195361ed6879fe0403b421be676ecc3367a97951e02ea33a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908246,
+      "datetime": 1744545618
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:16.024007+00:00",
+    "cache_key": "news_9f433e866f08e248196bbea32c4c99c6",
+    "count": 3
+  }
+}

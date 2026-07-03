@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Thailand to offer US more trade concessions to avert 36% tariff",
+      "description": "(Bloomberg) -- Thailand is making a last-ditch effort to avert a punitive 36% export levy threatened by the Trump administration with offers of greater market access for US farm and industrial goods, along with increased purchases of energy and Boeing jets. Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsTrump’s Gilded Design Style May Be Gaudy. But Don’t Call it ‘Rococo.’Massachusetts to Follow NYC in Making Landlords Pay Broker FeesNYC Commutes Resume After M",
+      "published_utc": "2025-07-06T22:14:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a45438f2116b9233b8a26c74e4ba4aff73a7ec162a2a8902ac53325b136c6960",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135776860,
+      "datetime": 1751811278
+    },
+    {
+      "title": "Trump says US nears trade deals as tariff deadline delayed",
+      "description": "The UnitedStates is close to finalizing several trade pacts in coming daysand will notify other countries of higher tariff rates by July9, President Donald Trump said on Sunday, with the higher...",
+      "published_utc": "2025-07-06T19:27:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d0d6034706c01e5073032fc90d45e64cefab038d42be2fb3bbe3fc828c3a083f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135778745,
+      "datetime": 1751801231
+    },
+    {
+      "title": "Trump says US nears trade deals as tariff effective date delayed",
+      "description": "The UnitedStates is close to finalizing several trade agreements in thecoming days and will notify other countries of higher tariffrates by July 9, U.S. President Donald Trump said on Sunday,with...",
+      "published_utc": "2025-07-06T19:27:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cbf7c86e8dc234891d1e4bcee5ad23c0c974fe7c605e5e78c5902b5b173e0804",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135777867,
+      "datetime": 1751801231
+    },
+    {
+      "title": "US close to several trade deals, announcements expected in coming days, Bessent says",
+      "description": "The United States isclose to clinching several trade deals ahead of a July 9deadline when higher tariffs were due to kick in, U.S. TreasurySecretary Scott Bessent said on Sunday, predicting several...",
+      "published_utc": "2025-07-06T19:27:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=00f9e659719ff3bf5db86ab70dac5ba4b7d0f7e34f3f87250efaab4d29030e40",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135776303,
+      "datetime": 1751801231
+    }
+  ]
+}

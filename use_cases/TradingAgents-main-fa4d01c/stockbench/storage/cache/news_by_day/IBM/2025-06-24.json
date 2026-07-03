@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Evercore Reaffirms ‘Outperform’ on IBM With Strong EPS Forecast",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the 10 AI Stocks in the Spotlight. On June 20, Evercore ISI analyst Amit Daryanani reiterated an “Outperform” rating on the stock with a $315 price target. The firm expects IBM to maintain mid-to-high single-digit revenue growth as well as double-digit growth in earnings per share and free cash […]",
+      "published_utc": "2025-06-24T06:10:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5485a024a48cc20b5d63cd8ca38b8ce1c6c59dde4486c61df934423fde6625e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489988,
+      "datetime": 1750716608
+    },
+    {
+      "title": "Why IBM (IBM) Outpaced the Stock Market Today",
+      "description": "In the latest trading session, IBM (IBM) closed at $289.18, marking a +2.92% move from the previous day.",
+      "published_utc": "2025-06-24T05:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=166ee5e2428791f39a7a60fd44a9583bfa0fe10db5436bfcd1bf7e83c84102df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489989,
+      "datetime": 1750715102
+    },
+    {
+      "title": "Is IBM’s Dividend Attractive Enough Despite Slow Growth?",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the 10 Technology Dividend Aristocrats to Buy in 2025. Commonly known as Big Blue, International Business Machines Corporation (NYSE:IBM) is an American multinational tech company that offers a wide range of services, including hybrid cloud solutions. It’s considered one of the top dividend-paying companies in the tech sector, […]",
+      "published_utc": "2025-06-24T05:19:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec5224ac4dbab4d054206bda3d8c40e2fac618ff0b0f4cd6c4d841b3eed37746",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489990,
+      "datetime": 1750713543
+    },
+    {
+      "title": "IBM and RIKEN Unveil First IBM Quantum System Two Outside of the U.S.",
+      "description": "IBM's next-generation quantum computer, now online in Japan, is also connected to the supercomputer Fugaku to accelerate quantum computational power and accuracy  KOBE, Japan, June 23, 2025...",
+      "published_utc": "2025-06-24T05:01:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4f8ea0bd9761d3d27e6018e828b51b8bc1cd4f1a4627996f5a72f57f0e290169",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486275,
+      "datetime": 1750712465
+    },
+    {
+      "title": "Microsoft and IBM Just Hit Fresh Highs. Both Are Still Set for AI-Driven Gains, Analysts Say",
+      "description": "Microsoft and International Business Machines shares closed at record highs Monday, building on a string of recent gains.",
+      "published_utc": "2025-06-24T04:58:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3901d75a0f78824d2215a62a1ac7d4fba5fa82e76f1d9b733cda0f4e2306de72",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489991,
+      "datetime": 1750712303
+    }
+  ]
+}

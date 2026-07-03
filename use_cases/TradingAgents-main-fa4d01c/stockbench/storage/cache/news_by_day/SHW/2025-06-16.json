@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Citi Downgrades Sherwin-Williams (SHW); Housing Slump Clouds Outlook",
+      "description": "Price target cut to $385; stock drops as mortgage rates weigh",
+      "published_utc": "2025-06-16T20:26:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27f7302bcac0b769f150eb340d53f68b2d907e782fbe7adb5e865d8c42eb9f72",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135303237,
+      "datetime": 1750076796
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce Inc. (NYSE:CRM) the Best Tech Stock to Buy For Long-Term Investment?",
+      "description": "We recently published a list of 12 Best Tech Stocks to Buy For Long-Term Investment. In this article, we are going to take a look at where Salesforce Inc. (NYSE:CRM) stands against other tech stocks to buy for long-term investment. On April 1, Chris Verrone, chief market strategist at Strategas Research Partners, appeared on CNBC’s […]",
+      "published_utc": "2025-04-12T21:03:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=805c1cec70ae99771090f6127cf3031bd6e04a3e20f92cacf725862d6c6b372f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895945,
+      "datetime": 1744463017
+    },
+    {
+      "title": "Goldman Sachs, J&J, To Report Earnings As Investors Watch Out For Retail Sales Data",
+      "description": "",
+      "published_utc": "2025-04-12T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b70116013298834748f4a12f97a5843422715d67cbee0366197a479831bae39b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894906,
+      "datetime": 1744455600
+    },
+    {
+      "id": "cfba327b58b493835b14ec02355bf8dadeaa9640ba53dac6c5ff2ff74eb814c6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Cheap, Leading AI Stocks That Are Screaming Buys in April",
+      "author": "The Motley Fool",
+      "published_utc": "2025-04-12T08:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/12/cheap-leading-ai-stocks-screaming-buys-april/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMZN",
+        "META",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/814262/gettyimages-2078917109.jpg",
+      "description": "The article discusses several leading AI stocks that have become more affordable after the recent market crash, including Nvidia, Broadcom, Amazon, Meta Platforms, and Salesforce. It highlights the growth opportunities in AI infrastructure, custom AI chips, cloud computing, and agentic AI, and suggests these stocks are currently undervalued.",
+      "keywords": [
+        "AI",
+        "stocks",
+        "market crash",
+        "Nvidia",
+        "Broadcom",
+        "Amazon",
+        "Meta Platforms",
+        "Salesforce"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is the market leader in AI chips, with its GPUs providing the processing power for AI workloads. The company's revenue growth has been strong, and it is well-positioned to benefit from the continued AI infrastructure buildout."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom has become the leader in helping customers develop custom AI chips, which can have better performance and lower power consumption than GPUs. The company has been gaining more AI chip customers, and its stock is considered undervalued."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's cloud computing business, AWS, has been growing quickly, fueled by customers building out their own AI models and apps. The company has also developed its own custom AI chips, giving it a cost advantage."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms has embraced AI through the development of its Llama AI model, which has helped increase user engagement and ad performance on its social media platforms. The company is also looking to turn Llama into a leading AI assistant."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is looking to become the leader in agentic AI, with its Agentforce platform offering out-of-the-box solutions for customers to customize AI agents. The company's stock is considered undervalued given the opportunity in this market."
+        }
+      ]
+    }
+  ]
+}

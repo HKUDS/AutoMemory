@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "SOC Investment Group Files Proposal Against McDonald's (NYSE:MCD) Board Nominee",
+      "description": "McDonald's (NYSE:MCD) is facing pressure as the SOC Investment Group urges shareholders to oppose board nominee Paul Walsh at the upcoming annual meeting. Despite this, the company's share price rose by 9% over the last quarter, aligning with broader market trends as the Dow Jones experienced a surge. Key developments such as quarterly earnings, which remained relatively flat compared to the previous year, and the introduction of a $15 billion share buyback program, echoed investor...",
+      "published_utc": "2025-04-23T01:26:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82d0a450d53c22bebb50da3b05550ea16043a38662bde8dd60e48a8875404852",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038835,
+      "datetime": 1745342809
+    }
+  ]
+}

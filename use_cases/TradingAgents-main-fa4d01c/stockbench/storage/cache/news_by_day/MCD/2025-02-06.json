@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "410a8fa8be8a74d758173a7a47342f0e4759d1d9a9e9c9f6230aab4d5792830a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "McDONALD'S ANNOUNCES QUARTERLY CASH DIVIDEND",
+      "author": "Prnewswire",
+      "published_utc": "2025-02-06T23:30:00Z",
+      "article_url": "https://www.benzinga.com/pressreleases/25/02/n43548781/mcdonalds-announces-quarterly-cash-dividend",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "McDonald's Corporation announced a quarterly cash dividend of $1.77 per share of common stock, payable on March 17, 2025 to shareholders of record as of March 3, 2025.",
+      "keywords": [
+        "dividend",
+        "McDonald's"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company announced a quarterly cash dividend, which is a positive sign for shareholders and indicates the company's financial stability and commitment to returning value to investors."
+        }
+      ]
+    },
+    {
+      "title": "PRESS DIGEST-British Business - Feb 6",
+      "description": "Feb 6 - The following are the top stories onthe business pages of British newspapers. Reuters has notverified these stories and does not vouch for their accuracy. The...",
+      "published_utc": "2025-02-06T06:25:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=537a0911354684641f14f0913e31e757595106cda9c8fee836596dc2664bc9ee",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569700,
+      "datetime": 1738794333
+    },
+    {
+      "title": "Google Is the Latest Firm to Rethink Diversity Hiring",
+      "description": "Google Is the Latest Firm to Rethink Diversity Hiring",
+      "published_utc": "2025-02-06T01:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2fc007adb3cc3517be093415e504e57a892a444c4e28c3e69ccf0cf67f926ba3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573404,
+      "datetime": 1738777080
+    }
+  ]
+}

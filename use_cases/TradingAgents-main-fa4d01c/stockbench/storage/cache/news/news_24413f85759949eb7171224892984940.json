@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW): Among the Best Performing Dow Stocks So Far in 2025",
+      "description": "We recently published a list of 11 Best Performing Dow Stocks So Far in 2025. In this article, we are going to take a look at where The Sherwin-Williams Company (NYSE:SHW) stands against other best performing Dow stocks so far in 2025. The Dow is a renowned and significant stock market index that measures the […]",
+      "published_utc": "2025-02-24T03:58:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92fe37f36630321c1203fba47d25fad5669cdab4c97d92e382297c2991d083f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186495,
+      "datetime": 1740340713
+    },
+    {
+      "title": "Sherwin-Williams' (NYSE:SHW) Shareholders Will Receive A Bigger Dividend Than Last Year",
+      "description": "The board of The Sherwin-Williams Company ( NYSE:SHW ) has announced that the dividend on 14th of March will be...",
+      "published_utc": "2025-02-23T20:13:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=414fb305eb192de4ee9bb095aade8edf41ae401e997df0da60add19458a3c164",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186496,
+      "datetime": 1740312788
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:10:24.962012+00:00",
+    "cache_key": "news_24413f85759949eb7171224892984940",
+    "count": 2
+  }
+}

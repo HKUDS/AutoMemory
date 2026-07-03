@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Why Scott Bessent wants to make it easier for banks to own Treasurys",
+      "description": "US regulators are close to easing a key requirement for banks that the Trump administration hopes will inject more liquidity into the Treasury market. The move would mark a retreat from a rule made following the 2008 financial crisis.",
+      "published_utc": "2025-06-01T22:00:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=898ccf468e6ead35b7ee15a97b0825cffcc34af3099edee385f4ac45817eebbd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927783,
+      "datetime": 1748786435
+    },
+    {
+      "title": "Why central banks are buying gold en masse, and what it means for the price",
+      "description": "Copyright © BusinessAMBE 2023Key takeawaysGovernment purchases of gold have a significant impact on price appreciation.Goldman Sachs forecasts a gold price of $3,700 per ounce by the end of...",
+      "published_utc": "2025-06-01T15:01:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9ca5aedf9f4812abfcfeb33608dc75f11fd075030240f687d63babb667c4fdae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134926924,
+      "datetime": 1748761265
+    }
+  ]
+}

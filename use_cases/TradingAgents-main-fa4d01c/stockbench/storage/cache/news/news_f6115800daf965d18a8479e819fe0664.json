@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "XLF Has Big Downside Risk",
+      "description": "XLF faces risks from inflation, interest rates, and potential recession. Click to read more about alternative strategies like small-cap stocks.",
+      "published_utc": "2025-06-04T00:10:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=170da5e5ad87e9be9dcfc485a63cb94d7d4c32ac519469e9cd891476a0ef863a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187312612/image_2187312612.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134991927,
+      "datetime": 1748967009
+    },
+    {
+      "title": "Exclusive: CVS lays out $20B plan to modernize US consumer healthcare experience",
+      "description": "CVS is investing $20 billion in 10 years to help upgrade the consumer healthcare experience in what it hopes will be a revolutionary change for all Americans",
+      "published_utc": "2025-06-03T23:41:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=305fb5dc0736d9f50382cd564aa428b0fbe5155198011bbbcde4428cd9e0184c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134979208,
+      "datetime": 1748965287
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights American Express, NextEra Energy, Arista Networks, MIND Technology and Rave Restaurant",
+      "description": "From AmEx's Gen Z strategy to MIND's seismic tech surge, Zacks spotlights five stocks with standout momentum and unique growth drivers.",
+      "published_utc": "2025-06-03T18:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5882a1346dd7b65c95bd0e96f7cf77d79a69234e48f850a5ea1dfbfd3236f62b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134977758,
+      "datetime": 1748944920
+    },
+    {
+      "title": "Warren Buffett Has 48% of His $281 Billion Portfolio Invested in 3 Exceptional Stocks",
+      "description": "Buffett puts a lot of money in his highest-conviction stocks.",
+      "published_utc": "2025-06-03T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73c3b48f7c85b83f5362eaa26822571abdf0e6278a2d4bacc91a08726742baa4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134976160,
+      "datetime": 1748943000
+    },
+    {
+      "title": "U.S. Banks' Brokered Deposits Decline For 5th Consecutive Quarter In Q1",
+      "description": "Brokered deposits at US banks declined for the fifth quarter in a row as many banks reduce reliance on expensive sources of funding amid the growth of low-cost deposits.",
+      "published_utc": "2025-06-03T14:13:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ee251e86312a397540d95fa9046a98c476b2acc8885c810e2f516afd038eb35",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/644191738/image_644191738.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134975244,
+      "datetime": 1748931180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:39.870819+00:00",
+    "cache_key": "news_f6115800daf965d18a8479e819fe0664",
+    "count": 5
+  }
+}

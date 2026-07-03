@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs remains bullish on gold",
+      "description": "Copyright © BusinessAMBE 2023Key takeawaysGold price rises to record high due to central bank purchases and recession fears.Central banks have been aggressively buying gold as a safe haven...",
+      "published_utc": "2025-05-24T21:01:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d8c2b167a23f4c3df05c2b09090231ac50c0d5daa43b88b5304588b6a518bcf7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134688926,
+      "datetime": 1748091665
+    },
+    {
+      "title": "Trump’s New Tariff Threats Show Trade Uncertainty Here to Stay",
+      "description": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadCan Frank Gehry’s ‘Grand LA’ Make Downtown Feel Like a Neighborhood?Chicago’s O’Hare Airport Seeks Up to $4.3 Billion of Muni DebtInvestors were growing optimistic that Donald Trump’s trade wars had started to calm down.",
+      "published_utc": "2025-05-24T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ac1c2d219e7112e5a511d9667a6d1740095b3b7ad56dffa468ca4f6d052f1cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694217,
+      "datetime": 1748091600
+    },
+    {
+      "title": "How Bond Yields Are Reacting To China's Trade War",
+      "description": "Crossmark Global Investmentâs Chief Market Strategist, Victoria Fernandez, breaks down what Moodyâs downgrade of US debt really means.",
+      "published_utc": "2025-05-24T12:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=06b8c5ef5e12a8fcaf47a63ebf9acf6376dbfbcf327eaeda13c7f1cad5a06c91",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2129336276/image_2129336276.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134686881,
+      "datetime": 1748061300
+    }
+  ]
+}

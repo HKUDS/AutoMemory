@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co., Caterpillar share losses contribute to Dow's nearly 525-point drop",
+      "description": "Sherwin-Williams Co., Caterpillar share losses contribute to Dow's nearly 525-point drop",
+      "published_utc": "2025-07-07T21:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ebdf0e31af7ce72344d9592a9fdaec76bd514a2ffd2df04a848fa4d1f8812872",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135813346,
+      "datetime": 1751895360
+    },
+    {
+      "title": "Amex Announces Filing of Updated MRE Technical Report for the Perron Project",
+      "description": "Montreal, Quebec--(Newsfile Corp. - July 7, 2025) - Amex Exploration Inc. (TSXV: AMX) (FSE: MX0) (OTCQX: AMXEF) (\"Amex\" or \"the Company\") is pleased to announce that it has filed a National Instrument 43-101 Standards of Disclosure for Mineral Projects (\"NI 43-101\") Updated Mineral Resource Estimate (\"MRE\") Technical Report for AMEX's 100% owned Perron Gold Project in Quebec, Canada, with an effective date of May 21, 2025 (the \"Report\"). Report results were previously announced in AMEX's news re",
+      "published_utc": "2025-07-07T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2592275c9d0b952e6b1d2c24ce3a3c64d0a2a05d3c0015cbde110b88eef67e11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135790079,
+      "datetime": 1751886000
+    },
+    {
+      "title": "6 Reasons Berkshire Stock Has Lagged the Market—and 3 Reasons It Could Outperform Again",
+      "description": "6 Reasons Berkshire Stock Has Lagged the Market—and 3 Reasons It Could Outperform Again",
+      "published_utc": "2025-07-07T16:26:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e19c26b3279c2eefb305ed841fc249a070eb43c5dc285dcf09b0fa869e94db27",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135811388,
+      "datetime": 1751876760
+    }
+  ]
+}

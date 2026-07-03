@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "title": "Top 5 AI Stocks For March 2025",
+      "description": "Stocks have taken a beating so far in 2025, but certain AI stocks have exhibited exceptional momentum despite the odds. Learn more about my top picks for March.",
+      "published_utc": "2025-03-01T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2a603fe598dffaf4c1549bfedeb3b54bea90495762d1e6e64f355c2a70b4afc4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2163653396/image_2163653396.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132937993,
+      "datetime": 1740826800
+    },
+    {
+      "id": "2ddbc798ab989211056dcfb2326791cad1bf0bea41297c0637c71fadf98f0b5e",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Best Generative (GenAI) Course 2025 For Product Managers & Software Engineers For Top AI Jobs At Google Facebook Amazon Apple",
+      "author": "Interview Kickstart",
+      "published_utc": "2025-03-01T18:42:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/01/3035118/0/en/Best-Generative-GenAI-Course-2025-For-Product-Managers-Software-Engineers-For-Top-AI-Jobs-At-Google-Facebook-Amazon-Apple.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2025/03/01/3035118/0/en/Best-Generative-GenAI-Course-2025-For-Product-Managers-Software-Engineers-For-Top-AI-Jobs-At-Google-Facebook-Amazon-Apple.html",
+      "description": "Interview Kickstart has launched an Applied Generative AI (GenAI) Course to equip tech professionals with cutting-edge AI expertise. The course offers specialized pathways for software engineers, product managers, and data scientists, providing hands-on training in deploying large language models, neural networks, and other GenAI frameworks.",
+      "keywords": [
+        "Generative AI",
+        "AI training",
+        "software engineering",
+        "product management",
+        "data science"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Google, indicating that the course is seen as beneficial for securing AI-related jobs at Google."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Google, indicating that the course is seen as beneficial for securing AI-related jobs at Google."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Amazon, indicating that the course is seen as beneficial for securing AI-related jobs at Amazon."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Applied GenAI Course is designed to help professionals land top roles at FAANG+ companies, including Apple, indicating that the course is seen as beneficial for securing AI-related jobs at Apple."
+        }
+      ]
+    },
+    {
+      "id": "86f6bd21e2100ecfdc1112656ba28242671ce024e7751277546d363cf7b8166a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Feb 24-Feb 28): Australian Regulators Fined Telegram A$1 Million, Apple May Integrate Google Gemini AI Into Siri & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-03-01T16:00:48Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/03/44065599/consumer-tech-news-feb-24-feb-28-australian-regulators-fined-telegram-a1-million-apple-may-integra",
+      "tickers": [
+        "AAPL",
+        "AMC",
+        "AMZN",
+        "CHGG",
+        "GOOG",
+        "GOOGL",
+        "NFLX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/01/What-Happened-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Key highlights include Australian regulators fining Telegram for failing to respond to an inquiry, Apple potentially integrating Google's Gemini AI into Siri, and Chegg suing Google over AI-generated search overviews.",
+      "keywords": [
+        "Telegram",
+        "Apple",
+        "Google",
+        "Chegg",
+        "AI",
+        "Siri"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple may integrate Google's Gemini AI into Siri, which could improve the assistant's capabilities. The company is also reportedly preparing to launch new MacBook Air models and working on a smart home doorbell."
+        },
+        {
+          "ticker": "AMC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AMC CEO Adam Aron's comments on the world's biggest streamers rethinking their approach to the big screen, but does not provide a clear positive or negative sentiment."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Apple and Amazon are fully on board with the big screen, but does not provide any additional details about Amazon's specific actions or plans."
+        },
+        {
+          "ticker": "CHGG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Chegg has sued Google, alleging that its AI-generated search overviews are unfairly using publishers' content, reducing site traffic, and threatening the future of online publishing."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "mixed",
+          "sentiment_reasoning": "The article mentions that Apple may integrate Google's Gemini AI into Siri, which could be seen as a positive development. However, Chegg has sued Google over its AI-generated search overviews, which is a negative aspect."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "mixed",
+          "sentiment_reasoning": "The article mentions that Apple may integrate Google's Gemini AI into Siri, which could be seen as a positive development. However, Chegg has sued Google over its AI-generated search overviews, which is a negative aspect."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Netflix still needs convincing on the big screen approach, but does not provide any additional details or commentary on the company's stance."
+        }
+      ]
+    },
+    {
+      "title": "Amazon: The Market Has Gifted A Strong Buying Opportunity",
+      "description": "Amazonâs cash balance and growth in AWS show promising prospects. Read why AMZN stock is 29% undervalued and could deliver 96% returns by 2027.",
+      "published_utc": "2025-03-01T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7206f40517f0c294ac72e3a367d90b831e9e946888b5dcdb3af43779f5f825ba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1205217099/image_1205217099.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132937310,
+      "datetime": 1740816000
+    },
+    {
+      "id": "d2c6365f69969836922420b037d2c5e2fd1730fda301c8ae531f6206383ee824",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Broadcom Will Soar Over the Next 5 Years. Here's 1 Reason Why.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-01T13:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/prediction-broadcom-will-soar-over-the-next-5-year/?source=iedfolrf0000001",
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809356/it-technician-removing-ethernet-cord-from-router.jpg",
+      "description": "Broadcom, a leading communications technology company, is poised to benefit from the growth of artificial intelligence (AI) in data centers. Its high-speed networking solutions are crucial for enabling the next chapter of AI, as current data centers are hitting a bottleneck in data dissemination. Broadcom's AI networking components market could be worth $60 billion to $90 billion per year by 2027, significantly more than its current $12 billion in such business.",
+      "keywords": [
+        "Broadcom",
+        "artificial intelligence",
+        "data centers",
+        "networking"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Broadcom's strong position in the AI networking components market, which is expected to grow significantly in the coming years. Broadcom's high-speed networking solutions are crucial for enabling the next chapter of AI, suggesting a positive outlook for the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as an industry darling in the AI space, but the focus is on Broadcom's role in addressing the data dissemination bottleneck in AI data centers, rather than Nvidia's performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions Amazon as the parent company of Whole Foods Market, which is not the main focus of the article."
+        }
+      ]
+    }
+  ]
+}

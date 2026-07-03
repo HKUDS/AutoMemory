@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Why Is Goldman (GS) Up 18.9% Since Last Earnings Report?",
+      "description": "Goldman (GS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "published_utc": "2025-05-14T23:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5efe4a24c215c587fcc854880b06a65b5c170be93cc8eae5117a6b4480dbaa75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460821,
+      "datetime": 1747236602
+    },
+    {
+      "title": "Empower Enlists Apollo, Franklin Templeton, Goldman to Provide Private Assets to Retirement Accounts",
+      "description": "Empower said Wednesday it is collaborating with seven private investments fund managers and custodia",
+      "published_utc": "2025-05-14T22:59:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b028e2be4cd42cbbeae60d02d512ef446be7155edfba952f51d983efd8c35aa2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460902,
+      "datetime": 1747234780
+    },
+    {
+      "title": "Goldman Sachs in discussions to launch Marcus retail bank in Ireland",
+      "description": "The bank is in early talks with regulators about expanding the Marcus brand to Ireland.",
+      "published_utc": "2025-05-14T20:03:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d3a8f22c8ad47f724afb3cf3e42d8d7c1a7e4021c5470c2cdb64f3782ec6174",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460903,
+      "datetime": 1747224213
+    },
+    {
+      "title": "Stock Rally Nobody Is Comfortable With Makes It Hard to Chase",
+      "description": "(Bloomberg) -- Equity investors pushed back into the market by a relentless rally are about to find out that the real challenge is just beginning.Most Read from BloombergAs Coastline Erodes, One California City Considers ‘Retreat Now’What’s Behind the Rise in Serious Injuries on New York City’s Streets?A New Central Park Amenity, Tailored to Its East Harlem NeighborsHow Finland Is Harvesting Waste Heat From Data CentersLawsuit Challenges Trump Administration Policy on Migrant ChildrenA sharp reb",
+      "published_utc": "2025-05-14T19:35:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06ba5a23c972ec16c46f6050b339f3f11fdb9034c8869c56450657f4f6311807",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460904,
+      "datetime": 1747222556
+    }
+  ]
+}

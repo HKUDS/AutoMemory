@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "American Express Company (AXP) Presents at Morgan Stanley US Financials Conference Transcript",
+      "description": "American Express Company (NYSE:AXP) Morgan Stanley US Financials Conference June 11, 2025 9:45 AM ETCompany ParticipantsChristophe Y.",
+      "published_utc": "2025-06-11T21:01:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=49d03129d8c8021db6219633a22a2bf13ac23664829d7d389f04650182cba758",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135192014,
+      "datetime": 1749646878
+    },
+    {
+      "title": "American Express Company at Morgan Stanley US Financials Conference Presentation",
+      "description": "The following slide deck was published by American Express Company in conjunction with this event.",
+      "published_utc": "2025-06-11T21:00:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cfaf976a9d337446dc746e19abcb23fbb41e60afc30d21e37d31f67a909a5b4e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135192015,
+      "datetime": 1749646828
+    },
+    {
+      "title": "Artisan Select Equity Fund Q1 2025 Commentary",
+      "description": "Our top performers this quarter were Heidelberg Materials, Alibaba and Berkshire Hathaway. Read more here.",
+      "published_utc": "2025-06-11T20:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=10804a4b228e5b44af0467ed0fe3096599066027128aa8b3c0168df084cf63ab",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427840762/image_1427840762.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135191775,
+      "datetime": 1749645000
+    },
+    {
+      "title": "Transcript : American Express Company Presents at Morgan Stanley US Financials, Payments & CRE Conference 2025, Jun-11-2025 09",
+      "description": "Presenter SpeechUnknown Analyst All right. Up next, we have American Express. Before we get started, I'm going to read some quick disclosures for important disclosures. Please see the Morgan",
+      "published_utc": "2025-06-11T19:35:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a62c96d989e05628a205634ce83ac1143287e5f7bdc4359455ff383abca9f091",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135188402,
+      "datetime": 1749641718
+    },
+    {
+      "title": "American Express CFO Says Canadians And Europeans Are Traveling Less To The US - Conference",
+      "description": "American Express Co: * AMERICAN EXPRESS CFO CHRISTOPHE LE CAILLEC SAYS SPENDINGCONSISTENT WITH Q1 - CONFERENCE * AMEX CFO SAYS AIRLINE SPENDING SOFT, IN LINE WITH Q1 ...",
+      "published_utc": "2025-06-11T18:21:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=345b62650ff9358ef895761e6d1aab72e6d6d70258341c31d489768310bc4954",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135182887,
+      "datetime": 1749637269
+    }
+  ]
+}

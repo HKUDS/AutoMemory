@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Home Depot, Snowflake Set To Report Earnings",
+      "description": "",
+      "published_utc": "2025-05-17T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a98a06f14f4c9d2ce79e4b45c66516ab42ab17101e76d7e7a17008a6f66ba4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134551788,
+      "datetime": 1747479600
+    },
+    {
+      "title": "Anatomy Of A Market Storm And Its Dissipation",
+      "description": "Gain insights from recent market volatility and learn why a patient, long-term investment strategy amid S&P 500 shifts and sector trends can be rewarding.",
+      "published_utc": "2025-05-17T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b7347c8603150becd5e4ff80449240dd6a30da60eebfab4bf4fca2e5df970ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200244020/image_200244020.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134543717,
+      "datetime": 1747470600
+    },
+    {
+      "title": "Container ship owners swamped as US-China trade detente revives demand",
+      "description": "LOS ANGELES/HONG KONG -Container ship bookings for China-to-U.S. cargo have surged since the countries declared a 90-day truce on punitive tit-for-tat tariffs last weekend, operators said, spawning...",
+      "published_utc": "2025-05-17T08:50:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cf928b7e1f2c8e124a63b4ed71e56ece211dc95ad5ee21742687272103480cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134530219,
+      "datetime": 1747443014
+    },
+    {
+      "title": "Retail Earnings Continue: Target, Home Depot on Deck",
+      "description": "In addition to Target, Home Depot, and Lowe's, the notable companies reporting this week include Ralph Lauren, TJX Companies, Toll Brothers, and China's Baidu. What can investors expect?",
+      "published_utc": "2025-05-17T08:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92669e14490063e5adaa3c88d8df7123b3d51227b937bdefcdc4a89b70628c23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567680,
+      "datetime": 1747442520
+    }
+  ]
+}

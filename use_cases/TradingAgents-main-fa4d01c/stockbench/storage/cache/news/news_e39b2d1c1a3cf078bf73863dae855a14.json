@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Select Consumer Discretionary Portfolio Q4 2024 Review",
+      "description": "For the quarter, the fund gained 10.33%, slightly underperforming the MSCI U.S. IMI Consumer Discretionary 25/50 Index. Read more here.",
+      "published_utc": "2025-03-12T05:54:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d90645a915d20592f1cc15f63751ba7d968c67d1e79817506b0b38bed53c3a99",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2157739338/image_2157739338.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133140495,
+      "datetime": 1741730040
+    },
+    {
+      "title": "Dow's nearly 150-point drop led by losses in shares of Verizon, Walt Disney",
+      "description": "Dow's nearly 150-point drop led by losses in shares of Verizon, Walt Disney",
+      "published_utc": "2025-03-11T23:09:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9eaca0c178c2ba9105054814a50cb5fd35f2c45faffb93f7323d29b1238cb404",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133137811,
+      "datetime": 1741705740
+    },
+    {
+      "title": "McDonald’s Revamps Ranks to Speed Burger Breakthroughs",
+      "description": "The burger giant appointed its first chief restaurant experience officer to lead its efforts to get new menu items and technology to restaurants more quickly.",
+      "published_utc": "2025-03-11T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f29a87cbbde2e30cad0ed96bcf2b62bbb508cf1435aaeea2aa77d2d0647afffe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184795,
+      "datetime": 1741705200
+    },
+    {
+      "title": "Verizon, Walt Disney share losses contribute to Dow's 459-point fall",
+      "description": "Verizon, Walt Disney share losses contribute to Dow's 459-point fall",
+      "published_utc": "2025-03-11T22:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d8d1de8ec350785c9320701ce1ad400ce673e33261f8208707de1cdf7207ab42",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133136557,
+      "datetime": 1741702080
+    },
+    {
+      "title": "Dow falls 564 points on losses for shares of Verizon, Walt Disney",
+      "description": "Dow falls 564 points on losses for shares of Verizon, Walt Disney",
+      "published_utc": "2025-03-11T20:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=09e5b6715283c000fdabc207f61d4bff466ecc51efd47f2f5c60dcbdab53fa83",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133136558,
+      "datetime": 1741697280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:31.835565+00:00",
+    "cache_key": "news_e39b2d1c1a3cf078bf73863dae855a14",
+    "count": 5
+  }
+}

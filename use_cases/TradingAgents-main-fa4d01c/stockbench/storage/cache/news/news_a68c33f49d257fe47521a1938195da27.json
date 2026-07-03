@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IndiGo co-founder sells $1.36 billion of airline's shares, term sheet shows",
+      "description": "SYDNEY -The co-founder of Indian airline IndiGo, Rakesh Gangwal, sold a 5.7% stake in the low-cost carrier through a block deal worth about $1.36 billion, a term sheet showed on Tuesday. ...",
+      "published_utc": "2025-05-27T06:54:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0b4256c2d205c1b14c199d385591e885df0be2cad5d2227b86f657ef88763885",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134705557,
+      "datetime": 1748300049
+    },
+    {
+      "title": "The Campaign Goldman’s CEO Waged to Silence Powerful Internal Critics",
+      "description": "The Campaign Goldman’s CEO Waged to Silence Powerful Internal Critics",
+      "published_utc": "2025-05-27T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3d198f495c4a3f1376dd176e29aa64887c826a4b2bbfe85b414d3d14cc8b5b36",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134712573,
+      "datetime": 1748293200
+    },
+    {
+      "title": "Goldman Sachs (GS) Could Be a Great Choice",
+      "description": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Goldman Sachs (GS) have what it takes? Let's find out.",
+      "published_utc": "2025-05-26T23:45:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6cf41826e1a5eb352f8b8f27c9d9c253fd4e3c27e68857f5772286ab24eeb62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716121,
+      "datetime": 1748274309
+    },
+    {
+      "title": "Jefferies Financial Presents Unique Upside Case For Holding, Despite Market Headwinds",
+      "description": "Jefferies' balance sheet risk is modest, with healthy credit ratings and conservative leverage, adding confidence for long-term investors. Learn more on JEF stock here.",
+      "published_utc": "2025-05-26T19:43:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b20a61987848f5b476754e0ae5ac5709b8cbe0da82e887a9b5b5ea346c29a71",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1497253868/image_1497253868.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134700811,
+      "datetime": 1748259810
+    },
+    {
+      "title": "Danish trader InCommodities posts 47% drop in annual profit as trading slows",
+      "description": "Danish energy traderInCommodites, backed by Goldman Sachs, reported a 47%drop in its pretax profit for 2024 on Monday, citing fewertrading opportunities amid lower volatility. The...",
+      "published_utc": "2025-05-26T12:01:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ba8f25094d6927e01cafca3bdb2673daec2b0c042728d3f630e3d4e7a849d6ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134698286,
+      "datetime": 1748232080
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:47:59.313777+00:00",
+    "cache_key": "news_a68c33f49d257fe47521a1938195da27",
+    "count": 5
+  }
+}

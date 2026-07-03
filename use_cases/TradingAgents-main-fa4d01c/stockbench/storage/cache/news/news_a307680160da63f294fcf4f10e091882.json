@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Reiterates Overweight on Salesforce (CRM) Ahead of Earnings",
+      "description": "We recently published a list of 12 AI Stocks Making Waves on Wall Street Today. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other AI stocks that are making waves on Wall Street today. The United States recently issued guidance threatening companies not to use advanced […]",
+      "published_utc": "2025-05-21T03:00:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63d5a6049844e881f49daeac84ffe353b43a9010506132944eb8bc1c1471af7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628258,
+      "datetime": 1747767638
+    },
+    {
+      "title": "Salesforce (NYSE:CRM) Expands Life Sciences Cloud With Takeda Partnership",
+      "description": "Salesforce (NYSE:CRM) announced a significant partnership with Takeda, selecting its Life Sciences Cloud for customer engagement, which, combined with an expanded partnership with Informatica, underscores its strategic focus on enhancing AI-driven solutions in the healthcare sector. This aligns with client announcements and integrations initiated within the same month. Over the past month, Salesforce's shares moved 16% amid these developments, during which the broader market saw a modest...",
+      "published_utc": "2025-05-21T01:38:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e506e1002c7ef01d3798ca42b4fefa0ecce3bfcda604638b2812bd160301181",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628259,
+      "datetime": 1747762724
+    },
+    {
+      "title": "JMP Reiterates Outperform on Salesforce (CRM), Cites Agentforce Pricing Shift",
+      "description": "We recently published a list of 11 AI Stocks On Wall Street’s Radar. In this article, we are going to take a look at where Salesforce Inc. (NYSE:CRM) stands against other AI stocks on Wall Street’s radar. US President Donald Trump is all set to revive the country’s struggling coal industry. Last month, he signed […]",
+      "published_utc": "2025-05-21T01:34:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5560f55b9a5af1d8b6f95255aca28b9563fa36ab1efa83eed30ba152e9dc239",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628260,
+      "datetime": 1747762444
+    },
+    {
+      "title": "Takeda Taps Salesforce (CRM) for AI-Driven Customer Experience Platform",
+      "description": "We recently published a list of 15 AI Stocks Surging on News and Analyst Ratings. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other AI stocks that are surging on news and analyst ratings. According to an analysis by global management consulting firm McKinsey & Company, […]",
+      "published_utc": "2025-05-21T01:33:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=411ec3cad9b396a53b00f9b25ace8c82866bb27e0b0ecbf24a0ea2120fe66fd9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628261,
+      "datetime": 1747762422
+    },
+    {
+      "title": "SALESFORCE : UBS reiterates its Neutral rating",
+      "description": "UBS confirms his opinion on the stock and remains Neutral. The target price is lowered from USD 340 to USD 320.",
+      "published_utc": "2025-05-21T01:22:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8952a3d9a0caf349d4b4aa80b003035b9f4086ff798f9de192dd67fcdc287915",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134619918,
+      "datetime": 1747761731
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:00.404840+00:00",
+    "cache_key": "news_a307680160da63f294fcf4f10e091882",
+    "count": 5
+  }
+}

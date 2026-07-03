@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "title": "Could Buying Visa Stock Today Set You Up for Life?",
+      "description": "Favorable tailwinds support Visa's durable double-digit growth, which is set to continue in the years ahead.  The company's massive ecosystem, consisting of cards and merchants, creates a powerful network effect.  In the past, Visa (NYSE: V) has done just that.",
+      "published_utc": "2025-06-15T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54977c55cf40e3f29cd34fde1fa9308e709dcb46dbbb441481e8b7d6f84a7325",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135286080,
+      "datetime": 1749996900
+    },
+    {
+      "title": "Impax Sustainable Allocation Fund Q1 2025 Commentary",
+      "description": "The Impax Sustainable Allocation Fund underperformed its blended benchmark (60% S&P 500/40% Bloomberg Barclays US Aggregate Bond Index). Read more here.",
+      "published_utc": "2025-06-15T18:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac72484ea92ad51b25b5cb238a33f6161c356f8bfe39e905ad376a756a3b7185",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285363,
+      "datetime": 1749982860
+    },
+    {
+      "title": "USA: Nearly 9% Income, Narrow Discount And Decent Long-Term Performance",
+      "description": "USA offers high income via a managed 10% NAV distribution but lags S&P 500 in total returns. Read to know if it's ideal for income-focused investors seeking diversification.",
+      "published_utc": "2025-06-15T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8fea7e744f66a0a9d0faed91d1ad197a9c5f90e76063b9ad6a849acf6a5a273b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1469387313/image_1469387313.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284786,
+      "datetime": 1749974400
+    },
+    {
+      "id": "c1cd5360a95f622af3f6e1888a13eee190184b0423ddc24132fb654f1ce8ef0b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the Artificial Intelligence Boost Fading for This Top Tech Stock?",
+      "author": "Eric Volkman",
+      "published_utc": "2025-06-15T09:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/15/is-the-artificial-intelligence-boost-fading-for-th/?source=iedfolrf0000001",
+      "tickers": [
+        "WDAY",
+        "CVS",
+        "CMG",
+        "FDX",
+        "UAL",
+        "V",
+        "AON"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/819723/person-in-wheelchair-looking-unhappy-while-wielding-a-laptop.jpg",
+      "description": "Workday, a financial services company, reported strong Q1 results, but its guidance disappointed investors who expected higher growth rates due to the company's focus on artificial intelligence (AI) technology. Despite the market's reaction, Workday's AI offerings are gaining traction with its clients, and analysts predict continued growth for the company.",
+      "keywords": [
+        "Workday",
+        "artificial intelligence",
+        "financial services",
+        "earnings",
+        "guidance"
+      ],
+      "insights": [
+        {
+          "ticker": "WDAY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Workday reported strong Q1 results, but its guidance disappointed investors who expected higher growth rates due to the company's focus on AI technology. However, the company's AI offerings are gaining traction with its clients, and analysts predict continued growth for the company."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Workday's revenue growth in Q1 was partly due to product expansions for existing customers like CVS Health."
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Workday's revenue growth in Q1 was partly due to product expansions for existing customers like Chipotle."
+        },
+        {
+          "ticker": "FDX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Workday's revenue growth in Q1 was partly due to product expansions for existing customers like FedEx."
+        },
+        {
+          "ticker": "UAL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Workday managed to sign up new clients, including United Airlines."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Numerous Workday clients, including Visa, have selected the company's AI platform, Workday Illuminate."
+        },
+        {
+          "ticker": "AON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Numerous Workday clients, including Aon, have selected the company's AI platform, Workday Illuminate."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: similar observations with the same command, tool, file, and error fingerprint can still carry distinct remediation steps that must remain retrievable.",
+  "checks": [
+    {
+      "description": "Same timeout signature should preserve a rollback remediation and a cache-clear remediation.",
+      "write_input": {
+        "writes": [
+          {
+            "owner": "agent",
+            "type": "failure",
+            "title": "Vitest worker timeout fixed by rollback",
+            "l0": "Vitest worker timeout during billing tests.",
+            "l1": "When bun test packages/billing times out with the worker timeout signature, rollback the fake timer patch before retrying.",
+            "commands": ["bun test packages/billing --filter worker"],
+            "tools": ["shell"],
+            "files": ["packages/billing/test/worker.test.ts"],
+            "errorFingerprint": "Vitest worker timeout",
+            "evidence": { "sessionID": "obs-d" },
+            "evidenceHash": "obs-similar-distinct-001"
+          },
+          {
+            "owner": "agent",
+            "type": "failure",
+            "title": "Vitest worker timeout fixed by cache clear",
+            "l0": "Vitest worker timeout during billing tests.",
+            "l1": "When bun test packages/billing times out with the worker timeout signature, clear .vitest-cache before retrying.",
+            "commands": ["bun test packages/billing --filter worker"],
+            "tools": ["shell"],
+            "files": ["packages/billing/test/worker.test.ts"],
+            "errorFingerprint": "Vitest worker timeout",
+            "evidence": { "sessionID": "obs-d" },
+            "evidenceHash": "obs-similar-distinct-002"
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "clear .vitest-cache", "matcher": "substring" }
+    },
+    {
+      "description": "Rollback remediation from the earlier similar observation should still remain visible.",
+      "write_input": {
+        "owner": "agent",
+        "type": "procedure",
+        "title": "Billing test setup uses deterministic clock",
+        "l0": "Billing tests set a deterministic clock.",
+        "l1": "Set BILLING_CLOCK=fixed before running recurring invoice tests.",
+        "commands": ["bun test packages/billing --filter invoice"],
+        "tools": ["shell"],
+        "files": ["packages/billing/test/invoice.test.ts"],
+        "evidence": { "sessionID": "obs-d" },
+        "evidenceHash": "obs-similar-distinct-003"
+      },
+      "read_input": {},
+      "expected_output": { "value": "rollback the fake timer patch", "matcher": "substring" }
+    },
+    {
+      "description": "Unrelated deterministic clock procedure should be visible.",
+      "write_input": {
+        "owner": "agent",
+        "type": "procedure",
+        "title": "Billing retry queue drain",
+        "l0": "Drain retry queue after invoice tests.",
+        "l1": "Run bun run billing:drain-retries after invoice retry specs to leave Redis clean.",
+        "commands": ["bun run billing:drain-retries"],
+        "tools": ["shell"],
+        "files": ["packages/billing/scripts/drain-retries.ts"],
+        "evidence": { "sessionID": "obs-d" },
+        "evidenceHash": "obs-similar-distinct-004"
+      },
+      "read_input": {},
+      "expected_output": { "value": "BILLING_CLOCK=fixed", "matcher": "substring" }
+    },
+    {
+      "description": "Retry queue cleanup procedure should remain visible.",
+      "write_input": {
+        "owner": "agent",
+        "type": "decision",
+        "title": "Billing webhook fixture owner",
+        "l0": "Webhook fixtures belong in billing tests.",
+        "l1": "Keep Stripe webhook fixtures under packages/billing/test/fixtures/webhooks rather than shared fixtures.",
+        "commands": [],
+        "tools": ["read_file"],
+        "files": ["packages/billing/test/fixtures/webhooks/README.md"],
+        "evidence": { "sessionID": "obs-d" },
+        "evidenceHash": "obs-similar-distinct-005"
+      },
+      "read_input": {},
+      "expected_output": { "value": "billing:drain-retries", "matcher": "substring" }
+    },
+    {
+      "description": "Fixture ownership decision should remain visible.",
+      "write_input": {
+        "owner": "agent",
+        "type": "case",
+        "title": "Billing worker smoke path",
+        "l0": "Worker smoke path checks settled invoices.",
+        "l1": "The billing worker smoke path must assert settled invoice ids before webhook replay.",
+        "commands": ["bun test packages/billing --filter smoke"],
+        "tools": ["shell"],
+        "files": ["packages/billing/test/worker-smoke.test.ts"],
+        "evidence": { "sessionID": "obs-d" },
+        "evidenceHash": "obs-similar-distinct-006"
+      },
+      "read_input": {},
+      "expected_output": { "value": "packages/billing/test/fixtures/webhooks", "matcher": "substring" }
+    }
+  ]
+}

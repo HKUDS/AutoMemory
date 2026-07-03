@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "A Melania Trump documentary from director Brett Ratner will be released by Amazon",
+      "description": "LOS ANGELES — Incoming first lady Melania Trump will be the subject of a new documentary directed by Brett Ratner and distributed by Amazon Prime Video. The streaming arm of the tech giant got...",
+      "published_utc": "2025-01-05T23:45:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e9693ff2c3c8178f5c9b08e89ab5d247000348734d9a657cd7a38a7f8f225cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132280218,
+      "datetime": 1736091915
+    },
+    {
+      "title": "Could Buying Amazon Stock Today Set You Up for Life?",
+      "description": "Could Amazon stock be the key to your financial future? Check out why this company might be a cornerstone in your portfolio.",
+      "published_utc": "2025-01-05T23:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eaf3ab15286d5d29d3b3dab8bdabbb7ab045c6b50583604c9f2af3b46d87154c",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802816/annual-amazon-price-changes.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132283158,
+      "datetime": 1736091540
+    },
+    {
+      "title": "Is Amazon.com, Inc. (NASDAQ:AMZN) the Hottest Large-Cap Stock Right Now?",
+      "description": "We recently compiled a list of the 10 Hottest Large-Cap Stocks Right Now. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against the other large-cap stocks. This article will analyze several prominent large-cap stocks that are currently exerting significant influence on market dynamics. These stocks are currently considered […]",
+      "published_utc": "2025-01-05T23:10:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26a99a4463a000523de44ff47af4a3969e6a08551dba0a5e8425987cd5d66f7d",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/v4vjuMw83AspvSftOzdXyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278413,
+      "datetime": 1736089850
+    }
+  ]
+}

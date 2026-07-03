@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Corporate Cash Levels Are Starting to Fall",
+      "description": "(Bloomberg) -- The latest earnings period brought what might be an early warning sign about credit quality for high-grade US companies. Most Read from BloombergNext Stop: Rancho Cucamonga!Where Public Transit Systems Are Bouncing Back Around the WorldICE Moves to DNA-Test Families Targeted for Deportation with New ContractUS Housing Agency Vulnerable to Fraud After DOGE Cuts, Documents WarnTrump Said He Fired the National Portrait Gallery Director. She’s Still There.Cash levels at blue-chip comp",
+      "published_utc": "2025-06-08T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=836b9324dea6dd861cc6ffb6fdedfa3ab519494a300a7b47171b398b85588b3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114216,
+      "datetime": 1749322800
+    },
+    {
+      "title": "Patents and economies of scale support Pfizer's wide moat",
+      "description": "Patent-protected drugs provide strong pricing power, enabling returns on invested capital.",
+      "published_utc": "2025-06-07T17:59:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf2ab20e1f8bb746a5404b0bee9aa327107723fa433627a9314630c2ba21a731",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135105910,
+      "datetime": 1749290378
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 8",
+      "description": "Read here for weekly updates on Dividend Champions, Contenders & Challengers. Learn about dividend changes, ex-dividend dates and pay dates.",
+      "published_utc": "2025-06-07T11:48:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f0d276997367d8e5a85ff57e6f273999e08fe1a450ecb8eeb1e6d5e78c4711b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135094829,
+      "datetime": 1749268088
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:11.615470+00:00",
+    "cache_key": "news_f8df62bd7b64dcee732f64084f400e95",
+    "count": 3
+  }
+}

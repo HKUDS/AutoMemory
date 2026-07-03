@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Battle over credit-card swipe fees hits Congress again. What you need to know.",
+      "description": "Battle over credit-card swipe fees hits Congress again. What you need to know.",
+      "published_utc": "2025-06-02T23:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=38567f1d43647d779c645d4fe206f24301eb242c0e4a10eb38ca1ed1f3c0e46e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134982596,
+      "datetime": 1748878260
+    },
+    {
+      "title": "Voya Corporate Leaders Trust Fund B Q1 2025 Commentary",
+      "description": "For the quarter, the Voya Corporates Leaders Trust Fund Series B outperformed its benchmark, the S&P 500 Index on a net asset value basis. Read more here.",
+      "published_utc": "2025-06-02T23:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6724170d78e966df6c9fa15888cdc632d010d8064f54dfef34e23537a3cab59",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2100234553/image_2100234553.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134957381,
+      "datetime": 1748877900
+    },
+    {
+      "title": "Fintech Faces a Slowdown. Why Visa Stock Is One to Own While PayPal Isn’t.",
+      "description": "Fintech Faces a Slowdown. Why Visa Stock Is One to Own While PayPal Isn’t.",
+      "published_utc": "2025-06-02T22:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9c29c844f0e1c895544a204694f884c322b92487a70fb826be1bc3b98bd14342",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134982597,
+      "datetime": 1748875680
+    },
+    {
+      "title": "Truist initiates coverage on Payments/FinTech stocks",
+      "description": "Investing.com -- Truist Securities initiated coverage on the Payments and FinTech sector with a mixed outlook, assigning 7 Buy ratings, 7 Hold, and 3 Sell ratings.",
+      "published_utc": "2025-06-02T21:10:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d07c85b34e3550cb396fbc4ca0329ff23d564496a8b0ff5dd240bc272d881551",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134938870,
+      "datetime": 1748869818
+    }
+  ]
+}

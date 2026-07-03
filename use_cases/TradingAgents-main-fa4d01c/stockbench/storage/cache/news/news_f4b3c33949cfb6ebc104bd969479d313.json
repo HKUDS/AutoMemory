@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs, BofA raise gold price forecasts amid trade-war tensions",
+      "description": "Goldman Sachs on Wednesdayraised its end-2025 gold price forecast to $3,300 per ounce, upfrom $3,100, with a target range of $3,250 to $3,520 per ounce. The investment bank cited...",
+      "published_utc": "2025-03-27T05:15:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f6a23144d8f3b4fd2c0610fd4dcc7e3ad316871d88b957116bd3b1b9d92b4a6c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133460696,
+      "datetime": 1743023707
+    },
+    {
+      "title": "Agnico Eagle Mines: Safe Haven Investing Supports Gold Miners",
+      "description": "Agnico Eagle Mines surges with 25% growth, fueled by rising gold prices and strong performance. Click here to find out why AEM stock is a Buy.",
+      "published_utc": "2025-03-27T01:38:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a993b237ffc1385f822af8bf4fd7961962adc0111e12d539ac541a655bb99707",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173870408/image_173870408.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133459946,
+      "datetime": 1743010704
+    },
+    {
+      "title": "Jefferies profit misses estimates as bond trading, equity underwriting weaken",
+      "description": "Jefferies' first-quarterprofit missed Wall Street estimates on Wednesday as bond tradingweakened and stock market deals were stalled due to uncertaintysparked by shifting U.S. trade policy and...",
+      "published_utc": "2025-03-27T00:35:26",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a6542675e4ce36b679a8d5f2c94a2d85b2f1b14c85d980611cdc7ebf04ae7cc6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133459640,
+      "datetime": 1743006926
+    },
+    {
+      "title": "Jefferies profit falls on weaker bond trading, equity underwriting",
+      "description": "Jefferies' first-quarterprofit fell nearly 15%, the bank reported on Wednesday, as bondtrading weakened and stock market deals were stalled due touncertainty sparked by shifting U.S. trade policy...",
+      "published_utc": "2025-03-27T00:16:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=afdcfb13f5b2cdca60c9ea6f9b7c98be7f57942e0ae14dcd57eadc42b7429886",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133459542,
+      "datetime": 1743005764
+    },
+    {
+      "title": "Dow falls nearly 125 points on losses in shares of NVIDIA Corp., Salesforce",
+      "description": "Dow falls nearly 125 points on losses in shares of NVIDIA Corp., Salesforce",
+      "published_utc": "2025-03-26T23:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=344d76216baae6e41455c48bae9703dd0ce6055c2e0770a9529aec918bc4abb2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462329,
+      "datetime": 1743004320
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:41.813279+00:00",
+    "cache_key": "news_f4b3c33949cfb6ebc104bd969479d313",
+    "count": 5
+  }
+}

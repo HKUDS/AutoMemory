@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "BofA ‘increasingly encouraged’ about Amex Platinum refresh after survey",
+      "description": "BofA is “increasingly encouraged” on the efficacy of an Amex Platinum refresh following a survey of credit card holders, telling investors that out of all brands surveyed American Express (AXP) cardholders were the least likely to cancel their card and the most likely to keep the card even if the benefits did not change. The firm expected a Platinum refresh this year and reports that yesterday Amex confirmed that a refresh is coming this fall, adds the analyst, who thinks a Platinum card refresh",
+      "published_utc": "2025-06-18T21:25:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=662536641b5318af1b286c6e7bcd2cff97cf3c295f4ab5da2aaec493a92c24d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135365812,
+      "datetime": 1750253109
+    }
+  ]
+}

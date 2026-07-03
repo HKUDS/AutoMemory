@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "What Moved Markets This Week",
+      "description": "U.S. stocks end a tough week as DeepSeek rattles tech stocks and the Fed Holds interest rates steady. Read more about this week's major events on Wall Street.",
+      "published_utc": "2025-02-01T14:38:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4c5af02929f10b7ead3e6e81da69934cd05a6efeb931ba87d28f5c1e6bafd2a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1483074556/image_1483074556.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132509831,
+      "datetime": 1738391928
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of February 2",
+      "description": "Stay informed on dividend activity with a weekly summary for Dividend Champions, Contenders, and Challengers, including changes and ex-dividend dates.",
+      "published_utc": "2025-02-01T08:12:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25ec61045971fa19ebabf813af25e68ea683498a7e45b063b4d65b5a9fc96163",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132508015,
+      "datetime": 1738368764
+    }
+  ]
+}

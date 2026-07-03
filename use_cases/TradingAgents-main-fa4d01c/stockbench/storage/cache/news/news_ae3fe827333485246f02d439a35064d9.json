@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "WEBL: Outsized Gains For Tech-Focused Swing Trading",
+      "description": "WEBL, a triple leveraged ETF, may be a smart short-term investment. Read here for an update on top tech holdings and timing tips for maximizing gains.",
+      "published_utc": "2025-03-04T06:02:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=106bb2abe030c612a4c19319ba76235ab78d83c10a909f66e3da294bdfc98e16",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1327443301/image_1327443301.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132970600,
+      "datetime": 1741039373
+    },
+    {
+      "title": "The 10 Stocks Hedge Funds Love—and Hate—the Most",
+      "description": "The 10 Stocks Hedge Funds Love—and Hate—the Most",
+      "published_utc": "2025-03-04T01:13:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bdae5381ef5899b87cbc3bf9b787f2a8341579cac32b0cd86f7aeb8d607268db",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973190,
+      "datetime": 1741021980
+    },
+    {
+      "title": "On The Hunt For Magnificent Earnings Growth? Check These 7 Stocks.",
+      "description": "On The Hunt For Magnificent Earnings Growth? Check These 7 Stocks.",
+      "published_utc": "2025-03-04T00:50:34",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=ed88dfbcbe1408521bb94326eced6535d8664f011046dddec41b2092634a6bd6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973165,
+      "datetime": 1741020634
+    },
+    {
+      "title": "Dow falls nearly 700 points on losses in shares of NVIDIA Corp., Chevron",
+      "description": "Dow falls nearly 700 points on losses in shares of NVIDIA Corp., Chevron",
+      "published_utc": "2025-03-03T23:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=98fdbe592f7d8e52f1d1b0cdb46cf5b347dc974c28bf4e69a214a0d22d476a83",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973106,
+      "datetime": 1741015020
+    },
+    {
+      "title": "It's not just 'Magnificent Seven' stocks that are falling. Bonds are selling off, too.",
+      "description": "It's not just 'Magnificent Seven' stocks that are falling. Bonds are selling off, too.",
+      "published_utc": "2025-03-03T22:42:23",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a8807dda0a689a1fb061d77bdbf9aeeb1d57d49b5673cd962c61ad24c41fb3ae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973054,
+      "datetime": 1741012943
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:36.731170+00:00",
+    "cache_key": "news_ae3fe827333485246f02d439a35064d9",
+    "count": 5
+  }
+}

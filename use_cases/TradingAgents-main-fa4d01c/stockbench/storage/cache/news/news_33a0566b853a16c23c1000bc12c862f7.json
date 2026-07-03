@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Private Credit’s Cracks Widened Before Turmoil",
+      "description": "(Bloomberg) -- The companies that get private credit loans are looking increasingly wobbly and banks are among those that could eventually be on the hook for losses.Most Read from BloombergWhy Car YouTuber Matt Farah Is Fighting for Walkable CitiesNewsom Says California Is Now the World’s Fourth-Biggest EconomyBackyard Micro-Flats Aim to Ease South Africa’s Housing CrisisAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesMany",
+      "published_utc": "2025-04-27T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5948622f316b2086f8ab62246f05cdd3717750f4adb0e00625afef98e266a22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104468,
+      "datetime": 1745694000
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "description": "U.S. stocks recorded the second-best weekly advance of 2025 on Friday as tariff concerns eased. Read more about this week's major events on Wall Street.",
+      "published_utc": "2025-04-26T14:45:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cbd8576e561e89b433c0b95f43fbbd1c93dda3f91d0ece9b74ac2a1e8fbff09",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099176,
+      "datetime": 1745649939
+    },
+    {
+      "title": "Boeing Faces Key Turnaround Challenges With Tariff Risks, China Orders: Analyst",
+      "description": "BofA Securities analyst Ronald J. Epstein reiterated the Neutral rating on Boeing Company (NYSE:BA) on Thursday, with a price forecast of $185. The analyst states that Boeing still faces major hurdles in its turnaround efforts. Key among them is the need to stabilize 737 model production at 38 units per month before seeking FAA approval to increase output to 42. Additionally, Epstein remarks that the company must keep its loss-making defense programs on track to avoid further pressure on free ca",
+      "published_utc": "2025-04-26T08:04:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c88c60df8e09f43b8dd2aa71ffe917172a46553b45366c8b9888164b8a9e7b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104617,
+      "datetime": 1745625866
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:14.570635+00:00",
+    "cache_key": "news_33a0566b853a16c23c1000bc12c862f7",
+    "count": 3
+  }
+}

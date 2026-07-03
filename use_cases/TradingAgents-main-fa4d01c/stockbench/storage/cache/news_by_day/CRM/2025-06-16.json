@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "title": "Intuit: Mailchimp And TurboTax Live Platforms Can Turbocharge Growth",
+      "description": "Intuit's profitability and efficiency metrics in the last 5 years declined and then showed signs of recovery. Read why I rate INTU stock a Buy now.",
+      "published_utc": "2025-06-16T18:08:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=980aba52b17957befbda3bc1c5fd6fabb495ed9006fdd7e5b41fbd4683382a34",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445801541/image_1445801541.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135301636,
+      "datetime": 1750068505
+    },
+    {
+      "id": "27ab12d59fa272dcaf67b5a26242e15ebfe419b1fd6c3f45d5a3b6cf7df8b83d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "$5.26 Tn Artificial Intelligence (AI) Market Trends and Global Forecasts to 2035: BFSI Sector Leads as AI Revolutionizes Financial Services, Healthcare on the Rise",
+      "author": "Na",
+      "published_utc": "2025-06-16T08:57:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/16/3099615/28124/en/5-26-Tn-Artificial-Intelligence-AI-Market-Trends-and-Global-Forecasts-to-2035-BFSI-Sector-Leads-as-AI-Revolutionizes-Financial-Services-Healthcare-on-the-Rise.html",
+      "tickers": [
+        "AMD",
+        "AMZN",
+        "BIDU",
+        "CSCO",
+        "GOOG",
+        "GOOGL",
+        "HPE",
+        "HPEpC",
+        "INTC",
+        "META",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "QCOM",
+        "CRM",
+        "SAP",
+        "SIEGY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global artificial intelligence market is projected to surge from USD 273.6 billion in 2023 to USD 5.26 trillion by 2035, driven by advances in cloud and AI technologies. Key segments like machine learning and cloud-based deployments are leading the current growth trends, with the BFSI sector and healthcare industry being the major beneficiaries.",
+      "keywords": [
+        "artificial intelligence",
+        "AI market",
+        "cloud technology",
+        "machine learning",
+        "BFSI",
+        "healthcare"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists AMD as one of the sample players in the artificial intelligence market, suggesting its involvement and contribution to the industry's growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions AWS as one of the key players in the artificial intelligence market, highlighting its significant role and market presence in this industry."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Baidu as one of the sample players in the artificial intelligence market, indicating its active participation and potential in this growing sector."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Cisco as one of the sample players in the artificial intelligence market, highlighting its involvement and potential in this growing industry."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Google as one of the sample players in the artificial intelligence market, indicating its strong presence and growth potential in this industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Google as one of the sample players in the artificial intelligence market, indicating its strong presence and growth potential in this industry."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists HPE as one of the key players in the artificial intelligence market, suggesting its active involvement and contribution to the industry's development."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists HPE as one of the key players in the artificial intelligence market, suggesting its active involvement and contribution to the industry's development."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Intel as one of the key players in the artificial intelligence market, highlighting its importance and potential in this growing sector."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Meta (formerly Facebook) as one of the sample players in the artificial intelligence market, indicating its strong presence and growth potential in this industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Microsoft as one of the key players in the artificial intelligence market, suggesting its active involvement and contribution to the industry's development."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes NVIDIA as one of the key players in the artificial intelligence market, indicating its strong presence and growth potential in this industry."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Oracle as one of the key players in the artificial intelligence market, highlighting its importance and potential in this growing sector."
+        },
+        {
+          "ticker": "QCOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Qualcomm as one of the sample players in the artificial intelligence market, indicating its strong presence and growth potential in this industry."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Salesforce as one of the key players in the artificial intelligence market, suggesting its active involvement and contribution to the industry's development."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions SAP as one of the sample players in the artificial intelligence market, highlighting its significance and potential in this growing sector."
+        },
+        {
+          "ticker": "SIEGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Siemens as one of the sample players in the artificial intelligence market, suggesting its active participation and contribution to the industry's development."
+        }
+      ]
+    }
+  ]
+}

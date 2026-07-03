@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "CII: Looking Like A Tempting Opportunity",
+      "description": "CII has undergone a name change and policy update and received a significant distribution boost since our last update. Read why CII CEF is a Buy.",
+      "published_utc": "2025-04-06T07:33:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=461eee98ef8654f33cdee6754f76dd567cd6a3fed5c10d65144aaf0537e95a31",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1617704591/image_1617704591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729057,
+      "datetime": 1743896001
+    },
+    {
+      "title": "Apple, Nvidia Among Tech Giants Hit Hard in Stock Market Selloff",
+      "description": "The tech giants that powered the stock market for the past two years were among the hardest hit this week in this week's big selloff.  Apple shares shed 16% of their value over two days—Thursday and Friday— as the company draws the bulk of its business from hardware manufactured in countries like China that were hit with steep tariffs.  The corporate software and cloud computing services that make up the bulk of its business are less exposed to tariffs in general.",
+      "published_utc": "2025-04-06T02:30:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf46961b7613cb704cb9b8cf010d285df24202e5873b8fd9a8013f6bc7ed77f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729241,
+      "datetime": 1743877853
+    },
+    {
+      "title": "OpenAI’s Altman says to release o3 and o4-mini ‘probably in a couple of weeks’",
+      "description": "OpenAI CEO Sam Altman stated in a post to X: “change of plans: we are going to release o3 and o4-mini after all, probably in a couple of weeks, and then do GPT-5 in a few months. there are a bunch of reasons for this, but the most exciting one is that we are going to be able to make GPT-5 much better than we originally though. we also found it harder than we thought it was going to be to smoothly integrate everything. and we want to make sure we have enough capacity to support what we expect to",
+      "published_utc": "2025-04-05T22:50:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98e504b8f8b01b1561118e925ace73dc16b0b83aa18619f3acdf6a442acddab2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727131,
+      "datetime": 1743864610
+    },
+    {
+      "title": "Is Cameco Stock a Buy Now?",
+      "description": "With artificial intelligence (AI) increasing demand for electricity, nuclear energy is becoming a more viable option.  In fact, all three big cloud computing companies have announced major investments in nuclear power.  Microsoft started the ball rolling when last fall it signed a 20-year power purchase agreement with Constellation Energy in which the power company would restart its Three Mile Island nuclear facility to power Microsoft's data centers.",
+      "published_utc": "2025-04-05T21:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07af69f88bef1bd35aa1502756dcea1c99491383e35df409fbbff713e22cc402",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727132,
+      "datetime": 1743858420
+    },
+    {
+      "title": "Nvidia Partner Hon Hai’s Sales Jump 24% on AI Demand",
+      "description": "(Bloomberg) -- Hon Hai Precision Industry Co.’s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s Tariffs Are Alre",
+      "published_utc": "2025-04-05T21:03:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d86046260ded650c023058fbf6387abcf2437414f877fe1846b34f4573ddc410",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727115,
+      "datetime": 1743858182
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:26:54.435171+00:00",
+    "cache_key": "news_5d828b7a70624736cea409a5569d3e9e",
+    "count": 5
+  }
+}

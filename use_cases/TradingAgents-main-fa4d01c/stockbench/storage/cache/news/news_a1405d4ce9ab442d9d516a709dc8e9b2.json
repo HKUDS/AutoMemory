@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce (NYSE:CRM) Expands Singapore AI Innovation With US$1B Investment And Airline Partnership",
+      "description": "Last week, Salesforce (NYSE:CRM) announced a significant collaboration with Singapore Airlines, integrating its technologies to enhance customer service through AI solutions. Despite this positive development, the company's stock faced a decline of 3.58% over the same period. This dip aligns with broader market trends, as the market itself dropped by 3.7%, affected by ongoing economic uncertainties, including concerns about tariff impacts and potential recession risks. During this time, major...",
+      "published_utc": "2025-03-13T01:23:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28dc1df7b9ea077e1ae409a9b231d3955d0ec1b94a8ce40d7f48d42c55394819",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184590,
+      "datetime": 1741800198
+    },
+    {
+      "title": "Marc Benioff on Agentic AI and Salesforce's Next Chapter",
+      "description": "Why Salesforce doesn't plan to hire any software engineers this year.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.  Should you invest $1,000 in Salesforce right now?",
+      "published_utc": "2025-03-13T00:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d38e4a3ec0043f12079dd35301f25ff6ae2e0c8a6058e9af0e8f46775da61b30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184591,
+      "datetime": 1741798680
+    },
+    {
+      "title": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "description": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "published_utc": "2025-03-12T21:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e185644cf9401799a776256a16a00a954fad7f8febe84f7bfca4603bbff76193",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157632,
+      "datetime": 1741786260
+    },
+    {
+      "title": "Salesforce Unveils $1 Billion Singapore Expansion, AI Workforce Plans",
+      "description": "Salesforce to Invest $1B in Singapore to Boost AI and Digital Transformation",
+      "published_utc": "2025-03-12T20:35:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30e4b91d51c5af109755afc1fee0c3aafa84abfba8959f4bb18d16aa9e74b46d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184592,
+      "datetime": 1741782914
+    },
+    {
+      "title": "Megacap tech stocks are pulling Wall Street back from the edge in midday trading",
+      "description": "Megacap tech stocks are pulling Wall Street back from the edge in midday trading",
+      "published_utc": "2025-03-12T20:25:36",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=12163ac1b21b6c4fd04ce48369494c564d1d8d63185886c854d224407f226530",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133154826,
+      "datetime": 1741782336
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:07.783665+00:00",
+    "cache_key": "news_a1405d4ce9ab442d9d516a709dc8e9b2",
+    "count": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Cardinal Health, Northrop Grumman Among 7 Companies To Announce Dividend Increases In First Half Of May",
+      "description": "Parker-Hannifin announced its latest payout boost. Check out companies that I expect will announce their annual dividend increases in the first half of May.",
+      "published_utc": "2025-05-05T04:30:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c97cc9e98462c7d2d23a501d5020aa38d26a12e0e05a6c89820d6af89af42245",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158301114/image_2158301114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134241643,
+      "datetime": 1746390637
+    },
+    {
+      "title": "2 Quantum Computing Stocks to Buy Right Now",
+      "description": "Quantum computing represents the next technological frontier, potentially revolutionizing fields from drug discovery to cybersecurity.  The global quantum computing market is expected to grow exponentially in the coming decades.  In 1981, Nobel Prize-winning physicist Richard Feynman first proposed the concept of quantum computers, recognizing that classical machines could never efficiently simulate quantum systems.",
+      "published_utc": "2025-05-04T23:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc364ed072105b0f8d3e2d828397cf1f95f582d83674bd0c11d9ed5caeaa4c1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246716,
+      "datetime": 1746372600
+    },
+    {
+      "title": "Do These 3 Checks Before Buying International Business Machines Corporation (NYSE:IBM) For Its Upcoming Dividend",
+      "description": "Readers hoping to buy International Business Machines Corporation ( NYSE:IBM ) for its dividend will need to make their...",
+      "published_utc": "2025-05-04T21:21:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4afe97b5849d336d97c65f10bc0238896405bc21cd7a95bfb118b1afc147be7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246973,
+      "datetime": 1746364878
+    },
+    {
+      "title": "IBM’s new AI mainframe could boost sales cycle, BofA analysts say",
+      "description": "Investing.com - IBM ’s new z17 artificial intelligence mainframe could underpin a strong sales cycle for the tech group, according to analysts at BofA.",
+      "published_utc": "2025-05-04T17:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2eeda1cc109181c1bf3c3d701f1482092fd03a0f07139702ee309cfccfa5c171",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246974,
+      "datetime": 1746351003
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:30.930205+00:00",
+    "cache_key": "news_97f0962d3996019a649bc01d748e043f",
+    "count": 4
+  }
+}

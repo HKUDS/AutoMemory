@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "description": "Dow rallies 100 points on gains for shares of NVIDIA Corp., American Express",
+      "published_utc": "2025-03-12T21:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e185644cf9401799a776256a16a00a954fad7f8febe84f7bfca4603bbff76193",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157632,
+      "datetime": 1741786260
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. (GS) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "Recently, Zacks.com users have been paying close attention to Goldman (GS). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-03-12T21:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac2bba3a5cb93c9f69cb00a6f735a8b28f11066ce1ace20d8a31dddb614391dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185069,
+      "datetime": 1741784412
+    },
+    {
+      "title": "Goldman Sachs CEO expects IPOs to increase this year - Fox Business",
+      "description": "Goldman Sachs CEODavid Solomon told Fox Business on Wednesday he expects initialpublic offerings to increase this year. IPOs have been muted over the last couple of years,...",
+      "published_utc": "2025-03-12T16:51:01",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3d72d84a6eb4142cf7f1c063054667f12259470382680d318d060f5204ec5807",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133148624,
+      "datetime": 1741769461
+    }
+  ]
+}

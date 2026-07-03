@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Carney Gets Down to Work as Canada Election Drumbeat Grows",
+      "description": "(Bloomberg) -- Mark Carney laid the groundwork to take over as Canada’s prime minister as soon as this week, appointing a chief of staff and promising a speedy transition to a new cabinet that he says will be focused on the economy and fighting back against US tariffs. Most Read from BloombergNJ College to Merge With State School After Financial StressNYC Congestion Pricing Toll Gains Support Among City ResidentsWhere New York City's Zoning Reform Will Add HousingBuffalo’s Billion-Dollar Freeway",
+      "published_utc": "2025-03-11T06:08:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a29edb565d9569200a47b115776d8cf89288dcebec48074ddee09d537eb5f6c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185072,
+      "datetime": 1741644539
+    },
+    {
+      "title": "Goldman Sachs managing director Scott Rubner leaves firm, source says",
+      "description": "Scott Rubner, a managing director in the derivatives sales and macro execution team at Goldman Sachs, has left the investment bank, a source familiar with the matter told Reuters on Monday. ...",
+      "published_utc": "2025-03-11T02:16:47",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7de0ec299794eb4ae39680b88b176c176169243e18a1eadd6c5db4f640ea01b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133128127,
+      "datetime": 1741630607
+    },
+    {
+      "title": "Hedge funds cut risk in stocks at largest amount in two years, Goldman Sachs says",
+      "description": "NEW YORK -Hedge funds reduced their exposure to stocks on Friday at the largest amount in more than two years, according to a Goldman Sachs note released on Monday. The bank added some...",
+      "published_utc": "2025-03-11T00:39:27",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5c7a82152af0c1060aa23a5c1dae8e7defc2a7fdebeed0ae10c2595afc255693",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133127648,
+      "datetime": 1741624767
+    }
+  ]
+}

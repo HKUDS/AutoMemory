@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s (MCD): Jim Cramer Calls It ‘Safety’ – Why He’s Backing McDonald’s in the Chaos",
+      "description": "We recently published a list of Jim Cramer Reveals What’s Next After Tariffs & Discusses These 10 Stocks. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC’s Squawk on the Street on Thursday, the day after […]",
+      "published_utc": "2025-04-06T06:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1a12e7f5503f5ebef24518450b69611fdf55ed07941d5d290b0d2c50067ff7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729256,
+      "datetime": 1743893160
+    }
+  ]
+}

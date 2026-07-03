@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Apple: Huge Winner From DeepSeek Innovations",
+      "description": "Appleâs vertical integration positions it for AI success. Learn why AAPL stock is a top pick with its focus on on-device AI and user privacy.",
+      "published_utc": "2025-02-01T18:13:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdbaf8f480ff354bc8a688d5e24f7346df3c1a23197ad3cad860802cd74e2ff6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/982025078/image_982025078.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132510568,
+      "datetime": 1738404811
+    }
+  ]
+}

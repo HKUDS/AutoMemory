@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "In the closing of the recent trading day, Goldman Sachs (GS) stood at $465.51, denoting a -1.13% change from the preceding trading day.",
+      "published_utc": "2025-04-08T05:50:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=215de7cf92921b1bd601f1eb45e64564bddd55655f725113d1b74c29aad426c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133798143,
+      "datetime": 1744062616
+    },
+    {
+      "title": "Big banks & financials under Trump: Expectations vs reality",
+      "description": "The outlook for US banks under the Trump administration was initially fueled by expectations of lighter regulation and increased dealmaking. However, it has since been dampened by recent market realities and recession fears. Yahoo Finance Markets and Data Editor and Stocks in Translation podcast host Jared Blikre appears on Catalysts to discuss how major big banks, including Wells Fargo (WFC) and Goldman Sachs (GS), have lost ground amid rising inflation and recession concerns. Catch more Stocks in Translation here, with new episodes every Tuesday and Thursday. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+      "published_utc": "2025-04-08T01:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4873a04a4c4207bbe87c1ef5958d6790860e5bc3ac0e50088e56f994b1623aeb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741134,
+      "datetime": 1744047000
+    },
+    {
+      "title": "Harvard to Borrow $750 Million After Warning of Funding Threat",
+      "description": "(Bloomberg) -- Harvard University plans to borrow $750 million from Wall Street amid mounting threats to its federal funding from the Trump administration. Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersBoston Mayor Wu Embraces Trump Resistance as Campaign Heats UpThis Skinny Mexico City Tower Is Just 14 Feet Wide on One SideThe Irish Hot Press Is the Low-Tech Laundry Trick the World NeedsTrump Order on CDFI Fund Risks Aid for Small Businesses, Housing“As part of ongo",
+      "published_utc": "2025-04-08T00:11:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f93ff94c30189146d768d6a70c1cbc77000b6e0e923b5d1226949d216df621b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741154,
+      "datetime": 1744042313
+    }
+  ]
+}

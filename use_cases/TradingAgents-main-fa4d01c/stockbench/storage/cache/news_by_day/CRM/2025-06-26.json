@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce (NYSE:CRM) Expands AI Footprint with PepsiCo and UChicago Medicine Collaborations",
+      "description": "Salesforce (NYSE:CRM) recently announced two impactful initiatives: PepsiCo's adoption of Agentforce to enhance operational efficiency and customer support, and UChicago Medicine's implementation of Agentforce for Health, aimed at improving patient experiences. These developments underscore the company's commitment to AI integration in diverse industries. Last week, Salesforce's share price rose 4.5%, notably outpacing the broader market's 1.9% climb. The favorable reception of these client...",
+      "published_utc": "2025-06-26T01:37:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09af93d2f5b4ed0b304d117c780a640ab5b8241bef8ecf0fa8071a375529fe79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529011,
+      "datetime": 1750873030
+    },
+    {
+      "title": "HPE CEO pushes back on tech slowdown fears despite signs of caution from CIOs",
+      "description": "Enterprise tech giant HPE said IT spending has been consistent.",
+      "published_utc": "2025-06-26T01:32:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfa1fec960d5baeb28048e6bfacd92e3ee187d31f42ab1e8862c80e0901bc15e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529164,
+      "datetime": 1750872750
+    },
+    {
+      "title": "Salesforce (CRM) Launches Agentforce 3 to Accelerate Scalable AI Deployment",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of 10 AI stocks that will skyrocket. Salesforce, Inc. (NYSE:CRM) has introduced Agentforce 3, the latest version of its digital labor platform designed to help businesses manage and scale AI agents more effectively. The upgrade marks a significant step forward in Salesforce’s efforts to lead enterprise automation by providing companies with […]",
+      "published_utc": "2025-06-26T01:16:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d418c2d36c0291c15eef067c7c22bd7f89823edde22fd925b7c4341af461634",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135537895,
+      "datetime": 1750871767
+    },
+    {
+      "title": "Dupont Circle Solutions Named a 2025 Top Workplace by The Washington Post",
+      "description": "For the fourth year running, Dupont Circle Solutions (DCS) has been named a Washington Post Top Workplace. This award is based entirely on employee feedback, demonstrating that culture remains at the forefront as the company grows.",
+      "published_utc": "2025-06-26T01:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5075305788b427363a0afcb69eed43d3cb6f3faa5e9bea5a3c17765cd7e7afa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135537896,
+      "datetime": 1750871640
+    },
+    {
+      "title": "Salesforce Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Salesforce Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-06-26T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b408dd821d722ace514a9361a3e9fe79d59211a2eb51c9e0b9612c99cbce35ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135540365,
+      "datetime": 1750869120
+    }
+  ]
+}

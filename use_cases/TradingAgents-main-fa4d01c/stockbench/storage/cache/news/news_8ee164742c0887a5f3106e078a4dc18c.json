@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Johnson & Johnson (NYSE:JNJ): Their Spinoff Was Ill-Advised",
+      "description": "We recently published a list of Jim Cramer Says Trump’s Tariff Strategy Is Working & Discusses These 11 Stocks. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC’s Squawk on the Street, Jim Cramer […]",
+      "published_utc": "2025-03-29T21:54:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e11e09f12f40c631daf42e22e27828d787719019aea571909e7ce4921732ad5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622650,
+      "datetime": 1743256481
+    },
+    {
+      "title": "3 Relatively Safe Stocks to Buy Right Now",
+      "description": "Investing in stocks comes with risks.  David Jagielski (Abbott Laboratories): If you're looking for safety within the healthcare sector, a top name to consider right now is Abbott Laboratories.  For starters, it offers an above-average dividend yield of 1.9% (the S&P 500 average is 1.4%).",
+      "published_utc": "2025-03-29T18:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0696f08fa85a087be9e7445ffb72a8a52c86bd803ed14dff46351ac52d134873",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622651,
+      "datetime": 1743245100
+    },
+    {
+      "title": "If I Could Only Choose 5 Dividend Stocks For My Retirement Portfolio",
+      "description": "Focus on companies with strong balance sheets and sustainable dividends for retirement. See why these five stocks offer great risk-reward and growth potential.",
+      "published_utc": "2025-03-29T15:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=145e0f7fb23806abc83c98b9296e28c7bfc7eda2a36c9f8088da2a6eb2b96952",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388382712/image_1388382712.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133528352,
+      "datetime": 1743231600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:24:36.401466+00:00",
+    "cache_key": "news_8ee164742c0887a5f3106e078a4dc18c",
+    "count": 3
+  }
+}

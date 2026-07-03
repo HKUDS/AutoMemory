@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Viridian Therapeutics: The Song Remains The Same",
+      "description": "",
+      "published_utc": "2025-06-10T02:18:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a79f2dfd0cdc2a30ac78004695732ea25ffa9f781073e6e4aa440d09080cf9c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138974,
+      "datetime": 1749493088
+    },
+    {
+      "title": "Why Amgen (AMGN) is a Top Value Stock for the Long-Term",
+      "description": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+      "published_utc": "2025-06-09T21:40:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30d063fd435aab978bdc4a40373dff2550ed5ace75c74dd60de9ccc7f0ada003",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140545,
+      "datetime": 1749476409
+    },
+    {
+      "title": "3 Generic Drug Stocks to Watch Amid Pricing Pressure & Tariff Threats",
+      "description": "Sandoz, Teva and Viatris are navigating generic drug pricing pressure with scale, complex generics and cost cuts.",
+      "published_utc": "2025-06-09T21:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b78f82e7ef2e96c411b30182301cb1fd0565dda1b091c3f65237d7e8de63b0c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137372,
+      "datetime": 1749475740
+    },
+    {
+      "title": "Amgen Inc. (AMGN) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "Recently, Zacks.com users have been paying close attention to Amgen (AMGN). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-06-09T21:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2409d36c5791efea982f1d96dde254f8a67c715c7950df7ef636bf989ea4e2c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140547,
+      "datetime": 1749474009
+    },
+    {
+      "title": "Merck Pill Lowers Cholesterol Levels. By How Much Is the Critical Point.",
+      "description": "Merck Pill Lowers Cholesterol Levels. By How Much Is the Critical Point.",
+      "published_utc": "2025-06-09T19:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=229371b416f642b82d1d31adaea53c65b3ec51f1c59192f62f27a996a7f59667",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135152470,
+      "datetime": 1749467280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:04.352300+00:00",
+    "cache_key": "news_279d2948526acdd1e9a79de7c15baef5",
+    "count": 5
+  }
+}

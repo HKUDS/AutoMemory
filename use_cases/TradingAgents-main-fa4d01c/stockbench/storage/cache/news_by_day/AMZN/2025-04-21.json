@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "1 Growth Stock Down 20% to Buy Right Now",
+      "description": "This is because these companies rely on a solid economic environment to expand their businesses and lift earnings -- and these days, investors are uncertain about what lies ahead.  Investors earlier in the year hoped for an improving economy and ongoing interest rate cuts, but President Donald Trump's announcement of tariffs on imports threatened such a scenario.  Let's check out one growth stock down 20% so far this year that should be on your buy list.",
+      "published_utc": "2025-04-21T06:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cf7016bea73182e7c830decfd6e519e43ab119c180911920688e6d43d4d55f6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134016159,
+      "datetime": 1745187300
+    },
+    {
+      "title": "Magnificent-7. What Stock Should We Add To Make It The Excellent-8?",
+      "description": "",
+      "published_utc": "2025-04-21T05:53:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7ae577a83fb0f095ca70fc698fe61c0199e3714fe710fd95798ebdbc000ae9a8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134008980,
+      "datetime": 1745186011
+    },
+    {
+      "title": "2 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "With market volatility on the rise, a great place to look for solid investments is Berkshire Hathaway's stock portfolio.  Warren Buffett's ability to identify durable companies that can weather economic cycles has created tremendous wealth for Berkshire shareholders.  Here are two elite growth stocks from its $271 billion stock portfolio that are no-brainer buys right now.",
+      "published_utc": "2025-04-21T03:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4be00baf6726d3351be721259e953104971b670cfb7ffabbc18317b11041807b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134005663,
+      "datetime": 1745177400
+    }
+  ]
+}

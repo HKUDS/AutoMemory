@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Where Will Palantir Stock Be in 3 Years?",
+      "description": "With shares up 647% since 2022, Palantir Technologies (NASDAQ: PLTR) has performed spectacularly over the last three years, highlighting the potentially life-changing power of tech investing.  Since its founding in 2003, Palantir has emerged as a leader in big data analytics, enabling organizations to uncover actionable insights, detect fraud, and optimize their operations by sifting through vast volumes of information.  Over the last three years, Palantir's shares have surged alongside other tech stocks, such as Microsoft and Nvidia, which also have exposure to the AI industry.",
+      "published_utc": "2025-04-22T06:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9109ac04918b747317754a73266f3cb099bb179bad9152f28d6607b6c28235f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031830,
+      "datetime": 1745275500
+    },
+    {
+      "title": "Why Microsoft Stock Was Getting Slammed Today",
+      "description": "The kickoff of a high-profile antitrust case against a peer and an analyst's price target reduction put the hurt on Microsoft (NASDAQ: MSFT) shares Monday.  The U.S. Department of Justice's artificial intelligence (AI)-related suit against the company began.  Alphabet, whose core asset is its familiar search engine Google, has landed in hot legal water before, but the DOJ seems particularly determined this time to cut the company down to size.",
+      "published_utc": "2025-04-22T03:37:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=342d60ff1a5c75a5c348da4f3605b5449b76a8978e2e193941474c86ebcde638",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026188,
+      "datetime": 1745264257
+    },
+    {
+      "title": "Is Microsoft Corporation (MSFT) the Best Stock to Buy According to Billionaire Chris Rokos?",
+      "description": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Chris Rokos. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best stocks to buy according to billionaire Chris Rokos. Chris Rokos is a highly respected British hedge fund manager who co-founded […]",
+      "published_utc": "2025-04-22T02:55:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baabc1e824750f44fe2e94788a91486e491f2e1ad04ab01393b55f80c4167b4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026189,
+      "datetime": 1745261716
+    }
+  ]
+}

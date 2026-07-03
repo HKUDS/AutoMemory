@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "3 Reasons to Buy Floor & Decor Stock Like There's No Tomorrow",
+      "description": "Floor & Decor's business model earned praise from an all-time great investor, and it has large expansion plans.  In 2017, home improvement retail chain Floor & Decor Holdings (NYSE: FND) went public.  Of course, that's just an expression -- there will be a tomorrow for Floor & Decor, and I believe it will be great for shareholders.",
+      "published_utc": "2025-06-09T03:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41152093923177283f3bf899dc727ed750dcd922e78f074b84ccc644a4e68c80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135117153,
+      "datetime": 1749410040
+    },
+    {
+      "title": "After tear gas and street fires, a Los Angeles community cleans up as National Guard troops arrive",
+      "description": "COMPTON, Calif. — Ernest Melendrez woke up early Sunday to shovel tear gas pellets and other charred and broken detritus from his neighborhood’s streets, the remnants of a battle between...",
+      "published_utc": "2025-06-09T02:46:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8435584114223d2b92bb9fbf28c056d6c24641f9e4a965422afd2de67a5c8fe8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116800,
+      "datetime": 1749408366
+    },
+    {
+      "title": "After tear gas and street fires, an Los Angeles community cleans up as National Guard troops arrive",
+      "description": "COMPTON, Calif. — Ernest Melendrez woke up early Sunday to shovel tear gas pellets and other charred and broken detritus from his neighborhood’s streets, the remnants of a battle between...",
+      "published_utc": "2025-06-09T02:46:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=28017e4008ac0e8f86614c6f1b947d233e134cb6fc63612ced4051aa8e66f1e6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116589,
+      "datetime": 1749408366
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Costco vs. Home Depot",
+      "description": "Costco is humming along, with solid improvement in same-store sales, membership, and new store openings.  Recently, Home Depot has dealt with a demand slowdown, but some factors could start to work in its favor.  When it comes to massive retailers, perhaps two of the businesses that immediately come to mind are Costco Wholesale (NASDAQ: COST) and Home Depot (NYSE: HD).",
+      "published_utc": "2025-06-08T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f00fe4b6ffe4f63c65a3ba758d870041fcfd7c5e6896cfd155fd944cf91dcb15",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114732,
+      "datetime": 1749377700
+    },
+    {
+      "title": "First Eagle Rising Dividend Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-06-08T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3e8dea22ed4ef5d8a4d5b125f9f3f3cd44f6b174deb71df1dcb4cf0bad1c923",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114505,
+      "datetime": 1749375300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:16.531488+00:00",
+    "cache_key": "news_2f64fd6449c4cdda3c30e8de8256be84",
+    "count": 5
+  }
+}

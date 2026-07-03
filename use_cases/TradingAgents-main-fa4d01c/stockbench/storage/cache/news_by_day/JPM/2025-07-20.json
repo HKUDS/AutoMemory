@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dollar Rethink Is Pushing Emerging World to Sell More Euro Debt",
+      "description": "(Bloomberg) -- Emerging-market borrowers are tapping the euro bond market at the fastest pace in over a decade, capitalizing on the rising demand for diversification away from the US dollar. Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomMumbai Facelift Is Inspired by 200-Year-Old New York BlueprintHow San Jose’s Mayor Is Working to Build an AI CapitalThe surge is being fueled by robust demand for deve",
+      "published_utc": "2025-07-20T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad46bd71484701dbd4305dd5754c6e79bfaad692d14d633c9e65ff3c18a9e030",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019684,
+      "datetime": 1753014600
+    },
+    {
+      "title": "FDVV: Compelling Choice For Retirees That Want Income And Growth",
+      "description": "",
+      "published_utc": "2025-07-20T16:48:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=39b51816a0d6bb1cc107fe6fba548fe3acdcfd33f5194e97f1b0cd5bfd31c52e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136018400,
+      "datetime": 1753001337
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Mark Zuckerberg Ate at a Japanese McDonald's And Was Blown Away By The Delicious Meal — Rated It 10/10 And Joked 'Give These Guys a Michelin Star'",
+      "description": "Last year, Mark Zuckerberg sat down for a meal that, by all accounts, blew his tech-loving mind—and it wasn't at a five-star sushi bar or some underground Tokyo tasting room. It was McDonald's. \"Japanese McDonald's: 10/10. Give these guys a Michelin star,\" the Meta CEO wrote in an Instagram post, wearing a shearling coat and Meta smart glasses, mid-bite into what looked like a bacon-and-fried-egg burger. His wife, Priscilla Chan, posed outside the restaurant like it was Nobu, not the Golden Arch",
+      "published_utc": "2025-05-27T01:00:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b85a29ae009c5db3e03a970fa30fa5610e308c5bfd70beea614c87ae36514b43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716065,
+      "datetime": 1748278838
+    },
+    {
+      "title": "With 76% ownership, McDonald's Corporation (NYSE:MCD) boasts of strong institutional backing",
+      "description": "Key Insights Institutions' substantial holdings in McDonald's implies that they have significant influence over the...",
+      "published_utc": "2025-05-26T20:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7536894a20bd4744fa2e77eeb7a25d50cf10c89cb9b196838bae86e3f401c416",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716066,
+      "datetime": 1748260813
+    },
+    {
+      "title": "McDonald’s to shut down standalone beverage concept outlets",
+      "description": "Of the five CosMc's locations, four are in Texas and one in Illinois.",
+      "published_utc": "2025-05-26T18:09:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d19b227b3947e695e216a6802163b06d2918613b0c9e1d68d2eb9477994a7c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716067,
+      "datetime": 1748254157
+    },
+    {
+      "title": "No Rolex For Me - I'm Buying Dividends That Pay For Life",
+      "description": "Dividend growth stocks offer reliable long-term returns. Find out how strong-yielding dividend stocks have consistently outperformed the market with lower risk.",
+      "published_utc": "2025-05-26T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=905cbdc8621173b6cf1ee83bd44a6bef34513918faff0cba72f542059dc35da1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/495185620/image_495185620.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134699373,
+      "datetime": 1748244600
+    },
+    {
+      "title": "Largest U.S. Pension Sells Apple Stock, Buys Meta, AMD, and McDonald’s",
+      "description": "Largest U.S. Pension Sells Apple Stock, Buys Meta, AMD, and McDonald’s",
+      "published_utc": "2025-05-26T11:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f07c219dc57e10ebbfab6885abdea3e08b48e160b57a8fc9e436d061649c22bd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710457,
+      "datetime": 1748228400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:09.432466+00:00",
+    "cache_key": "news_97898eccd62084625497a745d0cbfadc",
+    "count": 5
+  }
+}

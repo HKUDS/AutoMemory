@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Low Duration Bond Fund Q4 2024 Review",
+      "description": "BlackRock Low Duration Bond Fund posted returns of 0.02% (Institutional shares) and 0.06% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-24T05:09:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e7ef641b28b0ab73f2ac69e2bea87db226e9bce63acd5a3faf9dd31ee5f9814",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1558910636/image_1558910636.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133332996,
+      "datetime": 1742764140
+    },
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Most Undervalued Dividend Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 7 Most Undervalued Dividend Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other most undervalued dividend stocks to buy according to hedge funds. Stock prices took a steep hit in March […]",
+      "published_utc": "2025-03-24T01:57:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be1e7be5c08a8d22953da3bad908d174764a596ca9eccedee85afbcc8013384a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133337768,
+      "datetime": 1742752641
+    },
+    {
+      "id": "6a2e4242b2112744ec5f58371843c5804ca65a93a86ef462c5c2c172303d9a6d",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Trump's Education Overhaul, Ukraine Resource Access, Deportation Controversy, And US-EU Tensions: This Week In Politics",
+      "author": "Rounak Jain",
+      "published_utc": "2025-03-23T09:01:18Z",
+      "article_url": "https://www.benzinga.com/25/03/44449645/trumps-education-overhaul-ukraine-resource-access-deportation-controversy-and-us-eu-tensions-this-week-in-politic",
+      "tickers": [
+        "MSFT",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/23/Trumps-Tariff-Tactics-Could-Be-a-Strateg.jpeg?width=1200&height=800&fit=crop",
+      "description": "This week in politics, the Trump administration made headlines with an executive order to dismantle the Department of Education, push for revised terms to access Ukraine's resources, face criticism over Venezuelan deportation flights, and tensions with the EU.",
+      "keywords": [
+        "Trump administration",
+        "Department of Education",
+        "Ukraine",
+        "Venezuela",
+        "US-EU relations"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bill Gates, the co-founder of Microsoft, urged the Trump administration to maintain funding for international health initiatives, indicating a positive stance towards the company's involvement in global health efforts."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan CEO Jamie Dimon revealed he will remain in his role for a few more years, but this information is not directly related to the main political events covered in the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:21:28.698942+00:00",
+    "cache_key": "news_f91f18df8e214873ea3cf75acaae2f11",
+    "count": 3
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Fact Checking RFK Jr.’s Attack on Government Vaccine Experts",
+      "description": "Fact Checking RFK Jr.’s Attack on Government Vaccine Experts",
+      "published_utc": "2025-06-10T23:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=beeb5767ad36e02c990493ebc08cf30b1848b278292960b4d163e1000f974c03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135180879,
+      "datetime": 1749570720
+    },
+    {
+      "title": "RFK Jr. removes CDC vaccine panel members: What to know",
+      "description": "US Secretary of Health and Human Services (HHS) Robert F. Kennedy, Jr. has removed all 17 members of the Centers for Disease Control and Prevention's (CDC) vaccine advisory panel and aims to replace it with new members \"currently under consideration.\" Yahoo Finance senior health reporter Anjalee Khemlani covers what this means for vaccine distribution in the US and the reaction from vaccine manufacturers. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+      "published_utc": "2025-06-10T22:10:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed5e7098555ab2793f0e6b6d81573e7096cc4fcb0f532f7044b81d62ee2205eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135150679,
+      "datetime": 1749564622
+    },
+    {
+      "title": "Have Skyrizi and Rinvoq Successfully Saved AbbVie From Humira LoE?",
+      "description": "ABBV eyes $24.7 billion from Skyrizi and Rinvoq in 2025 as ex-Humira growth offsets sharp sales drop post-U.S. patent loss.",
+      "published_utc": "2025-06-10T21:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5af4e1473048fde6653e3f9a23bb5c5d2f8061432f20b363e55638be9ed8970b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135154589,
+      "datetime": 1749560520
+    }
+  ]
+}

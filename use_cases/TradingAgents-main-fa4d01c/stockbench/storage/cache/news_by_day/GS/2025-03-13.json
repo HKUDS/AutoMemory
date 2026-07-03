@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Trump close to naming Bowman as Fed's top bank cop, signaling shift in regulatory stance: reports",
+      "description": "Michelle Bowman would likely take oversight of the nation’s largest banks in a new direction as the Trump administration makes it clear it wants to lift constraints on lenders and revisit a regulatory framework put in place after the 2008 financial crisis.",
+      "published_utc": "2025-03-13T04:15:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c15099aef04909f789602fe1a5a1cdca7eb4126259ca28fdb970c05f4612cc53",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/RNjh9A2KbTk9En.6Q1c63w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/83dcf180-f048-11ed-a7ff-5524066e0bba",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133162676,
+      "datetime": 1741810555
+    },
+    {
+      "title": "Ameriprise Financial Q4: Record-Setting Results, Positive Momentum",
+      "description": "Ameriprise Financial is a strong Buy for long-term investors, with stellar Q4 2024 results, 19 years of dividend growth, and 52.7% ROE. Read more on AMP stock.",
+      "published_utc": "2025-03-13T04:01:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e8f5bba62cca66539455eb5a153b810e8b7b663de162943b70439b9cf8c8ab21",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1063752434/image_1063752434.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133159611,
+      "datetime": 1741809669
+    }
+  ]
+}

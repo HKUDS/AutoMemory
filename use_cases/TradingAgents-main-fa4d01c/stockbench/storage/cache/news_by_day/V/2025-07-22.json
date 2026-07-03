@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visa: Consumer Trends Remain Solid Heading Into The Q3 Report",
+      "description": "Visa's recent earnings beat, robust guidance, and continued EPS growth outlook support its premium valuation. Read why I reiterate my buy rating on V stock.",
+      "published_utc": "2025-07-22T06:38:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=58266aabaa52e6f143d72319a0091f59dc51d1529262bb32561dbe8fc6b73af9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487418477/image_487418477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136029046,
+      "datetime": 1753137526
+    },
+    {
+      "title": "Polen Global Growth Portfolio Q2 2025 Commentary",
+      "description": "During the quarter, Polen Global Growth Portfolio returned 8.16% gross of fees (7.87% net of fees) compared to 11.53% for the Index. Read more here.",
+      "published_utc": "2025-07-22T06:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d175bc3623a511df6d3a413812fe88e9b9482ca9237a7d237886ed448b026549",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1148772285/image_1148772285.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028939,
+      "datetime": 1753135800
+    }
+  ]
+}

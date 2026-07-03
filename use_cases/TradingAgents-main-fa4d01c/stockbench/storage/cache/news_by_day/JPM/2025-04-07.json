@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Bank stocks, bitcoin falls, Spirit CEO steps down: Market Minute",
+      "description": "Madison Mills takes a closer look at the top stories as part of today's Market Minute. Big bank stocks, including JPMorgan (JPM) and Wells Fargo (WFC), are moving higher after an initial fall as analysts recalibrate their outlooks to account for mounting recession fears. Bitcoin (BTC-USD) is selling off as other crypto-related names, including Robinhood (HOOD), Strategy (MSTR), and Coinbase (COIN), are mixed today. Spirit Airlines (SAVEQ) stock is in focus after CEO Ted Christie stepped down. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-04-07T23:22:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e792c517827bf126e8e3c6ac4fb2954084140ae275897cefd3a406d989d44bfd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741080,
+      "datetime": 1744039355
+    }
+  ]
+}

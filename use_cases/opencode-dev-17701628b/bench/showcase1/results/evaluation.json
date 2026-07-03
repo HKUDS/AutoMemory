@@ -1,0 +1,68 @@
+{
+  "showcase": "showcase1",
+  "resolveRate": {
+    "memoryOn": {
+      "resolved": 6,
+      "total": 6,
+      "rate": 1
+    },
+    "memoryOff": {
+      "resolved": 5,
+      "total": 6,
+      "rate": 0.8333333333333334
+    }
+  },
+  "forwardTransferByTask": [
+    {
+      "session": 1,
+      "instanceID": "pytest-dev__pytest-5262",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": true,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 2,
+      "instanceID": "pytest-dev__pytest-7432",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": true,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 3,
+      "instanceID": "pytest-dev__pytest-8399",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": true,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 4,
+      "instanceID": "pytest-dev__pytest-10081",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": true,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 5,
+      "instanceID": "pytest-dev__pytest-7571",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": true,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 6,
+      "instanceID": "pytest-dev__pytest-10051",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": false,
+      "forwardTransfer": 1
+    }
+  ],
+  "forwardTransferMean": 0.16666666666666666,
+  "tokenTotals": {
+    "memoryOn": 1468299,
+    "memoryOff": 2087028
+  },
+  "toolCallsTotals": {
+    "memoryOn": 85,
+    "memoryOff": 110
+  }
+}

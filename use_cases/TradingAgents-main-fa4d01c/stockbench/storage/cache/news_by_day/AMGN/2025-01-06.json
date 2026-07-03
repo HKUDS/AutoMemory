@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Amgen (NASDAQ:AMGN) Is Paying Out A Larger Dividend Than Last Year",
+      "description": "Amgen Inc.'s ( NASDAQ:AMGN ) dividend will be increasing from last year's payment of the same period to $2.38 on 7th of...",
+      "published_utc": "2025-01-06T20:51:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58b001d2fd13cce780b0bf67ac0837402e3b5f0f6ed6a25e88a778efa4694826",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/7137ef364be97d9882cfa4ec57169a99",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132291661,
+      "datetime": 1736167917
+    },
+    {
+      "title": "Amgen’s Imdylltra wins conditional MHRA licence for lung cancer",
+      "description": "Amgen’s bispecific T-cell engager (BiTE) led to an ORR of 41% in patients with extensive-stage small cell lung cancer.",
+      "published_utc": "2025-01-06T20:43:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79dbaf209746b03133960cc3b88fdf3bba7179b7b3c7f33ce6e48fe48583ae43",
+      "category": "company",
+      "image": "https://live-b2b-gdm-figaro1.pantheonsite.io/wp-content/uploads/sites/24/2025/01/shutterstock_1953872293.jpg",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132286679,
+      "datetime": 1736167424
+    },
+    {
+      "title": "Amgen: Blockbusters, Emerging Therapies, And Investment Potential",
+      "description": "Amgen has a strong product portfolio, pipeline developments, and robust financial health. Read why AMGN stock is a Strong Buy for long-term investors.",
+      "published_utc": "2025-01-06T03:18:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2cb4d553970a45772f66a5f1f2827cbc5f1c1390dfc62e2ad70af2f904bc943",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411285056/image_1411285056.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281384,
+      "datetime": 1736104716
+    }
+  ]
+}

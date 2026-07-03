@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Stock: Buy, Sell, or Hold?",
+      "description": "Longtime Caterpillar (NYSE: CAT) shareholders who have ever wondered what it's like to drive one of the company's flagship bulldozers likely got a similar experience through the stock's earth-moving 186% return in the past five years.  Despite a volatile macroeconomic environment, the industrial giant has delivered record earnings through its diversified global footprint and impressive strategic execution.  On the other hand, the stock has hit a bump in the road and is currently under pressure, down about 16% from its 52-week high amid some muted sales guidance for 2025.",
+      "published_utc": "2025-02-23T23:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5ce5e3b9e63b8d2250c7f713ff62c6ad2d41bea55cea90ad4d26e74de409438",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185161,
+      "datetime": 1740323700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:10:26.732366+00:00",
+    "cache_key": "news_d0049d0a23520a2b8738a425cdca0e99",
+    "count": 1
+  }
+}

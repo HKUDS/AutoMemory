@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. (CAT): Among the Dividend Stocks with Sustainable Payout Ratios",
+      "description": "We recently published a list of the 10 Dividend Stocks with Sustainable Payout Ratios. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other best dividend stocks with sustainable payout ratios. Dividend-paying stocks have remained popular among investors due to their strong historical performance. This sustained interest has […]",
+      "published_utc": "2025-04-20T21:21:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74128bcccaa4fa5e2f92ad7bc88cdfbe83ede56a9936c69799372ae9481bbf21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022875,
+      "datetime": 1745155303
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:33:49.208432+00:00",
+    "cache_key": "news_3807ec4da0f3a20a02370a996fae96eb",
+    "count": 1
+  }
+}

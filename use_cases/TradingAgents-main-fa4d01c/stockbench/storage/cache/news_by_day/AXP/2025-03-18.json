@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "In the most recent trading session, American Express (AXP) closed at $264.38, indicating a -0.47% shift from the previous trading day.",
+      "published_utc": "2025-03-18T05:50:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33bd21c0fe6d55e08c83d29b361d9950d1609d7bdedef3e8f761619e0f2ad63a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325172,
+      "datetime": 1742248214
+    }
+  ]
+}

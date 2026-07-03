@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing Co. stock outperforms competitors on strong trading day",
+      "description": "Boeing Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-07T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f42c19e9832d2d15646a1b75ddf605487c7996f54e8c2a607c09457aafc98a99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132583741,
+      "datetime": 1738859760
+    },
+    {
+      "title": "AerCap Set To Fly Higher In 2025",
+      "description": "Undervalued aircraft leasing stock AerCap is poised for growth with strong earnings and a target price above $160/share.",
+      "published_utc": "2025-02-07T00:23:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=90d95459e7a306cf84962dde90f55c511ecbb81d95d70bac5cb50245891795a0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180093363/image_2180093363.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132581261,
+      "datetime": 1738859036
+    },
+    {
+      "title": "Boeing expects Indian, South Asian airlines to add over 2,800 jets in next 20 years",
+      "description": "Boeing said on Thursday itexpects Indian and South Asian airlines will add 2,835commercial aircraft to their fleet over the next 20 years, afour-fold increase over current levels, as a rising...",
+      "published_utc": "2025-02-06T11:05:56",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4072b5a1539c2f9630ff3f8c520eeef0900c5b405b87a74735ceb31826f06084",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132571234,
+      "datetime": 1738811156
+    },
+    {
+      "title": "Boeing Says More Than 2,800 New Airplane Deliveries To India & South Asia Are Predicted Over The Next 20 Years",
+      "description": "Boeing Co: * BOEING - MORE THAN 2,800 NEW AIRPLANE DELIVERIES TO INDIA&SOUTH ASIA ARE PREDICTED OVER THE NEXT 20 YEARS * BOEING - FORECASTS ANNUAL TRAFFIC GROWTH...",
+      "published_utc": "2025-02-06T10:15:35",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=78cab12e06f85618ac1826b9198ddf8f30fd40639b36f12113c20b66a8fef268",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132570974,
+      "datetime": 1738808135
+    },
+    {
+      "title": "Boeing sees delivery of over 2,800 commercial jets to Indian, South Asian airlines",
+      "description": "Boeing on Thursday forecastdeliveries of 2,835 commercial aircraft to Indian and SouthAsian airlines over the next 20 years. The forecast is an increase from Boeing's rolling...",
+      "published_utc": "2025-02-06T10:15:32",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0ea519641661c21af3ce31601d9c7676c01b0889b742fbb3e2927941f8f16774",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132570975,
+      "datetime": 1738808132
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T16:37:38.994715+00:00",
+    "cache_key": "news_f5ce9dac55209d75359d18aa6c5a87b5",
+    "count": 5
+  }
+}

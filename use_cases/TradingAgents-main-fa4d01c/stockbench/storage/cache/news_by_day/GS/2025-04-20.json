@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Fidelity, Goldman Find Tariff Haven in Asian Consumer Stocks",
+      "description": "(Bloomberg) -- The global trade war is providing a boon for Asian consumer stocks, as investors take shelter in companies that cater to local buyers’ essential needs. Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedNashville’s $3 Billion Transit Plan Brings a Call for Zoning ReformStrategis",
+      "published_utc": "2025-04-20T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=075550d2a49d77906450d67a9b61635a23f1973629125acbb366718b2ec6de79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134005788,
+      "datetime": 1745107200
+    }
+  ]
+}

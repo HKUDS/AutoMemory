@@ -1,0 +1,46 @@
+# Auto_Memory root ignore rules.
+# Use-case source snapshots under use_cases/<repo-branch>/ keep their own
+# copied .gitignore files, so avoid global patterns that override them.
+
+# OS / editor at the Auto_Memory root
+/.DS_Store
+/.idea/
+/.vscode/
+
+# Root-local Python / tooling caches
+/__pycache__/
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/.coverage
+/htmlcov/
+/.venv/
+/venv/
+/env/
+
+# Auto_Memory-owned package/doc directories
+/commands/**/__pycache__/
+/reference/**/__pycache__/
+/reference/**/.pytest_cache/
+/reference/**/.mypy_cache/
+/reference/**/.ruff_cache/
+/reference/**/dist/
+/reference/**/build/
+/reference/**/*.egg-info/
+/scaffolds/**/__pycache__/
+/scaffolds/**/.pytest_cache/
+
+# Root-local runtime output
+/*.log
+/logs/
+/tmp/
+/temp/
+/.cache/
+
+# Root-local secrets and credentials
+/.env
+/.env.*
+!/.env.example
+!/.env.sample
+/credentials.json
+/service-account*.json

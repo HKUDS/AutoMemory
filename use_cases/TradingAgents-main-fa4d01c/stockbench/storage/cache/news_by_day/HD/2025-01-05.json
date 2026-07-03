@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "2 Dividend Stocks to Double Up on Right Now",
+      "description": "Walmart (NYSE: WMT) and Home Depot (NYSE: HD) have long histories of raising payouts and should continue providing capital appreciation opportunities.  Walmart has become a household name with its widespread namesake stores and Sam's Club stores.  People continue to see Walmart as a place to shop and spend money.",
+      "published_utc": "2025-01-05T22:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bc73a9c56e9057a4666581474358b6cbd306b640ca87228573820d242580625",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802603/stocks-investing-charts-graphs-learning-teaching-1201x801-d21b45d.jpg",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278960,
+      "datetime": 1736088300
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "9ba45d257dbdbdd72d1164c1402edba11b4d5b75bfefa949d79417720df8945e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Wall Street Analyst Thinks Home Depot Stock Is Going to $445. Is It a Buy?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T08:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/1-wall-street-analyst-thinks-home-depot-stock-is-g/?source=iedfolrf0000001",
+      "tickers": [
+        "HD",
+        "LOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809154/a-couple-building-a-house.jpg",
+      "description": "A Wells Fargo analyst recently lowered Home Depot's price target, but maintained an overweight rating, indicating the worst might be over for the housing-improvement market. Recent results from Home Depot and Lowe's suggest growth is returning, though the exact timing of the housing recovery remains unclear.",
+      "keywords": [
+        "Home Depot",
+        "Lowe's",
+        "housing recovery"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Wells Fargo analyst maintained an overweight rating on Home Depot, indicating a positive outlook for the company despite lowering the price target. The analyst believes the worst might be over for the housing-improvement market, and Home Depot's recent results suggest growth is returning."
+        },
+        {
+          "ticker": "LOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Lowe's recent results, with a 0.2% increase in comparable sales in the fourth quarter and expected flat to 1% growth for the full year, give cause for optimism about the housing-improvement market."
+        }
+      ]
+    }
+  ]
+}

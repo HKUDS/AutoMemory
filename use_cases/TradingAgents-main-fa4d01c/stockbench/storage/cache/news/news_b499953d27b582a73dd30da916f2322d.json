@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Tracking Saudi Sovereign Wealth Fund's 13F Portfolio - Q4 2024 Update",
+      "description": "Saudi Arabia's PIF increased its 13F portfolio value slightly to $26.77B, focusing on 26 significant stakes. Check out the portfolio's holdings here.",
+      "published_utc": "2025-03-11T05:59:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c52fc89da05a3b65722e18b8e72ede5c54d6dc85627fc2f5add2dcfc5ebb163",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153211726/image_2153211726.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133129002,
+      "datetime": 1741643963
+    },
+    {
+      "title": "Visa Inc. Cl A stock outperforms competitors despite losses on the day",
+      "description": "Visa Inc. Cl A stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-03-11T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=eaf7bd9720c103e4488767967470ad4c4389d9ef4a449245b9d8eed0fb484556",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132788,
+      "datetime": 1741624260
+    },
+    {
+      "title": "Conventum-Alluvium Global Fund December 2024 Quarterly Report",
+      "description": "We bought two new companies during the quarter, Mastercard and Charter Communications. We now have 24 years of performance data for the MSCI World Value and Growth Indices.",
+      "published_utc": "2025-03-10T21:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9e8eca7728c497fceb1a2bad911311076379a95432ba91fa5df0ce9c7f1f808",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/912015114/image_912015114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122500,
+      "datetime": 1741614300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:55.870453+00:00",
+    "cache_key": "news_b499953d27b582a73dd30da916f2322d",
+    "count": 3
+  }
+}

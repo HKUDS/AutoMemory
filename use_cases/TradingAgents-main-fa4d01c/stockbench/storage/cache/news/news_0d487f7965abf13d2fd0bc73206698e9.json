@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "US, Vietnam agree to start trade deal talks as tariffs paused, Hanoi says",
+      "description": "HANOI -The United States and Vietnam agreed to start talks for a trade agreement, the Vietnamese government said on Thursday, hours after the U.S. paused the implementation of global reciprocal...",
+      "published_utc": "2025-04-10T07:14:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=312739f91f08288853fc73497d142f2a06dfc591fc6e260522e18c9ffd3e5fc2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133840132,
+      "datetime": 1744240440
+    },
+    {
+      "title": "Voya Infrastructure, Industrials And Materials Fund Q4 2024 Commentary",
+      "description": "For the quarter, Voya Infrastructure, Industrials And Materials Fund provided a total return of 3.94% on a net asset value basis. Read more here.",
+      "published_utc": "2025-04-10T07:04:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=78d0c3553847231f19d525727c431f60fbf146e9d7433e52591d57848cd27f75",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164172527/image_2164172527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133840134,
+      "datetime": 1744239840
+    },
+    {
+      "title": "Boeing Stock Takes Off as Trump Mitigates Tariff Risk",
+      "description": "Commentary by a Jefferies analyst illustrates that commitments to buy the company’s jets could be a negotiating chip in the trade war.",
+      "published_utc": "2025-04-10T04:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4f6e5e34e10373924cb7817da1b7d8b197dd97f2a42f59dcc5686b3d94c0b6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844537,
+      "datetime": 1744230900
+    },
+    {
+      "title": "Airbus Surges, Boeing Fights Back: The Jet War You Can't Ignore",
+      "description": "A delivery race, a flood of new orders, and looming tariffs--here's what investors need to know now.",
+      "published_utc": "2025-04-10T02:12:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcc732708b82240e48e4faea0d619f91f5684bae6c01dafc806c692cfbc0f18a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844538,
+      "datetime": 1744222371
+    },
+    {
+      "title": "Industrial Shares Rise Amid Tariff Relief -- Industrials Roundup",
+      "description": "A pause and reduction on several of Trump's tariffs Wednesday buoyed shares in the industrial sector. Boeing stock soared after President Trump paused his reciprocal tariffs on non-retaliating...",
+      "published_utc": "2025-04-10T00:40:31",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1d91f778b287503ef01de48e5a0ffe6200f865cd99091ec1c0af438323b74d2f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133838740,
+      "datetime": 1744216831
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:04.389470+00:00",
+    "cache_key": "news_0d487f7965abf13d2fd0bc73206698e9",
+    "count": 5
+  }
+}

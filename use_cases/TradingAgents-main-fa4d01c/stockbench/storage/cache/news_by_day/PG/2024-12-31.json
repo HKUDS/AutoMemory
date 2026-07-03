@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is The Procter & Gamble Company (PG) the Best Dividend Stock of 2024?",
+      "description": "We recently compiled a list of the Top 20 Dividend Stocks of 2024. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against the other dividend stocks. Macroeconomic factors have weighed on US stocks in the final days of the year, with the broader market declining […]",
+      "published_utc": "2024-12-31T18:34:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a08d072a346233b18423ef91ab77948b52d075048dd21e5cac0025e4225bbb1",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1ZohQ2YSKqgMoq3VoXxDpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e67c69f89d80ec8ce4e58c9699e33b0e",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132212671,
+      "datetime": 1735641259
+    },
+    {
+      "title": "Here’s Why Fidelity High Dividend ETF (FDVV) Is One of the Best Performing Dividend ETFs in 2024",
+      "description": "We recently compiled a list of the 10 Best Performing Dividend ETFs In 2024. In this article, we are going to take a look at where Fidelity High Dividend ETF (NYSE:FDVV) stands against the other dividend ETFs. By the end of 2023, the global ETF market had reached $11.1 trillion in assets under management (AUM) and […]",
+      "published_utc": "2024-12-31T17:33:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=067e4eb60a133dc641f83b112043b4c241db3002c80b78c0efb6f7f6152fcbb9",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tBVeljyDFOBFKomIabj5Aw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/873dddd1d9ffa67c1bac96b77e0d0210",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132212137,
+      "datetime": 1735637612
+    }
+  ]
+}

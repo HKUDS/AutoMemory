@@ -1,0 +1,188 @@
+{
+  "trace_id": "trace_06_symptom_resolution_care_timeline",
+  "description": "Tests (1) symptom resolution tracking: migraine reported then explicitly resolved, resolution must appear alongside original symptom in recall; (2) care timeline precision: doctor visit, lab results with exact numbers (HbA1c 7.1%, cholesterol 224, LDL 148), follow-up appointment with date; (3) flu vaccine capture; (4) casual weight mention captured. Failure modes: resolution event not linked to original symptom keyword; exact lab numbers lost to paraphrase; care dates dropped.",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best approach to learning Spanish as an absolute beginner who has 30 minutes a day?"},
+        {"role": "assistant", "content": "For 30 minutes daily: 10 min Anki flashcards (top 1000 words), 10 min Duolingo for grammar patterns, 10 min listening exposure — Radio Ambulante or slow Spanish podcasts. Add graded readers at 3 months. Pimsleur is excellent if you have driving time. Consistency beats intensity — 30 min/day for a year outperforms weekend cramming."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you explain the difference between RAM and ROM?"},
+        {"role": "assistant", "content": "RAM (Random Access Memory) is volatile, fast working memory — holds data the CPU is using, wiped on power-off. ROM (Read-Only Memory) is non-volatile persistent storage — holds firmware that survives power loss. Classic analogy: RAM = your desk (fast, temporary), ROM = your file cabinet (slower, permanent). Modern flash storage blurs the line but the principle holds."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I have a terrible migraine that started yesterday, March 8th. It's a pounding headache, mainly on the right side. Light is absolutely unbearable — I had to close all the blinds and lie in the dark all day. I took ibuprofen but it barely touched the pain. This is probably the worst migraine I've had in years."},
+        {"role": "assistant", "content": "I've logged this as a symptom: severe migraine starting March 8, right-sided pounding headache, significant photophobia (light sensitivity), ibuprofen ineffective. This is a classic migraine presentation. For future episodes, ask your doctor about triptans (sumatriptan is first-line) — they're far more effective than OTC analgesics for migraines. Rest in a dark, quiet room is the right instinct."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I'm trying to build a habit tracker in Python — what data structure would you recommend?"},
+        {"role": "assistant", "content": "For a simple habit tracker: a dictionary of lists {'habit': [True, False, True, ...]} for each day works. For persistence, use JSON or SQLite. A more flexible structure: list of dicts {'date': '2025-03-08', 'habit': 'exercise', 'completed': True} — easy to filter by date or habit. For personal use, a CSV + pandas for analysis is the fastest path to something useful."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What causes jet lag and how do you recover faster?"},
+        {"role": "assistant", "content": "Jet lag is your circadian rhythm out of sync with local time — anchored to light, meal timing, and activity. Recovery: immediately shift to local meal and sleep times; use bright morning light (westward travel) or bright evening light (eastward) to reset your clock; 0.5mg melatonin at local bedtime. Avoid naps over 20 minutes. Roughly one day per time zone crossed to fully adjust."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I'm thinking about getting into rock climbing. Any beginner tips?"},
+        {"role": "assistant", "content": "Start at an indoor gym with auto-belay routes (no partner needed). Focus on footwork first, not arm strength — most beginners over-grip and tire quickly. Key technique: keep weight over your feet, hips close to the wall, look for footholds before you move. Gear to own: climbing shoes (can rent initially), chalk bag. Most gyms have beginner courses covering harness, knots, and belay for $30–50."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Great news — the migraine finally cleared up on March 10th, two days after it started. I got sumatriptan from urgent care and it completely knocked it out within about 2 hours. I also had a scheduled physical that same day with my doctor, Dr. Elena Patel at Riverside Medical. While I was there for the migraine and checkup, she measured my blood pressure at 136 over 84. She ordered a full lab panel — CBC, comprehensive metabolic panel, lipid panel, and HbA1c — and wants me to follow up once the results are in."},
+        {"role": "assistant", "content": "Updating your health record: migraine resolved March 10 after sumatriptan (2 hours to relief). Doctor visit logged: Dr. Elena Patel, Riverside Medical, March 10 — full physical checkup plus migraine evaluation. BP: 136/84. Labs ordered: CBC, comprehensive metabolic panel, lipid panel, HbA1c. I've added a pending follow-up reminder for when results arrive. Keep sumatriptan on hand going forward — worth getting a standing prescription."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any tips for making sourdough bread at home?"},
+        {"role": "assistant", "content": "Sourdough essentials: healthy starter (doubles in 4–8 hours of feeding), autolyse (mix flour and water, rest 30 min), stretch and fold (4x over 2 hours), cold retard overnight in fridge after shaping. Bake in Dutch oven — lid on first 20 min at 450°F (steam trap), then uncovered 25 min. Target 205–210°F internal. The cold retard step most improves flavor and makes scoring easier."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the difference between a psychologist and a psychiatrist?"},
+        {"role": "assistant", "content": "Psychiatrists are MDs — they diagnose and can prescribe medication (antidepressants, mood stabilizers, etc.). Psychologists typically have a PhD or PsyD — they provide therapy and psychological testing but generally cannot prescribe. For medication management, you need a psychiatrist or PCP. For talk therapy (CBT, DBT), a psychologist or licensed therapist. Ideal for many conditions: psychiatrist for meds, therapist for talk therapy."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "My lab results came back today, March 14th — they were drawn at Dr. Patel's office on March 10th. Here are the numbers: HbA1c is 7.1%, which Dr. Patel says is in the early diabetic range. Total cholesterol 224 mg/dL, LDL 148 mg/dL, HDL 45 mg/dL, triglycerides 154 mg/dL. Fasting glucose was 118 mg/dL. The CBC and metabolic panel were all normal. She wants me to come in to discuss these results, especially the HbA1c."},
+        {"role": "assistant", "content": "Lab results logged from March 14 (drawn March 10, Dr. Patel, Riverside Medical):\n- HbA1c: 7.1% — early diabetic range; requires follow-up discussion\n- Total cholesterol: 224 mg/dL (borderline high)\n- LDL: 148 mg/dL (borderline high)\n- HDL: 45 mg/dL (low-normal)\n- Triglycerides: 154 mg/dL (borderline high)\n- Fasting glucose: 118 mg/dL (pre-diabetic/impaired fasting)\n- CBC and metabolic panel: normal\n\nHbA1c of 7.1% often prompts a conversation about starting Metformin and dietary changes. I've noted a follow-up needed with Dr. Patel to discuss the lipid panel and diabetes management. Want help preparing questions for that visit?"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's a good framework for thinking about big life decisions?"},
+        {"role": "assistant", "content": "Reliable frameworks: (1) Regret minimization — project to age 80, which choice would you regret more? (2) 10/10/10 (Suzy Welch) — how will you feel in 10 minutes, 10 months, 10 years? (3) Pre-mortem — imagine the decision failed, what went wrong? Surfaces hidden risks. (4) Reversibility check — reversible decisions: make quickly and optimize later; irreversible: careful analysis. (5) Values alignment — which option honors your core values more? Frameworks clarify; they don't replace emotional processing."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I've been trying to cut back on social media. What strategies actually work?"},
+        {"role": "assistant", "content": "Strategies that work: (1) Physical friction — log out after each session, move app off home screen. (2) Time-boxing — 2x 15-minute scheduled windows vs. constant grazing. (3) Habit replacement — when you reach for the phone, have a replacement ready (book, walk). (4) All notifications off — you go to social media, it doesn't pull you. (5) Greyscale mode — reduces dopamine hit. (6) App time limits (iOS Screen Time). Most effective reset: 30-day abstinence, then reintroduce with clear rules."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How does inflation actually work? I've been confused by all the news coverage lately."},
+        {"role": "assistant", "content": "Inflation is a sustained rise in the general price level. Causes: (1) demand-pull — too much money chasing too few goods; (2) cost-push — supply shocks push input costs up; (3) wage-price spiral — workers expect inflation, demand higher wages. The CPI and PCE measure it. The Fed controls inflation via interest rates — higher rates slow spending and investment, reducing demand. 2021–2023 inflation combined COVID supply disruptions, fiscal stimulus, and housing supply shortage."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I called Dr. Patel's office today and booked my follow-up — it's scheduled for March 28th at 2 pm to discuss the HbA1c and cholesterol results and whether to start Metformin and a statin. I also stopped at the pharmacy this morning and got a flu shot — specifically asked for the Fluzone high-dose because I'd read it's more effective. That was all today, March 14th."},
+        {"role": "assistant", "content": "Care timeline updated for March 14:\n- Follow-up appointment booked: March 28 at 2 pm, Dr. Elena Patel, Riverside Medical — agenda: Metformin decision (HbA1c 7.1%), statin consideration (LDL 148)\n- Flu vaccine: Fluzone high-dose administered at pharmacy\n\nI've flagged the March 28 follow-up as an upcoming care event. Want me to help you prepare talking points for the visit?"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good strategies for negotiating a salary offer?"},
+        {"role": "assistant", "content": "Proven tactics: (1) Always negotiate — ~85% of employers have room to move. (2) Let them name first when possible — anchoring matters. (3) Go 10–15% above your target. (4) Frame as total compensation — base, bonus, equity, PTO, benefits. (5) Use competing offers or market data (Levels.fyi, LinkedIn Salary) as leverage. (6) Negotiate by email when possible — time to think. (7) Never give your current salary. (8) If base is firm, negotiate signing bonus, extra PTO, or accelerated review."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I've been reading about the Mediterranean diet — is there good scientific evidence for it?"},
+        {"role": "assistant", "content": "Yes — strong evidence. The PREDIMED trial (Spain, ~7,000 people, 5 years) showed a 30% relative risk reduction in major cardiovascular events vs. a low-fat control diet. Key evidence-backed components: extra-virgin olive oil as primary fat, abundant vegetables and legumes, fish 2–3x/week, moderate red wine, daily nuts, minimal processed foods. Also associated with reduced T2D risk, cognitive decline, and all-cause mortality."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I get started with a home server for file storage and media streaming?"},
+        {"role": "assistant", "content": "For a simple home server: old PC or Raspberry Pi 5 (8GB RAM). Software stack: Samba for network file sharing, Plex or Jellyfin for media (Jellyfin is open-source and fully local). OS: Ubuntu Server 22.04 LTS. Storage: USB or SATA drives, ext4 for simplicity. Remote access: Tailscale VPN (free, no port forwarding). Setup time: one Saturday afternoon for a beginner."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I've been trying to eat better since getting those lab results. Cut way back on white bread and sugary snacks. I weighed myself this morning and I'm at 192 lbs — I've been trying to get under 185. Also I've been walking about 20 minutes every evening this week. Small steps, I know, but trying to move in the right direction given the pre-diabetes situation."},
+        {"role": "assistant", "content": "That's a solid start and exactly the right approach for the HbA1c. I've noted your current weight at 192 lbs with a target under 185 lbs, and logged your current activity as evening walks (~20 min daily). Dietary changes — cutting refined carbs and sugar — are among the highest-impact interventions for pre-diabetes alongside exercise. These changes can meaningfully lower HbA1c before your March 28 follow-up with Dr. Patel. Keep it up."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to read more books? I always buy them and never finish them."},
+        {"role": "assistant", "content": "The unfinished-book problem: (1) Permission to quit — 50-page rule. If not engaged, stop. (2) One book at a time. (3) Reading rituals — same time, same spot, no phone. 20 min before bed beats 2-hour weekend sessions. (4) Audiobooks for commute/chores. (5) Choose books you're actually excited about, not obligations. (6) Track progress (Goodreads, Notion) — visual progress motivates. At 20 min/day, the average book takes 2–3 weeks — very achievable."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What causes the northern lights and where are the best places to see them?"},
+        {"role": "assistant", "content": "Aurora borealis: charged particles from solar wind interact with Earth's magnetic field and atmosphere, spiraling into polar regions and colliding with gas molecules (mainly oxygen and nitrogen) — the energy is released as light. Green/yellow: oxygen at 60–150 miles; red: oxygen at higher altitudes; blue/purple: nitrogen. Best spots: Tromsø (Norway), Abisko (Sweden), Finnish Lapland, Iceland, Yukon, Fairbanks. Optimal conditions: clear skies, away from light pollution, 10pm–2am, near solar maximum (we're close in 2025). Check NOAA's KP index for 1–3 day forecasts."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any recommendations for project management tools for a small team of 5?"},
+        {"role": "assistant", "content": "For 5 people, keep it simple. My picks: Linear for issues and sprint tracking (excellent for tech teams, clean UI), Notion for docs and knowledge base. Trello works well if you're visual and prefer Kanban. Avoid Jira — too much overhead for 5. ClickUp if you want one all-in-one tool. The best PM tool is the one people actually use — don't add process for process's sake."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "migraine",
+      "expected_information": [
+        "migraine",
+        "/resolv|sumatriptan|cleared|March 10|2025-03-10/"
+      ]
+    },
+    {
+      "query": "HbA1c",
+      "expected_information": [
+        "7.1",
+        "/A1C|HbA1c/"
+      ]
+    },
+    {
+      "query": "cholesterol results",
+      "expected_information": [
+        "224",
+        "148"
+      ]
+    },
+    {
+      "query": "Dr. Patel visit",
+      "expected_information": [
+        "/Patel|Riverside/",
+        "/March 10|2025-03-10/"
+      ]
+    },
+    {
+      "query": "flu shot",
+      "expected_information": [
+        "/flu|influenza|Fluzone/",
+        "/March 14|2025-03-14/"
+      ]
+    },
+    {
+      "query": "follow-up appointment",
+      "expected_information": [
+        "/March 28|2025-03-28/",
+        "/Patel|Riverside/"
+      ]
+    },
+    {
+      "query": "weight",
+      "expected_information": [
+        "192",
+        "/lbs|pounds|weight/"
+      ]
+    }
+  ]
+}

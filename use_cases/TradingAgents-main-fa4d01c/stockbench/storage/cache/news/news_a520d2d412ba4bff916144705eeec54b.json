@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "title": "Ariel Investments Appreciation Fund Q4 2024 Commentary",
+      "description": "Ariel Appreciation Fund decreased -0.53% in the quarter, outperforming the Russell Midcap Value Indexâs -1.75% return, but lagging the Russell Midcap Indexâs +0.62% gain.",
+      "published_utc": "2025-02-26T22:07:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6b0063407e5a21c9e95e65669ed7821e9b3d204156d351271654c677c2a553ae",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1395549655/image_1395549655.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132879846,
+      "datetime": 1740578820
+    },
+    {
+      "title": "Ariel Investments Focus Fund Q4 2024 Commentary",
+      "description": "Over the trailing one-year period, Ariel Focus Fund increased +13.48%, underperforming both the Russell 1000 Value and S&P 500 Indices, which returnedÂ +14.37% and +25.02%, respectively.",
+      "published_utc": "2025-02-26T21:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f621d1f1657a6922380fd53af6cda55d99a0fe8cc1c7a7191e50274417abbc4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165180102/image_165180102.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132879627,
+      "datetime": 1740576300
+    },
+    {
+      "title": "Goldman Sachs sees boost in US energy, metal production from Trump's policies",
+      "description": "U.S. energy and metals production could see a limited boost in the short run as a result of U.S. President Donald Trump's trade and foreign policy plans, but a potentially bigger boost over the longer...",
+      "published_utc": "2025-02-26T18:50:42",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e4233509119e7b88811177fee98be10740aea82e1e8b8d2d7908e715550f41f7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878690,
+      "datetime": 1740567042
+    },
+    {
+      "title": "Exclusive-CICC to merge with Galaxy Securities to form China's No.3 brokerage, say sources",
+      "description": "State-owned China International Capital Corp is set to merge with its peer China Galaxy Securities, said five sources, in a deal that would create the country's third-largest brokerage with $193...",
+      "published_utc": "2025-02-26T09:31:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1ecdc422c0f9662942477e5be51266ef54d798cdfa7b0f39293bc6e7b9f82b5c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132875534,
+      "datetime": 1740533476
+    },
+    {
+      "id": "3a89f44741a5cf3d2bd00072c003abf7305fe13ab7f9837eb719237fbc85dacc",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Jyske Bank initiates share repurchase programme",
+      "author": "Jyske Bank",
+      "published_utc": "2025-02-26T06:38:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/26/3032568/0/en/Jyske-Bank-initiates-share-repurchase-programme.html",
+      "tickers": [
+        "JYSKY",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/02b54574-1582-4e26-a668-cba266f949bb",
+      "description": "Jyske Bank has decided to repurchase up to DKK 2.25 billion worth of its own shares, with the purpose of reducing its share capital. The share repurchase programme will be handled independently by a financial adviser, Goldman Sachs, and will comply with relevant regulations.",
+      "keywords": [
+        "share repurchase",
+        "capital reduction",
+        "Jyske Bank"
+      ],
+      "insights": [
+        {
+          "ticker": "JYSKY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is taking steps to reduce its share capital, which can be seen as a positive move for shareholders as it may improve the company's financial position and efficiency."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Goldman Sachs has been appointed as the financial adviser and lead manager for the share repurchase programme, which is a standard role for an investment bank in such transactions."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Goldman Sachs has been appointed as the financial adviser and lead manager for the share repurchase programme, which is a standard role for an investment bank in such transactions."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Goldman Sachs has been appointed as the financial adviser and lead manager for the share repurchase programme, which is a standard role for an investment bank in such transactions."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Goldman Sachs has been appointed as the financial adviser and lead manager for the share repurchase programme, which is a standard role for an investment bank in such transactions."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:57.784299+00:00",
+    "cache_key": "news_a520d2d412ba4bff916144705eeec54b",
+    "count": 5
+  }
+}

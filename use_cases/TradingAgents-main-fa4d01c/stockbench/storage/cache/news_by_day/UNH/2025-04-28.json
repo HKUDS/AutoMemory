@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "ClearBridge Large Cap Growth Fund Q1 2025 Commentary",
+      "description": "The S&P 500 Index declined 4.27% while the benchmark Russell 1000 Growth Index (RLG) fell 9.97%, trailing its value counterpart by over 1,200 basis points.",
+      "published_utc": "2025-04-28T07:02:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c5382aa45a906d8a8f0fd4f09e661c99fde4fdc5a873e332a6b84cee15c72c09",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1367307622/image_1367307622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134110394,
+      "datetime": 1745794920
+    }
+  ]
+}

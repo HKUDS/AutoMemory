@@ -1,0 +1,861 @@
+{
+  "version": 1,
+  "categories": {
+    "extraction": "How to extract structured information from raw input",
+    "dedup_conflict": "How to handle duplicates, contradictions, and updates",
+    "storage_organization": "Backend choices, data model, and memory organization",
+    "retrieval_ranking": "How to find, rank, and format relevant memories",
+    "lifecycle": "TTL, compaction, archival, and consolidation",
+    "architecture": "System structure, routing, integration patterns"
+  },
+  "techniques": [
+    {
+      "id": "zep-reflexion",
+      "name": "Reflexion loop for extraction completeness",
+      "source": "zep",
+      "category": "extraction",
+      "summary": "After initial extraction, LLM self-checks for missed entities/facts and iterates up to 3 rounds. Improves recall at the cost of extra LLM calls.",
+      "tradeoffs": "Higher recall; 2-3x LLM calls per extraction.",
+      "when_to_use": "When extraction completeness is critical and LLM budget allows.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "zep/details.md",
+          "lines": [
+            81,
+            91
+          ]
+        },
+        {
+          "file": "zep/details.md",
+          "lines": [
+            102,
+            112
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "zep/prompts/extract_nodes.md"
+      ]
+    },
+    {
+      "id": "cm-tool-observation",
+      "name": "Tool executions as memory source",
+      "source": "claude-mem",
+      "category": "extraction",
+      "summary": "Memorize what the agent did (tool I/O) instead of conversation. PostToolUse hook captures every tool execution; AI extracts structured observations.",
+      "tradeoffs": "More actionable and less noisy than raw dialogue; only works for tool-heavy agents.",
+      "when_to_use": "Tool-heavy coding agents where tool executions are the primary unit of work.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "claude-mem/details.md",
+          "lines": [
+            75,
+            84
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "claude-mem/prompts/observation_extraction.md"
+      ]
+    },
+    {
+      "id": "mirix-multimodal-batch",
+      "name": "Multimodal message accumulation before extraction",
+      "source": "MIRIX",
+      "category": "extraction",
+      "summary": "Batch heterogeneous inputs (screenshots, voice, text) until a threshold before sending to memory. Reduces API calls and improves context window usage.",
+      "tradeoffs": "Adds latency (batching delay); requires threshold tuning.",
+      "when_to_use": "Multimodal input scenarios where individual items are too small to extract from efficiently.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "MIRIX/details.md",
+          "lines": [
+            81,
+            89
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "ov-multi-category-l012",
+      "name": "8-category extraction with L0/L1/L2 output",
+      "source": "open-viking",
+      "category": "extraction",
+      "summary": "Extract memories into 8 categories (profile, preferences, entities, events, cases, patterns, tools, skills) with three-level output per memory: L0 abstract (~100 tokens), L1 overview (~2k tokens), L2 full content.",
+      "tradeoffs": "Comprehensive but heavyweight; requires well-tuned category decision table.",
+      "when_to_use": "Long-running agents accumulating diverse memory types across many sessions.",
+      "philosophy": {
+        "weight": [
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            71,
+            79
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "open-viking/prompts/memory_extraction.md"
+      ]
+    },
+    {
+      "id": "ov-tool-skill-stats",
+      "name": "Tool/Skill memory with automatic statistics",
+      "source": "open-viking",
+      "category": "extraction",
+      "summary": "Track tool/skill usage metrics (call count, success rate, avg duration, tokens) from execution records; persist as structured memory with LLM-merged guidelines across sessions.",
+      "tradeoffs": "Requires ToolCall/SkillCall record format in messages; adds per-tool storage overhead.",
+      "when_to_use": "Tool-heavy agents where learning tool best practices across sessions matters.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            29,
+            50
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "open-viking/prompts/memory_extraction.md"
+      ]
+    },
+    {
+      "id": "zep-bitemporal-invalidation",
+      "name": "Bi-temporal edge invalidation for contradiction handling",
+      "source": "zep",
+      "category": "dedup_conflict",
+      "summary": "Instead of deleting or overwriting old facts, set invalid_at timestamp and keep history. Supports point-in-time queries and audit trails.",
+      "tradeoffs": "Requires graph DB with temporal fields; more complex queries; storage grows monotonically.",
+      "when_to_use": "When facts evolve/contradict over time and temporal reasoning (\"what was true at time T?\") is needed.",
+      "philosophy": {
+        "weight": [
+          "heavy"
+        ],
+        "logic": [
+          "rigorous",
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "zep/details.md",
+          "lines": [
+            81,
+            91
+          ]
+        },
+        {
+          "file": "zep/details.md",
+          "lines": [
+            93,
+            99
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "zep/prompts/invalidate_edges.md"
+      ]
+    },
+    {
+      "id": "ov-vector-llm-dedup",
+      "name": "Vector pre-filter + LLM dedup (skip/create/none)",
+      "source": "open-viking",
+      "category": "dedup_conflict",
+      "summary": "Two-phase dedup: vector search finds similar existing memories (same category + owner), then LLM decides skip/create/none with per-item merge/delete actions. Post-LLM normalization prevents contradictory action combinations.",
+      "tradeoffs": "Precise but requires 1 LLM call per candidate; vector pre-filter keeps LLM calls manageable.",
+      "when_to_use": "Any memory system needing structured dedup beyond simple exact-match.",
+      "philosophy": {
+        "weight": [
+          "light",
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            71,
+            79
+          ]
+        },
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            92,
+            98
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "open-viking/prompts/dedup_decision.md"
+      ]
+    },
+    {
+      "id": "zep-pydantic-ontology",
+      "name": "Schema-driven graph via Pydantic ontology",
+      "source": "zep",
+      "category": "storage_organization",
+      "summary": "Define entity types and edge types as Pydantic models (entity_types, edge_types, edge_type_map). Ensures consistency and enables type-specific extraction prompts.",
+      "tradeoffs": "Upfront schema design effort; less flexible for unstructured or evolving data.",
+      "when_to_use": "When memory has well-defined entity types and relationships worth enforcing via schema.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "zep/details.md",
+          "lines": [
+            37,
+            56
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "mirix-dedicated-agents",
+      "name": "Dedicated agent per memory type",
+      "source": "MIRIX",
+      "category": "storage_organization",
+      "summary": "Each of 6 memory types has its own agent with own schema and tools. The agent decides what to extract and how to store it. More flexible than a single monolithic extraction step.",
+      "tradeoffs": "High orchestration overhead (7+ agents); significant latency and cost per memory update.",
+      "when_to_use": "When different memory types need fundamentally different storage/retrieval strategies.",
+      "philosophy": {
+        "weight": [
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "MIRIX/details.md",
+          "lines": [
+            7,
+            33
+          ]
+        },
+        {
+          "file": "MIRIX/details.md",
+          "lines": [
+            36,
+            57
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "MIRIX/prompts/memory_component_overview.md"
+      ]
+    },
+    {
+      "id": "ov-dual-ownership",
+      "name": "Dual ownership for user vs agent memories",
+      "source": "open-viking",
+      "category": "storage_organization",
+      "summary": "User-space memories (profile, preferences, entities, events) and agent-space memories (cases, patterns, tools, skills) have separate storage, merge policies, and retrieval paths. Prevents cross-contamination.",
+      "tradeoffs": "Requires ownership classification at extraction time; routing logic adds complexity.",
+      "when_to_use": "When user facts and agent-learned knowledge should not mix in retrieval.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "rigorous",
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            29,
+            50
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "cm-progressive-disclosure",
+      "name": "Progressive disclosure with token cost visibility",
+      "source": "claude-mem",
+      "category": "retrieval_ranking",
+      "summary": "Show a compact index first (ID, title, token cost); let the agent decide what to fetch in detail. ~10x token savings vs dumping full context.",
+      "tradeoffs": "Requires two-step retrieval (index then fetch); agent must be capable of choosing.",
+      "when_to_use": "When memory corpus is large and most entries are irrelevant to current query.",
+      "philosophy": {
+        "weight": [
+          "light",
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "claude-mem/details.md",
+          "lines": [
+            96,
+            108
+          ]
+        },
+        {
+          "file": "claude-mem/details.md",
+          "lines": [
+            64,
+            72
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "cm-3layer-drill",
+      "name": "3-layer retrieval: search, timeline, get_observations",
+      "source": "claude-mem",
+      "category": "retrieval_ranking",
+      "summary": "search (browse index) -> timeline (situate in temporal context) -> get_observations (full details). Each layer is independently useful; the agent stops drilling when satisfied.",
+      "tradeoffs": "More round-trips; requires MCP or multi-step tool interface.",
+      "when_to_use": "When memory has temporal structure and the agent benefits from progressive context loading.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "claude-mem/details.md",
+          "lines": [
+            64,
+            72
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "ov-hierarchical-directory",
+      "name": "Hierarchical directory-based retrieval with score propagation",
+      "source": "open-viking",
+      "category": "retrieval_ranking",
+      "summary": "Organize memories in directories; retrieval explores high-scoring directories recursively. Child score = 0.5*embedding + 0.5*parent_score. Stops when top-k converges (unchanged for 3 rounds).",
+      "tradeoffs": "Requires directory structure; more complex than flat vector search; convergence adds latency.",
+      "when_to_use": "When memories have natural hierarchical organization (categories, subcategories).",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "rigorous",
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            62,
+            68
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "open-viking/prompts/intent_analysis.md"
+      ]
+    },
+    {
+      "id": "ov-l0l1l2-tiered",
+      "name": "L0/L1/L2 tiered representation per memory",
+      "source": "open-viking",
+      "category": "retrieval_ranking",
+      "summary": "Each memory has three detail levels: L0 one-liner abstract (~100 tokens) for candidate selection, L1 structured overview (~2k tokens) for reranking, L2 full content on demand. Token cost scales with need.",
+      "tradeoffs": "3x storage per memory; extraction must produce all three levels.",
+      "when_to_use": "Large memory corpora where full-content retrieval is too expensive for initial ranking.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            29,
+            50
+          ]
+        },
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            62,
+            68
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "open-viking/prompts/memory_merge.md"
+      ]
+    },
+    {
+      "id": "ama-two-stage",
+      "name": "Compressed state first, raw retrieval on demand",
+      "source": "ama-agent",
+      "category": "retrieval_ranking",
+      "summary": "Build a compressed state summary; only retrieve original raw chunks when the compressed state is insufficient. Reduces context size when the summary is enough.",
+      "tradeoffs": "Lossy compression may miss details; sufficiency check adds one LLM call.",
+      "when_to_use": "When a summary usually suffices and raw retrieval is the exception.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "rigorous",
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "ama-agent/details.md",
+          "lines": [
+            69,
+            77
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "ama-agent/prompts/check_state_mem.md"
+      ]
+    },
+    {
+      "id": "ama-sufficiency-gate",
+      "name": "LLM sufficiency gates — retrieve only when needed",
+      "source": "ama-agent",
+      "category": "retrieval_ranking",
+      "summary": "Instead of always retrieving, ask LLM 'is this enough?' at each retrieval stage. SUFFICIENT skips retrieval; NEED_RETRIEVAL triggers the next stage. Avoids unnecessary retrieval cost.",
+      "tradeoffs": "One LLM call per gate; may incorrectly judge sufficiency.",
+      "when_to_use": "When retrieval is expensive and compressed/cached context often suffices.",
+      "philosophy": {
+        "weight": [
+          "light",
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "ama-agent/details.md",
+          "lines": [
+            69,
+            77
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "ama-agent/prompts/check_state_mem.md",
+        "ama-agent/prompts/retrieve_sufficiency.md"
+      ]
+    },
+    {
+      "id": "zep-multi-reranker",
+      "name": "Multiple specialized rerankers composed per search type",
+      "source": "zep",
+      "category": "retrieval_ranking",
+      "summary": "Cross-encoder, node-distance, episode-mentions, MMR — each reranker captures a different relevance signal. Configurable per search type via SearchConfig.",
+      "tradeoffs": "Each reranker adds latency; diminishing returns from stacking too many.",
+      "when_to_use": "When single-signal ranking (e.g. vector similarity alone) is insufficient.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "zep/details.md",
+          "lines": [
+            69,
+            78
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "ama-llm-relevance",
+      "name": "LLM relevance scoring per chunk (0-10)",
+      "source": "ama-agent",
+      "category": "retrieval_ranking",
+      "summary": "Score each trajectory chunk 0-10 for query relevance using LLM, select top-k. Alternative to vector similarity or BM25 when semantic judgment matters.",
+      "tradeoffs": "One LLM call per chunk; expensive for large corpora; high quality for small sets.",
+      "when_to_use": "When semantic relevance judgment matters more than speed, and candidate set is small.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "ama-agent/details.md",
+          "lines": [
+            99,
+            118
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "ama-agent/prompts/relevance_scoring.md"
+      ]
+    },
+    {
+      "id": "ov-hotness-archival",
+      "name": "Hotness-driven archival with automatic cold memory removal",
+      "source": "open-viking",
+      "category": "lifecycle",
+      "summary": "Score memories by sigmoid(log1p(access_count)) * exp(-decay * age_days). Memories with hotness < 0.1 and age > 7 days auto-archived to _archive/. Retrieval scope narrows naturally over time.",
+      "tradeoffs": "Requires access counting; archived memories need explicit restoration if needed later.",
+      "when_to_use": "Long-running agents with growing memory where natural pruning is preferred over manual cleanup.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "open-viking/details.md",
+          "lines": [
+            84,
+            89
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "ama-state-compression",
+      "name": "Hierarchical chunk compression with state replacement",
+      "source": "ama-agent",
+      "category": "lifecycle",
+      "summary": "Process trajectory chunks sequentially; each chunk's LLM compression replaces the previous accumulated state (not appends). Produces a single evolving summary that grows in quality, not size.",
+      "tradeoffs": "Lossy; earlier details may be lost; requires sequential processing.",
+      "when_to_use": "When a single evolving summary is preferred over append-style accumulation.",
+      "philosophy": {
+        "weight": [
+          "light",
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "ama-agent/details.md",
+          "lines": [
+            80,
+            87
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "ama-agent/prompts/compress.md"
+      ]
+    },
+    {
+      "id": "mirix-meta-router",
+      "name": "Meta Memory router with fixed evaluation order",
+      "source": "MIRIX",
+      "category": "architecture",
+      "summary": "A single classification step routes incoming content to appropriate memory type handlers. Fixed evaluation order (Core -> Episodic -> Procedural -> Resource -> Knowledge Vault -> Semantic) avoids redundant processing.",
+      "tradeoffs": "Router LLM call adds latency; fixed order may not suit all content distributions.",
+      "when_to_use": "When memory has multiple types requiring different extraction/storage strategies.",
+      "philosophy": {
+        "weight": [
+          "medium",
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "MIRIX/details.md",
+          "lines": [
+            7,
+            33
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "MIRIX/prompts/meta_memory_router.md"
+      ]
+    },
+    {
+      "id": "mirix-always-in-context",
+      "name": "Core memory as always-in-context blocks",
+      "source": "MIRIX",
+      "category": "architecture",
+      "summary": "Persona and human blocks with character limits are always injected into the system prompt, not retrieved on demand. Guarantees identity and key user info are never missed.",
+      "tradeoffs": "Consumes fixed context budget regardless of relevance; character limits constrain content.",
+      "when_to_use": "When certain memory (identity, key preferences) must always be available regardless of query.",
+      "philosophy": {
+        "weight": [
+          "light"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "MIRIX/details.md",
+          "lines": [
+            36,
+            57
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "zep-community-nodes",
+      "name": "Community nodes for topic-level aggregation",
+      "source": "zep",
+      "category": "architecture",
+      "summary": "Cluster related entities via Label Propagation algorithm; LLM generates a summary for each cluster. Enables high-level 'tell me about topic X' queries without enumerating individual entities.",
+      "tradeoffs": "Graph algorithm + LLM summarization per community; rebuild cost on graph changes.",
+      "when_to_use": "When queries span multiple related entities and topic-level summaries are valuable.",
+      "philosophy": {
+        "weight": [
+          "heavy"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "zep/details.md",
+          "lines": [
+            93,
+            99
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "cm-lifecycle-hooks",
+      "name": "Session lifecycle hooks for automatic memory capture",
+      "source": "claude-mem",
+      "category": "architecture",
+      "summary": "Hook into session lifecycle events (SessionStart, PostToolUse, Stop, SessionEnd) for automatic capture. No manual 'save' calls needed — memory extraction is triggered by events.",
+      "tradeoffs": "Tightly coupled to host agent's plugin/hook system; requires compatible lifecycle API.",
+      "when_to_use": "When the host agent has a plugin/hook system and memory should be captured automatically.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "rigorous",
+          "intelligent"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "claude-mem/details.md",
+          "lines": [
+            7,
+            35
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "lg-two-file-separation",
+      "name": "Two-file fact/event separation (always-in-context + grep-searchable)",
+      "source": "lightgrep",
+      "category": "architecture",
+      "summary": "Split memory into two files: a facts file always injected into the system prompt, and an append-only event log searchable via grep. Facts are never missed; events don't bloat context.",
+      "tradeoffs": "Facts file must fit in system prompt; no selective retrieval of facts; history search is keyword-only.",
+      "when_to_use": "When fact volume is small enough to always fit in context and simplicity is preferred over retrieval sophistication.",
+      "philosophy": {
+        "weight": [
+          "light"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "lightgrep/details.md",
+          "lines": [
+            28,
+            43
+          ]
+        },
+        {
+          "file": "lightgrep/details.md",
+          "lines": [
+            54,
+            58
+          ]
+        }
+      ],
+      "prompt_refs": []
+    },
+    {
+      "id": "lg-token-pressure-consolidation",
+      "name": "Token-pressure-driven multi-round consolidation",
+      "source": "lightgrep",
+      "category": "lifecycle",
+      "summary": "Consolidation triggers when actual prompt token estimate exceeds the context window. Loops up to 5 rounds, each time archiving a chunk at a user-turn boundary, targeting half the window as headroom. Token-based, not message-count-based.",
+      "tradeoffs": "Requires token estimation (provider-native or tiktoken fallback); boundary selection adds logic.",
+      "when_to_use": "Any agent needing predictable context window management with automatic headroom.",
+      "philosophy": {
+        "weight": [
+          "light",
+          "medium"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "lightgrep/details.md",
+          "lines": [
+            62,
+            76
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "lightgrep/prompts/consolidation.md"
+      ]
+    },
+    {
+      "id": "lg-grep-retrieval",
+      "name": "Grep-based history retrieval without vectors or embeddings",
+      "source": "lightgrep",
+      "category": "retrieval_ranking",
+      "summary": "Agent searches event history using shell grep commands. No vector store, no embeddings, no semantic search. Entries are timestamped and keyword-rich by design. An always-on skill teaches the agent grep patterns.",
+      "tradeoffs": "Keyword-only; no fuzzy/semantic matching; requires agent to have shell exec capability.",
+      "when_to_use": "When history entries are well-structured with timestamps/keywords and semantic search infrastructure is undesirable.",
+      "philosophy": {
+        "weight": [
+          "light"
+        ],
+        "logic": [
+          "rigorous"
+        ]
+      },
+      "detail_refs": [
+        {
+          "file": "lightgrep/details.md",
+          "lines": [
+            54,
+            58
+          ]
+        }
+      ],
+      "prompt_refs": [
+        "lightgrep/prompts/consolidation.md"
+      ]
+    },
+    {
+      "id": "general-hybrid-rag",
+      "name": "Hybrid retrieval pipeline: embedding similarity + BM25 keyword + reranker",
+      "source": "general",
+      "category": "retrieval_ranking",
+      "summary": "Standard two-stage retrieval: stage 1 runs embedding cosine similarity and BM25 keyword match in parallel, merges candidates via reciprocal rank fusion (RRF); stage 2 reranks the fused list with a cross-encoder or LLM scorer. Embedding handles paraphrase and semantic drift; BM25 catches exact terms the embedding may miss. The reranker corrects ordering errors from either channel.",
+      "tradeoffs": "Requires an embedding API and a vector store (FAISS, Qdrant, ChromaDB, etc.); BM25 index adds a second storage path; reranker adds latency per query. Strong generalization — good default when query types are diverse.",
+      "when_to_use": "Default retrieval choice when the environment supports embedding calls and the memory must handle varied query phrasings with high recall. Prefer simpler grep-based or pure-LLM scoring when embedding is unavailable or memory volume is very small.",
+      "philosophy": {
+        "weight": [
+          "medium"
+        ],
+        "logic": [
+          "intelligent"
+        ]
+      },
+      "detail_refs": [],
+      "prompt_refs": []
+    }
+  ]
+}

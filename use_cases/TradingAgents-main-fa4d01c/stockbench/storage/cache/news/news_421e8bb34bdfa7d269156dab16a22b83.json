@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Street Calls of the Week",
+      "description": "Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.",
+      "published_utc": "2025-06-08T17:35:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a1adfb797a9f6df2650b3fda385eb1dbc6f466db6073d08b32011f729928cf0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114179,
+      "datetime": 1749375335
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:40.801073+00:00",
+    "cache_key": "news_421e8bb34bdfa7d269156dab16a22b83",
+    "count": 1
+  }
+}

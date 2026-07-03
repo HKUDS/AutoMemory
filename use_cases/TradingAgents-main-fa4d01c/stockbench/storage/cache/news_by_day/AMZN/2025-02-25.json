@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Lunch: A Crisis Of Confidence",
+      "description": "The Conference Boardâs February measure of consumer confidence saw the largest drop since August 2021",
+      "published_utc": "2025-02-25T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=53f956a4263a6493502ea3532e6df6657f532464e0cb2eacd3e910a9033e323c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2098517840/image_2098517840.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132872393,
+      "datetime": 1740492000
+    },
+    {
+      "title": "BigCommerce Holdings Q4 Results: A Solid E-Commerce Growth Play (Upgrade)",
+      "description": "",
+      "published_utc": "2025-02-25T19:41:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26e71794e0f6d1bd33efe1c55cd2423851fbbe1f570f4850be9ab1851aa16ea3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132871699,
+      "datetime": 1740483689
+    },
+    {
+      "title": "The 'Magnificent Seven' heads for correction territory",
+      "description": "The 'Magnificent Seven' heads for correction territory",
+      "published_utc": "2025-02-25T19:39:14",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ba14bb8d32943ce0e746c08cdc7fe7f91eb4c60fa631c2fcaeaf9ea71d010690",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881143,
+      "datetime": 1740483554
+    }
+  ]
+}

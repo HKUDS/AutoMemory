@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Goldman vs. Morgan Stanley: Which Financial Giant Has More Upside?",
+      "description": "Does GS outpace MS with stronger earnings, deeper M&A strength and a more attractive valuation profile? Let us find out.",
+      "published_utc": "2025-07-09T22:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4070328527b0716d3fa9a881aa7d19798fd27576e0cadb082fbf121d73de09e7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835825,
+      "datetime": 1752072840
+    },
+    {
+      "title": "Former British Prime Minister Rishi Sunak returns to Goldman Sachs",
+      "description": "Copyright © BusinessAMBE 2023Key takeawaysRishi Sunak returns to Goldman Sachs as an advisor.He will donate his compensation to the charity The Richmond Project.His contract currently only...",
+      "published_utc": "2025-07-09T22:01:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=24d8ae6f8120b7d2cfb19b4b682b86c1f12ba12de701a7f1e6f71ad64f108a3c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135836372,
+      "datetime": 1752069666
+    }
+  ]
+}

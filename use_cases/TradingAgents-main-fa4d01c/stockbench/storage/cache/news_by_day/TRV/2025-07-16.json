@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers (TRV) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "description": "Property and casualty insurer Travelers (NYSE:TRV) will be reporting results this Thursday before the bell. Here’s what to look for.",
+      "published_utc": "2025-07-16T11:02:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f919f6973e980cfac4c5e456cd79d58cce72a2d9f5afd8dd7932f5d73112b4e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965921,
+      "datetime": 1752634971
+    }
+  ]
+}

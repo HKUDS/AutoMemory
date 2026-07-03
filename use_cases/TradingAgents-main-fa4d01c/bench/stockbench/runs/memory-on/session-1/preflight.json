@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "symbols": [
+    "AAPL",
+    "AMZN",
+    "MSFT"
+  ],
+  "start_date": "2025-06-02",
+  "end_date": "2025-06-30",
+  "trading_days": 20,
+  "rows_by_symbol": {
+    "AAPL": 20,
+    "AMZN": 20,
+    "MSFT": 20
+  },
+  "news_items_by_symbol": {
+    "AAPL": 5,
+    "AMZN": 5,
+    "MSFT": 5
+  },
+  "indicator_fields_by_symbol": {
+    "AAPL": 7,
+    "AMZN": 7,
+    "MSFT": 7
+  },
+  "data_mode": "offline_only"
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow's 125-point drop led by losses in NVIDIA Corp., Amazon.com Inc. stocks",
+      "description": "Dow's 125-point drop led by losses in NVIDIA Corp., Amazon.com Inc. stocks",
+      "published_utc": "2025-03-03T19:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=143a39f1d2c11ffa04e536f5208a903a9941519cd71ac3b86ff83dbabec6cc7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955675,
+      "datetime": 1741001400
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Needing Dollars, Iran-Backed Militias Turn to Visa and Mastercard",
+      "description": "Needing Dollars, Iran-Backed Militias Turn to Visa and Mastercard",
+      "published_utc": "2025-06-01T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=9853cc3adbd5b32f70cba7a237eef5e092f318c338b0ac152a96455a36a3fd8a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134939954,
+      "datetime": 1748725200
+    },
+    {
+      "title": "Potentially Earn 12%-15% Income: Monthly Options Series (June 2025)",
+      "description": "Writing options does involve some learning curve and practice. Check out stocks suitable for writing options to generate consistent income for June.",
+      "published_utc": "2025-05-31T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e4df0496932fa1b73a504f99abf4c36a89c9f1abaeb0b2d97462707b4596d43",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/803420378/image_803420378.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917918,
+      "datetime": 1748680200
+    },
+    {
+      "title": "Better Buffett Stock: American Express vs. Visa",
+      "description": "Which of Warren Buffett's credit card investments is a better buy right now?",
+      "published_utc": "2025-05-31T15:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ba707ef2394607f3f24e58f1277bd92e24302b9d6065a3caa2cca82d3c3957c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918427,
+      "datetime": 1748678100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:49:45.175799+00:00",
+    "cache_key": "news_8aeec2a46312b353921e5ed88b4b77d2",
+    "count": 3
+  }
+}

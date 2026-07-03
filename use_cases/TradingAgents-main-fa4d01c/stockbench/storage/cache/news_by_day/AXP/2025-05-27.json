@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dow's 732-point rally highlighted by gains for Nike, NVIDIA Corp. stocks",
+      "description": "Dow's 732-point rally highlighted by gains for Nike, NVIDIA Corp. stocks",
+      "published_utc": "2025-05-27T22:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e824425e6c83dbf0d993048720109fcc3570a58b7c0bd3b3c06e67256f18fff7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710408,
+      "datetime": 1748354460
+    },
+    {
+      "title": "American Express: A Durable Compounder Facing Macro Risks And Valuation Hurdles",
+      "description": "Discover why American Express remains a long-term buy with strong financials and brand appeal, but learn why current valuations may require caution.",
+      "published_utc": "2025-05-27T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0add8e96c579e79746adcdc7c6c3a4840cb22be10ff9504194e74e5a7728a8f1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458652307/image_458652307.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710280,
+      "datetime": 1748354400
+    },
+    {
+      "title": "American Express: Premium Growth And Millennial Power",
+      "description": "American Express is a long-term Buy due to strong growth, premium focus, and robust management. Click here to read an analysis of AXP stock now.",
+      "published_utc": "2025-05-27T19:14:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b8d6d6c9b128ad571a67d698e34ec809b4101cd0b88a22067b1b195acd8b631",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418907712/image_1418907712.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709267,
+      "datetime": 1748344478
+    },
+    {
+      "title": "Adding American Express To My Shopping List, A Nice Top-Line Growth Stock",
+      "description": "",
+      "published_utc": "2025-05-27T19:07:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3797edceb04d1e6881c5fa6288403458242b963d70c3ef13fd443178c4f21101",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709202,
+      "datetime": 1748344067
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple Joins AI Data Center Race After Siri Mess",
+      "description": "Apple reportedly is in the process of placing orders for about $1 billion in Nvidia GB300 NVL72 systems for an AI data center.",
+      "published_utc": "2025-03-25T07:37:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b41912f63e2eaaea82f91d3a73458857f0e0e1b9e4d89e3d37640bf989f16ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360223,
+      "datetime": 1742859436
+    },
+    {
+      "title": "Mag 7 takes on 'growth as defensive' bias, strategist says",
+      "description": "Citi head of US equity strategy Scott Chronert joins Market Domination hosts Julie Hyman and Josh Lipton to discuss Monday's \"Magnificent Seven\" rally in the context of the recent tech trade decline. In particular, Chronert emphasizes a \"growth as defensive\" component coming into play for the Magnificent Seven. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-03-25T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd12e23b6aca358902eb70ce1be2d8e7ee30aa715835a26bf46f487d0e7ba34a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360224,
+      "datetime": 1742859000
+    },
+    {
+      "title": "iShares Global Equity Factor ETF (GLOF): Among The Best Global ETFs To Buy",
+      "description": "We recently published a list of 12 Best Global ETFs to Buy. In this article, we are going to take a look at where iShares Global Equity Factor ETF (NYSE:GLOF) stands against other best global ETFs. The ETF industry experienced remarkable growth in 2024, with global assets under management (AUM) reaching $14.8 trillion by the […]",
+      "published_utc": "2025-03-25T05:20:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1f1296bcda789d5aa2cddccf62c95dc79262f80582adb2aeb7f6b4faf01c93d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360225,
+      "datetime": 1742851251
+    },
+    {
+      "title": "Apple iPhone Owners Are Postponing Upgrades, Survey Shows",
+      "description": "Apple iPhone owners are waiting longer to upgrade their handsets, according to a new study. And that is a negative for Apple stock.",
+      "published_utc": "2025-03-25T04:34:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73996e21bb671b7bd0f0e9f9344f3c2b3947e703957e6185b6bed9a9ed1f7de6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360226,
+      "datetime": 1742848465
+    },
+    {
+      "title": "Is Apple Inc. (AAPL) Widely Held by Individuals in 2025?",
+      "description": "We recently compiled a list of the 12 Most Widely Held Stocks by Individuals in 2025. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other stocks widely held by individuals in 2025. Individual investors, often called retail investors, typically invest their personal capital directly into […]",
+      "published_utc": "2025-03-25T03:50:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3237edff28ecabd7944e4754a02aae35c3f5db56459876ac0356880581da6ae6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360227,
+      "datetime": 1742845808
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:08.532585+00:00",
+    "cache_key": "news_b61f8feab0e32664c72dabeb52a34ccc",
+    "count": 5
+  }
+}

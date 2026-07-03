@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com, Inc. (AMZN) – AWS Teams Up with NICE to Power CXone Mpower and Revolutionize AI Customer Service",
+      "description": "We recently published a list of 10 AI Stocks Surging on News and Ratings. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other AI stocks surging on news and ratings. According to Daniel Ives, global head of technology research at Wedbush Securities, the US- China agreement […]",
+      "published_utc": "2025-05-14T05:44:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=184a66267a9811032dbca2ba2fca802253714ca261893fe6715442038f311e65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460605,
+      "datetime": 1747172655
+    },
+    {
+      "title": "Top Stock Reports for Microsoft, Amazon.com & Mastercard",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Microsoft Corp. (MSFT), Amazon.com, Inc. (AMZN) and Mastercard Inc. (MA), as well as a micro-cap stock CBL & Associates Properties, Inc. (CBL).",
+      "published_utc": "2025-05-14T04:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cee9458ab56804c112f1edc4f69910eee88cce7360c21b703050a879fbdc60f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460606,
+      "datetime": 1747168980
+    },
+    {
+      "title": "Nvidia, Amazon, Google Announce AI Collaborations With Saudi Arabia's Humain",
+      "description": "Nvidia (NVDA), Amazon (AMZN) and Alphabet's (GOOG, GOOGL) Google were among US companies that announ",
+      "published_utc": "2025-05-14T04:26:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ead6a3ba4834f10efb7a2e43fabf77b2527e32babf0a39bf282ac0305cda90b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460607,
+      "datetime": 1747167978
+    },
+    {
+      "title": "These Stocks Moved the Most Today: UnitedHealth, Nvidia, Tesla, First Solar, Coinbase, Palantir, Super Micro, Boeing, Rigetti, and More",
+      "description": "UnitedHealth names a new CEO and suspends its 2025 outlook, Nvidia’s market caps crosses $3 trillion, and Coinbase shares jump after it was announced the cryptocurrency trading platform will be added to the S&P 500.",
+      "published_utc": "2025-05-14T04:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d24e16051ab71313ea954badb9a7b48a4f0fbff80a96e0212902db0761334b48",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460608,
+      "datetime": 1747167900
+    },
+    {
+      "title": "Tracking Christopher Davis' Davis Selected Advisers 13F Portfolio - Q1 2025 Update",
+      "description": "Davis Selected Advisersâ 13F portfolio value increased to $17.35B, with the number of holdings rising from 100 to 104. Learn more about the portfolio here.",
+      "published_utc": "2025-05-14T04:09:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad893fda7efff23edddd51ef47b42c28e4a61952dee0627cf6e215442dd95b5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1200139358/image_1200139358.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134425396,
+      "datetime": 1747166969
+    }
+  ]
+}

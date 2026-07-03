@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Nikola Corporation: Bankruptcy Likely To Wipe Out Equity Holders - Strong Sell",
+      "description": "Nikola files for bankruptcy amid mounting liabilities. Learn about its asset auction, struggles, and a potential delisting. Click to read why NKLA is a Strong Sell.",
+      "published_utc": "2025-02-20T00:37:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=34d7c113edc40e8b9a065eaeac0719fee4902b7cc7262bb284128e1cb22532bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1670721624/image_1670721624.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132791157,
+      "datetime": 1739983049
+    },
+    {
+      "title": "This ‘divide and conquer’ investing strategy can lead you to stock-market winners",
+      "description": "This ‘divide and conquer’ investing strategy can lead you to stock-market winners",
+      "published_utc": "2025-02-20T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2be3b8fa998717e22188e37817fd8fa2c62d4f3fb68bac147b671e13d9789feb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132795269,
+      "datetime": 1739982660
+    },
+    {
+      "title": "Companies Are Holding Back on M&A. Where the Next Deals Will Happen.",
+      "description": "Companies Are Holding Back on M&A. Where the Next Deals Will Happen.",
+      "published_utc": "2025-02-19T23:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b99320f60eb621aacc6a17a8f78e816f6ca595fb2b2b6dbdf528126577e975c7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132796883,
+      "datetime": 1739980320
+    },
+    {
+      "title": "BNY Mellon Dynamic Value Fund Q4 2024 Commentary",
+      "description": "BNY Mellon Dynamic Value Fund (Class A at NAV) returned -1.48% during the fourth quarter of 2024. Read more here.",
+      "published_utc": "2025-02-19T17:53:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf822d50a15f8bfa1f0f63c3bb7b9fc6e975e94932fb7601cedb02636335ac8d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193247114/image_2193247114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784395,
+      "datetime": 1739958780
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:46.319739+00:00",
+    "cache_key": "news_2028ca30be94aee87bce3a3bea2ce3b9",
+    "count": 4
+  }
+}

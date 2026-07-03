@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Biggest Winner of the Second Half of 2025",
+      "description": "While cloud and chip stocks remain hot, I see a beaten-down artificial intelligence (AI) stock positioned for a comeback over the next six months.",
+      "published_utc": "2025-06-19T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=829e5f9037d215604f28bb271e66578dce58bdfa291ef4081afed5b17e2d8c33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375338,
+      "datetime": 1750284000
+    },
+    {
+      "title": "Amazon CEO Andy Jassy says company will cut jobs amid AI boom. It's already happening at Microsoft.",
+      "description": "Amazon CEO Andy Jassy said the company will reduce its workforce, and Microsoft is reportedly planning thousands of layoffs, just as the two companies invest billions in AI.",
+      "published_utc": "2025-06-19T05:38:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b4df4be36bacf5038d5bc6768a9101be078cb39caaaeeb5f7fc9c967378a727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375149,
+      "datetime": 1750282727
+    },
+    {
+      "title": "Microsoft Stock Just Hit a Fresh High; Company Plans to Trim Thousands of Jobs, Report Says",
+      "description": "Microsoft is reportedly planning to trim thousands of jobs, particularly in sales, as the tech giant faces pressure to lower labor costs while it boosts spending on artificial intelligence.",
+      "published_utc": "2025-06-19T05:35:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e190a270efe576890bc97375dc508a4444b29974c047f97fd610ac52ada360b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375151,
+      "datetime": 1750282539
+    },
+    {
+      "title": "Microsoft Plans to Cut Thousands More Employees",
+      "description": "Microsoft  is planning to lay off several thousand employees in the next few weeks, looking to thin out its ranks while continuing its costly push into artificial intelligence.  The number of cuts isn’t yet final, and they are planned for around the beginning of Microsoft’s new fiscal year, which starts in July, they said.  On Tuesday, Amazon CEO  Andy Jassy  said the company planned to reduce its workforce in the coming years because increasing use of artificial intelligence will eliminate the need for certain roles.",
+      "published_utc": "2025-06-19T05:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7630ae7d6e4a1f2e2e44b7029ffa487b334e8a544431f9744bde0034dbbc8abe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375152,
+      "datetime": 1750281540
+    },
+    {
+      "title": "Microsoft's reported job cuts & OpenAI beef: What to know",
+      "description": "Microsoft (MSFT) is reportedly planning to cut thousands of jobs, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley outlines the latest, including how the tech giant's hefty artificial intelligence (AI) spending, notably its multibillion-dollar partnership with OpenAI (OPAI.PVT), could intensify the need to cut costs. This comes amid reported turmoil between Microsoft and OpenAI. The Wall Street Journal reports that the ChatGPT maker has considered pushing for an antitrust case against its partner, while the Financial Times reports that Microsoft is ready to walk away from the deal. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-19T05:02:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86777cf628a781efcbfb47bc218fd65bfe07259dc69a552cbadee20d2a13460f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375915,
+      "datetime": 1750280524
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:42.137889+00:00",
+    "cache_key": "news_5ce719d255f6dc84af2bffd2f540ed89",
+    "count": 5
+  }
+}

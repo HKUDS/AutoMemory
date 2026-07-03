@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "More Jittery Than A Pigeon In A Ping-Pong Room",
+      "description": "Stocks mostly continued their slide today, but rebounded from an opening crash to something resembling normal volatility.",
+      "published_utc": "2025-04-08T05:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a30ca95a1ccd1c3ff6e0d725bbcaa7ab1169d0143306d6b794cd8a1a70113007",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397937755/image_1397937755.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133762153,
+      "datetime": 1744059600
+    },
+    {
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "description": "Tech stocks were advancing late Monday afternoon, with the Technology Select Sector SPDR Fund (XLK)",
+      "published_utc": "2025-04-08T03:57:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51f928d6204a0ad4be0ded48c8e4a42eecd231eced96c9f338e360885f69c4b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133747261,
+      "datetime": 1744055856
+    },
+    {
+      "title": "Apple vs. UK: The Explosive Privacy Battle Big Tech Can't Ignore",
+      "description": "Apple pulls key iPhone features in the UK as a secretive government clash goes public--shaking global privacy norms.",
+      "published_utc": "2025-04-08T03:42:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9799491627b5b07c1c5757ba152646d1b7f8983c9c22dcde9cf1776e8ef2b91b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133747262,
+      "datetime": 1744054949
+    },
+    {
+      "title": "Apple Users Rush to Upgrade iPhones Ahead of Potential Tariffs-Related Price Hikes",
+      "description": "Apple Users Rush to Upgrade iPhones Ahead of Potential Tariffs-Related Price Hikes",
+      "published_utc": "2025-04-08T03:34:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c9d82640691eb65861229bc216848d7ae18af35dd4c522fbf735113c3da937e9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133771508,
+      "datetime": 1744054440
+    },
+    {
+      "title": "Jim Cramer on Apple Inc. (AAPL): “It’s Bad. I’m Not Gonna Tell You It’s Good” – China Risk Looms Large",
+      "description": "We recently published a list of Jim Cramer Reveals Stocks Benefiting From Tariff Selloff & Discusses These 8 Stocks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC’s Squawk on the Street on Thursday, Jim Cramer […]",
+      "published_utc": "2025-04-08T03:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=179c0ffdbc8f76c72cdf83106b9f77531a3fdc69d4a137a30b20cf35ede19a7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133747263,
+      "datetime": 1744052760
+    }
+  ]
+}

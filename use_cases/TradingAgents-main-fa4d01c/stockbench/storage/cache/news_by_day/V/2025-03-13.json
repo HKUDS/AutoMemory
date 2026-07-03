@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Visa (V) Gains But Lags Market: What You Should Know",
+      "description": "Visa (V) concluded the recent trading session at $332.92, signifying a +0.23% move from its prior day's close.",
+      "published_utc": "2025-03-13T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd48dd1cc192f3c0a459ccb585cb824b26539768174fbfbbe8640270044d2d80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184298,
+      "datetime": 1741815916
+    }
+  ]
+}

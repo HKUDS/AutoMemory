@@ -1,0 +1,86 @@
+{
+  "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: a natural forget request that paraphrases a corrected runtime requirement should deactivate the matching active fact without relying on hard-coded subject terms.",
+  "turns": [
+    {
+      "role": "user",
+      "content": "Remember: the API client package must pin Node 20.11 for Lambda builds.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-runtime" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: correction, the API client package must pin Node 22.13 for Lambda builds.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-runtime" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: release branches deploy only from staging-west.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-runtime" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: the user prefers short test summaries.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-runtime" }
+    },
+    {
+      "role": "user",
+      "content": "Please forget the runtime requirement for Lambda builds.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-runtime" }
+    },
+    { "role": "agent", "content": "Acknowledged and moving to unrelated work.", "used_for_evaluation": false },
+    { "role": "tool", "content": "noise: package search returned many Node references", "used_for_evaluation": false },
+    { "role": "agent", "content": "Filtered the unrelated Node references.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: billing smoke tests use TEST_BILLING_QUEUE=memory.", "used_for_evaluation": false, "metadata": { "session_id": "fact-runtime" } },
+    { "role": "tool", "content": "noise: formatter checked billing files", "used_for_evaluation": false },
+    { "role": "agent", "content": "No formatter changes.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false, "metadata": { "retention_flush": true } },
+    { "role": "user", "content": "Remember: release notes must mention queue isolation.", "used_for_evaluation": false, "metadata": { "session_id": "fact-runtime" } },
+    { "role": "agent", "content": "Stored the release note convention.", "used_for_evaluation": false },
+    { "role": "tool", "content": "noise: grep found Lambda in archived docs", "used_for_evaluation": false },
+    { "role": "agent", "content": "The archived docs are unrelated.", "used_for_evaluation": false },
+    { "role": "system", "content": "final noise marker", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What active Node runtime memory remains for Lambda builds?",
+      "expected_information": [
+        {
+          "value": "^(?![\\s\\S]*Node 20\\.11)(?![\\s\\S]*Node 22\\.13)[\\s\\S]*$",
+          "matcher": "regex",
+          "description": "The paraphrased runtime forget should remove both the old and corrected active runtime fact."
+        }
+      ]
+    },
+    {
+      "query": "Where do release branches deploy from?",
+      "expected_information": [
+        { "value": "staging-west", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What summary style does the user prefer?",
+      "expected_information": [
+        { "value": "short test summaries", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What billing smoke test environment is remembered?",
+      "expected_information": [
+        { "value": "TEST_BILLING_QUEUE=memory", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What should release notes mention?",
+      "expected_information": [
+        { "value": "queue isolation", "matcher": "substring" }
+      ]
+    }
+  ]
+}

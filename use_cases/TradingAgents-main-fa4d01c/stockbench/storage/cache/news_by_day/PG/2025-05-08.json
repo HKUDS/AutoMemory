@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is The Procter & Gamble Company (PG) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where The The Procter & Gamble Company (NYSE:PG) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents […]",
+      "published_utc": "2025-05-08T02:51:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b22578c9c6d146404064722864e1a47fbb05b2d1312e65ab7d2e65b78030cc8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316714,
+      "datetime": 1746643894
+    }
+  ]
+}

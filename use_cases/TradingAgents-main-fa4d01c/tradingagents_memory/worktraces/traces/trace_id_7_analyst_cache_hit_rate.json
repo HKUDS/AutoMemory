@@ -1,0 +1,92 @@
+{
+  "trace_id": "trace_id_7_analyst_cache_hit_rate",
+  "memory_path": "analyst_cache",
+  "eval_mode": "hit_rate",
+  "focus": "Write-then-read hits, miss on wrong key, miss before write, overwrite correctness",
+  "checks": [
+    {
+      "label": "market_hit_NVDA",
+      "write_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "market", "report": "NVDA market analysis: bullish momentum, 50-day MA support, RSI 62, target $190."},
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "market"},
+      "expected_output": "bullish momentum",
+      "expected_none": false
+    },
+    {
+      "label": "social_hit_NVDA",
+      "write_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "social", "report": "NVDA social sentiment: highly positive, trending on financial forums, retail piling in."},
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "social"},
+      "expected_output": "highly positive",
+      "expected_none": false
+    },
+    {
+      "label": "news_hit_NVDA",
+      "write_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "news", "report": "NVDA news: Blackwell chip demand exceeding supply. Export license renewed for key markets."},
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "news"},
+      "expected_output": "Blackwell chip",
+      "expected_none": false
+    },
+    {
+      "label": "fundamentals_hit_NVDA",
+      "write_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "fundamentals", "report": "NVDA fundamentals: revenue $35B quarterly, gross margin 76%, FCF $18B, P/E 45x."},
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "fundamentals"},
+      "expected_output": "gross margin 76%",
+      "expected_none": false
+    },
+    {
+      "label": "market_hit_AAPL_different_ticker",
+      "write_input": {"ticker": "AAPL", "trade_date": "2026-01-10", "analyst_type": "market", "report": "AAPL market analysis: trading near resistance at $230, RSI 55, iPhone cycle watch."},
+      "read_input": {"ticker": "AAPL", "trade_date": "2026-01-10", "analyst_type": "market"},
+      "expected_output": "iPhone cycle watch",
+      "expected_none": false
+    },
+    {
+      "label": "market_hit_NVDA_different_date",
+      "write_input": {"ticker": "NVDA", "trade_date": "2026-01-15", "analyst_type": "market", "report": "NVDA market 0115: pre-earnings technical setup, tight consolidation, volume drying up."},
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-15", "analyst_type": "market"},
+      "expected_output": "pre-earnings technical setup",
+      "expected_none": false
+    },
+    {
+      "label": "overwrite_same_key_returns_new_content",
+      "write_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "market", "report": "NVDA market UPDATED: post-earnings gap up, new target $210, buy on strength."},
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "market"},
+      "expected_output": "post-earnings gap up",
+      "expected_none": false
+    },
+    {
+      "label": "miss_wrong_date",
+      "write_input": null,
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-99", "analyst_type": "market"},
+      "expected_output": "",
+      "expected_none": true
+    },
+    {
+      "label": "miss_wrong_analyst_type",
+      "write_input": null,
+      "read_input": {"ticker": "NVDA", "trade_date": "2026-01-10", "analyst_type": "macro"},
+      "expected_output": "",
+      "expected_none": true
+    },
+    {
+      "label": "miss_wrong_ticker",
+      "write_input": null,
+      "read_input": {"ticker": "TSLA", "trade_date": "2026-01-10", "analyst_type": "market"},
+      "expected_output": "",
+      "expected_none": true
+    },
+    {
+      "label": "miss_empty_report_not_cached",
+      "write_input": {"ticker": "TESTX", "trade_date": "2026-01-10", "analyst_type": "market", "report": ""},
+      "read_input": {"ticker": "TESTX", "trade_date": "2026-01-10", "analyst_type": "market"},
+      "expected_output": "",
+      "expected_none": true
+    },
+    {
+      "label": "hit_whitespace_only_report_not_cached",
+      "write_input": {"ticker": "TESTX2", "trade_date": "2026-01-10", "analyst_type": "market", "report": "   "},
+      "read_input": {"ticker": "TESTX2", "trade_date": "2026-01-10", "analyst_type": "market"},
+      "expected_output": "",
+      "expected_none": true
+    }
+  ]
+}

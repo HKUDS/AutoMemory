@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Franklin Global Equity Fund Q1 2025 Commentary",
+      "description": "Stock selection was mixed at the region and sector level and modestly detracted overall. Click here to read the full commentary.",
+      "published_utc": "2025-05-01T07:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=add304a3ab757e79b9ad0319825662e9fcf86ab08aa9fe55c09c3b0c156d77d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151312477/image_2151312477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165585,
+      "datetime": 1746057000
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN): Will AI Spending Cuts Signal Recession? Citi Sticks With Its Buy Call",
+      "description": "We recently published a list of 12 AI Stocks Making Waves Today. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other AI stocks making waves today. China’s foreign ministry recently released a video on its social media feeds, complete with a voice-over in American-accented English, comparing […]",
+      "published_utc": "2025-05-01T07:39:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc764e7ce30a014ae1ccfa0585a5d226e5a64fce6686bbd57a54797d480f2847",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165741,
+      "datetime": 1746056361
+    },
+    {
+      "title": "Amazon and Apple earnings coverage, Eli Lilly: What to Watch",
+      "description": "Market Domination Overtime hosts Julie Hyman and Josh Lipton preview several of the biggest stories and reports due out tomorrow, Thursday, May 1, including Apple (AAPL) and Amazon's (AMZN) respective quarterly earnings results alongside Eli Lilly (LLY), Mastercard (MA), McDonald's (MCD), and CVS Health (CVS). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-05-01T07:00:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df2b9307b9d5d0e211a07c09f4c5130fc294ec295df18da85e79cbabe9ceb01d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165686,
+      "datetime": 1746054052
+    },
+    {
+      "title": "Amazon Plans to Invest $4 Billion by 2026 to Speed Up Deliveries in Rural America",
+      "description": "Amazon  said it plans to invest $4 billion to expand its delivery network in small towns across the U.S.  The investment will grow its rural network footprint to over 200 delivery stations, Amazon said on Wednesday.  “While many logistics providers have backed away from investing in rural customers and communities, we’re doing the opposite,” said Udit Madan, Amazon’s senior vice president of worldwide operations, in a press release.",
+      "published_utc": "2025-05-01T06:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c07dad525c5d4212b4413faa98c131e19be7ea6a2f1111dacfffd648f7047040",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165743,
+      "datetime": 1746051180
+    },
+    {
+      "title": "Top Stock Reports for Amazon.com, Johnson & Johnson & Cisco Systems",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Amazon.com, Inc. (AMZN), Johnson & Johnson (JNJ) and Cisco Systems, Inc. (CSCO), as well as a micro-cap NeurAxis, Inc. (NRXS).",
+      "published_utc": "2025-05-01T05:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c093f1335c7912e26ecda027ce068191992e96550f94d1685875a269a6a5c236",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165744,
+      "datetime": 1746046920
+    }
+  ]
+}

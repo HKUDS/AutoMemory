@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Prediction: These 5 First-Half AI Stock Losers Will Be Second-Half Winners",
+      "description": "Alphabet and GitLab are misunderstood stocks that are poised to be AI winners.  Salesforce and ServiceNow are software companies with big AI opportunities in front of them.  SentinelOne has a big potential catalyst in the second half as its deal with Lenovo rolls out.",
+      "published_utc": "2025-07-20T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a3c0fd9b9c8fde40b230c74a01edc57f7f78804d40e1a9c6b336d81ef0e4a95",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019647,
+      "datetime": 1753016400
+    },
+    {
+      "title": "Prediction: 3 Stocks That Will Be Worth More Than Palantir 5 Years From Now",
+      "description": "Palantir's stock price has risen much faster than its business has grown.  ASML, Salesforce, and IBM all have strong investments in AI.  Palantir Technologies (NASDAQ: PLTR) experienced a significant rise over the past few years and is now the 24th largest company by market capitalization globally.",
+      "published_utc": "2025-07-20T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71ee008147c3e35f732c090ef3f67b86cf9c6e4d4f2ec27bfbf1f9f42d9f2288",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019745,
+      "datetime": 1753005600
+    }
+  ]
+}

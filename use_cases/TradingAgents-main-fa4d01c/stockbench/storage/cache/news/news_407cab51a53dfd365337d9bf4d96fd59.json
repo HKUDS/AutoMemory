@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "title": "Decoding Home Depot's High P/E Ratio: Bargain Buy or Overpriced Risk?",
+      "description": "While the near-term outlook suggests continued operating challenges for HD in fiscal 2025, its One Home Depot strategy and execution indicate long-term growth potential.",
+      "published_utc": "2025-03-10T23:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5babb74bb26383510c7255bf41da99b77f04f34e094a44d0765084f65adce6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184525,
+      "datetime": 1741621380
+    },
+    {
+      "id": "9b97ba27ef678e48a826996b1d9430379931ad8d0c2e3a9a22bf6151b1ee6c82",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the Vanguard High Dividend Yield ETF the Smartest Investment You Can Make Today?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-10T10:11:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/10/is-the-vanguard-high-dividend-yield-etf-the-smarte/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "IMKTF",
+        "ONEQ",
+        "ABBV",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "HD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WMT",
+        "AVGO",
+        "JNJ",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810259/getty-dividend-income.jpg",
+      "description": "The Vanguard High Yield Dividend ETF (VYM) is a smart investment option during the current market uncertainty, as it provides consistent dividend income and is diversified across sectors. The ETF has a low expense ratio and its top holdings are well-established blue-chip stocks.",
+      "keywords": [
+        "Vanguard High Dividend Yield ETF",
+        "dividend investing",
+        "market uncertainty",
+        "diversification",
+        "expense ratio"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the benefits of the Vanguard High Yield Dividend ETF, including its consistent dividend income, diversification across sectors, and low expense ratio, making it a smart investment option during the current market uncertainty."
+        },
+        {
+          "ticker": "IMKTF",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the recent performance of the S&P 500 index, but does not make a strong positive or negative assessment of the index."
+        },
+        {
+          "ticker": "ONEQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the recent performance of the Nasdaq Composite index, but does not make a strong positive or negative assessment of the index."
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists AbbVie as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Bank of America as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Home Depot as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists JPMorgan Chase as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Walmart as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Broadcom as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Johnson & Johnson as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Wells Fargo as one of the top holdings of the Vanguard High Yield Dividend ETF, indicating that the company is viewed positively as a well-established blue-chip stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:54.121766+00:00",
+    "cache_key": "news_407cab51a53dfd365337d9bf4d96fd59",
+    "count": 2
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "title": "Walmart, Home Depot share gains contribute to Dow's 236-point climb",
+      "description": "Walmart, Home Depot share gains contribute to Dow's 236-point climb",
+      "published_utc": "2025-02-25T23:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e023b6578b940024f7b428d23001d3302559880734b587eb9555b29673277bd2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881889,
+      "datetime": 1740496800
+    },
+    {
+      "title": "Home Depot, Walmart share gains contribute to Dow's 118-point climb",
+      "description": "Home Depot, Walmart share gains contribute to Dow's 118-point climb",
+      "published_utc": "2025-02-25T20:43:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=23886a01e0e97de982f764d310e57b084be68ad289ffcde3906a14232bfd205d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881890,
+      "datetime": 1740487380
+    },
+    {
+      "title": "10 Undervalued Dividend Growth Stocks: February 2025",
+      "description": "",
+      "published_utc": "2025-02-25T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=712bdbf6ff26876ba20b43ef010c2f165ae8a0261b7c844089b2f5a9c9a4686a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132870866,
+      "datetime": 1740474000
+    },
+    {
+      "id": "3b6ba9535d0a954bf51b39b05310da2ea191bbecfd73df82ef42f26e888876fa",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These 3 Dow Jones Stocks Are Crushing It in 2025. Are They Still Buys?",
+      "author": "Keith Speights",
+      "published_utc": "2025-02-25T09:53:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/25/these-3-dow-jones-stocks-are-crushing-it-in-2025-a/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "AMGN",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808714/rocket-drawn-with-ben-franklin-from-100-bill.jpg",
+      "description": "Three Dow Jones stocks - IBM, Amgen, and Coca-Cola - have performed exceptionally well so far in 2025, with gains of nearly 20%, 16%, and 15% respectively. IBM's strong AI business, Amgen's FDA approval and growing free cash flow, and Coca-Cola's impressive dividend streak are the key drivers behind their success.",
+      "keywords": [
+        "Dow Jones",
+        "IBM",
+        "Amgen",
+        "Coca-Cola",
+        "AI",
+        "Dividend"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM's strong performance is driven by its growing AI business, which has a $5 billion book of business, and its ability to potentially benefit from the disruption caused by cheaper AI solutions like DeepSeek."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amgen's stock has rebounded in 2025 after a decline in 2024, driven by its strong Q4 earnings, double-digit sales growth for 10 of its products, and the FDA approval of its drug Lumakras for treating colorectal cancer."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola's stock has surged nearly 15% year-to-date, putting it near its all-time high. The company's strong Q4 results, market share gains, and its 63rd consecutive annual dividend increase have contributed to this performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:39.089046+00:00",
+    "cache_key": "news_bbe52e8cc8acfc1d6ce8dbb348d361ea",
+    "count": 4
+  }
+}

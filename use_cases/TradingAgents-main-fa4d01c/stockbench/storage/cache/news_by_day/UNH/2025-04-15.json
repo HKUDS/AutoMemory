@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Will more people ride out a trade war with Netflix? The streamer’s results will offer clues.",
+      "description": "Will more people ride out a trade war with Netflix? The streamer’s results will offer clues.",
+      "published_utc": "2025-04-15T01:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=45dc92ee46156ae15f334bde3e2418102fa747c0951bc5c381d0922456a83f78",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133912199,
+      "datetime": 1744650300
+    },
+    {
+      "title": "What Makes UnitedHealth Group (UNH) a Strong Momentum Stock: Buy Now?",
+      "description": "Does UnitedHealth Group (UNH) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+      "published_utc": "2025-04-15T00:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15c8290f1c110eb0ac519d3261dcb55195687f1c069015b2412a101de7e82ad4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908193,
+      "datetime": 1744646403
+    }
+  ]
+}

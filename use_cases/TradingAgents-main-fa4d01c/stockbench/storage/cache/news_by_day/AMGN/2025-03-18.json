@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Why Organon Is A Top Pick For Income Investors",
+      "description": "In mid-Feb., Organon pleasantly surprised me with its financial results for Q4 2024. Read why I believe OGN is an attractive stock for income-oriented investors.",
+      "published_utc": "2025-03-18T06:58:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=697fea97f771736843602e4ccd567ee09566458d477be611dbdde99159b46b96",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1472143072/image_1472143072.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133211092,
+      "datetime": 1742252303
+    },
+    {
+      "title": "Amgen (AMGN) Exceeds Market Returns: Some Facts to Consider",
+      "description": "The latest trading day saw Amgen (AMGN) settling at $317.17, representing a +1.1% change from its previous close.",
+      "published_utc": "2025-03-18T06:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39a7526e301ae46718f93ca90446d42e78c0cf2243de614387f1f7b888401add",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325064,
+      "datetime": 1742248814
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-03-18T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b84354278886d46450c4886dc57317fd75b574e723fd3f35db099d58b77c4635",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133215119,
+      "datetime": 1742229240
+    },
+    {
+      "title": "AMGN Posts Upbeat Data on Uplizna From Myasthenia Gravis Study",
+      "description": "New late-stage study data shows that treatment with Amgen's Uplizna for a year improves disease symptoms in patients with generalized myasthenia gravis.",
+      "published_utc": "2025-03-18T00:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d033066f1282fe2483d1e26fd1f36d59fa00dafcbd8aa32ca43a0dbbfb9afa4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325065,
+      "datetime": 1742227500
+    }
+  ]
+}

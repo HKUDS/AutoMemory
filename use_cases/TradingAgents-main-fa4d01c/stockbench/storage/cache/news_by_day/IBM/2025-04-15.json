@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Exceeds Market Returns: Some Facts to Consider",
+      "description": "IBM (IBM) concluded the recent trading session at $239.06, signifying a +1.52% move from its prior day's close.",
+      "published_utc": "2025-04-15T05:45:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ef35d665ce54310dd695e0778482db21558a9a3b5fa964c52fb2654e6cd274c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917788,
+      "datetime": 1744667115
+    }
+  ]
+}

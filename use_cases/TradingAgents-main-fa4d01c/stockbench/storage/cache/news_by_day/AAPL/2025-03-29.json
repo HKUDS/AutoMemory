@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stocks Falling On Earnings - What To Do? February Dividend Income Report",
+      "description": "",
+      "published_utc": "2025-03-29T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=126b71e862da1d86bb1eb4bd6158c1fcb9a7e75c52ee15fdc30b7c28db6d7cde",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133533973,
+      "datetime": 1743244200
+    }
+  ]
+}

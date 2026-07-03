@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Names COO Joseph Creed as Next CEO",
+      "description": "Caterpillar (CAT) on Tuesday named Joseph Creed as the company's next chief executive, succeeding D.",
+      "published_utc": "2025-04-16T03:50:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6c32241121180e802d64be546edf8d43ebf6373bff6170301ba063f913be955",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932819,
+      "datetime": 1744746604
+    },
+    {
+      "title": "Caterpillar (NYSE:CAT) Announces CEO Transition With Joseph E. Creed Succeeding Umpleby",
+      "description": "Caterpillar (NYSE:CAT) recently announced a significant executive leadership change, with Joseph E. Creed appointed as the new CEO effective May 1, 2025. This leadership transition, along with adjustments to executive compensation, appears timely with the company's stock seeing a 6% rise last week. This move aligned closely with broader market trends where major indexes were buoyed by tech and bank stocks amid easing U.S.-China trade tensions. Within this context, Caterpillar's announcements...",
+      "published_utc": "2025-04-16T01:38:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a515eaec47200264f6e2f2c10b703948375ed604816fbdd07e0c172715cf769d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133927993,
+      "datetime": 1744738738
+    },
+    {
+      "title": "Caterpillar: Not Bottomed Yet; Sales Down, Tariffs Up",
+      "description": "",
+      "published_utc": "2025-04-16T00:28:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=043d1829858070e8eb66c4cdfef7f61f7a7a2368b7f386fa528eabb8ad833f82",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133928741,
+      "datetime": 1744734535
+    },
+    {
+      "title": "Cat Stock Wobbles With New CEO. It’s Steady as They Go.",
+      "description": "Cat Stock Wobbles With New CEO. It’s Steady as They Go.",
+      "published_utc": "2025-04-16T00:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6caa80d8e5075351e39f34699973ef1770c52db5fbdf72b2fbc2a44a93d20df6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134148716,
+      "datetime": 1744733820
+    },
+    {
+      "title": "Wall Street sees strategic continuity as Caterpillar names Creed CEO",
+      "description": "Investing.com -- Caterpillar’s appointment of insider Joe Creed as its next chief executive, was dubbed a “well-telegraphed transition” by Wall Street that ensures strategic continuity at a pivotal time for the construction and machinery giant.",
+      "published_utc": "2025-04-15T23:15:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=695090832312c90f717bfac96fba49e81551f6d7567d0dba0832e3c14c8d2379",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133922221,
+      "datetime": 1744730102
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:11.923331+00:00",
+    "cache_key": "news_22bdf9bbb5812e5f331873ec487a8ff5",
+    "count": 5
+  }
+}

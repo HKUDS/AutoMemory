@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce’s Longtime Operating Chief Millham to Retire; Washington Named Successor and Financial Chief",
+      "description": "Operating Chief Brian Millham to exit after more than 25 at the company. Incoming CFO Robin Washington has served on Salesforce’s board since 2013.",
+      "published_utc": "2025-02-06T06:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05f8afaf09fb5c471fb8d53194687862d372e54fb3e2990457682339bccb053a",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132628054,
+      "datetime": 1738793760
+    },
+    {
+      "title": "Salesforce (CRM) Restructures for AI Push – 1,000 Cuts, Thousands of New Hires",
+      "description": "We recently published a list of 8 AI Stocks Sending Shockwaves on Wall Street Following DeepSeek Scare. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other AI stocks sending shockwaves on Wall Street following DeepSeek scare. The pace of artificial intelligence development and deployment is “pretty […]",
+      "published_utc": "2025-02-06T06:04:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6acc9844b7c7d3cdbb6978cf9cc937dbce5af7dbde941018eeae821905a3d39c",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/V4tGuBo0fm2vOSewxPjpmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132628055,
+      "datetime": 1738793081
+    },
+    {
+      "title": "Salesforce Appoints Robin Washington as President and Chief Operating and Financial Officer",
+      "description": "SAN FRANCISCO, February 05, 2025--Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced that Robin Washington will become President and Chief Operating and Financial Officer (COFO), effective March 21, 2025. In this newly created role, Washington will lead Salesforce’s next phase of transformation—driving profitable growth, operational excellence, and financial strategy—while accelerating the transformation of every company into an Agentforce company, in the new agentic era.",
+      "published_utc": "2025-02-06T05:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15e675725e4b6850385b4f022f15db6324c54aa9c4f4edfe531336f96dd202c5",
+      "category": "company",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132628056,
+      "datetime": 1738789500
+    },
+    {
+      "title": "Salesforce Announces Timing of its Fourth Quarter and Full Year Fiscal 2025 Results Conference Call",
+      "description": "SAN FRANCISCO, February 05, 2025--Salesforce Announces Timing of its Fourth Quarter and Full Year Fiscal 2025 Results Conference Call",
+      "published_utc": "2025-02-06T05:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71fc3ad0bf58f7a62c9f28c4dbf7e40115dd85e0d7a9cbc0e344269b518fae68",
+      "category": "company",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132628057,
+      "datetime": 1738789260
+    },
+    {
+      "title": "Salesforce's Longtime Operating Chief Millham to Retire; Washington Named Successor and Financial Chief",
+      "description": "By Emon Reiser Salesforce has appointed Robin Washington as its incoming chief operating officer and chief financial officer and announced that current Operating Chief Brian Millham would retire...",
+      "published_utc": "2025-02-06T01:06:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3713b36a79e6a24d105484f0f28b7d61e85ef9282a788b6280bec2f75a9984f4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568408,
+      "datetime": 1738775167
+    }
+  ]
+}

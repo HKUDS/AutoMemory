@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Stock Today: This Bear Call Spread Could Earn A 23% Return By Mid-April",
+      "description": "Let's look at a bearish play on Dow Jones Industrial Average component Caterpillar with a bear call spread trade in the options of Caterpillar stock.  The stock market rally on Friday provided investors with some relief, but that may be short-lived as stocks remain under serious selling pressure.  When a stock trades below a declining moving average, the moving average can provide potential resistance on any bounce attempt.",
+      "published_utc": "2025-03-18T01:20:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edb24223762c7c4ed3e2b6e8aeda4f0d149781193fb7eb93379e8f5c8fe64c60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325094,
+      "datetime": 1742232035
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:45.830002+00:00",
+    "cache_key": "news_1bf893315d07cccdd2260efa23b1e122",
+    "count": 1
+  }
+}

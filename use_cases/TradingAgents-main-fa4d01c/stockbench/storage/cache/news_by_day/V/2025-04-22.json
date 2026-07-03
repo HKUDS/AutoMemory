@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Top Research Reports for Visa, ServiceNow & Progressive",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Visa Inc. (V), ServiceNow, Inc. (NOW) and The Progressive Corporation (PGR), as well as two micro-cap stocks The Monarch Cement Company (MCEM) and Precipio, Inc. (PRPO).",
+      "published_utc": "2025-04-22T04:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db8b0e6109c1a0e71cb02dda6d3fbbed439726fe1ea88079842393bb03f675bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031896,
+      "datetime": 1745268540
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Monday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-04-22T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f464b892ecf0c4f153e4d8d3be4e9b534fcbadf9e11debe27c3f4c2b11f5bd1d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052752,
+      "datetime": 1745253060
+    }
+  ]
+}

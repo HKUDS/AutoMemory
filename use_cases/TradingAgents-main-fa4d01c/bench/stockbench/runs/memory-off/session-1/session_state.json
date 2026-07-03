@@ -1,0 +1,43 @@
+{
+  "dry_run": false,
+  "seed": 42,
+  "symbols": [
+    "AAPL",
+    "AMZN",
+    "MSFT"
+  ],
+  "metrics": {
+    "final_return": 0.018434448946682946,
+    "mean_symbol_return_rate": 0.018434448946682884,
+    "max_drawdown": -0.0032733853161854842,
+    "sortino": 1.7587552582746238,
+    "trades_count": 12,
+    "trades_notional": 79955.1159469122,
+    "per_symbol_return_rate": {
+      "AAPL": 0.01750532241987712,
+      "AMZN": 0.03295300549929907,
+      "MSFT": 0.004845018920872462
+    },
+    "per_symbol_final_value": {
+      "AAPL": 10175.053224198771,
+      "AMZN": 10329.53005499299,
+      "MSFT": 10048.450189208725
+    },
+    "aggregate_initial_cash": 30000.0,
+    "aggregate_final_value": 30553.03346840049,
+    "seed": 42,
+    "condition": "memory-off",
+    "symbols": [
+      "AAPL",
+      "AMZN",
+      "MSFT"
+    ],
+    "start_date": "2025-06-02",
+    "end_date": "2025-06-30",
+    "trading_days": 20,
+    "initial_cash_per_symbol": 10000.0,
+    "final_nav": 30553.03346840049,
+    "flush_events": [],
+    "simulation_mode": "independent_accounts_exec_modes"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is American Express Company (AXP) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, […]",
+      "published_utc": "2025-05-01T02:27:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a3e709b353004d8cbe38e572c1d53fd27f11958410d3f452c5354eb22af1ec6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166068,
+      "datetime": 1746037642
+    }
+  ]
+}

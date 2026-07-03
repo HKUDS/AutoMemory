@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow up 229 points on gains for 3M, Chevron shares",
+      "description": "Dow up 229 points on gains for 3M, Chevron shares",
+      "published_utc": "2025-01-02T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6c84a27b96b3dc870bf2d38d4efa2d1ce8e705b4acf0dcc5183bca4771c28617",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322355,
+      "datetime": 1735811100
+    }
+  ]
+}

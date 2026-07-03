@@ -1,0 +1,254 @@
+{
+  "items": [
+    {
+      "id": "f187d763b6679a63c90ef8e604dbb0bc6d3a8a153784b84e683498216ab34123",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ROSEN, A GLOBAL INVESTOR RIGHTS LAW FIRM, Encourages Perpetua Resources Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action – PPTA",
+      "author": "N/A",
+      "published_utc": "2025-04-27T16:55:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/27/3068830/673/en/ROSEN-A-GLOBAL-INVESTOR-RIGHTS-LAW-FIRM-Encourages-Perpetua-Resources-Corp-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-PPTA.html",
+      "tickers": [
+        "PPTA",
+        "MOV",
+        "UNH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm announces a securities class action lawsuit against Perpetua Resources Corp. (PPTA) for allegedly providing investors with material information concerning the expected initial capital expenditure for the Stibnite Gold Project, while disseminating false and misleading statements about the true cost of the project.",
+      "keywords": [
+        "Perpetua Resources Corp.",
+        "securities class action",
+        "Stibnite Gold Project",
+        "capital expenditure",
+        "false and misleading statements"
+      ],
+      "insights": [
+        {
+          "ticker": "PPTA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article alleges that Perpetua Resources Corp. provided investors with material information concerning the expected initial capital expenditure for the Stibnite Gold Project, while disseminating false and misleading statements about the true cost of the project, which caused investors to suffer damages."
+        },
+        {
+          "ticker": "MOV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions an investigation of potential securities claims on behalf of shareholders of Movado Group, Inc., but does not provide any details about the nature of the investigation or the potential claims."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions an investigation of potential securities claims on behalf of shareholders of UnitedHealth Group Incorporated, but does not provide any details about the nature of the investigation or the potential claims."
+        }
+      ]
+    },
+    {
+      "id": "9929cb64a8589e7700291e2095d364a67543c5db57aa1fcbbe229fb640491262",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "UnitedHealth, T-Mobile And Fiserv Are Among Top 12 Large-Cap Losers Last Week (Apr 21-Apr 25): Are The Others In Your Portfolio?",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-04-27T14:46:46Z",
+      "article_url": "https://www.benzinga.com/news/earnings/25/04/45029247/unitedhealth-t-mobile-and-fiserv-are-among-top-12-large-cap-losers-last-week-apr-21-apr-25-are-the-",
+      "tickers": [
+        "FI",
+        "UNH",
+        "TMUS",
+        "NOC",
+        "ERIE",
+        "WSO",
+        "WSO.B",
+        "GFI",
+        "AON",
+        "AU",
+        "RYAN",
+        "TYL",
+        "KMB"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/04/27/Minnetonka--Mn---usa---August-13--2015-U.jpeg?width=1200&height=800&fit=crop",
+      "description": "Several large-cap stocks, including Fiserv, UnitedHealth, and T-Mobile, were among the top losers last week. The declines were primarily due to factors such as weaker-than-expected financial results, guidance revisions, and analyst price target changes.",
+      "keywords": [
+        "Fiserv",
+        "UnitedHealth",
+        "T-Mobile",
+        "Northrop Grumman",
+        "Erie Indemnity",
+        "Watsco",
+        "Gold Fields",
+        "Aon",
+        "AngloGold Ashanti",
+        "Ryan Specialty Holdings",
+        "Tyler Technologies",
+        "Kimberly-Clark"
+      ],
+      "insights": [
+        {
+          "ticker": "FI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Fiserv shares tumbled after the company's FY25 adjusted EPS guidance midpoint fell below analysts' expectations, leading to price revisions."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "UnitedHealth shares decreased after the company reported disappointing first-quarter results, and analysts revised the price forecast."
+        },
+        {
+          "ticker": "TMUS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "T-Mobile shares declined by 11.4% last week, making it one of the top 12 large-cap losers."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Northrop Grumman shares dipped after the company reported worse-than-expected results and lowered its FY25 EPS guidance, leading to several analysts lowering their price forecasts."
+        },
+        {
+          "ticker": "ERIE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Erie Indemnity stock plummeted after the company reported financial results and missed its EPS estimate."
+        },
+        {
+          "ticker": "WSO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Watsco shares dipped after the company reported first-quarter results and missed its EPS and sales estimates, leading to analysts revising the price forecast."
+        },
+        {
+          "ticker": "WSO.B",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Watsco shares dipped after the company reported first-quarter results and missed its EPS and sales estimates, leading to analysts revising the price forecast."
+        },
+        {
+          "ticker": "GFI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Gold Fields shares decreased, likely due to a drop in gold prices after comments from President Trump about tariffs and the Federal Reserve."
+        },
+        {
+          "ticker": "AON",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Aon stock fell after the company reported financial results and missed its adjusted EPS and revenue estimates."
+        },
+        {
+          "ticker": "AU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "AngloGold Ashanti shares fell, likely due to the drop in gold prices after comments from President Trump about tariffs and the Federal Reserve."
+        },
+        {
+          "ticker": "RYAN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Ryan Specialty Holdings stock was down after the company announced a deal to acquire certain assets of USQRisk Holdings."
+        },
+        {
+          "ticker": "TYL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tyler Technologies stock fell after the company reported first-quarter results, and several analysts lowered their price forecasts."
+        },
+        {
+          "ticker": "KMB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Kimberly-Clark stock declined after the company reported weaker-than-expected first-quarter sales, and several analysts slashed their price forecast."
+        }
+      ]
+    },
+    {
+      "id": "da5a3d9c82adff320a067cd483f04287262b43ea78bd0a79d68c19dd3975f746",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "MOV Announcement: If You Have Suffered Losses in Movado Group, Inc. (NYSE: MOV) You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
+      "author": "N/A",
+      "published_utc": "2025-04-27T02:41:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/27/3068804/673/en/MOV-Announcement-If-You-Have-Suffered-Losses-in-Movado-Group-Inc-NYSE-MOV-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+      "tickers": [
+        "MOV",
+        "UNH",
+        "NPWR",
+        "NPWR.WS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Movado Group, Inc. (NYSE: MOV) disclosed allegations of misconduct within its Dubai branch, resulting in an overstatement of sales, premature recognition of sales, and underreporting of credit notes. The company's financial statements from 2022 require restatement, and its internal controls were found to be ineffective.",
+      "keywords": [
+        "Movado Group, Inc.",
+        "securities class action"
+      ],
+      "insights": [
+        {
+          "ticker": "MOV",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article reports on allegations of misconduct within Movado's Dubai branch, leading to financial restatements and ineffective internal controls, which are likely to have a negative impact on the company."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions an investigation of potential securities claims on behalf of UnitedHealth Group shareholders, but does not provide any specific details about the company's performance or issues."
+        },
+        {
+          "ticker": "NPWR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article announces the filing of a class action lawsuit on behalf of purchasers of NET Power Inc. securities, but does not provide any information about the company's performance or the reasons for the lawsuit."
+        },
+        {
+          "ticker": "NPWR.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article announces the filing of a class action lawsuit on behalf of purchasers of NET Power Inc. securities, but does not provide any information about the company's performance or the reasons for the lawsuit."
+        }
+      ]
+    },
+    {
+      "id": "a6a763bbdcf9b5123b3406a302aa564c065d5d8d1772dc6005f426f124bfe7b2",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "UNH Announcement: If You Have Suffered Losses in UnitedHealth Group Incorporated (NYSE: UNH) You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
+      "author": "N/A",
+      "published_utc": "2025-04-27T02:37:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/27/3068803/673/en/UNH-Announcement-If-You-Have-Suffered-Losses-in-UnitedHealth-Group-Incorporated-NYSE-UNH-You-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Your-Rights.html",
+      "tickers": [
+        "UNH",
+        "MOV",
+        "NPWR",
+        "NPWR.WS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "UnitedHealth Group's stock fell 22.3% on April 17, 2025, after the company's earnings fell short of expectations and it downgraded its projected results for 2025 due to problems in its Medicare business.",
+      "keywords": [
+        "UnitedHealth Group",
+        "Movado Group",
+        "NET Power"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article reports that UnitedHealth Group's stock fell 22.3% due to the company's earnings falling short of expectations and its downgraded projected results for 2025, citing problems in its Medicare business."
+        },
+        {
+          "ticker": "MOV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions an announcement about potential securities claims on behalf of Movado Group shareholders, but does not provide any specific details about the company's performance or issues."
+        },
+        {
+          "ticker": "NPWR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the filing of a class action lawsuit on behalf of purchasers of NET Power securities, but does not provide any details about the company's performance or the reasons for the lawsuit."
+        },
+        {
+          "ticker": "NPWR.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the filing of a class action lawsuit on behalf of purchasers of NET Power securities, but does not provide any details about the company's performance or the reasons for the lawsuit."
+        }
+      ]
+    }
+  ]
+}

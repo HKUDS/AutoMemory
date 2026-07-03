@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Jeff Bezos Says He 'Won the Lottery' With His Teen Mom—She Had Him at 17, Took Him to Night School, Then Invested Her $245K Savings In Amazon",
+      "description": "Before Amazon (NASDAQ:AMZN) became a $2 trillion tech giant, it was just an idea—and Jeff Bezos had something better than venture capital: his mom. \"I won the lottery with my mom. Thanks for literally everything,\" Bezos declared in a heartfelt X post on Mother's Day 2017. Jacklyn Bezos had Jeff when she was only 17, defying the odds from day one. Pressured to drop out of high school, she stayed the course, graduated, and supported herself and her infant son on just $190 a month working as a secr",
+      "published_utc": "2025-05-07T07:29:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ac17dda06f6aa284123eee1437d809307c3dc7f95d471f253e54638ad78c897",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290068,
+      "datetime": 1746574183
+    },
+    {
+      "title": "Donald Trump Vows To 'Call' Up CEOs Who Make Business Moves That Displease Him, Explains Why He Phoned Jeff Bezos To Scrap Amazon's Tariff Disclosure",
+      "description": "President Donald Trump says he will personally phone chief executives who make business moves he dislikes, a tactic he deployed last week with Amazon (NASDAQ:AMZN) founder Jeff Bezos over planned tariff disclosures on the e‑commerce giant's site. What Happened: In an interview on NBC's \"Meet the Press,\" Trump recounted calling Bezos after Punchbowl News reported Amazon might label import fees tied to the administration's new 145% tariff on Chinese goods. \"He's just a very nice guy,\" Trump said.",
+      "published_utc": "2025-05-07T05:34:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=166242df6bf700809c125e523cf2758df7f535bda14164631fea9d44152e20dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290069,
+      "datetime": 1746567261
+    },
+    {
+      "title": "Big Tech Lets Investors Know What's Going On",
+      "description": "Then Motley Fool contributor Rick Munnariz joins host Mary Long to discuss Universal Studio's new park, Epic Universe, and the state of the travel industry.  To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",
+      "published_utc": "2025-05-07T01:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bb3200381ab3c3e855f2172c274587b8f5e11aa14d511f71e858058c98ab6fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290014,
+      "datetime": 1746554100
+    },
+    {
+      "title": "Amazon Reports Share Stake Of 822,234 Common Shares In AMD As Of March 31 - SEC Filing",
+      "description": "Advanced Micro Devices Inc: * AMAZON REPORTS SHARE STAKE OF 822,234 COMMON SHARES IN AMDAS OFMARCH 31 - SEC FILING * AMAZON DISSOLVES SHARE STAKE IN TWILIO INC AS OF...",
+      "published_utc": "2025-05-07T01:36:21",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=17b9932f0c44a7650608275b3fc93f9bd028acc1e053c60a9e41fc235714fcb6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134275990,
+      "datetime": 1746552981
+    },
+    {
+      "title": "Zoox Issues Voluntary Recall of 270 Autonomous Cars Over Software Error",
+      "description": "By Roshan Fernandez Autonomous car maker Zoox, an Amazon.com subsidiary, has issued a voluntary recall of 270 of its vehicles after it found a software error that may increase the risk of a crash....",
+      "published_utc": "2025-05-07T00:44:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ffbe7ca91736cefa3678bff5cd4457d3bbb799f8e7a2d79906ba2d8edc413c84",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134272732,
+      "datetime": 1746549847
+    }
+  ]
+}

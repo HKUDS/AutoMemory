@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson to Participate in the Goldman Sachs 46th Annual Global Healthcare Conference",
+      "description": "Johnson & Johnson will participate in the Goldman Sachs 46th Annual Global Healthcare Conference on Wednesday, June 11th, 2025. Management will participate in a Fireside Chat at 3:20 p.m. Eastern...",
+      "published_utc": "2025-05-15T00:41:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7eef23a329d21324eb9cb4e3b3da4b7460de5a07779ce439a8db006c940c996a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134453777,
+      "datetime": 1747240864
+    },
+    {
+      "title": "BlackRock Health Sciences Opportunities Fund Q1 2025 Commentary",
+      "description": "BlackRock Health Sciences Opportunities Fund posted returns of 3.66% (Institutional shares) and 3.60% (Investor A shares, without sales charge) for the first quarter of 2025.",
+      "published_utc": "2025-05-14T23:38:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a09fa1031198fe3423a5318e0d47459c521efb03ae4196a089069f85176f0e54",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/183355336/image_183355336.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134453013,
+      "datetime": 1747237080
+    },
+    {
+      "title": "Halozyme, J&J slide as analyst cuts rating on CMS draft guidance",
+      "description": "Shares of Halozyme Therapeutics (HALO) and Jonhson & Johnson (JNJ) are under pressure on Tuesday after Leerink downgraded the stocks to Underperform and Market Perform, respectively. This comes after the Centers for Medicare and Medicaid Services issued draft guidance for 2028 Inflation Reduction Act drug price controls, which the firm says creates risk that hyaluronidase combination products may not be protected from IRA price negotiations for 13 years after combo approval. DOWNGRADES ON CMS AC",
+      "published_utc": "2025-05-14T23:00:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e4138ea43e2f605bd0893e38577f5451f54694364fd1b123d37589fcea05a97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460752,
+      "datetime": 1747234856
+    },
+    {
+      "title": "IXJ: Healthcare Sector Dashboard For May",
+      "description": "This article provides a top-down analysis of the healthcare sector using value, quality, and momentum metrics. Read the full analysis here on Seeking Alpha, updated for May 2025.",
+      "published_utc": "2025-05-14T19:50:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6034d561f5dd4a27632eead6ab25b5a039e4bdb6720041cd8cd9e718132da992",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1356518831/image_1356518831.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134437816,
+      "datetime": 1747223425
+    },
+    {
+      "title": "Dow's 115-point drop led by losses for Amgen, 3M stocks",
+      "description": "Dow's 115-point drop led by losses for Amgen, 3M stocks",
+      "published_utc": "2025-05-14T19:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fe994dfedeced3bae800e6590a04318330ed9fec1d3b55e456f1986dc367eb7e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134437978,
+      "datetime": 1747220700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:44:01.065354+00:00",
+    "cache_key": "news_38be7cc2dcdd32883f333fc517dddd76",
+    "count": 5
+  }
+}

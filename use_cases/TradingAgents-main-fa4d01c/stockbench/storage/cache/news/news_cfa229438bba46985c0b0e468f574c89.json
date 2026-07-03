@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "title": "Cognizant may have renewed $1B deal with UnitedHealth, Mint says",
+      "description": "Cognizant’s (CTSH) president for the Americas region said while presenting at a fireside chat on Tuesday that the company had won a deal worth “approximately a billion dollars,” notes Mint’s Jas Bardia, who adds that Mint has learnt from people with knowledge of the matter that the statement indicates Cognizant might have renewed its partnership with UnitedHealth (UNH). Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See the top sto",
+      "published_utc": "2025-06-07T22:05:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e3cdc2c8051bd89e0b2ff727b9353bb5609f9f885a259f3b189138109d6b4cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106326,
+      "datetime": 1749305115
+    },
+    {
+      "title": "2 Beaten-Down Dividend Stocks to Buy Now and Hold at Least a Decade",
+      "description": "Whether they want rapid payout growth or a high yield that rises slowly, income focused investors can find what their looking for in the healthcare sector.  UnitedHealth Group stock has been offering a 3% yield, and it's payout has grown by leaps and bounds in recent years.  Pfizer offers a dividend yield over 7%, but it's payout probably won't rise very fast in the decade ahead.",
+      "published_utc": "2025-06-07T17:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b31153757561f9bc9661000c431e48e89e862cd440b653576175d16840827684",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135108779,
+      "datetime": 1749288180
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 8",
+      "description": "Read here for weekly updates on Dividend Champions, Contenders & Challengers. Learn about dividend changes, ex-dividend dates and pay dates.",
+      "published_utc": "2025-06-07T11:48:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f0d276997367d8e5a85ff57e6f273999e08fe1a450ecb8eeb1e6d5e78c4711b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135094829,
+      "datetime": 1749268088
+    },
+    {
+      "id": "a07285b7a66dda013eca3a2ad202605c9665c6e0c0d74a0e2d379311a425c649",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Buying UnitedHealth Stock Under $300 a No-Brainer?",
+      "author": "N/A",
+      "published_utc": "2025-06-07T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/07/is-buying-unitedhealth-stock-under-300-a-no-braine/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/820951/gettyimages-1067591998.jpg",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance and market analysis on Fool.com, personal finance education, top-rated podcasts, and non-profit The Motley Fool Foundation.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "podcasts",
+        "non-profit"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions UnitedHealth Group in the context of a video covering recent updates, but does not provide any specific information about the company or its performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:48.476088+00:00",
+    "cache_key": "news_cfa229438bba46985c0b0e468f574c89",
+    "count": 4
+  }
+}

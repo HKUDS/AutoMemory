@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Markets Watch Out For Core CPI With Big Banks Set To Report Earnings",
+      "description": "Stay ahead in financial markets with Seeking Alpha's Wall Street Week Ahead as big banks are set to report earnings this week.",
+      "published_utc": "2025-04-05T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=290a46b4ff94cd232215d799c4e0de45630fa5ec77b14abd0e5e194c09959460",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133726036,
+      "datetime": 1743850800
+    }
+  ]
+}

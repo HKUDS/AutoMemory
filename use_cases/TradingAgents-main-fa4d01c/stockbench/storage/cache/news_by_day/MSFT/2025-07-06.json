@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "DA Davidson Calls Microsoft (MSFT) Its Top Mega-Cap Pick — New $600 Target Set",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the 10 Trending AI Stocks on News and Ratings. On July 2, DA Davidson analyst Gil Luria raised the price target on the stock to $600 from $500, maintaining a “Buy” rating. The firm reiterated the stock as its top mega-cap pick, quoting how Microsoft is doing a great job extending […]",
+      "published_utc": "2025-07-06T01:12:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96315c2ac560158c4ff46db57538a11c6b8662c4bbe32e11320f9aafc3c898f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768700,
+      "datetime": 1751735560
+    }
+  ]
+}

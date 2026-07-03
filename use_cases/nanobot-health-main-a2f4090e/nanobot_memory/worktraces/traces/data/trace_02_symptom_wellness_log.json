@@ -1,0 +1,190 @@
+{
+  "trace_id": "trace_02_symptom_wellness_log",
+  "description": "Tests temporal health log: symptom episodes with onset/triggers/resolution, daily wellness entries, care timeline events with lab values. Critical: exact lab values must be preserved, symptom-to-medication cross-reference noted, health_log.jsonl keyword retrieval must work.",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "Hey, what's the best way to reheat pizza without making it soggy?"},
+        {"role": "assistant", "content": "The best method is a skillet on medium heat — place the slice in, add a few drops of water away from the pizza, cover with a lid for 2-3 minutes. This crisps the bottom while steaming the toppings. The oven at 375°F for 5-8 minutes also works great."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I want to log a symptom. Yesterday morning, April 15, 2026, I woke up with a severe headache — throbbing pain on the right side, started around 7am. I think the trigger might have been too much screen time the day before and not enough sleep. I took Tylenol 1000mg around 8am and it helped partially but the headache didn't fully go away until about noon, so roughly 5 hours total. Really unpleasant."},
+        {"role": "assistant", "content": "I've logged this symptom: severe right-sided throbbing headache on April 15, 2026, starting at 7am. Possible triggers: excessive screen time and poor sleep. Partially relieved by Tylenol 1000mg at 8am, fully resolved by noon (~5 hours total duration). This has been added to your symptom log in health_log.jsonl."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you explain how the stock market works for a complete beginner?"},
+        {"role": "assistant", "content": "Think of the stock market as a giant marketplace where people buy and sell tiny ownership pieces (shares) of companies. When a company does well, its shares become more valuable; when it struggles, shares lose value. You can profit by buying low and selling high, or by receiving dividends (profit-sharing payments) that some companies pay."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I want to log my wellness for yesterday, April 15, 2026. For food: had oatmeal with blueberries for breakfast, a grilled chicken salad for lunch, and salmon with roasted vegetables for dinner. Good diet day overall. Exercise: I did a 35-minute jog in the morning before the headache hit. Sleep the night before: only got about 5 hours, which was probably why I got the headache. No alcohol."},
+        {"role": "assistant", "content": "Wellness log for April 15, 2026 recorded:\n- Food: oatmeal with blueberries (breakfast), grilled chicken salad (lunch), salmon with roasted vegetables (dinner)\n- Exercise: 35-minute jog\n- Sleep (night of April 14-15): 5 hours — poor, likely contributed to headache\n- Alcohol: none\n\nGood nutrition day despite the sleep issue!"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the difference between a meteor, meteoroid, and meteorite?"},
+        {"role": "assistant", "content": "A meteoroid is a small rocky or metallic body in space. A meteor is the visible streak of light (shooting star) when it enters Earth's atmosphere and burns up. A meteorite is what remains if it survives and lands on Earth's surface. Think of it as: space rock → fiery streak → ground rock."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I had a doctor appointment on April 10, 2026. It was with Dr. Sarah Martinez, my primary care physician. Routine annual checkup. During the visit my blood pressure was measured at 128/82 mmHg. She ordered some lab work: a complete blood count and a comprehensive metabolic panel, plus a lipid panel. She also noted I should schedule a follow-up in 3 months."},
+        {"role": "assistant", "content": "Care event logged for April 10, 2026:\n- Provider: Dr. Sarah Martinez (primary care, annual checkup)\n- BP measured: 128/82 mmHg\n- Labs ordered: CBC, comprehensive metabolic panel, lipid panel\n- Follow-up: scheduled in 3 months\n\nThis has been added to your care timeline in the health log."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any tips for keeping houseplants alive? I always seem to kill them."},
+        {"role": "assistant", "content": "Most houseplants die from overwatering, not underwatering. Key rules: water when the top inch of soil is dry (not on a schedule), ensure pots have drainage holes, match plants to your light conditions, and fertilize only during growing season (spring/summer). Start with hard-to-kill plants like pothos, snake plants, or ZZ plants."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good podcasts about history?"},
+        {"role": "assistant", "content": "Top history podcasts: 'Hardcore History' by Dan Carlin (deep dives, very long episodes), 'Revolutions' by Mike Duncan (detailed series on major revolutions), 'The British History Podcast' (comprehensive), 'Stuff You Missed in History Class' (accessible, diverse topics), and 'BackStory' (American history with academic depth)."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Wellness log for April 16, 2026: Didn't exercise today, knee was bothering me. Slept 6 hours last night, not great quality. Food: bagel with cream cheese breakfast, leftover pizza lunch, beef tacos dinner. Had a couple glasses of red wine with dinner."},
+        {"role": "assistant", "content": "Wellness log for April 16, 2026 recorded:\n- Exercise: none (knee pain)\n- Sleep: 6 hours, poor quality\n- Food: bagel/cream cheese (breakfast), pizza (lunch), beef tacos (dinner)\n- Alcohol: 2 glasses red wine\n\nKnee pain is worth monitoring — let me know if it persists."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to learn to cook if you're a complete beginner?"},
+        {"role": "assistant", "content": "Start with 5 fundamental techniques: scrambled eggs (heat control), pasta (timing), roasted chicken/vegetables (oven cooking), a simple stir-fry (high-heat cooking), and a basic salad dressing (ratios and balance). Once you can execute these well, most other recipes follow the same principles."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I got my lab results back from that April 10 visit. Here they are: fasting glucose was 142 mg/dL (reference range 70-99, so elevated), HbA1c came back at 7.2% (reference range below 5.7%, so above target for diabetes management), LDL cholesterol 138 mg/dL (reference below 100 for diabetics, so elevated), HDL 52 mg/dL (good), triglycerides 165 mg/dL (borderline high). CBC and metabolic panel were all normal."},
+        {"role": "assistant", "content": "Lab results from April 10, 2026 recorded:\n- Fasting glucose: 142 mg/dL (elevated; ref 70-99)\n- HbA1c: 7.2% (above target; ref <5.7%)\n- LDL cholesterol: 138 mg/dL (elevated for diabetic; ref <100)\n- HDL: 52 mg/dL (normal/good)\n- Triglycerides: 165 mg/dL (borderline high)\n- CBC and metabolic panel: all normal\n\nThe HbA1c and LDL are areas to watch — worth discussing with your endocrinologist about the recent Metformin dose increase."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you recommend some good meditation apps?"},
+        {"role": "assistant", "content": "Top meditation apps: Headspace (structured courses, great for beginners), Calm (good sleep content and nature sounds), Waking Up (by Sam Harris, more philosophical/secular), Insight Timer (massive free library), and Ten Percent Happier (paired with video content). Headspace or Calm are best starting points."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How does a VPN work?"},
+        {"role": "assistant", "content": "A VPN (Virtual Private Network) encrypts your internet traffic and routes it through a server in another location. Your ISP and websites see the VPN server's IP address instead of yours. Think of it as a secure, private tunnel through the internet. It protects you on public WiFi and can bypass geographic content restrictions."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I want to log something important. For the past 3 days — April 14, 15, and 16 — I've been experiencing nausea, particularly in the mornings and after meals. I think it might be related to my Metformin dose increase that happened on April 8. The nausea is moderate severity, no vomiting. It's worse when I take the Metformin on an empty stomach. Taking it with food helps somewhat."},
+        {"role": "assistant", "content": "Symptom logged: nausea (moderate severity) from April 14-16, 2026. Possible trigger: Metformin dose increase to 1000mg on April 8 (GI side effects are common with Metformin, especially at higher doses). Worse on empty stomach, partially relieved by taking with food. No vomiting.\n\nThis is a known Metformin side effect — I'd recommend mentioning it at your next endocrinology visit if it persists beyond a week or two, as dose adjustment or extended-release formulation might help."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some tips for decorating a small apartment on a budget?"},
+        {"role": "assistant", "content": "Budget-friendly small space decorating: mirrors to create depth and light, vertical storage (floating shelves), multifunctional furniture (storage ottomans, sofa beds), plants for life and color, good lighting (floor lamps, warm bulbs), and a cohesive color palette (2-3 colors max) to create visual calm. Thrift stores and IKEA are your friends."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I got my flu shot today at the pharmacy, April 16, 2026. The pharmacist recorded it in their system. I think it was the quadrivalent standard dose version."},
+        {"role": "assistant", "content": "Immunization logged: flu shot (quadrivalent, standard dose) received April 16, 2026 at pharmacy. This has been added to your care timeline. You're all set for flu season!"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good documentaries on Netflix worth watching?"},
+        {"role": "assistant", "content": "Strong Netflix documentaries: 'My Octopus Teacher' (gorgeous, emotional nature doc), 'The Last Dance' (Michael Jordan and the Bulls), 'Making a Murderer' (true crime classic), 'Abstract: The Art of Design' (creative processes), 'Formula 1: Drive to Survive' (motorsport drama), and 'Seaspiracy' (ocean fishing, though its conclusions are debated)."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Wellness log April 16 evening update: went for a 2-hour mountain hike this afternoon with my partner. Beautiful day. Had a protein shake before, grilled chicken wrap after. Feeling much better energy-wise than this morning. Knee held up fine on the hike actually."},
+        {"role": "assistant", "content": "Updated wellness log for April 16, 2026 (evening):\n- Exercise: 2-hour mountain hike with partner\n- Post-hike food: grilled chicken wrap (pre-hike: protein shake)\n- Energy: improved\n- Knee: held up fine during hike\n\nGreat to hear the knee is feeling better with activity!"}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "One more care event to log: I had a telehealth appointment with my cardiologist, Dr. James Chen, on April 12, 2026. This was a follow-up on my hypertension management after switching from Lisinopril to Amlodipine. He was satisfied with my BP readings. He wants me to monitor BP at home twice a week and log it. Next in-person appointment is May 20, 2026."},
+        {"role": "assistant", "content": "Care event logged for April 12, 2026:\n- Provider: Dr. James Chen (cardiologist, telehealth follow-up)\n- Reason: hypertension management, Lisinopril → Amlodipine transition\n- Outcome: BP management satisfactory\n- Plan: home BP monitoring twice weekly\n- Next appointment: in-person May 20, 2026\n\nAdded to your care timeline."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I get started with investing as a beginner?"},
+        {"role": "assistant", "content": "Investment starting steps: 1) Build an emergency fund first (3-6 months expenses), 2) Maximize employer 401k match (free money), 3) Open a Roth IRA if eligible, 4) Start with low-cost index funds (S&P 500 or total market funds) — they beat most actively managed funds over time, 5) Automate contributions so you invest consistently."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the difference between weather and climate?"},
+        {"role": "assistant", "content": "Weather is what's happening outside right now or in the coming days — temperature, rain, wind. Climate is the long-term pattern of weather in a region over decades. The classic analogy: weather is your mood, climate is your personality. Climate change refers to long-term shifts in these averages, not individual weather events."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "headache",
+      "expected_information": [
+        "headache",
+        "/throbbing|right.?side|severe/",
+        "Tylenol",
+        "April 15"
+      ]
+    },
+    {
+      "query": "What were the lab results from the April 10 visit?",
+      "expected_information": [
+        "/fasting glucose|glucose/",
+        "142",
+        "HbA1c",
+        "7.2",
+        "/LDL|cholesterol/",
+        "138"
+      ]
+    },
+    {
+      "query": "nausea",
+      "expected_information": [
+        "nausea",
+        "Metformin",
+        "/April 14|April 15|April 16/"
+      ]
+    },
+    {
+      "query": "flu shot",
+      "expected_information": [
+        "/flu shot|influenza|immunization/",
+        "April 16"
+      ]
+    },
+    {
+      "query": "What doctor visits or care events have been logged?",
+      "expected_information": [
+        "Dr. Sarah Martinez",
+        "April 10",
+        "Dr. James Chen",
+        "April 12"
+      ]
+    },
+    {
+      "query": "wellness exercise",
+      "expected_information": [
+        "/jog|hike|exercise/",
+        "/April 15|April 16/"
+      ]
+    }
+  ]
+}

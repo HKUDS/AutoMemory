@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JUST: ESG ETF Doing The Job, But Not The Best",
+      "description": "JUST offers ESG-focused exposure to Russell 1000 stocks with solid fundamentals but trails peers in impact, fees, and volume. Find out why JUST ETF is a hold.",
+      "published_utc": "2025-06-14T19:52:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4675da96ec78d4e7506d48cc041c9c739d55b5bb618f338e731cc767a0f41f38",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154241541/image_2154241541.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272014,
+      "datetime": 1749901948
+    },
+    {
+      "title": "Harbor Human Capital Factor US Large Cap ETF Q1 2025 Commentary",
+      "description": "During the first quarter, the Harbor Human Capital Factor US Large Cap ETF returned -4.13%, slightly underperforming its benchmark.",
+      "published_utc": "2025-06-14T13:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9bc3e7c6441a64481afd72aa8eca6680983a2c33dd68ff91f513d77c2bb8101",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203443147/image_2203443147.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135268235,
+      "datetime": 1749877800
+    }
+  ]
+}

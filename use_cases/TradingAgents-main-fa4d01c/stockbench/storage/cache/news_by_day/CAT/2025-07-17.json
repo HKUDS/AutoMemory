@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "The latest trading day saw Caterpillar (CAT) settling at $412.88, representing a +2.04% change from its previous close.",
+      "published_utc": "2025-07-17T05:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=216af1c104d20434bfafc38f6af8623db8799a2dd92d88d570ece63b37602dab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993438,
+      "datetime": 1752702302
+    },
+    {
+      "title": "Ouster vs. Luminar: Which LiDAR Powerhouse is a Safer Long-Term Play?",
+      "description": "OUST shares surge 131.6% YTD while LAZR falls 47%, raising key questions for LiDAR investors choosing between them.",
+      "published_utc": "2025-07-17T01:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7bf753e0aa04772864e36314616c11fdfd87e9135deb3d7171bbcb1d220d872",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135976453,
+      "datetime": 1752687180
+    },
+    {
+      "title": "Caterpillar (CAT) Is Up 2.03% in One Week: What You Should Know",
+      "description": "Does Caterpillar (CAT) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+      "published_utc": "2025-07-17T00:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd2f75c9e69fc3f382b7ca72fdf2f377a30ce12b1d7eb30a1c573b57ad1d4618",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993441,
+      "datetime": 1752681603
+    }
+  ]
+}

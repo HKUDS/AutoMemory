@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Treasuries Rally as Fed’s Powell Focuses on Price Stability",
+      "description": "(Bloomberg) -- US Treasuries rallied for a third day as Federal Reserve Chair Jerome Powell said the central bank will aim to prevent tariffs from leading to stickier inflation.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedDOGE Places Entire Staff of Federal Homelessness Agency on LeaveLA County Floats Leaner Budget Burdened by Fire and Legal CostsThe five-year note led",
+      "published_utc": "2025-04-17T04:00:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=456a1351a8d52dbd0f61ae02ef429e7bfbe397ee06d11e0d53d45dc92f7fe763",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942473,
+      "datetime": 1744833630
+    },
+    {
+      "title": "JPMorgan is going after even more customers who allegedly cashed in on the ‘infinite money glitch’ stemming from an ATM malfunction",
+      "description": "The bank has also sent letters to more than 1,000 Chase patrons since October asking for funds to be returned.",
+      "published_utc": "2025-04-17T01:32:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e99fd32d6efc8367c3bd2c784c2a540d24598a65608a4558c696aa38ec8a3c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942474,
+      "datetime": 1744824737
+    },
+    {
+      "title": "Credit markets aren’t flashing recession fears — but that could be the problem",
+      "description": "Credit markets aren’t flashing recession fears — but that could be the problem",
+      "published_utc": "2025-04-17T00:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4bda481876d4cd253eb0c9bf09b94b56eef4e85f00f6f8b02b63021a38f74ec7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133945406,
+      "datetime": 1744822620
+    },
+    {
+      "title": "Nvidia, Apple, Big Banks' trading revenues: Trending Tickers",
+      "description": "Madison Mills and Interactive Brokers chief strategist Steve Sosnick examine some of today's trending tickers. Nvidia (NVDA) stock is falling after the company warned that new US chip rules on exports to China would cost the company $5.5 billion. Analysts at Bank of America, Piper Sandler, and Raymond James lowered their price targets for the chipmaker stock. Apple's (AAPL) India suppliers shipped $2 billion worth of iPhones in March ahead of US President Trump's tariffs. Wall Street's top financial firms, like JPMorgan Chase (JPM), Goldman Sachs (GS), and Morgan Stanley (MS), saw record-high trading revenue in the first quarter, driven by tariff-fueled market volatility. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+      "published_utc": "2025-04-16T22:44:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f17ede56f160e1fa82fbff472822dcf655a21f70ed8ec319510a62226044d5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935485,
+      "datetime": 1744814643
+    },
+    {
+      "title": "Treasury Secretary Scott Bessent to America's biggest CEOs: Stop worrying",
+      "description": "CEOs have warned on the economy because of Trump administration tariff policies. US Treasury Secretary Scott Bessent has a message for them all.",
+      "published_utc": "2025-04-16T20:16:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bc54cb1acd39980fd03489fd0d6bc9fc8829c8048e520bb74f3dfcc63c799bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935600,
+      "datetime": 1744805787
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:52.150288+00:00",
+    "cache_key": "news_ecc1f3a6eef916aabba3d2866bf30f44",
+    "count": 5
+  }
+}

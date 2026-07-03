@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs BDC Inc (GSBD) Q1 2025 Earnings Call Highlights: Navigating Market Challenges ...",
+      "description": "Goldman Sachs BDC Inc (GSBD) demonstrates robust financial performance despite macroeconomic headwinds, with strategic dividend adjustments and improved credit quality.",
+      "published_utc": "2025-05-13T05:00:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4b3c5e6f553554b5094d5ac5abb1ca32a9bc115f8586c42b347ee7290757db9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408859,
+      "datetime": 1747083654
+    },
+    {
+      "title": "50 Fortune World's Most Admired Companies (FWMAC): 24 \"Safer\", 1 Ideal Buy",
+      "description": "These are my top dividend stock picks from Fortune Worldâs Most Admired Companies, May 2025 edition. Read the full report here on Seeking Alpha.",
+      "published_utc": "2025-05-13T02:25:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce6b1e455860c526dd2cb46bd7eb05e757c51e3c22b9d8bfeba114fe20621d90",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/678921557/image_678921557.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392206,
+      "datetime": 1747074311
+    }
+  ]
+}

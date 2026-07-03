@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "title": "2024 Total Dividend Income And Portfolio Update",
+      "description": "2024 also saw some changes to some of my holdings as the author shuttled several dividend income payers for higher return crypto plays. Click to read.",
+      "published_utc": "2025-05-07T19:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e84a491388932db92b15edae67d11240e3b812c212aa814a6209bef6a4a9af74",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2007398242/image_2007398242.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134296532,
+      "datetime": 1746617700
+    },
+    {
+      "title": "Fidelity Select Consumer Staples Portfolio Q1 2025 Review",
+      "description": "For the quarter, Fidelity Select Consumer Staples Portfolio's Retail Class shares gained 0.65%, lagging the 4.11% advance of the MSCI U.S. IMI Consumer Staples 25/50 Index.",
+      "published_utc": "2025-05-07T17:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8eb349e18bf5a7adf8b101014038a884960501fdca691faf772132205f810dc0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471453337/image_471453337.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134295483,
+      "datetime": 1746610800
+    },
+    {
+      "id": "f081ad8b303902b2fa8675283c9c2f2183043fcc840852b43b16fcacfacc0c29",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Dividend Hikes Offer Optimism Amid Tariff Turmoil",
+      "author": "Christine Short",
+      "published_utc": "2025-05-07T13:21:00Z",
+      "article_url": "https://www.investing.com/analysis/dividend-hikes-offer-optimism-amid-tariff-turmoil-200660480",
+      "tickers": [
+        "PG",
+        "JNJ",
+        "VYM",
+        "NOBL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/dividend-hikes-offer-optimism-amid-tariff-turmoil-200660480?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Despite macro headwinds, many large US multinational corporations have announced dividend hikes, signaling optimism amid tariff turmoil. Dividend aristocrats like Procter & Gamble and Johnson & Johnson have increased their payouts, outperforming the broader market.",
+      "keywords": [
+        "dividends",
+        "tariffs",
+        "earnings",
+        "retail",
+        "consumer"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Procter & Gamble announced a dividend increase, marking its 69th consecutive year of dividend growth, which is a sign of the company's confidence in its operational and financial prospects despite uncertain macro conditions."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson increased its dividend for the 63rd straight year, a 4.8% hike, bringing the forward yield to 3.3%, more than double that of the S&P 500, indicating the company's strong financial position and commitment to rewarding shareholders."
+        },
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The high dividend factor has been solid, outperforming the broader S&P 500 index, suggesting that dividend-focused stocks have been a relative safe haven amid the tariff turmoil."
+        },
+        {
+          "ticker": "NOBL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The S&P 500 Dividend Aristocrats ETF, which tracks companies that have increased their dividends for at least 25 consecutive years, has outperformed the S&P 500 by more than four percentage points so far in 2025, indicating the strength of dividend-paying stocks."
+        }
+      ]
+    }
+  ]
+}

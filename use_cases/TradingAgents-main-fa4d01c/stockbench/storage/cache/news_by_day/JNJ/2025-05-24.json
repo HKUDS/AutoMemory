@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Generating Passive Income: 3 Top Dow Dividend Stocks to Buy for 2025 and Beyond",
+      "description": "Chevron has hiked its dividends for 38 straight years.  Johnson & Johnson recently raised its dividend for the 63rd year in a row.  Verizon has the longest dividend growth streak in the U.S. telecom sector.",
+      "published_utc": "2025-05-24T16:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad244c31042eba82c891546e3b9e6769327136cbaa39781a29a7dbfd49514fac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694321,
+      "datetime": 1748074560
+    }
+  ]
+}

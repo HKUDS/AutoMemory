@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (NYSE:UNH) Announces Debt Financing Totalling US$3 Billion",
+      "description": "UnitedHealth Group (NYSE:UNH) recently completed a substantial debt financing deal, raising $3 billion through the issuance of various Notes. This move comes amid a period of legal settlements, such as the $69 million ERISA case, and operational restructuring, including exploring bids for its Latin American operations. Despite these significant developments, the company's stock price remained relatively flat over the last month, reflecting broader market trends which also showed minimal...",
+      "published_utc": "2025-06-22T01:12:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a8e4cc1b0ddaef072e7521558d056b2d52e7facc7df3571b1805cab1b3a2273",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135455900,
+      "datetime": 1750525969
+    }
+  ]
+}

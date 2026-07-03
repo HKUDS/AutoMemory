@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Boeing reports 44 commercial airplane deliveries in February",
+      "description": "In its commercial aircraft operations, Boeing (BA) reports 13 airplane gross orders and 44 commercial deliveries in February, according to data posted to its corporate website. Boeing reports 49 year-to-date gross orders, 41 year-to-date orders net of cancellations/conversions and 6,197 unfilled airplane orders as of February 28, 2025. Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See today’s best-performing stocks on TipRanks >>",
+      "published_utc": "2025-03-12T23:10:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef0f0eb2c0ca67f4b78aef0981deceadf733145332d2d75d4fa188aeee83e4a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185711,
+      "datetime": 1741792219
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dogs Of The Dow Chase May's 'Safer' Buy",
+      "description": "Discover the top Dow Dogs for potential gains of 21%-45% by 2026, with Verizon leading in dividends. Read more on the price gainers for 2026 based on 1-year target prices.",
+      "published_utc": "2025-05-03T17:46:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=350e7769b702ab011e6e05a8a775d6afbeec758c10f0e5378d06981688951dc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470996886/image_1470996886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134226264,
+      "datetime": 1746265597
+    },
+    {
+      "title": "IBM Plans to Invest $150 Billion. Time to Buy the Stock?",
+      "description": "The $150 billion investment is over five years, with $30 billion going to mainframe and quantum computing.  IBM has grown its stock price and technical capabilities under CEO Arvind Krishna, but revenue growth remains anemic.  Investors may need more clarity about how the company will fund this spending.",
+      "published_utc": "2025-05-03T16:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4d236851ef0ca68b5dd7c0d78c74406cb8da4353b4531d36113d9de5b436686",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246975,
+      "datetime": 1746259920
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 4",
+      "description": "",
+      "published_utc": "2025-05-03T09:26:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=59693d60ff7a7502a59c179acc34b7547b1db1fb771e2476a6ea63b15d3c40d2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134207063,
+      "datetime": 1746235613
+    }
+  ]
+}

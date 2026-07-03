@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com, Inc. (AMZN) Stock Could Soar on AI and Economic Resilience, Say Top Firms",
+      "description": "We recently published a list of 11 AI Stocks Shaking Up Wall Street Today. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other AI stocks shaking up Wall Street today. It hasn’t been long since DeepSeek released its efficient yet low-cost models, causing a frenzy in […]",
+      "published_utc": "2025-03-27T07:05:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e8841106f295b39c2f6f42601b9c3ea099931ae34bcd02e225caa173ec178ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461660,
+      "datetime": 1743030305
+    },
+    {
+      "title": "Target makes bold move to answer Walmart, Amazon",
+      "description": "Target unveils a new strategy to take down its rivals.",
+      "published_utc": "2025-03-27T07:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e1f5bd9068c624091f19d491428be6cbcd2a85b59731c35a027210f5b162a18",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461661,
+      "datetime": 1743030180
+    },
+    {
+      "title": "Jim Cramer on Amazon (AMZN): “Retail and AWS Are Unstoppable – Call Me a Buyer!”",
+      "description": "We recently published a list of Jim Cramer’s Latest Thoughts on the Magnificent Seven. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other magnificent stocks in Jim Cramer’s list. On Monday, Jim Cramer, host of Mad Money, took a closer look at the current status of […]",
+      "published_utc": "2025-03-27T04:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21a1766ce57e11cf746d4b950d18f0f7926789144e3206295819946b49f4ad64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461664,
+      "datetime": 1743019214
+    },
+    {
+      "title": "The Allure of Amazon Shares",
+      "description": "Bloomberg's Ryan Vlastelica explains how Amazon shares are stacking up against big tech and retail competitors. He speaks with Caroline Hyde on \"Bloomberg Technology\".",
+      "published_utc": "2025-03-27T03:56:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4046945f040e96dcb318145776f048ff096c4e2b32da0bd23c1c85217c4b97e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461665,
+      "datetime": 1743018968
+    },
+    {
+      "title": "Amazon introduces beta AI shopping tool, 'Interests'",
+      "description": "A new artificial intelligence tool that surfaces products based on interests has been introduced by Amazon to some shoppers in the U.S. It is called \"Interests.\"",
+      "published_utc": "2025-03-27T03:53:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ef81055ea70b744d008ed53a33ca0b1d8529f039c126f5e5efe58e532d8e7c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461666,
+      "datetime": 1743018833
+    }
+  ]
+}

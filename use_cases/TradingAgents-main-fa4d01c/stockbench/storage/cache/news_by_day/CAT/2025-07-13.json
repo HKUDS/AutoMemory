@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. (CAT): “You’re Making A Lot Of Money” If You’re Involved In AI Build Out, Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. Caterpillar Inc. (NYSE:CAT) is one of the stocks Jim Cramer recently discussed. Caterpillar Inc. (NYSE:CAT) is one of the largest agricultural and construction equipment providers in the world. Typically, this means that the stock’s performance is tied to the economy, […]",
+      "published_utc": "2025-07-13T02:36:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02fda76a23c9d6b29637c1f50efb7ce9c00c28a42da9dc1732f39f3c265a8d34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135901902,
+      "datetime": 1752345362
+    }
+  ]
+}

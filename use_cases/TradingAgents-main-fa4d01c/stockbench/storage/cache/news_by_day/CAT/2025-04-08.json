@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Why Heavy Equipment Stocks Are Under Pressure Today",
+      "description": "Wall Street is running the numbers on the tariffs, and the impact is not good for heavy equipment manufacturers.  Shares of Caterpillar (NYSE: CAT) fell by as much as 7% and Deere (NYSE: DE) by 4% after both companies were hit by downgrades, and Toro (NYSE: TTC) fell as much as 5% in sympathy.  The massive tractors, construction, and agricultural equipment they make requires a lot of steel and other raw materials that are subject to tariffs, and their high-priced finished goods sell best when customers are flush with cash.",
+      "published_utc": "2025-04-08T03:59:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ae9ba51a585e4c6c0b87486078b3f2e1b884819edc9367a54e0b0747dbb2f24",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133761513,
+      "datetime": 1744055976
+    },
+    {
+      "title": "GM & Caterpillar, Trump revisits US Steel deal: Trending Tickers",
+      "description": "Julie Hyman and Trader Talk podcast host Kenny Polcari dive into some trending tickers on Market Domination. US Steel (X) is soaring on news that US President Trump ordered a review of the company's blocked deal with Nippon Steel (NPSCY), an acquisition that was stopped by President Biden. General Motors (GM) stock is under pressure after Bernstein analysts downgraded the stock to Underperform from Market Perform as tariffs continue to pressure the US automaker. Caterpillar (CAT) stock drops after UBS analysts downgraded the stock to Sell from Neutral, citing the impact of tariffs. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-08T03:52:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43d8ca3bda989770b3a4b1a1e0bf19b9d91f757240942deb45a5b0fc7509d15e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133780874,
+      "datetime": 1744055552
+    },
+    {
+      "title": "GM & Caterpillar downgrade, Dollar Tree upgrade: Market Minute",
+      "description": "Julie Hyman examines some of the top stories for investors as part of today's Market Minute. General Motors (GM) was downgraded by Bernstein to Underperform from Market Perform as tariffs continue to pressure the US automaker. Caterpillar (CAT) is in focus after UBS analysts downgraded the stock to Sell from Neutral, citing the impact of macro headwinds. Dollar Tree (DLTR) stock is climbing after being upgraded by Citi to Buy from Neutral. Similarly, Dollar General (DG) was upgraded by Citi to Neutral from Sell. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-04-08T01:20:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eaec6c655f2381ec26312cf1e54360eafcb7afd87835ca74dbaf5e6f1c293f32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741163,
+      "datetime": 1744046430
+    }
+  ]
+}

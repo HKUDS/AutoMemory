@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs' Chris Bonner on Leveraged Finance Outlook",
+      "description": "Goldman Sachs head of Leveraged Finance in the Americas Chris Bonner discusses his outlook for leveraged finance and LBOs with Bloomberg's Sonali Basak at the Goldman Sachs Leveraged Finance...",
+      "published_utc": "2025-06-02T23:23:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=494fc904d543b0b99965933c9d3635545701de60370cb1acbbd108a9959d2d4b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134957123,
+      "datetime": 1748877795
+    },
+    {
+      "title": "Goldman Eyes Biggest Fund Yet to Snap Up Discarded Buyout Stakes",
+      "description": "(Bloomberg) -- Goldman Sachs Group Inc. is embarking on its most ambitious effort yet to offer an exit ramp for investors trapped in buyout funds.Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryWhere the Wild Children’s Museums AreThe Economic Benefits of Paying Workers to MoveNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaAt London’s New Design Museum, Visitors Get Hands-On AccessThe firm’s asset-management unit has been pitching",
+      "published_utc": "2025-06-02T21:26:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bd79fe4f81f76aa07159cf989476a85ff4120e43f11605cea40dfca1f162f7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134949870,
+      "datetime": 1748870814
+    },
+    {
+      "title": "Capital One and 3 More Stocks Join Goldman’s ‘Conviction List’",
+      "description": "Capital One and 3 More Stocks Join Goldman’s ‘Conviction List’",
+      "published_utc": "2025-06-02T20:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=94f259ccaf5f7d630f49a74ed08945a3bfc7656cf1ad89a636e6eb13fa32c6f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134956602,
+      "datetime": 1748867520
+    },
+    {
+      "title": "Wall Street Sees Deeper Dollar Rout as Currency Nears 2023 Low",
+      "description": "(Bloomberg) -- Wall Street banks are reinforcing their calls that the dollar will weaken further, hit by interest-rate cuts, slowing economic growth and President Donald Trump’s trade and tax policies. Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryWhere the Wild Children’s Museums AreNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaThe Economic Benefits of Paying Workers to MoveNYC Congestion Toll Brings In $216 Million in First Fo",
+      "published_utc": "2025-06-02T18:45:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=939d3df9a7f2ede3e97bd85adcc7423253457628e940c5967013e76eecad7480",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134936770,
+      "datetime": 1748861111
+    }
+  ]
+}

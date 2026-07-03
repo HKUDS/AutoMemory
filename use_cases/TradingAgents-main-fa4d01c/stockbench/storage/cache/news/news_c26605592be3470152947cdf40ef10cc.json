@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-23T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b2e45727983e71cc1af9537d61e3c39ad47e6f1057981507a359f164f6815894",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136043059,
+      "datetime": 1753202160
+    },
+    {
+      "title": "How to Boost Your Portfolio with Top Medical Stocks Set to Beat Earnings",
+      "description": "The Zacks Earnings ESP is a great way to find potential earnings surprises. Why investors should take advantage now.",
+      "published_utc": "2025-07-22T21:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=913955180113f4fcab0014eaae426c13bef0b776d7c4dfc0883e4c51f9e93496",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033511,
+      "datetime": 1753189203
+    },
+    {
+      "title": "Bispecific Antibodies Market Set to Surge to $163.15 Billion by 2032, Driven by a Robust 40.1% CAGR | Roche, Amgen, and Johnson & Johnson at the Forefront: AnalystView Market Insights",
+      "description": "Bispecific T‑cell engagers now dominate oncology pipelines, with global trial activity up 256% since 2019. FDA has approved more than 15 such drugs, and U.S. spending is projected to hit $12.2billion by 2025, rising to over $50 billion by 2032.San Francisco, USA, July 22, 2025 (GLOBE NEWSWIRE) -- The global bispecific antibodies market is witnessing a transformative surge, projected to grow at an impressive compound annual growth rate (CAGR) of 40.10%, reaching a valuation of approximately USD 1",
+      "published_utc": "2025-07-22T15:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72e8b4261ba13679e1808ad8c6859abc97a6a92ae2a03a1fa614e23f0eb34337",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031286,
+      "datetime": 1753168800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:52.876042+00:00",
+    "cache_key": "news_c26605592be3470152947cdf40ef10cc",
+    "count": 3
+  }
+}

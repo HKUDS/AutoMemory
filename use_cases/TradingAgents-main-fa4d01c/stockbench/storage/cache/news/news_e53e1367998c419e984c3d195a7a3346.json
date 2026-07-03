@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Stock Moves 1.03%: What You Should Know",
+      "description": "In the most recent trading session, Amgen (AMGN) closed at $280.35, indicating a +1.03% shift from the previous trading day.",
+      "published_utc": "2025-06-26T05:50:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb2844f556485afbaf2f63b281154499bcc4a8a5c46b042c5001bdc83e293e9e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135553557,
+      "datetime": 1750888201
+    },
+    {
+      "title": "Jim Cramer on Keurig Dr Pepper: “I Don’t Want to Touch That One”",
+      "description": "Keurig Dr Pepper Inc. (NASDAQ:KDP) is one of the 12 stocks on Jim Cramer’s radar recently. A caller asked if the company would be able to compete with Coca-Cola long term despite its “high debt”. In response, Cramer said: “Yeah, no, I don’t want to touch that one. I think if you want to be […]",
+      "published_utc": "2025-06-26T04:59:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1086952677b87adeaaacf1b52d97dcd2576d8617aa6124424f57a2f9334ab73a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531718,
+      "datetime": 1750885164
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-26T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f504721038df06c4dc40da3d49aa0f7775662e8faeb2da0d226152fe29185445",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135542162,
+      "datetime": 1750869300
+    },
+    {
+      "title": "Here's Why Amgen (AMGN) is a Strong Value Stock",
+      "description": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+      "published_utc": "2025-06-25T21:40:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7c0a803f2cdf7af8ef6453672a141767647170ce84fe84ad7e08b28cc7e4379",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527634,
+      "datetime": 1750858801
+    },
+    {
+      "title": "In the wake of Amgen Inc.'s (NASDAQ:AMGN) latest US$6.5b market cap drop, institutional owners may be forced to take severe actions",
+      "description": "Key Insights Given the large stake in the stock by institutions, Amgen's stock price might be vulnerable to their...",
+      "published_utc": "2025-06-25T21:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=806919b3cc5d70a6699053412c317f5fd73c4e71186bfc89086d8e717a183e0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527635,
+      "datetime": 1750856417
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:44.585373+00:00",
+    "cache_key": "news_e53e1367998c419e984c3d195a7a3346",
+    "count": 5
+  }
+}

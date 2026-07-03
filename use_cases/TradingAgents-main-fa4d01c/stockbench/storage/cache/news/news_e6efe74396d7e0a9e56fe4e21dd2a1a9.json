@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stablecoin Firm Circle’s IPO Raises $1.1 Billion in Upsized Deal",
+      "description": "(Bloomberg) -- Circle Internet Group Inc. and some of its shareholders raised nearly $1.1 billion in an upsized initial public offering that was priced above a marketed range, in a sign that stablecoin issuers are winning greater acceptance.Most Read from BloombergICE Moves to DNA-Test Families Targeted for Deportation with New ContractThe Global Struggle to Build Safer CarsAt London’s New Design Museum, Visitors Get Hands-On AccessNYC Residents Want Safer Streets, Cheaper Housing, Survey SaysTh",
+      "published_utc": "2025-06-05T06:15:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5ec63a30e34eea7efbe1004f3aa23fa210e8fed2b1ddd9345f58464875114a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035812,
+      "datetime": 1749075304
+    },
+    {
+      "title": "JPMorgan to let clients use spot Bitcoin ETFs as loan collateral",
+      "description": "JPMorgan to accept Bitcoin ETFs as loan collateral after bond crisis scare",
+      "published_utc": "2025-06-05T03:47:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f54030caded19b03b6f7d70402d7630ca798ff39be40f63b64bc015ec227ecba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035813,
+      "datetime": 1749066441
+    },
+    {
+      "title": "JPMorgan to Accept Bitcoin ETFs as Loan Collateral in Expansion of Crypto Access: Bloomberg",
+      "description": "The move follows CEO Jamie Dimon's recent admission that JPMorgan will soon let clients buy bitcoin.",
+      "published_utc": "2025-06-05T03:09:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5dcb1860f08f4e345bd0abcc5febb3eed8fd2f695ec668308a87f76d82de0e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035814,
+      "datetime": 1749064178
+    },
+    {
+      "title": "Why Even Elon Musk Can’t Kill the Deficit-Busting Tax Bill",
+      "description": "Why Even Elon Musk Can’t Kill the Deficit-Busting Tax Bill",
+      "published_utc": "2025-06-05T00:26:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d97d50b6822dd2a37955e3272c4e273fcbf472a0f76947b2a3e7f1513b610050",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135019695,
+      "datetime": 1749054360
+    },
+    {
+      "title": "BAC's Push to Expand Financial Centers: A Catalyst for Growth?",
+      "description": "Bank of America bets big on physical branches, with 150 new financial centers planned by 2027 to boost growth and deepen customer ties.",
+      "published_utc": "2025-06-04T20:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f453341e7608aeccb3ba53ce3421aad498c2fdaa915965cdae4de17b6fab0cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011222,
+      "datetime": 1749041880
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:19.600662+00:00",
+    "cache_key": "news_e6efe74396d7e0a9e56fe4e21dd2a1a9",
+    "count": 5
+  }
+}

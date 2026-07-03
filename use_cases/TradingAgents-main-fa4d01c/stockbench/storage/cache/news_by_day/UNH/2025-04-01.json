@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Attorney General Directs Prosecutors to Seek Death Penalty Against Luigi Mangione",
+      "description": "The Justice Department’s directive comes in the case against the suspect charged with the killing of a UnitedHealth executive.",
+      "published_utc": "2025-04-01T23:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c688d300176e1d6b8766d4d15674e539e1a97c472f5808bbfdbcbce398c40dcf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133655192,
+      "datetime": 1743523140
+    },
+    {
+      "title": "UnitedHealth Group (UNH): Among the Best Healthcare Stocks to Buy According to Billionaires",
+      "description": "We recently published a list of 10 Best Healthcare Stocks to Buy According to Billionaires. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best healthcare stocks to invest in. Healthcare stocks experienced a challenging year in 2024, lagging behind high-growth sectors like tech and […]",
+      "published_utc": "2025-04-01T21:58:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d2aeb22667166938eaa6787f24587621d2bf15efcc5da7aadd4aa2c012dbf2d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645211,
+      "datetime": 1743515922
+    },
+    {
+      "title": "Dogs Of The Dow Chase April's 'Safer' Buy",
+      "description": "",
+      "published_utc": "2025-04-01T20:05:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feed9044f044f2d4cb8422e3537e5db1ce869843f4c4367a375d4fa0a997d66",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133646857,
+      "datetime": 1743509147
+    }
+  ]
+}

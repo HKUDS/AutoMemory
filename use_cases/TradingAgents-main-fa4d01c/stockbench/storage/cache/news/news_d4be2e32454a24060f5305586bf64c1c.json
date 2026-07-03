@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Advantage Large Cap Core V.I. Fund Q4 2024 Commentary",
+      "description": "BlackRock Advantage Large Cap Core V.I. Fund posted a return of 1.83% (Class I shares) for the fourth quarter of 2024. Read more here.",
+      "published_utc": "2025-03-20T05:48:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=88b9e83ec40291e85d337a6332101fd723b5ce7094d35e318fc3c558596d127e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1479375885/image_1479375885.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263515,
+      "datetime": 1742420880
+    },
+    {
+      "title": "How To Build A $500,000 Dividend Portfolio: Boosting SCHD's Income With High-Yield Stocks",
+      "description": "",
+      "published_utc": "2025-03-20T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b936ece997c63fe94fe1b3b264613da31ecc3106aadaeac6324f96c4b488d51",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262632,
+      "datetime": 1742407200
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Wednesday when compared to competitors despite daily gains",
+      "description": "Visa Inc. Cl A stock underperforms Wednesday when compared to competitors despite daily gains",
+      "published_utc": "2025-03-20T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=77920caf1c454a0f5b77ed46d83e6e3e42c636b9f8077f729960e48f3cf3d6fd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264772,
+      "datetime": 1742401860
+    },
+    {
+      "title": "3 Top Buffett Stocks to Buy and Hold for the Long Haul",
+      "description": "Amazon, Visa, and Chubb are all great stocks to buy, hold, and forget.",
+      "published_utc": "2025-03-19T20:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4989ef66f5febe0f6596028501c1ba41b539c679d71e3e9100266aed82dc20d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311384,
+      "datetime": 1742388300
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Visa, Johnson & Johnson, Thermo Fisher and AMREP",
+      "description": "Visa, Johnson & Johnson, Thermo Fisher and AMREP are included in this Analyst Blog.",
+      "published_utc": "2025-03-19T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ab0daf53844f6f0a67296e9b9c1788ba682ec67414c337bc287214e177c05c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311385,
+      "datetime": 1742374800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:48.559811+00:00",
+    "cache_key": "news_d4be2e32454a24060f5305586bf64c1c",
+    "count": 5
+  }
+}

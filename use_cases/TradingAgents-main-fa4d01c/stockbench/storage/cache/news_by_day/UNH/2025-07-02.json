@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Centene Shares Plunge After Pulling Guidance",
+      "description": "Warning that its earnings will fall well short of expectations, managed-care giant Centene withdrew its financial guidance for 2025, causing its shares to plunge in after-hours trading Tuesday.  Coming after industry bellwether UnitedHealth pulled its guidance for the year and replaced its CEO, the move is likely to add to investors’ nervousness about the entire insurance sector, which has been feeling the effect of higher-than-expected medical costs.  Humana and CVS Health’s Aetna struggled last year, with CVS also bringing on a new chief executive.",
+      "published_utc": "2025-07-02T06:44:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd9246b4128179b9d743c631f88551145d8a6195f3d54257e4e952da21e77334",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699908,
+      "datetime": 1751409868
+    },
+    {
+      "title": "How DexCom, Insulet, and Amedisys Might Be Affected by Medicare Cuts",
+      "description": "The agency overseeing Medicare and Medicaid proposes $4.5 billion of spending cuts for home healthcare, and new economies on diabetes devices.",
+      "published_utc": "2025-07-02T02:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=323260a3fd64ce8dfced4d5c2ddb7de2c0bfdeb19edbf7478e7b733d2fd2cf3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697992,
+      "datetime": 1751395260
+    },
+    {
+      "title": "Health Care Up as Insurers Gain -- Health Care Roundup",
+      "description": "Health Care Up as Insurers Gain -- Health Care Roundup",
+      "published_utc": "2025-07-02T02:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a79ceeaa49ed9f8562e5712b2b718f842f6b3e7e11cda354f9d136ad0a6c922d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135730084,
+      "datetime": 1751394060
+    },
+    {
+      "title": "Update On My Picks: Five Winners, Two Losers",
+      "description": "Five of the Buy picks have returned more than 20%, while two have lost at least that much. Click here to find out more information on stocks.",
+      "published_utc": "2025-07-02T01:01:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=691600737092bb11da29ac2464c04c7cc63e1514772ba158744105fc5eea3d75",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168720864/image_2168720864.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135698422,
+      "datetime": 1751389308
+    },
+    {
+      "title": "Stock Market Today: Dow jumps; S&P 500 and Nasdaq slip",
+      "description": "President Trump and Elon Musk continue to feud. Nike and Apple boost the Dow.",
+      "published_utc": "2025-07-02T00:11:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ac22dc656ad94e90e74c223a57e6e0a640156b80dbc5e8dfb30ec9e22b4f313",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694490,
+      "datetime": 1751386283
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Salesforce: You May Not Get It This Cheap Again (Rating Upgrade)",
+      "description": "Salesforce lags despite solid profits, but AI traction, M&A moves, and low valuation offer upside. See why CRM stock is upgraded to buy.",
+      "published_utc": "2025-05-31T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c73f4a7b4af0c3adbb1a35bf9465babbdd166fae125a598872159db750f80f1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1223906528/image_1223906528.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918633,
+      "datetime": 1748691000
+    },
+    {
+      "title": "Salesforce: Market's Obsession With Growth Presents An Opportunity",
+      "description": "Salesforce slipped post-Q1 2026 results, but improving profitability and low valuations support long-term upside amid transition. See why CRM stock is a buy.",
+      "published_utc": "2025-05-31T13:46:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d869aaa48d65eb36097cfa5806d584ca1b7ba7aa57f40397631a85cd7dd49d94",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1461527038/image_1461527038.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917370,
+      "datetime": 1748670404
+    },
+    {
+      "title": "Salesforce: A Steal For Growth Investors",
+      "description": "",
+      "published_utc": "2025-05-31T12:05:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15e0bac7775324fba76c66ab1760ba6e821bf17051ace0e86dd0dacc78012fec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917034,
+      "datetime": 1748664306
+    }
+  ]
+}

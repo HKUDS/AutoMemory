@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International (NasdaqGS:HON) Partners With Taiyo Oil For Sustainable Aviation Fuel Expansion In Japan",
+      "description": "Honeywell International (NasdaqGS:HON) recently announced a partnership with Taiyo Oil Co. Ltd. for the production of sustainable aviation fuel (SAF) in Japan using its UOP Ethanol to Jet (ETJ) technology. This significant development aligns with global environmental goals and may have supported Honeywell's 4% share price increase over the past month. Additionally, the company declared a quarterly dividend of $1.13 per share and continued its share buyback program, which could also have...",
+      "published_utc": "2025-03-11T01:19:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d75fd391f83360703b0ea4994821352f8a711fecaa18efd010c25884a1316d04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185417,
+      "datetime": 1741627171
+    },
+    {
+      "title": "Taiyo Oil Selects Honeywell Ethanol To Jet Technology For Production Of Sustainable Aviation Fuel",
+      "description": "Honeywell (NASDAQ: HON) today announced that Taiyo Oil Co., Ltd. has chosen the Honeywell UOP Ethanol to Jet (ETJ) technology to produce Sustainable Aviation Fuel (SAF) at its Okinawa Operations in Japan. This facility will be based on Honeywell UOP's first ETJ license and basic engineering design in the Asia Pacific region with a production target of 200 million liters per year.",
+      "published_utc": "2025-03-10T16:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3612324a6e62ce715d3007e7f831918d074c5394712b635cf15c16658ea4c219",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185418,
+      "datetime": 1741597080
+    },
+    {
+      "title": "Innovative Solutions and Support: Short-Term Noise Offers An Investment Opportunity",
+      "description": "Innovative Solutions and Support develops and manufactures aircraft systems and products. Check out why I'm bullish on ISSC stock.",
+      "published_utc": "2025-03-10T09:55:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97ad2ba2ca5bcf84e01aec4b957e8153652620902e6703ee178089eeba961bda",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200465916/image_200465916.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133115123,
+      "datetime": 1741571717
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:13.916370+00:00",
+    "cache_key": "news_aa5a8f75adc7f84cbd1867c085b9a3a5",
+    "count": 3
+  }
+}

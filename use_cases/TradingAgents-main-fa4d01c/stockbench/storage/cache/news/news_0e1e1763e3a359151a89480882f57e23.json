@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express Co. stock outperforms competitors on strong trading day",
+      "description": "American Express Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-04-01T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=58146a5faadcdc23405877fc5c57f9b9e8bc3f9dbb3bf246d6d626da41d82ea5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133637854,
+      "datetime": 1743438780
+    },
+    {
+      "title": "Is American Express Company (AXP) the Best Very Cheap Stock to Buy According to Billionaires?",
+      "description": "We recently published a list of 10 Best Very Cheap Stocks to Buy According to Billionaires In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other best very cheap stocks to buy according to billionaires. Coming off 2 years of healthy broader market performance (~26% total return in […]",
+      "published_utc": "2025-03-31T21:50:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f380b615e7c25778e36252edb65d0f0835e243815e9aedbc933c7f3951980666",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627869,
+      "datetime": 1743429045
+    },
+    {
+      "title": "Hartford Quality Value ETF Q4 2024 Commentary",
+      "description": "Hartford Quality Value ETF underperformed the Russell 1000 Value Index during the quarter. Read more here.",
+      "published_utc": "2025-03-31T17:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4936e7df23d7556069752f60450e0e5a2cab4c0e9253a3bf859fa6313683bda",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1364946137/image_1364946137.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133626227,
+      "datetime": 1743412620
+    },
+    {
+      "title": "85% of Warren Buffett's $290 Billion Portfolio Is Invested in These 12 Magnificent Stocks",
+      "description": "The Oracle of Omaha is a big believer in concentrating Berkshire's invested assets into his top ideas.",
+      "published_utc": "2025-03-31T17:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8b0650f0fa6037dcea446cc20922c9ac059112f2c792e15ac111b56c386cbe1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133625602,
+      "datetime": 1743411960
+    },
+    {
+      "title": "Warren Buffett Stock Smashes AI Stocks, S&P 500 With Sterling 2025 Performance",
+      "description": "Warren Buffett Stock Smashes AI Stocks, S&P 500 With Sterling 2025 Performance",
+      "published_utc": "2025-03-31T15:47:05",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=196293275cfe3c3122d2aeed84e1c5b3366afcdf1d28ebf1fe85239b52c16cfe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133635283,
+      "datetime": 1743407225
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:27.191625+00:00",
+    "cache_key": "news_0e1e1763e3a359151a89480882f57e23",
+    "count": 5
+  }
+}

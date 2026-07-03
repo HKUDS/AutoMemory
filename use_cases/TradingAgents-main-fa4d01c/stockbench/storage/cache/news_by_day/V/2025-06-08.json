@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stock Picks From Seeking Alpha's May 2025 New Analysts",
+      "description": "Meet Seeking Alpha's 33 new analysts and explore their top stock picks, including Archer-Daniels-Midland & CrowdStrike.",
+      "published_utc": "2025-06-08T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a5e8d20e2cf90ef0ecf688380d3db615ff43c7ca5ffbd7652204152657eb874",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1473515905/image_1473515905.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114402,
+      "datetime": 1749373200
+    }
+  ]
+}

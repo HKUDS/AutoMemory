@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why McDonald's (MCD) Dipped More Than Broader Market Today",
+      "description": "McDonald's (MCD) concluded the recent trading session at $312.48, signifying a -1.14% move from its prior day's close.",
+      "published_utc": "2025-04-16T05:50:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94ace0e54a25c6cd70d36992cde13918329eedb383ef9e35bcfe7a6db64f41ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932765,
+      "datetime": 1744753816
+    },
+    {
+      "title": "Is Arcos Dorados Holdings (ARCO) Among the Top Restaurant Stocks to Buy Under $20?",
+      "description": "We recently published a list of Top 10 Restaurant Stocks to Buy Under $20. In this article, we are going to take a look at where Arcos Dorados Holdings Inc. (NYSE:ARCO) stands against other top restaurant stocks to buy under $20. The Impact of Trump’s Tariffs on the Restaurant Industry Restaurant stocks are showing volatility […]",
+      "published_utc": "2025-04-16T04:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a313b2dae321b1a0b64b7bc1430bcccb7a76e3930fef49a35a38c18889c9d6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932766,
+      "datetime": 1744747211
+    },
+    {
+      "title": "Dow Jones Leader McDonald's, Netflix Stock Near New Buy Points",
+      "description": "Dow Jones restaurant giant McDonald's, along with Netflix stock and MercadoLibre, are among the best stocks to watch Tuesday.",
+      "published_utc": "2025-04-15T23:29:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bbfecadc0e22f369d6cc2a39b44a71e31f71c58a73d2cc49ef01b551eb2c0de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133922079,
+      "datetime": 1744730952
+    },
+    {
+      "title": "CMG's High Valuation Meets Tariff Noise: Book Profit or Hold Tight?",
+      "description": "Chipotle's focus on customer experience, digital investment and supplier diversification should support a sustainable recovery over time.",
+      "published_utc": "2025-04-15T22:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fe0894a81318ea1c3e0dc86d0e4767cb8088c2d4cc1286853be3fe58366aafa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133927963,
+      "datetime": 1744727880
+    },
+    {
+      "title": "Dow drops 100 points on losses in shares of Nike, Amazon.com Inc.",
+      "description": "Dow drops 100 points on losses in shares of Nike, Amazon.com Inc.",
+      "published_utc": "2025-04-15T21:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=09b3e3d2452e427f27f08c287fef37f797bdbd93976115fd45f60596d0bf4210",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133926039,
+      "datetime": 1744725180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:13.452644+00:00",
+    "cache_key": "news_fc8b2e100cbbca2fd51fcdb097683c19",
+    "count": 5
+  }
+}

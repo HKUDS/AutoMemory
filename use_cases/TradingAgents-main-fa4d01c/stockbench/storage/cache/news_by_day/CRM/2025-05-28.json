@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nvidia, Salesforce, & HP earnings, Fed minutes: What to watch",
+      "description": "Wednesday, May 28, will be a big one for Wall Street. Nvidia (NVDA) will report its first quarter earnings after the market close. Salesforce (CRM), HP (HPQ), and Abercrombie & Fitch (ANF) are also set to report their quarterly results. Also in focus will be the minutes from the FOMC meeting earlier this month. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-05-28T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e271ab8ef4b7ce7f2356e970960b77d9b72c84553035004ebad813c481bc716",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134741992,
+      "datetime": 1748386800
+    },
+    {
+      "title": "Jim Cramer Worries About Salesforce (CRM)’s Announcement of Acquiring Informatica",
+      "description": "We recently published a list of Jim Cramer Had These 21 Stocks on His Radar. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stocks that Jim Cramer discusses. When a caller mentioned that they own Salesforce, Inc. (NYSE:CRM) stock, Cramer said: “If Salesforce goes and […]",
+      "published_utc": "2025-05-28T05:53:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=139c7cbbb2dd6fc8c4098e5c88dd1045fd6fb36e45c76b0007cc23208812bff3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134741993,
+      "datetime": 1748382819
+    },
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares rise on US-EU talks, consumer confidence",
+      "description": "",
+      "published_utc": "2025-05-28T04:39:08",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=fa763079e420f30b1315678d308826ee6850746a26e586b10c6cf90019265357",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715393,
+      "datetime": 1748378348
+    },
+    {
+      "title": "Salesforce (CRM) To Report Earnings Tomorrow: Here Is What To Expect",
+      "description": "Customer relationship management software maker Salesforce (NYSE:CRM) will be reporting results tomorrow after market close. Here’s what you need to know.",
+      "published_utc": "2025-05-28T04:21:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1aaa3c3137cdde9934ef74386c60997a82233105227c9158577071de09c212e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715955,
+      "datetime": 1748377285
+    },
+    {
+      "title": "Salesforce to acquire Informatica for $8 billion in latest AI push",
+      "description": "Salesforce says the acquisition will help the San Francisco software company, which provides tools to help businesses manage sales and customer data, ramp up its AI efforts.",
+      "published_utc": "2025-05-28T04:14:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebec726368773e842cf8390f491c23dee4e2bb30283e9a1ffe4f3caee10bfe2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715957,
+      "datetime": 1748376876
+    }
+  ]
+}

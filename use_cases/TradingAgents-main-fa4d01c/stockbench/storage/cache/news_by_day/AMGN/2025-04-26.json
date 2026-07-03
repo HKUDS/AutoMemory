@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Novo Nordisk: Examining Tariff And Pricing Risks",
+      "description": "",
+      "published_utc": "2025-04-26T16:50:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4959a9af926c223a27f36e094f6b83b35e55adb6ab39736fc8461b7df81548ce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099617,
+      "datetime": 1745657433
+    }
+  ]
+}

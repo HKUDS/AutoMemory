@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "4 Surefire Dividend Stocks to Buy in the Stock Market Sell-Off",
+      "description": "It's always a good time to buy solid dividend stocks, but considering the challenging economic environment, now might be a particularly opportune time.  With a volatile equity market and a potential recession looming due to the impact of tariffs, dividend stocks can help strengthen any portfolio.  With that as a backdrop, let's consider four excellent income stocks that investors can buy amid the current sell-off: AbbVie (NYSE: ABBV), Amgen (NASDAQ: AMGN), Bristol Myers Squibb (NYSE: BMY), and Zoetis (NYSE: ZTS).",
+      "published_utc": "2025-04-27T06:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b343700d61184c8820b2648510b9b4b9daead66835bdbcda884421d1aead106",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104516,
+      "datetime": 1745705100
+    },
+    {
+      "title": "Amgen (NasdaqGS:AMGN) Expands Ohio Facility With US$900 Million Investment",
+      "description": "Amgen (NasdaqGS:AMGN) recently announced a significant $900 million expansion in its Ohio manufacturing facility, aiming to strengthen its biomanufacturing capabilities. This investment is part of a strategic focus on enhancing U.S. manufacturing, alongside its $1 billion commitment to a new plant in North Carolina. Over the past quarter, Amgen's stock price moved by 2%, while the broader market increased by 8%. Although the company's investment plans signal long-term growth, this moderate...",
+      "published_utc": "2025-04-27T01:16:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1b0e211be19882e44eb717ebc2d1f898c3c46cc6429bc3f42079e4ec555bfa3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104590,
+      "datetime": 1745687779
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "78dd871a1fc796867bf48882287bc6e882836d5f1928725d28c8223505f925e7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Construction Robots Market to Expand from USD 1.15 Billion in 2023 to USD 4.10 Billion by 2032 at a CAGR of 15.18% | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-25T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/25/3032190/0/en/Construction-Robots-Market-to-Expand-from-USD-1-15-Billion-in-2023-to-USD-4-10-Billion-by-2032-at-a-CAGR-of-15-18-Research-by-SNS-Insider.html",
+      "tickers": [
+        "EKSO",
+        "FANUY",
+        "YASKY",
+        "CAT",
+        "KMTUY",
+        "ABBNY",
+        "HSQVY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Construction Robots Market is experiencing significant growth due to the integration of advanced robotics and automation technologies, which are revolutionizing the construction industry and enhancing efficiency, safety, and precision.",
+      "keywords": [
+        "Construction Robots",
+        "Automation",
+        "AI",
+        "Robotics",
+        "Construction Industry"
+      ],
+      "insights": [
+        {
+          "ticker": "EKSO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing wearable exoskeletons for construction workers."
+        },
+        {
+          "ticker": "FANUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing industrial robots for construction applications."
+        },
+        {
+          "ticker": "YASKY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing industrial robots for automation."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is listed as a key player in the construction robots market, providing autonomous construction equipment."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as a key player in the construction robots market, providing autonomous vehicles and robotic arms."
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is listed as a key player in the construction robots market, providing industrial robots and robotic arms."
+        },
+        {
+          "ticker": "HSQVY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is listed as a key player in the construction robots market, providing demolition and drilling robots."
+        }
+      ]
+    }
+  ]
+}

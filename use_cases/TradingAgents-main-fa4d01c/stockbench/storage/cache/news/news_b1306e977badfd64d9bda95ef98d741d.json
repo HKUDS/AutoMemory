@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Caterpillar Stock Is Having a Tough Day",
+      "description": "Shares in Caterpillar (NYSE: CAT) were down by 3% in today's trading at 3:20 p.m. ET.  The decline comes on a bad day for the markets overall and, more importantly, for the commodities that drive orders for its machinery.  Caterpillar is well known for its construction equipment and its sales aligning with the construction cycle.",
+      "published_utc": "2025-04-22T03:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc7004e0b803cdc17d8ba90f35317b46ac716fe2a6e78430f8824c33803d8646",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026426,
+      "datetime": 1745263680
+    },
+    {
+      "title": "Caterpillar Inc. (CAT): Among Value Stocks in Ken Fisher’s Portfolio",
+      "description": "We recently published a list of 10 Value Stocks in Ken Fisher’s Portfolio. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other value stocks in Ken Fisher’s portfolio. Trump’s “stupid” tariffs will fail; that’s the sentiment echoed by billionaire investor Ken Fisher as their impact continues […]",
+      "published_utc": "2025-04-22T01:06:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e602255bef352866ebef8e4aaf204738c040740cce96c1539e8d47562aec57e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026428,
+      "datetime": 1745255166
+    },
+    {
+      "title": "Caterpillar Inc. stock underperforms Monday when compared to competitors",
+      "description": "Caterpillar Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-04-22T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1fa8ef6e9c770e41c136275df0ced9c66a921adfc5b263ccd2f980b844f96015",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134054819,
+      "datetime": 1745253300
+    },
+    {
+      "title": "Today's Market: S&P 500, Nasdaq Fall 2%, Dow Drops 800 Points as Trump Criticizes Fed",
+      "description": "Wall Street Falls Sharply as Trump Threatens Fed's Independence",
+      "published_utc": "2025-04-22T00:33:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49cf01720b83b930eddfd35a0a209b015a6f8e51fe102ebf022b186531232f19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024119,
+      "datetime": 1745253226
+    },
+    {
+      "title": "1 Cash-Producing Stock with Exciting Potential and 2 to Turn Down",
+      "description": "A company that generates cash isn’t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+      "published_utc": "2025-04-21T21:06:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a62a8caf1ff9c6166965d1aa4815351f224cf534227a9af6ad393d7c3570964",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022874,
+      "datetime": 1745240766
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:23.888699+00:00",
+    "cache_key": "news_b1306e977badfd64d9bda95ef98d741d",
+    "count": 5
+  }
+}

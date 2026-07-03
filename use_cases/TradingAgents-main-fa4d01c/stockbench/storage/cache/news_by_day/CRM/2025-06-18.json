@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Salesforce preps price hike amid AI blitz",
+      "description": "The software company will increase pricing across several of its core products, including Slack, Enterprise Editions for Sales Cloud and Service Cloud.",
+      "published_utc": "2025-06-18T23:20:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b3860ebe2efaeb3afb71cbf88d5a0014e55e14f980ea7b142b29a5e764eb48a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135377231,
+      "datetime": 1750260006
+    },
+    {
+      "title": "Salesforce announces 6% price increase for enterprise, cloud products",
+      "description": "Salesforce (CRM) says it is updating pricing for Enterprise Editions and Unlimited Editions for Sales Cloud, Service Cloud, Field Service, and select Industries Clouds. On August 1, list prices will increase by an average of 6%. “These increases reflect the significant ongoing innovation and customer value delivered through our products. There are no planned changes to pricing for Salesforce Foundations, Starter, or Pro Editions,” the company said in a statement. Published first on TheFly – the",
+      "published_utc": "2025-06-18T22:05:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bc0b91a6441c8594a93b49900922544bbb823a1b8da3660ef5457cd67263693",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370856,
+      "datetime": 1750255509
+    },
+    {
+      "title": "Why This 1 Growth Stock Could Be a Great Addition to Your Portfolio",
+      "description": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+      "published_utc": "2025-06-18T21:45:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baa550608c3d232effcc74e3efe8ad2bc3c40ac53af23baab1ce8341db9fd25d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370857,
+      "datetime": 1750254308
+    }
+  ]
+}

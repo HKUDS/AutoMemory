@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple COO Jeff Williams to Retire in Major Changing of Guard",
+      "description": "(Bloomberg) -- Apple Inc. Chief Operating Officer Jeff Williams is retiring as the company’s longtime No. 2, marking a major changing of the guard at an already tumultuous time for the iPhone maker.Most Read from BloombergAre Tourists Ruining Europe? How Locals Are Pushing BackCan Americans Just Stop Building New Highways?Denver City Hall Takes a Page From NASAPhiladelphia Trash Piles Up as Garbage Workers’ Strike Drags OnWilliams will step down as COO this month before retiring from the company",
+      "published_utc": "2025-07-09T07:25:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d035b0f57d38a0f183e6eb52236563ae72cc71c696537c85c449d47d14073c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825993,
+      "datetime": 1752017116
+    },
+    {
+      "title": "How IBM Plans to Redefine AI Performance with Its New Hardware",
+      "description": "The big server launch set to combine faster chips with rapid ransomware defense",
+      "published_utc": "2025-07-09T04:33:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bf896fe6e6623d5ef2f0adb0346be7b91ba162b0b1f9f49195832da2bb026a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825994,
+      "datetime": 1752006835
+    },
+    {
+      "title": "Qryptonic Launches Industry's First Multi-Cloud Quantum Cybersecurity Platform",
+      "description": "QStrike(TM) 6.0 Orchestrates 6-8 Quantum Computers Simultaneously to Detect Vulnerabilities Traditional Tools Miss, Powered by 70-Billion Parameter AI Model Miami, Florida and Be'er Sheva, Israel--(Newsfile Corp. - July 8, 2025) - When a major technology company accidentally exposed 38TB of private data including passwords and keys through misconfigured storage in 2023, it highlighted a critical truth: even tech giants struggle with cryptographic security. Today, Qryptonic LLC announced QStrike™",
+      "published_utc": "2025-07-09T00:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a46a968555a250273009601876d8f281aedd3e302bc63a0a0bafc00fd2f115c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825995,
+      "datetime": 1751991240
+    },
+    {
+      "title": "Uber, IBM's Power11 chip, Hershey new CEO: Trending Tickers",
+      "description": "Uber (UBER) stock recently hit new record highs, rebounding 60% this year. Bank of America also raised its price target on the stock to $115, citing expectations for higher free cash flow. IBM (IBM) unveiled its first major Power chip update in five years with the new Power11 chip, saying the company aims to compete more directly in the artificial intelligence (AI) server race. Hershey (HSY) has named Wendy's (WEN) CEO Kirk Tanner as the company's next CEO as the candy maker navigates changing consumer tastes. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts here.",
+      "published_utc": "2025-07-08T23:01:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a899820b20004c17f5859d43c4d277d4a863032d5db879c427cd42a7891ecaf3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825996,
+      "datetime": 1751986902
+    },
+    {
+      "title": "Finance Cloud Market Trend Analysis and Forecast Report 2025-2034, Competitive Analysis of Key Players - Salesforce, IBM, Dell, Oracle, Capgemini, Acumatica, Infosys, Amazon, Microsoft, and Google",
+      "description": "The Global Finance Cloud Market is anticipated to expand from USD 32.8 billion in 2024 to USD 240.4 billion by 2034, driven by the digital transformation in banking, insurance, and investment sectors. The shift to finance cloud solutions enhances operational efficiency, compliance, and customer experience. Innovations in AI, automation, and analytics are revolutionizing financial processes. Major players like Salesforce, IBM, and Google focus on security, compliance, and partnerships to boost ma",
+      "published_utc": "2025-07-08T22:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92c0ff54f1b2db1caee17d54c18fd7f1b5b1fbf0193600d751b899516c17c2df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805487,
+      "datetime": 1751983560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:34.428730+00:00",
+    "cache_key": "news_d27597b6762cb266a6b5b8f2b35ee0b0",
+    "count": 5
+  }
+}

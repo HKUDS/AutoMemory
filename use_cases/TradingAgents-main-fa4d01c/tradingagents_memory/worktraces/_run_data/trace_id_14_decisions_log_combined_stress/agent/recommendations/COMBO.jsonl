@@ -1,0 +1,7 @@
+{"trade_date": "2026-01-10", "ticker": "COMBO", "rating": "Strong Buy", "one_line_thesis": "GAMMA-overwrite-jan10-breakout-confirmed", "key_risks": ["valuation stretched"]}
+{"trade_date": "2026-01-05", "ticker": "COMBO", "rating": "Buy", "one_line_thesis": "EPSILON-overwrite-jan05-revised-upward", "key_risks": ["rate headwind"]}
+{"trade_date": "2026-01-15", "ticker": "COMBO", "rating": "Hold", "one_line_thesis": "THETA-overwrite-jan15-reduce-conviction", "key_risks": ["earnings risk", "macro"]}
+{"trade_date": "2026-01-03", "ticker": "COMBO", "rating": "Sell", "one_line_thesis": "IOTA-early-sell-signal-ignored", "key_risks": ["gap risk"]}
+{"trade_date": "2026-01-20", "ticker": "COMBO", "rating": "Strong Buy", "one_line_thesis": "KAPPA-post-earnings-breakout-new-highs", "key_risks": ["valuation stretch"]}
+{"trade_date": "2026-01-07", "ticker": "COMBO", "rating": "Strong Buy", "one_line_thesis": "LAMBDA-overwrite-jan07-revised-stance", "key_risks": ["macro risk"]}
+{"trade_date": "2026-01-12", "ticker": "COMBO", "rating": "Hold", "one_line_thesis": "MU-overwrite-jan12-pullback-caution", "key_risks": ["resistance level", "volume dry-up"]}

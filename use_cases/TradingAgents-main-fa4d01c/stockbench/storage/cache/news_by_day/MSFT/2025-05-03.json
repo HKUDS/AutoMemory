@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "title": "Big Tech showed it won’t back down on AI spending. Some on Wall Street are still wary.",
+      "description": "Big Tech showed it won’t back down on AI spending. Some on Wall Street are still wary.",
+      "published_utc": "2025-05-03T17:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c9337a0fc8434043eb79c7bc1307163fe0d76534e678e0dd9fb49f706b7be46e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253734,
+      "datetime": 1746266220
+    },
+    {
+      "title": "Dogs Of The Dow Chase May's 'Safer' Buy",
+      "description": "Discover the top Dow Dogs for potential gains of 21%-45% by 2026, with Verizon leading in dividends. Read more on the price gainers for 2026 based on 1-year target prices.",
+      "published_utc": "2025-05-03T17:46:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=350e7769b702ab011e6e05a8a775d6afbeec758c10f0e5378d06981688951dc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470996886/image_1470996886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134226264,
+      "datetime": 1746265597
+    },
+    {
+      "id": "4d0c8b3a77c1d2539defbd6479d12c136f546882ade81c29c76dc00657309c45",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia and AMD Just Got Amazing News From Meta Platforms and Microsoft",
+      "author": "Jose Najarro",
+      "published_utc": "2025-05-03T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/03/nvidia-and-amd-just-got-amazing-news-from-meta-pla/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "MSFT",
+        "NVDA",
+        "AMD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/816986/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "The article discusses the performance of Meta Platforms, Microsoft, Nvidia, and Advanced Micro Devices, providing stock prices and analyst recommendations.",
+      "keywords": [
+        "Meta Platforms",
+        "Microsoft",
+        "Nvidia",
+        "Advanced Micro Devices",
+        "stock recommendations",
+        "market analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Meta Platforms as one of the companies discussed, indicating it is a focus of the analysis."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Microsoft as one of the companies analyzed, suggesting a positive outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is listed as one of the companies covered in the article, implying a positive assessment."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses Advanced Micro Devices, indicating a positive perspective on the company."
+        }
+      ]
+    }
+  ]
+}

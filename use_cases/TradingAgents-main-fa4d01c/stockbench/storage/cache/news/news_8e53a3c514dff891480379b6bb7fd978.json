@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Komatsu: The Cheaper Japanese Rival To Caterpillar At 9.6x TTM P/E",
+      "description": "Komatsu (KMTUY) offers a solid 4.38% dividend and has begun share repurchases, enhancing shareholder value. See why I think the stock is a buy.",
+      "published_utc": "2025-01-05T17:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=acf742ba5df8a6d0e5bb616b5fa6525b0c95ac07bf00a2514b5453f557141f10",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1471677516/image_1471677516.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278185,
+      "datetime": 1736070720
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:33.673002+00:00",
+    "cache_key": "news_8e53a3c514dff891480379b6bb7fd978",
+    "count": 1
+  }
+}

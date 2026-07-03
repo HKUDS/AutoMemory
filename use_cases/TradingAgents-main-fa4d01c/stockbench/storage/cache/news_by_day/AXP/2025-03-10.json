@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "description": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "published_utc": "2025-03-10T23:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f0efd6bd16cfc5288192b3ff97718103c4c3d57d1088d88c9e62d17a81f11a99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133125334,
+      "datetime": 1741620900
+    },
+    {
+      "title": "Goldman Sachs, Apple share losses lead Dow's 879-point drop",
+      "description": "Goldman Sachs, Apple share losses lead Dow's 879-point drop",
+      "published_utc": "2025-03-10T22:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6f43bd7637c038e6fe2822a99b5657d621e21f20f4c2754ed7a0a794753a93e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122808,
+      "datetime": 1741617000
+    },
+    {
+      "title": "American Express to buy expense management software firm Center",
+      "description": "Subject to customary closing conditions, the acquisition is anticipated to close within the second quarter of this year.",
+      "published_utc": "2025-03-10T21:30:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=544791fd15d3c164bb45880cf065ecb5bff835cbdfa575c75fa6a6864642c21a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185301,
+      "datetime": 1741613407
+    }
+  ]
+}

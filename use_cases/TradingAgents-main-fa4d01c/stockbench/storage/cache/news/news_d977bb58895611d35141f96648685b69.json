@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is UnitedHealth Group (UNH) the Most Profitable Blue Chip Stock to Buy Now?",
+      "description": "We recently published a list of 10 Most Profitable Blue Chip Stocks to Buy Now. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other most profitable blue chip stocks to buy now. Blue chip stocks are large, financially stable companies with strong market presence, consistent profitability, […]",
+      "published_utc": "2025-04-30T04:43:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57a78dfca7c6b51f18a0174cc9a49ac18785da89435ae299f11dc3238edc78fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141606,
+      "datetime": 1745959390
+    },
+    {
+      "title": "UnitedHealth names insider Patrick Conway as Optum CEO",
+      "description": "Conway is currently the chief executive officer of Optum Rx, the company's pharmacy benefit management unit.  Conway joined Optum in February 2020 and has held senior leadership roles at Optum Rx and Optum Health.",
+      "published_utc": "2025-04-30T04:17:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cdcee8a002487078f8b2ce4edaf9af0c9340f35df648f4226604810b768772e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141607,
+      "datetime": 1745957867
+    },
+    {
+      "title": "UnitedHealth names Patrick Conway to lead healthcare services business",
+      "description": "UnitedHealth said on Tuesday Patrick Conway, the chief executive of its pharmacy benefit management unit, will take on the top job at Optum, its health services segment, replacing Heather...",
+      "published_utc": "2025-04-30T00:17:47",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e70b3e16c03af79f6d9dab039068dd2264810709b5a073a7b8486c8b35ea1e7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134136185,
+      "datetime": 1745943467
+    },
+    {
+      "title": "UnitedHealth Group: Mr. Market Has Got It All Wrong",
+      "description": "UnitedHealth's stock tanked following the Q1 earnings report after it revised the earnings guidance for this year. Learn more about UNH stock here.",
+      "published_utc": "2025-04-29T21:41:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=07d9a28f6910661c8de719b912b2ea44204322816131daec4ba87be629dce010",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/540839640/image_540839640.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134134373,
+      "datetime": 1745934079
+    },
+    {
+      "title": "UnitedHealth Group Incorporated (UNH): Among Billionaire Israel Englander’s Stock Picks with Huge Upside Potential",
+      "description": "We recently published a list of Billionaire Israel Englander’s 10 Stock Picks with Huge Upside Potential. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other billionaire Israel Englander’s stock picks with huge upside potential. Millennium Management is a globally recognized investment firm specializing in multi-strategy hedge […]",
+      "published_utc": "2025-04-29T20:23:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd1bb07d3bbfef3ff02aa78eb7501cebe539dd30b0167914171b91e7d5373eb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130955,
+      "datetime": 1745929427
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:46.534381+00:00",
+    "cache_key": "news_d977bb58895611d35141f96648685b69",
+    "count": 5
+  }
+}

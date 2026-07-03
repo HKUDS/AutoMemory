@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
+      "description": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-07-29T00:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0658f4d0e6bcf70ead70ae36990e8df2385e202672d94042777d2110190a5364",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136125402,
+      "datetime": 1753720920
+    }
+  ]
+}

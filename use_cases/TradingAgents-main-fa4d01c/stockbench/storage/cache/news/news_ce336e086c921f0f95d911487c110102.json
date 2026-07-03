@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Long-Term S&P 500 Earnings Trends Along With Market Returns",
+      "description": "Over the years, one data point Iâve noticed is that many S&P 500 valuation models use a long-run S&P 500 EPS growth metric of 7% to estimate fair value on the benchmark.",
+      "published_utc": "2025-03-18T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4755d18bac5fdb5596006da7239920751926c5157e5baa344b890b59bbda123",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182036952/image_2182036952.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133210484,
+      "datetime": 1742242200
+    },
+    {
+      "title": "Buy CPZ For Better Zzzs At Night",
+      "description": "CPZ offers a unique mix: Long stocks, long corporate bonds, and short mostly the S&P 500. Read how this fund helps investors navigate market volatility.",
+      "published_utc": "2025-03-17T19:41:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26b868107e247ceebe1badf75fa3336d97f29b311025de0a038f6531229db2b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1446027203/image_1446027203.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133208004,
+      "datetime": 1742211703
+    },
+    {
+      "title": "Apple Stock Is Dropping. Why Its AI Delay Could Be an Opportunity.",
+      "description": "Apple Stock Is Dropping. Why Its AI Delay Could Be an Opportunity.",
+      "published_utc": "2025-03-17T19:15:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a02fc32b833d70771f11cf19b5c1dca0ec849d46551591a8858ee04049e477bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212851,
+      "datetime": 1742210100
+    },
+    {
+      "title": "Dow Jones Rises On Bessent 'No Guarantees' Comment; Nvidia Reverses Lower Ahead Of AI Event",
+      "description": "Dow Jones Rises On Bessent 'No Guarantees' Comment; Nvidia Reverses Lower Ahead Of AI Event",
+      "published_utc": "2025-03-17T18:01:38",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=06d11760542edd86942ad91aac16d9a909cda64992e95892201d432d88b3bd82",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212822,
+      "datetime": 1742205698
+    },
+    {
+      "title": "Stock Market Corrections: How To Sell Stocks, Manage Risk And Prepare For Next Uptrend",
+      "description": "Stock Market Corrections: How To Sell Stocks, Manage Risk And Prepare For Next Uptrend",
+      "published_utc": "2025-03-17T17:49:33",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=cb5404e085e2912058b879a3ec4e4be9da84688bf1c04d2971fcd8ca327b86de",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212823,
+      "datetime": 1742204973
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:05.551338+00:00",
+    "cache_key": "news_ce336e086c921f0f95d911487c110102",
+    "count": 5
+  }
+}

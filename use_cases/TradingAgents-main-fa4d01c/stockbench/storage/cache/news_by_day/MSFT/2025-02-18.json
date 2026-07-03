@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Big Tech May Have to Wait a Little Longer for a Merger Spree",
+      "description": "Big Tech May Have to Wait a Little Longer for a Merger Spree",
+      "published_utc": "2025-02-18T23:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c721ff9af03597f39fa63132f8aaeffa603c9115b507a785fa3708de2a9fc35e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784518,
+      "datetime": 1739894160
+    },
+    {
+      "title": "Meta Stock’s Huge Rally Ended Today",
+      "description": "Meta Stock’s Huge Rally Ended Today",
+      "published_utc": "2025-02-18T22:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6deca0c374b365bb8c05aef43c84817d5a9bc60519c24bae1d9fb1011507a3ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784519,
+      "datetime": 1739887800
+    }
+  ]
+}

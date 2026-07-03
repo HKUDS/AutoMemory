@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, May 25, 2025",
+      "description": "Investors shifted focus from tariffs to concerns over ballooning US debt, deficit, and rising interest payments. Check out the market here and my recommendation.",
+      "published_utc": "2025-05-25T06:36:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=32a92d4f33c427e905ae2486043942e9e9490729cdb349585dd13e061a68c4a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134690911,
+      "datetime": 1748126187
+    },
+    {
+      "title": "Investing in Dividend Stocks: The Stability of Warren Buffett's Picks",
+      "description": "Dividend stocks are a central aspect of Buffett's success at Berkshire Hathaway.",
+      "published_utc": "2025-05-25T06:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=237d0ffca39d0cea4a639cde120e5eeebd3d13dc8feef67a4b4dd1ab535c394c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694209,
+      "datetime": 1748124300
+    },
+    {
+      "title": "Ex-Apple Engineers Behind $200M Xnor Deal Launch ElastixAI, Secure $16M To Revolutionize AI Inference Across Devices",
+      "description": "Seattle-based ElastixAI, founded just months ago by veteran engineers behind Apple's (NASDAQ:AAPL) $200 million acquisition of Xnor, has raised $16 million from top-tier investors, including Bellevue-based capital venture company FUSE. The stealth-mode startup with elite Apple pedigree is quietly tackling one of the most expensive pain points in artificial intelligence deployment: inference, GeekWire reports. Don't Miss: Hasbro, MGM, and Skechers trust this AI marketing firm — Invest before it's",
+      "published_utc": "2025-05-25T03:00:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb707d85035bf743585cee95693bce6ed09262cf0e00fc49ecf36a92c17f5c33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694210,
+      "datetime": 1748113247
+    },
+    {
+      "title": "Ships are canceling crossings to U.S., and Trump’s new 50% E.U. tariff threat isn’t likely to help",
+      "description": "The spotlight is back on U.S. supply chains after President Trump threatened new E.U. and smartphone tariffs",
+      "published_utc": "2025-05-25T02:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42f85feabef14d7a065698b81692a48eb8832b3ce4d0334852ad9c2b7f7888a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694211,
+      "datetime": 1748112840
+    },
+    {
+      "title": "Mark Zuckerberg Once Vented Why Apple AirPods Have No Competition: 'One Of The Protocols That They Used...'",
+      "description": "Meta Platforms Inc. (NASDAQ:META) CEO Mark Zuckerberg had once criticized the proprietary AirPods protocol of Apple Inc. (NASDAQ:AAPL), advocating for it to be made accessible to competitors. What Happened: Zuckerberg, on the Joe Rogan Podcast episode 2255, expressed his concerns over Apple’s exclusive AirPods protocol, which provides effortless connectivity with iPhones, claiming it to be an unjust limitation on competitors. Zuckerberg rejected Apple’s assertions of privacy and security risks,",
+      "published_utc": "2025-05-25T02:01:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc7deb4f3dbfef1c1fd55b2c2e449277cb99439eaad4c3a1fc241f3f0a386ae9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694212,
+      "datetime": 1748109683
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:47:18.743038+00:00",
+    "cache_key": "news_f735f51b613299f1ce62773c901baaa8",
+    "count": 5
+  }
+}

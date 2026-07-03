@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Forget About Dividend Yield, Do This Instead",
+      "description": "Dividend growth and low payout ratios are key for long-term compounding. Click here for more information on Dividend Investing Strategies.",
+      "published_utc": "2025-05-21T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5b931bd91eaf816029ef734fe292646a879ad80a5bc402c1a2ed4634ab54440a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175534967/image_175534967.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134625239,
+      "datetime": 1747818000
+    },
+    {
+      "title": "Understanding VYM: A Dividend ETF Built For Income Stability",
+      "description": "Discover VYM, a fund tracking high dividend U.S. stocks.",
+      "published_utc": "2025-05-21T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24f3a27fa68af66e488320680b37be0cf6798eefb3b7cc12096d9fb0cdaa1d8e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1503371245/image_1503371245.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134624985,
+      "datetime": 1747816200
+    },
+    {
+      "title": "My Dividend Stock Portfolio: New All-Time Dividend Record In April - 100 Holdings With 14 Buys",
+      "description": "",
+      "published_utc": "2025-05-21T16:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da857ba038502fb2801876c07073c96e54676960374534733580830e88991dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134624799,
+      "datetime": 1747815000
+    },
+    {
+      "title": "1 Unpopular Stock that Deserves a Second Chance and 2 to Approach with Caution",
+      "description": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating business lines like M&A advisory.",
+      "published_utc": "2025-05-21T12:35:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e36036ff5ed88b422dd2a704343a0a7f31141ece6c6b20cdac2fbee0e81ac719",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628207,
+      "datetime": 1747802115
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM): Among Billionaire Ken Fisher’s Top Growth Stock Picks",
+      "description": "We recently published a list of Billionaire Ken Fisher’s Top 13 Growth Stock Picks. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other billionaire Ken Fisher’s top growth stock picks. “Who am I to tell you anything, much less anything that counts? Or that there are […]",
+      "published_utc": "2025-03-30T07:17:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9650476a2718d556f06f1ec8543feee9584d22f22db29011f29b58a350948d75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133581709,
+      "datetime": 1743290260
+    }
+  ]
+}

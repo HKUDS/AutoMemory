@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "KB Home, Oklo, eToro, Boeing: After-hours newsmakers",
+      "description": "Here are some of the companies making headlines after the market close on Monday, March 24. KB Home (KBH) shares fell sharply after the homebuilder reported earnings that fell short of estimates and lowered its full-year revenue outlook. Shares of Oklo (OKLO) slipped after reporting 2024 full-year results. eToro filed for its initial public offering. It has selected to list on the Nasdaq with the ticker ETOR. The Wall Street Journal is reporting that Boeing is looking to withdraw from an agreement it made with the Justice Department to plead guilty in relation to a case in which the aerospace giant is accused of deceiving regulators ahead of two deadly 737 MAX crashes. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+      "published_utc": "2025-03-25T05:23:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e1c69c28b7d826df28d68a6272474624210936a061688445d048b8a46ee933d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360443,
+      "datetime": 1742851410
+    },
+    {
+      "title": "Boeing seeks to withdraw guilty plea deal in deadly crashes of 737 MAX jets, WSJ reports",
+      "description": "WASHINGTON (Reuters) -Boeing is seeking to withdraw an agreement to plead guilty in a criminal case that blamed the company for deceiving regulators before two deadly crashes of 737 MAX jets, the Wall Street Journal reported on Monday.  A U.S. judge in December rejected the deal, faulting a diversity and inclusion provision, and Boeing and the Justice Department have been negotiating toward a new agreement.  President Donald Trump took over on January 20, giving his administration a chance to weigh in on the deal.",
+      "published_utc": "2025-03-25T04:54:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03210c66352f8d367ed8fd4d0fe28a7d7af07ba34d42bb37c509b0bb84cebbfc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360444,
+      "datetime": 1742849698
+    },
+    {
+      "title": "Boeing Is Pushing to Withdraw Guilty Plea Agreement",
+      "description": "The aerospace company is seeking the Justice Department’s support to scale back a deal it reached during the final months of the Biden administration.",
+      "published_utc": "2025-03-25T04:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c238ac85c87c94b3408c2c110ec1e0dc4862e2697d3d3c7d809ddf9a9a24debc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360445,
+      "datetime": 1742848920
+    },
+    {
+      "title": "Intuitive Machines Stock: Surges On Profit Outlook",
+      "description": "Intuitive Machines recently reported earnings. Read how this aerospace company is positioning itself for 2025.",
+      "published_utc": "2025-03-25T01:56:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6097ae90a3a58dff6b68b86d3f714dd373a3db6043edb1d0ada25f9591f4fdf7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151535978/image_2151535978.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133358500,
+      "datetime": 1742838977
+    },
+    {
+      "title": "Boeing's Free Cash Flow Estimates Raised by RBC Amid Robust Delivery Projections",
+      "description": "Boeing's (BA) first-half aircraft deliveries are expected to benefit from higher inventory levels, w",
+      "published_utc": "2025-03-25T01:03:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80ee53eb50112e66febfadfe7107c6aceb2ca2853947c1c58960dad83f10803f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360446,
+      "datetime": 1742835796
+    }
+  ]
+}

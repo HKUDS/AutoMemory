@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW) Delivers 10x Total Return Since Launch of S&P Dividend Aristocrats Index",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) is included among the 11 Best Dividend Aristocrat Stocks to Invest in Now. Among the founding members of the S&P Dividend Aristocrats Index, The Sherwin-Williams Company (NYSE:SHW) has stood out as the strongest performer. The stock recorded the highest return between May 2, 2005, and May 2025, delivering a gain of […]",
+      "published_utc": "2025-07-01T05:05:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69afb625e857d5d4f0cc996a11ca94904ba4119bf776a03e63dc4375f5450160",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135683322,
+      "datetime": 1751317530
+    }
+  ]
+}

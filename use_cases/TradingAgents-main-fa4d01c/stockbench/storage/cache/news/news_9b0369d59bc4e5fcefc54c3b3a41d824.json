@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Tracking Strong Dividend Increase Trends Amid Macro Uncertainty",
+      "description": "",
+      "published_utc": "2025-06-25T21:41:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c906a799171a1c298caea06f9661d374addf57e4053b06a96aae02f0873a64b1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527239,
+      "datetime": 1750858860
+    },
+    {
+      "title": "5 Must-Read Analyst Questions From Caterpillar’s Q1 Earnings Call",
+      "description": "Caterpillar’s first quarter results for 2025 were shaped by lower sales volume, pricing headwinds, and changing dealer inventory patterns, leading to a decline in both revenue and margins compared to last year. Despite falling short of Wall Street’s expectations, management pointed to strong order rates and record growth in backlog as signs of underlying demand resilience. CEO Jim Umpleby credited the company’s merchandising programs for better-than-expected machine sales to users in Constructio",
+      "published_utc": "2025-06-25T19:40:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc3e2e34873b76e15b7b7eea77401d8df22c58b625814ae236736241d73e6986",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527645,
+      "datetime": 1750851616
+    },
+    {
+      "title": "Saudi Arabia Construction Equipment Market Forecast Report 2025-2030: Saudi Ports Expansion and New Logistics Parks Drive Material Handling Equipment Demand",
+      "description": "The Saudi Arabia Construction Equipment Market is forecasted to expand from 37,272 units in 2024 to 52,621 units by 2030, at a CAGR of 5.92%. Key growth drivers include significant investments in public infrastructure, port expansions, and burgeoning material handling segment. Earthmoving equipment, notably excavators, dominates, fueled by plans such as Saudi's Vision 2030. Key vendors like Caterpillar, Liebherr, and Komatsu lead the market. However, rising construction costs and a skilled labor",
+      "published_utc": "2025-06-25T19:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d4360986f45d0237e9d8dccbc9342b593cb22246746ca220d00e78509805c58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527646,
+      "datetime": 1750849800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:38.382277+00:00",
+    "cache_key": "news_9b0369d59bc4e5fcefc54c3b3a41d824",
+    "count": 3
+  }
+}

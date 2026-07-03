@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here Are 5 Stocks That I Believe Will Perform Very Strongly In 2025",
+      "description": "I don't believe we will have a year as successful as 2024 in the markets. Check out the five stocks that, I believe, will perform very strongly this year.",
+      "published_utc": "2025-01-06T05:07:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=375d1b981860c10bbf370b7912b862c17ff8a42d885d374941365570ebc3c462",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1609437977/image_1609437977.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281872,
+      "datetime": 1736111250
+    },
+    {
+      "title": "Amazon’s Prime Video Acquires Melania Trump Film",
+      "description": "Amazon.com  Prime Video streaming service has licensed what it said was a documentary about former and future first lady  Melania Trump.  The film is being done with her cooperation, and she will have an executive producer credit on the movie, Amazon said Sunday.  Filming of the “behind-the-scenes” look at her life began in December, a month after President-elect  Donald Trump’s  election victory.",
+      "published_utc": "2025-01-06T03:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dc2774aad0eaf522a50e27f742eaebf98fd01afca1a0d0907012561f8c485a1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132280383,
+      "datetime": 1736104020
+    },
+    {
+      "title": "A Melania Trump documentary from director Brett Ratner will be released by Amazon",
+      "description": "LOS ANGELES — Incoming first lady Melania Trump will be the subject of a new documentary directed by Brett Ratner and distributed by Amazon Prime Video. The streaming arm of the tech giant got...",
+      "published_utc": "2025-01-05T23:45:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e9693ff2c3c8178f5c9b08e89ab5d247000348734d9a657cd7a38a7f8f225cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132280218,
+      "datetime": 1736091915
+    },
+    {
+      "title": "Could Buying Amazon Stock Today Set You Up for Life?",
+      "description": "Could Amazon stock be the key to your financial future? Check out why this company might be a cornerstone in your portfolio.",
+      "published_utc": "2025-01-05T23:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eaf3ab15286d5d29d3b3dab8bdabbb7ab045c6b50583604c9f2af3b46d87154c",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802816/annual-amazon-price-changes.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132283158,
+      "datetime": 1736091540
+    },
+    {
+      "title": "Is Amazon.com, Inc. (NASDAQ:AMZN) the Hottest Large-Cap Stock Right Now?",
+      "description": "We recently compiled a list of the 10 Hottest Large-Cap Stocks Right Now. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against the other large-cap stocks. This article will analyze several prominent large-cap stocks that are currently exerting significant influence on market dynamics. These stocks are currently considered […]",
+      "published_utc": "2025-01-05T23:10:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26a99a4463a000523de44ff47af4a3969e6a08551dba0a5e8425987cd5d66f7d",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/v4vjuMw83AspvSftOzdXyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278413,
+      "datetime": 1736089850
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:40.596526+00:00",
+    "cache_key": "news_550742c15cfb2f2198b671301eeec26b",
+    "count": 5
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-04T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cbfe177a0f664a7a22ab581269d61e14144a59bb62e4b4e872d85ba271c65bc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132545027,
+      "datetime": 1738600380
+    },
+    {
+      "title": "L’Oréal taps IBM on AI model for cosmetic research, innovation",
+      "description": "L'Oreal is partnering with IBM to leverage IBM's GenAI tech and expertise to discover new insights in cosmetic formation data.The partners will develop a custom AI foundation model focused on...",
+      "published_utc": "2025-02-03T14:51:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a073e0d08c2e1f42d91dfbf838a5305d324d0d7014f7c437614edd71b122f6bc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132519693,
+      "datetime": 1738565469
+    },
+    {
+      "id": "696725f2d1843f078a0264c140c53b0757d1b24f959fca94c9596dff904e9d44",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Digital Evidence Management Market to Surpass USD 19.25B by 2032 Driven by Tech Advancements & Cybercrime  | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-03T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/03/3019566/0/en/Digital-Evidence-Management-Market-to-Surpass-USD-19-25B-by-2032-Driven-by-Tech-Advancements-Cybercrime-Research-by-SNS-Insider.html",
+      "tickers": [
+        "MSI",
+        "NICE",
+        "IBM",
+        "HTHIY",
+        "OTEX",
+        "CLBT",
+        "AAXN",
+        "AXON",
+        "ORCL",
+        "VRNT",
+        "DGLY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Digital Evidence Management Market is growing rapidly, driven by advancements in AI, ML, and blockchain, which are enhancing the efficiency, accuracy, and security of digital evidence management systems. The market is expected to reach USD 19.25 Billion by 2032, growing at a CAGR of 11.0% from 2024 to 2032.",
+      "keywords": [
+        "Digital Evidence Management",
+        "AI",
+        "Machine Learning",
+        "Blockchain",
+        "Cybercrime"
+      ],
+      "insights": [
+        {
+          "ticker": "MSI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Motorola Solutions is a major player in the Digital Evidence Management market, offering solutions like CommandCentral Records and CommandCentral Evidence."
+        },
+        {
+          "ticker": "NICE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NICE Ltd is a prominent player in the market, providing solutions like NICE Investigate and NICE Inform for digital evidence management."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM Corporation is a major player in the market, providing solutions like IBM i2 Analyze and IBM Security QRadar for digital evidence management."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi, Ltd. is a prominent player in the market, offering solutions like Hitachi Video Management Platform and Hitachi Visualization Suite for digital evidence management."
+        },
+        {
+          "ticker": "OTEX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Open Text is a major player in the market, providing solutions like OpenText Axcelerate and OpenText EnCase for digital evidence management."
+        },
+        {
+          "ticker": "CLBT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cellebrite is a prominent player in the market, offering solutions like Cellebrite UFED and Cellebrite Physical Analyzer for digital evidence management."
+        },
+        {
+          "ticker": "AAXN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Axon Enterprise, Inc. is a key player in the market, providing solutions like Evidence.com and Axon Body 3 for digital evidence management."
+        },
+        {
+          "ticker": "AXON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Axon Enterprise, Inc. is a key player in the market, providing solutions like Evidence.com and Axon Body 3 for digital evidence management."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle Corporation is a major player in the market, offering solutions like Oracle Analytics Cloud and Oracle Autonomous Database for digital evidence management."
+        },
+        {
+          "ticker": "VRNT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Verint Systems Inc. is a key player in the market, offering solutions like Verint Evidence Center and Verint Video Investigator for digital evidence management."
+        },
+        {
+          "ticker": "DGLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Digital Ally, Inc. is a notable player in the market, providing solutions like FirstVu HD and VuLink for digital evidence management."
+        }
+      ]
+    },
+    {
+      "id": "137aaab3ba0daeb8b686de8b6595c5951249699ab4acaa257ef0b3e5d5aea3f4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Accenture Stock: Buy, Sell, or Hold?",
+      "author": "Dan Victor",
+      "published_utc": "2025-02-03T13:19:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/03/accenture-stock-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "ACN",
+        "CTSH",
+        "INFY",
+        "IBM",
+        "MSFT",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805621/accenture-stock-price-outlook-2025.jpg",
+      "description": "Accenture, a global leader in professional services, is benefiting from the ongoing digital transformation and its expertise in AI-enabled solutions. The company's strong financial performance and growth prospects make it a compelling investment opportunity, despite some risks related to macroeconomic conditions and competition.",
+      "keywords": [
+        "Accenture",
+        "AI",
+        "digital transformation",
+        "professional services"
+      ],
+      "insights": [
+        {
+          "ticker": "ACN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Accenture is delivering solid operational and financial momentum, emerging as a leader in AI and digital transformation solutions. The company's strong quarterly results, increased guidance, and dividend hike suggest it is well-positioned to continue rewarding shareholders."
+        },
+        {
+          "ticker": "CTSH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cognizant Technologies is mentioned as one of Accenture's traditional peer group, indicating it operates in a competitive market for IT services and digital transformation projects."
+        },
+        {
+          "ticker": "INFY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Infosys is mentioned as one of Accenture's traditional peer group, indicating it operates in a competitive market for IT services and digital transformation projects."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IBM is mentioned as a major tech player that Accenture must compete with in offering AI implementation solutions, suggesting a competitive landscape."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as a major tech player that Accenture must compete with in offering AI implementation solutions, suggesting a competitive landscape."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Oracle is mentioned as a major tech player that Accenture must compete with in offering AI implementation solutions, suggesting a competitive landscape."
+        }
+      ]
+    },
+    {
+      "id": "57f097039ca1e1a3f32e1c4896048430c0a24952ab14ad5f4e502b133aabe50d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Data Masking Market Size to Hit USD 3097.55 Million by 2033 | Straits Research",
+      "author": "N/A",
+      "published_utc": "2025-02-03T11:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/03/3019304/0/en/Data-Masking-Market-Size-to-Hit-USD-3097-55-Million-by-2033-Straits-Research.html",
+      "tickers": [
+        "INFA",
+        "SAP",
+        "MSFT",
+        "IBM",
+        "HPE",
+        "HPEpC"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
+      "description": "The global data masking market is projected to grow from $1.04 billion in 2025 to $3.1 billion by 2033, at a CAGR of 14.6%. The market is driven by the rise in data privacy regulations, cloud security needs, and the increasing adoption of data masking solutions across industries.",
+      "keywords": [
+        "data masking",
+        "data privacy",
+        "cloud security",
+        "market growth"
+      ],
+      "insights": [
+        {
+          "ticker": "INFA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Informatica as one of the key players in the data masking market, indicating its strong presence and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists SAP as one of the major companies in the data masking market, suggesting its involvement and potential to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the prominent companies in the data masking market, indicating its participation and potential to benefit from the market's expansion."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists IBM as a major player in the data masking market, suggesting its strong presence and ability to capitalize on the market's growth."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Hewlett Packard Enterprise Development LP as a major player in the data masking market, implying its strong presence and ability to capitalize on the market's growth."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Hewlett Packard Enterprise Development LP as a major player in the data masking market, implying its strong presence and ability to capitalize on the market's growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T16:10:19.566223+00:00",
+    "cache_key": "news_602ed73a1577ef223a59d923b0730deb",
+    "count": 5
+  }
+}

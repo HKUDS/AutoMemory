@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Home Depot, Inc. (NYSE:HD) is favoured by institutional owners who hold 73% of the company",
+      "description": "Key Insights Significantly high institutional ownership implies Home Depot's stock price is sensitive to their trading...",
+      "published_utc": "2025-04-12T21:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b48b29149b215e894a344df17ba9fdc43400eae6076d579d18ca9ad59e0ab685",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895943,
+      "datetime": 1744462813
+    },
+    {
+      "title": "How To Buy Low And Sell High Consistently For Lifelong Wealth",
+      "description": "",
+      "published_utc": "2025-04-12T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98245e313a1904662c3f16550cb0717c1994123cf8eff3760881c035898779cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894505,
+      "datetime": 1744446600
+    }
+  ]
+}

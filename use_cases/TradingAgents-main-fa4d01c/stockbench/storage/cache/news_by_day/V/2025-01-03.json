@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Visa Inc. Cl A stock underperforms Thursday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Thursday when compared to competitors",
+      "published_utc": "2025-01-03T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=aa830aa7e80fb9eb349573a11e2e9abbcb9f3d657b1351cad3b5cce5e38f9a53",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321602,
+      "datetime": 1735835640
+    }
+  ]
+}

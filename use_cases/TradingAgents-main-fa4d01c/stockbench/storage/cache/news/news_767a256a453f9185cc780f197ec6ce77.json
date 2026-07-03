@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple fans spent $1,199 on an iPhone — Bitcoin buyers turned it into a MacBook",
+      "description": "If you purchased Bitcoin instead of Apple's iconic iPhone 16 Pro Max on its launch day, you would be able to purchase a MacBook Pro with M4 chip today.",
+      "published_utc": "2025-04-23T05:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d53f47349f4e876e91c7465483736253b04cbb5f2c50cf0397e04f504b66ddaf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038578,
+      "datetime": 1745355600
+    },
+    {
+      "title": "Survey Shows Pent-Up Demand For New Apple iPhones",
+      "description": "A survey of U.S. consumers in March indicates surprisingly strong demand for iPhone upgrades despite \"a challenging fundamental backdrop.\"",
+      "published_utc": "2025-04-23T04:27:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70c99839bd973719e2d7913f233fb4d6500ed438c727ab5948be42f830c2e395",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038579,
+      "datetime": 1745353640
+    },
+    {
+      "title": "Sector Update: Tech Stocks Higher in Late Afternoon Trading",
+      "description": "Tech stocks were rising late Tuesday afternoon, with the Technology Select Sector SPDR Fund (XLK) ad",
+      "published_utc": "2025-04-23T03:54:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d47fb3d2ad3f58acb289eedfbb64e2364d86cedbafe2f0f00aca2f91dee7b130",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038580,
+      "datetime": 1745351692
+    },
+    {
+      "title": "Apple Rebuilds Siri Team With Vision Pro Veterans After Project Setbacks",
+      "description": "Apple brings in new faces from Vision Pro team to reboot Siri, following project delays and mounting competitive pressure",
+      "published_utc": "2025-04-23T03:36:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54df416d9d94baa68bacacaccb6660a9dfa3660632da49ead3a8f7e239fdd2b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038581,
+      "datetime": 1745350563
+    },
+    {
+      "title": "Bessent Calls U.S.-China Trade War Unsustainable; S&P 500 Bounces",
+      "description": "The U.S.-China standoff over tariffs is unsustainable and likely to de-escalate, Treasury Secretary Scott Bessent said.",
+      "published_utc": "2025-04-23T01:50:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91f36a35228a24cefc0dd04ca866153a0f8d6b87c238b52f3ad5cbb47d737903",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038582,
+      "datetime": 1745344253
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:35:12.019175+00:00",
+    "cache_key": "news_767a256a453f9185cc780f197ec6ce77",
+    "count": 5
+  }
+}

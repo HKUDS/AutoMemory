@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Equity-Income Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-26T21:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98c8bd1248935d551b22de21306696be014013e3b30d997199056a14f1b42eab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136095888,
+      "datetime": 1753536000
+    },
+    {
+      "title": "Fed Rate Decision In Focus With Microsoft, Apple Set To Report Earnings",
+      "description": "This week's earnings release include technology giants such as META, MSFT, and AAPL. Investors can watch out for Dallas Fed Manufacturing Business Index data.",
+      "published_utc": "2025-07-26T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f8e65781434aa3ecacc1e98aa701502b436dee35eb2e527774d16bbca4d90695",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136095394,
+      "datetime": 1753527600
+    },
+    {
+      "title": "3-Bucket System For $5,000 Monthly Income, For Early Retirees",
+      "description": "See here for a 3-bucket portfolio offering 5-6% income, market-beating growth, and reduced volatilityâideal for retirees seeking steady $5,000 monthly income!",
+      "published_utc": "2025-07-26T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5c8a1b16b5f497b7d10ad7f5a946ce13739df29bb4986091dcffa21865f2753",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1497523107/image_1497523107.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136094785,
+      "datetime": 1753516800
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Apple Inc. (AAPL) the Worst Blue Chip Stock to Buy?",
+      "description": "We recently published a list of 10 Worst Blue Chip Stocks to Buy. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other worst blue chip stocks to buy. As per Niamh Brodie-Machura, Co-Chief Investment Officer at Fidelity International, the effect of tariffs is expected to shift […]",
+      "published_utc": "2025-05-10T23:01:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=445e3932388d9e65a2bf5362901a1cabcbc85baeefc362d6f8b96a857b8042c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379086,
+      "datetime": 1746889309
+    }
+  ]
+}

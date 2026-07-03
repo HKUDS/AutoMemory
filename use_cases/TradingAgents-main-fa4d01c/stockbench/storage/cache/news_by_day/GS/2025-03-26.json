@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow falls nearly 125 points on losses in shares of NVIDIA Corp., Salesforce",
+      "description": "Dow falls nearly 125 points on losses in shares of NVIDIA Corp., Salesforce",
+      "published_utc": "2025-03-26T23:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=344d76216baae6e41455c48bae9703dd0ce6055c2e0770a9529aec918bc4abb2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462329,
+      "datetime": 1743004320
+    }
+  ]
+}

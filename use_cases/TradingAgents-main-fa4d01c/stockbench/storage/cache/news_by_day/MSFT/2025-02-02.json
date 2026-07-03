@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Templeton Growth Fund Q4 2024 Commentary",
+      "description": "During Q4 2024, global stocks were pressured by investor concerns about economic growth, persistent inflation in some regions and the uncertain path of interest-rate cuts in 2025.",
+      "published_utc": "2025-02-02T21:32:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5dc72c089e5dfa345da04b4165b1796b41709eb8d52e55aec7d6af0047f8e340",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1158571591/image_1158571591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132515763,
+      "datetime": 1738503120
+    },
+    {
+      "title": "Nvidia: 3 Reasons Why I Bought The 'DeepSeek Dip'",
+      "description": "NVIDIAâs clients still face supply constraints, signaling demand. Find out why NVDA stock is a buy after the DeepSeek dip, with a promising future in AI.",
+      "published_utc": "2025-02-02T17:52:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0db69b2b62a52fde27a469237a39a23e8d7815cef220ce49db8833aae160ebd1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132515065,
+      "datetime": 1738489929
+    }
+  ]
+}

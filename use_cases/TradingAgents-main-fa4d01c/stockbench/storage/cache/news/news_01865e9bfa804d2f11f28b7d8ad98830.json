@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth (UNH) Faces Sell Call Amid Margin Squeeze, Regulatory Risks",
+      "description": "Independent investor flags structural headwinds; Wall Street remains cautiously bullish",
+      "published_utc": "2025-06-04T05:19:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f39eadfc32ddcd33b162ca00a9621d50fb1aa9aead4ff0284df2b9520a9262c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135003543,
+      "datetime": 1748985563
+    },
+    {
+      "title": "UnitedHealth to Curtail Medicare Advantage Costs: Margin Boost Ahead?",
+      "description": "UNH's CEO pledges reform after rare earnings miss as rising Medicare Advantage costs squeeze margins and spook investors.",
+      "published_utc": "2025-06-03T22:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93fc423f7e5b9ed5c3a97b2635e68bcbeee6c1ebdc60be9e5aad18b6e9449f16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134978854,
+      "datetime": 1748960880
+    },
+    {
+      "title": "What Investors Should Look Out For In May 2025's Job Report",
+      "description": "Investors may likely dismiss the upcoming May jobs report this Friday, despite potential job losses in government sector. Check out the latest market outlook.",
+      "published_utc": "2025-06-03T20:05:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b841be06cbf768c94aa16322d6470783b9d33955d851389453451f12591eb09",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393736657/image_1393736657.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134979195,
+      "datetime": 1748952321
+    },
+    {
+      "title": "UnitedHealth Group And Its Real Value",
+      "description": "UnitedHealth Group faces short-term challenges, but strong fundamentals, undervaluation, and long-term growth potential make it a compelling buy-and-hold. Read more here.",
+      "published_utc": "2025-06-03T16:28:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb95cb7b3cb57b85a317b00807441b5bae39e3df1a88ec4e9720f4377f0ef00f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159946636/image_2159946636.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134976548,
+      "datetime": 1748939326
+    },
+    {
+      "title": "UnitedHealth: Reputation, Complexity, And Regulatory Risks Worth 13x Earnings",
+      "description": "",
+      "published_utc": "2025-06-03T14:11:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d2947b51a2b7f78210f55f044713404bed1bbab2d97f9263dd8f8229ed85c6ab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134975246,
+      "datetime": 1748931098
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:38.226127+00:00",
+    "cache_key": "news_01865e9bfa804d2f11f28b7d8ad98830",
+    "count": 5
+  }
+}

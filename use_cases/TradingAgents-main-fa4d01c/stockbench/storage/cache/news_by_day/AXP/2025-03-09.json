@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "title": "International-Stock Funds Finally Wake Up",
+      "description": "International-Stock Funds Finally Wake Up",
+      "published_utc": "2025-03-09T18:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4a19dc754926e2ee73ce21f96a90417565ee881e87650fe001e8937e082b8f38",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133119007,
+      "datetime": 1741514400
+    },
+    {
+      "id": "33f374404454c10ce9e6b1243873b46b196c1c977ddd2403eb0c560fb780cad9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying Berkshire Hathaway Stock Today Set You Up for Life?",
+      "author": "Leo Sun",
+      "published_utc": "2025-03-09T08:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/could-buying-berkshire-hathaway-stock-today-set-yo/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810296/buffett17-tmf.jpg",
+      "description": "Berkshire Hathaway, led by Warren Buffett, has outperformed the S&P 500 for decades. Its insurance and investment businesses have been key drivers of growth. However, the upcoming leadership transition and potential changes in strategy raise concerns about Berkshire's future performance.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "insurance",
+        "investment portfolio",
+        "leadership transition"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Berkshire Hathaway's future performance. While the company has a strong track record under Buffett's leadership, the upcoming leadership transition and potential changes in strategy raise concerns about its ability to maintain its market-beating performance."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Berkshire Hathaway's future performance. While the company has a strong track record under Buffett's leadership, the upcoming leadership transition and potential changes in strategy raise concerns about its ability to maintain its market-beating performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway holds a large stake in Apple, which is considered a blue-chip giant. The article suggests that Berkshire's investment portfolio, which includes companies like Apple, has been a key driver of its growth."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway holds a significant stake in American Express, which is also considered a blue-chip company. The article indicates that Berkshire's investment portfolio has been a key contributor to its success."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway holds a large stake in Coca-Cola, another blue-chip company. The article suggests that Berkshire's investment portfolio, which includes companies like Coca-Cola, has been a key driver of its growth."
+        }
+      ]
+    }
+  ]
+}

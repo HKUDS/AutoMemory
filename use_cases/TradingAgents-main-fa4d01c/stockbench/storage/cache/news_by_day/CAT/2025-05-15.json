@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. (CAT): Among the Stocks Analysts Are Upgrading Today",
+      "description": "We recently compiled a list of the 10 Stocks Analysts Are Upgrading Today. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against the other stocks analysts are upgrading today. The easing of the US-China trade war is the catalyst driving equity markets higher after weeks of heightened volatility. […]",
+      "published_utc": "2025-05-15T00:49:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7785e21d9e565860b80437eefd014b6e5ca119bbbe2394b2772ab916b2fac27",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460984,
+      "datetime": 1747241374
+    },
+    {
+      "title": "Analyst reboots Caterpillar stock price target as new CEO discusses tariffs",
+      "description": "This is what could happen next to Caterpillar's shares.",
+      "published_utc": "2025-05-15T00:45:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=782061661e4de1591c2b840854e73d47d7c60fb2ccb72c85ff27f123542e1d8b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460985,
+      "datetime": 1747241114
+    }
+  ]
+}

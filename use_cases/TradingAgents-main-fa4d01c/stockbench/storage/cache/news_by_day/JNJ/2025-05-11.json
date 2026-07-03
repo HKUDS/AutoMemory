@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Kenvue: First Quarter A Sign Of Challenging Times, But Still A Solid Long-Term Play",
+      "description": "Kenvue, a Johnson & Johnson spinoff, offers long-term upside with solid dividends despite near-term economic headwinds. Read why KVUE stock is a Hold.",
+      "published_utc": "2025-05-11T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb43a62f8c7eab65cf27ca5948bed0535373734e2ed44770441b01c4ac46badd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201143780/image_2201143780.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134370668,
+      "datetime": 1746950400
+    },
+    {
+      "title": "Fortress Dividends: 2 Of The Best All-Weather Income Stocks Built To Last",
+      "description": "",
+      "published_utc": "2025-05-11T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e54200bb940abba33676e9b0abc523ff7256bab8bd2a07f29e8e0ae22916e555",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134370554,
+      "datetime": 1746948600
+    },
+    {
+      "title": "Invesco Growth And Income Fund Q1 2025 Commentary",
+      "description": "Reversing a trend in Q4, value stocks outperformed growth in Q1 as the Russell 1000 Value Index returned 2.14% and the Russell 1000 Growth Index returned -9.97%.",
+      "published_utc": "2025-05-11T12:27:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fcae6f6024509d9d4f9f06b8c6c1d0ac7a49a3bf5bce221e086f90a6b578e022",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160994971/image_2160994971.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369791,
+      "datetime": 1746937620
+    }
+  ]
+}

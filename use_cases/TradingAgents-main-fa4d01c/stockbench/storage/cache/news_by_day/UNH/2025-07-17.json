@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Watch Recap: J&J, UnitedHealth, Goldman Sachs, Ford",
+      "description": "↗️ Johnson & Johnson (JNJ): J&J posted better-than-expected results and boosted its annual outlook. Shares rose 6.2%. ? Goldman Sachs (GS), Bank of America (BAC), Morgan Stanley (MS): The banks reported stronger-than-forecast profits, as tariff-related market turbulence boosted trading.",
+      "published_utc": "2025-07-17T05:05:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2b153ca4d3aff7d5972f5c95d839d832085d6567e756d091107460978a83a6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993147,
+      "datetime": 1752699920
+    },
+    {
+      "title": "UnitedHealth: Profitable, Growing, Cheap... But Risky",
+      "description": "",
+      "published_utc": "2025-07-17T01:41:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=21cc20b014b0c9128904ebecaa031f161df1541c3fd5cb2241d63f0cd82df6ea",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971452,
+      "datetime": 1752687687
+    }
+  ]
+}

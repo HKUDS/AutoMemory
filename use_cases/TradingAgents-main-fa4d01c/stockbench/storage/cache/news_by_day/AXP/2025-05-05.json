@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "description": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "published_utc": "2025-05-05T20:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d2454692857ed12a2f43286076b646d13672034d2dcf9b27722bf6104fa2a8da",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134254151,
+      "datetime": 1746446580
+    }
+  ]
+}

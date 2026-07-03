@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Citi Stays Bullish on Microsoft (MSFT), Cites AI Agent Momentum",
+      "description": "We recently published a list of 12 AI Stocks on Analysts’ Radar. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks on analysts’ radar. The recently imposed US sanctions on chip use have angered China. In recent news, the country has stated that it […]",
+      "published_utc": "2025-05-22T07:55:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f293a07d33300067995bd5d2bcc75545f5163304279a17992f4257319f76d64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647790,
+      "datetime": 1747871705
+    },
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-05-22T06:14:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e27504393d6270f71f4779aed94b422dee3a3fcabc889d6582ddb2468c20c3d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631523,
+      "datetime": 1747865679
+    },
+    {
+      "title": "Microsoft to host Musk's Grok 3 despite ongoing OpenAI legal battle",
+      "description": "Microsoft and Elon Musk team up to bring Grok 3 to Microsoft users amid legal battle between Musk and Open AI/Microsoft.",
+      "published_utc": "2025-05-22T05:06:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a05ac617cba0a9dbbab5875b19c233b017aa03b96ae0d62ebe34cf1ef800bc78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647791,
+      "datetime": 1747861592
+    },
+    {
+      "title": "Google is banking on AI agents, smart glasses to defend its search crown",
+      "description": "Google is looking for its next major hit to ensure it holds on to its leadership in search.",
+      "published_utc": "2025-05-22T04:16:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29f783ffd7d87de6fc8bf7a754008b7b875c7dc0e8de86282437ab4ff1362173",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647792,
+      "datetime": 1747858604
+    },
+    {
+      "title": "Microsoft, Law Enforcement Agencies Disrupt 'Go-To' Malware",
+      "description": "Microsoft said Wednesday that its digital crimes unit, along with law enforcement agencies, disrupted a prominent malware that had infected thousands of computers.",
+      "published_utc": "2025-05-22T03:34:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30c23cf504a157443e7205f03d23bcf57b53f7a370c567e4c3aa1c9fe336a20d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647793,
+      "datetime": 1747856089
+    }
+  ]
+}

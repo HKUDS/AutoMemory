@@ -1,0 +1,78 @@
+{
+  "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+  "eval_mode": "qa",
+  "category": "high_noise",
+  "description": "Escalation: a tight but realistic handoff prompt budget should preserve actionable next steps and files over verbose goal text.",
+  "turns": [
+    {
+      "role": "system",
+      "content": "compaction wrote a very verbose active handoff",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Complete the account-data residency migration while preserving every legacy tenant path, keeping audit replay deterministic, maintaining compatibility with old search index aliases, checking billing export gates, coordinating support documentation, and staging rollout windows that cannot overlap with nightly imports or compliance snapshot jobs because enterprise tenants require uninterrupted evidence capture during the migration window.",
+          "constraints": "Do not change global config, do not edit generated clients, keep the dry-run flag enabled, preserve audit logging, and document each manual migration step before approval.",
+          "done": ["Mapped residency callers", "Added adapter skeleton"],
+          "inProgress": ["Threading residency region into hydration"],
+          "blockers": ["Need compliance approval for eu-enterprise-9"],
+          "decisions": ["Use adapter fallback until all tenants migrate"],
+          "nextSteps": [
+            "Run bun test packages/account --filter residency-hydration",
+            "Update the compliance rollout issue with dry-run evidence",
+            "Ask support to approve eu-enterprise-9 messaging"
+          ],
+          "files": [
+            "packages/account/src/residency-hydration.ts",
+            "packages/account/test/residency-hydration.test.ts"
+          ]
+        }
+      }
+    },
+    { "role": "tool", "content": "unrelated log output chunk one", "used_for_evaluation": false },
+    { "role": "agent", "content": "unrelated planning noise", "used_for_evaluation": false },
+    { "role": "tool", "content": "unrelated log output chunk two", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false, "metadata": { "retention_flush": true } },
+    { "role": "user", "content": "Pause and keep the action items.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Paused.", "used_for_evaluation": false },
+    { "role": "tool", "content": "format produced no changes", "used_for_evaluation": false },
+    { "role": "agent", "content": "End of noisy handoff trace.", "used_for_evaluation": false },
+    { "role": "system", "content": "final noise marker", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What test must be run next?",
+      "metadata": { "maxChars": 500 },
+      "expected_information": [
+        { "value": "bun test packages/account --filter residency-hydration", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which rollout issue update remains?",
+      "metadata": { "maxChars": 500 },
+      "expected_information": [
+        { "value": "dry-run evidence", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which approval is blocked?",
+      "metadata": { "maxChars": 500 },
+      "expected_information": [
+        { "value": "eu-enterprise-9", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which source file owns residency hydration?",
+      "metadata": { "maxChars": 500 },
+      "expected_information": [
+        { "value": "packages/account/src/residency-hydration.ts", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which test file owns residency hydration coverage?",
+      "metadata": { "maxChars": 500 },
+      "expected_information": [
+        { "value": "packages/account/test/residency-hydration.test.ts", "matcher": "substring" }
+      ]
+    }
+  ]
+}

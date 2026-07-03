@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nvidia’s Made-in-the-U.S.A. Move Follows a Familiar Trump Pattern",
+      "description": "Chip maker  Nvidia  unveiled plans Monday to produce new made-in-America supercomputers that power artificial intelligence, just one day after the Trump administration said tariffs were coming for semiconductor-reliant imports.  The chip maker said it would make AI supercomputers with contract manufacturers in Texas, its first public disclosure of a plan that would amplify ongoing U.S. efforts to bring semiconductor production back to domestic markets.  A darling of the global AI boom, Nvidia promised an eye-popping $500 billion in spending in the coming years, an announcement that echoed a similar goal disclosed by  Apple  in February.",
+      "published_utc": "2025-04-15T07:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=884be02094d3e55dd77185c6464f70c2a27e6d2a35bed75c78c5db6b64200325",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917681,
+      "datetime": 1744672440
+    },
+    {
+      "title": "Apple: Proceed With Caution",
+      "description": "",
+      "published_utc": "2025-04-15T06:39:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3100e529031422c5c593d79b00d9fb9d5d08a228faedafc84ea26541eb15274e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133910869,
+      "datetime": 1744670368
+    },
+    {
+      "title": "Apple and other tech stocks rebound after Trump offers more tariffs guidance",
+      "description": "Apple, Nvidia and other tech company stocks rebounded on Monday, after the Trump administration said tariffs affecting the electronics industry on products like smartphones are coming later.",
+      "published_utc": "2025-04-15T06:31:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f2415079722914820f11f2c6a58dde9f5ab7692fa49724dc542841eac05c0bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917682,
+      "datetime": 1744669897
+    },
+    {
+      "title": "Dow Jones Futures Fall: Trump Tariffs Spark Stock Market Rally; Netflix, Palantir, Spotify Lead Best Stocks To Watch",
+      "description": "Dow Jones Futures Fall: Trump Tariffs Spark Stock Market Rally; Netflix, Palantir, Spotify Lead Best Stocks To Watch",
+      "published_utc": "2025-04-15T05:36:30",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4280ef6ad3db79c06c719557dac69cc53158aacf5281787cc29b139eaa8261cf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133911607,
+      "datetime": 1744666590
+    },
+    {
+      "title": "VIX, Wall Street’s fear gauge, sinks nearly 20% on temporary tech tariff relief",
+      "description": "Investing.com -- The VIX, or fear index, collapsed 18% on Monday to $30.73. It has been as high as $65.73 in the recent tariff melee.",
+      "published_utc": "2025-04-15T04:53:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4a6de6a1d86c920d3085579a7ec2535c476795cbdac250eb5b0a03773b6dc11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917683,
+      "datetime": 1744664033
+    }
+  ]
+}

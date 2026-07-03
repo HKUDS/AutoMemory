@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Microsoft: No Longer In A Favorite Position In AI Growth",
+      "description": "GenAI has not significantly impacted Microsoft's growth, with revenue growth metrics lower than the previous year. Read why I rate MSFT stock as a Hold.",
+      "published_utc": "2025-03-10T07:11:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c8601762b91c3341a28a614521528cb5338e99f43c2629897ac732640d99d08",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452542269/image_1452542269.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114565,
+      "datetime": 1741561863
+    },
+    {
+      "title": "Beware Of Following The Wall Street Fashion Show It's Too Late",
+      "description": "The Wall Street Fashion Show describes the shift of hot money from established narratives like AI to new fads. Learn more about the market outlook here.",
+      "published_utc": "2025-03-10T05:48:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1cc9a13ccd279359ca88676bc817528ef7caba0d873e6994053f588f9c77aa2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200529932/image_200529932.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114309,
+      "datetime": 1741556903
+    }
+  ]
+}

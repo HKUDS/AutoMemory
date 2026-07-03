@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Plays Long Game as Deals Go Private",
+      "description": "(Bloomberg) -- A KKR & Co. debt sale shows how far Wall Street is willing to go to keep leveraged underwriting business from slipping away to private credit after periods of turmoil.Most Read from BloombergAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsA New Central Park Amenity, Tailored to Its East Harlem NeighborsIs Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?What’s Behind the Rise in Serious Injuries on New York City’s Streets?NYC Warns of 17% Drop in For",
+      "published_utc": "2025-05-11T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe79876c779170182e585dc8e388a7ba2b1eded59f9ea96b3b452285bdfb2410",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134374169,
+      "datetime": 1746903600
+    },
+    {
+      "title": "For Exhausted Stock Market Pros the Choice Is Buy or Stay Home",
+      "description": "(Bloomberg) -- The stock market’s stunning rebound over the last month has largely been driven by Main Street investors buying the dip in everything in sight while professional money managers ditched US stocks, spooked by mounting fears of slowing economic growth and trade war disruptions.Most Read from BloombergAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsIs Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?A New Central Park Amenity, Tailored to Its East Harlem",
+      "published_utc": "2025-05-10T20:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb74dcd2e805241a826784cbfe470aace6c7e30185fa4c4b458603fd07222084",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378388,
+      "datetime": 1746878407
+    },
+    {
+      "title": "JPMorgan predicts gold price of $4,000 per ounce by 2026",
+      "description": "Copyright © BusinessAMBE 2023Key takeawaysGrace Peters, Global Head of Investment Strategy at JPMorgan, expects the price of gold to reach $4,000 per ounce next year.U.S. stocks are expected...",
+      "published_utc": "2025-05-10T13:01:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1180ad273d7a89e3ed2fdd32f50bddbd2d206d20e6c05c3bd309a1eb6a897976",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134364374,
+      "datetime": 1746853265
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:40.987225+00:00",
+    "cache_key": "news_eb24c3a407e561a5e58cffba523d4c50",
+    "count": 3
+  }
+}

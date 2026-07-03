@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Visa (NYSE:V) Appoints Tareq Muhmood As CEMEA Regional President Covering 86 Markets",
+      "description": "Visa (NYSE:V) appointed Tareq Muhmood as the regional president for CEMEA, an area with significant strategic importance. This appointment, along with other executive changes, such as Andrew Torre's move to President of Value-Added Services, positioned the company for continued leadership across vital regions. Despite these developments, Visa's stock price was flat over the last quarter, aligning with a broader market trend. While initiatives like enhanced client collaborations and a robust...",
+      "published_utc": "2025-06-22T01:21:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=819dd3bcf3b145a3d843ff6c13b80283dfad6f2c965ff2fc374afd42fcdba68c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135460712,
+      "datetime": 1750526469
+    },
+    {
+      "title": "Is Visa Stock a Buy Now?",
+      "description": "Visa has a new challenger emerging to threaten its ecosystem.",
+      "published_utc": "2025-06-21T20:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d68d82cb1b1af1d210b32e6c8f9e120360513b11c775faf215041522d53a0d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135455601,
+      "datetime": 1750509900
+    },
+    {
+      "title": "Walmart’s Stablecoin Ambitions Shake Up Payment Stocks",
+      "description": "Walmart Inc. (NYSE:WMT) is one of the best dividend stocks for a bear market. The company is reportedly looking into the idea of creating or using its own stablecoins. These digital tokens allow the transfer of US dollar value through cryptocurrency networks rather than traditional banking systems. For retailers, stablecoins are attractive because they could […]",
+      "published_utc": "2025-06-21T12:12:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1bc05d5224b8cf67c9dc4b3de6be81239fea57b9e6d70570d56943c2c813624",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135448294,
+      "datetime": 1750479155
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:19.526106+00:00",
+    "cache_key": "news_77e30a62eb51b21e9b14b9190cd0f511",
+    "count": 3
+  }
+}

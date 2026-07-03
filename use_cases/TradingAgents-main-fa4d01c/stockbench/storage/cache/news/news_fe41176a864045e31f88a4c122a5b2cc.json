@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Dogs of the Dow: Why Amgen’s (AMGN) Dividend Power Makes it a Standout Pick",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is included among the 11 Dogs of the Dow Dividend Stocks to Buy Now. Amgen Inc. (NASDAQ:AMGN) is on the hunt for its next breakthrough drug— a common pursuit among pharmaceutical companies looking to stay ahead of rivals, especially as biosimilar competition grows. The company boasts a robust pipeline, with dozens of […]",
+      "published_utc": "2025-07-28T01:35:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8580022aa107fd9739c3bcc5a3dded4ad6f24d0f3e882585051942dbd96d5677",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101872,
+      "datetime": 1753637756
+    },
+    {
+      "title": "Is Amgen Inc. (NASDAQ:AMGN) Trading At A 50% Discount?",
+      "description": "Key Insights Amgen's estimated fair value is US$609 based on 2 Stage Free Cash Flow to Equity Amgen is estimated to be...",
+      "published_utc": "2025-07-27T20:01:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8416df2e52ca12e34b2f06b6b04b9c6abbaf27ff315c780fe56f12672266126a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101874,
+      "datetime": 1753617682
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:12:58.219438+00:00",
+    "cache_key": "news_fe41176a864045e31f88a4c122a5b2cc",
+    "count": 2
+  }
+}

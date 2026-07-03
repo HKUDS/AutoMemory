@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "title": "Honeywell May Take Quantinuum Public in Next 2 Years. It’s a Quantum Thing.",
+      "description": "Honeywell International  goal is to take Quantinuum public within the next two years, according to a person with direct knowledge of the matter.  While Honeywell is aiming to take the quantum-computing company public between the end of 2026 and sometime in 2027, this timeline is subject to change and depends on market conditions, the source told Barron’s.  Earlier reporting by Bloomberg said Honeywell was seeking a valuation of roughly $10 billion for Quantinuum, which formed through the merger of Honeywell Quantum Solutions and Cambridge Quantum in 2021.",
+      "published_utc": "2025-03-29T23:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da3c54efc6ef7133bee9c47645c10c631ecbbcbbca03e2f47fbb5a0c45a498ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133562260,
+      "datetime": 1743263100
+    },
+    {
+      "id": "96d50082da3a9c242b0fd59a1756896c0958ca3d65f308c6b0d6512a3114f6ea",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Digital Fault Recorder Market to Reach USD 3.4 Billion by 2032, at a CAGR of 8.84% | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-03-29T13:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/29/3051735/0/en/Digital-Fault-Recorder-Market-to-Reach-USD-3-4-Billion-by-2032-at-a-CAGR-of-8-84-Research-by-SNS-Insider.html",
+      "tickers": [
+        "SMNEY",
+        "ABBNY",
+        "SBGSY",
+        "ETN",
+        "HON",
+        "MIELY",
+        "TSHTY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Digital Fault Recorder market is expected to grow significantly due to rising demand for power grid monitoring and fault analysis solutions, driven by smart grid adoption and increasing energy infrastructure investments.",
+      "keywords": [
+        "Digital Fault Recorder",
+        "Power Grid",
+        "Fault Analysis",
+        "Smart Grid",
+        "Energy Infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "SMNEY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Siemens is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ABB is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        },
+        {
+          "ticker": "SBGSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Schneider Electric is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        },
+        {
+          "ticker": "ETN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eaton is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        },
+        {
+          "ticker": "MIELY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mitsubishi Electric is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        },
+        {
+          "ticker": "TSHTY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Toshiba is mentioned as a leading market player, indicating their strong presence in the Digital Fault Recorder market."
+        }
+      ]
+    },
+    {
+      "id": "41f022db8783002fc668e0a4dc16e642e313c9e220b703dab786effd36794175",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Hydrogen Detection Market to Reach USD 642.39 million by 2032, at a CAGR of 11.89% | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-03-29T13:15:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/29/3051733/0/en/Hydrogen-Detection-Market-to-Reach-USD-642-39-million-by-2032-at-a-CAGR-of-11-89-Research-by-SNS-Insider.html",
+      "tickers": [
+        "TDY",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Hydrogen Detection Market is expected to grow significantly due to the rising adoption of hydrogen as a clean energy source, driving demand for advanced detection technologies to ensure safety in industrial, energy, and automotive sectors.",
+      "keywords": [
+        "Hydrogen Detection",
+        "Hydrogen Economy",
+        "Safety Regulations",
+        "Sensor Technologies"
+      ],
+      "insights": [
+        {
+          "ticker": "TDY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teledyne Technologies is a leading provider of hydrogen sensors and gas detection systems, which are in high demand due to the growth of the hydrogen economy and the need for safety measures."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International offers hydrogen gas detectors and sensors, which are crucial for the safe handling and transportation of hydrogen, a key driver for the market growth."
+        }
+      ]
+    },
+    {
+      "id": "64db5f7658fc3f9e19ed0c77a5b56aacb72168ab8a764744c939ae7a5ef45d17",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Smoke Detector Market to Exceed USD 4.32 Billion by 2032, Driven by Stringent Fire Safety Regulations and Increasing Adoption in Residential and Commercial Buildings | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-03-29T13:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/29/3051732/0/en/Smoke-Detector-Market-to-Exceed-USD-4-32-Billion-by-2032-Driven-by-Stringent-Fire-Safety-Regulations-and-Increasing-Adoption-in-Residential-and-Commercial-Buildings-SNS-Insider.html",
+      "tickers": [
+        "HON",
+        "HHKIY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The smoke detector market is expected to grow significantly, driven by stringent fire safety regulations and advancements in smart technology. Innovations such as AI-powered sensors and IoT-enabled detectors are enhancing reliability and enabling remote monitoring, further fueling market expansion.",
+      "keywords": [
+        "smoke detector",
+        "fire safety",
+        "smart technology",
+        "IoT",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell Gent is mentioned as a leading player in the smoke detector market, highlighting its S-Quad Sensor product."
+        },
+        {
+          "ticker": "HHKIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hochiki Fire Alarm is mentioned as a leading player in the smoke detector market, highlighting its ALG-V Photoelectric Smoke Sensor product."
+        }
+      ]
+    }
+  ]
+}

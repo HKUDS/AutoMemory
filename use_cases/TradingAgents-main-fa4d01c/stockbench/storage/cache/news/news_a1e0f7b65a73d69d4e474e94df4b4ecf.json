@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "title": "Microsoft: No Longer In A Favorite Position In AI Growth",
+      "description": "GenAI has not significantly impacted Microsoft's growth, with revenue growth metrics lower than the previous year. Read why I rate MSFT stock as a Hold.",
+      "published_utc": "2025-03-10T07:11:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c8601762b91c3341a28a614521528cb5338e99f43c2629897ac732640d99d08",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452542269/image_1452542269.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114565,
+      "datetime": 1741561863
+    },
+    {
+      "title": "Beware Of Following The Wall Street Fashion Show It's Too Late",
+      "description": "The Wall Street Fashion Show describes the shift of hot money from established narratives like AI to new fads. Learn more about the market outlook here.",
+      "published_utc": "2025-03-10T05:48:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1cc9a13ccd279359ca88676bc817528ef7caba0d873e6994053f588f9c77aa2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200529932/image_200529932.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114309,
+      "datetime": 1741556903
+    },
+    {
+      "id": "c7e541435593fad8df8c553639dcffc3906ec4248c74bdb69294191e6873a6f2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Unstoppable Artificial Intelligence (AI) Stock That Could Join the $3 Trillion Club by 2028",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-09T10:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/meet-the-unstoppable-artificial-intelligence-ai-st/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810215/gettyimages-artificial-intelligence-ai-motherboard-circuit.jpeg",
+      "description": "Meta (Facebook) is investing heavily in AI, which is already improving its financial results. The company's advancements in AI could help it reach a market cap of $3 trillion by 2028 through increased engagement, ad revenue, and new AI-powered products and services.",
+      "keywords": [
+        "Meta",
+        "Artificial Intelligence",
+        "Market Cap",
+        "Growth"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Meta's significant investments in AI, which are already yielding positive results in terms of improved content recommendations, ad performance, and the potential for new AI-powered products and services. The article suggests that these AI advancements could help Meta reach a $3 trillion market cap by 2028."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as the first member of the exclusive $3 trillion market cap club, but does not provide any specific commentary on the company's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Microsoft is one of the few companies that has joined the $3 trillion market cap club, but does not provide any further details on the company's performance or AI-related initiatives."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the companies that has joined the $3 trillion market cap club, and notes that the company is benefiting from the increased spending on AI infrastructure by major tech companies, but does not provide any specific analysis on Nvidia's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:19.031992+00:00",
+    "cache_key": "news_a1e0f7b65a73d69d4e474e94df4b4ecf",
+    "count": 3
+  }
+}

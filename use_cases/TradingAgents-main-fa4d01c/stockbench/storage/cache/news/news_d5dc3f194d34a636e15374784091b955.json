@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 2",
+      "description": "Read here for key dividend updates for Dividend Champions, Contenders, and Challengers. Learn about changes, ex-dividend dates, & payment schedules.",
+      "published_utc": "2025-03-01T08:21:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87534fcd5ea5e44020a508adb3e369e09ef27091eed37edf1e300f8cdf6e062d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132923903,
+      "datetime": 1740788508
+    },
+    {
+      "id": "76628127d7791adfc69a8778bfb2df188f88bab3cffe809b53dce9732ae0b41b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Home Depot Is Turning the Corner. Time to Buy the Stock?",
+      "author": "Jeremy Bowman",
+      "published_utc": "2025-03-01T17:57:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/home-depot-is-turning-the-corner-time-to-buy-the-s/?source=iedfolrf0000001",
+      "tickers": [
+        "HD",
+        "LOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808929/home-depot-aisle.jpg",
+      "description": "Home Depot, a leading home improvement retailer, reported positive same-store sales growth in the latest quarter, indicating a reversal of the housing slowdown. However, the company remains cautious about the macroeconomic environment and expects modest earnings growth in the near term.",
+      "keywords": [
+        "Home Depot",
+        "home improvement",
+        "housing market",
+        "same-store sales",
+        "earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot reported positive same-store sales growth, a key inflection point, indicating a recovery in the housing market. The company's acquisition of SRS Distribution also expanded its addressable market and strengthened its relationship with pro customers. While the company remains cautious about the macroeconomic environment, it is expected to benefit from long-term tailwinds in the housing market."
+        },
+        {
+          "ticker": "LOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Lowe's as Home Depot's chief rival, but does not provide any specific updates or sentiment on Lowe's performance."
+        }
+      ]
+    },
+    {
+      "id": "d8836c7e1672944bef6606c2c4a3edc10b293dc472cd4fd28321ac6386e95e26",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying Home Depot Stock Today Set You Up for Life?",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-03-01T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/can-home-depot-stock-set-you-up-for-life/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806001/home-depot-employee.jpg",
+      "description": "Home Depot, the largest home improvement chain, has seen strong performance despite inflation, with revenue and earnings growth in the latest quarter. However, the company is cautious about its outlook for 2025, expecting sales and earnings growth to slow. The article discusses Home Depot's investments in logistics and acquisitions, as well as the potential for the stock to continue delivering value to investors.",
+      "keywords": [
+        "Home Depot",
+        "home improvement",
+        "inflation",
+        "revenue growth",
+        "earnings growth",
+        "dividend"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Home Depot's strong performance in the latest quarter, with revenue and earnings growth, as well as its investments in logistics and acquisitions to position the company for continued success. While the company is cautious about its outlook for 2025, the overall sentiment is positive due to the company's market leadership and ability to navigate challenging economic conditions."
+        }
+      ]
+    },
+    {
+      "id": "ad4636238619b20e4bbc7e5f747892e876e056507e86fc2a11bcaa82bf44faa7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Home Depot Stock Continue to Rally? Same-Store Sales Turn Positive, but Company Remains Cautious.",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-03-01T09:40:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/will-home-depot-stock-continue-to-rally-same-store/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808999/gettyimages-1394287688.jpg",
+      "description": "Home Depot reported positive same-store sales in Q4, but the company remains cautious about the housing market outlook. While the stock's valuation is high, the author believes Home Depot can outperform its guidance if there is no economic recession.",
+      "keywords": [
+        "Home Depot",
+        "same-store sales",
+        "housing market",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Home Depot reported positive same-store sales in Q4, but the company remains cautious about the housing market outlook. The author believes the stock's valuation is high, but it can outperform its guidance if there is no economic recession."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:01.671814+00:00",
+    "cache_key": "news_d5dc3f194d34a636e15374784091b955",
+    "count": 4
+  }
+}

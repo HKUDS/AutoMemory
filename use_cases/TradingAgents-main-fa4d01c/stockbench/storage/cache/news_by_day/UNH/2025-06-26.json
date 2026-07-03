@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Raised the PT on UnitedHealth Group (UNH), Keeps a Buy Rating",
+      "description": "UnitedHealth Group Incorporated (NYSE:UNH) is one of the 10 Best and Cheap Stocks to Buy Now. On June 19, JPMorgan analyst Lisa Gill raised the firm’s price target on UnitedHealth Group Incorporated (NYSE:UNH) from $405 to $418, while keeping a Buy rating on the stocks. Analyst Lisa Gill noted that the firm revised its price target […]",
+      "published_utc": "2025-06-26T04:37:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=452f67ea03ae2decd987c28ed5d2cc0d0e53107e6f2e60120ef9f76818e6f6fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531168,
+      "datetime": 1750883843
+    },
+    {
+      "title": "UnitedHealth probe to focus on PBM unit, Capital Forum reports",
+      "description": "Investing.com -- The Department of Justice (DOJ) Antitrust leadership is considering redirecting its investigation into Unitedhealth Group (NYSE:UNH) to focus on the company’s pharmacy benefits management (PBM) unit, according to The Capital Forum, citing sources familiar with the matter.",
+      "published_utc": "2025-06-26T04:15:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19ccdebebc311bc80955e792cabac729a2fdc205bedca1aa3a374967e2aa8269",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531169,
+      "datetime": 1750882548
+    }
+  ]
+}

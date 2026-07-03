@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Wall Street’s largest $3 trillion bank says crypto has 'increased competition'",
+      "description": "Goldman Sachs, an American multinational bank, has acknowledged cryptocurrencies for the first time in its annual shareholder letter. While skeptical of crypto, the firm has raised its Bitcoin investment by 15%.",
+      "published_utc": "2025-03-15T19:46:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbf9ed2cbccbd0c13671bcc76d153e76bd8e779800087b65d7e0c7bb95dd52ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185062,
+      "datetime": 1742039197
+    },
+    {
+      "title": "The Week the Smart Money Got Whipsawed by the Market",
+      "description": "Hedge funds usually like to take advantage of stock-market unrest. Lately, they have helped spread it instead.",
+      "published_utc": "2025-03-15T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2085fb8e8a49d2087987e064e77bf47a3f44ddbad676f1723212db90bc11cec3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185063,
+      "datetime": 1741996800
+    }
+  ]
+}

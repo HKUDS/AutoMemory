@@ -1,0 +1,140 @@
+{
+  "trace_id": "trace_id_fact_lifecycle_forget_correction",
+  "eval_mode": "qa",
+  "category": "edge_case",
+  "description": "Explicit user facts should support correction, scoped recall, and natural forget requests without stale facts resurfacing.",
+  "turns": [
+    {
+      "role": "user",
+      "content": "Remember: the dashboard package must use TypeScript 5.4 for builds.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: correction, the dashboard package must use TypeScript 5.7 for builds.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: the user prefers concise final answers by default.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: migration branch deploys only from staging-east.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "user",
+      "content": "Please forget the TypeScript version requirement for dashboard.",
+      "used_for_evaluation": true,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: billing integration tests require TEST_STRIPE_MODE=stub.",
+      "used_for_evaluation": false,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "agent",
+      "content": "Acknowledged and continuing with unrelated cleanup.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "lint completed with unrelated warnings",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "shell" }
+    },
+    {
+      "role": "user",
+      "content": "Remember: release notes should mention SQLite migrations.",
+      "used_for_evaluation": false,
+      "metadata": { "session_id": "fact-a" }
+    },
+    {
+      "role": "agent",
+      "content": "Done.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "rg returned unrelated matches in docs/",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "rg" }
+    },
+    {
+      "role": "agent",
+      "content": "Skipping unrelated documentation references.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Also keep the current task moving.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "test command produced unrelated flaky output",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "shell" }
+    },
+    {
+      "role": "agent",
+      "content": "The flaky output is not related to memory.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention pressure from unrelated session chatter",
+      "used_for_evaluation": false,
+      "metadata": { "retention_flush": true }
+    },
+    {
+      "role": "agent",
+      "content": "Closing unrelated thread.",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What active memory remains about the dashboard TypeScript version?",
+      "expected_information": [
+        {
+          "value": "^(?![\\s\\S]*TypeScript 5\\.4)(?![\\s\\S]*TypeScript 5\\.7)[\\s\\S]*$",
+          "matcher": "regex",
+          "description": "The forgotten dashboard TypeScript fact should not remain active."
+        }
+      ]
+    },
+    {
+      "query": "What answer style preference should be remembered?",
+      "expected_information": [
+        { "value": "concise final answers", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Where can the migration branch deploy from?",
+      "expected_information": [
+        { "value": "staging-east", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What test mode is required for billing integration tests?",
+      "expected_information": [
+        { "value": "TEST_STRIPE_MODE=stub", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What should release notes mention?",
+      "expected_information": [
+        { "value": "SQLite migrations", "matcher": "substring" }
+      ]
+    }
+  ]
+}

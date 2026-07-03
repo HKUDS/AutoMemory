@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 2",
+      "description": "Read here for key dividend updates for Dividend Champions, Contenders, and Challengers. Learn about changes, ex-dividend dates, & payment schedules.",
+      "published_utc": "2025-03-01T08:21:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87534fcd5ea5e44020a508adb3e369e09ef27091eed37edf1e300f8cdf6e062d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132923903,
+      "datetime": 1740788508
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:16.245847+00:00",
+    "cache_key": "news_4a5581b5ff79006483c01544b4e26f89",
+    "count": 1
+  }
+}

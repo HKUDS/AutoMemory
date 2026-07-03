@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Alphabet Stock Sell-Off: 4 Reasons Why You Shouldn't Panic About Google Search",
+      "description": "Alphabet shares came under pressure after an Apple exec said they saw search queries decline for the first time.  Shares of Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) sank after Apple executive Eddy Cue said that searches on Safari declined for the first time ever in April.  Cue attributed the decline to people using more artificial intelligence (AI) chatbots and predicted that AI search engines will eventually replace traditional search.",
+      "published_utc": "2025-05-11T04:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a486639fe674bc653c1a5799d5c695b2ac9ded4addc4bc330e6b1eca5232957",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379082,
+      "datetime": 1746909900
+    },
+    {
+      "title": "Two Prominent Investors Are Bearish on Alphabet Inc. (GOOG) Stock",
+      "description": "After Apple (AAPL) disclosed that searches in its devices’ internet browsers had fallen for the first time ever last month, well-known investors Josh Brown and Joe Terranova, speaking on CNBC, said that the news was significantly negative for Alphabet Inc. (GOOG) and GOOGL stock. Josh Brown is the CEO of Ritholtz Wealth Management, while Terranova […]",
+      "published_utc": "2025-05-11T03:43:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b320b8bafb738a75930ba2c479ea30fb34f7e2d57fc838abdd016446ffa65eef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379083,
+      "datetime": 1746906213
+    },
+    {
+      "title": "Wall Street Plays Long Game as Deals Go Private",
+      "description": "(Bloomberg) -- A KKR & Co. debt sale shows how far Wall Street is willing to go to keep leveraged underwriting business from slipping away to private credit after periods of turmoil.Most Read from BloombergAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsA New Central Park Amenity, Tailored to Its East Harlem NeighborsIs Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?What’s Behind the Rise in Serious Injuries on New York City’s Streets?NYC Warns of 17% Drop in For",
+      "published_utc": "2025-05-11T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe79876c779170182e585dc8e388a7ba2b1eded59f9ea96b3b452285bdfb2410",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134374169,
+      "datetime": 1746903600
+    },
+    {
+      "title": "Apple Wants Its $20 Billion, and Is Willing to Throw Google Under the Bus to Keep It",
+      "description": "A new brief release from Alphabet’s antitrust trial reads a lot like Eddy Cue’s shocking testimony this past week.",
+      "published_utc": "2025-05-11T00:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a11cbb94e56f878001ad6db2ab24efe2fed0f6c2b6c49e0796e0690e5db85c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379085,
+      "datetime": 1746892980
+    }
+  ]
+}

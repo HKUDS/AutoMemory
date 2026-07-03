@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express Co. stock outperforms competitors on strong trading day",
+      "description": "American Express Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-06T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=15f3d8cbeeca5ea88efdf5a7c9bc775340bf4ead9b65aa5b8d01f216971fea50",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132575489,
+      "datetime": 1738773180
+    },
+    {
+      "title": "Is American Express Company (AXP) the Best Spring Stock to Buy Now?",
+      "description": "We recently compiled a list of the 10 Best Spring Stocks To Buy Now. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against the other spring stocks. Spring is upon the United States stock market yet again. During this time, a particular set of stocks, mostly concentrated […]",
+      "published_utc": "2025-02-05T06:11:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4cba8473d6a5fe8f2580fa2af8078bde19362b239e9b455fa32da2930c9eb5c2",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fTraY96se0UtN7GF9x5Fsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a44e70b22da11d3cbca7b31155886c1a",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604982,
+      "datetime": 1738707093
+    },
+    {
+      "title": "From Amex to leadership inspiration: Kenneth Chenault's story",
+      "description": "As Black History Month progresses, Wealth host Brad Smith spotlights Kenneth Chenault, the distinguished former chairman and CEO of American Express (AXP), who led the company from 2001 to 2018. Smith's feature explores Chenault's remarkable career trajectory, highlighting his transformative leadership that propelled American Express to new heights of success and positioned him as a trailblazing business leader in corporate America. To watch more expert insights and analysis on the latest market action, check out more Wealth here. This post was written by Angel Smith",
+      "published_utc": "2025-02-05T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c094fb6e0fc2c8a139798a8b7cda574e2727b2c7239a5b9bb0db12f7862b21c0",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/cBo3qUPuf4CvUtxUNpp7eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/2b01fc60-e31a-11ef-92f4-a9d33f95e2ae",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604984,
+      "datetime": 1738695600
+    },
+    {
+      "title": "PFO: No Real Advantages Over Peers",
+      "description": "PFO offers a 6.62% yield, but it underperforms compared to its peers in both yield and total return. Click here to find out why I am neutral on PFO.",
+      "published_utc": "2025-02-04T18:51:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9212b84db9c88229a3ea7e992132c78afd4d56262558cea4ba88baeda7bb6b0f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/145671149/image_145671149.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543485,
+      "datetime": 1738666305
+    },
+    {
+      "title": "28.4% of Warren Buffett's $303 Billion Portfolio Is Invested in 3 Stocks He Plans to Hold Forever",
+      "description": "Despite selling off lots of Berkshire's top positions, these three look safe from the chopping block.",
+      "published_utc": "2025-02-04T17:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d686352e17411bcaa147870fd05d7182566970dbfabd593e49f59113a8ae7056",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/806043/buffett11-tmf.jpg",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604986,
+      "datetime": 1738659900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:20.028945+00:00",
+    "cache_key": "news_cd416473d77c6ad8bd6fbf01a322fd9d",
+    "count": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Chevron share losses lead Dow's 350-point drop",
+      "description": "NVIDIA Corp., Chevron share losses lead Dow's 350-point drop",
+      "published_utc": "2025-03-03T22:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=56c6fdc1a1e654b284f32c671c32e9daf111a159a4d94f871d60dc7487159866",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132956793,
+      "datetime": 1741011360
+    },
+    {
+      "title": "Dow falls 239 points on losses for NVIDIA Corp., Caterpillar stocks",
+      "description": "Dow falls 239 points on losses for NVIDIA Corp., Caterpillar stocks",
+      "published_utc": "2025-03-03T21:06:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3f098a5a6407ce07d03fce5c9a3c66166b3351ebda5999568727fcbfda3dfe5a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955673,
+      "datetime": 1741007160
+    },
+    {
+      "title": "Dow's 125-point drop led by losses in NVIDIA Corp., Amazon.com Inc. stocks",
+      "description": "Dow's 125-point drop led by losses in NVIDIA Corp., Amazon.com Inc. stocks",
+      "published_utc": "2025-03-03T19:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=143a39f1d2c11ffa04e536f5208a903a9941519cd71ac3b86ff83dbabec6cc7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955675,
+      "datetime": 1741001400
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com, Inc. (AMZN): Among Billionaire Ken Fisher’s Top Growth Stock Picks",
+      "description": "We recently published a list of Billionaire Ken Fisher’s Top 13 Growth Stock Picks. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other billionaire Ken Fisher’s top growth stock picks. “Who am I to tell you anything, much less anything that counts? Or that there are […]",
+      "published_utc": "2025-03-30T07:17:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8a3cc2ea533d97873acd1b04c90525147279232e32a80a091152ae1a60b4656",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622549,
+      "datetime": 1743290267
+    },
+    {
+      "title": "Is Amazon.com, Inc. (AMZN) the Top Growth Stock in David Tepper’s Portfolio?",
+      "description": "We recently published a list of Top 10 Growth Stocks in David Tepper’s Portfolio. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other top growth stocks in David Tepper’s Portfolio. Buy “everything” related to China has been David Tepper’s investment theme despite the uncertainties about the […]",
+      "published_utc": "2025-03-30T07:17:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d987a79109a52cb3493709d214755c4cea61a637e70633f7f0a9603f3f54c78e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622550,
+      "datetime": 1743290222
+    },
+    {
+      "title": "2 \"Magnificent Seven\" AI Stocks to Buy on the Dip",
+      "description": "According to Amazon CEO Andy Jassy, \"Generative AI may be the largest technology transformation since the cloud (which itself, is still in the early stages), and perhaps since the internet.\"  Wall Street has taken notice: Many AI, or AI-adjacent companies, have been on fire for the past two years, but they recently collectively took a bit of a dive due to industry-specific issues.  Earlier this year, a China-based company called DeepSeek developed an AI chatbot with far less money and resources than some of the leaders in the field, which rocked the industry.",
+      "published_utc": "2025-03-30T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9693adef5a80fe6dd824eba4eff89bf927c853c586d571c4c70c1c08964bb0b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133596481,
+      "datetime": 1743278400
+    }
+  ]
+}

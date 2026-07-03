@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Amgen Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-05-22T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b92beb8fa2b7745c43bbc3d9eb2bba39b42a5eb6de53b20eb54886f70ecfa410",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134635068,
+      "datetime": 1747845360
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM): Among Billionaire Stephen Mandel’s Stocks with Huge Upside Potential",
+      "description": "We recently published a list of Billionaire Stephen Mandel’s 10 Stocks with Huge Upside Potential. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other billionaire Stephen Mandel’s stocks with huge upside potential. With economic policy and trade tensions fueling volatility, investors are moving through one of […]",
+      "published_utc": "2025-04-30T04:49:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e85254c836f1e53bff186671787db618a43dc3c4b4bdc9902011385715710bbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141640,
+      "datetime": 1745959742
+    },
+    {
+      "title": "CRM vs. ORCL: Which Enterprise Software Stock Offers Better Growth?",
+      "description": "Both Salesforce and Oracle are formidable forces in the cloud enterprise software market. Which one is a better investment option? Let's see.",
+      "published_utc": "2025-04-30T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d0c3e3206d7ca6f18be36b53fa173edd872c51f11a960eb4096ec37db6441ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141641,
+      "datetime": 1745953200
+    }
+  ]
+}

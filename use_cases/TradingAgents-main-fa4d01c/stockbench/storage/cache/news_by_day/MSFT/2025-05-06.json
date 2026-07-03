@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "OpenAI Abandons Planned For-Profit Conversion",
+      "description": "OpenAI Abandons Planned For-Profit Conversion",
+      "published_utc": "2025-05-06T05:54:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=523dbcfe88f3dfd8879ddf21f1d7c71dd5bc0227a7ff73f6a60fc37bde6ff28d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253708,
+      "datetime": 1746482040
+    },
+    {
+      "title": "Elon Musk to go ahead with lawsuit against OpenAI despite nonprofit control statement, lawyer says",
+      "description": "Elon Musk plans to proceed with his highly watched lawsuit against OpenAI, his lawyer Marc Toberoff said on Monday, hours after the AI startup dialed back its earlier plan to remove control by its...",
+      "published_utc": "2025-05-06T05:16:27",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8b54f1d4bc39068160cb724a2f5c46fc143509f146f5a014622a47e562ee2761",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134261064,
+      "datetime": 1746479787
+    },
+    {
+      "title": "Elon Musk to keep lawsuit against OpenAI despite nonprofit control statement, lawyer says",
+      "description": "Elon Musk plans to proceed with his highly-watched lawsuit against OpenAI, his lawyer Marc Toberoff said on Monday, hours after the AI startup dialed back its earlier plan to remove control by its...",
+      "published_utc": "2025-05-06T05:16:27",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1c46c9ea61bceb2a1e76af2a6e674660ac0815c688c7179aabbc20a8a931dd4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134252167,
+      "datetime": 1746479787
+    },
+    {
+      "title": "OpenAI agrees to buy Windsurf for about $3 billion, Bloomberg News reports",
+      "description": "OpenAI has agreed to buy artificial intelligence-assisted coding toolWindsurf for about $3 billion, Bloomberg News reported on Monday, citing people familiar withthe matter. The deal...",
+      "published_utc": "2025-05-06T04:41:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bda771c62dd054a12ceb2fbaa173c6c6ee9cc66def48236845fbd758ce5a3b93",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134252068,
+      "datetime": 1746477683
+    },
+    {
+      "title": "OpenAI Reaches Agreement To Buy Startup Windsurf For $3 Billion- Bloomberg News",
+      "description": "May 5 - * OPENAI REACHES AGREEMENT TO BUY STARTUP WINDSURF FOR $3BILLION-BLOOMBERG NEWSSource https://tinyurl.com/4exuhbj8 ...",
+      "published_utc": "2025-05-06T04:38:35",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e2817e418834a564db03d4400f554bc052c5295e02811c8007839d575b6ed00e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134252064,
+      "datetime": 1746477515
+    }
+  ]
+}

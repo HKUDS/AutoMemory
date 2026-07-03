@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Eli Lilly, Pfizer Risk Billions in Losses From Trump's 25% Pharma Tariffs",
+      "description": "Trump's Pharma Tariff Plan Could Cost Eli Lilly, Pfizer, Amgen $51B a Year",
+      "published_utc": "2025-04-28T23:20:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58fa783b95fdbb9abba48ed042be0996576e0fead0d7d94b3f2706f98374e7e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115299,
+      "datetime": 1745853637
+    },
+    {
+      "title": "Amgen (AMGN) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
+      "description": "Looking beyond Wall Street's top -and-bottom-line estimate forecasts for Amgen (AMGN), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended March 2025.",
+      "published_utc": "2025-04-28T21:15:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48442463d2c109ec4b2347c5a3d8833e192d81ffd5a310b8ba787b5944344522",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115238,
+      "datetime": 1745846153
+    }
+  ]
+}

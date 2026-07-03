@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Was Jim Cramer Right About Caterpillar Inc. (CAT)?",
+      "description": "We recently published a list of Jim Cramer’s 9 Failed Predictions From 12 Months Ago. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other stocks that Jim Cramer discussed 12 months ago. During a recent episode of Mad Money, which aired on Friday, the 9th of May, […]",
+      "published_utc": "2025-05-13T04:55:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=233b8c15053168a3f39ee716e3445b52e8dffb6ad744eecac3df232344d937d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408965,
+      "datetime": 1747083316
+    },
+    {
+      "title": "Why Heavy Equipment Stocks Gained Ground Today",
+      "description": "Investors need to remember there were questions about end markets even prior to the tariff announcements, and the shares could take time to fully recover.  Over the weekend, the United States and China laid out the framework for a trade deal and suspended some of the most onerous tariffs imposed by the two countries.  It isn't a done deal yet, but shares of heavy equipment companies that were facing a two-sided blow from the tariffs are rallying on the news.",
+      "published_utc": "2025-05-13T04:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f576c68db50a0e298cf185442d96a0dd8e99ccf974e21b4d77c7e875c76af48",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408966,
+      "datetime": 1747080360
+    },
+    {
+      "title": "Caterpillar Inc Files Pricing Term Sheet For Offering Of $2 Billion",
+      "description": "Caterpillar Inc: * CATERPILLAR INC FILES PRICING TERM SHEET FOR OFFERING OF$2BILLION- SEC FILINGFurther company coverage: ...",
+      "published_utc": "2025-05-13T01:21:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7934f84142820201d915bd6333434132d8beabdb4879a89059e6e4f84ca7275a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134391858,
+      "datetime": 1747070471
+    },
+    {
+      "title": "Amazon.com Inc., Nike share gains lead Dow's 1150-point surge",
+      "description": "Amazon.com Inc., Nike share gains lead Dow's 1150-point surge",
+      "published_utc": "2025-05-12T22:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=79f12abb30ef200a83dbf4a0ab94f3065d90eab6fdd391ae62755d528dc19b61",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134401433,
+      "datetime": 1747060620
+    },
+    {
+      "title": "Amazon.com Inc., Nike share gains lead Dow's 1,033-point surge",
+      "description": "Amazon.com Inc., Nike share gains lead Dow's 1,033-point surge",
+      "published_utc": "2025-05-12T20:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9d1a2c864205db9bed91b6aabf9f9ffc27ad3add58c5bc6586edb4733fc9f71f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134388388,
+      "datetime": 1747054740
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:35.806780+00:00",
+    "cache_key": "news_3c7d550909f3633246b9d97869804fff",
+    "count": 5
+  }
+}

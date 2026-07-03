@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Steve Jobs Would 'Have Fired Everyone': Apple's Liquid Glass In iOS 26 Gets Roasted Online — Dan Ives Calls WWDC 2025 A 'Yawner'",
+      "description": "Apple Inc.'s (NASDAQ:AAPL) bold new design in iOS 26, dubbed \"Liquid Glass,\" is drawing sharp criticism online — and investor Ross Gerber thinks the backlash may be warranted. What Happened: Unveiled during Apple's WWDC 2025 keynote on Monday, Liquid Glass is a translucent, reactive interface meant to make the iPhone experience more fluid and immersive. It now extends across buttons, sliders, the lock screen, Control Center and more. Apple executive Alan Dye described it as combining \"the optica",
+      "published_utc": "2025-06-11T07:30:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87c3a9184684a033405c6a6e4cfafe5356fdd408c6d5508a2b7a18268178b3eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171034,
+      "datetime": 1749598212
+    },
+    {
+      "title": "Watch These Apple Price Levels After WWDC 2025 Updates Fail to Boost Stock",
+      "description": "Apple shares didn't get the boost that investors hoped for from the company's highly anticipated Worldwide Developers Conference this week. Monitor these important support and resistance chart levels.",
+      "published_utc": "2025-06-11T06:39:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=542dae22d4e77c5686290983455a62f1677aa1e2ffc68245e94884f0cc8d4d87",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171035,
+      "datetime": 1749595170
+    },
+    {
+      "title": "Apple Executives Defend Apple Intelligence, Siri and AI Strategy",
+      "description": "A year after last year’s conference, major Siri features are still missing. The company’s head of software and head of marketing say why they aren’t worried.",
+      "published_utc": "2025-06-11T06:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd0d4a81e14a0d92454e0c17259d641c7e226803acf9f0cbd44bc273945a370e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171037,
+      "datetime": 1749594480
+    },
+    {
+      "title": "Apple Intelligence: Everything you need to know about Apple's AI model and services",
+      "description": "If you've upgraded to a newer iPhone model recently, you've probably noticed that Apple Intelligence is showing up in some of your most-used apps, like Messages, Mail, and Notes. Apple Intelligence (yes, also abbreviated to AI) showed up in Apple's ecosystem in October 2024, and it's here to stay as Apple competes with Google, OpenAI, Anthropic, and others to build the best AI tools. What is Apple Intelligence? Image Credits:Apple Cupertino marketing executives have branded Apple Intelligence: “",
+      "published_utc": "2025-06-11T05:31:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46702658e22f43e39f7d591a5138332382693c7f22f6946a454974a998d6156e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171038,
+      "datetime": 1749591116
+    },
+    {
+      "title": "AI wasn't the focus of Apple WWDC. Here's why.",
+      "description": "Apple's (AAPL) Worldwide Developers Conference (WWDC), the company's annual developer event, is underway. Yahoo Finance Tech Editor Dan Howley joins Market Domination from Cupertino, California to share what Apple's WWDC signals about the company's AI efforts and where the iPhone maker stands in the AI race compared to other Big Tech players like Meta (META) and Alphabet (GOOG, GOOGL). To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-11T04:17:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e590eef25ada416e8440f959f52902561221bdc9631caab4f26b85e5f31598ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171039,
+      "datetime": 1749586663
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:48.065346+00:00",
+    "cache_key": "news_0ccf51c354f4c8d08e47ea3cf57b4295",
+    "count": 5
+  }
+}

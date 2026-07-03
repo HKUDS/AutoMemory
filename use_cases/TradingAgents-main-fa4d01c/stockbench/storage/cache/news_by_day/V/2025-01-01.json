@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "2 Dividend Stocks to Buy for 2025 and Beyond",
+      "description": "Dividend investing will likely never go out of style.  Here are two excellent candidates to consider: Coca-Cola (NYSE: KO) and Visa (NYSE: V).  Few companies worldwide have a stronger brand than Coca-Cola, a soft drink market leader.",
+      "published_utc": "2025-01-01T23:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e821ef07fc61131cf72201bb0833ed1fc08ff1e3dd67ca7bd6f05429b471ecdc",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802254/person-drinking-bottled-drink-through-a-straw.jpg",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132228739,
+      "datetime": 1735745400
+    },
+    {
+      "title": "Investors Heavily Search Visa Inc. (V): Here is What You Need to Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Visa (V). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-01-01T22:00:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9e2d3f0775dbf6dce8188467bff8b6e6f187b0bc2d83e295df815c2efd66f4a",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/f889276f4a638f3c7a79c0e3e6b768c1",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132231245,
+      "datetime": 1735740020
+    },
+    {
+      "title": "Visa Insiders Sell US$15m Of Stock, Possibly Signalling Caution",
+      "description": "In the last year, many Visa Inc. ( NYSE:V ) insiders sold a substantial stake in the company which may have sparked...",
+      "published_utc": "2025-01-01T19:00:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba9a17c9158746748620d67d06343a549d899f58639578234d289db864736963",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/b42c345d88ebe65c7b771b43407bb1f2",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226601,
+      "datetime": 1735729255
+    },
+    {
+      "title": "ROSEN, LEADING TRIAL LAWYERS, Encourages Visa Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - V",
+      "description": "WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Visa Inc. between November 16, 2023 and September 23, 2024, both dates inclusive , of the important...",
+      "published_utc": "2025-01-01T03:20:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f30f65f172832fb68e5778bc6d38959fac0dd12ad7ff64517c9c13f8955114d7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132220460,
+      "datetime": 1735672803
+    }
+  ]
+}

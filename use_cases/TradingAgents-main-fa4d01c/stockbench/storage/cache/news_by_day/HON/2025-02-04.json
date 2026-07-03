@@ -1,0 +1,187 @@
+{
+  "items": [
+    {
+      "id": "a28533c1459326a37d736f2f8e492f24d041bc47fa2ef96acfb806a71502c37a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Iraq Construction Report 2024: Investments in Transportation, Renewable Energy, and Housing Infrastructure, Coupled with Increasing Demand for Oil and Gas Projects - Forecast to 2028",
+      "author": "Dublin, Feb. 04, 2025",
+      "published_utc": "2025-02-04T09:53:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/04/3020051/28124/en/Iraq-Construction-Report-2024-Investments-in-Transportation-Renewable-Energy-and-Housing-Infrastructure-Coupled-with-Increasing-Demand-for-Oil-and-Gas-Projects-Forecast-to-2028.html",
+      "tickers": [
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The Iraqi construction industry is expected to grow by 5% in 2024, driven by investments in transportation, renewable energy, and housing infrastructure, as well as increasing demand for oil and gas projects. The government has allocated significant funds to the energy, security, and education sectors in the 2024 Fiscal Budget.",
+      "keywords": [
+        "Iraq",
+        "construction",
+        "transportation",
+        "renewable energy",
+        "housing",
+        "oil and gas"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell, a US-based company, signed a Memorandum of Understanding (MoU) with Iraq's Oil Ministry to develop oil refineries in the country, which is expected to increase the country's crude oil refinery capacity."
+        }
+      ]
+    },
+    {
+      "title": "Earnings Coming In Better-Than-Expected As Peak Season Begins",
+      "description": "Q4 S&P 500 EPS growth expected to come in at 13.2%, the highest growth rate in three years. Read more here.",
+      "published_utc": "2025-02-04T09:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a067d4a6818e39009fc0c32ef5b3cc9169b7d2080495c703101657a9d0ac35df",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/160616076/image_160616076.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132540826,
+      "datetime": 1738633500
+    },
+    {
+      "id": "4747753022072d1e8411c6057e92c5d96f3396955adc8afe5781f8030e4f04c4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "AI Governance, Power Consumption and Agentic AI: Strategic Insights from the AI Executive Briefing (5th Edition)",
+      "author": "Unknown",
+      "published_utc": "2025-02-04T09:43:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/04/3020047/28124/en/AI-Governance-Power-Consumption-and-Agentic-AI-Strategic-Insights-from-the-AI-Executive-Briefing-5th-Edition.html",
+      "tickers": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "TM",
+        "FJTSY",
+        "SIEGY",
+        "INFY",
+        "HTHIY",
+        "HON",
+        "MSFT",
+        "NVDA",
+        "TSLA",
+        "META",
+        "PRGS",
+        "SMR",
+        "OKLO",
+        "EQIX",
+        "ABBNY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The report explores the impact of agentic AI, robotics, and small language models, as well as power consumption, AI regulation, and the potential impact of Trump's presidency on the AI industry.",
+      "keywords": [
+        "agentic AI",
+        "robotics",
+        "language models",
+        "power consumption",
+        "AI regulation",
+        "Trump presidency"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Amazon in the list of companies covered, but does not provide any specific details about the company's performance or activities."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Google in the list of companies covered, but does not provide any specific details about the company's involvement in the AI industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Google in the list of companies covered, but does not provide any specific details about the company's involvement in the AI industry."
+        },
+        {
+          "ticker": "TM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Toyota as one of the companies covered, but does not offer any insights about the company's activities in the AI space."
+        },
+        {
+          "ticker": "FJTSY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Fujitsu as one of the companies covered, but does not offer any insights about the company's AI-related activities."
+        },
+        {
+          "ticker": "SIEGY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Siemens in the list of companies covered, but does not provide any specific details about the company's involvement in the AI industry."
+        },
+        {
+          "ticker": "INFY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Infosys as one of the companies covered, but does not offer any insights about the company's AI-related initiatives."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Hitachi in the list of companies covered, but does not provide any additional information about the company's activities in the AI space."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Honeywell as one of the companies covered, but does not offer any insights about the company's involvement in the AI industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Microsoft in the list of companies covered, but does not provide any additional information about the company's involvement in the AI space."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Nvidia as one of the companies covered, but does not offer any insights about the company's AI-related activities."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Tesla as one of the companies covered, but does not offer any insights about the company's AI-related initiatives."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Meta (formerly Facebook) as one of the companies covered, but does not offer any insights about the company's AI-related activities."
+        },
+        {
+          "ticker": "PRGS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Progress Software in the list of companies covered, but does not provide any specific details about the company's involvement in the AI industry."
+        },
+        {
+          "ticker": "SMR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes NuScale in the list of companies covered, but does not provide any specific details about the company."
+        },
+        {
+          "ticker": "OKLO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report mentions Oklo as one of the companies covered, but does not offer any insights about the company's involvement in the AI industry."
+        },
+        {
+          "ticker": "EQIX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes Equinix in the list of companies covered, but does not provide any additional information about the company's AI-related initiatives."
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The report includes ABB in the list of companies covered, but does not provide any additional information about the company's involvement in the AI industry."
+        }
+      ]
+    }
+  ]
+}

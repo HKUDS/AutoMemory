@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Southwest Airlines Adds Cockpit Alerts to Boost Runway Safety",
+      "description": "Southwest Airlines Adds Cockpit Alerts to Boost Runway Safety",
+      "published_utc": "2025-06-16T06:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=b3b96066d4d62b9784430f6161f096c89dadb25a4300d31f4584d3ca0ae6c4e3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135304770,
+      "datetime": 1750024800
+    }
+  ]
+}

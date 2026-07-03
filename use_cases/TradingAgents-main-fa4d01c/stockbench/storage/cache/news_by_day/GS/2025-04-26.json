@@ -1,0 +1,301 @@
+{
+  "items": [
+    {
+      "title": "Major Market Disconnect: 5%+ Yields Trading For Pennies On The Dollar",
+      "description": "Two deeply discounted income plays yield over 5% and boast strong management and inflation protection. Find out why theyâre worth your attention.",
+      "published_utc": "2025-04-26T20:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9290b1f56a70d1e8ba3ebffe16a05ea9cadd552595573a58b7cd29c5fb5ba9a7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2176459835/image_2176459835.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134100520,
+      "datetime": 1745668800
+    },
+    {
+      "title": "Better Dividend Stock: JPMorgan Chase vs. Goldman Sachs",
+      "description": "Despite these uncertainties, reliable and high-quality dividend income from a diversified portfolio can be a great option for investors to ride out stock market turbulence.  Let's discuss which of these financial titans is the better dividend stock to buy now.  In this case, it's not a coincidence that shares of JPMorgan have outperformed the broader market, returning 30% over the past year.",
+      "published_utc": "2025-04-26T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83f56dc0cdc743188605803fe165df487ff0f121d4647a0210c243abf7aa3f58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104471,
+      "datetime": 1745659800
+    },
+    {
+      "id": "93aae88fea595e84e65b9536e7a97ffd179e2d55f9cc701f5599560d355092f9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Tariff Turmoil Could Trigger 4 Interest Rate Cuts in 2025 -- Here's What It Means for Stocks",
+      "author": "The Motley Fool",
+      "published_utc": "2025-04-26T14:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/26/tariff-turmoil-4-interest-rate-cuts-2025-it-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/815409/a-person-sitting-on-a-ledge-outside-the-stock-exchange-on-wall-street.jpg",
+      "description": "The article discusses how tariffs and global trade tensions could lead to a spike in inflation, which could prevent the Federal Reserve from cutting interest rates as expected. This could have significant implications for the S&P 500 index, as interest rate cuts are typically good for the stock market, but the start of a rate-cutting cycle often foreshadows a market correction.",
+      "keywords": [
+        "interest rates",
+        "tariffs",
+        "inflation",
+        "S&P 500",
+        "recession"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs believes there is a 45% chance of a recession in the next 12 months, up from 35% before the tariffs, which could negatively impact the stock market."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs believes there is a 45% chance of a recession in the next 12 months, up from 35% before the tariffs, which could negatively impact the stock market."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs believes there is a 45% chance of a recession in the next 12 months, up from 35% before the tariffs, which could negatively impact the stock market."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs believes there is a 45% chance of a recession in the next 12 months, up from 35% before the tariffs, which could negatively impact the stock market."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that JPMorgan Chase places the probability of a recession at 60%, up from 40% previously, which could lead to further declines in the stock market."
+        }
+      ]
+    },
+    {
+      "id": "200e9e565bf57973590c93e68a3e6ae9a986caf63645583ff3c784cdfdfee0f7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Vanguard Index Fund to Confidently Buy During the S&P 500 Correction",
+      "author": "Anthony Di Pizio",
+      "published_utc": "2025-04-26T09:56:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/26/1-vanguard-index-fund-confidently-buy-sp-500-corre/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "MCD",
+        "HD",
+        "AMZN",
+        "TSLA",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/815939/a-golden-bull-figurine-on-top-of-a-strip-of-money.jpg",
+      "description": "The S&P 500 index, which tracks 500 major U.S. companies, has fallen 12.5% from its all-time high due to global trade tensions. However, history suggests the index will eventually recover, making the Vanguard S&P 500 ETF a potential buy during the correction.",
+      "keywords": [
+        "S&P 500",
+        "Vanguard S&P 500 ETF",
+        "stock market correction",
+        "trade tensions"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the Vanguard S&P 500 ETF as a potential buy during the recent market correction, citing its low expense ratio and ability to track the performance of the S&P 500 index."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple, along with Microsoft and Nvidia, are the three largest companies in the S&P 500's information technology sector, which makes up 29.3% of the index. The article suggests these companies are likely to continue creating value for investors in the future."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft, along with Apple and Nvidia, are the three largest companies in the S&P 500's information technology sector, which makes up 29.3% of the index. The article suggests these companies are likely to continue creating value for investors in the future."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia, along with Apple and Microsoft, are the three largest companies in the S&P 500's information technology sector, which makes up 29.3% of the index. The article suggests these companies are likely to continue creating value for investors in the future."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that JPMorgan Chase is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Goldman Sachs is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that McDonald's is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Home Depot is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Tesla is part of the S&P 500's consumer discretionary sector, which is the fourth-largest component of the index, representing 10.2% of its total value."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway, the $1 trillion holding company managed by Warren Buffett, is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway, the $1 trillion holding company managed by Warren Buffett, is part of the S&P 500's financial sector, which is the second-largest component of the index, representing 14.7% of its total value."
+        }
+      ]
+    }
+  ]
+}

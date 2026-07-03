@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
+      "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
+      "published_utc": "2025-02-19T05:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7facde2ae5c066853e3c10f645338611f87bab1b8480e5a5ef704337d2dad585",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/940959558/image_940959558.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781249,
+      "datetime": 1739914800
+    },
+    {
+      "title": "Push UPs [Stocks] Vs Pull DOWNs [Retail Sales]",
+      "description": "This week's review and preview: The S&P 500 and Nasdaq showed bullish behavior, with the Dow Jones leading YTD gains at 4.7%, despite weak retail sales data. Read the full report here.",
+      "published_utc": "2025-02-19T00:59:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c31df8fe8b2fca463f42ecc3799b980a278e8518addeb12c05a3ccf4f73c16b1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/948513030/image_948513030.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132780121,
+      "datetime": 1739897952
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Inches Higher, Intel Soars On This Hope; Warren Buffett Loads Up On These Stocks (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Inches Higher, Intel Soars On This Hope; Warren Buffett Loads Up On These Stocks (Live Coverage)",
+      "published_utc": "2025-02-19T00:24:57",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a2a05a4cdb4c90fdc1d9da3608bcf4bbf7f995500120a17b3fb1f797ec0c1da0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784496,
+      "datetime": 1739895897
+    },
+    {
+      "title": "Big Tech May Have to Wait a Little Longer for a Merger Spree",
+      "description": "Big Tech May Have to Wait a Little Longer for a Merger Spree",
+      "published_utc": "2025-02-18T23:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c721ff9af03597f39fa63132f8aaeffa603c9115b507a785fa3708de2a9fc35e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784518,
+      "datetime": 1739894160
+    },
+    {
+      "title": "Meta Stock’s Huge Rally Ended Today",
+      "description": "Meta Stock’s Huge Rally Ended Today",
+      "published_utc": "2025-02-18T22:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6deca0c374b365bb8c05aef43c84817d5a9bc60519c24bae1d9fb1011507a3ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784519,
+      "datetime": 1739887800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:40.736477+00:00",
+    "cache_key": "news_aaed7ba0de7b04d45d6ea67306fa8f92",
+    "count": 5
+  }
+}

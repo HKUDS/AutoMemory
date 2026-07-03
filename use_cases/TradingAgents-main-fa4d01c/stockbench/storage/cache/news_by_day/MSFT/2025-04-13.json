@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Trump Exempts Some Electronics, Including Smartphones, From Tariffs on China",
+      "description": "President Trump’s tariff exemptions on some electronics are the latest twist in U.S. trade policy and could benefit companies such as Apple, Microsoft, Dell, Samsung and others that manufacture some products abroad.",
+      "published_utc": "2025-04-13T03:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e96b3a26be3231d3f025a8d38f4da424cedca6277ba00fe118098fe59fec8391",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895779,
+      "datetime": 1744485600
+    },
+    {
+      "title": "Apple, Nvidia, and Microsoft can 'breathe a huge sigh of relief' after Trump's China tariff exemptions",
+      "description": "The ever-growing U.S. tariffs on imports from China won’t bite Big Tech so badly after all, after the Trump administration late Friday laid out significant exemptions from its wider trade war that include smartphones, laptop computers, chips, and more.",
+      "published_utc": "2025-04-13T01:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=767d7938ce5685cee656132cde20175f6c494e0b05f622b96fb8b3b69d2f52bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895782,
+      "datetime": 1744479540
+    },
+    {
+      "title": "Microsoft Corporation (MSFT): AI Data Center Pause Signals Strategic Rethink in Cloud Infrastructure",
+      "description": "We recently published a list of 14 AI Stocks Catching Wall Street’s Attention. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other AI stocks catching Wall Street’s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has countersued billionaire […]",
+      "published_utc": "2025-04-13T00:10:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd2fa4f84ca1b061f9ec82f9c0b859f845180511d712538ca0230bce95345f62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895803,
+      "datetime": 1744474222
+    }
+  ]
+}

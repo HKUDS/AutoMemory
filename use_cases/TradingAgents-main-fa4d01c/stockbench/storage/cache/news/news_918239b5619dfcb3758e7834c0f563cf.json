@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "White House Planning to Replace NASA Administrator Nominee",
+      "description": "(Bloomberg) -- The White House said on Saturday it would name a new nominee for NASA administrator, just days before billionaire Jared Isaacman, the current pick, was to face his planned Senate confirmation vote.Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaWhere the Wild Children’s Museums AreThe Economic Benefits of Paying Workers to MoveNYC Congestion Toll Brings In $216 Million i",
+      "published_utc": "2025-06-01T05:05:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93bc7259e35fdcd0ef741791297717d9cd0c58f8a5bca47544f4eff62810dd84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134921286,
+      "datetime": 1748725520
+    },
+    {
+      "title": "At the Worst Possible Moment for Boeing, Airbus' Space Business Is Booming",
+      "description": "Why bet on a maybe Boeing turnaround when Airbus has already, definitively turned the corner?",
+      "published_utc": "2025-05-31T19:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4823fa1e28243be1c86bbdc6ec1c104b46bdd4888a9f076a1f2981573e53a655",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918154,
+      "datetime": 1748689620
+    },
+    {
+      "title": "Pension Funds Won’t Save the Bond Market",
+      "description": "Higher yields on long-term bonds have helped many pensions derisk. Now their appetite might be waning.",
+      "published_utc": "2025-05-31T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f272fa983f101e6fb8135d93dc4b4edf373f796119eab837c3eea598e87a7b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918197,
+      "datetime": 1748687400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:50:08.749869+00:00",
+    "cache_key": "news_918239b5619dfcb3758e7834c0f563cf",
+    "count": 3
+  }
+}

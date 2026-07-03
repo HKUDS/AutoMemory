@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 150-point drop led by losses in shares of Verizon, Walt Disney",
+      "description": "Dow's nearly 150-point drop led by losses in shares of Verizon, Walt Disney",
+      "published_utc": "2025-03-11T23:09:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9eaca0c178c2ba9105054814a50cb5fd35f2c45faffb93f7323d29b1238cb404",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133137811,
+      "datetime": 1741705740
+    },
+    {
+      "title": "McDonald’s Revamps Ranks to Speed Burger Breakthroughs",
+      "description": "The burger giant appointed its first chief restaurant experience officer to lead its efforts to get new menu items and technology to restaurants more quickly.",
+      "published_utc": "2025-03-11T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f29a87cbbde2e30cad0ed96bcf2b62bbb508cf1435aaeea2aa77d2d0647afffe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184795,
+      "datetime": 1741705200
+    },
+    {
+      "title": "Verizon, Walt Disney share losses contribute to Dow's 459-point fall",
+      "description": "Verizon, Walt Disney share losses contribute to Dow's 459-point fall",
+      "published_utc": "2025-03-11T22:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d8d1de8ec350785c9320701ce1ad400ce673e33261f8208707de1cdf7207ab42",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133136557,
+      "datetime": 1741702080
+    },
+    {
+      "title": "Dow falls 564 points on losses for shares of Verizon, Walt Disney",
+      "description": "Dow falls 564 points on losses for shares of Verizon, Walt Disney",
+      "published_utc": "2025-03-11T20:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=09e5b6715283c000fdabc207f61d4bff466ecc51efd47f2f5c60dcbdab53fa83",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133136558,
+      "datetime": 1741697280
+    }
+  ]
+}

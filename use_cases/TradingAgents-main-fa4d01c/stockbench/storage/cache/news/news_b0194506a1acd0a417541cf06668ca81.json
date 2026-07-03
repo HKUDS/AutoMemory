@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth director Kristen Gil buys 3,700 shares of company stock",
+      "description": "UnitedHealth (UNH) director Kristen Gil on Thursday bought 3,700 shares of the company’s stock at an average price of $271.17 per share. Following the filing, Gil own 5,369 common shares of the company, with 1,551 shares held directly and 3,818 controlled indirectly. Shares of UnitedHealth are up 0.4% to $275.10. Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See Insiders’ Hot Stocks on TipRanks >> Read More on UNH: Is UnitedHealth",
+      "published_utc": "2025-05-18T00:35:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5a9a918a0340682ed4b5de9fa6bd20d7baa91c9cb4ec95f6bf94b6de5b0f7b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567821,
+      "datetime": 1747499727
+    },
+    {
+      "title": "Home Depot, Snowflake Set To Report Earnings",
+      "description": "",
+      "published_utc": "2025-05-17T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a98a06f14f4c9d2ce79e4b45c66516ab42ab17101e76d7e7a17008a6f66ba4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134551788,
+      "datetime": 1747479600
+    },
+    {
+      "title": "Why UnitedHealth Is Down 50% In A Month And What Happens Next",
+      "description": "UnitedHealth Group faces real PBM reform risks, but legal paths, financials, and market pricing suggest opportunity in uncertainty. Read why UNH stock is a buy.",
+      "published_utc": "2025-05-17T15:15:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a2c49f88494a4e96ee6dc723b8ca87eeb7cc238c8ba4007a1bee750e48565ef",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214714811/image_2214714811.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134539180,
+      "datetime": 1747466148
+    },
+    {
+      "title": "UnitedHealth: An Investment Worth Considering At The Right Price",
+      "description": "UnitedHealth's challenges are manageable, leadership changes boost confidence, and long-term growth shows promise with 15% CAGR. See more on UNH here.",
+      "published_utc": "2025-05-17T15:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b7d787909172580d91a53e63a318d073755b2fc7869aab9012471884c011ecc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/160085472/image_160085472.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134538114,
+      "datetime": 1747465200
+    },
+    {
+      "id": "15b15b1c9b07c4528f9ee33257aadb75702f5b0cebb3baea9686d8216c71178b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages UnitedHealth Group Incorporated Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm– UNH",
+      "author": "N/A",
+      "published_utc": "2025-05-17T19:37:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/17/3083525/673/en/ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-UnitedHealth-Group-Incorporated-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-First-Filed-by-the-Fir.html",
+      "tickers": [
+        "UNH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "A securities class action lawsuit has been filed against UnitedHealth Group Incorporated (UNH) for allegedly making false and/or misleading statements about its corporate strategy of denying health coverage to boost profits, which resulted in regulatory scrutiny and public outrage.",
+      "keywords": [
+        "UnitedHealth Group Incorporated",
+        "securities class action"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article alleges that UnitedHealth Group engaged in a corporate strategy of denying health coverage to boost profits, which resulted in regulatory scrutiny and public outrage, including the murder of an individual. This suggests a negative sentiment towards the company's actions and their impact on consumers and the public."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:44:15.459114+00:00",
+    "cache_key": "news_b0194506a1acd0a417541cf06668ca81",
+    "count": 5
+  }
+}

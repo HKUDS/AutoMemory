@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Apple (AAPL) Stock Rated Hold as HSBC Flags AI Letdown and Tariff Risks",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the AI Stocks on Analysts’ Radar Right Now. On July 18, HSBC maintained a “Hold” rating on the stock with a $220 price target. The firm has quoted a “5% regulatory discount” and warned that tariff and legal uncertainties may limit near-term upside. HBSC analysts claim that Apple’s AI efforts […]",
+      "published_utc": "2025-07-24T06:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=841720e459ccfebd4a727ef30f2cb1b8c4b31c610183c902b4f8d1a9f95ff9c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061985,
+      "datetime": 1753309320
+    },
+    {
+      "title": "Google Earnings Roundly Beat Estimates. Growing CapEx Remains an Issue.",
+      "description": "Google-parent  Alphabet  beat expectations for its second quarter earnings results Wednesday afternoon.  Earnings per share were up to $2.31, ahead of Wall Street’s consensus estimate of $2.18, according to FactSet, and up from $1.89 last year.  Leading the charge was Google Cloud, with sales up to $13.6 billion in the quarter, ahead of expectations of $13.1 billion and up 32% on the year.",
+      "published_utc": "2025-07-24T05:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5a9b2c6984980541863f0aa775ce9b39a6be88edb0a6b27053885786c5d8922",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061986,
+      "datetime": 1753305900
+    },
+    {
+      "title": "Apple beats US appeal claiming it shortchanged customers on iCloud storage",
+      "description": "(Reuters) -A U.S. federal appeals court on Wednesday rejected claims by Apple customers that the iPhone maker gave them less iCloud data storage than they paid for when upgrading.  In a 3-0 decision, the 9th U.S. Circuit Court of Appeals in San Francisco said reasonable consumers in the proposed class action would not have been misled by Apple's promises about storage capacity in its iCloud+ plans.  The plaintiff Lisa Bodenburg said she paid $2.99 a month for 200 GB of storage, believing Apple would add it to the 5 GB that all iCloud customers receive, and was shortchanged because Apple gave her only 200 GB of total storage, not 205 GB.",
+      "published_utc": "2025-07-24T04:47:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e9f57020b751ffc3d8960858164a5d649b135774b8186c60d7cce7064d2a7f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061987,
+      "datetime": 1753303626
+    },
+    {
+      "title": "Kandji Announces Vulnerability Response to Bolster Cyber Resilience for Apple Devices in the Enterprise",
+      "description": "New solution combines vulnerability insights and intelligent app updates to automate remediation and reduce operational overheadMIAMI, July 23, 2025 (GLOBE NEWSWIRE) -- Kandji, the Apple endpoint security platform, today announced Vulnerability Response, a new feature within their Vulnerability Management product that enables customers to configure accelerated software updates for over 200 Mac applications based on the severity of detected vulnerabilities. With the launch of Vulnerability Respon",
+      "published_utc": "2025-07-24T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b7385af5aa958913737c3f67543402188ec3d2d90ea1e77d99e158a1bdaeeaa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061988,
+      "datetime": 1753302600
+    },
+    {
+      "title": "Google beats on Q2 earnings, raises capex expeditures",
+      "description": "Google reported its Q2 earnings after the bell on Wednesday.",
+      "published_utc": "2025-07-24T04:07:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=415ec0e440b12a24434c700cbf0a550434e6e45cec04a3a767d1d2f186babd00",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061956,
+      "datetime": 1753301237
+    }
+  ]
+}

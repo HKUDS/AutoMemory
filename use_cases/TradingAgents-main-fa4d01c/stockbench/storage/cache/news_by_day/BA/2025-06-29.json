@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Boeing Company (BA) Announces First of its Kind Demonstration",
+      "description": "The Boeing Company (NYSE:BA) is one of the 13 Best Aerospace and Defense Stocks to Invest in Now. On June 16, The Boeing Company (NYSE:BA) in collaboration with Royal Australian Air Force announced a successful first-of-its-kind demonstration. Under the demonstration, two uncrewed MQ-28 Ghost Bat aircraft, along with a third digital aircraft, were controlled simultaneously by […]",
+      "published_utc": "2025-06-29T00:30:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7d0b65f3c722107417d1081c941bad926ae4d891431296a05d0583d4e8b6c95",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135632064,
+      "datetime": 1751128239
+    }
+  ]
+}

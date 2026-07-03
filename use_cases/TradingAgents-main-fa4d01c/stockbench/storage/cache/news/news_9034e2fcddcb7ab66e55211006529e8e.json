@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Consumer Cos Down After Mixed Earnings - Consumer Roundup",
+      "description": "Consumer Cos Down After Mixed Earnings - Consumer Roundup",
+      "published_utc": "2025-02-06T01:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dd585f2e2bd71039e32f7dcf7782d847bce2d082a61aed408f799f80a095e76d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132578314,
+      "datetime": 1738775400
+    },
+    {
+      "title": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "description": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "published_utc": "2025-02-05T22:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=14522b0ead6971c45a7d15acc074a34c685995d64c40e7b4752770b363481809",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564061,
+      "datetime": 1738764480
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "description": "Basic Materials Roundup: Market Talk",
+      "published_utc": "2025-02-05T20:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=26d683858db95692d1ae5692150d50f2959b8102d860f1e117829c65a94d7a5b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132566774,
+      "datetime": 1738758600
+    },
+    {
+      "title": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "description": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-02-05T19:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cd443e114c79cbc979e50a14141aa0503528955326bdd3ab0714973ab0a7ecc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564063,
+      "datetime": 1738756320
+    },
+    {
+      "title": "The Sherwin-Williams Company: Macro Uncertainty Weigh On Near-Term Outlook",
+      "description": "PSG remains Sherwin-Williams' key growth driver, showing resilience with price increases and strong brand strength. Read why I downgrade SHW stock to Hold.",
+      "published_utc": "2025-02-05T08:18:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=db8f0f6375a3b19a3f787014e63ede9b0245ae8c580b0683cd281a5971428acc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1292740416/image_1292740416.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132559309,
+      "datetime": 1738714727
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:17.564629+00:00",
+    "cache_key": "news_9034e2fcddcb7ab66e55211006529e8e",
+    "count": 5
+  }
+}

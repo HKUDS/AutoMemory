@@ -1,0 +1,144 @@
+{
+  "current_phase": 2,
+  "max_phases": 7,
+  "step_status": "completed",
+  "runner": "/data2/junzhou2/nanobot/nanobot_memory/worktraces/runner.py",
+  "retention_size_override": "",
+  "stop_decision": {
+    "by": "critic",
+    "decision": "stop",
+    "reason": "Phase 2 Critic ran all 5 existing traces (all 1.0/1.0), then escalated twice: escalation 1 (traces 06-07, 1.0/1.0) and escalation 2 (traces 08-09, 1.0/1.0). All 9 traces scored 1.0/1.0 after two difficulty escalations. Exit condition 1 satisfied: Critic cannot break it.",
+    "explanation": "Top-level critic gate for continue/stop."
+  },
+  "trace_registry": [
+    {
+      "trace_id": "trace_01_medication_management",
+      "path": "worktraces/traces/data/trace_01_medication_management.json",
+      "description": "Medication add/dose-update/discontinue, allergy, basic profile. Tests dedup and discontinuation semantics.",
+      "created_in_phase": 0
+    },
+    {
+      "trace_id": "trace_02_symptom_wellness_log",
+      "path": "worktraces/traces/data/trace_02_symptom_wellness_log.json",
+      "description": "Symptom episodes, wellness entries, care timeline with lab values. Tests health_log.jsonl keyword retrieval including natural-language date search.",
+      "created_in_phase": 0
+    },
+    {
+      "trace_id": "trace_03_goal_tracking",
+      "path": "worktraces/traces/data/trace_03_goal_tracking.json",
+      "description": "Health goals and progress updates, follow-up appointments, symptom-medication cross-reference.",
+      "created_in_phase": 0
+    },
+    {
+      "trace_id": "trace_04_implicit_capture_and_synonyms",
+      "path": "worktraces/traces/data/trace_04_implicit_capture_and_synonyms.json",
+      "description": "Implicit/passive health capture and synonym-based recall (medical terminology vs. lay language). Tests LLM extraction paraphrase vs keyword recall.",
+      "created_in_phase": 1
+    },
+    {
+      "trace_id": "trace_05_update_collision_and_conflict",
+      "path": "worktraces/traces/data/trace_05_update_collision_and_conflict.json",
+      "description": "Multi-update collision (most recent weight wins), goal target revision, allergy-medication cross-reference.",
+      "created_in_phase": 1
+    },
+    {
+      "trace_id": "trace_06_symptom_resolution_care_timeline",
+      "path": "worktraces/traces/data/trace_06_symptom_resolution_care_timeline.json",
+      "description": "Escalation 1: symptom resolution tracking, lab values with specific numbers, care timeline precision, follow-up date recall.",
+      "created_in_phase": 2
+    },
+    {
+      "trace_id": "trace_07_medication_escalation_and_wellness_dates",
+      "path": "worktraces/traces/data/trace_07_medication_escalation_and_wellness_dates.json",
+      "description": "Escalation 1: multi-step medication dose escalation, date-specific wellness recall, A1C goal revision, lisinopril cough cross-reference.",
+      "created_in_phase": 2
+    },
+    {
+      "trace_id": "trace_08_supplement_tracking_and_implicit_capture",
+      "path": "worktraces/traces/data/trace_08_supplement_tracking_and_implicit_capture.json",
+      "description": "Escalation 2: high-density supplement capture (vitamin D 3000 IU, magnesium 400mg, fish oil), shellfish allergy, medication discontinuation with reason, implicit symptom mentions in non-health context.",
+      "created_in_phase": 2
+    },
+    {
+      "trace_id": "trace_09_goal_completion_and_lab_trend",
+      "path": "worktraces/traces/data/trace_09_goal_completion_and_lab_trend.json",
+      "description": "Escalation 2: goal completion recognition (weight goal hit), lab value trend across sessions (cholesterol improvement), exercise goal with progress.",
+      "created_in_phase": 2
+    }
+  ],
+  "phase_history": [
+    {
+      "phase": 0,
+      "scores": {
+        "trace_01_medication_management": { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_02_symptom_wellness_log":  { "support_coverage": 0.8095, "query_success": 0.3333 },
+        "trace_03_goal_tracking":         { "support_coverage": 1.0, "query_success": 1.0 },
+        "aggregate":                      { "support_coverage": 0.9365, "query_success": 0.7778 }
+      },
+      "new_traces": [
+        "trace_01_medication_management",
+        "trace_02_symptom_wellness_log",
+        "trace_03_goal_tracking"
+      ],
+      "weakness": [
+        "Natural-language date recall fails in health_log.jsonl: timestamps stored in ISO format (2026-04-15) but users query by human-readable dates ('April 15', 'April 12'). Affects all date-anchored recall queries for symptom log (requirement 6) and recent care timeline (requirement 5). 4 of 6 trace_02 queries fail on this issue.",
+        "Minor: HEALTH.md Recent Care Timeline date attribution error (off by one day)."
+      ],
+      "decision": "continue"
+    },
+    {
+      "phase": 1,
+      "improvement": [
+        "Added _add_human_date() in consolidation.py: every new health_log entry includes a 'date_human' field (e.g. 'April 15, 2026'), making new entries searchable by month-name queries.",
+        "Added _iso_from_natural_date() in memory/__init__.py recall(): converts 'April 15' queries to ISO prefix '2026-04-15' and searches both forms — backward-compatible with existing entries.",
+        "Propagated both fixes to nanobot/agent/memory.py: append_health_log() adds 'date_human'; search_health_log() applies ISO normalization.",
+        "All 9 functional tests still pass."
+      ],
+      "scores": {
+        "trace_01_medication_management":          { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_02_symptom_wellness_log":           { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_03_goal_tracking":                  { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_04_implicit_capture_and_synonyms":  { "support_coverage": 0.9231, "query_success": 0.8333 },
+        "trace_05_update_collision_and_conflict":  { "support_coverage": 1.0, "query_success": 1.0 },
+        "aggregate":                               { "support_coverage": 0.9846, "query_success": 0.9667 }
+      },
+      "new_traces": [
+        "trace_04_implicit_capture_and_synonyms",
+        "trace_05_update_collision_and_conflict"
+      ],
+      "weakness": [
+        "LLM extraction paraphrase breaks keyword recall: user says 'swollen ankles', stored as 'ankle swelling'. 'swollen' not a substring of 'swelling'. Affects health_log.jsonl keyword grep path when LLM normalizes user vocabulary to medical terminology."
+      ],
+      "decision": "continue"
+    },
+    {
+      "phase": 2,
+      "improvement": [
+        "Updated prompts.py HEALTH_EXTRACT_SYSTEM: added instruction to preserve user's exact phrasing in health_log content fields with '[user: <exact words>]' annotation. Makes user vocabulary directly searchable.",
+        "Added _morph_root() and _morph_terms() helpers in memory/__init__.py: strips common English inflectional/derivational suffixes to generate search roots as additional search terms in recall().",
+        "Applied the same morphological root search in nanobot/agent/memory.py search_health_log().",
+        "All 9 functional tests still pass."
+      ],
+      "scores": {
+        "trace_01_medication_management":                    { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_02_symptom_wellness_log":                     { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_03_goal_tracking":                            { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_04_implicit_capture_and_synonyms":            { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_05_update_collision_and_conflict":            { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_06_symptom_resolution_care_timeline":         { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_07_medication_escalation_and_wellness_dates": { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_08_supplement_tracking_and_implicit_capture": { "support_coverage": 1.0, "query_success": 1.0 },
+        "trace_09_goal_completion_and_lab_trend":            { "support_coverage": 1.0, "query_success": 1.0 },
+        "aggregate":                                         { "support_coverage": 1.0, "query_success": 1.0 }
+      },
+      "new_traces": [
+        "trace_06_symptom_resolution_care_timeline",
+        "trace_07_medication_escalation_and_wellness_dates",
+        "trace_08_supplement_tracking_and_implicit_capture",
+        "trace_09_goal_completion_and_lab_trend"
+      ],
+      "weakness": [],
+      "decision": "stop"
+    }
+  ]
+}

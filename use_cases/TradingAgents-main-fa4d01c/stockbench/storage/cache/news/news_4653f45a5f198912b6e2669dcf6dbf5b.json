@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "In the latest trading session, Amgen (AMGN) closed at $272.44, marking a -5.84% move from the previous day.",
+      "published_utc": "2025-06-24T06:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6418dc048d57c33c23f9a0e0638ba8f1a4b062ec679d8c828164c96799d3451",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135487195,
+      "datetime": 1750716002
+    },
+    {
+      "title": "Stocks Rally on Hopes of De-Escalation of Hostilities in the Middle East",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) Monday closed up +0.96%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.89%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.06%. September E-mini S&P futures (ESU25 ) are up +0.96%, and September E-mini Nasdaq futures...",
+      "published_utc": "2025-06-24T04:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6cf77b578dbb2917d91a858f53c6d55ba2c57b2ee8f4319cff22294e1dfd0c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135485874,
+      "datetime": 1750712040
+    },
+    {
+      "title": "Amgen Shares Fall on Weight-Loss Drug Tummy Troubles",
+      "description": "At the highest dosage of MariTide, 27% of patients stopped the drug due to a gastrointestinal adverse event.",
+      "published_utc": "2025-06-24T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a1532c9b7acdd1fddda703e9cdca95baa0515f6dc3cd918b96c24a031a5f8c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486657,
+      "datetime": 1750709700
+    },
+    {
+      "title": "American Diabetes Association 85th Scientific Session",
+      "description": "",
+      "published_utc": "2025-06-24T03:51:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=df35b2f69b0d8fcf0df0a8a2e8fcb8d252f61cf0a3d541df5f00220d9aeff838",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135485767,
+      "datetime": 1750708319
+    },
+    {
+      "title": "Transcript : Amgen Inc. - Special Call",
+      "description": "Presentation Operator MessageOperator My name is Julianne, and I will be your conference facilitator today for the Amgen Conference Call from the American Diabetes Association 85th Scientific",
+      "published_utc": "2025-06-24T03:50:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4d60f43823423c8f5d0f4924869507225341c012aa0be5511143a3f0783e369c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135485782,
+      "datetime": 1750708217
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:42.820442+00:00",
+    "cache_key": "news_4653f45a5f198912b6e2669dcf6dbf5b",
+    "count": 5
+  }
+}

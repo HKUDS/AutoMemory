@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Week Ahead: Blue Chips, Big Banks, GE Aerospace And Netflix Launch Q2, Congress Mulls Cryptos",
+      "description": "The stock market faces a busy week with a packed Q2 launch, and Congress debating several pieces of crypto legislation.",
+      "published_utc": "2025-07-14T03:19:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87a76119f0d7b4d0955cacafacf80c8cfc17848f0303276d1a602a0691749128",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912924,
+      "datetime": 1752434381
+    }
+  ]
+}

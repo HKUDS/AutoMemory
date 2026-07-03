@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "UBS Upgrades Caterpillar (CAT)",
+      "description": "",
+      "published_utc": "2025-02-03T20:04:33",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=ca9c38fd9ca997f39fc471041510364192add0d1e4e6203eefe8c21b8b749445",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520001,
+      "datetime": 1738584273
+    },
+    {
+      "title": "Apple, Nike share losses contribute to Dow's nearly 150-point drop",
+      "description": "Apple, Nike share losses contribute to Dow's nearly 150-point drop",
+      "published_utc": "2025-02-03T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d5c432766ccd3f3cf247f70086e67a0525e022d6a0c1c68e144262e45ab7c516",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132525736,
+      "datetime": 1738579560
+    },
+    {
+      "title": "Dow's 536-point fall led by losses for NVIDIA Corp., Nike stocks",
+      "description": "Dow's 536-point fall led by losses for NVIDIA Corp., Nike stocks",
+      "published_utc": "2025-02-03T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=62414f423107dcbafc620e66e032898ccd45ef9c4a7e260d6ea7d6fc10124893",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132522727,
+      "datetime": 1738575900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:49:39.412327+00:00",
+    "cache_key": "news_3a08588241ad2870db2a02c9eb145ecf",
+    "count": 3
+  }
+}

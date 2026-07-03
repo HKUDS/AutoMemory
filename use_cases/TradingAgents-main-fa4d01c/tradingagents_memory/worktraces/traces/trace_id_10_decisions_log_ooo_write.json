@@ -1,0 +1,209 @@
+{
+  "trace_id": "trace_id_10_decisions_log_ooo_write",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "DecisionsLog: out-of-order date writes; read_last_n returns by insertion order not trade_date — expected behavior by date, actual behavior by write order",
+  "turns": [
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "OUTOFORDER",
+        "record": {
+          "trade_date": "2026-01-15",
+          "ticker": "OUTOFORDER",
+          "rating": "Strong Buy",
+          "one_line_thesis": "ALPHA-growth-acceleration-Q4-confirmed-earnings-beat",
+          "key_risks": ["valuation stretched", "sector rotation risk"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "OUTOFORDER",
+        "record": {
+          "trade_date": "2026-01-10",
+          "ticker": "OUTOFORDER",
+          "rating": "Sell",
+          "one_line_thesis": "BETA-distribution-pattern-resistance-negative-divergence",
+          "key_risks": ["breakout failure", "increased supply"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "OUTOFORDER",
+        "record": {
+          "trade_date": "2026-01-13",
+          "ticker": "OUTOFORDER",
+          "rating": "Hold",
+          "one_line_thesis": "GAMMA-consolidation-below-resistance-no-catalyst-visible",
+          "key_risks": ["sector rotation", "earnings miss risk"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "OUTOFORDER",
+        "record": {
+          "trade_date": "2026-01-17",
+          "ticker": "OUTOFORDER",
+          "rating": "Buy",
+          "one_line_thesis": "DELTA-recovery-thesis-oversold-bounce-institutional-accumulation",
+          "key_risks": ["dead cat bounce risk", "macro headwind"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "OUTOFORDER",
+        "record": {
+          "trade_date": "2026-01-08",
+          "ticker": "OUTOFORDER",
+          "rating": "Hold",
+          "one_line_thesis": "EPSILON-mixed-macro-signals-wait-for-clarity-on-rates",
+          "key_risks": ["rate uncertainty", "geopolitical risk"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ORDERED",
+        "record": {
+          "trade_date": "2026-01-08",
+          "ticker": "ORDERED",
+          "rating": "Hold",
+          "one_line_thesis": "CHI-wait-for-clarity-macro-mixed",
+          "key_risks": ["rate risk"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ORDERED",
+        "record": {
+          "trade_date": "2026-01-10",
+          "ticker": "ORDERED",
+          "rating": "Sell",
+          "one_line_thesis": "PSI-distribution-forming-volume-analysis-bearish",
+          "key_risks": ["volume dry-up"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ORDERED",
+        "record": {
+          "trade_date": "2026-01-13",
+          "ticker": "ORDERED",
+          "rating": "Hold",
+          "one_line_thesis": "OMEGA-consolidation-holding-support-level",
+          "key_risks": ["macro uncertainty"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ORDERED",
+        "record": {
+          "trade_date": "2026-01-15",
+          "ticker": "ORDERED",
+          "rating": "Buy",
+          "one_line_thesis": "SIGMA-recovery-underway-fundamentals-intact",
+          "key_risks": ["sector headwind"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ORDERED",
+        "record": {
+          "trade_date": "2026-01-17",
+          "ticker": "ORDERED",
+          "rating": "Strong Buy",
+          "one_line_thesis": "TAU-breakout-confirmed-volume-surge-new-52week-high",
+          "key_risks": ["valuation stretched"]
+        }
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "OUTOFORDER_last1_expects_most_recent_by_date",
+      "component": "DecisionsLog",
+      "args": {"ticker": "OUTOFORDER", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "DELTA-recovery"},
+        {"type": "substring", "value": "2026-01-17"},
+        {"type": "not_substring", "value": "EPSILON-mixed"},
+        {"type": "not_substring", "value": "2026-01-08"}
+      ]
+    },
+    {
+      "label": "OUTOFORDER_last3_expects_jan17_jan15_jan13",
+      "component": "DecisionsLog",
+      "args": {"ticker": "OUTOFORDER", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "ALPHA-growth"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "substring", "value": "DELTA-recovery"},
+        {"type": "not_substring", "value": "EPSILON-mixed"},
+        {"type": "not_substring", "value": "2026-01-08"}
+      ]
+    },
+    {
+      "label": "OUTOFORDER_last5_returns_all_records",
+      "component": "DecisionsLog",
+      "args": {"ticker": "OUTOFORDER", "n": 5},
+      "expected_information": [
+        {"type": "substring", "value": "ALPHA-growth"},
+        {"type": "substring", "value": "BETA-distribution"},
+        {"type": "substring", "value": "GAMMA-consolidation"},
+        {"type": "substring", "value": "DELTA-recovery"},
+        {"type": "substring", "value": "EPSILON-mixed"}
+      ]
+    },
+    {
+      "label": "OUTOFORDER_last2_expects_jan15_jan17",
+      "component": "DecisionsLog",
+      "args": {"ticker": "OUTOFORDER", "n": 2},
+      "expected_information": [
+        {"type": "substring", "value": "ALPHA-growth"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "not_substring", "value": "EPSILON-mixed"},
+        {"type": "not_substring", "value": "2026-01-08"},
+        {"type": "substring", "value": "DELTA-recovery"}
+      ]
+    },
+    {
+      "label": "ORDERED_last3_correct_chronological_write",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ORDERED", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "TAU-breakout"},
+        {"type": "substring", "value": "SIGMA-recovery"},
+        {"type": "substring", "value": "OMEGA-consolidation"},
+        {"type": "not_substring", "value": "PSI-distribution"},
+        {"type": "not_substring", "value": "CHI-wait"}
+      ]
+    },
+    {
+      "label": "ORDERED_last1_is_most_recent",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ORDERED", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "TAU-breakout"},
+        {"type": "substring", "value": "2026-01-17"},
+        {"type": "not_substring", "value": "SIGMA-recovery"}
+      ]
+    }
+  ]
+}

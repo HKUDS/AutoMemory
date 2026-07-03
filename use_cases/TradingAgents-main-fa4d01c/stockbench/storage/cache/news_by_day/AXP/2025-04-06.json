@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "American Express (NYSE:AXP) Share Price Falls 12% in a Week Amid Shareholder Proposals",
+      "description": "American Express (NYSE:AXP) recently faced a series of shareholder proposals focusing on its Diversity, Equity, and Inclusion policies and executive compensation guidelines. These internal pressures coincided with external market volatility driven by global tariffs, leading the company's share price to decline by 12% last week. The broader market, including the Dow and S&P 500, experienced steep declines amid trade tensions, with the Dow dropping over 5% and the S&P 500 falling by 6% in the...",
+      "published_utc": "2025-04-06T01:35:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16e0a3f8bd7fcad669f7a5ee36a8410adb4ac19bba456eddb75d580c9e532c78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727383,
+      "datetime": 1743874530
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Laps the Stock Market: Here's Why",
+      "description": "JPMorgan Chase & Co. (JPM) reached $278.27 at the closing of the latest trading day, reflecting a +1.19% change compared to its last close.",
+      "published_utc": "2025-06-24T05:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82235cbd503c79c4242469221a5cd936669481264ed629decf6f5b44d79d3cf8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492030,
+      "datetime": 1750715104
+    },
+    {
+      "title": "Big banks are close to getting one of biggest regulatory rollbacks since 2008",
+      "description": "US regulators this week are expected to weigh one of the most dramatic rollbacks of bank capital rules since the 2008 financial crisis, which would give a major victory to lenders seeking relief from the new Trump administration.",
+      "published_utc": "2025-06-24T03:05:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a83e761b22154b4ed0974565a037cf81ac0aa93c7863e5f6204604171b877903",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492032,
+      "datetime": 1750705511
+    },
+    {
+      "title": "Can Goldman's Expansion in Private Equity Credit Set New Growth Path?",
+      "description": "GS targets global growth by expanding private equity credit lines and launching Capital Solutions Group.",
+      "published_utc": "2025-06-23T23:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43769a02323e1de13108d2b36520a8a85b5732087d382c94b49dcc711b094436",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135490288,
+      "datetime": 1750693680
+    },
+    {
+      "title": "Treasuries Rise on Dovish Comment by Fed’s Bowman, Haven Demand",
+      "description": "(Bloomberg) -- Treasuries rose after a second Federal Reserve Governor said the central bank could cut interest rates as soon as next month, extending gains stoked by haven demand after the US bombed nuclear sites in Iran over the weekend.Most Read from BloombergBezos Wedding Draws Protests, Soul-Searching Over Tourism in VeniceOne Architect’s Quest to Save Mumbai’s Heritage From DisappearingNYC Congestion Toll Cuts Manhattan Gridlock by 25%, RPA ReportsFed Governor Michelle Bowman said she coul",
+      "published_utc": "2025-06-23T22:23:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d721d2283586baf8987b4bf8409755cfbb4ede7bc183f0b1b833166bbe84dc84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481705,
+      "datetime": 1750688631
+    },
+    {
+      "title": "Young Investor Demand for Alternative Assets Is Reshaping Wall Street's Playbook",
+      "description": "(Bloomberg) -- Wall Street has a new favorite investor. They’re young, they’re affluent and they’re skeptical that traditional markets can deliver wealth over the long haul. Shaped by financial crises and fueled by tech optimism, this well-heeled class of Millennials and Gen Z are moving their money into the buzzy world of alternative assets.Most Read from BloombergBezos Wedding Draws Protests, Soul-Searching Over Tourism in VeniceOne Architect’s Quest to Save Mumbai’s Heritage From Disappearing",
+      "published_utc": "2025-06-23T20:23:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e17a3724a93050d6c4521fa957a8ac9c75c6ccd895d60a3ec01523723b2938a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481658,
+      "datetime": 1750681438
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:47.200252+00:00",
+    "cache_key": "news_d93102380511aed6b3065a196e7f8a79",
+    "count": 5
+  }
+}

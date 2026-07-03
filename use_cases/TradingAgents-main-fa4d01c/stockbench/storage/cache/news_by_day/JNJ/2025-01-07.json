@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "My Top 10 Dividend-Paying Buy-And-Hold Stocks For 2025",
+      "description": "Top 10 dividend-paying buy-and-hold stocks for your portfolio, offering both stability and growth potential over the next decade. Click here to find out more.",
+      "published_utc": "2025-01-07T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=194e8b0b17f43cd50d323b1dd1fe870f097d08c546eb01ad6383bb187ffb6fd9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157681450/image_157681450.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292286,
+      "datetime": 1736186400
+    },
+    {
+      "title": "Is it a Good Idea to Invest in Vanda Pharmaceuticals Stock Now?",
+      "description": "Here, we discuss some reasons why investing in the VNDA stock now may turn out to be a prudent move.",
+      "published_utc": "2025-01-07T00:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8da5ca21c4d9e135574b401e2748e362a30cd9b10080f704dcc969f266d84cea",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/9d995582658bf49e50317a8120603e3e",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132291051,
+      "datetime": 1736182440
+    },
+    {
+      "title": "Johnson & Johnson stock outperforms competitors despite losses on the day",
+      "description": "Johnson & Johnson stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-01-07T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=15c0f9426bfc94a24b148dae440f49c5e1593b5979843c2691063391be6e825f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321992,
+      "datetime": 1736181060
+    }
+  ]
+}

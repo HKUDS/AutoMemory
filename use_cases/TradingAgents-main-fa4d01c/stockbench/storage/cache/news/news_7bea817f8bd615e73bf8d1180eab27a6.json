@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "The Race to Save a Salamander That Spawned a Global Cottage Industry",
+      "description": "From TikTok to McDonald’s Happy Meals, Mexico’s ancient axolotl is everywhere, except where it is supposed to be—in the wild.",
+      "published_utc": "2025-03-29T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=508754aea73a60401840dc2e3a8adad995106e152c9b1fdb37e10425913f2b07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133580953,
+      "datetime": 1743260400
+    },
+    {
+      "title": "Safe Compounder McDonald’s Stock (MCD) Demands Reassuring Premium",
+      "description": "McDonald’s (MCD) stock has proven highly resilient in recent weeks against the broader market’s brutal sell-off, once again reminding us of its safe compounder status. While the fast-food goliath is dealing with inflation headwinds and shifts in consumer spending, it recently celebrated all-time record revenues and earnings. Even as the stock hovers near its 52-week highs, I think it remains reasonably valued, given the company’s proven strength, overall outlook, and unique qualities. Given the",
+      "published_utc": "2025-03-29T18:42:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01a1ed42a4e912e379d86bc1372f9fc06c085ba5ff0cfbfddb7ab83839775a84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133580954,
+      "datetime": 1743244954
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:23:38.113836+00:00",
+    "cache_key": "news_7bea817f8bd615e73bf8d1180eab27a6",
+    "count": 2
+  }
+}

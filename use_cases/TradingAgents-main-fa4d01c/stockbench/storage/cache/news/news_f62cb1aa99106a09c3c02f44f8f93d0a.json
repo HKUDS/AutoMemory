@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "China says its airlines and Boeing have been severely affected by tariffs",
+      "description": "BEIJING -Chinese airlines and Boeing have been severely impacted by U.S.-imposed tariffs, disrupting regular trade and investment activities of many businesses, the Chinese commerce ministry said in...",
+      "published_utc": "2025-04-29T07:42:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=da02a3a05fb7dadee745bd49705904432849b066a5aa0d9810c2272fe3f4aa11",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134120914,
+      "datetime": 1745883738
+    },
+    {
+      "title": "S&P removes Boeing's rating from CreditWatch negative on improving aircraft production",
+      "description": "The U.S. planemaker's rating was placed on CreditWatch negative after about 33,000 of its workers went on a strike, which halted production of its best-selling jets.  S&P said on Monday that Boeing appears to be on track to recover from the 2024 strike-driven production halt and persistent manufacturing quality problems.",
+      "published_utc": "2025-04-29T06:15:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=446314fbe519ff36e8cd8eaaa4d45b0a17316a8924fdec677a5b5f9ebab573d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131184,
+      "datetime": 1745878531
+    },
+    {
+      "title": "Boeing outlook remains negative as S&P cites recovery risks",
+      "description": "Investing.com -- S&P Global Ratings affirmed Boeing Co ’s (NYSE:BA) ’BBB-’ credit rating Monday and removed the aerospace giant from CreditWatch Negative, citing improved production levels and declining cash burn. However, the ratings agency maintained a negative outlook due to ongoing uncertainty around the pace of recovery in aircraft deliveries.",
+      "published_utc": "2025-04-29T05:49:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06f099a07de41be9b3698c8ef5efe53a1bbc9055978ff044c14c279c3b6a7394",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131185,
+      "datetime": 1745876955
+    },
+    {
+      "title": "Stocks to Watch Recap: Domino’s Pizza, Nvidia, Boeing, Plug Power",
+      "description": "↘️ Nvidia (NVDA): Huawei Technologies is gearing up to test its newest AI processor, which the Chinese company hopes could replace some Nvidia products. The U.S. chip stock fell 2.1% Monday. ↗️ Domino's Pizza (DPZ): The chain posted mixed quarterly results, including a decline in U.",
+      "published_utc": "2025-04-29T04:57:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a21a90d44ee7068062dd0c0fd6998529b9c793515d7f8532b1bbe20f6d91f54d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131186,
+      "datetime": 1745873862
+    },
+    {
+      "title": "Boeing Stock Rose Today for 2 Reasons",
+      "description": "Bernstein upgraded Boeing stock to Buy from Hold. Airbus agreed to take facilities back from Spirit AeroSystems, which is being acquired by Boeing.",
+      "published_utc": "2025-04-29T04:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6e3df90a6a2efcb41793b1f9ce5542407e989f7a5d21b051c343d35e1297c69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131187,
+      "datetime": 1745872440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:28.283629+00:00",
+    "cache_key": "news_f62cb1aa99106a09c3c02f44f8f93d0a",
+    "count": 5
+  }
+}

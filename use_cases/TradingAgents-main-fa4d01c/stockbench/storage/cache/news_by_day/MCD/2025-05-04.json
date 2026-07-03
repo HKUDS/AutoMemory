@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Robert Kiyosaki, 'Rich Dad Poor Dad,' Says Poor People Can't Afford To Eat McDonald's Or Burger King — Good For Health But Bad News For Economy",
+      "description": "\"Fast food\" used to mean cheap, greasy, and everywhere. You didn't need to check your bank account before grabbing a burger and fries. But now, that dollar menu is looking more like a memory — and according to \"Rich Dad, Poor Dad\" author Robert Kiyosaki, it's not just hitting broke college kids or struggling families. It's hitting the rich. On April 26, Kiyosaki posted on X that even McDonald's and Burger King franchise owners — the ones with multiple stores — are going under. Don't Miss: Deloit",
+      "published_utc": "2025-05-04T07:29:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=920bcda56b23658a9bc1cb23dbbc2ee62360efb903c33b25e7b04b1c8acccbbf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246979,
+      "datetime": 1746314985
+    }
+  ]
+}

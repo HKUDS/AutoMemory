@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "PG vs. CHD: Which Consumer Goods Stock Offers the Best Long-Term Value?",
+      "description": "Procter & Gamble's scale and digital edge go head-to-head with Church & Dwight's focused brand play in the fight for long-term value.",
+      "published_utc": "2025-06-25T22:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00fdfea4c4226a46e95311669912ea581bbe11a5a88879a83733933b61571cdb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530271,
+      "datetime": 1750862700
+    },
+    {
+      "title": "My Dividend Stock Portfolio: New May Dividend Record - 100 Holdings With 15 Buys",
+      "description": "Explore May 2025 market volatility, U.S.-China trade talks, and record dividend income growth.",
+      "published_utc": "2025-06-25T16:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28d3b832c1fca31770119594903f09760ded636b8898fcc7533e46ddeeaa3cac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135524419,
+      "datetime": 1750839000
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+  "eval_mode": "hit_rate",
+  "category": "multi_session",
+  "description": "Escalation: production session trajectory persistence should serialize user/assistant text, ignore synthetic parts, redact secrets, and update the same session.",
+  "checks": [
+    {
+      "description": "Persisted trajectory should include assistant outcome text.",
+      "write_input": {
+        "session": {
+          "id": "ses-prod-archive-1",
+          "projectID": "proj-memory",
+          "title": "Residency hydration rollout",
+          "time": { "created": 1700100000000, "updated": 1700100100000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "We need to finish residency hydration rollout for eu-enterprise-9." }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Outcome: residency hydration now uses packages/account/src/residency-hydration.ts and the focused residency-hydration test." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "focused residency-hydration test", "matcher": "substring" }
+    },
+    {
+      "description": "Ignored and synthetic parts should not be stored as trajectory evidence.",
+      "write_input": {
+        "session": {
+          "id": "ses-prod-archive-2",
+          "projectID": "proj-memory",
+          "title": "Synthetic noise archive",
+          "time": { "created": 1700100200000, "updated": 1700100300000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "Record only the visible deployment conclusion." },
+              { "type": "text", "text": "SHOULD_NOT_STORE_IGNORED_PART", "ignored": true },
+              { "type": "text", "text": "SHOULD_NOT_STORE_SYNTHETIC_PART", "synthetic": true }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Visible conclusion: staging-east approval is required before rollout." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*SHOULD_NOT_STORE_IGNORED_PART)(?![\\s\\S]*SHOULD_NOT_STORE_SYNTHETIC_PART)[\\s\\S]*staging-east approval[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "Trajectory serialization should redact obvious secret values.",
+      "write_input": {
+        "session": {
+          "id": "ses-prod-archive-3",
+          "projectID": "proj-memory",
+          "title": "Secret redaction archive",
+          "time": { "created": 1700100400000, "updated": 1700100500000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "The rollout command accidentally printed OPENROUTER_API_KEY=sk-or-v1-secretsecretsecretsecretsecretsecretsecret." }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Keep only that the OpenRouter key was redacted during archive." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*sk-or-v1-secretsecretsecretsecretsecretsecretsecret)[\\s\\S]*\\[REDACTED\\][\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "Same session persistence should replace an older title and summary.",
+      "write_input": {
+        "writes": [
+          {
+            "session": {
+              "id": "ses-prod-archive-update",
+              "projectID": "proj-memory",
+              "title": "Initial incorrect billing guess",
+              "time": { "created": 1700100600000, "updated": 1700100700000 }
+            },
+            "messages": [
+              {
+                "role": "assistant",
+                "parts": [
+                  { "type": "text", "text": "Initial outcome blamed Redis TTL drift." }
+                ]
+              }
+            ]
+          },
+          {
+            "session": {
+              "id": "ses-prod-archive-update",
+              "projectID": "proj-memory",
+              "title": "Final billing retry finding",
+              "time": { "created": 1700100600000, "updated": 1700100800000 }
+            },
+            "messages": [
+              {
+                "role": "assistant",
+                "parts": [
+                  { "type": "text", "text": "Final outcome: idempotency keys fixed invoice retry duplication." }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*Initial incorrect billing guess)(?![\\s\\S]*Redis TTL drift)[\\s\\S]*idempotency keys[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "File-like tokens from trajectory text should be indexed into commands metadata.",
+      "write_input": {
+        "session": {
+          "id": "ses-prod-archive-4",
+          "projectID": "proj-memory",
+          "title": "Adapter file recall",
+          "time": { "created": 1700100900000, "updated": 1700101000000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Patch packages/account/src/residency-adapter.ts before rerunning bun test packages/account --filter residency." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "packages/account/src/residency-adapter.ts", "matcher": "substring" }
+    }
+  ]
+}

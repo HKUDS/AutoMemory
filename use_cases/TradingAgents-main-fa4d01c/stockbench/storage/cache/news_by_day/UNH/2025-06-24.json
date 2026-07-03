@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Oscar Health: Building The Operating System Of American Healthcare",
+      "description": "",
+      "published_utc": "2025-06-24T06:25:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5cae4e04fb7a4033e7377b1342d10f3681b64c0c032bfaba66adf766750338b1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486879,
+      "datetime": 1750717522
+    },
+    {
+      "title": "UnitedHealth Group Recommends Shareholders Reject \"Mini-Tender\" Offer by Tutanota",
+      "description": "June 23, 2025--UnitedHealth Group (NYSE: UNH) today announced that it recently became aware of an unsolicited \"mini-tender\" offer by Tutanota LLC (Tutanota) to purchase up to 175,000 shares of UnitedHealth Group’s common stock, representing significantly less than 1% of UnitedHealth Group’s common stock outstanding.",
+      "published_utc": "2025-06-24T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ceee370f05cc6fb96b43b8adfe31a681eb5fb7981458ef831b05d4ebf88337e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492088,
+      "datetime": 1750708800
+    }
+  ]
+}

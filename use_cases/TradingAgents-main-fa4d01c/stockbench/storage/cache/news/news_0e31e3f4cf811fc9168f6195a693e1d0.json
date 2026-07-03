@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Time To Take Profits On Caterpillar",
+      "description": "Discover why Caterpillar's stock surge diverges from its financials. Learn insights on its risk/reward profile amid U.S. housing market recovery.",
+      "published_utc": "2025-07-27T21:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4947301a6374b3da2c0b3db427208fcf9d09b3b7d9161e636075114e0b65a542",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1447570254/image_1447570254.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101165,
+      "datetime": 1753621200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:12:52.171220+00:00",
+    "cache_key": "news_0e31e3f4cf811fc9168f6195a693e1d0",
+    "count": 1
+  }
+}

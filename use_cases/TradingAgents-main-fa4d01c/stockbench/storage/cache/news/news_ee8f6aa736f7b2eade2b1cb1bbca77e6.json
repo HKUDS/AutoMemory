@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Analyst Says Salesforce (CRM) $8 Billion Informatica Deal Example of Marc Benioff ‘Understanding’ His Job",
+      "description": "Commenting on Salesforce, Inc. (NYSE:CRM) recent $8 billion acquisition of Informatica (NYSE: INFA), Sarah Kunst, Managing Director at Cleo Capital praised the company’s CEO Marc Benioff and said the deal could pay off. Marc Benioff understanding his job, which is if he buys something for eight billion and then the stock moves 10 million, 20 […]",
+      "published_utc": "2025-06-05T04:28:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7e35b377b3da511a6177da32a5e308550a2f25b2a21772304a820b8021a44d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035912,
+      "datetime": 1749068884
+    },
+    {
+      "title": "Salesforce, Informatica Is Good for Permira, Co-CEO Says",
+      "description": "Permira co-Managing Partner and co-CEO Brian Ruder explains why the $25 per share price that Salesforce is paying for Informatica is good for his investors. Ruder joins Caroline Hyde and Ed...",
+      "published_utc": "2025-06-05T00:57:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cb47d1a7a2267d4e07a8ed90a273d198fba200129bfe3db77e469955d0149659",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135019628,
+      "datetime": 1749056240
+    },
+    {
+      "title": "Hackers abuse modified Salesforce app to steal data, extort companies, Google says",
+      "description": "(Reuters) -Hackers are tricking employees at companies in Europe and the Americas into installing a modified version of a Salesforce-related app, allowing the hackers to steal reams of data, gain access to other corporate cloud services and extort those companies, Google said on Wednesday.  The hackers – tracked by the Google Threat Intelligence Group as UNC6040 – have “proven particularly effective at tricking employees” into installing a modified version of Salesforce’s Data Loader, a proprietary tool used to bulk import data into Salesforce environments, the researchers said.  The hackers use voice calls to trick employees into visiting a purported Salesforce connected app setup page to approve the unauthorized, modified version of the app, created by the hackers to emulate Data Loader.",
+      "published_utc": "2025-06-04T22:13:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20a228ad1ed5d743770c99dae3bcca6d6a5b37b942c670b22f05b5cad66e2fc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011279,
+      "datetime": 1749046410
+    },
+    {
+      "title": "First Eagle U.S. Value Fund Q1 2025 Commentary",
+      "description": "U.S. Fund A Shares (without sales charge*) posted a return of 4.06% in first quarter 2025. Read more here.",
+      "published_utc": "2025-06-04T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d61feddee971dc4678d5c6138e84ad1adc61ec75f562ab4edb0636d1d2c7e577",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1478156131/image_1478156131.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135013400,
+      "datetime": 1749045600
+    },
+    {
+      "title": "First Eagle Global Fund Q1 2025 Commentary",
+      "description": "Global Fund A Shares (without sales charge*) posted a return of 6.92% in first quarter 2025. Developed Europe and North America were the leading contributors.",
+      "published_utc": "2025-06-04T19:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19ba91e2cb2c80159226ce411b60b9f5bb237ddbf05e53d6c7932073491e3b93",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349695390/image_1349695390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010808,
+      "datetime": 1749037800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:18.041285+00:00",
+    "cache_key": "news_ee8f6aa736f7b2eade2b1cb1bbca77e6",
+    "count": 5
+  }
+}

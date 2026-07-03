@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth: Poised For A Rebound",
+      "description": "UnitedHealth's selloff is partly a market overreaction to temporary Medicare Advantage headwinds. Read why investors should pay attention to the UNH stock price drop.",
+      "published_utc": "2025-06-19T02:21:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e82a63fcc2f939be0159eff986e10bb1648ca2b755e06f1853d6fce66c0e5de3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2174741172/image_2174741172.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374337,
+      "datetime": 1750270892
+    }
+  ]
+}

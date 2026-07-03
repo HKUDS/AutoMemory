@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Ideal Anti-Tariff Investment: TJX Companies",
+      "description": "Discover how The TJX Companies, Inc. thrives with off-price retail strategy, store expansions, and steady growth despite market challenges. Click for more.",
+      "published_utc": "2025-04-08T01:16:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f690dd6e588c04019a9e8372b539ef12abcdba5ab86400b4a0a7cc0400fe641",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189251134/image_2189251134.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133750802,
+      "datetime": 1744046213
+    },
+    {
+      "title": "Trump's Tariffs Topple Tech Stocks. Here's What Amazon Investors Should Know",
+      "description": "President Donald Trump announced a new batch of tariffs on April 2, and let's just say investors haven't been jumping with joy since then.  Tech stocks experienced some of the harshest drops.  One tech stock that has been hit fairly hard because of the new tariffs is Amazon (NASDAQ: AMZN).",
+      "published_utc": "2025-04-08T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d500c1fd0c6ac070e5567a6babae225570029f055823cff361db2a499342544",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741047,
+      "datetime": 1744041600
+    },
+    {
+      "title": "One chart shows how much optimism has been wiped out of the 'Magnificent 7' because of Trump tariffs",
+      "description": "It hasn't been pretty for the \"Magnificent Seven.\"",
+      "published_utc": "2025-04-07T22:03:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b45cbaca9d2fe7970a5f9f11035a2e0b6947995a97a04be06d12dec6369b6825",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741020,
+      "datetime": 1744034585
+    },
+    {
+      "title": "'Magnificent 7' stocks continue getting hammered as Trump tariffs drag markets lower",
+      "description": "The Magnificent Seven tech stocks continued their sell-off Monday as the Trump administration’s global tariff plan rocked markets.",
+      "published_utc": "2025-04-07T21:39:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a75618165797c0aa97bd3b91179449e4785ad65181c49a8ea8334bd85b285f7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741023,
+      "datetime": 1744033160
+    },
+    {
+      "title": "Amazon airline prioritizes bigger aircraft to handle third-party cargo",
+      "description": "Amazon has restructured its air network to accommodate the need for fewer short-haul package flights and a new clientele of shippers with heavy freight. The post Amazon airline prioritizes bigger aircraft to handle third-party cargo appeared first on FreightWaves.",
+      "published_utc": "2025-04-07T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7c30caaae862e83c5fe68d2d83126b91d7a71795b31b8e9a09ec9dd074cc550",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738420,
+      "datetime": 1744030800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:30.292774+00:00",
+    "cache_key": "news_37a7f6cf8c165da2cc7da2fa9a7373c9",
+    "count": 5
+  }
+}

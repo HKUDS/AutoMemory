@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Entergy: “I Know it Can Go Higher”",
+      "description": "Entergy Corporation (NYSE:ETR) is one of the stocks that Jim Cramer looked at. During the lightning round, a caller inquired about the company, and Cramer replied: “Man, I’ll tell you, ETR’s had such a run. I know it can go higher, but it, I mean… you know, Meta likes it and everything. I’m going to […]",
+      "published_utc": "2025-07-26T11:31:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dbb9c176b785af65bfe3eac2fee230123acf4d33cbbeabf6757595c290a0f2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101699,
+      "datetime": 1753500674
+    },
+    {
+      "title": "Jim Cramer While Discussing Johnson & Johnson: “It’s Still Too Early to Buy the Momentum Stocks”",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the stocks that Jim Cramer recently commented on. Cramer discussed the stock in light of its latest quarter and analyst sentiment around it. He said: “Sometimes you get these days where it feels like the market has returned to some semblance of what you’re used to when things […]",
+      "published_utc": "2025-07-26T11:30:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba09befd732469cb99ae8b5316393aa25c6c84b19e858b07f63fca3bca7299b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101700,
+      "datetime": 1753500646
+    },
+    {
+      "title": "Genmab A/S (GMAB) Opens U.S. Hub in New Jersey to Drive Global Growth",
+      "description": "We recently compiled a list of 11 Best Undervalued Stocks to Invest in Now. Genmab A/S stands eighth on our list and has recently opened new sites in the US. Genmab A/S (NASDAQ:GMAB), a Danish biotech company founded in 1999, specializes in antibody-based therapies for cancer and serious diseases. Known for its technologies like HuMab-Mouse […]",
+      "published_utc": "2025-07-26T10:37:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d49d5cf1c1942c3add702fe530b6ed8602728f1d29062fe49df3398ea1498ce1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136096120,
+      "datetime": 1753497475
+    }
+  ]
+}

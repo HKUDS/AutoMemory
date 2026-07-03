@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "RYBREVANT® (amivantamab-vmjw) plus LAZCLUZE™ (lazertinib) outperforms osimertinib with a significant and unprecedented overall survival benefit in patients with EGFR-mutated non-small cell lung cancer",
+      "description": "Johnson & Johnson (NYSE:JNJ) today announced results for the gold standard endpoint in cancer treatment of overall survival (OS) from the Phase 3 MARIPOSA study. Head-to-head comparison data versus osimertinib showed RYBREVANT® (amivantamab-vmjw) plus LAZCLUZE™ (lazertinib) significantly extended OS in the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletions (ex19del) or L858R substi",
+      "published_utc": "2025-03-26T23:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8338901da52e0f7881b5626f4504fc996e9cdf897d58f656d8d9eb808ae5dfb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133458289,
+      "datetime": 1743003900
+    },
+    {
+      "title": "Here's Why Johnson & Johnson (JNJ) is a Strong Value Stock",
+      "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+      "published_utc": "2025-03-26T21:40:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=044da3b2d7cf3fd7d2abd605ab510c43cc86e0f5c03ee0dac248804e732ca3d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133457199,
+      "datetime": 1742996410
+    }
+  ]
+}

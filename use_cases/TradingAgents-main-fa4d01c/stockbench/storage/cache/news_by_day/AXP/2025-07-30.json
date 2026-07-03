@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Freshworks raises annual revenue forecast on AI-driven demand",
+      "description": "Freshworks raised annual revenue forecast on Tuesday, betting on growing demand for its artificial intelligence-powered software designed to manage IT services. Businesses are increasingly adopting software solutions from companies such as Freshworks, ServiceNow and Salesforce to automate repetitive tasks and streamline customer interactions. The company now expects revenue for the year 2025 to be between $822.9 million and $828.9 million, up from its previous forecast of $815.3 million to $824.3 million.",
+      "published_utc": "2025-07-30T04:16:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55cff0d722d9444a9b02d4e9a9fb662dfdcf27888cd1d76229f5138ffc932874",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129804,
+      "datetime": 1753820213
+    },
+    {
+      "title": "US Justice Department drops bid to block corporate travel company merger",
+      "description": "The U.S. Department of Justice dropped its bid to block American Express Global Business Travel Group's acquisition of CWT Holdings, according to court records entered in New York on Tuesday. The U.S. sued in January, before President Donald Trump took office, to block the proposed merger, saying the $570 million deal would eliminate competition between the largest and third-largest providers of business travel management services.",
+      "published_utc": "2025-07-30T03:14:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab678294b494abca731c4c665de5fe96b3fb02172194fec3cab17df2e396ba0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129961,
+      "datetime": 1753816463
+    }
+  ]
+}

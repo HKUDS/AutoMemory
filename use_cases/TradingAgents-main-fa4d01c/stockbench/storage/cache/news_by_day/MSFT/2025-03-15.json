@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.",
+      "description": "Quantum computing stocks have skyrocketed in recent months. But are the pure-play specialists really your best investment option? The answer might surprise you.",
+      "published_utc": "2025-03-15T23:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5aaec5e350af104d02bf5f3b8bc8a006774533d15e456dd0e244efacd3b55780",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184122,
+      "datetime": 1742052660
+    },
+    {
+      "title": "Trump Trade: Binance founder denies report on Trump talks",
+      "description": "Catch up on the top industries and stocks that were impacted, or were predicted to be impacted, by the comments, actions and policies of President Donald Trump with this daily recap compiled by The Fly: BINANCE FOUNDER DENIES REPORT: On Thursday, The Wall Street Journal’s Rebecca Ballhaus, Patricia Kowsmann, Angus Berwick, Josh Dawsey and Caitlin Ostroff crypto exchange Binance, citing people familiar with the matter. Binance’s billionaire founder, Changpeng Zhao, who served four months in priso",
+      "published_utc": "2025-03-15T22:05:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc16f6889c0ca1d506e60415f28690fbe37cae25599ef5bdd655a6607f8b2f97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184123,
+      "datetime": 1742047515
+    }
+  ]
+}

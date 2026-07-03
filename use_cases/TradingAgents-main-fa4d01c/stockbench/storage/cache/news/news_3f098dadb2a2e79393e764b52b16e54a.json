@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar : First Quarter 2025 Transcript",
+      "description": "TRANSCRIPT 04 - 30 - 2025 Caterpillar First Quarter 2025 Earnings TOTAL PAGES: 21 CORPORATE...",
+      "published_utc": "2025-05-06T06:02:56",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0b94f230e31b9e80cfed10486dbe1fd6b744521690bc06977e36ebe486fa53ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134252483,
+      "datetime": 1746482576
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:51.455644+00:00",
+    "cache_key": "news_3f098dadb2a2e79393e764b52b16e54a",
+    "count": 1
+  }
+}

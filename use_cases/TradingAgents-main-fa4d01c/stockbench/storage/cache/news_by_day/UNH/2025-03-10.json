@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Sequoia Fund Q4 2024 Shareholder Letter",
+      "description": "Sequoia Fund returned 20.79% in 2024, versus 25.02% for the S&P 500. Our goal is to outperform the S&P 500 over the long term. Read more here.",
+      "published_utc": "2025-03-10T23:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=db44aad427ad512f2d59868df205284bc5a9946a9018b92e6d66bb022d011d66",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/165180102/image_165180102.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133126592,
+      "datetime": 1741621800
+    },
+    {
+      "title": "UnitedHealth Group (UNH) Fell After Reporting Mixed Operating Metrics",
+      "description": "RiverPark Advisors, an investment advisory firm and sponsor of the RiverPark family of mutual funds, released its “RiverPark Large Growth Fund” fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. During the fourth quarter, the markets continued its strong rally with the Russell 1000 Growth Index (RLG) and the S&P 500 […]",
+      "published_utc": "2025-03-10T20:04:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0641da63b55b2dac4ed683d12df68d023aca6cef8b945b5324dfe36f682fad67",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184340,
+      "datetime": 1741608283
+    },
+    {
+      "title": "Insurance premiums are soaring. Could AI bring costs down?",
+      "description": "Insurance premiums are soaring. Could AI bring costs down?",
+      "published_utc": "2025-03-10T17:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a40f33699adad5de84af2a179f3307923c5acfbf9104de15188b1ab54b6c139",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133118559,
+      "datetime": 1741597200
+    },
+    {
+      "title": "Fidelity Value Discovery Fund Q4 2024 Review",
+      "description": "For the three months ending December 31, 2024, the fund's Retail Class shares returned -3.41%, trailing the -1.94% return of the benchmark Russell 3000Â® Value Index.",
+      "published_utc": "2025-03-10T09:02:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da3cb6d6bb2994a879bb43bf701580e22d1855cb83830fb91c34d3da1094e5d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1432028495/image_1432028495.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114899,
+      "datetime": 1741568520
+    }
+  ]
+}

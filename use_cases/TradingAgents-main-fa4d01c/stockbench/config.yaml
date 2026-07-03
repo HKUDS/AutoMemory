@@ -1,0 +1,279 @@
+
+
+# Stock universe configuration
+symbols_universe:
+  - GS
+  - MSFT
+  - HD
+  - V
+  - SHW
+  - CAT
+  - MCD
+  - UNH
+  - AXP
+  - AMGN
+  - TRV
+  - CRM
+  - JPM
+  - IBM
+  - HON
+  - BA
+  - AMZN
+  - AAPL
+  - PG
+  - JNJ
+
+data:
+  # Data mode (auto | offline_only)
+  # auto: Cache-first; fallback to APIs (Polygon/Finnhub) when local data is missing or incomplete.
+  # offline_only: Read local caches/files only; NEVER call external APIs. Requires data pre-cached.
+  # Tip: Can be overridden via CLI: --offline or --data-mode
+  mode: auto
+# Data configuration
+bars:
+  day:
+    adjusted: true   # Returned market data is adjusted for stock splits and dividends.
+
+# Feature construction configuration
+features:
+  # Historical data window control
+  history:
+    price_series_days: 7      # Price series for the past 7 trading days, e.g., close_7d or day_ret
+
+# News configuration
+news:
+  lookback_days: 2      # Lookback days for fetching news (excluding the backtest day)
+  page_limit: 100       # Page limit for fetching news
+  top_k_event_count: 5  # Select the top K most important news events
+
+# Portfolio configuration
+portfolio:
+  total_cash: 100000  # Total capital
+  min_cash_ratio: 0.0  # Minimum cash reserve ratio
+
+# Agent configuration
+agents:
+  mode: "dual"      # Dual-agent mode
+  
+  # Dual-agent architecture (effective when mode is 'dual')
+  dual_agent:
+    fundamental_filter:
+      temperature: 0.7               # Lower temperature ensures stable filtering
+      max_tokens: 16000               # Filtering tasks require fewer tokens
+      prompt: "fundamental_filter_v1.txt"  # Prompt file for the fundamental filter agent
+    decision_agent:
+      temperature: 0.7               # Decision-making needs moderate creativity
+      max_tokens: 16000               # Decision tasks require more tokens
+      prompt: "decision_agent_v1.txt"      # Prompt file for the decision agent
+  
+  # Unified retry policy
+  retry:
+    max_attempts: 3   # Business-level retries (decision-related), unified retry loop to trigger another LLM call
+
+# LLM profiles - multiple providers supported
+llm_profiles:
+  openai:
+    provider: "openai"
+    base_url: ""
+    model: "oss-120b"
+    backtest_report_model: "oss-120b"
+    auth_required: true
+    timeout_sec: 360  # Increased timeout for deepseek (was 60)
+    retry:
+      max_retries: 3 # Network/API-level retries (not business-related)
+      backoff_factor: 0.5
+
+  deepseek-v3.1:
+    provider: "openai"
+    base_url: ""
+    model: "deepseek-v3.1-250821"
+    backtest_report_model: "deepseek-v3.1-250821"
+    auth_required: true
+    timeout_sec: 180  # Increased timeout for deepseek (was 60)
+    retry:
+      max_retries: 3 # Network/API-level retries (not business-related)
+      backoff_factor: 0.5
+
+  kimi-k2-0711-preview:
+    provider: "openai"
+    base_url: ""
+    model: "kimi-k2-0711-preview"
+    backtest_report_model: "kimi-k2-0711-preview"
+    auth_required: true
+    timeout_sec: 360  # Increased timeout for deepseek (was 60)
+    retry:
+      max_retries: 3 # Network/API-level retries (not business-related)
+      backoff_factor: 0.5
+      
+  qwen3-235b-a22b-instruct-2507:
+    provider: "openai"
+    base_url: "https://api.chatanywhere.tech/v1"
+    model: "qwen3-235b-a22b-instruct-2507"
+    backtest_report_model: "qwen3-235b-a22b-instruct-2507"
+    auth_required: true
+    timeout_sec: 180
+    retry:
+      max_retries: 3 # Network/API-level retries (not business-related)
+      backoff_factor: 0.5
+
+  gpt-oss-20b:
+    provider: "openai"
+    base_url: "https://api.chatanywhere.tech/v1"
+    model: "gpt-oss-20b"
+    backtest_report_model: "gpt-oss-20b"
+    auth_required: true
+    timeout_sec: 180
+    retry:
+      max_retries: 3 # Network/API-level retries (not business-related)
+      backoff_factor: 0.5
+
+  gpt-oss-120b:
+    provider: "openai"
+    base_url: "https://api.chatanywhere.tech/v1"
+    model: "gpt-oss-120b"
+    backtest_report_model: "gpt-oss-120b"
+    auth_required: true
+    timeout_sec: 180
+    retry:
+      max_retries: 3 # Network/API-level retries (not business-related)
+      backoff_factor: 0.5
+
+  # vLLM local deployment (recommended for integration testing)
+  vllm:
+    provider: "vllm"
+    base_url: "http://localhost:8000/v1"
+    single_agent_model: "qwen2.5-7b-instruct"
+    backtest_report_model: "qwen2.5-7b-instruct"
+    auth_required: false  # Local vLLM typically does not require authentication
+    timeout_sec: 120      # Local inference can be slower; increase timeout
+    retry:
+      max_retries: 2 # Network/API-level retries (not business-related)
+      backoff_factor: 1.0
+
+  # Mock profile (for testing)
+  none:
+    provider: "none"
+    base_url: ""          # Mock calls don't require URL
+    backtest_report_model: "mock-model"
+    auth_required: false
+    timeout_sec: 1        # Mock calls require almost no time
+    # cache: disabled (uniformly controlled by cache.mode)
+    retry:
+      max_retries: 0      # No retries needed for mock calls
+
+
+cache:
+  # mode: off | llm_write_only | full
+  # - off            : Disable all caching (no read, no write)
+  # - llm_write_only : LLM writes only; news/financials/indicators read/write as normal
+  # - full           : Enable full read/write (LLM and data)
+  mode: llm_write_only
+
+# Logging configuration
+logging:
+  console_level: INFO
+  file_level: INFO
+  intercept_std_logging: true
+
+# Backtest configuration
+backtest:
+  warmup_days: 15  # Historical warmup days required for feature construction
+  # Historical decision log management
+  history:
+    max_records_per_symbol: 7  # Max number of historical decision records per symbol
+    max_history_days: 30     # Keep at most 30 days of historical decision records
+    
+  # Detailed trade logs configuration, JSON files
+  enable_detailed_logging: true  # Recommended to enable; saves detailed trade logs, portfolio snapshots, etc.
+  
+  # Benchmark configuration
+  benchmark:
+    # Default remains the old baseline; set 'type' here or via CLI to enable per-symbol
+    symbol: SPY
+    field: close   # close | open   Use closing or opening price for the benchmark
+
+    reindex: inner_join  # inner_join | business  
+# inner_join (default, recommended): keep only days where both strategy and benchmark have data
+# business: reindex benchmark data to all strategy trading days
+
+    fill: ffill    # ffill | none
+# ffill (forward-fill, recommended): fill missing values with the previous valid value
+# none: use only when strict data integrity is required
+    fill_limit: 3
+# Fill limit for forward-fill; missing spans exceeding this limit are not filled and are dropped
+
+    # Per-symbol buy and hold
+    type: per_symbol_buy_and_hold
+    total_cash: null  
+    trade_price_field: open
+    daily_metrics:
+      enabled: true
+      metrics: [cum_return, max_drawdown, sortino]
+      sortino:
+        mode: to_date    # rolling | to_date
+        window: 63
+      save_format: [text, image]
+    
+    # Aggregated analysis configuration
+    aggregated_analysis:
+      enabled: true  # Whether to generate aggregated analysis plots
+      
+      # Aggregated plots configuration
+      plots:
+        cumreturn_analysis: true      # Aggregated cumulative return plot
+        price_trends: true            # Raw price trend comparison  
+        
+      # Visualization settings
+      visualization:
+        individual_alpha: 0.3         # Individual stock line alpha
+        average_linewidth: 3          # Average line width
+        figure_size: [12, 8]          # Figure size
+        dpi: 300                      # DPI
+        
+      # Key metrics annotation
+      key_metrics:
+        highlight: ["cum_return", "max_drawdown", "sortino"]
+        annotation_box: true          # Whether to show annotation boxes
+    
+    # Multi-period performance comparison
+    multi_period_analysis:
+      enabled: true  # Whether to generate multi-period analysis plots
+      
+      # Multi-period plots configuration
+      plots:
+        performance_heatmap: true     # Multi-period return heatmap
+        rolling_sortino: true         # Rolling Sortino ratio comparison
+        rolling_sharpe: true          # Rolling Sharpe ratio comparison
+        rolling_drawdown: true        # Rolling drawdown comparison
+        ranking_over_time: true       # Performance ranking over time
+        
+      # Window settings
+      windows:
+        heatmap_periods: [5, 10, 21, 42, 63, 126, 252]  # Heatmap periods (days)
+        rolling_window: 63            # Default rolling window
+        ranking_window: 21            # Ranking analysis window
+        
+      # Visualization settings
+      visualization:
+        figure_size: [14, 8]          # Figure size
+        dpi: 300                      # DPI
+        alpha: 0.8                    # Line alpha
+        linewidth: 1.5                # Line width
+        
+  # Backtest parameters
+  timespan: "day"
+  commission_bps: 1.0
+  slippage_bps: 2.0
+  fill_ratio: 1.0
+  max_positions: 20  
+  rebalance_at_open: false
+  summary_llm: true
+
+# API configuration
+api:
+  polygon:
+    api_key: "${POLYGON_API_KEY}"
+    base_url: "https://api.polygon.io"
+  finnhub:
+    api_key: "${FINNHUB_API_KEY}"
+    base_url: "https://finnhub.io/api/v1" 

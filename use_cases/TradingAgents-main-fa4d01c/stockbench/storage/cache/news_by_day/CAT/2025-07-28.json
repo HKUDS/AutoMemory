@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Take the Zacks Approach to Beat the Markets: AngloGold Ashanti, Caterpillar & Hershey in Focus",
+      "description": "AU, CAT and HSY are standing out as Zacks' high-conviction picks, with each posting double-digit gains in recent weeks.",
+      "published_utc": "2025-07-28T20:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baf01540110cd4ea89fe2c1c1a55634ada566192d3bce4ca380f868ab50699b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108182,
+      "datetime": 1753706460
+    },
+    {
+      "title": "Caterpillar: Real Multi-Trillion Robotic Opportunity",
+      "description": "Caterpillar is poised to lead the robotics industry with large-scale machines, leveraging its expertise in heavy machinery and global reach.",
+      "published_utc": "2025-07-28T16:24:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c23cccef4b32ab70d117599e11c6caec527493457341154e56451dd5d690500",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/167231399/image_167231399.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136106321,
+      "datetime": 1753691058
+    },
+    {
+      "title": "Best Dividend Aristocrats For August 2025",
+      "description": "Dividend Aristocrats are outperforming SPY in July but still trail year-to-date. Check out my Promising Aristocrats list here.",
+      "published_utc": "2025-07-28T13:19:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=830665c984684da2b011aea06a74a0926a66a23d46b32622de0a5dbcf64f981a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189040496/image_2189040496.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136105728,
+      "datetime": 1753679992
+    }
+  ]
+}

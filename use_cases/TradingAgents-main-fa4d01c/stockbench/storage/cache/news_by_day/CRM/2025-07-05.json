@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "What Is Salesforce, Inc.'s (NYSE:CRM) Share Price Doing?",
+      "description": "Salesforce, Inc. ( NYSE:CRM ) saw a decent share price growth of 15% on the NYSE over the last few months. While good...",
+      "published_utc": "2025-07-05T20:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0d7210dc851129caa8ebceab4199ea562a32cfb2b115c6f0ddd14a5f7c52e4f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768941,
+      "datetime": 1751716811
+    },
+    {
+      "title": "What Are the 5 Best AI Software Stocks to Buy Right Now?",
+      "description": "Palantir has one of the biggest opportunities in the AI software space.  GitLab has been seeing strong growth, and the launch of its GitLab 18 platform positions it well for future growth.  Salesforce has a big opportunity with AI agents, while ServiceNow is becoming a leading AI software company in the enterprise space.",
+      "published_utc": "2025-07-05T17:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e42a9e1b3b10999d214976fa03a8294d8718b0ec95d58bf8e7a684c44242ccd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766362,
+      "datetime": 1751709000
+    }
+  ]
+}

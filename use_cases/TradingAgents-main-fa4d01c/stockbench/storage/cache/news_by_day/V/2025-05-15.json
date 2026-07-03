@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Tracking Akre Capital Management Portfolio - Q1 2025 Update",
+      "description": "Akre Capitalâs Q1 2025 13F portfolio value declined ~10% to $10.4B. Click here to read more about the portfolio's stake increases and decreases.",
+      "published_utc": "2025-05-15T06:33:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1417a22acdf09c54eddbbb6f2822c676270aae96fa46909f19a64303a2292a87",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1275708831/image_1275708831.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134456363,
+      "datetime": 1747261989
+    },
+    {
+      "title": "Visa Inc. (V): DBS Analyst Reiterates Buy Rating, Sets $400 Price Target",
+      "description": "We recently covered Visa Inc. (NYSE:V) in 12 Best Major Stocks to Buy According to Billionaires. The U.S. stock market had one of the worst starts, at least the worst start to a presidency since 1928. The S&P 500 is just recovering following the latest U.S.-China trade deal update, as both countries have agreed to […]",
+      "published_utc": "2025-05-15T06:11:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5de87a60ec66033b6b01c4052c4171f7a3607fb70cd76e4e6a4417d7c72650a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460708,
+      "datetime": 1747260671
+    },
+    {
+      "title": "Retailers urge European Commission to crack down on Visa, Mastercard",
+      "description": "Europe's largest retailersand online retail companies have urged the European Commissionto rein in allegedly high fees charged by Visa andMastercard, saying they hurt the bloc's competitivenessand...",
+      "published_utc": "2025-05-15T01:11:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7dc4ec75d19882c4e5e11ed3af9a6b71e857ff13ee0102238edd430783b99d26",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134454932,
+      "datetime": 1747242670
+    }
+  ]
+}

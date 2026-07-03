@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams is the Most Awarded Brand for Paint Customer Satisfaction in 2025 by J.D. Power; Customers name Sherwin-Williams #1 in Customer Satisfaction with both Interior Paint and Exterior Paint",
+      "description": "CLEVELAND- The Sherwin-Williams Company earned first place honors in customer satisfaction with interior and exterior paint in the J.D. Power 2025 U.S Paint Satisfaction Study. This is the third...",
+      "published_utc": "2025-05-07T19:11:36",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0de6ca1acaffe2119dd2795efe544219bfa70156810445e1e56c5bce4edf1aa1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134296125,
+      "datetime": 1746616296
+    }
+  ]
+}

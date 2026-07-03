@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is UnitedHealth Group Incorporated (UNH) the Most Undervalued High Quality Stock to Buy According to Analysts?",
+      "description": "We recently published a list of 10 Most Undervalued High Quality Stocks to Buy According to Analysts. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other most undervalued high quality stocks to buy according to analysts. Is a Market Rally Around The Corner? In one […]",
+      "published_utc": "2025-03-08T23:38:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7a54cdcb5d817ee72bb0d895fe37635083e35f57e072eb8d6dad4ad386cfc7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184341,
+      "datetime": 1741448330
+    },
+    {
+      "title": "Adobe, DICK's Sporting Goods, Dollar General To Report Results As Investors Look To Inflation Report",
+      "description": "This week's earnings include retailers like Dickâs Sporting Goods, Dollar General, and Kohlâs. Investors will look for Feb. CPI reading that is due Wednesday. See more.",
+      "published_utc": "2025-03-08T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f4b619d2cf93924be55eec7d9a738fb12b105973012d993b08df63400d06dd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133107059,
+      "datetime": 1741431600
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "title": "Tracking George Soros's 13F Portfolio - Q4 2024 Update",
+      "description": "George Soros's 13F portfolio value decreased to $6.65B with 190 positions. Click here for a detailed analysis.",
+      "published_utc": "2025-03-03T07:56:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=63cecf62fd0d3c120f6a414dd5957f713005ca65fff2257e4947dca2edf77791",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451506045/image_1451506045.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132947068,
+      "datetime": 1740959818
+    },
+    {
+      "id": "3c116d9893cb6ca91f220c8ba8568065f697cb3b063668f4a2d15fe74a63c64f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before It Surges by 60%, According to 1 Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T23:16:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/1-artificial-intelligence-ai-stock-to-buy-hand-ove/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "ADBE",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809156/gettyimages-1367686706.jpg",
+      "description": "Loop Capital Markets initiated coverage on Palantir with a 12-month price target 60% above its current level, despite the company's lofty valuation. The analyst believes Palantir has the potential to build a tight ecosystem like Adobe or Salesforce, two software stocks that generally trade at a premium.",
+      "keywords": [
+        "Palantir",
+        "AI",
+        "software",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights a Wall Street analyst's bullish view on Palantir, with a 12-month price target implying 60% upside. The analyst believes Palantir has the potential to build a strong ecosystem like other premium-valued software companies."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article compares Palantir's potential to build a tight ecosystem to that of Adobe, which is described as a software giant that dominates its core market."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article compares Palantir's potential to build a tight ecosystem to that of Salesforce, which is described as a software giant that dominates its core market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:53.706640+00:00",
+    "cache_key": "news_ddd7903516d97b6d1a0600a9e669cfa1",
+    "count": 2
+  }
+}

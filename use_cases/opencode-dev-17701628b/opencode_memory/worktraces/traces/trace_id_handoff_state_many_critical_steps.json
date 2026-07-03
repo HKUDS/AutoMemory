@@ -1,0 +1,91 @@
+{
+  "trace_id": "trace_id_handoff_state_many_critical_steps",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: compact handoff formatting should preserve multiple short critical next steps instead of only the first when a task has many steps.",
+  "turns": [
+    { "role": "user", "content": "Start payments reconciliation handoff.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Collected current task state.", "used_for_evaluation": false },
+    { "role": "tool", "content": "read_file inspected payments reconciliation files.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Noise before compaction.", "used_for_evaluation": false },
+    {
+      "role": "system",
+      "content": "compaction produced handoff",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish payments reconciliation cutover without dropping finance audit requirements.",
+          "constraints": "Keep the audit export schema stable and do not rerun production migrations.",
+          "done": ["Mapped old payout columns to the new reconciliation view."],
+          "inProgress": ["Comparing gateway payout totals against ledger nightly export."],
+          "blockers": ["Finance must approve the delta report before merge."],
+          "decisions": ["Use gateway exported_at as the reconciliation watermark."],
+          "nextSteps": [
+            "Run ledger diff",
+            "Patch payout mapper",
+            "Regenerate audit snapshot",
+            "Restart reconciliation worker",
+            "Ping finance reviewer",
+            "Update rollback note",
+            "Verify staging totals"
+          ],
+          "files": [
+            "packages/payments/src/reconcile.ts",
+            "packages/payments/test/audit-snapshot.test.ts"
+          ],
+          "evidenceSessionID": "handoff-critical"
+        }
+      }
+    },
+    { "role": "agent", "content": "The compact prompt budget is realistic for a crowded system prompt.", "used_for_evaluation": false },
+    { "role": "user", "content": "Later chatter about unrelated docs.", "used_for_evaluation": false },
+    { "role": "agent", "content": "End.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker one", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker two", "used_for_evaluation": false },
+    { "role": "tool", "content": "formatter check succeeded.", "used_for_evaluation": false },
+    { "role": "agent", "content": "No source edits in this trace.", "used_for_evaluation": false },
+    { "role": "user", "content": "Keep all critical resume steps visible.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Acknowledged.", "used_for_evaluation": false },
+    { "role": "tool", "content": "rg checked unrelated migration notes.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Trace complete.", "used_for_evaluation": false },
+    { "role": "system", "content": "final noise", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What is the first reconciliation next step?",
+      "metadata": { "maxChars": 620 },
+      "expected_information": [
+        { "value": "Run ledger diff", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What mapper change remains in the handoff?",
+      "metadata": { "maxChars": 620 },
+      "expected_information": [
+        { "value": "Patch payout mapper", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What audit snapshot action remains in the handoff?",
+      "metadata": { "maxChars": 620 },
+      "expected_information": [
+        { "value": "Regenerate audit snapshot", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What worker restart action remains in the handoff?",
+      "metadata": { "maxChars": 620 },
+      "expected_information": [
+        { "value": "Restart reconciliation worker", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What blocker and source file remain visible?",
+      "metadata": { "maxChars": 620 },
+      "expected_information": [
+        { "value": "Finance must approve", "matcher": "substring" },
+        { "value": "packages/payments/src/reconcile.ts", "matcher": "substring" }
+      ]
+    }
+  ]
+}

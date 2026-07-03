@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Advances While Market Declines: Some Information for Investors",
+      "description": "Procter & Gamble (PG) closed the most recent trading day at $175.59, moving +1.01% from the previous trading session.",
+      "published_utc": "2025-03-04T06:50:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78cac6e0a5eb0ef64c7614aa7a6dfa936741af7d8c8f1c4fd21a66cb8a9770f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184397,
+      "datetime": 1741042206
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Procter & Gamble Co. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-03-04T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e26a7dca1e95d4f87881d9caaabcdd20a3dd308831dab3165edc88a85ce2cbe4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973917,
+      "datetime": 1741019460
+    },
+    {
+      "title": "Here is What to Know Beyond Why Procter & Gamble Company (The) (PG) is a Trending Stock",
+      "description": "P&G (PG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-03-03T22:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=716043cd0a3273342e89e9b0bb6db103c4530362a3a9014c397a835d2d5ae1e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184398,
+      "datetime": 1741010412
+    },
+    {
+      "title": "Shoppers turn to smaller food brands, cutting into Unilever, P&G profits",
+      "description": "Shoppers, weary of high prices and highly-processed packaged food, are increasingly buying from smaller food brands, threatening the growth of billion-dollar products from conglomerates such as Unilever.  Consider Hellmann's mayonnaise, one of Unilever's biggest brands globally.  The condiment is losing market share to less-well-known rivals such as Duke’s Mayo, which was founded in the U.S. south, and Mike’s Amazing mayo, which is gaining traction in the U.S. northeast, where it says it is the fastest growing condiments brand.",
+      "published_utc": "2025-03-03T19:05:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=888484f0076a5d2960b21e175c33641e7b73b59b140ecbd82e637f2fa005ff6b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184399,
+      "datetime": 1740999943
+    },
+    {
+      "title": "VDC Consumer Staples ETF: Good Diversifier, Buy On Weakness",
+      "description": "VDC is a defensive ETF with low correlation to the US stock market. Read why this consumer staples ETF could be a prudent choice for long-term investors.",
+      "published_utc": "2025-03-03T17:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d01dec5477ff52b8244d500edb8e37d28182a6711102540a452f84889cecae83",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1973410818/image_1973410818.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132953876,
+      "datetime": 1740994200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:39.816152+00:00",
+    "cache_key": "news_49c2d1ff8c7606e6fbb5cdc067de183f",
+    "count": 5
+  }
+}

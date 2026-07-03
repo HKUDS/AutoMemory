@@ -1,0 +1,149 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: production session trajectory persistence should redact secrets from title-derived card fields as well as message-derived fields.",
+  "checks": [
+    {
+      "description": "A secret-like value in the session title should be redacted from title, goal, l0, and indexed concepts.",
+      "write_input": {
+        "session": {
+          "id": "ses-title-secret-1",
+          "projectID": "proj-memory",
+          "title": "Debug OPENROUTER_API_KEY=sk-or-v1-titlesecretsecretsecretsecretsecret",
+          "time": { "created": 1700200000000, "updated": 1700200100000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Outcome: title secret was noticed during archive testing." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*sk-or-v1-titlesecretsecretsecretsecretsecret)[\\s\\S]*\\[REDACTED\\][\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "A normal trajectory title and assistant outcome should still be preserved.",
+      "write_input": {
+        "session": {
+          "id": "ses-title-secret-2",
+          "projectID": "proj-memory",
+          "title": "Residency replay canary",
+          "time": { "created": 1700200200000, "updated": 1700200300000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Outcome: run staging-east residency replay canary before production." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "staging-east residency replay canary", "matcher": "substring" }
+    },
+    {
+      "description": "Same-session replacement should still remove obsolete title content.",
+      "write_input": {
+        "writes": [
+          {
+            "session": {
+              "id": "ses-title-secret-update",
+              "projectID": "proj-memory",
+              "title": "Obsolete Redis diagnosis",
+              "time": { "created": 1700200400000, "updated": 1700200500000 }
+            },
+            "messages": [
+              {
+                "role": "assistant",
+                "parts": [
+                  { "type": "text", "text": "Outcome: obsolete Redis TTL explanation." }
+                ]
+              }
+            ]
+          },
+          {
+            "session": {
+              "id": "ses-title-secret-update",
+              "projectID": "proj-memory",
+              "title": "Final queue isolation diagnosis",
+              "time": { "created": 1700200400000, "updated": 1700200600000 }
+            },
+            "messages": [
+              {
+                "role": "assistant",
+                "parts": [
+                  { "type": "text", "text": "Outcome: queue isolation fixed duplicate invoice retries." }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*Obsolete Redis diagnosis)(?![\\s\\S]*Redis TTL)[\\s\\S]*queue isolation[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "Ignored title-adjacent synthetic message parts should still be excluded.",
+      "write_input": {
+        "session": {
+          "id": "ses-title-secret-3",
+          "projectID": "proj-memory",
+          "title": "Visible deployment note",
+          "time": { "created": 1700200700000, "updated": 1700200800000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "Keep deployment note only." },
+              { "type": "text", "text": "SHOULD_NOT_STORE_TITLE_SYNTHETIC", "synthetic": true }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Visible conclusion: deploy after qa-window closes." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*SHOULD_NOT_STORE_TITLE_SYNTHETIC)[\\s\\S]*qa-window closes[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "File-like tokens from the trajectory body should remain indexed after title redaction cases.",
+      "write_input": {
+        "session": {
+          "id": "ses-title-secret-4",
+          "projectID": "proj-memory",
+          "title": "Adapter path archive",
+          "time": { "created": 1700200900000, "updated": 1700201000000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Patch packages/account/src/tenant-residency.ts before running the residency adapter smoke test." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "packages/account/src/tenant-residency.ts", "matcher": "substring" }
+    }
+  ]
+}

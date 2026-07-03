@@ -1,0 +1,21 @@
+{
+  "showcase": "showcase2",
+  "condition": "memory-on",
+  "order": 2,
+  "instance_id": "django__django-13964",
+  "repo": "django/django",
+  "base_commit": "f39634ff229887bf7790c069d0c411b38494ca38",
+  "expected_files": [
+    "django/db/models/fields/related_descriptors.py"
+  ],
+  "should_verify": true,
+  "dry_run": false,
+  "python_env": {
+    "path": "/data2/junzhou2/opencode/bench/showcase2/runs/memory-on/session-2/repo/.bench-venv",
+    "bin": "/data2/junzhou2/opencode/bench/showcase2/runs/memory-on/session-2/repo/.bench-venv/bin",
+    "python": "/data2/junzhou2/opencode/bench/showcase2/runs/memory-on/session-2/repo/.bench-venv/bin/python",
+    "sourcePython": "/home/anaconda3/bin/python3",
+    "sourcePythonVersion": "3.9.13",
+    "prepared": true
+  }
+}

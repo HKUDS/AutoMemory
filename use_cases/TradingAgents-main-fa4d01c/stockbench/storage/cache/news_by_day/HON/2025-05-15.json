@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Quantum Computing Stocks: Honeywell's Quantinuum, Qatar In $1 Billion Joint Venture",
+      "description": "Honeywell's Quantinuum announced a deal with Qatar's Al Rabban Capital in what could be a $1 billion joint venture over the next 10 years.",
+      "published_utc": "2025-05-15T03:03:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31eace0eeca6f320d08a119247abaf133f381fb2ca86977ea04749be4cca6d8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134461030,
+      "datetime": 1747249403
+    }
+  ]
+}

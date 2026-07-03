@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Mark Zuckerberg Ate at a Japanese McDonald's And Was Blown Away By The Delicious Meal — Rated It 10/10 And Joked 'Give These Guys a Michelin Star'",
+      "description": "Last year, Mark Zuckerberg sat down for a meal that, by all accounts, blew his tech-loving mind—and it wasn't at a five-star sushi bar or some underground Tokyo tasting room. It was McDonald's. \"Japanese McDonald's: 10/10. Give these guys a Michelin star,\" the Meta CEO wrote in an Instagram post, wearing a shearling coat and Meta smart glasses, mid-bite into what looked like a bacon-and-fried-egg burger. His wife, Priscilla Chan, posed outside the restaurant like it was Nobu, not the Golden Arch",
+      "published_utc": "2025-05-27T01:00:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b85a29ae009c5db3e03a970fa30fa5610e308c5bfd70beea614c87ae36514b43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716065,
+      "datetime": 1748278838
+    }
+  ]
+}

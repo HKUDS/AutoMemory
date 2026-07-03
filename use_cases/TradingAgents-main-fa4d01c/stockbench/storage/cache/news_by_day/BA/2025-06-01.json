@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "White House Planning to Replace NASA Administrator Nominee",
+      "description": "(Bloomberg) -- The White House said on Saturday it would name a new nominee for NASA administrator, just days before billionaire Jared Isaacman, the current pick, was to face his planned Senate confirmation vote.Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaWhere the Wild Children’s Museums AreThe Economic Benefits of Paying Workers to MoveNYC Congestion Toll Brings In $216 Million i",
+      "published_utc": "2025-06-01T05:05:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93bc7259e35fdcd0ef741791297717d9cd0c58f8a5bca47544f4eff62810dd84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134921286,
+      "datetime": 1748725520
+    }
+  ]
+}

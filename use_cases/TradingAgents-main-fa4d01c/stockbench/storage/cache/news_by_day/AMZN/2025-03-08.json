@@ -1,0 +1,237 @@
+{
+  "items": [
+    {
+      "id": "950aa3164c7cd8d8cee13f55b7667589c145483a929e15df66a7319d3e8a74d7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Engineering Manager Interview Prep Course 2025 - Interview Questions For FAANG+ Jobs Updated",
+      "author": "Globe Newswire",
+      "published_utc": "2025-03-08T16:44:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/08/3039365/0/en/Engineering-Manager-Interview-Prep-Course-2025-Interview-Questions-For-FAANG-Jobs-Updated.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2025/03/08/3039365/0/en/Engineering-Manager-Interview-Prep-Course-2025-Interview-Questions-For-FAANG-Jobs-Updated.html",
+      "description": "Interview Kickstart, a leader in technical interview preparation, has launched a new course designed to help engineering managers excel in the interview process for top tech companies. The course focuses on both technical and leadership skills, providing candidates with targeted training, strategic guidance, and practical resources to succeed in interviews with companies like Google, Amazon, and Meta.",
+      "keywords": [
+        "Interview Kickstart",
+        "engineering manager",
+        "interview preparation",
+        "technical interview",
+        "leadership skills",
+        "Google",
+        "Amazon",
+        "Meta"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the engineering manager interview course prepares candidates to excel in interviews with top tech companies like Google, indicating that Google is seen as a desirable employer."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the engineering manager interview course prepares candidates to excel in interviews with top tech companies like Google, indicating that Google is seen as a desirable employer."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the engineering manager interview course prepares candidates to excel in interviews with top tech companies like Amazon, indicating that Amazon is seen as a desirable employer."
+        }
+      ]
+    },
+    {
+      "title": "8 Stocks And 1 ETF I'm Buying As Trade Wars Roil The Market",
+      "description": "Free trade boosts economies, Read here for more on the impact of tariffs, and potential investment opportunities amid bearish sentiment and trade war risks.",
+      "published_utc": "2025-03-08T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7a47297f30cc4a5863775c04d1908b510b601b21d13ab0f7bee923789be8cd9e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200734574/image_2200734574.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133106405,
+      "datetime": 1741421100
+    },
+    {
+      "id": "52fe4cee0af364e14d2cc704fd1984f2fa35eed06c68cbd7c6a8aa5ce0f137fb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Top Stocks to Buy for March",
+      "author": "Mark Roussin, Cpa",
+      "published_utc": "2025-03-08T14:54:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/5-top-stocks-to-buy-for-march/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "MRK",
+        "NVDA",
+        "PYPL",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810304/gettyimages-2151041235.jpg",
+      "description": "The article discusses the current market conditions, with February being a historically weak month for stocks. However, the author believes that some stocks have sold off too much, and there are opportunities to buy them in March. The author specifically mentions Amazon as a favorite stock at current valuations.",
+      "keywords": [
+        "stocks",
+        "market conditions",
+        "investing",
+        "Amazon"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author mentions Amazon as a favorite stock at current valuations, indicating that the stock has sold off too much and presents an opportunity to buy."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Merck, so the sentiment is neutral."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Nvidia, so the sentiment is neutral."
+        },
+        {
+          "ticker": "PYPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about PayPal, so the sentiment is neutral."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Salesforce, so the sentiment is neutral."
+        }
+      ]
+    },
+    {
+      "id": "9a87bfdb2f9026e435e05faac0d600509af6f057f35cfeec5031f7a5c326a6ae",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Despite Soaring Revenue, IonQ Shares Tumbled. Is This an Opportunity to Buy the Stock on the Dip?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-08T14:49:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/despite-soaring-revenue-ionq-shares-tumbled-is-thi/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809706/gettyimages-1648617109.jpg",
+      "description": "IonQ, a quantum computing company, saw its stock price drop despite a surge in revenue. The article discusses the company's recent financial results and outlook, and suggests that the stock may be too speculative for most investors at this stage.",
+      "keywords": [
+        "IonQ",
+        "quantum computing",
+        "revenue",
+        "stock price"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on IonQ, acknowledging the company's strong revenue growth but also its significant losses and cash burn. The author suggests that the stock is too speculative for most investors at this stage, given the early nature of quantum computing and the uncertainty around its commercial viability."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on IonQ, acknowledging the company's strong revenue growth but also its significant losses and cash burn. The author suggests that the stock is too speculative for most investors at this stage, given the early nature of quantum computing and the uncertainty around its commercial viability."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's (Google's parent company) breakthrough with its quantum computing chip, Willow, which is seen as a significant achievement in the industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's (Google's parent company) breakthrough with its quantum computing chip, Willow, which is seen as a significant achievement in the industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that IonQ offers access to its quantum computing solutions through Amazon's AWS Braket, indicating a business relationship between the two companies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that IonQ offers access to its quantum computing solutions through Microsoft's Azure Quantum, indicating a business relationship between the two companies."
+        }
+      ]
+    },
+    {
+      "id": "20d08045c8f519167278a80cf8b491cba3c13d78006a214f4c812aaf84c0e62c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons Tech Investors Shouldn't Worry Too Much About Tumbling Artificial Intelligence (AI) Stocks This Week",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-08T09:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/3-reasons-tech-investors-shouldnt-worry-too-much-a/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "PLTR",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810191/gettyimages-data-center.jpg",
+      "description": "Despite recent declines in AI stocks, the article argues that investors should not worry too much as the long-term outlook for AI remains positive, with continued investment and growth opportunities in the sector.",
+      "keywords": [
+        "AI",
+        "tech stocks",
+        "investment",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Nvidia, the world's leading AI chip designer, has seen its stock surge 1,600% over the past five years, indicating strong growth and performance in the AI sector."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Palantir Technologies, an AI-driven software player, has advanced more than 800% since its 2020 market debut, further highlighting the growth potential in the AI industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that companies like Amazon have already delivered billions of dollars in revenue from the AI boom, indicating the significant opportunities in the sector."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Amazon, the article mentions that Alphabet has also benefited from the AI boom, further supporting the positive outlook for the industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Amazon, the article mentions that Alphabet has also benefited from the AI boom, further supporting the positive outlook for the industry."
+        }
+      ]
+    }
+  ]
+}

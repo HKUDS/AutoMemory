@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is Home Depot or Costco the Better Stock to Buy Right Now With $1,000?",
+      "description": "Macro headwinds are causing problems for Home Depot, but there are long-term industry tailwinds at play that should propel the business.  Costco continues to report same-store sales growth, highlighting how valuable shoppers find its ability to sell high-quality goods at extremely low prices.  It's likely that most consumers, at least in the U.S., have shopped at both a Home Depot (NYSE: HD) and a Costco (NASDAQ: COST) location at least once in their lives.",
+      "published_utc": "2025-05-24T22:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97a0b160baa2d6d225fbb891be27eb6b1dee5b82c75ad9cf03684848a88dcc37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694311,
+      "datetime": 1748097000
+    },
+    {
+      "title": "Retailers Are Giving Mixed Messages on Prices. What Will s Really Happen at Checkout.",
+      "description": "Walmart and Home Depot present starkly different outlooks on how new tariffs will affect prices, leaving consumers confused.",
+      "published_utc": "2025-05-24T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=545851a12a8f661e2beaa1ebd1618a1ded3b3936a225d325dcf6fb9f6d512d60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134685701,
+      "datetime": 1748070000
+    },
+    {
+      "title": "Retailers Are Giving Mixed Messages on Prices. What Will Really Happen at Checkout.",
+      "description": "Retailers Are Giving Mixed Messages on Prices. What Will Really Happen at Checkout.",
+      "published_utc": "2025-05-24T11:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9440a9476eac5d2d97bb493f8bb34967a2323620ea4a5b2bfad7766990412dde",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134711184,
+      "datetime": 1748055600
+    }
+  ]
+}

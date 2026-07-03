@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "4 Top Dividend Stocks to Buy in January",
+      "description": "Grow your dividend snowball with some of the financial sector's most prominent companies.",
+      "published_utc": "2025-01-02T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3b677a00f3509b82bbfadf89b088e5d79e81caca9fbe24a3cb874f3c19f5bde",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802311/january-new-year.jpg",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132241643,
+      "datetime": 1735825500
+    },
+    {
+      "title": "The Gross Law Firm Announces the Filing of a Securities Class Action on Behalf of Visa Inc.(V) Shareholders",
+      "description": "NEW YORK, Jan. 2, 2025 /PRNewswire/ -- The Gross Law Firm issues the following notice to shareholders of Visa Inc. . ...",
+      "published_utc": "2025-01-02T19:41:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d954f9c5c5c0f1cf1ecf42d6696b8bfab5472a6792649192a4e0ece945cf3c86",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132239871,
+      "datetime": 1735818068
+    },
+    {
+      "title": "Visa's Recent Surge Hasn't Changed My Mind",
+      "description": "Visa is a solid company with strong operational performance; its aggressive share buyback program has proven value accretive. See why I'm keeping V rated a hold.",
+      "published_utc": "2025-01-02T19:03:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2af18f0a3499b1f827203c09111372eb8aee21ab2b573bae2351ca2b69b8db04",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319488921/image_1319488921.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132239682,
+      "datetime": 1735815809
+    },
+    {
+      "title": "Pomerantz Law Firm Reminds Shareholders with Losses on their Investment in Visa Inc. of Class Action Lawsuit and Upcoming Deadlines - V",
+      "description": "NEW YORK, Jan. 2, 2025 /PRNewswire/ -- Pomerantz LLP announces that a class action lawsuit has been filed against Visa Inc.  . Such investors are advised to contact Danielle Peyton at...",
+      "published_utc": "2025-01-02T18:01:36",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6b84cb7be6a947e3f8cb8d77bcafeddfefb96e4f6689f7631819ca8e490a256f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132238955,
+      "datetime": 1735812096
+    }
+  ]
+}

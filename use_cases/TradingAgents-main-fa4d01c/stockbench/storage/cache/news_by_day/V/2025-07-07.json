@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Winslow U.S. Large Cap Growth SMA Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-07T07:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b56a2ac3750c6850613101de2d1f65168906891f526709be9e0dd8e46d0ec74",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135778663,
+      "datetime": 1751844300
+    }
+  ]
+}

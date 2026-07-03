@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Italy's Poste ready to raise Telecom Italia stake above 10%, sources say",
+      "description": "State-backed Poste Italiane is ready to increase its recently acquired stake in Telecom Italia , three sources said, in a move that would strengthen its position in any potential M&A deal involving...",
+      "published_utc": "2025-02-18T20:37:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2299f718a96de3b3f0533ef6f5e47a2fd243adddaf662e906a3e9985adc14dba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132778027,
+      "datetime": 1739882227
+    },
+    {
+      "title": "JPMorgan Offers Details on CEO Jamie Dimon’s Next Stock Sales",
+      "description": "JPMorgan Offers Details on CEO Jamie Dimon’s Next Stock Sales",
+      "published_utc": "2025-02-18T17:41:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d0c7dce6abf4be74fd8d1dcadc1f41c87ee5789191122a63756eca03f45db21c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767879,
+      "datetime": 1739871660
+    },
+    {
+      "title": "S&P 500: Palantir Is One Of This Year's Magnificent Seven Stocks",
+      "description": "S&P 500: Palantir Is One Of This Year's Magnificent Seven Stocks",
+      "published_utc": "2025-02-18T16:00:55",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4aa54a2adc63d2e112abc0516f669b48a8c3bdc965d11a4fd0c7cc10d30ac763",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767859,
+      "datetime": 1739865655
+    },
+    {
+      "title": "Janus Henderson Growth And Income Managed Account Q4 2024 Commentary",
+      "description": "The Portfolio returned 0.65% (gross) and the S&P 500Â® Index returned 2.41%. Read more here.",
+      "published_utc": "2025-02-18T13:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e9b5489f73454b9e892e63730b4ff1e690373ad65785abf520d5ac625d48baa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1774553067/image_1774553067.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132766526,
+      "datetime": 1739855700
+    }
+  ]
+}

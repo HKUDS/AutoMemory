@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "An important key to Buffett's strategy is to keep it simple and invest in sure things.  There's no need to go on about the success that Berkshire Hathway has seen under the stewardship of Warren Buffett and his team.  Greg Abel, his successor, and the rest of the Berkshire team have learned from the best of the best, and I think their picks hold sway.",
+      "published_utc": "2025-06-28T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=546445ad44dc51bf1c23761bb942f120e599ba51613fe0b5d6542c9a69156b57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623523,
+      "datetime": 1751120100
+    },
+    {
+      "title": "3 Reasons to Buy FAS and 3 Reasons Not to",
+      "description": "It's a high-risk, high-potential-reward exchange-traded fund for bold investors.",
+      "published_utc": "2025-06-28T21:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a61dd66e8d5d59c4d7f58ba8881adf992f2b4192952b4ee890abdec84a5c6bed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610871,
+      "datetime": 1751116920
+    },
+    {
+      "id": "4afcf15e8c1a0cc70771780918b666e6706d99fcd25739463397ce02aba063c0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Which Cryptocurrency Is More Likely to Be a Millionaire Maker? XRP vs. Shiba Inu",
+      "author": "Alex Carchidi",
+      "published_utc": "2025-06-28T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/28/which-cryptocurrency-is-more-likely-to-be-a-millio/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "XRPI"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/822904/shiba-inu-dog-doge-dogecoin.jpeg",
+      "description": "The article compares XRP and Shiba Inu as potential investment options, highlighting XRP's stronger institutional development and more realistic growth potential compared to Shiba Inu's speculative nature.",
+      "keywords": [
+        "cryptocurrency",
+        "XRP",
+        "Shiba Inu",
+        "ETF",
+        "investment",
+        "meme coin"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Used as a market cap comparison point in the article"
+        },
+        {
+          "ticker": "XRPI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Has institutional backing, developing banking infrastructure, potential ETF approval, and more realistic long-term growth prospects"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:09.320980+00:00",
+    "cache_key": "news_9a663ade64cb8092fa225b449deb2f08",
+    "count": 3
+  }
+}

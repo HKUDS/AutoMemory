@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is Visa Inc. (V) Best Stock to Buy for the Next 3 Months?",
+      "description": "We recently published a list of 10 Best Stocks to Buy for the Next 3 Months. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best stocks to buy for the next 3 months. The year 2025 began with the surprise announcement of DeepSeek AI, launched […]",
+      "published_utc": "2025-03-30T20:55:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f255f2b86679393a4712e87a395f5f0cb39358eba7417a56c7c4981bf53fbe29",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622628,
+      "datetime": 1743339325
+    },
+    {
+      "title": "Earn A Potentially 12%-15% Income: Monthly Options Series (April 2025)",
+      "description": "",
+      "published_utc": "2025-03-30T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5396dc50bae2cf88fb2cad0e40ff1bb7979c1a7a66573670cb244f4dcfa85011",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133610520,
+      "datetime": 1743321600
+    }
+  ]
+}

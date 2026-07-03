@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "id": "6e18e1bb16b8c91d8a265dc4e8b56ffed2cdb9933a0f182b63a84221ff98990c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Johnson & Johnson Stock a Buy?",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-02-02T17:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/is-johnson-johnson-stock-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "ISRG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805201/nurse-holding-patients-hands.jpg",
+      "description": "Johnson & Johnson is a healthcare giant with a diverse portfolio of pharmaceutical products and medical devices. While it has faced legal and regulatory headwinds, the company's financial results remain solid, and it has growth opportunities in areas like robotic-assisted surgery. The stock may be a good choice for long-term, income-seeking investors, despite some challenges.",
+      "keywords": [
+        "Johnson & Johnson",
+        "healthcare",
+        "pharmaceutical",
+        "medical devices",
+        "legal issues",
+        "regulatory changes",
+        "dividend",
+        "income investing"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Johnson & Johnson's strengths, including its diverse portfolio, steady financial performance, and growth opportunities in areas like robotic-assisted surgery. While it faces some headwinds, the company is expected to navigate these challenges and remain a reliable investment option, especially for income-seeking investors."
+        },
+        {
+          "ticker": "ISRG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Intuitive Surgical as the dominant player in the robotic-assisted surgery market, which Johnson & Johnson is trying to enter with its Ottava system. The article does not provide a clear sentiment on Intuitive Surgical, as it focuses more on Johnson & Johnson's potential in this market."
+        }
+      ]
+    },
+    {
+      "title": "ORIC Pharmaceuticals: Too Early To Commit, Despite Some Good Early Data",
+      "description": "ORIC's ORIC-533 was promising but failed in trials, leaving ORIC-114 and ORIC-944 as key pipeline assets. Read why I am neutral on ORIC stock.",
+      "published_utc": "2025-02-02T13:05:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8adc832885d57ebc67b473c3828e685bd6413a80d2eedee4116d146c10d33b7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132514154,
+      "datetime": 1738472729
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "description": "U.S. stocks end a tough week as DeepSeek rattles tech stocks and the Fed Holds interest rates steady. Read more about this week's major events on Wall Street.",
+      "published_utc": "2025-02-01T14:38:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4c5af02929f10b7ead3e6e81da69934cd05a6efeb931ba87d28f5c1e6bafd2a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1483074556/image_1483074556.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132509831,
+      "datetime": 1738391928
+    },
+    {
+      "id": "1fe9bf294c8e0eaee389d9424796a3f0c749aa7101d3e736632bf55c7b2f0fa8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Johnson & Johnson Announces a Major Acquisition. Can It Turn the Stock's Fortunes Around?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-01T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/johnson-johnson-announces-a-major-acquisition-can/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "ITCI",
+        "XLV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805120/doctor-meeting-a-salesperson.jpg",
+      "description": "Johnson & Johnson announced plans to acquire Intra-Cellular Therapies for $14.6 billion, which could bolster its pipeline and strengthen its neurological business. However, the acquisition is unlikely to turn Johnson & Johnson into a high-growth stock, as its growth rate is expected to remain in the single digits.",
+      "keywords": [
+        "Johnson & Johnson",
+        "Intra-Cellular Therapies",
+        "acquisition",
+        "growth",
+        "neurological business"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the acquisition of Intra-Cellular Therapies could help diversify Johnson & Johnson's business and contribute to its long-term growth, but it is unlikely to turn the company into a high-growth stock. The article also notes that Johnson & Johnson's talc lawsuits are still unresolved, which creates some risk and uncertainty surrounding the business."
+        },
+        {
+          "ticker": "ITCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Intra-Cellular Therapies has a key product, Caplyta, which is an approved treatment for schizophrenia and depression and could generate over $5 billion in peak sales. The acquisition of Intra-Cellular Therapies is seen as a good way for Johnson & Johnson to bolster its pipeline and strengthen its neurological business."
+        },
+        {
+          "ticker": "XLV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Johnson & Johnson's forward P/E ratio to the average forward P/E of the Health Care Select Sector SPDR Fund, which is higher, suggesting that Johnson & Johnson may be a relatively cheaper investment option."
+        }
+      ]
+    },
+    {
+      "id": "7c5236bd57cebc010a52ad7905be0cd3c61c33c63977ee4662a9f431f2b7bf47",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Did Johnson & Johnson Just Give Investors 23 Billion Reasons to Buy Its Stock?",
+      "author": "Eric Volkman",
+      "published_utc": "2025-02-01T11:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/did-johnson-johnson-just-give-investors-23-billion/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "KVUE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805493/child-receiving-a-vaccination-shot-from-a-healthcare-professional.jpg",
+      "description": "Johnson & Johnson reported strong Q4 2024 earnings, with top-line growth and a double beat on analyst estimates. The company's outlook for 2025 is also positive, with guidance for improved profitability and continued dividend growth. The article suggests that Johnson & Johnson's stock is a buy due to its growth potential and reliable income stream.",
+      "keywords": [
+        "Johnson & Johnson",
+        "earnings",
+        "outlook",
+        "dividend",
+        "stock recommendation"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Johnson & Johnson's strong Q4 2024 earnings, with top-line growth, a double beat on analyst estimates, and a positive outlook for 2025 with improved profitability and continued dividend growth. The article suggests the stock is a buy due to its growth potential and reliable income stream."
+        },
+        {
+          "ticker": "KVUE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Johnson & Johnson hived off its consumer healthcare products business as the separately managed and traded Kenvue in mid-2023, but does not provide any further details or sentiment on Kenvue."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:03:37.837138+00:00",
+    "cache_key": "news_ac68a5eb47f53457ddad1ffa4ec577c3",
+    "count": 5
+  }
+}

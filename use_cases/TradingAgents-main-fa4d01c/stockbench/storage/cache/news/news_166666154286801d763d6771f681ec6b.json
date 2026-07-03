@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "description": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-09T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c4007c498b61e016a28ee34c536ace611dbe63d3edf971876ef494e6b581ad88",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135859004,
+      "datetime": 1751992320
+    },
+    {
+      "title": "CapStorm Launches CapStorm:AI: Self-Hosted AI for Salesforce and SQL Analytics",
+      "description": "CapStorm, a leader in secure Salesforce data management solutions, today announced the launch of CapStorm:AI, an AI-powered solution that lets users \"talk to their data\" using plain English. Designed for organizations seeking secure, self-hosted insights across their Salesforce and SQL environments, CapStorm:AI enables business users to ask complex data questions and receive real-time dashboards, instantly, and without writing a single line of code.",
+      "published_utc": "2025-07-09T00:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=081af12a604877c566cebabcab2428a2c8034d9e536ff52fdc294349bb84eed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135824959,
+      "datetime": 1751992200
+    },
+    {
+      "title": "Finance Cloud Market Trend Analysis and Forecast Report 2025-2034, Competitive Analysis of Key Players - Salesforce, IBM, Dell, Oracle, Capgemini, Acumatica, Infosys, Amazon, Microsoft, and Google",
+      "description": "The Global Finance Cloud Market is anticipated to expand from USD 32.8 billion in 2024 to USD 240.4 billion by 2034, driven by the digital transformation in banking, insurance, and investment sectors. The shift to finance cloud solutions enhances operational efficiency, compliance, and customer experience. Innovations in AI, automation, and analytics are revolutionizing financial processes. Major players like Salesforce, IBM, and Google focus on security, compliance, and partnerships to boost ma",
+      "published_utc": "2025-07-08T22:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92c0ff54f1b2db1caee17d54c18fd7f1b5b1fbf0193600d751b899516c17c2df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805487,
+      "datetime": 1751983560
+    },
+    {
+      "title": "Here is What to Know Beyond Why Salesforce Inc. (CRM) is a Trending Stock",
+      "description": "Salesforce.com (CRM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-07-08T21:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f8027673a14070e76cc930c234bbb5167179ca14026aa19dbc477a4c4e67166",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805910,
+      "datetime": 1751979604
+    },
+    {
+      "title": "Iterable Appoints Salesforce Executive Sam Allen as New CEO to Accelerate Enterprise Growth and AI Innovation",
+      "description": "SAN FRANCISCO, July 08, 2025--Iterable announces the appointment of Sam Allen as Chief Executive Officer, with founder Andrew Boni transitioning to Chief Scientist.",
+      "published_utc": "2025-07-08T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=beb869a5509ecdce152f6a85ab80768e41e82aeb9ab90008a0a670887e996829",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805911,
+      "datetime": 1751979600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:31.650810+00:00",
+    "cache_key": "news_166666154286801d763d6771f681ec6b",
+    "count": 5
+  }
+}

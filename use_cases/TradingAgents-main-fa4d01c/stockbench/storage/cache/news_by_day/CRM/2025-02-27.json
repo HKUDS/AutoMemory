@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM) Q4 2025 Earnings Call Transcript",
+      "description": "Salesforce, Inc. (NYSE:CRM) Q4 2025 Earnings Conference Call February 26, 2025 5:00 PM ETCompany ParticipantsMichael Spencer - Executive Vice President of...",
+      "published_utc": "2025-02-27T04:29:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8a4b9187f72d8286b316adb2c006ab28197965834c3b3444889af26ff77fafc8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132891682,
+      "datetime": 1740601786
+    },
+    {
+      "title": "Dow Jones Futures: Nvidia Stock Rises On Strong Earnings, 'Amazing' Blackwell Demand",
+      "description": "Dow Jones Futures: Nvidia Stock Rises On Strong Earnings, 'Amazing' Blackwell Demand",
+      "published_utc": "2025-02-27T01:36:07",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=f06d259590e4abe66d9488b0914ba3fe554f1255e6e41127899f947dfbf8fb06",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881156,
+      "datetime": 1740591367
+    },
+    {
+      "title": "Salesforce Stock Falls. Earnings Were Overshadowed by Negative Guidance.",
+      "description": "Salesforce Stock Falls. Earnings Were Overshadowed by Negative Guidance.",
+      "published_utc": "2025-02-27T01:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a6c2ba5bbe8fa69060657bb9f67fa1b3eb8210a0833f979e7d95164f6ccb1bbe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881215,
+      "datetime": 1740590940
+    },
+    {
+      "title": "Salesforce Shares Fall After Revenue Outlook Misses",
+      "description": "Salesforce Shares Fall After Revenue Outlook Misses",
+      "published_utc": "2025-02-27T01:24:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c52f0fe303412630a60a0c1e75aeb0e35c18e84ec20d74a46e10a39b07675846",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882107,
+      "datetime": 1740590640
+    },
+    {
+      "title": "Salesforce, Inc. 2024 Q4 - Results - Earnings Call Presentation",
+      "description": "The following slide deck was published by Salesforce, Inc.",
+      "published_utc": "2025-02-27T01:11:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=790c6ae466226ae5f320aa5f7263bb8a6518be7f759633431edcc102bae95bc0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132880921,
+      "datetime": 1740589893
+    }
+  ]
+}

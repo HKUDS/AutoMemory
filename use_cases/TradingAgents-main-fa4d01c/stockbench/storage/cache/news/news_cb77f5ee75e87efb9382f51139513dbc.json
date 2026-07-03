@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth, NVIDIA Corp. share losses lead Dow's nearly 1175-point drop",
+      "description": "UnitedHealth, NVIDIA Corp. share losses lead Dow's nearly 1175-point drop",
+      "published_utc": "2025-04-21T23:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=67896fe0fe07434a9cdb790e3cad54f4fb7957dbc78e74dae05495bbf2f97f6f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134053023,
+      "datetime": 1745248800
+    },
+    {
+      "title": "Sherwin-Williams: Is This Best-In-Class Company Worth The Premium Right Now?",
+      "description": "The Sherwin-Williams Company excels in profitability and dividends but is overvalued. Read more on my earnings preview and a look at SHW stock valuation.",
+      "published_utc": "2025-04-21T23:11:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ec6d83f1e827cf96028ca3c6f13520ebc4f018a7e4372cd6cf371c56bf308b34",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1934822820/image_1934822820.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025595,
+      "datetime": 1745248268
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:22.388853+00:00",
+    "cache_key": "news_cb77f5ee75e87efb9382f51139513dbc",
+    "count": 2
+  }
+}

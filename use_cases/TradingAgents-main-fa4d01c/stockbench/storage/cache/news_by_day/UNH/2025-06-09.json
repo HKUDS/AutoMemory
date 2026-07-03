@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Better Buy: Palantir Stock vs. UnitedHealth Group Stock",
+      "description": "Two of the most covered stocks this year are Palantir and UnitedHealth Group, but the reasons why couldn't be further apart.",
+      "published_utc": "2025-06-09T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73d6b6f1397f4243b60763aad4ebfefb361e8978fbae8a5448ccfd879743664c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135118486,
+      "datetime": 1749398400
+    }
+  ]
+}

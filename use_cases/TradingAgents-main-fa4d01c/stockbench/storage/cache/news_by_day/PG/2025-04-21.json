@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is The Procter & Gamble Company (PG) the Best American Dividend Stock to Buy According to Analysts?",
+      "description": "We recently published a list of the 13 Best American Dividend Stocks to Buy According to Analysts. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other best American dividend stocks. Dividend-paying stocks have long benefited investors by delivering consistent and solid returns. During periods […]",
+      "published_utc": "2025-04-21T22:23:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84ffcf5a92e4acbf67fe67b60ee4a4ef5d4a472ff856b78e601eee9d3bd8cd74",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022760,
+      "datetime": 1745245393
+    },
+    {
+      "title": "Jim Cramer Says The Procter & Gamble Company (PG) May Blow Numbers Away",
+      "description": "We recently published a list of Jim Cramer’s Game Plan for Next Week: 25 Stocks in Focus. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, the host of Mad Money, walked viewers through […]",
+      "published_utc": "2025-04-21T22:12:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84a87bdd8d0bb13b2bb810b240adbdf9ea57d9723940b62ffbc61e0abbb8a79a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022761,
+      "datetime": 1745244742
+    },
+    {
+      "title": "Only one Dow stock is up premarket. Even UnitedHealth's stock isn't bouncing.",
+      "description": "Only one Dow stock is up premarket. Even UnitedHealth's stock isn't bouncing.",
+      "published_utc": "2025-04-21T15:58:05",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2d23a6c48e33658fb94e7ed7bc822802b8ec71ccb08eaf376a6bd2b77c3bd1b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052257,
+      "datetime": 1745222285
+    }
+  ]
+}

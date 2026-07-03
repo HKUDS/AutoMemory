@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Looming Recession? Here's What BDC Investors Should Look For",
+      "description": "Smaller BDCs like CION face risks from weak financials, while larger peers remain more attractive. See why ARCC and BXSL stand out.",
+      "published_utc": "2025-05-10T15:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6a9a3d3697420f34e69341711bed445dfc4c990f5dc20ecdf55ca3dfdfcbf21",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1129173988/image_1129173988.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134364940,
+      "datetime": 1746860700
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) Best Stock to Buy for the Next 3 Months?",
+      "description": "We recently published a list of 10 Best Stocks to Buy for the Next 3 Months. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other best stocks to buy for the next 3 months. The year 2025 began with the surprise announcement of DeepSeek AI, launched […]",
+      "published_utc": "2025-03-31T22:15:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69d2e0e566c2267baa8c2a406c528287c6405fd68b855c9aae6707b210b42c41",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627806,
+      "datetime": 1743430517
+    },
+    {
+      "title": "NVIDIA Corp., Amazon.com Inc. share losses lead Dow's 400-point fall",
+      "description": "NVIDIA Corp., Amazon.com Inc. share losses lead Dow's 400-point fall",
+      "published_utc": "2025-03-31T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21ea3627c78b647882491c82cf3da4ec9ae9e45d5f418b4f803114b74d9a71f0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133635341,
+      "datetime": 1743414300
+    },
+    {
+      "title": "John Hancock U.S. Growth Fund Q4 2024 Commentary",
+      "description": "For Q4 2024, the John Hancock U.S. Growth Fund underperformed the benchmark Russell 1000 Growth Index. Click here to read the full commentary.",
+      "published_utc": "2025-03-31T12:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc200f8c1a9602b78c94fb644680e14dd05970f20a5f2aab6b5d98a5210183bb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2152594082/image_2152594082.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133624187,
+      "datetime": 1743396300
+    }
+  ]
+}

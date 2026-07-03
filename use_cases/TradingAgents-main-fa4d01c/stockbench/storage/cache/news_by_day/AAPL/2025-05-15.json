@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Japan moves to ban Google, Apple from blocking app store competitors",
+      "description": "Japan's antitrust watchdog Thursday unveiled draft guidelines for the law governing smartphone software services of U.S. tech giants Google LLC and Apple Inc., aiming to promote competition from...",
+      "published_utc": "2025-05-15T07:58:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5820aec7ec0823a98e253fd14af488da3cc306416f0a0d4ce69f735d22512ae8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134457983,
+      "datetime": 1747267085
+    },
+    {
+      "title": "Samsung Blindsides Apple With Razor-Thin Galaxy S25 Edge: Here's How Much It Will Cost",
+      "description": "On Monday, Samsung Electronics Co. (OTC:SSNLF) launched the Galaxy S25 Edge, a 5.8 mm-thin, 163-gram smartphone, just four months after unveiling the rest of the S25 series. What Happened: The ultra-slim device features a 6.7-inch display, a dual-camera system, and the company's latest AI-powered features. The Galaxy S25 Edge packs a powerful 200MP main camera, offering ultra-high resolution for detailed photos in any lighting condition. A secondary 12MP ultra-wide lens with autofocus enables cr",
+      "published_utc": "2025-05-15T07:31:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2414e06724e1584988b0e67908e5bf0583d10dd79d314c37caa870298a0875c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460548,
+      "datetime": 1747265492
+    },
+    {
+      "title": "Take on Apple and Google to boost UK economy, think tank says",
+      "description": "The Institute for Public Policy Research has said tackling big tech monopolies could help boost the UK economy.",
+      "published_utc": "2025-05-15T07:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03efd7a94f66a65a9263757bed7f374e38255de98264d3e75c9f4ef62baa308f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460549,
+      "datetime": 1747263660
+    },
+    {
+      "title": "Don’t Expect a Big Payout From Apple’s $95 Million Settlement",
+      "description": "Americans with a Siri-enabled  Apple  device can file a claim for part of a $95 million legal settlement that the phone maker has agreed to pay.  The settlement stems from a 2021 lawsuit, Lopez v. Apple, filed in federal court in San Jose, Calif., claiming that Apple recorded users without their knowledge when they inadvertently activated the Siri virtual assistant on their devices.  Without admitting fault, Apple agreed to settle the case earlier this year.",
+      "published_utc": "2025-05-15T06:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d976946e8f49f477027d9e4177c02b87b7fc6927c243a88f079fe95e38096ae5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460550,
+      "datetime": 1747260240
+    },
+    {
+      "title": "Apple (AAPL) Unveils Brain-Interface Initiative as iPhone Sales Lag",
+      "description": "But Wall Street still wants a stronger iPhone rebound",
+      "published_utc": "2025-05-15T05:16:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33176cf09e8717b92bdd86262ec8cf17c1222250b37bff8072ece0fdb2159f20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460551,
+      "datetime": 1747257393
+    }
+  ]
+}

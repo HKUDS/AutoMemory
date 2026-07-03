@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Now The Time To Look At Buying The Sherwin-Williams Company (NYSE:SHW)?",
+      "description": "Let's talk about the popular The Sherwin-Williams Company ( NYSE:SHW ). The company's shares received a lot of...",
+      "published_utc": "2025-04-09T19:00:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=354bc3c2a3d6bea600d968d9ee77080c056cdc30123b2555403df1a85dd0e42f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828584,
+      "datetime": 1744196423
+    }
+  ]
+}

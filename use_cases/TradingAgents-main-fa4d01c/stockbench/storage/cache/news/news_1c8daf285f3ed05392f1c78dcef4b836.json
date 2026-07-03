@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "United jet suffered navigation parts failure before jolts injured passengers",
+      "description": "Investigators foundthat two key navigation parts failed on a United Airlinesflight from Lagos to Washington on January 24, causingthe plane to lurch suddenly and injure several passengers. ...",
+      "published_utc": "2025-03-19T01:54:49",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4b8e75c085a56eadd8ae72f635cdadbc5222df976445977f71ce0d8f01c4ff86",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133235699,
+      "datetime": 1742320489
+    },
+    {
+      "title": "United jet suffered navigation parts failure before injury incident",
+      "description": "A United AirlinesBoeing 787 jetliner on a January 24 flight boundfor Washington from Lagos suffered a failure of two key partsfor navigation before a sudden unexpected aircraft movement ledto...",
+      "published_utc": "2025-03-18T22:07:29",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=38c8d3005fca119306475cdcd2235f36fa9af60f28e8b10233758059ceecfbbe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133233052,
+      "datetime": 1742306849
+    },
+    {
+      "title": "Howmet favors long-term deals as parts demand grows after US factory fire",
+      "description": "Howmet Aerospace's CEO said on Tuesday the company is prioritizing long-term deals as it sees fresh demand from customers after a major fire at a Philadelphia-area parts factory hit supply, roiling...",
+      "published_utc": "2025-03-18T20:26:51",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=168ccfe3f4e79df5994fe9e6cbcfc440880c24b674f32ac0adc56f47c58953ea",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133228695,
+      "datetime": 1742300811
+    },
+    {
+      "title": "Howmet CEO In Process Of Providing Responses To Customers In Terms Of Quotation Requests After Sps Plant Fire",
+      "description": "Howmet Aerospace Inc: * HOWMET CEO: IN PROCESS OF PROVIDING RESPONSES TO CUSTOMERSINTERMS OF QUOTATION REQUESTS AFTER SPS PLANT FIRE * HOWMET CEO: COMPANY HAS...",
+      "published_utc": "2025-03-18T19:38:57",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=69f0cd1f0fbb357d827e150fb9c019016e592a7c426869ec21a6317197c26261",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133225279,
+      "datetime": 1742297937
+    },
+    {
+      "title": "Boeing Left Two Astronauts in Space. They’re Coming Home Courtesy of SpaceX.",
+      "description": "Boeing Left Two Astronauts in Space. They’re Coming Home Courtesy of SpaceX.",
+      "published_utc": "2025-03-18T19:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7883493a3b67e87bf2d02bd175d3ea35e4f0c106c2d5cb0a3d6332ccf0130a91",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133234406,
+      "datetime": 1742296860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:33.481858+00:00",
+    "cache_key": "news_1c8daf285f3ed05392f1c78dcef4b836",
+    "count": 5
+  }
+}

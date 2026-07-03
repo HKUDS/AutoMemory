@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Snack Wrap unwrapped: Here's why McDonald's is bringing back a fan favorite on July 10",
+      "description": "If McDonald’s ever doubted it needed to bring back the Snack Wrap, consider this: Nine years after the fast-food powerhouse discontinued the item in the U.S., customers have continued to order it at drive-thrus.  On Tuesday, McDonald's announced that a new version of the Snack Wrap will go on sale July 10.  McDonald's invented the Snack Wrap — a tortilla full of chicken, lettuce, shredded cheese and sauce — almost two decades ago to make it easier to eat its chicken on the go.",
+      "published_utc": "2025-06-03T07:33:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30a2e95286680d3463a22abf6d5acc0f15bfe7bb8bbfc9c75d290e20a9ccab2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134977235,
+      "datetime": 1748907211
+    },
+    {
+      "title": "Subway-owner Roark Capital buys Dave's Hot Chicken for $1 billion with rapid expansion plans underway",
+      "description": "Restaurant chain Dave's Hot Chicken is now owned by the same private equity firm that is behind Subway and Dunkin'.",
+      "published_utc": "2025-06-02T23:45:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a639384393fe6e8b5fa3cabb2feba23634ea4524d2cfe9e2e20894508d3b693a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134944928,
+      "datetime": 1748879142
+    },
+    {
+      "title": "Airbnb Would Be A Check-In, Save For Economic Concerns And Regulatory Headwinds",
+      "description": "Airbnb's strong balance sheet, diversification, and long-term rental focus make it attractive.",
+      "published_utc": "2025-06-02T21:44:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4fda756e698609fa98e2dad9445083ccdc9da8d827459874aab45533051fbd5e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/517702502/image_517702502.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134952419,
+      "datetime": 1748871840
+    },
+    {
+      "title": "McDonald's Defensive Positioning And Future Drivers",
+      "description": "Discover why McDonald's stands out as a defensive play amid market headwinds. Learn about its growth drivers and why now might be a good time to invest.",
+      "published_utc": "2025-06-02T20:43:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=caa4494f5a07adfc9a43077bf80ac5743016b1db5a9fe55c9a8eca7d4e3c980c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195489700/image_2195489700.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134948961,
+      "datetime": 1748868201
+    },
+    {
+      "title": "McDonald’s removes Chicken Bacon Caesar Wrap from menu",
+      "description": "The wrap, which featured chicken breast strips, onions, Caesar-style sauce, bacon and lettuce, was initially introduced in 2023.",
+      "published_utc": "2025-06-02T17:46:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a816de5ac1bd8a493fe0d7d02c9b6e1ed418d12dde996042acb7883fb536f1f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134937137,
+      "datetime": 1748857598
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:03.513543+00:00",
+    "cache_key": "news_55cc374d605e77b9f472ab1bd9cd123f",
+    "count": 5
+  }
+}

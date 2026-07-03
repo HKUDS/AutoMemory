@@ -1,0 +1,2 @@
+Continue the previous task. In the last session, we located the django ForeignKey descriptor data-loss bug.
+Use the previous analysis to complete the fix and generate the patch.

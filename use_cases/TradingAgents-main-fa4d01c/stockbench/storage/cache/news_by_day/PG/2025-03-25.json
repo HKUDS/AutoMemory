@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Zacks Industry Outlook The Procter & Gamble, Colgate-Palmolive, Kimberly-Clark and The Clorox",
+      "description": "The Procter & Gamble, Colgate-Palmolive, Kimberly-Clark and The Clorox have been highlighted in this Industry Outlook article.",
+      "published_utc": "2025-03-25T14:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55036fc109880c073e120acf5cdee71e40ceb341ce14d2f542db7f436c4e781c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133367587,
+      "datetime": 1742884140
+    }
+  ]
+}

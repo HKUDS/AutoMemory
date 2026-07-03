@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Amazon (AMZN) is a Strong Momentum Stock",
+      "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+      "published_utc": "2025-05-26T21:50:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1592621169ac11ed68921b2df4e19dd68415e6b78f8b8a62e94f540a4dee3326",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715647,
+      "datetime": 1748267408
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Tokenization Up 33%, Click to Pay Doubled: Is Mastercard a Buy Now?",
+      "description": "MA's tokenized transactions surged over one-third in Europe, boosting its footprint in the payments ecosystem, but rising costs and regulatory risks cloud its high valuation.",
+      "published_utc": "2025-06-04T21:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f12a5f53f631c0f11604d15bade9e70bb0ee20416fd51afdb6b5f7bbc19f7db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010469,
+      "datetime": 1749043380
+    },
+    {
+      "title": "Visa and Klarna Launch Innovative Card With Hybrid Features",
+      "description": "V teams up with Klarna to launch a hybrid debit card that offers Pay Now, Pay in 4 and Pay Later options.",
+      "published_utc": "2025-06-04T20:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d47390479686035e666f39b1ff0a21ab4b7832b80774d99007c2972df89c787a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010367,
+      "datetime": 1749039840
+    },
+    {
+      "title": "Update: Market Chatter: EU Regulators Push for More Transparency in Visa, Mastercard Fees",
+      "description": "(Updates with Mastercard's response in the fifth paragraph) European Union antitrust authorities",
+      "published_utc": "2025-06-04T19:35:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4cf8894cf454cf5a0e8fcf8652913205e8919a90c85f2c0dca2cb0c3dde3814e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010470,
+      "datetime": 1749036917
+    },
+    {
+      "title": "Market Chatter: EU Regulators Push for More Transparency in Visa, Mastercard Fees",
+      "description": "European Union antitrust authorities are intensifying their probe into Visa (V) and Mastercard (MA),",
+      "published_utc": "2025-06-04T18:35:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29a5c1ecb4a0e80c6c346d46b7bff216af76a6b599c912676c414b05c0ae2d60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010471,
+      "datetime": 1749033359
+    }
+  ]
+}

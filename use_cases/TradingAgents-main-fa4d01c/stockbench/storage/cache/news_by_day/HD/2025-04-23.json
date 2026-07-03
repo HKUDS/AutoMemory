@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Walmart, Home Depot, Target tackle a major customer concern",
+      "description": "All three retailers just took a major step in addressing a growing problem.",
+      "published_utc": "2025-04-23T22:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=747695e22d120b697fbe7ed2e0f6e42ff691b09f79e8f10f5c678ff4bdfb7179",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046295,
+      "datetime": 1745417820
+    },
+    {
+      "title": "2 Oversold Industrial Powerhouses Long-Term Dividend Investors Should Consider",
+      "description": "",
+      "published_utc": "2025-04-23T15:03:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f68239818a3a0988064f3a90f4ea346671a02ef4bb4103ee32abebe4699b9204",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134043082,
+      "datetime": 1745391780
+    },
+    {
+      "title": "Fitch Affirms The Home Depot's IDR at 'A'; Outlook Stable",
+      "description": "Fitch Ratings has affirmed the ratings for The Home Depot, Inc., including its Long-Term Issuer Default Rating at 'A' and Short-Term IDR at 'F1'.The Rating Outlook is Stable.Home Depot's ratings...",
+      "published_utc": "2025-04-23T13:25:21",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1fbe9a06b88473e5a311a4a6d8c7ac54e29699c6817918f1009924c7474ad2c1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134042380,
+      "datetime": 1745385921
+    }
+  ]
+}

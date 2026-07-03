@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "description": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-04-15T00:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=90f8b4b79b9054baa62396aaf5c3b074b4e3c4cd863307ca1b34472fb92b041e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133916535,
+      "datetime": 1744648800
+    }
+  ]
+}

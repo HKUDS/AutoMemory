@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "IBM : Proxy Statement 2025 (1227c12d3a38b175)",
+      "description": "Let's Create 2025 Notice of Annual Meeting and Proxy Statement ...",
+      "published_utc": "2025-03-11T02:01:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=351b0926ff2c7bdf503610242dae947015ac7e16735524c0f866a8bfe37d9638",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133128051,
+      "datetime": 1741629671
+    },
+    {
+      "title": "IBM : 2024 IBM Annual Report",
+      "description": "Let's Create 2024 Annual Report Arvind Krishna Chairman,...",
+      "published_utc": "2025-03-11T02:01:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c7959d29b8d3f83d052c35d043c45fbdae930f0f33edb63bf9b9d45aba4c245f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133128052,
+      "datetime": 1741629670
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Powers AI Innovation For Mitsubishi's New Outlander 2025",
+      "description": "Mitsubishi Motor Sales of Canada recently launched \"The Intelligent Companion,\" an AI-powered tool developed in collaboration with IBM's Watsonx, designed to enhance customer engagement with the Mitsubishi Outlander 2025. This innovation spotlights IBM's strength in integrating AI solutions with client businesses, and could have supported a positive sentiment towards International Business Machines (NYSE:IBM), reflected in the 12.87% share price increase over the last quarter. Despite overall...",
+      "published_utc": "2025-03-11T01:14:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c2dcb94b2d69d83c0f88b3941cd03d9af82bfbbada73361a93d7f2918afa655",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184738,
+      "datetime": 1741626878
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors despite losses on the day",
+      "description": "International Business Machines Corp. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-03-11T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a188ee9e6e97acd41fb11acf1c937f0682468736d8925a3a3f58e59b8ee9b1ce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133133519,
+      "datetime": 1741624320
+    },
+    {
+      "title": "Tech industry alliance rallies around data quality",
+      "description": "Microsoft, IBM and Cisco are among the vendors backing the OASIS Data Provenance Standards Technical Committee announced last week.",
+      "published_utc": "2025-03-11T00:27:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad9654484fb31157c4d47bab674c3f30c70d84e136dd9c951820eac36fa11a7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184739,
+      "datetime": 1741624052
+    }
+  ]
+}

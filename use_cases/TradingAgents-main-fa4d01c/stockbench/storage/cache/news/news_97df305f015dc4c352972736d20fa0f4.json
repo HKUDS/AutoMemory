@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) Stock Moves -0.07%: What You Should Know",
+      "description": "UnitedHealth Group (UNH) closed at $524.70 in the latest trading session, marking a -0.07% move from the prior day.",
+      "published_utc": "2025-04-08T05:50:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8feafc75af4156854daad50918c8db23a7ac49e5109301ae4e1e86e7ff94bd38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823296,
+      "datetime": 1744062614
+    },
+    {
+      "title": "Healthcare stocks rally, US govt. to pay more to Medicare plans",
+      "description": "UnitedHealth (UNH), Humana (HUM), and CVS Health (CVS) rally in extended-hours trading on news that the US government will pay more than previously proposed to Medicare Advantage providers. Julie Hyman breaks down the details on Market Domination Overtime. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-08T05:42:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e98f52164024eb0ba31d319a7c93e5f238eaf88e831d4991478e599d48cd663f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823298,
+      "datetime": 1744062174
+    },
+    {
+      "title": "Medicare Advantage’s diagnosing tactics made insurers like UnitedHealthGroup $33 billion richer",
+      "description": "Medicare Advantage plans are paid more for sicker members and less for healthier members, which provides an incentive for MA plans to report as many diagnoses as legitimately possible.",
+      "published_utc": "2025-04-08T05:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1300130a8d722f1bebbff5245c4e7b9b0471e2a4515132dae0f0880c5d5e71c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823300,
+      "datetime": 1744059900
+    },
+    {
+      "title": "UnitedHealth, Humana and other health-insurance stocks are surging after this ‘big win’",
+      "description": "UnitedHealth, Humana and other health-insurance stocks are surging after this ‘big win’",
+      "published_utc": "2025-04-08T04:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cfb27904ad126ebe2017b599fdc2f253f467bc3bdee47eee58bc5edb802a09b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133772095,
+      "datetime": 1744056840
+    },
+    {
+      "title": "Health Insurer Stocks Jump After Medicare Boosts Payment Rates",
+      "description": "Health Insurer Stocks Jump After Medicare Boosts Payment Rates",
+      "published_utc": "2025-04-08T02:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e7bc066574f6bf2e70c037cd9e46c9cd61c0688f252c5d15c41e17a57aceb098",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133772096,
+      "datetime": 1744049880
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:12.499798+00:00",
+    "cache_key": "news_97df305f015dc4c352972736d20fa0f4",
+    "count": 5
+  }
+}

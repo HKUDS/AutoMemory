@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is UnitedHealth Group Incorporated (UNH) the Best Quality Stock to Invest in Now?",
+      "description": "We recently published a list of 12 Best Quality Stocks to Invest in Now. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best quality stocks to invest in now. Tom Lee, co-founder of Fundstrat Global Advisors, believes that a significant rebound is in the […]",
+      "published_utc": "2025-03-15T10:19:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf265ccf0a43501a086a8ea9ea1fa0c032e3a3533bf1ba9116eb95603057103d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184332,
+      "datetime": 1742005190
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 16",
+      "description": "Read here for weekly updates on Dividend Champions, Contenders and Challengers, including changes, upcoming ex-dividend dates, and payment schedules.",
+      "published_utc": "2025-03-15T10:05:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dec607d00c8b43cd2766a1bce45d9ff948ea5289788244692b4b73b524c67c16",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133176844,
+      "datetime": 1742004325
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:40.548676+00:00",
+    "cache_key": "news_66b38bec1f449bc11d77fa6b23346aad",
+    "count": 2
+  }
+}

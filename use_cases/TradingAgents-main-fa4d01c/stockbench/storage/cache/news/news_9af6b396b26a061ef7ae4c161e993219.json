@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dividend Kings Of The Future",
+      "description": "Discover 9 companies poised for Dividend King status! Explore diverse sectors, growth rates, yields & insights on challenges like high payout ratios.",
+      "published_utc": "2025-03-18T21:33:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0977db40141f135bcfd633c200f3ae826141a44e63739cc0d68ef07176f13dbf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332724561/image_1332724561.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133231314,
+      "datetime": 1742304820
+    },
+    {
+      "title": "McDonald’s upgraded to Buy from Hold at Erste Group on Friday",
+      "description": "As previously reported, Erste Group analyst Stephan Lingnau upgraded McDonald’s (MCD) to Buy from Hold. McDonalds has “a very high and stable operating margin that is well above that of its competitors,” said the analyst, who expects the company’s performance to remain stable over the next few quarters and the stock price to “continue to rise.” Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See today’s best-performing stocks on Tip",
+      "published_utc": "2025-03-18T21:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37dc917f64c8f6eb6637e0a232231eaccefbf344ad46611cdfade5428eda1766",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324815,
+      "datetime": 1742303820
+    },
+    {
+      "title": "McDonald's: The Market Isn't Likely Pricing In Rising Headwinds Correctly",
+      "description": "McDonald's faces challenges like slowing growth, high consumer debt, and overvaluation. Read why economic trends could impact MCD stock's performance.",
+      "published_utc": "2025-03-18T11:53:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1d534bb323d3feb46aeaedf564b1cd180b725710a41de489e94f35f5490d1de7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1724694011/image_1724694011.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212499,
+      "datetime": 1742270025
+    },
+    {
+      "title": "McDonald's: Value Menu, Digital Focus To Sustain Competitive Advantage, Upgrade To Buy",
+      "description": "McDonald's stock could be a safe haven in 2025 with steady growth, a strong value menu, and digital focus amid economic uncertainty. Read more on MCD here.",
+      "published_utc": "2025-03-18T10:42:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c417ee72fdbe0904e7d53e59c2d6875233e37650935a3338bf9dec449ad6fde",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392558319/image_1392558319.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212013,
+      "datetime": 1742265779
+    },
+    {
+      "title": "McDonald's brings a foreign fan-favorite to U.S. consumers",
+      "description": "The fast food giant is bringing a popular menu item into the U.S. due to popular demand.",
+      "published_utc": "2025-03-18T08:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=150c89d511844527eec30206918fdbce1750b59f5a6d98e3ef1f6128e8eb427c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324816,
+      "datetime": 1742257980
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:20.717814+00:00",
+    "cache_key": "news_9af6b396b26a061ef7ae4c161e993219",
+    "count": 5
+  }
+}

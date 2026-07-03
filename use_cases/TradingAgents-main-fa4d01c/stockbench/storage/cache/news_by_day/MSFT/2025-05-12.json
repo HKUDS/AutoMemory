@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Perplexity AI Looks to Raise $500 Million, Increasing the Pressure on Google Search",
+      "description": "Perplexity AI Looks to Raise $500 Million, Increasing the Pressure on Google Search",
+      "published_utc": "2025-05-12T23:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ff2ab103831114a735242aa4578e9f14e3d94b53b451e6425bc51449afa05ca0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134401383,
+      "datetime": 1747062300
+    },
+    {
+      "title": "Top AI And Robotics News You May Have Missed In April",
+      "description": "AI and Robotics sectors saw significant developments in April 2025, impacting companies across industries. Taking a look at some of these, for investors tracking the space via ROBO and THNQ.",
+      "published_utc": "2025-05-12T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8eabe308cd012d85fa788ad430581325711abe1f476e7eef09576b98f51d5c80",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210278635/image_2210278635.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134390787,
+      "datetime": 1747061100
+    },
+    {
+      "title": "US-China tariff agreement may add fuel to 'Magnificent 7' stock rally",
+      "description": "The \"Magnificent Seven\" trade looks to be on again, for now.",
+      "published_utc": "2025-05-12T21:08:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da15636dd09cd7d43a79ee1a393e9cfbba535bdb5b7f75b6da2fbb21755ae086",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379041,
+      "datetime": 1747055336
+    }
+  ]
+}

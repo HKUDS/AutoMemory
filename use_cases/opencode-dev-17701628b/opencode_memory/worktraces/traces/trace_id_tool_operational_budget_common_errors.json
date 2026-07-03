@@ -1,0 +1,67 @@
+{
+  "trace_id": "trace_id_tool_operational_budget_common_errors",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: a compact tool lesson budget should preserve repeated common error signatures even when the latest error sample is long.",
+  "turns": [
+    { "role": "tool", "content": "shell failed: EADDRINUSE port 5173 already bound by stale vite server", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 240, "error": "EADDRINUSE port 5173 already bound by stale vite server" } } },
+    { "role": "tool", "content": "shell failed: EADDRINUSE port 5173 already bound by stale vite server", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 260, "error": "EADDRINUSE port 5173 already bound by stale vite server" } } },
+    { "role": "tool", "content": "shell failed: EADDRINUSE port 5173 already bound by stale vite server", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 255, "error": "EADDRINUSE port 5173 already bound by stale vite server" } } },
+    { "role": "tool", "content": "shell failed: EADDRINUSE port 5173 already bound by stale vite server", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 245, "error": "EADDRINUSE port 5173 already bound by stale vite server" } } },
+    { "role": "tool", "content": "shell failed with a long unrelated TypeScript diagnostic after the repeated port error", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 900, "error": "TypeScript diagnostic while running dev server: src/generated/client.ts reports incompatible generic constraints after a stale build artifact, with nested stack frames through package loader, vite transform cache, route manifest refresh, workspace resolver, and project graph hydration before aborting." } } },
+    { "role": "tool", "content": "shell succeeded after killing stale vite process", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": true, "durationMs": 120 } } },
+    { "role": "tool", "content": "read_file succeeded on package.json", "used_for_evaluation": false, "metadata": { "tool_outcome": { "tool": "read_file", "ok": true, "durationMs": 20 } } },
+    { "role": "agent", "content": "Noise about unrelated package metadata.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false },
+    { "role": "user", "content": "Also check whether docs mention the dev server port.", "used_for_evaluation": false },
+    { "role": "agent", "content": "The documentation check is unrelated to tool metrics.", "used_for_evaluation": false },
+    { "role": "tool", "content": "rg found several unrelated dev server examples.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Ignored stale examples from archived docs.", "used_for_evaluation": false },
+    { "role": "tool", "content": "read_file inspected a docs page without errors.", "used_for_evaluation": false },
+    { "role": "user", "content": "Leave the metrics unchanged and continue.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Continuing without adding another shell outcome.", "used_for_evaluation": false },
+    { "role": "tool", "content": "formatter dry run produced no changes.", "used_for_evaluation": false },
+    { "role": "agent", "content": "No formatting changes were needed.", "used_for_evaluation": false },
+    { "role": "system", "content": "second retention flush marker", "used_for_evaluation": false },
+    { "role": "agent", "content": "End of tool budget trace.", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What are the compact shell counters?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 260 },
+      "expected_information": [
+        { "value": "calls=6", "matcher": "substring" },
+        { "value": "ok=1", "matcher": "substring" },
+        { "value": "err=5", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which repeated shell failure should remain visible under the compact budget?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 260 },
+      "expected_information": [
+        { "value": "EADDRINUSE port 5173 already bound by stale vite server", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Should shell still warn because most calls failed?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 260 },
+      "expected_information": [
+        { "value": "failed often", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does shell-only filtering exclude read_file lessons?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 260 },
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*read_file)[\\s\\S]*shell[\\s\\S]*$", "matcher": "regex" }
+      ]
+    },
+    {
+      "query": "Does the later diagnostic remain represented without hiding counters?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 260 },
+      "expected_information": [
+        { "value": "TypeScript diagnostic", "matcher": "substring" }
+      ]
+    }
+  ]
+}

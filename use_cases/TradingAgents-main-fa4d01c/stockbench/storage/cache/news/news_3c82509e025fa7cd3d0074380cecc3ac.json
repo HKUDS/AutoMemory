@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "J&J sues Samsung Bioepis over ‘surreptitious’ breach of Stelara biosimilar contract",
+      "description": "Samsung Bioepis has allegedly sub-licensed its Stelara biosimilar rights to a health conglomerate, breaching a previous settlement.",
+      "published_utc": "2025-02-26T07:42:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10ed8923d37fce488cb0faa329b20d8bd88acbe9afc466657528b6b67babc328",
+      "category": "company",
+      "image": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2025/02/shutterstock_2055997766.jpg",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902102,
+      "datetime": 1740526952
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Ascends While Market Falls: Some Facts to Note",
+      "description": "In the closing of the recent trading day, Johnson & Johnson (JNJ) stood at $166.09, denoting a +1.44% change from the preceding trading day.",
+      "published_utc": "2025-02-26T06:45:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f83e663933ff7d03d3933d2e3b6908e95d4fa21178297b823b4eb2226557eb3",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902103,
+      "datetime": 1740523531
+    },
+    {
+      "title": "Healthcare Stocks Should Be Hurting. How the Sector Became This Year’s Top Performer.",
+      "description": "Healthcare Stocks Should Be Hurting. How the Sector Became This Year’s Top Performer.",
+      "published_utc": "2025-02-26T00:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8833f98acfa862636e1dce43c993c99937aee464d76cc2b2afdacba07a93c573",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881966,
+      "datetime": 1740500160
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Ranked 4th Best S&P 500 Dividend Aristocrat According to Hedge Funds",
+      "description": "We recently published a list of S&P 500 Dividend Aristocrats List: Sorted By Hedge Fund Sentiment. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other S&P 500 dividend aristocrats sorted by hedge fund sentiment. Dividend Aristocrats are companies that have consistently increased their dividend payments […]",
+      "published_utc": "2025-02-25T22:43:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c534c0835c136112dc2b59598a3522e576b92a60d389c1584884859a4ec0dc4",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DBFyZ0OZ_JyFkP8R8eQoiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9ccf3c88c7274582ef19e20143427c2",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902104,
+      "datetime": 1740494627
+    },
+    {
+      "title": "J&J’s potential neurovascular exit: implications for market dynamics",
+      "description": "The neurovascular market, estimated at $4.2bn in 2024 by GlobalData, is becoming increasingly specialised and competitive.",
+      "published_utc": "2025-02-25T19:38:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a2b3db73f08d02fb1f17a999c21bb091a5230c03a844a6ddac2e6218a1fe0ea",
+      "category": "company",
+      "image": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2025/02/shutterstock_2008564148.jpg",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902105,
+      "datetime": 1740483536
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:56.019624+00:00",
+    "cache_key": "news_3c82509e025fa7cd3d0074380cecc3ac",
+    "count": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Mike Maples Sr., the Adult in the Room During Microsoft’s Early Days, Dies at 82",
+      "description": "Mike Maples Sr., the Adult in the Room During Microsoft’s Early Days, Dies at 82",
+      "published_utc": "2025-02-05T18:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=0a7369e4c801034615b6abfbd2ff348bff7a7a3d67fbd35937d326de5a6e0dc3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564002,
+      "datetime": 1738749600
+    },
+    {
+      "title": "IBM Study: Gen AI Will Elevate Financial Performance of Banks in 2025",
+      "description": "Initiatives are maturing from pilots and proofs of concept to targeted, enterprise-wide strategiesARMONK, N.Y., Feb. 5, 2025 /PRNewswire/ -- IBM today released its annual expectations for technology...",
+      "published_utc": "2025-02-05T13:01:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6d1011a474fa9077f8f389f45817e962ec7e047f43bb439191f7bea92d132022",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132560098,
+      "datetime": 1738731670
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-05T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=03ab37c5b662221b8dca52ac8f8cd95048c67ab035e6a64eb8d71ee9134fa762",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132565285,
+      "datetime": 1738686720
+    }
+  ]
+}

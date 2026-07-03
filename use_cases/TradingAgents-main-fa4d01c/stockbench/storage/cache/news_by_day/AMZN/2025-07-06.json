@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Secret Super Stocks: If You Invested $1K in These 3 Companies 5 Years Ago, See What You’d Have Today",
+      "description": "Most people think you need to be rich to make big money in the stock market. But what if all it took was spotting the right stock at the right time and investing just $1,000? While you might try to...",
+      "published_utc": "2025-07-06T07:01:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48c666a841ee4581286d82248b34a2ab41bda1b23b87537cf94f3ea6279952a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768332,
+      "datetime": 1751756479
+    },
+    {
+      "title": "As Amazon Doubles Down on Robotaxis, Is AMZN Stock a Buy?",
+      "description": "Amazon has continued to invest in the most disruptive and lucrative technologies.",
+      "published_utc": "2025-07-06T00:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ee8b5258ac2e3d085798b13a77d6a9fd311f68d0de662eb4461a894508e812",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135767924,
+      "datetime": 1751731202
+    }
+  ]
+}

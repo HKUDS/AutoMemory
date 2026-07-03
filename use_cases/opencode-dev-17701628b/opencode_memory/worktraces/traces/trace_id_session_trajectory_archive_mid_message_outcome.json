@@ -1,0 +1,188 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_mid_message_outcome",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: production trajectory archive should preserve an important final outcome that appears in the middle of an oversized final assistant message, not only prefix and suffix.",
+  "checks": [
+    {
+      "description": "Middle final outcome phrase should contribute to the card.",
+      "write_input": {
+        "session": {
+          "id": "archive-mid-message-outcome",
+          "projectID": "proj-memory",
+          "title": "Checkout migration finalization",
+          "time": {
+            "created": 1777274100000,
+            "updated": 1777274500000
+          }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "type": "text",
+                "text": "Please finish checkout migration and archive the final validation result."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              {
+                "type": "text",
+                "text": "Started by checking migration inputs and old checkout totals."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              {
+                "type": "text",
+                "text": "neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes Final validation result: checkout migration midpoint verified with pnpm test packages/checkout and docs/checkout/migration-finish.md updated. neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes neutral planning context about rollout checks audit windows queue replay deployment notes"
+              }
+            ]
+          }
+        ]
+      },
+      "read_input": {
+        "limit": 10
+      },
+      "expected_output": {
+        "value": "checkout migration midpoint verified with pnpm test packages/checkout",
+        "matcher": "substring"
+      }
+    },
+    {
+      "description": "Middle documentation path should remain visible.",
+      "write_input": {
+        "sessionID": "archive-mid-fixture",
+        "title": "Archive mid fixture",
+        "goal": "Keep an unrelated card present.",
+        "outcome": "Unrelated fixture outcome.",
+        "files": [
+          "README.md"
+        ],
+        "commands": [
+          "echo fixture"
+        ],
+        "concepts": [
+          "fixture"
+        ],
+        "l0": "Archive mid fixture.",
+        "l1": "Unrelated fixture outcome.",
+        "time": {
+          "start": 1777274600000,
+          "end": 1777274700000
+        }
+      },
+      "read_input": {
+        "limit": 10
+      },
+      "expected_output": {
+        "value": "docs/checkout/migration-finish.md",
+        "matcher": "substring"
+      }
+    },
+    {
+      "description": "Ignored synthetic middle text must not be archived.",
+      "write_input": {
+        "session": {
+          "id": "archive-mid-ignored",
+          "projectID": "proj-memory",
+          "title": "Ignored mid synthetic",
+          "time": {
+            "created": 1777274800000,
+            "updated": 1777274900000
+          }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              {
+                "type": "text",
+                "text": "Visible archived text for mid-message ignored control."
+              },
+              {
+                "type": "text",
+                "text": "MID_MESSAGE_SYNTHETIC_SHOULD_NOT_ARCHIVE",
+                "synthetic": true
+              }
+            ]
+          }
+        ]
+      },
+      "read_input": {
+        "limit": 10
+      },
+      "expected_output": {
+        "value": "^(?![\\s\\S]*MID_MESSAGE_SYNTHETIC_SHOULD_NOT_ARCHIVE)[\\s\\S]*Visible archived text[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "Same-session replacement should keep only the updated fixture card.",
+      "write_input": {
+        "sessionID": "archive-mid-fixture",
+        "title": "Archive mid fixture updated",
+        "goal": "Updated card replaces old fixture.",
+        "outcome": "Updated fixture outcome with MID_MESSAGE_REPLACED_MARKER.",
+        "files": [
+          "docs/replaced.md"
+        ],
+        "commands": [
+          "echo replaced"
+        ],
+        "concepts": [
+          "replaced"
+        ],
+        "l0": "Archive mid fixture updated.",
+        "l1": "Updated fixture outcome with MID_MESSAGE_REPLACED_MARKER.",
+        "time": {
+          "start": 1777274600000,
+          "end": 1777274800000
+        }
+      },
+      "read_input": {
+        "limit": 10
+      },
+      "expected_output": {
+        "value": "^(?![\\s\\S]*Unrelated fixture outcome)[\\s\\S]*MID_MESSAGE_REPLACED_MARKER[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "The original archived session title should still be searchable.",
+      "write_input": {
+        "sessionID": "archive-mid-title-control",
+        "title": "Checkout migration title control",
+        "goal": "Control card.",
+        "outcome": "Title control outcome.",
+        "files": [
+          "docs/control.md"
+        ],
+        "commands": [
+          "echo control"
+        ],
+        "concepts": [
+          "control"
+        ],
+        "l0": "Checkout migration title control.",
+        "l1": "Title control outcome.",
+        "time": {
+          "start": 1777275000000,
+          "end": 1777275100000
+        }
+      },
+      "read_input": {
+        "limit": 10
+      },
+      "expected_output": {
+        "value": "Checkout migration finalization",
+        "matcher": "substring"
+      }
+    }
+  ]
+}

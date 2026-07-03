@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visa: Stop Swiping For Now",
+      "description": "",
+      "published_utc": "2025-05-20T20:44:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41f35a571cbfe272255c552a490c7ed1c0a9a5a99dc9c1b89c6b54206b5007a8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134611421,
+      "datetime": 1747745073
+    },
+    {
+      "title": "Janus Henderson Global Research Fund Q1 2025 Commentary",
+      "description": "The Fund returned -1.49% and the MSCI World Index returned -1.79%.",
+      "published_utc": "2025-05-20T17:33:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51ac3412915715ffec0d9343fe811d79c4b7adbd26e693fb357112384995a3e6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197655235/image_2197655235.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608977,
+      "datetime": 1747733580
+    }
+  ]
+}

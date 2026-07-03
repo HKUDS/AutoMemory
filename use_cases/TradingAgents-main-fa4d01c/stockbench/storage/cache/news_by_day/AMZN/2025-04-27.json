@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com, Inc. (AMZN): The Best Safe Stock to Buy According to Hedge Funds",
+      "description": "We recently published a list of 11 Best Safe Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best safe stocks to buy according to hedge funds. In times when you never know what you’ll wake up to the […]",
+      "published_utc": "2025-04-27T05:05:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c9d8f7a00c11782c0f54b5b78fcd9a02b62947e64194a46e26782f994f5f834",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104373,
+      "datetime": 1745701524
+    },
+    {
+      "title": "A Reckoning for the Magnificent Seven Tests the Market",
+      "description": "A Reckoning for the Magnificent Seven Tests the Market",
+      "published_utc": "2025-04-27T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d78fd119338fb90f20a8064840587a7090ab5f158c24169586a43d92f7aeb806",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126459,
+      "datetime": 1745701200
+    },
+    {
+      "title": "Tech Executives Are Starting to Talk Tariffs. What It May Mean for Apple, Amazon Earnings.",
+      "description": "Amazon, Apple, Meta, and Microsoft will need to address tariffs on earnings calls next week. Tech executives are sounding alarms.",
+      "published_utc": "2025-04-27T02:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd8d3f2d0cf04892de7ff792fd33ae6e9f036367f41c219b2b34278f3e3f1e4e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104319,
+      "datetime": 1745691240
+    },
+    {
+      "title": "Now Streaming: Analysts boost Netflix targets after Q1 beat",
+      "description": "“Now Streaming” is The Fly’s weekly recap of the stories surrounding the biggest content streamers. PLAYING THIS WEEKEND: Among this weekend’s highly-anticipated new streaming content is the first few episodes of “Andor,” a drama series set in the “Star Wars” universe, on Disney+ (DIS). Meanwhile, Netflix (NFLX) subscribers can catch the fifth season of drama series “You,” as well as neo-noir action thriller film “Havoc,” starring Tom Hardy and Forest Whitaker. Additionally, Amazon Prime Video (",
+      "published_utc": "2025-04-27T00:46:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efb2330c02243ceb9838d30bcc87db25cbcded5de9497613f627e0e4402be96c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104321,
+      "datetime": 1745685961
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity",
+      "description": "OpenAI has included Alphabet's Google Cloud among its suppliers to meet escalating demands for computing capacity, according to an updated list published on the ChatGPT maker's website. ...",
+      "published_utc": "2025-07-17T03:10:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=116f83297a6c247b8e7484d238da0c4a00ad36a8a098b79faf4d23d9991f2d24",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971970,
+      "datetime": 1752693008
+    }
+  ]
+}

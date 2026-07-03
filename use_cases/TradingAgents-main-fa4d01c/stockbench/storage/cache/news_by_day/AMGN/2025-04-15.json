@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Rise Monday Afternoon",
+      "description": "Health care stocks were higher Monday afternoon, with the NYSE Health Care Index rising 0.4% and the",
+      "published_utc": "2025-04-15T02:08:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f2a1731967f9be71c3d8da809f7f4fbce655acc80558f7f511bf725bbbd245f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917817,
+      "datetime": 1744654081
+    }
+  ]
+}

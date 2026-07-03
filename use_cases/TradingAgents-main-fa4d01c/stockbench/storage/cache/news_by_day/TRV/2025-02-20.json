@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Travelers Companies' Scale And Analytical Advantages Make It Attractive, Analyst Says",
+      "description": "Keefe, Bruyette & Woods analyst Meyer Shields upgraded the rating on the shares of Travelers Companies Inc (NYSE:TRV) from Market Perform to Outperform and raised the price forecast from $275 to $286. The analyst’s GAAP reserve analysis for year-end 2024 suggests that TRV’s GAAP loss and ALAE reserves were overestimated by approximately $1.388 billion (compared to $324 million at YE23E). This primarily reflects excess reserves in workers’ compensation, personal lines, and fidelity and surety, wh",
+      "published_utc": "2025-02-20T04:33:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac06c0f8d74f92f0b8f0ebe21c66eb8ed8b5a4448dbb1b0a60f7b6652f843648",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133187253,
+      "datetime": 1739997190
+    },
+    {
+      "title": "Travelers Cos. Inc. stock outperforms competitors on strong trading day",
+      "description": "Travelers Cos. Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-20T00:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73e4b107c1d307b7395ddfc361472f6ab47b505a15890be707406b907c7f82dc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132809479,
+      "datetime": 1739983680
+    },
+    {
+      "title": "TRV Stock Lags Industry, Trades at a Premium: Will You Still Buy It?",
+      "description": "Travelers is set to gain from continued strong renewal rate change and retention and increase in new business.",
+      "published_utc": "2025-02-20T00:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f2fe00fdcf363eeb826f0e44ea0e5a751e0e1a8e19d0c65db1f9c2fa7dd8913",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133187254,
+      "datetime": 1739981160
+    }
+  ]
+}

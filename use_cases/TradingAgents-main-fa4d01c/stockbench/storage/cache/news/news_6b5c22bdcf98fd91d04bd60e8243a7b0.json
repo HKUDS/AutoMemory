@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "The Boeing Company (BA) “Has Been Breaking Out,” Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. The Boeing Company (NYSE:BA) is one of the stocks Jim Cramer recently discussed. The Boeing Company (NYSE:BA) has seen its shares turn the tables on the bearishness in 2025. While production woes and the resulting delivery problems led the shares […]",
+      "published_utc": "2025-07-13T02:34:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebdafa5f24232eb6eb6a5d32593a864223537f4ecdb745fe7918a11f257cba23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135910764,
+      "datetime": 1752345292
+    },
+    {
+      "title": "Fuel Switches Played a Role in the Boeing 787 Air India Crash. More Details Are Still to Come.",
+      "description": "Boeing investors finally have details from a preliminary accident report for Air India flight 171, which crashed on June 12 less than a minute after taking off from an airport in Ahmedabad, India.",
+      "published_utc": "2025-07-12T21:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c85ce09edd776723f5b5e0c839a72088c8c0efcb7a9fb77c0007ad84f0032a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135899529,
+      "datetime": 1752327060
+    },
+    {
+      "title": "Pomerantz Law Firm Investigates Claims On Behalf of Investors of The Boeing Company - BA",
+      "description": "NEW YORK, July 12, 2025 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of The Boeing Company . Such investors are advised to contact Danielle Peyton...",
+      "published_utc": "2025-07-12T18:01:38",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4f4205b380eba0a5cb417f802ee1d75d3ba74d36b4a73a08c15d88a9c3f094e0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135898231,
+      "datetime": 1752314498
+    },
+    {
+      "title": "Boeing settles with Canadian man whose family died in 737 MAX crash",
+      "description": "(Reuters) -Boeing reached a settlement with a Canadian man whose family died in the March 2019 crash of an Ethiopian Airlines Boeing 737 MAX, the man's lawyer said on Friday.  The terms of the settlement with Paul Njoroge of Toronto were not released.  The trial was scheduled to start on Monday in U.S. District Court in Chicago and would have been the first against the U.S. planemaker stemming from two fatal 737 MAX crashes in 2018 and 2019 that together killed 346 people.",
+      "published_utc": "2025-07-12T11:03:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39a6f076ac637bf7ff96e7d2b2add5335e82c479a8fee24fb77ba7a8ce033b1a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135910766,
+      "datetime": 1752289433
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:06:44.568536+00:00",
+    "cache_key": "news_6b5c22bdcf98fd91d04bd60e8243a7b0",
+    "count": 4
+  }
+}

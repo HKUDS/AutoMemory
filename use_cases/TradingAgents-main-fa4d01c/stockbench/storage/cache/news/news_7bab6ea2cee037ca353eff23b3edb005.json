@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (NYSE:SHW) Shares Could Be 24% Above Their Intrinsic Value Estimate",
+      "description": "Key Insights Using the 2 Stage Free Cash Flow to Equity, Sherwin-Williams fair value estimate is US$284...",
+      "published_utc": "2025-05-10T22:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7da40f0557142c0d674d53cbff161cd17ddc55c72dc8113e05f9818a8f486140",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379527,
+      "datetime": 1746885607
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 11",
+      "description": "See here for weekly updates on Dividend Champions, Contenders & Challengers. Find dividend changes, ex-dividend dates & payment schedules.",
+      "published_utc": "2025-05-10T08:51:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46f8a9e80aba7a68cf6be54f22b4b6d9a16dc7bd155bd6acc0229c183c1ca887",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134361860,
+      "datetime": 1746838302
+    },
+    {
+      "id": "83e7e93d2d4390a4ecb136dd33e86f21c5a27ad0676d9ee17b4045033e6bd5b3",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Paint Remover Market Size to Reach USD 2.99 Bn by 2032, says Coherent Market Insights",
+      "author": "Coherent Market Insights",
+      "published_utc": "2025-05-10T12:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/10/3078641/0/en/Paint-Remover-Market-Size-to-Reach-USD-2-99-Bn-by-2032-says-Coherent-Market-Insights.html",
+      "tickers": [
+        "AKZOY",
+        "SHW",
+        "MMM",
+        "PPG",
+        "DD",
+        "BASFY",
+        "HENKY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/450ec960-647a-4b12-8885-a4afd6739e88",
+      "description": "The global paint remover market is expected to grow from $1.97 billion in 2025 to $2.99 billion by 2032, driven by rising demand in industries like construction and automotive. However, health and environmental concerns related to paint removers are limiting market growth.",
+      "keywords": [
+        "paint remover",
+        "construction",
+        "automotive",
+        "VOCs",
+        "regulations"
+      ],
+      "insights": [
+        {
+          "ticker": "AKZOY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists AkzoNobel N.V. as one of the key companies in the paint remover market, but does not provide any additional details about the company."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions The Sherwin-Williams Company as a key player in the paint remover market, but does not offer any insights into the company's performance or prospects."
+        },
+        {
+          "ticker": "MMM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions 3M Company as a key player in the paint remover market, but does not offer any insights into the company's performance or outlook."
+        },
+        {
+          "ticker": "PPG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists PPG Industries, Inc. as one of the key companies in the paint remover market, but does not provide any additional details about the company."
+        },
+        {
+          "ticker": "DD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions DuPont as a key player in the paint remover market, but does not offer any insights into the company's performance or outlook."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions BASF SE as a key player in the paint remover market, but does not offer any insights into the company's performance or prospects."
+        },
+        {
+          "ticker": "HENKY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Henkel AG & Co. KGaA as one of the key companies in the paint remover market, but does not provide any additional information about the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:25.931985+00:00",
+    "cache_key": "news_7bab6ea2cee037ca353eff23b3edb005",
+    "count": 3
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dell Shifts Its Business Model And The Future Growth Looks More Promising",
+      "description": "Dell seems to be developing a new business model focusing on the infrastructure (ISG) segment, which is more profitable. Click here to read why DELL is a Buy.",
+      "published_utc": "2025-05-26T22:21:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=217e2b448999a00bb20d0beae2dba0338a2c492611df1fde87cb471e3555e836",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/996055166/image_996055166.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134701827,
+      "datetime": 1748269297
+    },
+    {
+      "title": "Stocks and euro jump on Trump EU tariff delays",
+      "description": "Global marketsclimbed on Monday and the euro rallied after U.S. PresidentDonald Trump kicked his threat to slap 50% tariffs on EuropeanUnion goods into July, marking another temporary trade...",
+      "published_utc": "2025-05-26T18:17:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3e96516c8a8f585d1529520d880029fce68488c65df6a35026a14242717ec07a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134700225,
+      "datetime": 1748254629
+    },
+    {
+      "title": "Gold falls nearly 1% after Trump extends tariff deadline on EU goods",
+      "description": "Gold prices fell nearly 1% on Mondayafter U.S. President Donald Trump dropped his threat to impose50% tariffs on goods from the European Union from June 1,reducing demand for the safe-haven asset....",
+      "published_utc": "2025-05-26T17:02:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a620c66bd34b2760b63daf6a4dc19cff298ff7e66ac2b12c0b21e694600ec3ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134699810,
+      "datetime": 1748250131
+    },
+    {
+      "title": "Gold falls after Trump extends tariff deadline on EU goods",
+      "description": "Gold prices fell on Monday after U.S.President Donald Trump reversed course on his threat to impose50% tariffs on goods from the European Union from June 1,reducing demand for the safe-haven...",
+      "published_utc": "2025-05-26T15:01:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c70f9e5f0d3f02d49b536437c7c21193e7a5e8e5d0513feba3bd247aede60b80",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134699150,
+      "datetime": 1748242863
+    }
+  ]
+}

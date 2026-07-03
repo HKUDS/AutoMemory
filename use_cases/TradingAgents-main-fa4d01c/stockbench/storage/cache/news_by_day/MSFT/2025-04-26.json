@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "2 Magnificent Artificial Intelligence (AI) Stocks to Consider Buying Before April 30",
+      "description": "Earnings season is right around the corner, and all eyes will be on big tech.",
+      "published_utc": "2025-04-26T23:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=157c9351caa3e46b5e625117cf8db250099f63b4409ffb60d4a6b57693cb9cd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104336,
+      "datetime": 1745679780
+    },
+    {
+      "title": "Is Microsoft Corporation (MSFT) the Best Safe Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 11 Best Safe Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best safe stocks to buy according to hedge funds. In times when you never know what you’ll wake up to the […]",
+      "published_utc": "2025-04-26T22:23:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e9130ca78b95a1b53f9e6c9b2154de4f63bd509d01c73cda86dcb674b3c84fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104337,
+      "datetime": 1745677434
+    },
+    {
+      "title": "Contrarian Opinion: Tariffs, Inflation, and Recession Fears Could Be a Tailwind for This Retail Stock and Propel It to a $1 Trillion Valuation",
+      "description": "President Trump's new tariffs could cause prices to rise for consumers and induce a period of slowing economic growth.",
+      "published_utc": "2025-04-26T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f1a92cd75bcdb4148874024e11b0db76693e5b49b84090a58cebf4a2b5818cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104338,
+      "datetime": 1745675100
+    }
+  ]
+}

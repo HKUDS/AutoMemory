@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "New to Investing? This 1 Finance Stock Could Be the Perfect Starting Point",
+      "description": "The Zacks Focus List offers investors a way to easily find top-rated stocks and build a winning investment portfolio. Here's why you should take advantage.",
+      "published_utc": "2024-12-31T22:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5730de926903d4e8056dad2ee289fd7d6d564ae5f264531a413f2efc99fca4c",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/a41b81fe729c761f3f94f42ff348f70c",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132217499,
+      "datetime": 1735655403
+    },
+    {
+      "title": "With EPS Growth And More, American Express (NYSE:AXP) Makes An Interesting Case",
+      "description": "The excitement of investing in a company that can reverse its fortunes is a big draw for some speculators, so even...",
+      "published_utc": "2024-12-31T20:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=838f62f979666dabf2e838b5a3627afde6eeaff873303910f11100c38b229ed9",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/bae12c47abd0e36a1e948d968d3cdde7",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132217500,
+      "datetime": 1735646412
+    },
+    {
+      "title": "These stocks gave the Dow the biggest boost in 2024",
+      "description": "These stocks gave the Dow the biggest boost in 2024",
+      "published_utc": "2024-12-31T17:57:04",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0e667a7ae46a2e156d6872d12e408f175baee342ef161a3a68e10a6a7c0e8df7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322123,
+      "datetime": 1735639024
+    }
+  ]
+}

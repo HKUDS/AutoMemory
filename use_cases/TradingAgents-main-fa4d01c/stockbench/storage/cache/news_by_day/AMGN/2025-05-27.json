@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Investors Heavily Search Amgen Inc. (AMGN): Here is What You Need to Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Amgen (AMGN). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-05-27T21:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=429ca33cc7d343f826e26f9ca7845fa37d76614f765b44c850caf9917ffd7d48",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716283,
+      "datetime": 1748350809
+    },
+    {
+      "title": "Nike, NVIDIA Corp. share gains lead Dow's 500-point rally",
+      "description": "Nike, NVIDIA Corp. share gains lead Dow's 500-point rally",
+      "published_utc": "2025-05-27T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2ce249df4213adb6c260b82bd158ba7f8cf676bae1bed0888b3844102cba34ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710414,
+      "datetime": 1748342760
+    },
+    {
+      "title": "NVIDIA Corp., Nike share gains contribute to Dow's 388-point climb",
+      "description": "NVIDIA Corp., Nike share gains contribute to Dow's 388-point climb",
+      "published_utc": "2025-05-27T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21ff9cf2b2675ff6332d2c7ee115dcadb126d26c1f5fbd2622560231c0b00991",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710370,
+      "datetime": 1748339100
+    }
+  ]
+}

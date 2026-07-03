@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Time CEO on embracing AI: It's better to have a seat at the table",
+      "description": "Time CEO Jessica Sibley makes the case for media publishers to embrace AI.",
+      "published_utc": "2025-06-17T03:42:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64fa4868fa95213e2a7b4ee2f3f5d5fb2d9d9b718c36afaa685f9a164d9eb866",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311810,
+      "datetime": 1750102927
+    },
+    {
+      "title": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "description": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-17T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=85ac4ee82bae16ddfbd43373cf3e91bdc1eb5bd09875c5ef121765c653faaf8d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135330257,
+      "datetime": 1750091520
+    }
+  ]
+}

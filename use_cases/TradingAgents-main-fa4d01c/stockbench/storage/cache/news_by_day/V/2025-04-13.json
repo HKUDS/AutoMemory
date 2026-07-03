@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "PFM: Dividend Growth ETF With High Fees And Average Result",
+      "description": "",
+      "published_utc": "2025-04-13T22:23:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3d8630b0a36d538c7de984815e01ea673951c2b0c1d5b3aa52588539d547dbf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901256,
+      "datetime": 1744554183
+    },
+    {
+      "title": "ClearBridge Appreciation ESG Strategy Q1 2025 Commentary",
+      "description": "Marketâs sector performance exhibited a defensive posture in Q1 with health care, consumer staples, utilities and real estate the top-performing industries, outside of energy.",
+      "published_utc": "2025-04-13T21:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1482822139534b3cf52f21a40eba7b71687da970c3c2ff83e4d40f14f065caa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178325066/image_2178325066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901044,
+      "datetime": 1744550100
+    },
+    {
+      "title": "2 Stocks That Could Thrive in a Tariff-Heavy Environment",
+      "description": "President Donald Trump's decision to impose sweeping tariffs on imports from nearly every country in the world has resulted in one of the worst quarters for the U.S. stock market in years.  In this now-shaky macro environment, those who wish to buy stock may want to start by looking for companies that might not be as affected by a trade war due to the nature of their businesses.  Netflix (NASDAQ: NFLX) and Visa (NYSE: V) are two great examples which fit that bill, but aren't just \"tariff plays.\"",
+      "published_utc": "2025-04-13T18:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a022f16cd9940e06969b52609aeb3439ef36a7d9a9ddd03e19cd0d735a006a11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908192,
+      "datetime": 1744541100
+    }
+  ]
+}

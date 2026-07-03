@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Global Dividend Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-15T07:58:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d526f87541281a884c932ed34b6dc5a0d7b026999f6c93abaf32c7dbd653434e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134458311,
+      "datetime": 1747267080
+    },
+    {
+      "title": "U.S.-China Tariff Cuts: Is the 2025 Stock Market Sell-Off Officially Over?",
+      "description": "The S&P 500 is less than 1% away from returning to positive territory for the year.  Emotion impacts short-term market action, but earnings growth drives the market long term.  The broader market indexes soared on Monday, May 12, in response to news that the U.S. and China would pause their reciprocal tariffs on most goods for 90 days -- a move that built on the momentum from the trade deal framework that the U.S. and U.K. revealed at the end of last week.",
+      "published_utc": "2025-05-15T06:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89bcd8be61549a54f8aff7d8c0cb701de4b957f5e40b32bd356ca24b3a847f1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460529,
+      "datetime": 1747261200
+    },
+    {
+      "title": "Mag 7 gains, fairly valued market, risk: Trading Takeaways",
+      "description": "AI chip stocks are pushing the tech rally higher, much to the benefit of the Nasdaq Composite index (^IXIC). Yahoo Finance markets reporter Josh Schafer lays out several of the session's key trading themes, including the serious upside Magnificent Seven stock — comprised of tech leaders Meta Platforms (META), Microsoft (MSFT), Alphabet (GOOGL, GOOG), Amazon (AMZN), Apple (AAPL), Nvidia (NVDA), Tesla (TSLA) — are seeing. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+      "published_utc": "2025-05-15T05:15:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95e22eda78dea78866b63b80a10a523e4eeb68337d7e593f694a22f4afd77328",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460530,
+      "datetime": 1747257343
+    },
+    {
+      "title": "Bytes Technology Group PLC (FRA:9NY) Full Year 2025 Earnings Call Highlights: Record Revenue ...",
+      "description": "Bytes Technology Group PLC (FRA:9NY) reports robust financial performance with significant growth in services and strategic partnerships, despite facing macroeconomic headwinds.",
+      "published_utc": "2025-05-15T05:01:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5024931b2ea7e961faead0b25cff6a4118b5605dac1a420bc8fde50b9f955e52",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460531,
+      "datetime": 1747256472
+    },
+    {
+      "title": "Sector Update: Tech Stocks Advance Late Afternoon",
+      "description": "Tech stocks were higher late Wednesday afternoon, with the Technology Select Sector SPDR Fund (XLK)",
+      "published_utc": "2025-05-15T03:55:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ece9e10fe45f225e89827b9f0260d7db5508836e9d3db236cd91705eff272793",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460532,
+      "datetime": 1747252511
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:30.389996+00:00",
+    "cache_key": "news_ef79381a1584760fc7c098bfa3822b42",
+    "count": 5
+  }
+}

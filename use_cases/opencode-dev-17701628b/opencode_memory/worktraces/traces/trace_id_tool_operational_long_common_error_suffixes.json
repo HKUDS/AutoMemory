@@ -1,0 +1,70 @@
+{
+  "trace_id": "trace_id_tool_operational_long_common_error_suffixes",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: tool lessons should preserve distinguishing suffixes of repeated common error signatures when the overall output budget has room.",
+  "turns": [
+    { "role": "tool", "content": "shell failed with webpack cache corruption alpha", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 210, "error": "WEBPACK_CACHE_CORRUPTION repeated generated chunk failure while resolving server-only module boundary after incremental build and workspace graph hydration; remediation marker REMOVE_NODE_MODULES_CACHE_ALPHA" } } },
+    { "role": "tool", "content": "shell failed with webpack cache corruption alpha", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 220, "error": "WEBPACK_CACHE_CORRUPTION repeated generated chunk failure while resolving server-only module boundary after incremental build and workspace graph hydration; remediation marker REMOVE_NODE_MODULES_CACHE_ALPHA" } } },
+    { "role": "tool", "content": "shell failed with webpack cache corruption beta", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 230, "error": "WEBPACK_CACHE_CORRUPTION repeated generated chunk failure while resolving server-only module boundary after incremental build and workspace graph hydration; remediation marker CLEAR_TURBO_DAEMON_BETA" } } },
+    { "role": "tool", "content": "shell failed with webpack cache corruption beta", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 240, "error": "WEBPACK_CACHE_CORRUPTION repeated generated chunk failure while resolving server-only module boundary after incremental build and workspace graph hydration; remediation marker CLEAR_TURBO_DAEMON_BETA" } } },
+    { "role": "tool", "content": "shell failed with webpack cache corruption gamma", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 250, "error": "WEBPACK_CACHE_CORRUPTION repeated generated chunk failure while resolving server-only module boundary after incremental build and workspace graph hydration; remediation marker REBUILD_STORYBOOK_CACHE_GAMMA" } } },
+    { "role": "tool", "content": "shell failed with webpack cache corruption gamma", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 260, "error": "WEBPACK_CACHE_CORRUPTION repeated generated chunk failure while resolving server-only module boundary after incremental build and workspace graph hydration; remediation marker REBUILD_STORYBOOK_CACHE_GAMMA" } } },
+    { "role": "agent", "content": "Noise after repeated tool failures.", "used_for_evaluation": false },
+    { "role": "user", "content": "Continue with shell lessons available.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Continuing.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker one", "used_for_evaluation": false },
+    { "role": "tool", "content": "read_file succeeded on package.json", "used_for_evaluation": false, "metadata": { "tool_outcome": { "tool": "read_file", "ok": true, "durationMs": 15 } } },
+    { "role": "agent", "content": "Unrelated package metadata.", "used_for_evaluation": false },
+    { "role": "user", "content": "More unrelated conversation.", "used_for_evaluation": false },
+    { "role": "agent", "content": "No memory needed.", "used_for_evaluation": false },
+    { "role": "tool", "content": "formatter succeeded.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Still carrying shell lessons.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker two", "used_for_evaluation": false },
+    { "role": "user", "content": "Check all repeated common errors.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Ready.", "used_for_evaluation": false },
+    { "role": "tool", "content": "noop succeeded.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Noise.", "used_for_evaluation": false },
+    { "role": "user", "content": "End trace.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Trace complete.", "used_for_evaluation": false },
+    { "role": "system", "content": "final noise", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "Are shell counters represented?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 900 },
+      "expected_information": [
+        { "value": "shell: calls=6", "matcher": "substring" },
+        { "value": "failed often", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does the alpha repeated remediation remain distinguishable?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 900 },
+      "expected_information": [
+        { "value": "REMOVE_NODE_MODULES_CACHE_ALPHA", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does the beta repeated remediation remain distinguishable?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 900 },
+      "expected_information": [
+        { "value": "CLEAR_TURBO_DAEMON_BETA", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does the gamma repeated remediation remain distinguishable?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 900 },
+      "expected_information": [
+        { "value": "REBUILD_STORYBOOK_CACHE_GAMMA", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does available-tool filtering exclude read_file lessons?",
+      "metadata": { "availableToolIds": ["shell"], "maxChars": 900 },
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*read_file)[\\s\\S]*WEBPACK_CACHE_CORRUPTION[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

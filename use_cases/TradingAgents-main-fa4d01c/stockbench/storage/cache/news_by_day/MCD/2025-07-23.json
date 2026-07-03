@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Lamb Weston forecasts upbeat annual sales on robust international demand",
+      "description": "Shares of the company rose nearly 8% in premarket trading after it also posted a surprise rise in fourth-quarter revenue.  A 15% increase in the company's quarterly international segment sales, which contributed about 33% of its total sales in 2024, helped offset a decline in demand in the United States due to a fall in consumer spending.  Uncertainty stemming from U.S. President Donald Trump's fluctuating tariff policies and the resulting trade tensions have choked consumer spending in the U.S., prompting them to eat at home more and impacting sales at restaurants to which Lamb Weston supplies.",
+      "published_utc": "2025-07-23T20:43:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e11bea71daad13afea87423c62dfc0779530172113fadb67620236c4b2aeaf42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136044219,
+      "datetime": 1753274602
+    }
+  ]
+}

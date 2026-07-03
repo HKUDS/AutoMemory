@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers : MN Lobbyist Disbursement Report Jun - Dec 2024",
+      "description": "Minnesota ReportYear ...",
+      "published_utc": "2025-03-18T01:24:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9a80b28a5885f45c6001c08c7daccc0387c7faa1e15fa6604cfd14cfe7db8d09",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133209808,
+      "datetime": 1742232246
+    }
+  ]
+}

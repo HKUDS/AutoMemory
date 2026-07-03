@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's 534-point drop led by losses in shares of Apple, Home Depot",
+      "description": "Dow's 534-point drop led by losses in shares of Apple, Home Depot",
+      "published_utc": "2025-04-07T23:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=743fc712d25efc65c46bb9a3fa6ac16ded687719ab069aae9126b30b6f7c0482",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133747059,
+      "datetime": 1744041060
+    },
+    {
+      "title": "Nike, Apple share losses contribute to Dow's 575-point fall",
+      "description": "Nike, Apple share losses contribute to Dow's 575-point fall",
+      "published_utc": "2025-04-07T19:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=073e8a4d95e6609bb2f7afb910a7ab73f8da041e3e8b00eff574c034c4c498a6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741235,
+      "datetime": 1744026420
+    },
+    {
+      "title": "ClearBridge Large Cap Growth Strategy Q1 2025 Commentary",
+      "description": "The ClearBridge Large Cap Growth Strategy outperformed its Russell 1000 Growth Index benchmark in Q1 2025. Click here to read the full letter.",
+      "published_utc": "2025-04-07T14:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=80be56a32d96216effee072c15bb219513bdd6dfb22e03ea35104072819c70db",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1385970223/image_1385970223.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133737185,
+      "datetime": 1744006500
+    }
+  ]
+}

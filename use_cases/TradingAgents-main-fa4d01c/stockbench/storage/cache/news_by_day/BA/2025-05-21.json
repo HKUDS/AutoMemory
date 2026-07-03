@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Trump's Former VP Mike Pence Calls Qatari Royal Family's Boeing Jet Gift A 'Bad Idea,' Urges President To Reject $400 Million 'Flying Palace'",
+      "description": "Former Vice President Mike Pence is urging President Donald Trump to reject a controversial $400 million Boeing Co. (NYSE:BA) 747-8 jumbo jet gift from Qatar’s royal family, citing national security risks and ethical concerns over what would be the largest foreign gift ever received by the U.S. government. What Happened: Pence criticized the arrangement during Sunday’s NBC interview, stating “Qatar has a long history of playing both sides” and arguing the gift is “inconsistent with our security,",
+      "published_utc": "2025-05-21T05:30:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=694fe63bc58dcf3d7b1e4a17852532e1c27e83ec01b1db5952b936142171cdca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628459,
+      "datetime": 1747776611
+    },
+    {
+      "title": "Boeing Stock Price Targets Are Rising. Where Shares Can Go Now.",
+      "description": "It has taken a while to get to this point, but investors and Wall Street are feeling better about  Boeing  shares.  After an epic rally, the question is, what comes next for Boeing stock?  Coming into Wednesday trading, Boeing stock has climbed almost 50% from its postelection lows of less than $140 a share.",
+      "published_utc": "2025-05-21T04:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79ab6ecdc7400565a4d5167a5ee276a82a58804bf155b9387821d4f9eb3f5883",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628460,
+      "datetime": 1747773180
+    },
+    {
+      "title": "US court approves Brazilian airline Gol's restructuring plan",
+      "description": "Brazilian airline Golsaid on Tuesday its restructuring plan under Chapter11 proceedings was approved by a U.S. court, paving the way forit to exit bankruptcy protection on June 6. The...",
+      "published_utc": "2025-05-21T03:23:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=19771eb12b46dd71715433dbe98d85bf1b3e87cfc8c0d26741f5536e30d11aaf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134620460,
+      "datetime": 1747768985
+    }
+  ]
+}

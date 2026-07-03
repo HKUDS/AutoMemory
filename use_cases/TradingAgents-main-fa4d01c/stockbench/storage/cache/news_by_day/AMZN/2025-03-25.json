@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Mag 7 takes on 'growth as defensive' bias, strategist says",
+      "description": "Citi head of US equity strategy Scott Chronert joins Market Domination hosts Julie Hyman and Josh Lipton to discuss Monday's \"Magnificent Seven\" rally in the context of the recent tech trade decline. In particular, Chronert emphasizes a \"growth as defensive\" component coming into play for the Magnificent Seven. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-03-25T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd12e23b6aca358902eb70ce1be2d8e7ee30aa715835a26bf46f487d0e7ba34a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360224,
+      "datetime": 1742859000
+    },
+    {
+      "title": "The iShares S&P Total Stock Market ETF Vs. Vanguard's VTI: Virtually Identical In Many Ways",
+      "description": "Read here for a comparison of ITOT & VTI ETFs for broad market exposure and low fees. Learn why diversifying into tech with QQQ can boost returns.",
+      "published_utc": "2025-03-25T06:22:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7831932f4a7d70f45ce0507fe8f3906d6b0ecd86a4e030adca36d9904854d1b2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1289959626/image_1289959626.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133359522,
+      "datetime": 1742854973
+    },
+    {
+      "title": "Amazon CEO Andy Jassy says it’s fine not to know your career end goal—even well into your 60s",
+      "description": "Amazon CEO Andy Jassy says it’s perfectly normal to not have a defined career end goal—even well into your 60s.",
+      "published_utc": "2025-03-25T04:00:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb8558fb38bb0e8c2cf3d446724e897616eff0e6373e79702317c9ae18f5244e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360270,
+      "datetime": 1742846408
+    },
+    {
+      "title": "Amazon (AMZN) Positions Project Kuiper as Starlink’s Biggest Competitor",
+      "description": "We recently published a list of 10 AI Stocks Making Waves: GTC Highlights & Beyond. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other AI stocks that are making waves with insights on GTC highlights. A new open-source model from Mistral AI is shaking things up […]",
+      "published_utc": "2025-03-25T02:29:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86b3c4e85e50e1f33fd48f6357bfa953f0f3ffccdfe24b50e5abea0f7cd749e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360271,
+      "datetime": 1742840951
+    },
+    {
+      "title": "Amazon Stock Retakes Key Level As Analyst Offers Upbeat View After Nvidia Event",
+      "description": "Nvidia's AI Super Bowl didn't excite investors but an analyst said Amazon's long-term opportunity from the trend is clear.",
+      "published_utc": "2025-03-25T02:22:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e05a6c81b878019c266d4f6866a555be1af6b798a22a384e6d65ba58be21f6d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360272,
+      "datetime": 1742840552
+    }
+  ]
+}

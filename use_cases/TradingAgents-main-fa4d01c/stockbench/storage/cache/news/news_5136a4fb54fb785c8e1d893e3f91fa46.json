@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Veeva Systems' Vault CRM Momentum Builds With Top Biopharma Adoptions",
+      "description": "VEEV sees rising Vault CRM adoption among top biopharma firms, driven by new features, fueling customer migration and growth.",
+      "published_utc": "2025-07-17T00:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=899dd9b1319ca6802176114f9ab20af3365d61931b5f7b9e820ecf84f8416905",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993130,
+      "datetime": 1752683340
+    },
+    {
+      "title": "Informatica to Report Second Quarter 2025 Financial Results on August 6, 2025",
+      "description": "REDWOOD CITY, Calif., July 16, 2025--Informatica (NYSE: INFA), an AI-powered enterprise cloud data management leader, today announced it will report financial results for the second quarter 2025, which ended June 30, 2025, following the close of the U.S. markets on Wednesday, August 6, 2025.",
+      "published_utc": "2025-07-16T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d12c930bf2b14512caa13ba5825c511a8720f40624d67392d174c9b18a0b7333",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965148,
+      "datetime": 1752669000
+    },
+    {
+      "title": "Backstroke Lands $2.8M, New Executive Talent, and Announces Upgraded Features Amid AI Marketing Boom",
+      "description": "INDIANAPOLIS, July 16, 2025--Backstroke, the generative AI email marketing platform for e-commerce brands, today announced $2.8 million in new growth funding led by Allos Ventures, with continued participation from High Alpha and Ground Game Ventures. This latest funding highlights Backstroke’s accelerating market traction and customer adoption. Year-over-year growth from June 2024 to June 2025 reached an impressive 375% in customer count and 447% in annual recurring revenue (ARR).",
+      "published_utc": "2025-07-16T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad0b1e06b4a13c242d13f38092ba18a997fd4f5574205703eda1dbc8efa24c2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965149,
+      "datetime": 1752667200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:43.978785+00:00",
+    "cache_key": "news_5136a4fb54fb785c8e1d893e3f91fa46",
+    "count": 3
+  }
+}

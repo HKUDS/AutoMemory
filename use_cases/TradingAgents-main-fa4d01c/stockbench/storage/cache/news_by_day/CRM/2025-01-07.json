@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Stock’s AI Rally Is Over, Analyst Says. Why Now Could Be the Time to Sell.",
+      "description": "Salesforce  ended 2024 on a high note but fell on Monday after a Guggenheim analyst downgraded shares of the software company.  John DiFucci took his rating on  Salesforce  to Sell from Neutral and gave the stock a $247 price target, implying a 26% decrease from the stock’s closing price of $334.02 on Friday.  DiFucci’s downgrade comes after shares of the software company surged 27% in 2024.",
+      "published_utc": "2025-01-07T05:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd85c316b2f9784eecb29d8af867add1d6c18cd6b844172445b9be4868a03610",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/RfcY2ZYFeb1WFrcklAzXxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/Barrons.com/5e67716a054594891fc75978c17516b8",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132298016,
+      "datetime": 1736197380
+    },
+    {
+      "title": "US Online Shopping Hit Record $282B During This Holiday Season, Salesforce Says",
+      "description": "Online sales grew as more consumers found items on TikTok, Instagram and with aid from AI agents, though large numbers of items end up being returned.",
+      "published_utc": "2025-01-07T04:28:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8868ab43d9c5d9b3709a2823eb02334ce370af9792b5ff7673ec1bc2660e7dfe",
+      "category": "company",
+      "image": "https://www.investopedia.com/thmb/g1p667nRphAae6HqZOiylKZbuEY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1814678203-5a7320db21774c2ba70f2b373e69e184.jpg",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132290384,
+      "datetime": 1736195291
+    },
+    {
+      "title": "Why Some Analysts Are Bullish on Salesforce (CRM) Despite Slower Growth",
+      "description": "We recently published a list of 10 AI Stocks on Investors’ Radar In January 2025. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other AI stocks on investors’ radar in January 2025. Drew Pettit, U.S. equity strategist at Citi Research, said in a latest program on […]",
+      "published_utc": "2025-01-07T04:19:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d12f88106c87754da47fddc718b815e1ce5d80d7fcb78fb780890762881a844e",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/e82bbc1fd07e08efde71771bf5112e97",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132290385,
+      "datetime": 1736194763
+    },
+    {
+      "title": "Salesforce’s AI efforts draw doubts from the stock’s newest bear",
+      "description": "Salesforce’s AI efforts draw doubts from the stock’s newest bear",
+      "published_utc": "2025-01-07T02:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=50deeb92dfe738b61dd06f2e55ec4f10f4e5dbb9f49503d21324199e610e7bf3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322114,
+      "datetime": 1736189520
+    },
+    {
+      "title": "Palo Alto Networks’ stock could fall nearly 30% if this ‘sell’ call plays out",
+      "description": "Palo Alto Networks’ stock could fall nearly 30% if this ‘sell’ call plays out",
+      "published_utc": "2025-01-07T02:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a60f85315e0b40ffc5bfc359b5f2ad76b8229837a44febb86612e30b17004a2e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322116,
+      "datetime": 1736189400
+    }
+  ]
+}

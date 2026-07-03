@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Aristotle Global Equity Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-16T07:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f1f5836bf98d38379a2f870f23faba1f146e173e45877a294aff9e0578c99719",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133930344,
+      "datetime": 1744759200
+    }
+  ]
+}

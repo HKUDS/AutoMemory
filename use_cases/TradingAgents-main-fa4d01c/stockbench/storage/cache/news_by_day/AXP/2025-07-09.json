@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "The latest trading day saw American Express (AXP) settling at $316.98, representing a -1.78% change from its previous close.",
+      "published_utc": "2025-07-09T05:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11d7d6988950ebe42a7e288bc431759cecf3da9ff91efa460a15d2196f5fce5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829895,
+      "datetime": 1752011402
+    }
+  ]
+}

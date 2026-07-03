@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
+      "description": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-07-16T00:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f332f98b848405bc6defa5111ffd291b6c74f0ca7c1328847ba5796aed7fe757",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135979649,
+      "datetime": 1752597720
+    }
+  ]
+}

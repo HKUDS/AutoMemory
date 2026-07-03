@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Bill Ackman bets big on battered e-commerce giant",
+      "description": "Ackman's team sees the price as 'extremely attractive.'",
+      "published_utc": "2025-05-25T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3eccb4c78b50b592e8b990f2247ec1594ed2f14db5346b10428e6518bdc6d12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694224,
+      "datetime": 1748127600
+    }
+  ]
+}

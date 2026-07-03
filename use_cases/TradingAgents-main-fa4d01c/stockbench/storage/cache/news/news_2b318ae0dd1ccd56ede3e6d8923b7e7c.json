@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Mark Zuckerberg's Facebook, Instagram block new Apple product",
+      "description": "The social media leader is sending a strong message to the iPhone maker.",
+      "published_utc": "2025-04-19T23:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2030ce244300e45761beafebf903597835526085a5491ff8ea9dffc1a3f6f48",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133994468,
+      "datetime": 1745075820
+    },
+    {
+      "title": "GAM: Tech Exposure Could Mean Short-Term Pain",
+      "description": "",
+      "published_utc": "2025-04-19T19:38:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b1fd8ecc8bbc14cd467d1415a08b3dde2dc248c22111fd11ca84fd64fa880d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972389,
+      "datetime": 1745062693
+    },
+    {
+      "title": "Find these 6 Easter eggs on your iPhone or Mac",
+      "description": "Apple has hidden some cool things right before your eyes.",
+      "published_utc": "2025-04-19T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e57df9655baac309c8c0c2427c10183fff984784f1632cc67c6c0d2cfb78f09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022574,
+      "datetime": 1745053200
+    },
+    {
+      "title": "My Highest Conviction Buy Right Now That I Am Buying Hand-Over-Fist",
+      "description": "",
+      "published_utc": "2025-04-19T15:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ebcac534890db0c9bb6090f5c33bfbed514f4578c962e304834b2646852b5524",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133970983,
+      "datetime": 1745046300
+    },
+    {
+      "title": "Will Vision Air become Apple's 'Ray Ban'?",
+      "description": "Copyright © Emerce 2023Apple is reportedly working on a Vision Air, an AR/VR pair of glasses that would be suitable for everyday use and can work with an iPhone or Mac. With that, Apple is...",
+      "published_utc": "2025-04-19T11:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2abf185ce23b85142e1598f2d0d8f672e292064fef22da17cd1dea167e7824c9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133969117,
+      "datetime": 1745031667
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:33:34.632657+00:00",
+    "cache_key": "news_2b318ae0dd1ccd56ede3e6d8923b7e7c",
+    "count": 5
+  }
+}

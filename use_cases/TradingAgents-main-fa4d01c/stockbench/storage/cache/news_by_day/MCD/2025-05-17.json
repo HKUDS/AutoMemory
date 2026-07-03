@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Anatomy Of A Market Storm And Its Dissipation",
+      "description": "Gain insights from recent market volatility and learn why a patient, long-term investment strategy amid S&P 500 shifts and sector trends can be rewarding.",
+      "published_utc": "2025-05-17T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b7347c8603150becd5e4ff80449240dd6a30da60eebfab4bf4fca2e5df970ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200244020/image_200244020.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134543717,
+      "datetime": 1747470600
+    }
+  ]
+}

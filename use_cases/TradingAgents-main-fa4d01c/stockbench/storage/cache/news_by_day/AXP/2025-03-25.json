@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "US consumers slow spending as inflation bites, Synchrony says",
+      "description": "U.S. consumers have been curbing their spending in response to high prices and a worsening economic outlook, according to consumer finance company Synchrony Financial. Americans have...",
+      "published_utc": "2025-03-25T20:27:27",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6c982df2d6d59cc8edbdde90f3468119422f61b2887b649f60760df76fe55066",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133384063,
+      "datetime": 1742905647
+    },
+    {
+      "title": "3 Evergreen Financial Stocks to Buy With $3,000 and Hold Forever",
+      "description": "American Express, SoFi, and Berkshire Hathaway are promising long-term investments.",
+      "published_utc": "2025-03-25T16:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb1bbfea2fb4c293b672f3c492e90227657fc279bef6d4687ceb62c63410680f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133367619,
+      "datetime": 1742893080
+    },
+    {
+      "title": "FPA Queens Road Value Fund Q4 2024 Commentary",
+      "description": "FPA Queens Road Value Fund (âFundâ) returned -2.69% for the fourth quarter of 2024. Click here to read the full commentary.",
+      "published_utc": "2025-03-25T16:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=17a81e20d5a03775e9555ae79a76287f14088b5b02d56d10b009198be8fc98cc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187991365/image_2187991365.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133374584,
+      "datetime": 1742891700
+    }
+  ]
+}

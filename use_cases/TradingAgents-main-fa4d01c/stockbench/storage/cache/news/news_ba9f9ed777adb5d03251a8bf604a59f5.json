@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "A Reckoning for the Magnificent Seven Tests the Market",
+      "description": "A Reckoning for the Magnificent Seven Tests the Market",
+      "published_utc": "2025-04-27T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d78fd119338fb90f20a8064840587a7090ab5f158c24169586a43d92f7aeb806",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126459,
+      "datetime": 1745701200
+    },
+    {
+      "title": "Tech Executives Are Starting to Talk Tariffs. What It May Mean for Apple, Amazon Earnings.",
+      "description": "Amazon, Apple, Meta, and Microsoft will need to address tariffs on earnings calls next week. Tech executives are sounding alarms.",
+      "published_utc": "2025-04-27T02:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd8d3f2d0cf04892de7ff792fd33ae6e9f036367f41c219b2b34278f3e3f1e4e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104319,
+      "datetime": 1745691240
+    },
+    {
+      "title": "2 Magnificent Artificial Intelligence (AI) Stocks to Consider Buying Before April 30",
+      "description": "Earnings season is right around the corner, and all eyes will be on big tech.",
+      "published_utc": "2025-04-26T23:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=157c9351caa3e46b5e625117cf8db250099f63b4409ffb60d4a6b57693cb9cd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104336,
+      "datetime": 1745679780
+    },
+    {
+      "title": "Is Microsoft Corporation (MSFT) the Best Safe Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 11 Best Safe Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best safe stocks to buy according to hedge funds. In times when you never know what you’ll wake up to the […]",
+      "published_utc": "2025-04-26T22:23:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e9130ca78b95a1b53f9e6c9b2154de4f63bd509d01c73cda86dcb674b3c84fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104337,
+      "datetime": 1745677434
+    },
+    {
+      "title": "Contrarian Opinion: Tariffs, Inflation, and Recession Fears Could Be a Tailwind for This Retail Stock and Propel It to a $1 Trillion Valuation",
+      "description": "President Trump's new tariffs could cause prices to rise for consumers and induce a period of slowing economic growth.",
+      "published_utc": "2025-04-26T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f1a92cd75bcdb4148874024e11b0db76693e5b49b84090a58cebf4a2b5818cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104338,
+      "datetime": 1745675100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:35:48.764769+00:00",
+    "cache_key": "news_ba9f9ed777adb5d03251a8bf604a59f5",
+    "count": 5
+  }
+}

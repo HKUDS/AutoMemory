@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visa to Announce Fiscal Second Quarter 2025 Financial Results on April 29, 2025",
+      "description": "SAN FRANCISCO, April 08, 2025--Visa (NYSE: V) will report its fiscal second quarter 2025 financial results on Tuesday, April 29, 2025. After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial information, on the Visa Investor Relations website. Visa will issue a news wire alert when the earnings materials are publicly available, including a link to those documents.",
+      "published_utc": "2025-04-09T04:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42f5194df38ed1442dc4586606364301de0fc14d2124966f34fae8ac6cbfeade",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823283,
+      "datetime": 1744142700
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Tuesday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-04-09T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=789624895b552e70e3be209c71cc73fcabda0e1e22973c8e7c28dd61e8300954",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133824025,
+      "datetime": 1744129860
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams to Announce Fourth Quarter and Full Year 2024 Financial Results on January 30, 2025",
+      "description": "The Sherwin-Williams Company (NYSE: SHW) will issue a press release announcing its financial results for the fourth quarter and year ended December 31, 2024, prior to market open on Thursday, January 30, 2025. At that time, a copy of the press release and information regarding Sherwin-Williams' financial condition, reportable segment results and other information will be available by clicking on this link Sherwin-Williams Press Releases, then clicking on the reference to the January 30 release.",
+      "published_utc": "2024-12-31T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0abea38f152e50cddc09ad738f88dfe039cc3a563323a45d78e978806e5a15c5",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/prnewswire.com/bee5d3a0f8c8414142db497267a2a134",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132215622,
+      "datetime": 1735650000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:59:16.595579+00:00",
+    "cache_key": "news_d42ee2d094ec3ea41b6533b83be594d9",
+    "count": 1
+  }
+}

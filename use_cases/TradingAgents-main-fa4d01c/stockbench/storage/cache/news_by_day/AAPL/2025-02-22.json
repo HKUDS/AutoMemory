@@ -1,0 +1,269 @@
+{
+  "items": [
+    {
+      "id": "45b6223ef4a795d36d1ed2cec0f9c324d765f33737a96f37ac9c7f9b27f65a98",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Unstoppable Vanguard ETF Will Beat the S&P 500 Again in 2025",
+      "author": "Anthony Di Pizio",
+      "published_utc": "2025-02-22T21:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/prediction-vanguard-etf-will-beat-sp-500-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "VGT",
+        "AAPL",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807986/a-digital-render-of-a-jumping-bull.jpg",
+      "description": "The Vanguard Information Technology ETF (VGT) has consistently outperformed the S&P 500 since its inception in 2004. The author predicts the ETF will continue to outperform in 2025 due to the growing influence of artificial intelligence (AI) on its top holdings, including Apple, Nvidia, and Microsoft.",
+      "keywords": [
+        "Vanguard Information Technology ETF",
+        "S&P 500",
+        "artificial intelligence",
+        "Apple",
+        "Nvidia",
+        "Microsoft"
+      ],
+      "insights": [
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF has outperformed the S&P 500 every year since its establishment in 2004, and the author predicts it will continue to do so in 2025 due to the growing influence of AI on its top holdings."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's recent launch of AI-powered features for its devices and its potential work on a humanoid robot could drive further upside for the company and the Vanguard ETF."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is the AI hardware king, and its latest Blackwell GPUs are expected to be in high demand from companies like Microsoft and Oracle, which operate AI data centers."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is experiencing high demand for its AI data centers, which should continue to drive its cloud revenue and earnings growth, benefiting the Vanguard ETF."
+        }
+      ]
+    },
+    {
+      "title": "Berkshire Operating Earnings Rose 71% to $14.5 Billion in Fourth Quarter",
+      "description": "Berkshire Operating Earnings Rose 71% to $14.5 Billion in Fourth Quarter",
+      "published_utc": "2025-02-22T19:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1cba6a1a428ba0f941fb11c1b4170e7f7d9eb3377142299b52a8527d13ca1697",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881154,
+      "datetime": 1740223980
+    },
+    {
+      "title": "Warren Buffett's Berkshire Hathaway Earnings Soar 71%",
+      "description": "Warren Buffett's Berkshire Hathaway Earnings Soar 71%",
+      "published_utc": "2025-02-22T16:56:39",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=59a32eade28aaf885be7def99ffee89dde51f122865120361fdadc7447d83258",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132834611,
+      "datetime": 1740214599
+    },
+    {
+      "title": "8 Stocks I'm Buying Amid A Market Rotation Toward Dividend Stocks",
+      "description": "Discover why dividend ETFs are outperforming tech giants, key economic metrics to watch, and a top buy list for dividend stocks & REITs.",
+      "published_utc": "2025-02-22T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e35564a8cf9f70198f323341639516c5eb68f5e60e791a2bf2179f540f252698",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/102284587/image_102284587.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132833293,
+      "datetime": 1740211500
+    },
+    {
+      "id": "d77f51a1c3e8e45f1d660fe9f64e0bbe5719d63bc02c7edc93bb72d29f502d3c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 No-Brainer Warren Buffett Stock to Buy Right Now",
+      "author": "Anders Bylund",
+      "published_utc": "2025-02-22T13:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/1-no-brainer-warren-buffett-stock-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "KO",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "CVX",
+        "OXY",
+        "OXY.WS",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808516/growing-plants-in-coin-jars-dividends-growth-over-time.jpg",
+      "description": "The article discusses Berkshire Hathaway's investments, particularly its large stake in Coca-Cola, and why the author believes Coca-Cola is a fantastic buy for new investors in 2025. The article highlights Coca-Cola's consistent dividend payouts and its potential to serve as a steady income generator in the long run.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "dividend stocks",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses Berkshire Hathaway's investment portfolio, including its stakes in financial and energy companies, but the author acknowledges that Berkshire's investment strategy may not always align with the author's own investment approach."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses Berkshire Hathaway's investment portfolio, including its stakes in financial and energy companies, but the author acknowledges that Berkshire's investment strategy may not always align with the author's own investment approach."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author believes Coca-Cola is a fantastic buy for new investors in 2025, citing the company's consistent dividend payouts and its potential to serve as a steady income generator in the long run."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Chevron as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "OXY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Occidental Petroleum as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "OXY.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Occidental Petroleum as one of Berkshire Hathaway's investments, but the author does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway is selling Apple stock, but the author does not provide any specific commentary on the company."
+        }
+      ]
+    }
+  ]
+}

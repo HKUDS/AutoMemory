@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PRESS DIGEST-Financial Times - May 8",
+      "description": "May 8 - The following are the top stories inthe Financial Times. Reuters has not verified these stories anddoes not vouch for their accuracy. Headlines ...",
+      "published_utc": "2025-05-08T07:50:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5ed40e885dc59d95eec2e35935f13be2c06ff3ccfdf32cee8aade607dacf0368",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134314253,
+      "datetime": 1746661810
+    },
+    {
+      "title": "Boeing proposes 2027 delivery date for new Air Force One jets, official says",
+      "description": "Boeing has proposeddelivering its delayed new version of Air Force One in 2027, aU.S. Air Force official said on Wednesday. President Donald Trump negotiated with Boeing for a pair...",
+      "published_utc": "2025-05-08T07:12:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=340f27b25bf25c1f8eb0e0ea904bab8eb3957e2a7a6527e3434d9691824624ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134314119,
+      "datetime": 1746659529
+    },
+    {
+      "title": "Boeing taps Wisk Aero CEO to head commercial airplane product development",
+      "description": "SEATTLE -Boeing-owned Wisk Aero announced Wednesday that its CEO Brian Yutko is leaving to take over product development for Boeing's commercial airplanes division.  In his new role, Yutko will still oversee Wisk, which is developing an autonomous air taxi, Boeing Commercial Airplanes' head of product strategy Mike Sinnett told employees in an internal memo shared with Reuters.  \"The combination of projects under one umbrella gives us more collaboration opportunities that will benefit Boeing well into the future,\" Sinnett said in the memo.",
+      "published_utc": "2025-05-08T04:06:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7705d6d23a3b53e902dbd80b4c42d4a4c625da7bfd70f2dd5de8df8ddbab8f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316940,
+      "datetime": 1746648388
+    },
+    {
+      "title": "Is The Boeing Company (BA) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of the […]",
+      "published_utc": "2025-05-08T02:10:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e6749a9fbe1f4403a71926e24dc83264d6c7cb38f030bba9de4c2019b8911aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316941,
+      "datetime": 1746641439
+    },
+    {
+      "title": "Aerospace faces wider tariffs as Europe draws up retaliation",
+      "description": "Aerospace companies are preparing forthe next chapter in a new trade war as the European Union drawsup expected counter-measures against Boeing jets in retaliationfor 10% U.S. tariffs on European...",
+      "published_utc": "2025-05-07T19:21:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c12cd1f18fe66cb4a9ead681c5d0ef90703e63d232889a6192d2d1fdbd262e34",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134296207,
+      "datetime": 1746616874
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:10.200896+00:00",
+    "cache_key": "news_5c455608fd17b87716199dfa4331524b",
+    "count": 5
+  }
+}

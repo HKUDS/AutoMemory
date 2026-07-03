@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "AI CEO issues grave warning about the future of Nvidia",
+      "description": "Despite its recent progress, the AI leader may be at serious risk of falling into a trap.",
+      "published_utc": "2025-03-27T06:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d508d288dbc4054c6c8fdf7f624ec8489e7e07b36ef3e6747136c304a88a622e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461940,
+      "datetime": 1743026580
+    }
+  ]
+}

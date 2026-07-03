@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Inc. stock rises Wednesday, still underperforms market",
+      "description": "Salesforce Inc. stock rises Wednesday, still underperforms market",
+      "published_utc": "2025-04-10T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cecb6af5a00d502107e74998da68a70a4a186acf354bea9218a8311370a2b4b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133845988,
+      "datetime": 1744216320
+    },
+    {
+      "title": "Mar Vista Global Quality Strategy Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-09T20:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fbb523c3836e7da2fa57bbb4595fa54050d26e89b6228e38809696f9e07dcbef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133837420,
+      "datetime": 1744201800
+    },
+    {
+      "title": "In the wake of Salesforce, Inc.'s (NYSE:CRM) latest US$25b market cap drop, institutional owners may be forced to take severe actions",
+      "description": "Key Insights Significantly high institutional ownership implies Salesforce's stock price is sensitive to their trading...",
+      "published_utc": "2025-04-09T20:00:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7bdc6118e9c03d5a6e6392279f608deb83dee600496ccae403243740c1507e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828333,
+      "datetime": 1744200040
+    },
+    {
+      "title": "Mar Vista U.S. Quality Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-09T18:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b402e3eb56d62b2c08f6e8b6787df9601c844b1dc0d698ca3b0f64f247e58a17",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828022,
+      "datetime": 1744192800
+    },
+    {
+      "title": "Q4 Earnings Roundup: Salesforce (NYSE:CRM) And The Rest Of The Sales Software Segment",
+      "description": "Let’s dig into the relative performance of Salesforce (NYSE:CRM) and its peers as we unravel the now-completed Q4 sales software earnings season.",
+      "published_utc": "2025-04-09T17:05:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5bf7f233036743b7205a0d75005458a954729a2ec23d07af1099f3b36b5b043",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828334,
+      "datetime": 1744189541
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:57.472894+00:00",
+    "cache_key": "news_01ef528cf267c6c2a25ab137ebc80621",
+    "count": 5
+  }
+}

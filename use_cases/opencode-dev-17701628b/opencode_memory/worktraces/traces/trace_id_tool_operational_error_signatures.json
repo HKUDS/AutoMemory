@@ -1,0 +1,141 @@
+{
+  "trace_id": "trace_id_tool_operational_error_signatures",
+  "eval_mode": "qa",
+  "category": "edge_case",
+  "description": "Tool operational memory should expose repeated failure signatures and tool-specific counters.",
+  "turns": [
+    {
+      "role": "tool",
+      "content": "shell failed: EACCES opening /tmp/opencode-cache/index.json",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 120, "error": "EACCES opening /tmp/opencode-cache/index.json" } }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed: EACCES opening /tmp/opencode-cache/index.json",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 140, "error": "EACCES opening /tmp/opencode-cache/index.json" } }
+    },
+    {
+      "role": "tool",
+      "content": "shell failed: EACCES opening /tmp/opencode-cache/index.json",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 100, "error": "EACCES opening /tmp/opencode-cache/index.json" } }
+    },
+    {
+      "role": "tool",
+      "content": "read file succeeded",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "read_file", "ok": true, "durationMs": 30 } }
+    },
+    {
+      "role": "tool",
+      "content": "shell succeeded after chmod",
+      "used_for_evaluation": true,
+      "metadata": { "tool_outcome": { "tool": "shell", "ok": true, "durationMs": 60 } }
+    },
+    {
+      "role": "agent",
+      "content": "The task moved on to unrelated editing.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Please continue.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "format succeeded",
+      "used_for_evaluation": false,
+      "metadata": { "tool_outcome": { "tool": "format", "ok": true, "durationMs": 80 } }
+    },
+    {
+      "role": "agent",
+      "content": "Finished.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention window noise",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Unrelated explanation about formatting output.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Continue with the unrelated cleanup.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "read_file returned a long unrelated source snippet",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "read_file" }
+    },
+    {
+      "role": "agent",
+      "content": "Noted but no memory-relevant detail.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "rg found unrelated TODO comments",
+      "used_for_evaluation": false,
+      "metadata": { "tool_name": "rg" }
+    },
+    {
+      "role": "system",
+      "content": "noise-only retention flush marker",
+      "used_for_evaluation": false,
+      "metadata": { "retention_flush": true }
+    },
+    {
+      "role": "agent",
+      "content": "Finished unrelated cleanup.",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What should the agent know about shell reliability?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "shell", "matcher": "substring" },
+        { "value": "failed often", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What exact shell error signature kept recurring?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "EACCES opening /tmp/opencode-cache/index.json", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "How many shell failures were observed?",
+      "metadata": { "availableToolIds": ["shell"] },
+      "expected_information": [
+        { "value": "err=3", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Was read_file clean?",
+      "metadata": { "availableToolIds": ["read_file"] },
+      "expected_information": [
+        { "value": "read_file", "matcher": "substring" },
+        { "value": "ok=1", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does tool filtering exclude unrelated tools?",
+      "metadata": { "availableToolIds": ["read_file"] },
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*shell)[\\s\\S]*read_file[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

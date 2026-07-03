@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "ABEQ: Focused On High-Quality Companies With Margin Of Safety",
+      "description": "",
+      "published_utc": "2025-04-21T21:15:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=55cc2dfd65363de77939aecea68b0b3fe6261448cad6cd851ed3845210854cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024793,
+      "datetime": 1745241336
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "European Commission Approved DARZALEX Faspro® for Adult Patients with Smouldering Multiple Myeloma",
+      "description": "Halozyme Therapeutics, Inc. (NASDAQ: HALO) (Halozyme) today announced that Janssen-Cilag International NV, a Johnson & Johnson company, received European Commission (EC) approval of a new indication for DARZALEX Faspro® (daratumumab) co-formulated with ENHANZE®, as monotherapy for the treatment of adult patients with smouldering multiple myeloma (SMM) at high-risk of developing multiple myeloma.",
+      "published_utc": "2025-07-23T23:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4c79399ce86994c741fd65f9bc1fa0d1f57ddb9389623dcb386cd731ef9af69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062146,
+      "datetime": 1753284960
+    },
+    {
+      "title": "Will Reblozyl Enable BMY to Offset the Impact of Generic Competition?",
+      "description": "Reblozyl sales surged 35% in Q1 for BMY, but a failed phase III study clouds expansion plans amid stiff anemia drug competition.",
+      "published_utc": "2025-07-23T22:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05d231aa9423b7481458c60ee5d7fffd3456c3d5c2891baadb669993f07f7b4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062147,
+      "datetime": 1753282440
+    },
+    {
+      "title": "Jim Cramer on Johnson & Johnson: “J&J is Just Beginning Its Move”",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the stocks that Jim Cramer shed light on. Cramer was incredibly bullish on the company as he said: “Now, sometimes in this game, you do just get lucky. You’ll come across a surprise quarter that tells you everything you need to know about what can cause a big […]",
+      "published_utc": "2025-07-23T22:50:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbee885c5f56237028c4f1eaba5cdfa0d580ed36b60f9808d15187da1d190452",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062148,
+      "datetime": 1753282251
+    }
+  ]
+}

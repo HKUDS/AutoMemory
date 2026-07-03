@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Activist-Backed Breakup: Is Honeywell About to Become a Market Darling?",
+      "description": "The company's planned breakup into three focused entities, Automation, Aerospace, and Advanced Materials, aims to enhance strategic clarity, agility, and shareholder value.",
+      "published_utc": "2025-07-06T19:39:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83dbc354585bf48b17060a78f4b7c2f491b46eba6e3dc0c8b059a0c94fc5416e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135777399,
+      "datetime": 1751801990
+    }
+  ]
+}

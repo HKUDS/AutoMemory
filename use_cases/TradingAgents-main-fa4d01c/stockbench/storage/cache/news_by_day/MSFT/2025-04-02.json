@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "CoreWeave IPO: Is this Fast-Growing AI Stock a Buy Right Now?",
+      "description": "Since artificial intelligence (AI) caught the attention of the market beginning in November 2022, Nvidia (NASDAQ: NVDA) has set the bar for blockbuster growth among AI-associated stocks.  The GPU specialist posted five straight quarters of triple-digit revenue growth through fiscal 2024 and 2025, peaking at 265% in the third quarter of fiscal 2024.  The recently IPO'd CoreWeave (NASDAQ: CRWV) offered the latest reminder of the explosive growth in AI, and its recent revenue jump blew Nvidia's away.",
+      "published_utc": "2025-04-02T23:48:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bfdeeadac06472ef339cde9d0dc32a1f4b6e550009f98e98c7ee21862e22717",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669229,
+      "datetime": 1743608926
+    }
+  ]
+}

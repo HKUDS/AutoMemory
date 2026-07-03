@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Native Debuts Limited-Edition Collaboration with Dunkin’®, Available Exclusively at Walmart to Sprinkle Happiness Into Your Personal Care Routine",
+      "description": "SAN FRANCISCO, January 02, 2025--Native, the personal care brand known for their simple and effective formulas, announced its new limited-edition collection with Dunkin’. The collection, available exclusively at Nativecos.com and Walmart, includes Deodorant, Body Wash, Shampoo, Conditioner, 2-in-1, and Hand & Body Lotion in a variety of donut-inspired scents.",
+      "published_utc": "2025-01-02T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b8d69aac823c23276a6911f38970af56bc1f4f31e84164efca57e6ed0041f8c",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/business-wire.com/76c60076162bdf193337c443fbc13859",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132239525,
+      "datetime": 1735826400
+    },
+    {
+      "title": "Native Announces New Limited-Edition Collection with Jarritos in Partnership with Target",
+      "description": "SAN FRANCISCO, January 02, 2025--Native, the simple, clean, and effective personal care company, is thrilled to announce its new limited-edition collection with Jarritos! Inspired by the juiciest flavors, bringing refreshments from the fiesta to your shower routine, the collection includes Deodorant, Body Wash, Hand & Body Lotion, Shampoo, and Conditioner in a variety of fruity scents. This latest launch is available exclusively at Nativecos.com and at Target.",
+      "published_utc": "2025-01-02T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4beda1109a7d84acd66b018c941d8c0a835051a9593cd44e0122a2d3952f687b",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/business-wire.com/3000fb9d783fb35efeb79887a50fb2a6",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132239524,
+      "datetime": 1735826400
+    },
+    {
+      "title": "January Dow Dogs: 1 'Safer' Buy, And 5 With Promise",
+      "description": "Get insights on top Dow Dogs like Verizon and Merck, with potential net gains forecasted by analysts. Click for the January picks.",
+      "published_utc": "2025-01-02T20:21:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a2bfec130e38310a0339d2950fb14a024997156e837c950640f2806e609acfa0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/478792228/image_478792228.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240262,
+      "datetime": 1735820503
+    },
+    {
+      "title": "The Procter & Gamble Company (NYSE:PG) is a favorite amongst institutional investors who own 69%",
+      "description": "Key Insights Given the large stake in the stock by institutions, Procter & Gamble's stock price might be vulnerable to...",
+      "published_utc": "2025-01-02T20:00:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e32f7f1cc0b0b79e05057248c8ec766a9e6bc3c888238791b2da1cb9ae6a5fd",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/1cc7282f09a8bea828be96d8904afc0e",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132238228,
+      "datetime": 1735819219
+    }
+  ]
+}

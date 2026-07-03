@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Calls The Boeing Company (BA) “an Up Stock”",
+      "description": "We recently published a list of Jim Cramer Had These 21 Stocks on His Radar. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other stocks that Jim Cramer discusses. A caller asked what Cramer thinks of The Boeing Company (NYSE:BA), and he replied: “I think […]",
+      "published_utc": "2025-05-28T05:55:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=541cf6afcf5d85786d0c430e6651b4276bb2570d8d2cb335910a70c8494df6fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134742088,
+      "datetime": 1748382922
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Apple, Tesla, DJT, Informatica, Super Micro, PDD, SoundHound, and More",
+      "description": "Apple rises after tumbling Friday when President Donald Trump threatened a 25% tariff on iPhones sold in the U.S. that are made overseas, while Tesla trades higher even as the electric-vehicle maker’s sales in Europe decline for a fourth straight month.",
+      "published_utc": "2025-05-28T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc5c7286f16e7ce04e244f1c018b57c27db1d6040773ec46a6011d90f834e47b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134717943,
+      "datetime": 1748376900
+    },
+    {
+      "title": "CMA CGM’s $600M Vietnam Port Project Reflects ‘Sharp’ Container Demand",
+      "description": "The ocean carrier is building a deep-water terminal complex at Hai Phong Port as Vietnam gains a larger share of exports out of Asia.",
+      "published_utc": "2025-05-28T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97dcf0deed65f4ed74503647a2f971810bde69105e1d779bbfe0cb95c3253e0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134742089,
+      "datetime": 1748376900
+    },
+    {
+      "title": "These Stocks Are Moving the Most Today: Apple, Tesla, DJT, Informatica, Super Micro, PDD, SoundHound, and More",
+      "description": "Apple rises after tumbling Friday when President Donald Trump threatened a 25% tariff on iPhones sold in the U.S. that are made overseas, while Tesla trades higher even as the electric-vehicle maker’s sales in Europe decline for a fourth straight month.",
+      "published_utc": "2025-05-28T03:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=295727048c36eb41528c50dea36fc8d7e6c570367a15c2db92b3bcc08c14ea07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715588,
+      "datetime": 1748372460
+    },
+    {
+      "title": "Why Shares in Airbus Took Off Today",
+      "description": "A wide-body aircraft order boosted optimism in Airbus' ability to compete with Boeing in this market.  Boeing and Airbus are struggling to ramp up production to pre-COVID-19 levels, and the new order helps restore confidence in airlines' willingness to place orders despite extended lead times.  Shares in European aerospace giant Airbus (OTC: EADSY) rose by as much as 4% in early-morning trading today.",
+      "published_utc": "2025-05-28T02:27:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=679ef4dc62bfa20d74106abd0fd96998689080f0e8d03306f9a2ce5ebfaae93b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716240,
+      "datetime": 1748370440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:49:02.045442+00:00",
+    "cache_key": "news_7edc24118451dd3fad2d704db285d9cf",
+    "count": 5
+  }
+}

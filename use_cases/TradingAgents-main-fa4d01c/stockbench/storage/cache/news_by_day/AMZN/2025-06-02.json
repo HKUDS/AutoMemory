@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amazon Expands Robotics, AI to Cut Costs, Boost Retail Edge, BofA Says",
+      "description": "Amazon.com (AMZN) is expanding its use of robots and artificial intelligence, projecting \"billions\"",
+      "published_utc": "2025-06-02T23:27:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c560aa0faba5e8e353431242d5041a9c9faa2a3aa4715d04d8673fb750cea3ea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967181,
+      "datetime": 1748878053
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson's TAR-200 monotherapy achieves high disease-free survival of more than 80 percent in BCG-unresponsive, high-risk papillary NMIBC",
+      "description": "Johnson & Johnson (NYSE: JNJ) today announced first results from Cohort 4 of the Phase 2b SunRISe-1 study evaluating TAR-200—an intravesical gemcitabine releasing system—for patients with certain types of bladder cancer. These first results show the promise of TAR-200 in this patient population with more than an 80 percent disease-free survival (DFS) rate without the need for reinduction and 94 percent of patients able to preserve their bladder. The high DFS and bladder preservation rate combine",
+      "published_utc": "2025-04-27T02:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18f8d6331d88f10d62663fee8def8e0fb1fc87ce2674293a991d7bbc486060a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104511,
+      "datetime": 1745690400
+    },
+    {
+      "title": "Johnson & Johnson's TAR-200 monotherapy demonstrates highest complete response rate with sustained clinical benefits in patients with certain types of bladder cancer",
+      "description": "Johnson & Johnson (NYSE: JNJ) today announced new data from Cohort 2 of the pivotal Phase 2b SunRISe-1 study evaluating TAR-200—an intravesical gemcitabine releasing system—for patients with certain types of bladder cancer. The findings demonstrate the highest complete response rate without reinduction with more than half of responders remaining cancer-free for at least 12 months. These results highlight the potential of TAR-200 as a breakthrough for people with Bacillus Calmette-Guérin (BCG)-un",
+      "published_utc": "2025-04-27T01:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fd24502779575242e7caacf5f2585d4d4475156d862e26c6412764d061249c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104512,
+      "datetime": 1745689800
+    },
+    {
+      "title": "These 2 Top Dividend Stocks Are Making Moves to Avoid the Impact of Tariffs: Are They Buys?",
+      "description": "President Donald Trump's macroeconomic policies are taking center stage on Wall Street.  The 47th U.S. president has decided to implement aggressive tariffs on imported goods from most countries, although he recently paused these plans for 90 days.  Regardless, corporations are looking for ways to avoid paying these tariffs.",
+      "published_utc": "2025-04-26T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07d770fe39c0fbd449f0b51cfdd32ba6555d66653a5b51781caf4b5eaf60ef8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104513,
+      "datetime": 1745676900
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) the Best Safe Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 11 Best Safe Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best safe stocks to buy according to hedge funds. In times when you never know what you’ll wake up to […]",
+      "published_utc": "2025-04-26T20:59:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=177f1c7dc091532691364532b8e8e98d69fddb53f26201762f81e9d70d31c036",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104514,
+      "datetime": 1745672385
+    },
+    {
+      "id": "013a2d6715135b4ca82e3e563e32514829358bdfaefd98ee0571a1e41e43e5b8",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Johnson & Johnson’s TAR-200 monotherapy achieves high disease-free survival of more than 80 percent in BCG-unresponsive, high-risk papillary NMIBC",
+      "author": "Johnson & Johnson",
+      "published_utc": "2025-04-26T18:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/26/3068774/0/en/Johnson-Johnson-s-TAR-200-monotherapy-achieves-high-disease-free-survival-of-more-than-80-percent-in-BCG-unresponsive-high-risk-papillary-NMIBC.html",
+      "tickers": [
+        "JNJ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/85723da3-163a-4a4d-bb36-0e46ec3998e6",
+      "description": "Johnson & Johnson's TAR-200 monotherapy demonstrated high disease-free survival rates and bladder preservation in patients with certain types of bladder cancer, showing the potential for TAR-200 as an effective and well-tolerated treatment alternative to surgery.",
+      "keywords": [
+        "bladder cancer",
+        "TAR-200",
+        "disease-free survival",
+        "bladder preservation"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights positive results from Johnson & Johnson's TAR-200 monotherapy, which achieved high disease-free survival rates and bladder preservation in patients with certain types of bladder cancer, demonstrating the potential of this treatment as an effective alternative to surgery."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:21.182749+00:00",
+    "cache_key": "news_f29508b690e228bfa8125233c58523f8",
+    "count": 5
+  }
+}

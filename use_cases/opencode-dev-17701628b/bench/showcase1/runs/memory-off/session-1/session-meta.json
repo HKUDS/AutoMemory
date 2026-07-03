@@ -1,0 +1,21 @@
+{
+  "showcase": "showcase1",
+  "condition": "memory-off",
+  "order": 1,
+  "instance_id": "pytest-dev__pytest-5262",
+  "repo": "pytest-dev/pytest",
+  "base_commit": "58e6a09db49f34886ff13f3b7520dd0bcd7063cd",
+  "expected_files": [
+    "src/_pytest/capture.py"
+  ],
+  "should_verify": true,
+  "dry_run": false,
+  "python_env": {
+    "path": "/data2/junzhou2/opencode/bench/showcase1/runs/memory-off/session-1/repo/.bench-venv",
+    "bin": "/data2/junzhou2/opencode/bench/showcase1/runs/memory-off/session-1/repo/.bench-venv/bin",
+    "python": "/data2/junzhou2/opencode/bench/showcase1/runs/memory-off/session-1/repo/.bench-venv/bin/python",
+    "sourcePython": "/home/anaconda3/bin/python3",
+    "sourcePythonVersion": "3.9.13",
+    "prepared": true
+  }
+}

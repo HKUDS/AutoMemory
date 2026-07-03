@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 150-point drop led by losses for Nike, Merck shares",
+      "description": "Dow's nearly 150-point drop led by losses for Nike, Merck shares",
+      "published_utc": "2025-06-17T21:07:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3ddb146542dde5948152bcdfeacebe21ea8abd6821b7e5785f2e93830eeb1bce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135335191,
+      "datetime": 1750165620
+    },
+    {
+      "title": "Investing in Amgen (NASDAQ:AMGN) five years ago would have delivered you a 47% gain",
+      "description": "When you buy and hold a stock for the long term, you definitely want it to provide a positive return. Better yet, you'd...",
+      "published_utc": "2025-06-17T21:00:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b4994ae73d61a211b51e4d777739f78f97372e5344b388a076c6525180da8f0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135327252,
+      "datetime": 1750165232
+    },
+    {
+      "id": "92db2ddc658eb99dd6759a71370ef6679b036a430d1a578db206acdadd8b48dc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Members of Congress Are Pouring Millions Into These 7 Surprising Stocks",
+      "author": "Neil Rozenbaum",
+      "published_utc": "2025-06-17T13:33:28Z",
+      "article_url": "https://www.fool.com/investing/2025/06/17/members-of-congress-are-pouring-millions-into-thes/?source=iedfolrf0000001",
+      "tickers": [
+        "ADBE",
+        "AMGN",
+        "AMAT",
+        "TSCO",
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/821976/gettyimages-1067591998.jpg",
+      "description": "This article discusses the stock purchases made by members of the U.S. Congress, including Nancy Pelosi and Marjorie Taylor Greene. It provides an overview of the companies and ETFs they have invested in and the potential implications of these investments.",
+      "keywords": [
+        "U.S. Congress",
+        "stock purchases",
+        "Nancy Pelosi",
+        "Marjorie Taylor Greene"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in and recommends Adobe, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in and recommends Amgen, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in and recommends Applied Materials, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "TSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in and recommends Tractor Supply, and also recommends short July 2025 $54 calls on the company, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends UnitedHealth Group, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "title": "Amgen’s Strong Cash Flow Supports Reliable Dividend Payments",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the best next generation dividend aristocrat stocks. The company has built a solid track record of dividend growth, supported by consistent cash generation. In the first quarter of 2025, it generated $1.0 billion in free cash flow, up from $0.5 billion in the same period of 2024. The increase […]",
+      "published_utc": "2025-06-17T11:13:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f083b098dbd8ff8efc6f916ea33de99756c97fa1cd30b24554043319cce30ac9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135317584,
+      "datetime": 1750129987
+    }
+  ]
+}

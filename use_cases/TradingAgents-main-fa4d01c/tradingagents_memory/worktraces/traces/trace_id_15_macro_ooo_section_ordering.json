@@ -1,0 +1,84 @@
+{
+  "trace_id": "trace_id_15_macro_ooo_section_ordering",
+  "memory_path": "macro",
+  "eval_mode": "qa",
+  "focus": "MacroNotes: OOO write_section calls (W01, W03, W05, then backfill W02, W04); read_recent must return N most-recent by ISO week, not by insertion order",
+  "turns": [
+    {"component": "MacroNotes", "args": {"iso_week": "2026-W01", "bullets": ["Fed paused at 4.5% rate hold", "Oil rallied to $80 on supply cuts"], "trade_date": "2026-01-07"}},
+    {"component": "MacroNotes", "args": {"iso_week": "2026-W03", "bullets": ["Retail sales beat +1.2% MoM above consensus", "PMI 51.2 expansion territory signals recovery"], "trade_date": "2026-01-21"}},
+    {"component": "MacroNotes", "args": {"iso_week": "2026-W05", "bullets": ["Trade deal signed boosting global risk appetite", "USD strengthened on rate hold expectations"], "trade_date": "2026-02-04"}},
+    {"component": "MacroNotes", "args": {"iso_week": "2026-W02", "bullets": ["Strong jobs report 240K added unemployment 3.9%", "EUR rate cut expectations rising on weak industrial data"], "trade_date": "2026-01-14"}},
+    {"component": "MacroNotes", "args": {"iso_week": "2026-W04", "bullets": ["FOMC held rates steady signaled two cuts in 2026", "Gold declined on rising real yields as dollar strengthened"], "trade_date": "2026-01-28"}}
+  ],
+  "recall_queries": [
+    {
+      "label": "read_recent_n5_all_five_weeks_present",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 5},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W01"},
+        {"type": "substring", "value": "2026-W02"},
+        {"type": "substring", "value": "2026-W03"},
+        {"type": "substring", "value": "2026-W04"},
+        {"type": "substring", "value": "2026-W05"}
+      ]
+    },
+    {
+      "label": "read_recent_n1_must_return_w05_most_recent",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 1},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W05"},
+        {"type": "not_substring", "value": "2026-W01"},
+        {"type": "not_substring", "value": "2026-W02"},
+        {"type": "not_substring", "value": "2026-W03"},
+        {"type": "not_substring", "value": "2026-W04"}
+      ]
+    },
+    {
+      "label": "read_recent_n2_must_show_w04_and_w05_only",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W04"},
+        {"type": "substring", "value": "2026-W05"},
+        {"type": "not_substring", "value": "2026-W01"},
+        {"type": "not_substring", "value": "2026-W02"},
+        {"type": "not_substring", "value": "2026-W03"}
+      ]
+    },
+    {
+      "label": "read_recent_n3_must_show_w03_w04_w05_only",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W03"},
+        {"type": "substring", "value": "2026-W04"},
+        {"type": "substring", "value": "2026-W05"},
+        {"type": "not_substring", "value": "2026-W01"},
+        {"type": "not_substring", "value": "2026-W02"}
+      ]
+    },
+    {
+      "label": "read_recent_n4_must_show_w02_w03_w04_w05_not_w01",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 4},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W02"},
+        {"type": "substring", "value": "2026-W03"},
+        {"type": "substring", "value": "2026-W04"},
+        {"type": "substring", "value": "2026-W05"},
+        {"type": "not_substring", "value": "2026-W01"}
+      ]
+    },
+    {
+      "label": "read_recent_n1_content_must_be_w05_trade_deal",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 1},
+      "expected_information": [
+        {"type": "substring", "value": "Trade deal"},
+        {"type": "substring", "value": "Last updated: 2026-02-04"}
+      ]
+    }
+  ]
+}

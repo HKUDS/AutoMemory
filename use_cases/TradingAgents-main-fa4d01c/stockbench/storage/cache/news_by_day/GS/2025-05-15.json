@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Group Inc. stock outperforms competitors on strong trading day",
+      "description": "Goldman Sachs Group Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-05-15T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5ac235d607937e9b84458a1af93f1f560bc224ad384e676540183d68b4ea9705",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134469901,
+      "datetime": 1747240440
+    }
+  ]
+}

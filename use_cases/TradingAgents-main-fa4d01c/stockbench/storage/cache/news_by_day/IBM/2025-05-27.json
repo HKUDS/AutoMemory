@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Promise of Quantum Computing",
+      "description": "The race to quantum supremacy is on. While this future will not come tomorrow, big tech companies are building to the technology's \"ChatGPT moment.\"",
+      "published_utc": "2025-05-27T20:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dc15b17c528f5c35324852b9d6f2a2eaccab984548f44f118dd97a1f89114f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715517,
+      "datetime": 1748350500
+    },
+    {
+      "title": "Deutsche Bank Accelerates Digital Transformation with IBM's Software Portfolio",
+      "description": "Deutsche Bank (Frankfurt: DBK) and IBM (NYSE: IBM) today announced a continuation of their partnership in the form of a strategic agreement that grants Deutsche Bank further access to IBM's comprehensive suite of software solutions. This includes IBM's business and IT automation stack, advanced hybrid cloud products, as well as access to the watsonx AI portfolio. Additionally, Deutsche Bank will benefit from the latest upgrades to the IBM Storage Protect software suite.",
+      "published_utc": "2025-05-27T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5c5cd9144f7a9980d63dcb4ad102c3d756c43d8541dcb553fd6c6f9eb41abc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716048,
+      "datetime": 1748347200
+    }
+  ]
+}

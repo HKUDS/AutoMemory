@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple Inc. (AAPL) Faces iPhone Sales Slump in China—Analyst Warns of More Trouble Ahead",
+      "description": "We recently published a list of 11 AI Stocks Shaking Up Wall Street Today. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other AI stocks shaking up Wall Street today. It hasn’t been long since DeepSeek released its efficient yet low-cost models, causing a frenzy in […]",
+      "published_utc": "2025-03-27T06:57:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=915b0c5b6bbcb98bfa4e975069da6c073695f8e8f293f2b5248d8c6c8442df13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461925,
+      "datetime": 1743029863
+    },
+    {
+      "title": "Apple (AAPL) Stock Moves -0.99%: What You Should Know",
+      "description": "Apple (AAPL) closed the most recent trading day at $221.53, moving -0.99% from the previous trading session.",
+      "published_utc": "2025-03-27T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da851116145547b8554a46fd5435671c8f709ef3cdb0ae925b9360c52a1d9ec8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461926,
+      "datetime": 1743025516
+    },
+    {
+      "title": "Jim Cramer Discusses Apple’s (AAPL) $500 Billion Investment & Trump’s Tariff Stance",
+      "description": "We recently published a list of 8 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where Apple (NASDAQ:AAPL) stands against other stocks on Jim Cramer’s radar. On Monday, Jim Cramer, the host of Mad Money, provided his analysis of the day’s market activity, highlighting that stocks had […]",
+      "published_utc": "2025-03-27T04:04:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3086a6679f1984bf12ac6bb726e5de10107f8f9d47bd7b884bac0ed102ba26f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461927,
+      "datetime": 1743019463
+    },
+    {
+      "title": "Here Are 4 Timely Guidelines For How To Handle Market Corrections",
+      "description": "How can you handle stock market corrections? Use 4 proven guidelines to stay protected and get ready to profit in the next uptrend.",
+      "published_utc": "2025-03-27T04:00:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7613f3f451416fe80e6ade492dee5ca0b2005822f54e311273b8f691aa6a2ed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461928,
+      "datetime": 1743019233
+    },
+    {
+      "title": "Apple might up its AI game with a $1 billion order of Nvidia servers, analyst says",
+      "description": "Apple (AAPL) has traditionally not been a big player in artificial intelligence model training or server infrastructure. But that might change pretty soon.",
+      "published_utc": "2025-03-27T03:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e30465f5064364dd0dc1363cab85042ab265951607cde04fddca8d231faf69b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461929,
+      "datetime": 1743018660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:23:09.994410+00:00",
+    "cache_key": "news_e5c9ecf51fee7652b84f2d081aca9381",
+    "count": 5
+  }
+}

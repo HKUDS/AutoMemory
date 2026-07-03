@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "2 No-Brainer Dividend Stocks to Buy With $2,000 Right Now",
+      "description": "American Express and Realty Income are both reliable blue-chip dividend stocks.",
+      "published_utc": "2025-05-12T16:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=321bb8ce577b9dacb1fd94ed99ac5e9524d0d9a66fb165ca0d187c440e7be52a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379390,
+      "datetime": 1747037400
+    },
+    {
+      "title": "GAB: Lack Of Tech Exposure Is A Plus, But This Fund Is Incredibly Expensive",
+      "description": "",
+      "published_utc": "2025-05-12T16:06:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb8ba87d013f965c4fe8326e5e1a8ae62a8a6a96b084ade4aa582687bd12f176",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378210,
+      "datetime": 1747037202
+    }
+  ]
+}

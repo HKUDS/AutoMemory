@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of April 13",
+      "description": "Read here for highlights on recent and upcoming dividend related activity for dividend stocks on the Dividend Champions list.",
+      "published_utc": "2025-04-12T09:27:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e95e93ebd3945294b14d4290660b0e6afef57e4895ae77b28981fce83310d060",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133884206,
+      "datetime": 1744421273
+    },
+    {
+      "id": "8abd9fcc951a54692575cffa5e13fe53948917ca40f494b24498202c3dee6867",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Trump And Xi Jinping's Tariff Threats May Be 'Just For The LOLz,' Says Analyst: 'It's Not Like This Is A Great Financial Crisis'",
+      "author": "Ananya Gairola",
+      "published_utc": "2025-04-12T04:21:42Z",
+      "article_url": "https://www.benzinga.com/news/global/25/04/44777185/trump-and-xi-jinpings-tariff-threats-may-be-just-for-the-lolz-says-analyst-its-not-like-this-is-a-gre",
+      "tickers": [
+        "AAPL",
+        "CARR",
+        "CMI",
+        "CAT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/04/12/Usa-And-China-Flags-On-A-Concrete-Wall--.jpeg?width=1200&height=800&fit=crop",
+      "description": "An analyst downplays the long-term impact of escalating U.S.-China tariff rhetoric, suggesting that the latest threats may be largely symbolic and unlikely to result in sustained economic disruption.",
+      "keywords": [
+        "tariffs",
+        "trade tensions",
+        "U.S.-China",
+        "economic impact"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple relies heavily on Chinese manufacturing for most of its products, placing it squarely in the crosshairs of ongoing trade tensions."
+        },
+        {
+          "ticker": "CARR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Carrier Global leads China's commercial HVAC market with extensive operations, making it vulnerable to the impact of trade tensions."
+        },
+        {
+          "ticker": "F",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Ford Motor Co. tops the list of major U.S. public companies most overexposed to China, scoring high across various risk categories."
+        },
+        {
+          "ticker": "FpB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Ford Motor Co. tops the list of major U.S. public companies most overexposed to China, scoring high across various risk categories."
+        },
+        {
+          "ticker": "FpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Ford Motor Co. tops the list of major U.S. public companies most overexposed to China, scoring high across various risk categories."
+        },
+        {
+          "ticker": "FpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Ford Motor Co. tops the list of major U.S. public companies most overexposed to China, scoring high across various risk categories."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tesla's U.S. energy division risks soaring costs from tariffs on Chinese battery cells, potentially doubling Powerwall and Megapack production expenses."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Coca-Cola is facing cost pressures from tariffs on key ingredients like sucralose, which may impact profitability."
+        },
+        {
+          "ticker": "CMI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Cummins maintains deep ties to China through joint ventures and clean energy initiatives, making it vulnerable to trade tensions."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "RTX Corp. has thousands of Chinese suppliers and has admitted that decoupling is unfeasible."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Honeywell has begun adding surcharges due to tariff-related supply disruptions."
+        },
+        {
+          "ticker": "DIS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Disney's CEO has raised alarms about the broader impact of tariffs."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Caterpillar is confronting shrinking competitiveness as Chinese buyers turn to alternative suppliers."
+        }
+      ]
+    }
+  ]
+}

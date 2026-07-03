@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Likes International Business Machines Corporation (IBM) for Reliability",
+      "description": "We recently published a list of Jim Cramer’s Game Plan for Next Week: 25 Stocks in Focus. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, the host of Mad Money, walked viewers through what […]",
+      "published_utc": "2025-04-22T01:13:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec7df7228118a8c1c1a371cfd9c14afb80e2dcafdb79bc76a501d08059bd9330",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026361,
+      "datetime": 1745255612
+    }
+  ]
+}

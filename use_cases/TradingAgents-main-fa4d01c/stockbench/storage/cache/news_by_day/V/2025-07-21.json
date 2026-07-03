@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "WEX or V: Which Is the Better Value Stock Right Now?",
+      "description": "WEX vs. V: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-07-21T23:40:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35f87d14b95d45ad296db2e78b7dd034480f2ce44934fe902ed169de47b79ef5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031234,
+      "datetime": 1753112404
+    },
+    {
+      "title": "Wall Street Analysts Think Visa (V) Is a Good Investment: Is It?",
+      "description": "The average brokerage recommendation (ABR) for Visa (V) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "published_utc": "2025-07-21T21:30:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec248b10d0d5e7e3364ac38c7adfec9cbe473bb8bbac7279fb14dbcaa4d18efb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025391,
+      "datetime": 1753104605
+    },
+    {
+      "title": "Affinity Federal Credit Union President’s Invitational Golf Outing Raises $214,000 in Support of Affinity Foundation",
+      "description": "BASKING RIDGE, N.J., July 21, 2025--Affinity Federal Credit Union (\"Affinity\") recently hosted its annual President’s Invitational Golf Outing, raising over $214,000 for the Affinity Foundation (\"Foundation\"). The event, held on June 9, 2025, welcomed 126 golfers along with additional guests and 35 sponsors.",
+      "published_utc": "2025-07-21T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9affbbd5350f957dc13961c775b9dd5c2bd0dee1bae8ec70667e3d7fec55b989",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025392,
+      "datetime": 1753102800
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Stock Sees RS Rating Improve To 74",
+      "description": "A Relative Strength Rating upgrade for Sherwin-Williams shows improving technical performance. Will it continue?",
+      "published_utc": "2025-03-11T02:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5443a543388e575ae420167384b068fc0110991fa4de0bcae58cfd6cf3e4096d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186486,
+      "datetime": 1741630380
+    },
+    {
+      "title": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
+      "description": "Sherwin-Williams Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-03-11T00:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=90e4cb06c7e037ec82683c304ae1d4497a3ea233ff4bd60770b09019608b853d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133154484,
+      "datetime": 1741624800
+    },
+    {
+      "title": "Paint company Sherwin-Williams downgraded amid housing market’s dour outlook",
+      "description": "Investing.com -- Jefferies downgraded Sherwin-Williams Co (NYSE:SHW) to \"Hold\" from \"Buy\" also cutting its price target by 10% to $380 amid concerns over a weakening housing market and broader economic uncertainty that could dampen demand for paint.",
+      "published_utc": "2025-03-10T22:35:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4401ce6abba52928bcc2067da879fa3eb290e35b4554f62ef4307efcab011a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186487,
+      "datetime": 1741617353
+    },
+    {
+      "title": "Jefferies Downgrades Sherwin-Williams (SHW)",
+      "description": "",
+      "published_utc": "2025-03-10T19:51:08",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=eae4803f5cc91287059f3a0f30f3a690883c72b1d3b4f85ea0730e79ab025e43",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133117163,
+      "datetime": 1741607468
+    },
+    {
+      "title": "ClearBridge ESG Investment Strategy Q4 2024 Commentary",
+      "description": "The importance of scale represents a key tenet of ClearBridgeâs approach to ESG integration. Click here to read more.",
+      "published_utc": "2025-03-10T17:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7a7ff8351e42b1296add3297746f1a78981491ccbd4536031cefc9098c7b0f72",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2139639268/image_2139639268.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133117502,
+      "datetime": 1741598400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:57.393496+00:00",
+    "cache_key": "news_0705213b92c7fabba066514f14ac3b19",
+    "count": 5
+  }
+}

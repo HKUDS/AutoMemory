@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "title": "Broadcom, CrowdStrike To Report Results As Investors Look To Jobs Report",
+      "description": "Broadcom, CrowdStrike to report results as investors eye jobs report. EU inflation data for last month will be out on Monday. Stay updated on the week ahead with this release.",
+      "published_utc": "2025-03-01T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce70a1600af8d208150b82733b23bb754de584808b630dab4579c99d45b3bf4d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132937994,
+      "datetime": 1740826800
+    },
+    {
+      "id": "7440584620ab8623eb1b3697526ad18830be2a62ec00d693a0f58cac3b3e9c23",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Financial Stocks to Buy With $200 Right Now",
+      "author": "Leo Sun",
+      "published_utc": "2025-03-01T08:41:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/the-smartest-financial-stocks-to-buy-with-200-righ/?source=iedfolrf0000001",
+      "tickers": [
+        "SPGI",
+        "AXP",
+        "NU"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808794/investor-smiling-tablet-outdoor-background.jpg",
+      "description": "The article discusses three financial stocks that could be resilient investments in 2024 despite macroeconomic challenges: S&P Global, American Express, and Nu Holdings. It highlights the companies' growth potential, business models, and valuations.",
+      "keywords": [
+        "financial stocks",
+        "S&P Global",
+        "American Express",
+        "Nu Holdings",
+        "resilient investments"
+      ],
+      "insights": [
+        {
+          "ticker": "SPGI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights S&P Global's steady growth, integration of AI tools, and evergreen business model, which justify its premium valuation."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises American Express' business model, which insulates it from economic downturns and interest rate swings, and its steady growth potential."
+        },
+        {
+          "ticker": "NU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article emphasizes Nu Holdings' rapid growth as the largest digital-only bank in Latin America, its expanding ecosystem, and its potential to capitalize on the region's unbanked population."
+        }
+      ]
+    }
+  ]
+}

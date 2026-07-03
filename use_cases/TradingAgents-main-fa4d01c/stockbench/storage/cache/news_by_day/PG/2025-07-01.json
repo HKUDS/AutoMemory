@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Procter & Gamble Company (PG) One of 24 Original Dividend Aristocrats Still in the Index",
+      "description": "The Procter & Gamble Company (NYSE:PG) is included among the 11 Best Dividend Aristocrat Stocks to Invest in Now. The initial version of the S&P Dividend Aristocrats list was introduced in January 2003, highlighting the S&P companies that had maintained consistent dividend payments for 25 consecutive years. The list gained attention, especially after Microsoft declared […]",
+      "published_utc": "2025-07-01T05:15:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b580cea42a190a8d868d0f13b64e2ff382907b1b8f988d86b99ee57b72044a36",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677028,
+      "datetime": 1751318142
+    }
+  ]
+}

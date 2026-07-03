@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "America’s Heartland Is Coming Back. Can the Recovery Last?",
+      "description": "America’s Heartland Is Coming Back. Can the Recovery Last?",
+      "published_utc": "2025-04-11T21:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=480bac1d652d9eb1dfb1f3a77f9251ef586a4e6eeb10d1b4ec59b4d96c572d3b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133889501,
+      "datetime": 1744378500
+    }
+  ]
+}

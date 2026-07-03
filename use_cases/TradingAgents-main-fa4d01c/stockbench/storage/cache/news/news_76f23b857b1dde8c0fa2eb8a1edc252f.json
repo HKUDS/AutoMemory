@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Apple Inc. (AAPL): China Risks Create a Chess Game for Investors",
+      "description": "We recently published a list of Jim Cramer Talks About Elon Musk & Discusses These 11 Stocks. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that Jim Cramer recently discussed. In a recent appearance on CNBC’s Squawk on the Street, Jim Cramer commented that […]",
+      "published_utc": "2025-04-29T07:14:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e677309ac3b87c35e36de97a783c69d96047def19f9be08a0f847b41c0d53a79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130715,
+      "datetime": 1745882071
+    },
+    {
+      "title": "Is Apple Inc. (AAPL) the Best Stock to Buy According to Billionaire Warren Buffett?",
+      "description": "We recently published a list of 10 Best Stocks to Buy According to Billionaire Warren Buffett. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other best stocks to buy according to billionaire Warren Buffett. Known and admired for his success, wealth and philanthropy, Warren Buffett is […]",
+      "published_utc": "2025-04-29T06:20:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=abb1b30ddcfa7d20174f002e692a0e294e8e81ce6edfc8ae6b09398086a238c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130716,
+      "datetime": 1745878814
+    },
+    {
+      "title": "Jim Cramer Says Washington Doesn’t ‘Care’ About Apple (AAPL) $500 Billion Investment, Services Jobs",
+      "description": "We recently published a list of Top 10 Stocks to Watch as Investors Brace for Recession. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other top stocks to watch as investors brace for recession. Despite some optimism in the market after President Donald Trump’s indication of […]",
+      "published_utc": "2025-04-29T04:48:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f1f6a9e61e8a43bc2cbe5ce8e8b50b9b7e51e0ee10819ea9fdd740c4be0a363",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130717,
+      "datetime": 1745873315
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500 erase slide to rise for 5th straight day in lead up to Big Tech earnings",
+      "description": "US stocks fluctuated on Monday with investors focused on Big Tech earnings for the week ahead.",
+      "published_utc": "2025-04-29T04:01:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c70b4db73ee45c4085cff750dd63d205447cb843904ad9f10f9baf69aee3a89",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130718,
+      "datetime": 1745870496
+    },
+    {
+      "title": "My 10 Must-Own Dividend Stocks For Your Retirement Portfolio (One Yields 9.65%)",
+      "description": "Discover 10 must-own dividend stocks to boost retirement income. Blend growth, income & appreciation with picks like Microsoft, Visa & Chevron.",
+      "published_utc": "2025-04-29T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e7f58de6c31b636bb72d0a835eb822ea34a52ee7aacaa5c85a9f66845e36a38d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1782231699/image_1782231699.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134119712,
+      "datetime": 1745863200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:31.572573+00:00",
+    "cache_key": "news_76f23b857b1dde8c0fa2eb8a1edc252f",
+    "count": 5
+  }
+}

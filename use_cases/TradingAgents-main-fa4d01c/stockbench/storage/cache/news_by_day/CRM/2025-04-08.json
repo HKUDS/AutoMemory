@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "A Salesforce board member bought $1 million in stock near recent lows. He has a good track record.",
+      "description": "A Salesforce board member bought $1 million in stock near recent lows. He has a good track record.",
+      "published_utc": "2025-04-08T02:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ea9a1481eff7a4cd60a6bd2ed2b39e005cea5ed9869a7088848ac8100023f907",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133772669,
+      "datetime": 1744050000
+    },
+    {
+      "title": "Salesforce Director Bought $1 Million of Stock After Tariff Tumble",
+      "description": "Salesforce Director Bought $1 Million of Stock After Tariff Tumble",
+      "published_utc": "2025-04-08T00:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f78b35b7e01656ba494de69dcf931f815493bc6c27480930cb150c3680b56df8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147187,
+      "datetime": 1744043880
+    }
+  ]
+}

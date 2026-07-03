@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Meta's Llama AI Team Suffers Talent Exodus As Top Researchers Join $2B Mistral AI, Backed By Andreessen Horowitz And Salesforce",
+      "description": "Mistral AI, a Paris-based startup founded by former Meta (NASDAQ:META) researchers Guillaume Lample and Timothée Lacroix, is rapidly emerging as a key player in the open-source AI space, and it's doing so with Meta‘s top talent. The tech giant is contending with a major loss of talent within its AI division as the architects behind its flagship Llama models exit the company. According to Business Insider, only three of the 14 researchers credited on the 2023 Llama paper remain employed at Meta.",
+      "published_utc": "2025-06-01T07:11:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=092ddf92ba08550b1f393e8ba03c889daaabbe30fa05c9d51800a77bda23df79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134921045,
+      "datetime": 1748733116
+    }
+  ]
+}

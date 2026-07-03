@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "A Quiet March Will Bring Annual Increases From Seven More Dividend Growth Companies",
+      "description": "",
+      "published_utc": "2025-03-04T00:42:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=63616287815d15e2f9fde5321354254da4df570562a4228a86e0a351545ebc30",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132968517,
+      "datetime": 1741020128
+    },
+    {
+      "title": "Dow's 125-point drop led by losses in NVIDIA Corp., Amazon.com Inc. stocks",
+      "description": "Dow's 125-point drop led by losses in NVIDIA Corp., Amazon.com Inc. stocks",
+      "published_utc": "2025-03-03T19:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=143a39f1d2c11ffa04e536f5208a903a9941519cd71ac3b86ff83dbabec6cc7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955675,
+      "datetime": 1741001400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:12.725229+00:00",
+    "cache_key": "news_2f7ae26da0ef7927a7970661fe557612",
+    "count": 2
+  }
+}

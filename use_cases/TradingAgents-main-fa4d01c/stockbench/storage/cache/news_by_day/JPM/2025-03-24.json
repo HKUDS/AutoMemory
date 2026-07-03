@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Low Duration Bond Fund Q4 2024 Review",
+      "description": "BlackRock Low Duration Bond Fund posted returns of 0.02% (Institutional shares) and 0.06% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-24T05:09:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e7ef641b28b0ab73f2ac69e2bea87db226e9bce63acd5a3faf9dd31ee5f9814",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1558910636/image_1558910636.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133332996,
+      "datetime": 1742764140
+    },
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Most Undervalued Dividend Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 7 Most Undervalued Dividend Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other most undervalued dividend stocks to buy according to hedge funds. Stock prices took a steep hit in March […]",
+      "published_utc": "2025-03-24T01:57:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be1e7be5c08a8d22953da3bad908d174764a596ca9eccedee85afbcc8013384a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133337768,
+      "datetime": 1742752641
+    }
+  ]
+}

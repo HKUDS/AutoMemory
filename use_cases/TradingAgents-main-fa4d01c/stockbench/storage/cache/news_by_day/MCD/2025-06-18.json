@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Redburn Atlantic Downgrades McDonald’s (MCD) Stock, Cuts PT",
+      "description": "McDonald’s Corporation (NYSE:MCD) is one of the 10 stocks that Jim Cramer and analysts are watching. On June 10, Redburn Atlantic analyst Chris Luyckx double downgraded the stock from Buy to Sell and lowered the price target to $260 from $319. The firm believes weight-loss drugs like GLP-1 could hurt demand over time and sees […]",
+      "published_utc": "2025-06-18T21:55:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ae98259568571eb9854dbb2aee7951f8f5078ee2ac43b6eb9aba117d75e1b1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370873,
+      "datetime": 1750254937
+    },
+    {
+      "title": "The Top 5 Analyst Questions From McDonald's’s Q1 Earnings Call",
+      "description": "McDonald’s faced a challenging Q1, as revenue came in below Wall Street expectations and same-store sales declined. Management attributed these results to mounting economic pressure on lower and middle income consumers, particularly in the U.S., where CEO Chris Kempczinski noted, “QSR traffic from middle income consumers fell nearly as much as the low income cohort.” Severe weather, continued inflation, and broader macroeconomic uncertainty also weighed on performance. Despite these headwinds, M",
+      "published_utc": "2025-06-18T20:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bad1fdd212064f9c482b2c4149509d79ef5eefeb798193f7d071c5f2ef630230",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370874,
+      "datetime": 1750249860
+    },
+    {
+      "title": "Frozen Potato Product Market Insights 2025, Analysis and Forecasts to 2030: McCain and Simplot Lead Frozen Potato Innovation Wave",
+      "description": "Frozen potato products, vital in quick-service restaurants, are projected to hit a market size of USD 24-26 billion by 2025 with a CAGR of 1%-2% through 2030. Industry giants like McCain Foods, Lamb Weston, and J.R. Simplot lead due to global supply chains. Growth drivers include QSR expansion and convenience food demand.Dublin, June 18, 2025 (GLOBE NEWSWIRE) -- The \"Frozen Potato Product Global Market Insights 2025, Analysis and Forecast to 2030, by Manufacturers, Regions, Technology, Applicati",
+      "published_utc": "2025-06-18T18:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17f9d16f1ea5177681e6a7e02cb78e231a3b27e0899b40e70db7d22e81761e12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370875,
+      "datetime": 1750242840
+    }
+  ]
+}

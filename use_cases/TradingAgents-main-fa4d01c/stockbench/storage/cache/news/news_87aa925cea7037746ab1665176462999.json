@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "title": "Everyone wants to be a bank now. Banks aren’t happy about it.",
+      "description": "Mainstream lenders are fighting back against a new push by automakers and crypto companies to secure new US banking charters, arguing they would pose risks and bypass some regulatory checks.",
+      "published_utc": "2025-07-20T21:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7da27ea3af67ee723cab8b8769580573ec02251d2da2ad6448e7b643e8ecbe99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019711,
+      "datetime": 1753016404
+    },
+    {
+      "id": "7dd5b72b6c7c0584eeb5f40150e2eb5174ff7f57d34432642891173e7eee9cd3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons to Buy Realty Income Stock Like There's No Tomorrow",
+      "author": "Will Healy",
+      "published_utc": "2025-07-20T07:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/20/3-reasons-buy-realty-income-stock-no-tomorrow/?source=iedfolrf0000001",
+      "tickers": [
+        "O",
+        "WMT",
+        "HD",
+        "TSCO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/825244/realty_income_logo_on_smartphone_ai_o.jpg",
+      "description": "Realty Income, a real estate investment trust (REIT), offers an attractive investment opportunity with a consistent monthly dividend, stable property portfolio, and potential for growth as interest rates stabilize.",
+      "keywords": [
+        "REIT",
+        "dividend",
+        "real estate",
+        "investment",
+        "interest rates"
+      ],
+      "insights": [
+        {
+          "ticker": "O",
+          "sentiment": "positive",
+          "sentiment_reasoning": "High monthly dividend yield (5.6%), stable property portfolio with 98.5% occupancy, consistent dividend increases since 1994, low valuation, and potential for growth as interest rates decline"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a stable tenant in Realty Income's property portfolio"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a stable tenant in Realty Income's property portfolio"
+        },
+        {
+          "ticker": "TSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a stable tenant in Realty Income's property portfolio"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:09:38.743323+00:00",
+    "cache_key": "news_87aa925cea7037746ab1665176462999",
+    "count": 2
+  }
+}

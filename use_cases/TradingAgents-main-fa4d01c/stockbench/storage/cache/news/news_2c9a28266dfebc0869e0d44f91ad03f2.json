@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Contrafund Q4 2024 Review",
+      "description": "For Q4 2024, the Fidelity Contrafund's Retail Class shares gained 3.56%, topping the 2.41% advance of the S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-02-06T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a0a5a73483fa9fd7e332d0b4cf17231696a722fb5cfb954e54a0be6eb6011ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952762622/image_952762622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569795,
+      "datetime": 1738794900
+    },
+    {
+      "title": "Elizabeth Warren Agrees With Trump: Big Banks Discriminate",
+      "description": "Elizabeth Warren Agrees With Trump: Big Banks Discriminate",
+      "published_utc": "2025-02-05T20:50:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d86a39744c0e72531e32b5ed7c5fd16fd8c2a4390a6378115cf06f91df0ec85e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564390,
+      "datetime": 1738759800
+    },
+    {
+      "title": "Chase to Open 24 Branches in Alabama, Create More Than 170 Jobs",
+      "description": "JPMorganChase plans to more than triple the number of branches in Alabama by 2030...",
+      "published_utc": "2025-02-05T20:02:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e661a8f99395b9a47ea4c9859fe43caae795dd4699fa07c91c752f902e2cea53",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132563251,
+      "datetime": 1738756924
+    },
+    {
+      "title": "Franklin Income SMA Q4 2024 Commentary",
+      "description": "US stocks collectively rose in the fourth quarter of 2024 despite retreating in December. Read more here.",
+      "published_utc": "2025-02-05T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f027c554676430d7d151c524dfdac6397a4fd1493ee08f271ada9ccaec5809af",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403196687/image_1403196687.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132562057,
+      "datetime": 1738743300
+    },
+    {
+      "title": "Gator Capital Management Q4 2024 Investor Letter",
+      "description": "During the 4th quarter of 2024, the Gator Financial Partners, LLC performed well, outperforming both the broader market and the Financials sector benchmark.",
+      "published_utc": "2025-02-05T12:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c6342f5363ef4f93f1f542b67dc0cebe55301bb937e9fb5e4533c0b0c779f0eb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/182177306/image_182177306.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132560123,
+      "datetime": 1738730700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:22.069498+00:00",
+    "cache_key": "news_2c9a28266dfebc0869e0d44f91ad03f2",
+    "count": 5
+  }
+}

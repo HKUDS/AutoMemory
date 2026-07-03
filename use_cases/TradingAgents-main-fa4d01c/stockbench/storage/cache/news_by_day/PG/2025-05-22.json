@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "VDC: Hold And Wait For A Better Gauge On Economic Direction",
+      "description": "",
+      "published_utc": "2025-05-22T07:39:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc690b35d1b5ab5afcd1f20a50cb2336ff661788c73302d9adf6558c9d058089",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631848,
+      "datetime": 1747870753
+    }
+  ]
+}

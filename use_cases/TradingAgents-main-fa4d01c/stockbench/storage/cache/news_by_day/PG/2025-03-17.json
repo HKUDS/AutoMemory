@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Walmart, IBM share gains contribute to Dow's nearly 150-point climb",
+      "description": "Walmart, IBM share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-03-17T18:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a53c0faeb21898afb09840619ed2f87d13880295bc25ed2f12f1a99fccbeb1f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213599,
+      "datetime": 1742208900
+    }
+  ]
+}

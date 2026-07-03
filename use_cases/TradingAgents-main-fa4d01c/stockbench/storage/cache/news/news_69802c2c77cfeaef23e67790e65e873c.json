@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Visa (V): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Visa on Max Dividends’s Substack. As of 2ⁿᵈ July, Visa’s share was trading at $354.22. V’s trailing and forward P/E were 35.60 and 27.98 respectively according to Yahoo Finance. Visa (V) is the global leader in digital payments, providing transaction processing infrastructure that connects consumers, merchants, financial institutions, […]",
+      "published_utc": "2025-07-15T07:51:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b70d706ff90127642157496b122776a5e25609d0d168ef01fd0d71ddc24b5c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135934186,
+      "datetime": 1752537093
+    },
+    {
+      "title": "Australia looks to scrap surcharges on most card payments",
+      "description": "SYDNEY (Reuters) -Australia's central bank on Tuesday proposed to scrap surcharges on most debit and credit card payments for consumers while lowering interchange fees paid by businesses, steps it estimated would save the two groups around A$2.4 billion ($1.57 billion) a year.  In a consultation paper on the proposals, the Reserve Bank of Australia said surcharges and fees were no longer in the public interest and invited feedback from interested parties by August 26.  The RBA judged that surcharges on debit and credit cards, including Mastercard and Visa, no longer achieved the intended purpose of steering consumers to make more efficient payment choices.",
+      "published_utc": "2025-07-15T07:50:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2df6b8ae82a65391a1eefabb5a30f0d3429b8e2e04f4374ea87b307ebf33d638",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135933144,
+      "datetime": 1752537028
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "description": "Financial stocks rose in late Monday afternoon trading with the NYSE Financial Index gaining 0.5% an",
+      "published_utc": "2025-07-15T03:55:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d9096a9ef80598a452146c78a748b71556804bec034e4f604ea7c7e652d832c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932043,
+      "datetime": 1752522942
+    },
+    {
+      "title": "Sector Update: Financial",
+      "description": "Financial stocks were rising in late Monday afternoon trading, with the NYSE Financial Index and the",
+      "published_utc": "2025-07-15T03:27:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3968b4dc8b2f50ada583bbe0864a3a1ae81df25ac05847ac666293fef3b5546d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135934189,
+      "datetime": 1752521276
+    },
+    {
+      "title": "Liberty All-Star® Equity Fund June 2025 Monthly Update",
+      "description": "BOSTON, July 14, 2025--Below is the June 2025 Monthly Update for the Liberty All-Star Equity Fund (NYSE: USA).",
+      "published_utc": "2025-07-15T02:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=048e312cee35cde765575e824acbbfd611969ded8b62c7d97a95580471469cc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932931,
+      "datetime": 1752517140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:30.024521+00:00",
+    "cache_key": "news_69802c2c77cfeaef23e67790e65e873c",
+    "count": 5
+  }
+}

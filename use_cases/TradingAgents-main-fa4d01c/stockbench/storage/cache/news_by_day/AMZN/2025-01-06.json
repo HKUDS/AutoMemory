@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Here Are 5 Stocks That I Believe Will Perform Very Strongly In 2025",
+      "description": "I don't believe we will have a year as successful as 2024 in the markets. Check out the five stocks that, I believe, will perform very strongly this year.",
+      "published_utc": "2025-01-06T05:07:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=375d1b981860c10bbf370b7912b862c17ff8a42d885d374941365570ebc3c462",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1609437977/image_1609437977.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281872,
+      "datetime": 1736111250
+    },
+    {
+      "title": "Amazon’s Prime Video Acquires Melania Trump Film",
+      "description": "Amazon.com  Prime Video streaming service has licensed what it said was a documentary about former and future first lady  Melania Trump.  The film is being done with her cooperation, and she will have an executive producer credit on the movie, Amazon said Sunday.  Filming of the “behind-the-scenes” look at her life began in December, a month after President-elect  Donald Trump’s  election victory.",
+      "published_utc": "2025-01-06T03:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dc2774aad0eaf522a50e27f742eaebf98fd01afca1a0d0907012561f8c485a1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132280383,
+      "datetime": 1736104020
+    }
+  ]
+}

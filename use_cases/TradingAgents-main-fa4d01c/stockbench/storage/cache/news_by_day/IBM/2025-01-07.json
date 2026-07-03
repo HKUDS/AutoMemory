@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corp. stock rises Monday, still underperforms market",
+      "description": "International Business Machines Corp. stock rises Monday, still underperforms market",
+      "published_utc": "2025-01-07T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a156a11e741fe24df124de9a6dc928131f5a4d0c833709230b83dbfe027a6cec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322784,
+      "datetime": 1736181360
+    }
+  ]
+}

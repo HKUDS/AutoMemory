@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth (UNH) Faces Sell Call Amid Margin Squeeze, Regulatory Risks",
+      "description": "Independent investor flags structural headwinds; Wall Street remains cautiously bullish",
+      "published_utc": "2025-06-04T05:19:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f39eadfc32ddcd33b162ca00a9621d50fb1aa9aead4ff0284df2b9520a9262c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135003543,
+      "datetime": 1748985563
+    }
+  ]
+}

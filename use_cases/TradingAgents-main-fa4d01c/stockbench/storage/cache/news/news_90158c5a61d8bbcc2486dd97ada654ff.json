@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Research Reports for Visa, ServiceNow & Progressive",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Visa Inc. (V), ServiceNow, Inc. (NOW) and The Progressive Corporation (PGR), as well as two micro-cap stocks The Monarch Cement Company (MCEM) and Precipio, Inc. (PRPO).",
+      "published_utc": "2025-04-22T04:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db8b0e6109c1a0e71cb02dda6d3fbbed439726fe1ea88079842393bb03f675bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031896,
+      "datetime": 1745268540
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Monday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-04-22T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f464b892ecf0c4f153e4d8d3be4e9b534fcbadf9e11debe27c3f4c2b11f5bd1d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052752,
+      "datetime": 1745253060
+    },
+    {
+      "title": "How To Build A $500,000 Dividend Portfolio That Could Yield 18.35% In 20 Years",
+      "description": "",
+      "published_utc": "2025-04-21T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e6e3fa32e40da513514f0f565d1f27638b2825a954a29a44461dbeec46ac129",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025125,
+      "datetime": 1745244000
+    },
+    {
+      "title": "Visa's Global Product Drop Set for April 30th",
+      "description": "SAN FRANCISCO - Visa today announced its Product Drop event is scheduled for April 30 in San Francisco. At the event, Visa CEO Ryan McInerney and Visa Chief Product and Strategy Officer Jack Forestell...",
+      "published_utc": "2025-04-21T19:52:32",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aa82df716626b96e44ce94a66f6dc2497d89c0685c3d0b382153afffd89e4d47",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134023684,
+      "datetime": 1745236352
+    },
+    {
+      "title": "The Elephant In The Room - March Dividend Income Report",
+      "description": "",
+      "published_utc": "2025-04-21T14:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e1a74124ecd2ba7ccb56d31dae4fd4a98c49f60faaa31c899e9496652a31ed6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134021078,
+      "datetime": 1745217000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:19.996222+00:00",
+    "cache_key": "news_90158c5a61d8bbcc2486dd97ada654ff",
+    "count": 5
+  }
+}

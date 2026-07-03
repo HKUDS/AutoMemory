@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW) Struggled Due To DIY Sluggishness, Says Jim Cramer",
+      "description": "We recently published 11 Stocks That Jim Cramer Recently Talked About. The Sherwin-Williams Company (NYSE:SHW) is one of the stocks Jim Cramer recently discussed. The Sherwin-Williams Company (NYSE:SHW) is one of the biggest paint and chemicals companies in the US. Its shares are flat year-to-date on the back of several factors such as analyst downgrades […]",
+      "published_utc": "2025-07-30T04:16:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=074f266f0dc2827eaa5328aa6b84c9ee34a98a7b33885273a6c944bc1981442b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129727,
+      "datetime": 1753820180
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) Fell Because Of Sherwin-Williams, Says Jim Cramer",
+      "description": "We recently published 11 Stocks That Jim Cramer Recently Talked About. The Home Depot, Inc. (NYSE:HD) is one of the stocks Jim Cramer recently discussed. The Home Depot, Inc. (NYSE:HD) is one of the largest home improvement retailers in America. Its shares have lost 2.9% year-to-date due to persistent sluggishness in the housing market. In […]",
+      "published_utc": "2025-07-30T04:15:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=839f9f956c0ce4730996af336a18bad1e2edeef08d53deafc52830c139f4f429",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129728,
+      "datetime": 1753820128
+    },
+    {
+      "title": "SPAR Group Announces Relocation of Corporate Headquarters",
+      "description": "AUBURN HILLS, Mich., July 29, 2025--SPAR Group is proud to announce the relocation of its corporate headquarters to Charlotte, North Carolina.",
+      "published_utc": "2025-07-30T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cd9a0ddf403a2cd640514443ccb7c996cec44f69c59bb7b20a52f7b39d4df6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119145,
+      "datetime": 1753804800
+    },
+    {
+      "title": "The Home Depot unveils 2025 Halloween collection",
+      "description": "The Home Depot reveals its 2025 Halloween collection, which promises to captivate decorators of all styles and budgets. Products will be available for purchase on HomeDepot.com and The Home Depot app starting August 4, and the collection can be previewed online now.Halloween products will hit Home Depot store shelves this fall.",
+      "published_utc": "2025-07-29T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a11595fb991aacb519728f96f68caa178c39907fac5807eb52edc1d79448c11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136116978,
+      "datetime": 1753790400
+    },
+    {
+      "title": "Franklin Income Fund Q2 2025 Commentary",
+      "description": "US stocks advanced during the second quarter of 2025 as equity markets rebounded from Aprilâs lows and continued to rally through June, despite bouts of volatility.",
+      "published_utc": "2025-07-29T16:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da0dbacd777c2f6ccb23261d15768f51b81587626d916c67f2edf73873cfdaa1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1359134494/image_1359134494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136116824,
+      "datetime": 1753777200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:13:49.413653+00:00",
+    "cache_key": "news_5678ec9fba24f600fdc11dd1639124aa",
+    "count": 5
+  }
+}

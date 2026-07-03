@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com (NasdaqGS:AMZN) Expands AWS Presence With US$5 Billion Data Center Investment In Taiwan",
+      "description": "Amazon.com (NasdaqGS:AMZN) recently announced the launch of its AWS Asia Pacific (Taipei) Region, highlighting a $5 billion investment in data center infrastructure. This expansion, coupled with a $10 billion investment in North Carolina to bolster AI and cloud computing capabilities, underscores Amazon's commitment to innovation and business growth. These significant developments align with Amazon's overall strategic objectives and may enhance its market position. The company's share price...",
+      "published_utc": "2025-06-08T01:12:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cca3e3bf9adf82fc4608e37c425e4eebb3871dfdb7065da06e5d3141cee8f4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135109198,
+      "datetime": 1749316342
+    }
+  ]
+}

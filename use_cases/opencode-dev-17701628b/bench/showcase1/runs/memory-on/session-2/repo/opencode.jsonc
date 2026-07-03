@@ -1,0 +1,8 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "memory": {
+    "enabled": true
+  },
+  "model": "openrouter/minimax/minimax-m2.7",
+  "memory_model": "openrouter/minimax/minimax-m2.7"
+}

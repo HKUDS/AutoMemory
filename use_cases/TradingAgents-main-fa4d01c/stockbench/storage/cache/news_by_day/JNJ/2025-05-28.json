@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ) Presents at the Bernstein's 41st Annual Strategic Decisions Conference (Transcript)",
+      "description": "Johnson &amp; Johnson (NYSE:JNJ) Bernsteinâs 41st Annual Strategic Decisions Conference Call May 28, 2025 9:00 AM ETCompany ParticipantsJoaquin Duato -...",
+      "published_utc": "2025-05-28T22:31:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c806fae89df1ca55f71c90ce41575dfded60415e62656ee97f890c35e513d9c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134753729,
+      "datetime": 1748442669
+    },
+    {
+      "title": "Boston Scientific ends TAVR sales; J&J shares Monarch robot data",
+      "description": "Boston Scientific said it would halt worldwide sales of its Acurate devices due to “increased clinical and regulatory requirements.”",
+      "published_utc": "2025-05-28T22:08:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb8c94d8924e8377eaf93092486e0c7bdcdba37b1e7c650764bde8dcf8d0143d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134772185,
+      "datetime": 1748441293
+    }
+  ]
+}

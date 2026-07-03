@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "4a987f5c0ea97301d712b80c034b8a3be18d4f52a8358d23673c26c6c2cdc671",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "DNUT INVESTOR ALERT: Kirby McInerney LLP Notifies Krispy Kreme, Inc. Investors of Upcoming Lead Plaintiff Deadline in Class Action Lawsuit",
+      "author": "Kirby Mcinerney Llp",
+      "published_utc": "2025-06-14T00:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/06/14/3099344/937/en/DNUT-INVESTOR-ALERT-Kirby-McInerney-LLP-Notifies-Krispy-Kreme-Inc-Investors-of-Upcoming-Lead-Plaintiff-Deadline-in-Class-Action-Lawsuit.html",
+      "tickers": [
+        "DNUT",
+        "MCD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/192da1d1-643f-4eee-b850-dde5b9f2b00f",
+      "description": "Krispy Kreme, Inc. (DNUT) is facing a class action lawsuit due to declining sales and profitability related to its partnership with McDonald's.",
+      "keywords": [
+        "Krispy Kreme",
+        "McDonald's",
+        "class action lawsuit",
+        "declining sales",
+        "profitability"
+      ],
+      "insights": [
+        {
+          "ticker": "DNUT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that Krispy Kreme is facing a class action lawsuit due to declining sales and profitability related to its partnership with McDonald's, which suggests the company is facing negative business outcomes."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the partnership between Krispy Kreme and McDonald's was not profitable, which has led to Krispy Kreme reassessing the deployment schedule with McDonald's, indicating a negative impact on both companies."
+        }
+      ]
+    }
+  ]
+}

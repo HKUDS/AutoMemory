@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "This 1 New Move by Goldman Sachs Could Boost Bitcoin, Ethereum, and Maybe Even XRP",
+      "description": "The famous investment bank Goldman Sachs (NYSE: GS) just did something that crypto investors need to know about.  The bank's action has significant implications for the future prices of Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and perhaps also XRP (CRYPTO: XRP) in the future, assuming they repeat the move with another digital asset.  Here's what Goldman Sachs did and why it matters.",
+      "published_utc": "2025-03-09T00:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8c400f8b4979b9c51123ea9dfbe9ad63ed42a3e6ddffeef3158e873bc74852f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185077,
+      "datetime": 1741452060
+    },
+    {
+      "title": "Is Goldman Sachs Group Inc. (GS) the Most Undervalued Large Cap Stock to Buy Now?",
+      "description": "We recently published a list of 12 Most Undervalued Large Cap Stocks to Buy Now. In this article, we are going to take a look at where Goldman Sachs Group Inc. (NYSE:GS) stands against other most undervalued large cap stocks to buy now. On March 4, David Katz, Chief Investment Officer at Matrix Asset Advisors, […]",
+      "published_utc": "2025-03-08T21:35:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5416edaf342b5278a47d75728752647d4413a1ecaead42eb64727ba3a950523",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185078,
+      "datetime": 1741440928
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:42.653275+00:00",
+    "cache_key": "news_4b3f356b5a726612812f4e6ed0bfce46",
+    "count": 2
+  }
+}

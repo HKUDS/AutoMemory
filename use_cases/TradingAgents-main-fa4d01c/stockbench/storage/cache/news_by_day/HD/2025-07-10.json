@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "E-Commerce Gains at Home Depot: Incremental or Game-Changing?",
+      "description": "HD's omnichannel strategy with digital efforts offers a seamless omnichannel push and boosts Q1 online sales by 8%.",
+      "published_utc": "2025-07-10T00:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55d2d4b3b2f4f19b834304818e676f8cc2b3fea291697004469eadbf6929fb8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835730,
+      "datetime": 1752077700
+    }
+  ]
+}

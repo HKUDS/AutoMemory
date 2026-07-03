@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Brunch: VivAI Las Vegas",
+      "description": "Payrolls seen up 150,000 for December. AI, autonomous driving among big themes at Consumer Electronics Show. The NFL owns TV.",
+      "published_utc": "2025-01-05T23:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f2d91a8c2d7588ae5c4bd925526ded930c1eb44340a117211365b0df8851a28",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1923304007/image_1923304007.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132279991,
+      "datetime": 1736089500
+    },
+    {
+      "title": "Insiders At JPMorgan Chase Sold US$219m In Stock, Alluding To Potential Weakness",
+      "description": "In the last year, many JPMorgan Chase & Co. ( NYSE:JPM ) insiders sold a substantial stake in the company which may...",
+      "published_utc": "2025-01-05T21:00:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5eefe443adf156810f877ef3f976d166e0e5a9a70e698fd7c5d16c98df9511e",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/393a21695c25a8a00f631cfd22c3f87a",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278790,
+      "datetime": 1736082027
+    },
+    {
+      "title": "Centerview Partners Considers a Deal of Its Own After Record Year",
+      "description": "The boutique bank, long seen as a holdout, could sell a stake after recent interest from big investors.",
+      "published_utc": "2025-01-05T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b1bd015d81414b567dd87b76b85eec0ce438906f7d2d78ee9fb4ffa4e916b81",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132277445,
+      "datetime": 1736073000
+    }
+  ]
+}

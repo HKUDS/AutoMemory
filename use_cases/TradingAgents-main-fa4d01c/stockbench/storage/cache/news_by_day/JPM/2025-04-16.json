@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Nvidia, Apple, Big Banks' trading revenues: Trending Tickers",
+      "description": "Madison Mills and Interactive Brokers chief strategist Steve Sosnick examine some of today's trending tickers. Nvidia (NVDA) stock is falling after the company warned that new US chip rules on exports to China would cost the company $5.5 billion. Analysts at Bank of America, Piper Sandler, and Raymond James lowered their price targets for the chipmaker stock. Apple's (AAPL) India suppliers shipped $2 billion worth of iPhones in March ahead of US President Trump's tariffs. Wall Street's top financial firms, like JPMorgan Chase (JPM), Goldman Sachs (GS), and Morgan Stanley (MS), saw record-high trading revenue in the first quarter, driven by tariff-fueled market volatility. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+      "published_utc": "2025-04-16T22:44:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f17ede56f160e1fa82fbff472822dcf655a21f70ed8ec319510a62226044d5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935485,
+      "datetime": 1744814643
+    },
+    {
+      "title": "Treasury Secretary Scott Bessent to America's biggest CEOs: Stop worrying",
+      "description": "CEOs have warned on the economy because of Trump administration tariff policies. US Treasury Secretary Scott Bessent has a message for them all.",
+      "published_utc": "2025-04-16T20:16:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bc54cb1acd39980fd03489fd0d6bc9fc8829c8048e520bb74f3dfcc63c799bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935600,
+      "datetime": 1744805787
+    }
+  ]
+}

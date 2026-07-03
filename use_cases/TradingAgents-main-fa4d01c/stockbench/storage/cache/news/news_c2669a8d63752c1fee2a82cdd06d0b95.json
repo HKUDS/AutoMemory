@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Is Paying Out A Larger Dividend Than Last Year",
+      "description": "JPMorgan Chase & Co. ( NYSE:JPM ) has announced that it will be increasing its dividend from last year's comparable...",
+      "published_utc": "2025-03-22T20:39:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a257d626a2e5ec9bdbaf043d6a85f9f7b090cdb80de34426347dadfb05943a47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324382,
+      "datetime": 1742647193
+    },
+    {
+      "title": "The Davenport Balanced Income Fund Q4 2024 Commentary",
+      "description": "The Davenport Balanced Income Fund (DBALX) generated a -2.93% total return in the fourth quarter of 2024. Click here to read the full commentary.",
+      "published_utc": "2025-03-22T09:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fdd2f81ddd0be3b70526806bdad7aac6fdbc5d6f12add48d2344f58318cd3eb8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303853966/image_1303853966.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133312522,
+      "datetime": 1742607600
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 23",
+      "description": "Stay updated with weekly dividend activity for Champions, Contenders, and Challengers. Learn about changes, ex-dividend dates, and upcoming pay dates.",
+      "published_utc": "2025-03-22T08:31:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a00a20610d7c0e7c3f3efd7fa8ee5ab49b5686743cf4228ce0455695ca1bb661",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455774438/image_1455774438.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133312311,
+      "datetime": 1742603490
+    },
+    {
+      "title": "She’s Accused of Duping JPMorgan. Somehow, the Bank Is Feeling the Heat.",
+      "description": "She’s Accused of Duping JPMorgan. Somehow, the Bank Is Feeling the Heat.",
+      "published_utc": "2025-03-22T08:09:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3e5a0e6a7345258a546ef26a78b956cc44916a6eb10155956505c7c728b94dc9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133313437,
+      "datetime": 1742602140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:55.640677+00:00",
+    "cache_key": "news_c2669a8d63752c1fee2a82cdd06d0b95",
+    "count": 4
+  }
+}

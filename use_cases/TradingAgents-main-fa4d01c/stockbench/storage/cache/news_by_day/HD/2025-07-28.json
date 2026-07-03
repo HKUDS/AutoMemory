@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Why The Home Depot (HD) Remains a Reliable Dividend Pick in the Dogs of the Dow",
+      "description": "The Home Depot, Inc. (NYSE:HD) is included among the 11 Dogs of the Dow Dividend Stocks to Buy Now. The company is facing challenges expanding its business amid a tough economic climate marked by elevated interest rates and growing caution among consumers when it comes to major purchases. Still, several positive trends could work in […]",
+      "published_utc": "2025-07-28T01:15:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea6edc5cb4a277378681c353f11d308d70ab58c41a7f93728fe4631fb1891ae8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101710,
+      "datetime": 1753636552
+    }
+  ]
+}

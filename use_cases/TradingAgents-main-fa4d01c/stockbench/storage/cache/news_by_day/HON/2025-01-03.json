@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. stock underperforms Thursday when compared to competitors",
+      "description": "Honeywell International Inc. stock underperforms Thursday when compared to competitors",
+      "published_utc": "2025-01-03T00:39:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73969a5fb8ea035eeba52a72eb166402cab9baf4c405c7884f1a0d0e5db6cb6a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132324163,
+      "datetime": 1735835940
+    }
+  ]
+}

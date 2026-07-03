@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. stock rises Tuesday, still underperforms market",
+      "description": "Honeywell International Inc. stock rises Tuesday, still underperforms market",
+      "published_utc": "2025-05-28T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7c598df1ed64bffd9eb05bf6e9f65f501904531e165c7e8014de2ff2d62cf56b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134720123,
+      "datetime": 1748363760
+    }
+  ]
+}

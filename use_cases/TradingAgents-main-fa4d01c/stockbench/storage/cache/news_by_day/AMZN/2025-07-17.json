@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Sun Country: A Smart, Undervalued Hybrid Taking Flight",
+      "description": "",
+      "published_utc": "2025-07-17T06:44:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b4fe59cf06f1a46e911432f1fb36e385c9f884d87029b360fb2e7944347be16c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135972617,
+      "datetime": 1752705850
+    },
+    {
+      "title": "Alphabet: Market's Panic Spells Opportunity",
+      "description": "Alphabet Inc.'s GCP, YouTube, and Android growth make it a strong long-term investment. Click to read more on why GOOGL stock remains a compelling opportunity.",
+      "published_utc": "2025-07-17T02:55:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=47f773bc5ac68fd83a66c0af2856ac48d85de6632ec3cb760e93f75690897ac5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165485835/image_2165485835.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971720,
+      "datetime": 1752692146
+    },
+    {
+      "title": "Sonatype Solutions Now Available in the New AWS Marketplace AI Agents and Tools Category",
+      "description": "Sonatype announced the availability of its entire product suite, including Nexus Repository Cloud, in the new AI Agents and Tools category in AWS Marketplace. Amazon Web Services customers can now...",
+      "published_utc": "2025-07-17T01:05:49",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=44b755575593f7b0376525c64cc872bdad0e57af452ab8f6175a288863b41e68",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971207,
+      "datetime": 1752685549
+    },
+    {
+      "title": "H2o.Ai Announces Availability of H2o Ai Cloud in the New Aws Marketplace Ai Agents and Tools Category",
+      "description": "H2O.ai announced the availability of H2O AI Cloud in the new AI Agents and Tools category of AWS Marketplace. Customers can now use AWS Marketplace to easily discover, buy, and deploy AI agent...",
+      "published_utc": "2025-07-17T00:51:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=27af183484c6a6b121c568060fe1003cab27428b840d358c3021e00808fbf5f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971109,
+      "datetime": 1752684676
+    },
+    {
+      "title": "Amazon.com defeats lawsuit by Prime Video subscribers over commercials",
+      "description": "A federal judge on Wednesday dismissed a proposed class action over Amazon.com's decision to begin showing commercials on its Primeunless subscribers paid a $2.99 monthly opt-out...",
+      "published_utc": "2025-07-17T00:38:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ce71e096759452925bfc41f9bcd97821cc828fee2422d6bfcf943db635b0ba36",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971014,
+      "datetime": 1752683890
+    }
+  ]
+}

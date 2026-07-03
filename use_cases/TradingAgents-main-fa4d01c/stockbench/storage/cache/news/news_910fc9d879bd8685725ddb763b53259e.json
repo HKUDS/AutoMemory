@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "The latest trading day saw American Express (AXP) settling at $316.98, representing a -1.78% change from its previous close.",
+      "published_utc": "2025-07-09T05:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11d7d6988950ebe42a7e288bc431759cecf3da9ff91efa460a15d2196f5fce5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829895,
+      "datetime": 1752011402
+    },
+    {
+      "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
+      "description": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+      "published_utc": "2025-07-08T21:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78fcf2d8eafba8e95c927077a0815e401069f3f27c74c97ba4e6143093deb011",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135820504,
+      "datetime": 1751982602
+    },
+    {
+      "title": "Citizens spies opportunity with Chase card move",
+      "description": "As premium credit card fees climb, “it does create a little more room for us to compete in between,” the regional bank’s head of lending said.",
+      "published_utc": "2025-07-08T19:18:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a4294187bd4186d6b79e9860758fefbd076812313f0bc7b1ace7ae78dd5b3f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135820506,
+      "datetime": 1751973489
+    },
+    {
+      "title": "How To Get Paid During this New Earnings Season",
+      "description": "Earnings season is here and we’ve got the first batch of big name companies reporting earnings this week with Delta Airlines (DAL) and Conagra Brands (CAG) kicking things off on Thursday.",
+      "published_utc": "2025-07-08T19:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8b1a2b24cf0f3f244f9b1b4867169b61cacce71afc06cd00742fcefd6fa5d08",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135803972,
+      "datetime": 1751972402
+    },
+    {
+      "title": "3 Underrated Dividend Growth Stocks to Buy and Hold for Years",
+      "description": "The stocks listed here each increased their dividend payments by more than 10% recently.  When you think of a great dividend stock to own, you're probably thinking of one that yields a high rate of return.  It can lead you down a path where you buy a stock with a risky payout, and you could overlook promising dividend stocks simply because their yields don't look all that high right now.",
+      "published_utc": "2025-07-08T16:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2008312a67d7cfb3ff57e858abe45b7d76f49e65caef7807623b285daa1332c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805032,
+      "datetime": 1751964900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:25.098778+00:00",
+    "cache_key": "news_910fc9d879bd8685725ddb763b53259e",
+    "count": 5
+  }
+}

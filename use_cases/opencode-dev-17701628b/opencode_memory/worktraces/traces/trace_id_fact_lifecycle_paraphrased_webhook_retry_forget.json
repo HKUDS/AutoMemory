@@ -1,0 +1,58 @@
+{
+  "trace_id": "trace_id_fact_lifecycle_paraphrased_webhook_retry_forget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: a paraphrased forget request should deactivate a corrected webhook retry policy without relying on topic-specific expansions.",
+  "turns": [
+    { "role": "user", "content": "Remember: failed webhook deliveries must retry for 24 hours before dead-lettering.", "used_for_evaluation": true, "metadata": { "session_id": "fact-webhook" } },
+    { "role": "agent", "content": "Stored the webhook retry requirement.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: admin CSV exports must include the account owner email.", "used_for_evaluation": true, "metadata": { "session_id": "fact-webhook" } },
+    { "role": "agent", "content": "Stored the CSV export field.", "used_for_evaluation": false },
+    { "role": "tool", "content": "rg inspected docs without memory-worthy output.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: nightly billing snapshots land in s3://billing-audit-prod.", "used_for_evaluation": true, "metadata": { "session_id": "fact-webhook" } },
+    { "role": "agent", "content": "Stored billing snapshot location.", "used_for_evaluation": false },
+    { "role": "user", "content": "Correction: failed webhook deliveries should retry for 72 hours before dead-lettering.", "used_for_evaluation": true, "metadata": { "session_id": "fact-webhook" } },
+    { "role": "agent", "content": "Updated the webhook retry duration.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker one", "used_for_evaluation": false },
+    { "role": "user", "content": "Please forget the webhook retry SLA.", "used_for_evaluation": true, "metadata": { "session_id": "fact-webhook" } },
+    { "role": "agent", "content": "Forgot the requested webhook retry memory.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: incident review notes go in docs/incidents/current.md.", "used_for_evaluation": true, "metadata": { "session_id": "fact-webhook" } },
+    { "role": "agent", "content": "Stored incident review location.", "used_for_evaluation": false },
+    { "role": "tool", "content": "formatter completed successfully.", "used_for_evaluation": false },
+    { "role": "user", "content": "Unrelated chatter about local editor settings.", "used_for_evaluation": false },
+    { "role": "agent", "content": "No memory needed for that chatter.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker two", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What active webhook retry SLA remains?",
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*(?:webhook retry|failed webhook deliveries|72 hours|dead-lettering))[\\s\\S]*$", "matcher": "regex", "description": "The paraphrased forget request should remove the corrected webhook retry fact." }
+      ]
+    },
+    {
+      "query": "What should admin CSV exports include?",
+      "expected_information": [
+        { "value": "account owner email", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Where do nightly billing snapshots land?",
+      "expected_information": [
+        { "value": "s3://billing-audit-prod", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Where do incident review notes go?",
+      "expected_information": [
+        { "value": "docs/incidents/current.md", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Did unrelated editor chatter create a memory?",
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*local editor settings)[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

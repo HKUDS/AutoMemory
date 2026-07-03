@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Visa Inc. (V) is a Forever Stock with Large Moat According to Akre Capital Management",
+      "description": "We recently published a list of Top 10 Stocks to Buy According to Akre Capital Management. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other top stocks to buy according to Akre Capital Management. Akre Capital Management follows a disciplined investment philosophy centered around identifying exceptional businesses […]",
+      "published_utc": "2025-03-29T22:05:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9e2208c2b02677c4a25fd83b332f6f463d957ae1d87e4fa58b7aef97130cfa9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133539463,
+      "datetime": 1743257111
+    },
+    {
+      "title": "2 Under-the-Radar Stocks With Market-Beating Potential",
+      "description": "Let's take a look at two iconic American companies whose stocks have shown that a simple business model and savvy management are enough to post market-beating results.  First up is Visa (NYSE: V).  To me, Visa is the Rodney Dangerfield of stocks -- it gets no respect.",
+      "published_utc": "2025-03-29T19:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23bb645235f553cacb10721dfc9d60d8114857c6913bf5fce3c123ce811b590a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133539464,
+      "datetime": 1743248700
+    },
+    {
+      "title": "Stocks Falling On Earnings - What To Do? February Dividend Income Report",
+      "description": "",
+      "published_utc": "2025-03-29T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=126b71e862da1d86bb1eb4bd6158c1fcb9a7e75c52ee15fdc30b7c28db6d7cde",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133533973,
+      "datetime": 1743244200
+    },
+    {
+      "title": "If I Could Only Choose 5 Dividend Stocks For My Retirement Portfolio",
+      "description": "Focus on companies with strong balance sheets and sustainable dividends for retirement. See why these five stocks offer great risk-reward and growth potential.",
+      "published_utc": "2025-03-29T15:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=145e0f7fb23806abc83c98b9296e28c7bfc7eda2a36c9f8088da2a6eb2b96952",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388382712/image_1388382712.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133528352,
+      "datetime": 1743231600
+    }
+  ]
+}

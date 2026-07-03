@@ -1,0 +1,1 @@
+Risk tolerance: moderate. Investment horizon: 12 months. Focus: US large-cap technology. Avoid: leveraged products, penny stocks. Max single-position: 20% of NAV.

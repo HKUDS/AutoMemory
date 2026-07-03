@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Travelers Companies (NYSE:TRV) Reports Lower Q1 Earnings, Increases Dividend by 5%",
+      "description": "Travelers Companies (NYSE:TRV) announced a 5% increase in their regular quarterly dividend and released their Q1 2025 earnings report, which revealed declining net income and EPS compared to the previous year. Despite these mixed results, the company's stock posted a 5.6% gain over the past week. In a broader context, this price move aligns with the overall positive market trend, where equities have gained ground, despite setbacks in technology and trade-related sectors. The Travelers'...",
+      "published_utc": "2025-04-17T01:48:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e95c6d1567f0c9675338c93fcb6cdeeedea9f709412c11aeb8d3dc31551c53d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942739,
+      "datetime": 1744825705
+    },
+    {
+      "title": "Travelers stock pops, Lockheed Martin upgrade, JB Hunt earnings",
+      "description": "US stocks (^GSPC, ^IXIC, ^DJI) slipped as a drop in Nvidia (NVDA) shares weighed heavily on the tech sector. The Travelers Companies (TRV) shares popped after reporting a first quarter earnings beat. Lockheed Martin (LMT) shares rose after Morgan Stanley upgraded the stock and raised its price target.  Meanwhile, J.B. Hunt Transport (JBHT) shares fell despite a first quarter earnings beat.  Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-04-17T01:35:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e09e8bf178cfa8710e0b5b0e62c10d9d33b20d94e00e9c6be451099b4a4e0d98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942678,
+      "datetime": 1744824907
+    },
+    {
+      "title": "Dow Jones Insurer Shrugs Off California Wildfires With Blowout Earnings",
+      "description": "Dow Jones Insurer Shrugs Off California Wildfires With Blowout Earnings",
+      "published_utc": "2025-04-17T00:28:38",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=f189e231293be85cf42909f88f270bc36ed2d390356d13a55d3bdd00532010c9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133951664,
+      "datetime": 1744820918
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Tumbles On Powell Comments; Trump Curbs Hit Mag 7, Warren Buffett Stock Rises (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Tumbles On Powell Comments; Trump Curbs Hit Mag 7, Warren Buffett Stock Rises (Live Coverage)",
+      "published_utc": "2025-04-17T00:28:18",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d2fda288c406cdf120db73a4a54acf3be028ccbd8795f8f3f27a84e2dedf1b30",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133945067,
+      "datetime": 1744820898
+    },
+    {
+      "title": "Citizens earnings, Travelers stock pops: Trending tickers",
+      "description": "Wealth Host Brad Smith, joined Madison Mills, takes a closer look at some of the trending tickers during the trading day. Citizens Financial Group (CFG) reported net interest income and revenue that were in line with estimates as the firm beat on earnings. Travelers (TRV) reported a profit beat, with core earnings per share (EPS) coming in at $1.91, compared to estimates of $0.75. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+      "published_utc": "2025-04-16T23:38:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9479b6f738a4ea7b5db64a8af8b532a0fbeac9eb3c09a4e0413a643d20ae20e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935934,
+      "datetime": 1744817897
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:49.461685+00:00",
+    "cache_key": "news_0ac19f622181733c5bccf3ff63ba45db",
+    "count": 5
+  }
+}

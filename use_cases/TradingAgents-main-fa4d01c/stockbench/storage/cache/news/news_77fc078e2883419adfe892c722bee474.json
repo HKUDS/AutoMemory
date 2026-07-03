@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "47% of Berkshire Hathaway's $276 Billion Warren Buffett-Led Portfolio Is Invested in 3 Dividend Stocks",
+      "description": "Apple has developed an ecosystem of tech devices that its customers love and are willing to trade up to have.  American Express has numerous earnings streams, and a younger cohort of cardholders is driving growth.  Coca-Cola's business has proven resilient under pressure, and it reliably boosts its dividends.",
+      "published_utc": "2025-05-31T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4de5351dcac4420cc10d76e35d0975c0480d983513d922632b0a43644c7f310",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918267,
+      "datetime": 1748691000
+    },
+    {
+      "title": "Better Buffett Stock: American Express vs. Visa",
+      "description": "Which of Warren Buffett's credit card investments is a better buy right now?",
+      "published_utc": "2025-05-31T15:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ba707ef2394607f3f24e58f1277bd92e24302b9d6065a3caa2cca82d3c3957c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918427,
+      "datetime": 1748678100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:49:55.313592+00:00",
+    "cache_key": "news_77fc078e2883419adfe892c722bee474",
+    "count": 2
+  }
+}

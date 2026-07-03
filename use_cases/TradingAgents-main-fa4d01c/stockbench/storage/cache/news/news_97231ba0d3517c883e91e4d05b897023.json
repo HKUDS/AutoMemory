@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Week Ahead: Blue Chips, Big Banks, GE Aerospace And Netflix Launch Q2, Congress Mulls Cryptos",
+      "description": "The stock market faces a busy week with a packed Q2 launch, and Congress debating several pieces of crypto legislation.",
+      "published_utc": "2025-07-14T03:19:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87a76119f0d7b4d0955cacafacf80c8cfc17848f0303276d1a602a0691749128",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912924,
+      "datetime": 1752434381
+    },
+    {
+      "title": "Inflation data, big bank earnings, and Netflix results: What to watch this week",
+      "description": "A busy week ahead for investors will see inflation data, the debate about the Fed's next move, and the start of second quarter earnings season all come into focus after a flurry of trade activity last week.",
+      "published_utc": "2025-07-13T19:51:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0099fa6bcad56b500d807b72462472a2ea6a13ddee478a80fd8683ed9074238e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135908613,
+      "datetime": 1752407463
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get insights into Q2 earnings season, market trends, and economic indicators like inflation and retail sales. Stay ahead with exclusive analysis.",
+      "published_utc": "2025-07-13T14:54:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7939a2465162b787dc75835c1e398c42f9501eb9cba4a4eac395f380de02ccba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451753827/image_1451753827.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135907715,
+      "datetime": 1752389655
+    },
+    {
+      "title": "Berkshire Hathaway: A Sell With The Best Days Behind It, Unless This Happens",
+      "description": "",
+      "published_utc": "2025-07-13T09:59:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0724f10397d8154d73b3fe3f05fdafa27d62245cc9d9c079442b47fbd2eadf81",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135903703,
+      "datetime": 1752371964
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:06.266962+00:00",
+    "cache_key": "news_97231ba0d3517c883e91e4d05b897023",
+    "count": 4
+  }
+}

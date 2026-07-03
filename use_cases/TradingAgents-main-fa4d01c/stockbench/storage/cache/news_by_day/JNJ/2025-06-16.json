@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Can J&J's Innovative Medicines Unit Sustain Growth Amid Stelara LOE?",
+      "description": "JNJ's Innovative Medicines unit shows a growth trend, defying Stelara LOE and the negative impact of the Part D redesign.",
+      "published_utc": "2025-06-16T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f33d906adc1b592893ec7877c438cb630f84195085347af1aa3d983c53d2697",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135314386,
+      "datetime": 1750078800
+    },
+    {
+      "title": "J&J reports results from antibody combo trial for MM patients",
+      "description": "The investigational combo resulted in an ORR of 78.9%, with over half of the subjects achieving a complete response or better.",
+      "published_utc": "2025-06-16T19:43:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e857eac44426e3deff3c9c58c92212550c83ed8861c68c5e26ae6e3a8931bf62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300768,
+      "datetime": 1750074181
+    },
+    {
+      "title": "Johnson & Johnsons Dual Targeting Car T Cell Therapy Shows Encouraging First Results In Large B Cell Lymphoma",
+      "description": "the most common type of aggressive lymphoma, a blood cancer that originates in the lymphatic system.1,2 These data were presented as an oral presentation at the 2025 European Hematology Association ...",
+      "published_utc": "2025-06-16T17:17:29",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c087a0d712d780b2a880f3b6cd10b6c9ca9fb7e59f68afa1016252b742b658f2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300797,
+      "datetime": 1750065449
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now",
+      "description": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
+      "published_utc": "2025-04-10T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=199f201cee01d446b8ae8210b04f673072dc2f5cb05adda1f63411a254da70fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841176,
+      "datetime": 1744236600
+    },
+    {
+      "title": "Tariffs Are Still Coming for the AI Boom",
+      "description": "President Trump threw out what appeared to be a lifeline to tech companies Wednesday by suspending onerous tariffs that had sent their stocks spiraling downward.  The uncertainty over trade barriers is still rattling Big Tech and the global economy.  Trump’s reprieve pushed  Nvidia’s  stock above where it was before he imposed tariffs last week, but the trade war with China is escalating, not easing, and huge uncertainty remains.",
+      "published_utc": "2025-04-10T04:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a98fd724b8fba154420410e938fa329de1abf9935bc54032034e82dd42bde2b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841177,
+      "datetime": 1744232040
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Walmart, Apple, Tesla, Delta, Bristol Myers, Nvidia, Ford, and More",
+      "description": "Walmart, Apple, Tesla, and Nvidia shares jump after President Donald Trump says he will be delaying tariffs above 10% on some countries for 90 days.",
+      "published_utc": "2025-04-10T04:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1138bafe793d239afa4116059479c20699906654ce124e06fc49e964f7d8f16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841162,
+      "datetime": 1744230840
+    },
+    {
+      "title": "Apple’s Margins Are Still a Big Risk in Trade War Roller Coaster: Heard on the Street",
+      "description": "Few companies have capitalized on a globalized economy better than Apple.  Apple’s share price surged more than 15% Wednesday after President Trump announced a 90-day pause on many of the tariffs he put in place last week.  Apple’s share price remains 11% down since last week’s shock tariff announcement while most of its megacap tech peers have now fully recovered their losses.",
+      "published_utc": "2025-04-10T04:13:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71770fc8a8d7d697a304ab2bb80b88073cc11d553bffb6ff9baa70a9544f59ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841164,
+      "datetime": 1744229619
+    },
+    {
+      "title": "Microsoft announces quarterly earnings release date",
+      "description": "Microsoft Corp. will publish fiscal year 2025 third-quarter financial results after the close of the market on Wednesday, April 30, 2025, on the Microsoft Investor Relations website at https://www.microsoft.com/en-us/Investor/. A live webcast of the earnings conference call will be made available at 2:30 p.m. Pacific Time.",
+      "published_utc": "2025-04-10T04:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f38ead56333ff3b9726a184ca94956329eac4e0eb2f46963942a366d6d45d09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841180,
+      "datetime": 1744229220
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:38.893478+00:00",
+    "cache_key": "news_4b60ce3e30f3e589539979cabdf01945",
+    "count": 5
+  }
+}

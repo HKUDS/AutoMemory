@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "IBM Stock Downgraded to $310 Target — But Bank of America Still Says Buy",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the AI Stocks Making Waves on Wall Street. On July 24, Bank of America reiterated the stock as “Buy” and lowered the firm’s price target on IBM (IBM) to $310 from $320 following a “mixed quarter.” The bank said that IBM is well-positioned for growth following its most […]",
+      "published_utc": "2025-07-27T22:41:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52a2f153071265c4a71b66cfe9fb44a0581433a0ac4a01eed164580a647bfb3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101770,
+      "datetime": 1753627267
+    },
+    {
+      "title": "5 silly earnings season stock price moves!",
+      "description": "Sometimes Mr. Market gets it wrong come earnings season!",
+      "published_utc": "2025-07-27T20:30:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a1235f33d55417c6bca71528e358d51632f85d5d5e46053e911d2b31567d420",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101579,
+      "datetime": 1753619446
+    },
+    {
+      "title": "Fidelity Value Discovery Fund Q2 2025 Commentary",
+      "description": "Fidelity Investments reviews Q2 results for its Value Discovery Fund, spotlighting key stock moves and sector shifts. See how theyâre targeting long-term value.",
+      "published_utc": "2025-07-27T15:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=73dae712f217400fc7e1a0de92677d8b944b3fbe8ded92e416001d9049bd32a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223535314/image_2223535314.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100176,
+      "datetime": 1753600200
+    }
+  ]
+}

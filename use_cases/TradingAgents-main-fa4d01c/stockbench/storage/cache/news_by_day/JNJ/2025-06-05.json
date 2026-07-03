@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "JNJ's Combo Therapy Shows Strong Phase III Efficacy in Prostate Cancer",
+      "description": "Johnson & Johnson's niraparib combo significantly delays prostate cancer progression in HRR-altered patients with strong phase III data.",
+      "published_utc": "2025-06-05T00:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fd8f76625cad9aa6e2e500f3a24cdf5b44cc920bc28ca17b28386c061f2e978",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135036501,
+      "datetime": 1749053820
+    }
+  ]
+}

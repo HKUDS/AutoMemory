@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Apple (AAPL) $240 PT, Buy — Citi Sees Tariff Boost Now, AI Risks Later",
+      "description": "Apple Inc. (NASDAQ:AAPL) is a Must-Watch AI Stock on Wall Street. On July 11, Citi analyst Atif Malik reiterated the stock as “Buy” with a $240.00 price target. The firm said it sees some uncertainty for Apple but that it’s sticking with its buy rating. Adjusting its iPhone unit sales forecast, the investment bank now anticipates […]",
+      "published_utc": "2025-07-15T06:42:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35184ededd7b33c8cab13a74587ef335813dfc9d7fd8733489c976dda6011d36",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936625,
+      "datetime": 1752532953
+    },
+    {
+      "title": "Apple (AAPL) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "Apple (AAPL) reached $208.62 at the closing of the latest trading day, reflecting a -1.2% change compared to its last close.",
+      "published_utc": "2025-07-15T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a72d2c2c184f3f6a6d0ea75e27c5b34dda10869b39d908316f7bef72265749d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936626,
+      "datetime": 1752529503
+    },
+    {
+      "title": "ETFs to Play on AI's Growing Momentum",
+      "description": "NVDA's surge past a $4T market cap spotlights AI's explosive growth and the ETFs riding this tech-fueled momentum.",
+      "published_utc": "2025-07-15T05:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af811e698365a9b7a504e576e1305543549160cf01bf76c93cb6acecbab0c41f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931562,
+      "datetime": 1752527640
+    },
+    {
+      "title": "Apple Not Rushing To Follow Samsung With Folding-Screen iPhone",
+      "description": "Apple is aiming to release its first folding-screen iPhone in late 2026, a Wall Street stock analyst says.",
+      "published_utc": "2025-07-15T04:48:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8df24cc623fda5c5d596d02c6d39efeb9265b9898c122e733df6a9622037c6b3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936628,
+      "datetime": 1752526120
+    },
+    {
+      "title": "Apple’s first foldable phone is set for 2026 and UBS thinks it may be as cheap as $1,800. Here’s what else to know",
+      "description": "Initial production is expected to be limited, with estimates ranging from 10 million to 15 million units for the first wave.",
+      "published_utc": "2025-07-15T03:54:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06e236611f5589e15e4d7d41b6d790da7e11da80d275df3f3fc7a0269ff3cd5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936630,
+      "datetime": 1752522858
+    }
+  ]
+}

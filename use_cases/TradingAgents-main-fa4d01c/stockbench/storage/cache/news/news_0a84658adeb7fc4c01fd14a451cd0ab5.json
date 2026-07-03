@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Walmart Earnings Summary: Tariffs Not As Critical As Long-Term Flywheel Improvements",
+      "description": "",
+      "published_utc": "2025-05-22T07:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56abacf6ec6568a1fc51db6841da9fb344dfb81532625e11edd71d271af048f9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631762,
+      "datetime": 1747870500
+    },
+    {
+      "title": "Nike Returns to Amazon with Strategic Price Hikes",
+      "description": "Six years after exiting, Nike will relaunch on Amazon next week, pairing its return with targeted price increases to offset tariffs.",
+      "published_utc": "2025-05-22T06:23:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ff5d148be3af95d0a984522f2ddbeb6f202b8e5b102ef0fd207f0aa29ed4d9e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647836,
+      "datetime": 1747866206
+    },
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-05-22T06:14:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e27504393d6270f71f4779aed94b422dee3a3fcabc889d6582ddb2468c20c3d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631523,
+      "datetime": 1747865679
+    },
+    {
+      "title": "Nike set to raise prices next week, plans to sell on Amazon again",
+      "description": "The footwear retailer will increase prices on apparel and equipment for adults between $2 and $10, while those priced between $100 and $150 will see a $5 hike, it said.  With the critical back-to-school shopping season approaching, Nike will not raise prices for children's products.  \"We regularly evaluate our business and make pricing adjustments as part of our seasonal planning,\" Nike said.",
+      "published_utc": "2025-05-22T05:38:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0673ac1c0895f4170144a980aa38b9393ce113e3e1aefbf4d6adafe86a58f0e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647837,
+      "datetime": 1747863511
+    },
+    {
+      "title": "Saks Fifth Avenue Brand Heads to Costco: Sources",
+      "description": "Sources said the warehouse club will be carrying men's apparel with the Saks Fifth Avenue label in the coming months.",
+      "published_utc": "2025-05-22T04:54:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=610e1bef3d443e0f45aa838de461b72aa73d9a1153df91858fca88a4f468a719",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647838,
+      "datetime": 1747860880
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:40.632859+00:00",
+    "cache_key": "news_0a84658adeb7fc4c01fd14a451cd0ab5",
+    "count": 5
+  }
+}

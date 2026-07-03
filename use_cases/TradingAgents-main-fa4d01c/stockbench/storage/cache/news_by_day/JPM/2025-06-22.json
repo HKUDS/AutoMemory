@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Banks Drop the Climate Pretense and Follow the Money",
+      "description": "U.S. giants like JPMorgan, Bank of America, and Citigroup are leading the charge, signaling a strategic shift from ESG promises to profitability.",
+      "published_utc": "2025-06-22T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ab34acc2d451c0e596d4d2abbf869e6255897380efd3b9feec25803aab29845",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135457253,
+      "datetime": 1750546800
+    }
+  ]
+}

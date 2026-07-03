@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Walmart, Home Depot, Target Restart China Shipments, Will Cover Tariffs: China Source",
+      "description": "Chinese-based news organizations are reporting major U.S. retailers have instructed suppliers to restart shipments.",
+      "published_utc": "2025-04-29T22:36:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82ed489f02756e10f1c8f3d23e68a9f52c37e46c97882dbefb9cf11e71fdb718",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130945,
+      "datetime": 1745937386
+    },
+    {
+      "title": "Retail Giants Manage to Keep a Lid on Prices but Warn It Can’t Last",
+      "description": "Prices have largely held steady overall, aside from modest April increases in some categories, a WSJ analysis finds.",
+      "published_utc": "2025-04-29T22:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=168665b356ceb08a30d355f5b6be5b09bfb6206727df7a8ae5979b826daf1fe4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130768,
+      "datetime": 1745936460
+    }
+  ]
+}

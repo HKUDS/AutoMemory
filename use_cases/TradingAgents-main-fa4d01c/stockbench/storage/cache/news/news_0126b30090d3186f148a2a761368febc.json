@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Amgen: Blockbusters, Emerging Therapies, And Investment Potential",
+      "description": "Amgen has a strong product portfolio, pipeline developments, and robust financial health. Read why AMGN stock is a Strong Buy for long-term investors.",
+      "published_utc": "2025-01-06T03:18:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2cb4d553970a45772f66a5f1f2827cbc5f1c1390dfc62e2ad70af2f904bc943",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1411285056/image_1411285056.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132281384,
+      "datetime": 1736104716
+    },
+    {
+      "title": "Amgen: Strong Fundamentals But Expensive Valuation Justifies A Hold",
+      "description": "Article analyzes Amgen's strong clinical progress and financials, recommending caution due to valuation and technical indicators.",
+      "published_utc": "2025-01-05T22:22:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6e2bada4590e6cb2a8a0f476dcec9117273e7206fb178f2a5f2430389dceffb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1323875427/image_1323875427.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132279730,
+      "datetime": 1736086947
+    },
+    {
+      "title": "Prediction: These 3 Healthcare Stocks Will Soar in 2025",
+      "description": "Here's why they chose Amgen (NASDAQ: AMGN), Eli Lilly (NYSE: LLY), and Summit Therapeutics (NASDAQ: SMMT).  David Jagielski (Amgen): Shares of Amgen started crashing in late November following the release of data from a phase 2 clinical trial for its weight loss candidate, MariTide.",
+      "published_utc": "2025-01-04T19:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c8954e87e40b08cccb040ec3b670cc0f62d88f6b2426631d3df84521d6aaeb5",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802692/stock-chart-rocket.jpg",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132268525,
+      "datetime": 1735991280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:36.271037+00:00",
+    "cache_key": "news_0126b30090d3186f148a2a761368febc",
+    "count": 3
+  }
+}

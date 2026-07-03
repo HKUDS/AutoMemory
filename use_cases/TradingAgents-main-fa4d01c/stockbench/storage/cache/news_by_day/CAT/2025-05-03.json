@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Here's What Analysts Are Forecasting For Caterpillar Inc. (NYSE:CAT) After Its First-Quarter Results",
+      "description": "As you might know, Caterpillar Inc. ( NYSE:CAT ) last week released its latest first-quarter, and things did not turn...",
+      "published_utc": "2025-05-03T22:37:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=951e15fbec350dd662af6899495a7a2a1f1c96eeb80834e96fa9bb6fc589d711",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134247100,
+      "datetime": 1746283066
+    }
+  ]
+}

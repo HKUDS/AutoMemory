@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Samsung Nears Wide-Ranging Deal With Perplexity for AI Features",
+      "description": "(Bloomberg) -- Samsung Electronics Co. is nearing a wide-ranging deal to invest in Perplexity AI Inc. and put search technology from the artificial intelligence startup at the forefront of the South Korean company’s devices. Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryWhere the Wild Children’s Museums AreThe Economic Benefits of Paying Workers to MoveNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaNYC Congestion Toll Brings In $",
+      "published_utc": "2025-06-02T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aeda7ae9270f744876909b61c1b4f04ff558e970b726db4025676c336a32da23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930346,
+      "datetime": 1748818800
+    },
+    {
+      "title": "Madison Diversified Income Fund Q1 2025 Investment Strategy Letter",
+      "description": "Madison Diversified Income Fund was well positioned for the quarterâs market volatility via a relative underweight to stocks against its long-term 50% portfolio target.",
+      "published_utc": "2025-06-02T06:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5252f08a9224f0116f37e9823f42fbefe189c7642d622e6e433c49c9ae9f32f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1360551449/image_1360551449.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930488,
+      "datetime": 1748817600
+    },
+    {
+      "title": "Apple Stock: Did President Trump Just Give Investors a Reason to Sell?",
+      "description": "President Trump wants iPhones assembled in the United States, which would be expensive for Apple.  Apple (NASDAQ: AAPL) has optimized its costs through a global manufacturing footprint.  This relationship -- specifically with China -- may be coming to an end if President Donald Trump gets his way.",
+      "published_utc": "2025-06-02T06:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0862599ff8534538498a2ba75d6e5f9cb2bfcc6d4e6ede5e71b10d7a4f1f694",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930347,
+      "datetime": 1748816100
+    },
+    {
+      "title": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q1 2025 Update",
+      "description": "Discover Gabelli Funds' Q1 2025 portfolio updates: $13.12B value, top holdings, disciplined profit-taking, and a broad, risk-managed investment strategy.",
+      "published_utc": "2025-06-02T03:39:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2025f666130384a11306f56e9930a8a85f8b85329a8ff5218858d081f3d4ea58",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134929675,
+      "datetime": 1748806769
+    }
+  ]
+}

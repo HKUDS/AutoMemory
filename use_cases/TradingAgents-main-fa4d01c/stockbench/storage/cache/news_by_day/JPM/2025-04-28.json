@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "2025 'The Year of Active ETFs': JPMorgan's Spence",
+      "description": "JPMorgan Asset Management Global Head of ETFs Travis Spence explains why he thinks 2025 will be the year of active ETFs. He speaks with Scarlet Fu and Katie Greifeld on ETF IQ....",
+      "published_utc": "2025-04-28T23:00:49",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=48867a973d4543796c0c7486516a9ed3db4642888e9ed714f9452a6f3c650662",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134118113,
+      "datetime": 1745852449
+    },
+    {
+      "title": "Stocks Churn as Busy Earnings Week to Test Rally: Markets Wrap",
+      "description": "(Bloomberg) -- Wall Street traders bracing for a deluge of corporate earnings and key economic data sent stocks churning on Monday as they awaited more insights on the impacts of President Donald Trump’s trade war.Most Read from BloombergNewsom Says California Is Now the World’s Fourth-Biggest EconomyAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesUS Cricket Deepens Bet on Texas With HQ Shift From CaliforniaThe Last Thing U",
+      "published_utc": "2025-04-28T22:53:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=068217683677097bf96c79dd9b3261221bf57f20be61457d35169a1cde3284dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134114876,
+      "datetime": 1745852029
+    },
+    {
+      "title": "JPMorgan Chase & Co. (JPM) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "JPMorgan Chase & Co. (JPM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-04-28T21:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6706fa9c64dfc75bad2dbe21057767b731ee3d994daf557d4da48826d8fb4946",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115044,
+      "datetime": 1745845212
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Busy Earnings Season Continues With Alphabet, Disney, Palantir To Report Results",
+      "description": "Tech biggies continue to report earnings this week. A bunch of labor reports are to be released. EU inflation data will be released on Wednesday. See more here.",
+      "published_utc": "2025-02-01T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4183cd54aed2c97e8c317416c61a1ac1dab36e61d22ba5d773abed5f29b17495",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132510711,
+      "datetime": 1738407600
+    }
+  ]
+}

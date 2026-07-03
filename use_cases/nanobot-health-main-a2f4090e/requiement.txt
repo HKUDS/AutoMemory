@@ -1,0 +1,45 @@
+Basic profile and emergency info
+- Age or date of birth
+- Emergency contact
+- Optionally: blood type
+
+Problem list
+- Chronic conditions
+- Major past illnesses
+- Surgeries / hospitalizations
+
+Medication list
+- Prescription drugs
+- OTC drugs
+- Vitamins / supplements
+- Dose, frequency, and start date when possible
+
+Allergies and adverse reactions
+- What the user reacted to
+- What the reaction was
+- Severity if known
+
+Recent care timeline
+- Recent doctor visits
+- Tests and screening results
+- Immunizations
+
+Symptom log
+- What symptoms occurred
+- When they started
+- What makes them better or worse
+- How long they lasted
+
+Daily lifestyle / wellness log
+- Food intake
+- Alcohol consumption
+- Smoking / vaping
+- Exercise duration and type
+- Sleep
+
+Goals and care plan
+- Weight loss target
+- Blood pressure / glucose targets
+- Rehab or exercise goals
+- Medication adherence goals
+- Follow-up reminders

@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "1f42850d4c36ef0759b09385158d18e21b588f031c9233db46b7fdf6d99abb50",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Best AMEX Casinos: Ignition Named the Top American Express Casino Site",
+      "author": "Globe Newswire",
+      "published_utc": "2025-05-17T10:34:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/17/3083485/0/en/Best-AMEX-Casinos-Ignition-Named-the-Top-American-Express-Casino-Site.html",
+      "tickers": [
+        "AXP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/28ec8f35-5659-48dc-b395-037a1256e90c",
+      "description": "Ignition, an online casino, is highlighted as the best platform for players to use American Express (AMEX) credit cards to fund their accounts. The article emphasizes Ignition's fast deposits, game selection, security, and generous welcome bonus for AMEX users.",
+      "keywords": [
+        "online casino",
+        "credit card",
+        "American Express",
+        "Ignition"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article positions American Express as a trusted and reliable payment option for online casino players, with Ignition providing a smooth and secure experience for AMEX users."
+        }
+      ]
+    }
+  ]
+}

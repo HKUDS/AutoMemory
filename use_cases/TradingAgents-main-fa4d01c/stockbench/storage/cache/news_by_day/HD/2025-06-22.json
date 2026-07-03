@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot’s Dividend Strengthens as TD Cowen Reaffirms Buy Rating",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the best dividend stocks according to Jim Cramer. TD Cowen reiterated a Buy rating for the company, with a price target of $470. The American multinational home improvement retail corporation, The Home Depot, Inc. (NYSE:HD) carries on the business of selling tools, construction products, and appliances. The […]",
+      "published_utc": "2025-06-22T16:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16e88cbabe654fd19eaaad6010508a36b087d34dc0c3b59bf520d86010c67af5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135464736,
+      "datetime": 1750582202
+    }
+  ]
+}

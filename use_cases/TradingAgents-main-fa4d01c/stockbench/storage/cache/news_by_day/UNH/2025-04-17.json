@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Netflix & UnitedHealth earnings, housing data: What to Watch",
+      "description": "Key earnings from Taiwan Semiconductor (TSM), UnitedHealth Group (UNH), American Express (AXP), and Netflix (NFLX) are set to be released Thursday, with Netflix no longer reporting its quarterly subscriber numbers. March housing data is also due, with economists forecasting declines in starts and permits. Meanwhile, markets are watching for more Federal Reserve commentary after Fed Chairman Jerome Powell’s remarks on Wednesday deepened a sell-off. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-17T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7e06ebce9438e512131946dbdb49bf306fa7ea6e3d7e5c4e211649e5ee035dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942500,
+      "datetime": 1744844400
+    },
+    {
+      "title": "Jim Cramer: UnitedHealth (UNH) “Defines What People Want” – Totally Domestic and in Demand",
+      "description": "We recently published a list of Jim Cramer is Bullish on These 10 Stocks. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that Jim Cramer discusses. On Friday, Mad Money host, Jim Cramer, shared his perspective on how investors might approach the stock […]",
+      "published_utc": "2025-04-17T00:52:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d7fa980f3a4b9c57cf6068e2f3a8e666db839cc887ef839072a404081621719",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935609,
+      "datetime": 1744822347
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Tumbles On Powell Comments; Trump Curbs Hit Mag 7, Warren Buffett Stock Rises (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Tumbles On Powell Comments; Trump Curbs Hit Mag 7, Warren Buffett Stock Rises (Live Coverage)",
+      "published_utc": "2025-04-17T00:28:18",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d2fda288c406cdf120db73a4a54acf3be028ccbd8795f8f3f27a84e2dedf1b30",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133945067,
+      "datetime": 1744820898
+    }
+  ]
+}

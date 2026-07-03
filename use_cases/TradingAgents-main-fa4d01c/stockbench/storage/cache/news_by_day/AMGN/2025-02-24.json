@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nike, Travelers share gains contribute to Dow's 131-point climb",
+      "description": "Nike, Travelers share gains contribute to Dow's 131-point climb",
+      "published_utc": "2025-02-24T23:28:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=41b3d6a47aa84c030e1b15b25b408370b1304abdad9250a27c6d06e7428d00b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882872,
+      "datetime": 1740410880
+    },
+    {
+      "title": "Dow's nearly 250-point rally highlighted by gains in shares of Nike, Travelers",
+      "description": "Dow's nearly 250-point rally highlighted by gains in shares of Nike, Travelers",
+      "published_utc": "2025-02-24T20:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=643b1b6d862bc3c25da0a4bdeee480f03468550f94d7c435a8b445b55d04ec75",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882559,
+      "datetime": 1740401100
+    },
+    {
+      "title": "Nike, Travelers share gains contribute to Dow's nearly 125-point climb",
+      "description": "Nike, Travelers share gains contribute to Dow's nearly 125-point climb",
+      "published_utc": "2025-02-24T19:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=de434551e8d9bd44a812478e4f9b5a4e3b1e915e3acb46821e8664bdc3ba1be4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882560,
+      "datetime": 1740396000
+    },
+    {
+      "title": "Columbia Flexible Capital Income Fund Q4 2024 Commentary",
+      "description": "Columbia Flexible Capital Income Fund Institutional Class shares returned -0.67% in Q4 2024. Click here to read the full commentary.",
+      "published_utc": "2025-02-24T16:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bed3c127639568578a31cfd8198cfd15317262fdcc9c2dd97e63c35ea5206e35",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1469297427/image_1469297427.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132863438,
+      "datetime": 1740386100
+    },
+    {
+      "title": "Amgen plans $200 million investment in India site, CEO says",
+      "description": "U.S. drugmaker Amgen will invest about $200 million this year in its new technology centre in southern India, with further investments planned, Chief Executive Officer Robert A. Bradway said at the...",
+      "published_utc": "2025-02-24T09:28:26",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d387083a1d74aa39c55c1c95f9e360a79c36e61ddde778b1c6794e056ab2383e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132861119,
+      "datetime": 1740360506
+    }
+  ]
+}

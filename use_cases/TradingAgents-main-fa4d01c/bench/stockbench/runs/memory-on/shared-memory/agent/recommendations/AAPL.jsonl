@@ -1,0 +1,19 @@
+{"trade_date": "2025-06-02", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Action:** Execute a full sell of the AAPL position at market", "key_risks": []}
+{"trade_date": "2025-06-03", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Action**: Maintain the existing SELL stance", "key_risks": []}
+{"trade_date": "2025-06-04", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Action:** Execute a full sell of the AAPL position at market", "key_risks": []}
+{"trade_date": "2025-06-05", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Action**: Execute a full sell of any remaining AAPL position at market", "key_risks": []}
+{"trade_date": "2025-06-06", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Action:** Execute a full sell of any AAPL position at market open", "key_risks": []}
+{"trade_date": "2025-06-09", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open", "key_risks": []}
+{"trade_date": "2025-06-10", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open", "key_risks": []}
+{"trade_date": "2025-06-11", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open", "key_risks": []}
+{"trade_date": "2025-06-12", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open", "key_risks": []}
+{"trade_date": "2025-06-13", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open", "key_risks": []}
+{"trade_date": "2025-06-16", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open via market order", "key_risks": []}
+{"trade_date": "2025-06-17", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open using a limit order set at $197", "key_risks": []}
+{"trade_date": "2025-06-18", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open using a limit order set at $196", "key_risks": []}
+{"trade_date": "2025-06-20", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at the next market open", "key_risks": []}
+{"trade_date": "2025-06-23", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open using a limit order at $201", "key_risks": []}
+{"trade_date": "2025-06-24", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open using a limit order at $200", "key_risks": []}
+{"trade_date": "2025-06-25", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of all AAPL positions at market open using a limit order at $199", "key_risks": []}
+{"trade_date": "2025-06-26", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of the AAPL position", "key_risks": []}
+{"trade_date": "2025-06-27", "ticker": "AAPL", "rating": "SELL", "one_line_thesis": "Execute a full exit of the AAPL position at market open with a limit order at $200", "key_risks": []}

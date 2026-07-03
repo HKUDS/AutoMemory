@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Trump Trade Deal Triggers Bullish Stock Market Rally; Amazon, Apple, Nvidia, Tesla Surge",
+      "description": "Dow Jones Futures: Trump Trade Deal Triggers Bullish Stock Market Rally; Amazon, Apple, Nvidia, Tesla Surge",
+      "published_utc": "2025-05-13T07:38:37",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=ed8f67e779a62814ebdc95b62a6dcc1127ec9049a452c2d568ebe37aad39d888",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134401407,
+      "datetime": 1747093117
+    },
+    {
+      "title": "'Apple considering price increase for iPhones'",
+      "description": "Copyright © Emerce 2023Apple is considering price increases for iPhones coming out this fall, but does not want to tie them to U.S. import tariffs on products from China, where most of the devices...",
+      "published_utc": "2025-05-13T05:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f84cb93c1819415626f7a59d44ffcda1c49d4834c97206cb13dfbfc14e8f0a27",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392718,
+      "datetime": 1747083667
+    },
+    {
+      "title": "These 10 tech stocks could benefit most from softening U.S.-China tariffs",
+      "description": "These 10 tech stocks could benefit most from softening U.S.-China tariffs",
+      "published_utc": "2025-05-13T03:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7c54a1c29ac007405900c9474de3b61987c0477db23b393b7830982b2b570d9f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134401430,
+      "datetime": 1747076700
+    },
+    {
+      "title": "Tariffs Out, Price Hikes In: Reiterating Buy On Apple",
+      "description": "Apple Inc. faces declining iPhone sales in China due to competition from Huawei & Xiaomi. Click for how this challenge impacts AAPL growth & spurs innovation.",
+      "published_utc": "2025-05-13T02:11:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=850d52429738d33220e9a924ef8b48832477d37248a8d346694c617b26ebf9dd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/816101886/image_816101886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392146,
+      "datetime": 1747073497
+    },
+    {
+      "title": "Alphabet Can See Growth Despite Legal Challenges",
+      "description": "Alphabet Inc.'s strong Google Cloud demand, growth, and margin gains drive value. Click here to find out why GOOG stock is a Buy.",
+      "published_utc": "2025-05-13T02:01:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2b0ba6810e7920b0af5a2e6f2da7fb0aa262fd75cb6fe00b5a0b0097ca41aa3c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1178243889/image_1178243889.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392117,
+      "datetime": 1747072888
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:55.573123+00:00",
+    "cache_key": "news_13ce2fbfc7966fb90c57a5543b26f04f",
+    "count": 5
+  }
+}

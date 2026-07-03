@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Honeywell Poised to Exceed Quarterly Results, Lift Outlook, BofA Says",
+      "description": "Honeywell International (HON) is expected to post second-quarter results above Wall Street's expecta",
+      "published_utc": "2025-07-15T03:58:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2f04d6b996a63ff5561ab2cd1b3819201f40ef184cbdd79f55788f9fe1db959",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135937092,
+      "datetime": 1752523109
+    },
+    {
+      "title": "Honeywell Poised for Q2 Beat, 'Decent' Q3 Outlook, BofA Says",
+      "description": "Honeywell International (HON) is \"well-positioned\" to report a beat-and-raise during its Q2 earnings",
+      "published_utc": "2025-07-15T01:20:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a525589b9437498050eaba8dc3a6d415563b27a1e9c4024959af6cd60937226f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135937093,
+      "datetime": 1752513644
+    }
+  ]
+}

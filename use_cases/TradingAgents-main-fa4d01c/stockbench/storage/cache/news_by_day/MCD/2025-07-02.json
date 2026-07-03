@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Corp. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "description": "McDonald's Corp. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "published_utc": "2025-07-02T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7f50ca228a618bf40d29d7f169bf8b0264c6c976e7a18555ce6578ae77c3671c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135730717,
+      "datetime": 1751387520
+    },
+    {
+      "title": "Attempts to kill DEI have inadvertently made corporate diversity stronger",
+      "description": "C-suites and boardrooms have been forced to articulate why diversity is essential to financial performance.",
+      "published_utc": "2025-07-02T00:26:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a37185153d7fe767e34fba8a69812f60504f4e18147824f90dde134d51e2ecca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697894,
+      "datetime": 1751387214
+    }
+  ]
+}

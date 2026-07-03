@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Heard on the Street Recap: Big Swings",
+      "description": "What Happened in Markets Today A rush of earnings reports that missed expectations jarred pharma, healthcare and consumer stocks. UnitedHealth Group fell nearly 7.5% after disappointing earnings. Drug-maker Novo Nordisk was down 22% amid growing competition in weight-loss medications.",
+      "published_utc": "2025-07-30T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4b67471ad3b1fe3911495abeadb9d96ed0da087b8db67e3ce00e0bfac136df0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129731,
+      "datetime": 1753825503
+    },
+    {
+      "title": "Parent company of Charmin and Tide brands to raise prices on other products due to tariff pressure",
+      "description": "P&G plans single-digit price hikes on about a quarter of its U.S. products as it looks to offset about $1 billion in cost increases stemming from higher tariffs.",
+      "published_utc": "2025-07-30T04:58:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ece5bbe42d51f6fb57b5face80dc44c4916a48db71fb05d5694d906fed3344ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129732,
+      "datetime": 1753822737
+    },
+    {
+      "title": "Shoppers Are Snapping Up This Green Laundry Detergent",
+      "description": "Packaging and sustainability haven't been top considerations for shoppers in recent years, surveys from McKinsey show.",
+      "published_utc": "2025-07-30T04:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87055489144b5a458b009d405c5cd9aeb8e68a46e0dad385922d73cd9e025b14",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129733,
+      "datetime": 1753822680
+    },
+    {
+      "title": "Trump gets tariffs; Americans get price hikes",
+      "description": "(Reuters) -U.S. President Donald Trump is getting his tariffs.  Companies are making it clear how they intend to deal with it - passing them on to American consumers.  Throughout the spring, big retailers and consumer product makers warned that levies on imported goods would squeeze their operations, forcing them to choose between lower earnings and passing on higher costs to customers.",
+      "published_utc": "2025-07-30T02:07:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7021422116134bdf8cb1bc0eab5cd42851eb59f884071b9af46f03097f10eb93",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129703,
+      "datetime": 1753812467
+    },
+    {
+      "title": "Procter & Gamble Names Shailesh Jejurikar as Next CEO Amid Tariff Challenges",
+      "description": "Shailesh Jejurikar to succeed Jon Moeller as CEO in 2026 as P&G navigates tariffs and price strategies for growth.",
+      "published_utc": "2025-07-30T01:24:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5da22a6f406960724466e07c8a74c8a5724e7591a83578feab029506233e83d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129735,
+      "datetime": 1753809893
+    }
+  ]
+}

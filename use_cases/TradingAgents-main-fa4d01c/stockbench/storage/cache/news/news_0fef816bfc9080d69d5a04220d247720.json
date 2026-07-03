@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Zeroes Across The Board",
+      "description": "Tuesday granted Wall Street a welcome rest, closing in a sea of zeroes resembling salary negotiations at an unpaid internship fair.",
+      "published_utc": "2025-04-16T06:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=30e59d241d487380724fc79a556df8a92f3872182493ef08f8e1fd068e162130",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2150714845/image_2150714845.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133930086,
+      "datetime": 1744755300
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Bank of America, Citigroup, Netflix, Boeing, Tesla, HPE, Applied Digital, and More",
+      "description": "Bank of America and Citigroup post better-than-expected first-quarter earnings, a report says China ordered a halt to Boeing jet deliveries as part of the escalating trade war with the U.S., and Tesla stock rises after its chart forms a ‘death cross.’",
+      "published_utc": "2025-04-16T04:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09fb0b39774eddc3da3e544d02d937f4809649943cab8a0fd3ff480122c92535",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932710,
+      "datetime": 1744749720
+    },
+    {
+      "title": "J&J expects a $400M hit from tariffs, mostly from China",
+      "description": "Johnson & Johnson (JNJ) beat first quarter earnings expectations, but concerns over a $400 million tariff impact, mainly from China, are keeping shares flat. Yahoo Finance Senior Reporter Anjalee Khemlani joins Market Domination to show how the company's medical device business is feeling the pressure. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-16T03:49:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cea9aac74d58035abfaeb568a56022287a8cef79049e1bfa853ac56710c7f47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932745,
+      "datetime": 1744746566
+    },
+    {
+      "title": "Johnson & Johnson (JNJ): Stuck in a Range but Ready to Break Out if Legal Clouds Clear – Jim Cramer Weighs In",
+      "description": "We recently published a list of Jim Cramer’s Game Plan: 15 Stocks to Watch. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other stocks that Jim Cramer discusses. On Friday, Mad Money host Jim Cramer outlined what investors should focus on in the week, especially […]",
+      "published_utc": "2025-04-16T03:01:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=663b737b172f2cf96a865165b57445bba596d2287969be9ed1073f7fa54e72b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932746,
+      "datetime": 1744743704
+    },
+    {
+      "title": "J&J projects $400m tariff hit but raises sales outlook",
+      "description": "J&J is projecting a $400m hit due to US tariffs in 2025, but reaffirmed its profit outlook while raising its sales forecast.",
+      "published_utc": "2025-04-16T02:40:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71f565ebcf4d07d40309238a2bbd502fc28100023261ae5542ad0b0b1d21c17f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932747,
+      "datetime": 1744742411
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:33.017486+00:00",
+    "cache_key": "news_0fef816bfc9080d69d5a04220d247720",
+    "count": 5
+  }
+}

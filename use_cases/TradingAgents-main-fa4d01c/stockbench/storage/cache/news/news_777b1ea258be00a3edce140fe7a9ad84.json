@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase Ups Dividend, Approves $50 Billion Buyback After Stress Test",
+      "description": "The dividend increase and buyback come after the New York bank completed its stress test, which is used to assess an institution’s ability to withstand financial shocks and volatility.",
+      "published_utc": "2025-07-02T05:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72f2264862ec09eb9027519246518c287c049ce017489fcacd67d161b396d243",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699795,
+      "datetime": 1751404320
+    },
+    {
+      "title": "JPMorgan Chase stock rises after $50 billion buyback, dividend hike",
+      "description": "Investing.com -- JPMorgan Chase (NYSE:JPM) stock rose 1% in afterhours trading Tuesday following the banking giant’s announcement of a massive $50 billion share repurchase program and plans to increase its quarterly dividend.",
+      "published_utc": "2025-07-02T05:09:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57c52acdae55dd17169034405463dafc552e5da8e168c8fab5ff270462a108f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699797,
+      "datetime": 1751404170
+    },
+    {
+      "title": "JPMorganChase Announces 2025 Dodd-Frank Act Stress Test Results",
+      "description": "NEW YORK, July 01, 2025--JPMorgan Chase & Co. (NYSE: JPM) (\"JPMorganChase\" or the \"Firm\") announced today that it has released the results of its company-run 2025 Dodd-Frank Act Stress Test for JPMorganChase and JPMorgan Chase Bank, National Association. Information can be found on the Firm's website at www.jpmorganchase.com under Investor Relations, Events & Presentations.",
+      "published_utc": "2025-07-02T04:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c107f84453195f8ec265c0c09ce3b31745788002886dde62456987594ca0b29a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699800,
+      "datetime": 1751402400
+    },
+    {
+      "title": "JPMorganChase Regulatory Capital Update",
+      "description": "NEW YORK, July 01, 2025--JPMorgan Chase & Co. (NYSE: JPM) (\"JPMorganChase\" or the \"Firm\") has announced updated information relating to its third quarter dividend, common share repurchase program and regulatory capital requirements. Information can be found on the Firm’s Investor Relations website at jpmorganchase.com/ir/news.",
+      "published_utc": "2025-07-02T04:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d234fc68552db056921d27d6dd5de0d12676cb639cc76b6b4c765c042df56a13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699798,
+      "datetime": 1751402400
+    },
+    {
+      "title": "Bank Stocks Near Record With Buyback, Dividend Boosts on Horizon",
+      "description": "(Bloomberg) -- US bank stocks closed at their highest level in three years as investors continued to pile into the group amid speculation they will begin to boost buybacks and dividends after the lenders comfortably cleared the Federal Reserve’s stress test last week.Most Read from BloombergStruggling Downtowns Are Looking to Lure New CrowdsSprawl Is Still Not the AnswerCalifornia Exempts Building Projects From Environmental LawThe KBW Bank Index rose 1.5% Tuesday, closing at the highest level s",
+      "published_utc": "2025-07-02T04:07:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3a3d1c48959d5a2a58c8e75f25c91c134a2d261591229db624845155d934904",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697954,
+      "datetime": 1751400467
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:09.592885+00:00",
+    "cache_key": "news_777b1ea258be00a3edce140fe7a9ad84",
+    "count": 5
+  }
+}

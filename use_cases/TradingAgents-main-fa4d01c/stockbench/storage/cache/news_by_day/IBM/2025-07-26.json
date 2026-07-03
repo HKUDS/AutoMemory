@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Equity-Income Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-26T21:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98c8bd1248935d551b22de21306696be014013e3b30d997199056a14f1b42eab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136095888,
+      "datetime": 1753536000
+    },
+    {
+      "title": "Investing.com’s stocks of the week",
+      "description": "Investing.com -- U.S. stocks continued to rally this week, boosted by President Trump’s trade deals and a deluge of earnings releases.",
+      "published_utc": "2025-07-26T17:30:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c8c6d3f4d896f6f074f3374ffd2e75812200c3bb88f13102a7681760c1dadb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101772,
+      "datetime": 1753522221
+    },
+    {
+      "title": "What I Wish I Knew Before Investing In Dividend Stocks",
+      "description": "Dividend investing has been extremely rewarding for me. See here for 4 crucial and rarely discussed lessons from experiences in dividend investing.",
+      "published_utc": "2025-07-26T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fcc7a01a85b3d5e36c17b7163a10063dc8bf168b3c764ee5f7e2f2f7f1f29eb7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/523623342/image_523623342.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136094879,
+      "datetime": 1753518600
+    }
+  ]
+}

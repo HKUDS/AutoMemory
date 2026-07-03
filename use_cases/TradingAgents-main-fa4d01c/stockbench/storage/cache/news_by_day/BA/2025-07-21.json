@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Flying Cars 101: Why Joby Aviation Is Ahead",
+      "description": "Joby Aviation is the best-capitalized eVTOL leader, boasting regulatory progress and strong partnerships. Read why JOBY stock is a Buy.",
+      "published_utc": "2025-07-21T07:02:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3dea87fca3a951da991d505d7a8394926d9feba8d82451010437120c59b4edc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1487103044/image_1487103044.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136022129,
+      "datetime": 1753052562
+    }
+  ]
+}

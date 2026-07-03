@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: Second quarter earnings season kicks off with big banks leading the way",
+      "description": "Second quarter earnings season kicked off on Tuesday, with expectations that profits grew at the slowest rate in over two years during the quarter.",
+      "published_utc": "2025-07-15T04:58:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3682f02c196824a1c240ec9ba64937293d1e2bf4fbd157ad5e405dfd7ac9880",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135957776,
+      "datetime": 1752526732
+    },
+    {
+      "title": "Earnings live: Second quarter earnings season set to kick off with big banks leading the way",
+      "description": "Second quarter earnings season is set to kick off on Tuesday, with expectations that profits grew at the slowest rate in over two years during the quarter.",
+      "published_utc": "2025-07-15T04:58:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcfdd7f9feda8469d88c51a3aefcd8f0600d323294ad58e27a25926e3a705ce1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932544,
+      "datetime": 1752526732
+    },
+    {
+      "title": "Nasdaq Reaches New High as Investors Brush Off Tariff Concerns",
+      "description": "US equities moved higher Monday, lifting the Nasdaq Composite to a new all-time high as traders appe",
+      "published_utc": "2025-07-15T04:56:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a1e4850495b7fdf21be6f6a45fb0488e70e8d93edd85671224f83e82c7c0327",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931766,
+      "datetime": 1752526601
+    },
+    {
+      "title": "Earnings to Watch This Week",
+      "description": "Corporate earnings season takes off this week with U.S. banks led by JPMorgan Chase. Big companies outside of finance including Johnson & Johnson, Netflix and PepsiCo are also on the way. Here are the highlights of who is reporting, and the expected approximate release times.",
+      "published_utc": "2025-07-15T04:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=acbd90d76cfa265e269bb9626e4750e93b59b427b260d9c6799a22d446a5ab78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931768,
+      "datetime": 1752525902
+    },
+    {
+      "title": "Kenvue Yo-Yoes After Tylenol-Maker Unveils New CEO, Strategic Review",
+      "description": "Kenvue stock yo-yoes Monday after the company — known for brands like Tylenol — announced a new CEO and strategic review.",
+      "published_utc": "2025-07-15T04:24:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd0ded50c97d5ee792993adf7556e321b4d2db4db89d89e066b1aa644ac60cc3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932548,
+      "datetime": 1752524650
+    }
+  ]
+}

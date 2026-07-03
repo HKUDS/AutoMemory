@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "TD Cowen Reaffirms Home Depot (HD) Rating, Target on the Possibility of GMS Acquisition",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the 12 stocks that will make you rich in 10 years. On June 23, TD Cowen reaffirmed its “Buy” rating on Home Depot’s stock. The firm also kept the $470.00 price target. This decision followed reports of the company’s potential acquisition of GMS Inc. (NYSE:GMS), a specialty […]",
+      "published_utc": "2025-06-28T17:41:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d15a3b5354ec234b3d26695dc50c99a82896466cd3fe7f1658a1369b1501197",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609882,
+      "datetime": 1751103677
+    }
+  ]
+}

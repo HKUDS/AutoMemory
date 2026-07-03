@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International (NasdaqGS:HON) Eyes Qatar's Digital Growth With Nokia Partnership",
+      "description": "Honeywell International (NasdaqGS:HON) experienced a price move of 8%, aligning closely with broader market trends that saw a 12% rise over the last 12 months. Amidst this growth, the company's notable events in the last quarter, such as enhancing supply chains with Arkema and advancing aerospace technologies with Vertical Aerospace, support this upward trajectory. Meanwhile, market dynamics like Honeywell's potential acquisition of Johnson Matthey's division and the significant share buyback...",
+      "published_utc": "2025-06-04T01:48:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ede88d7ba93b8675c28f08d107a2106b24f59a9c4125241f5ea989af5e4d8953",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135003141,
+      "datetime": 1748972917
+    }
+  ]
+}

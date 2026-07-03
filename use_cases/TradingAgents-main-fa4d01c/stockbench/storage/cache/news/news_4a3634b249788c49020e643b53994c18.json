@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of February 23",
+      "description": "Stay updated with weekly dividend changes for Dividend Champions, Contenders & Challengers. Explore ex-dividend dates, pay dates and more.",
+      "published_utc": "2025-02-22T09:07:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a8c82c4cd9278367d42979b1bea036d6603660a218b35afe735a39f1681bed8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132831811,
+      "datetime": 1740186430
+    },
+    {
+      "id": "2b92876c9b49c1f405627cddfa7549268d20271746051252bd13ba00d1e258b7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will President Trump's Tariffs Cause the S&P 500 to Plunge? Here's What 1 Top Wall Street Analyst Thinks.",
+      "author": "Keith Speights",
+      "published_utc": "2025-02-22T10:49:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/will-president-trumps-tariffs-cause-the-sp-500-to/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808107/man-with-hands-behind-head-stock-charts-down.jpg",
+      "description": "Goldman Sachs projects that S&P 500 earnings and performance could be negatively impacted by President Trump's tariffs, with a potential 5% decline in the near term. However, the uncertainty created by tariffs could have a greater impact than the direct earnings effects.",
+      "keywords": [
+        "tariffs",
+        "S&P 500",
+        "earnings",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites analysis from Goldman Sachs' chief U.S. equity strategist David Kostin, who provided estimates on the potential impact of tariffs on S&P 500 earnings and performance."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites analysis from Goldman Sachs' chief U.S. equity strategist David Kostin, who provided estimates on the potential impact of tariffs on S&P 500 earnings and performance."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites analysis from Goldman Sachs' chief U.S. equity strategist David Kostin, who provided estimates on the potential impact of tariffs on S&P 500 earnings and performance."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites analysis from Goldman Sachs' chief U.S. equity strategist David Kostin, who provided estimates on the potential impact of tariffs on S&P 500 earnings and performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:15.810465+00:00",
+    "cache_key": "news_4a3634b249788c49020e643b53994c18",
+    "count": 2
+  }
+}

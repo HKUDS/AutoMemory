@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Is Novo Nordisk Immune To President Trump's Drug Price Plans",
+      "description": "Discover why Novo Nordisk's stock surged despite CEO changes, driven by GLP-1 success, record sales, and a $2.2B deal to combat obesity.",
+      "published_utc": "2025-05-26T08:07:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=58764c7eb5c1f7c305fb5b3175bab417232eab2adfadc7b42fac43f6eea5bcce",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1453973904/image_1453973904.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134697300,
+      "datetime": 1748218034
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:14.654806+00:00",
+    "cache_key": "news_d7f6b6ec22d7726c3a615ed37762b2d8",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Alphabet earnings, Fed comments, Nintendo Switch 2: What to Watch",
+      "description": "Here's what investors are watching on Thursday, April 24. Procter & Gamble (PG), Merck (MRK), and PepsiCo (PEP) are set to release quarterly results before the opening bell, while Alphabet (GOOG, GOOGL), T-Mobile (TMUS), and Intel (INTC) are on deck to report after the market close. Minneapolis Federal Reserve President Neel Kashkari will deliver remarks. Nintendo (NTDOY, 7974.T) will kick off Switch 2 pre-orders in the US and Canada. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-24T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5381fda0f64107479e57e667e05aedac92a8ea8f9d11b882b7eb47b954e7703c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059226,
+      "datetime": 1745449200
+    },
+    {
+      "title": "UnitedHealth Stock Crash: 3 Better Dow Jones Dividend Stocks to Buy Now",
+      "description": "After UnitedHealth Group (NYSE: UNH) delivered a surprisingly weak first-quarter report last Thursday, its stock price crashed more than 22% on Friday -- the insurer's worst single-session drop since August 1998.  Prior to that sell-off, UnitedHealth was the largest component in the price-weighted Dow Jones Industrial Average (DJINDICES: ^DJI).  Now, the baton has been passed to Goldman Sachs.",
+      "published_utc": "2025-04-24T04:14:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=278e7328d0f3aade1d90a4eaa41ff05aca87b4654305a1e6942b3fbd3bd44b8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059281,
+      "datetime": 1745439257
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors despite losses on the day",
+      "description": "Procter & Gamble Co. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-04-24T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=59f1eafff19cf934890bbb9e7db52cd66dcd6149f91a53ac0dda93eaf7e6089a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134053060,
+      "datetime": 1745425860
+    }
+  ]
+}

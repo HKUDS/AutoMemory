@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway Inc. 2024 Shareholder Letter",
+      "description": "Berkshire Hathaway has released its 2024 shareholder letter. Click here to read the full letter.",
+      "published_utc": "2025-02-23T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e0b4c32d3b424b2a3cd92c66def85354998e1dcc6fe5da17af114013215adc6c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/73562040/image_73562040.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132854890,
+      "datetime": 1740254400
+    },
+    {
+      "title": "AMZY Is A Role Model For The YieldMax Options Strategy",
+      "description": "YieldMax AMZN Option Income Strategy ETF employs aggressive strategies for income. Read why AMZY is a hold and a high-risk option for income investors.",
+      "published_utc": "2025-02-22T16:38:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fccefaa8f98bc2eddfe6beb81444e46e4b878f2a438ed9eb1ce06aca2d36e1d0",
+      "category": "company",
+      "image": "https://media.gettyimages.com/id/sb10065668b-001/photo/five-harlequin-great-dane-puppies-sleeping-in-row-overhead-view.jpg?b=1&s=612x612&w=0&k=20&c=wxtgnTsc7OcefyVc7FhHd-kkiFF43xFw1yKBRULj2Qw=",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132833435,
+      "datetime": 1740213481
+    },
+    {
+      "id": "3273d3f46d84710bb9f6d937c0d2a6a9dfce774bd1fb7d74986cb1b7560f4cd5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Top E-Commerce Stock Down 82%: Should You Buy It Right Now With $1,000?",
+      "author": "Neil Patel",
+      "published_utc": "2025-02-22T23:48:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/top-stock-down-should-you-buy-right-now-1000/?source=iedfolrf0000001",
+      "tickers": [
+        "ETSY",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808296/online-shopping-add-to-cart-e-commerce.jpg",
+      "description": "Etsy, an e-commerce platform, is facing challenges due to declining gross merchandise sales (GMS) and softer consumer spending on discretionary products. The company's network effects and focus on differentiated products provide some competitive advantages, but its valuation remains low, and a return to steady GMS growth is crucial for improvement.",
+      "keywords": [
+        "Etsy",
+        "e-commerce",
+        "consumer spending",
+        "discretionary products",
+        "network effects",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "ETSY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Etsy is struggling with declining gross merchandise sales (GMS) and softer consumer spending on discretionary products, which has resulted in weakening market sentiment and a significant drop in its stock price."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is a dominant e-commerce player with strong network effects, massive sales, and a significant market share, making it a top choice for investors looking to invest in the e-commerce sector."
+        }
+      ]
+    },
+    {
+      "id": "54a47e01fb576547398834e7f766a0d9e7ee49b9a5c7fcf5db10a529df96cbf6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Stanley Druckenmiller Just Loaded Up on Amazon Stock. Should You Follow?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-22T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/billionaire-stanley-druckenmiller-just-loaded-up-o/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808185/person-analyizing-financial-data-on-multiple-screens.jpg",
+      "description": "Billionaire Stanley Druckenmiller's Duquesne Family Office opened a new position in Amazon in the fourth quarter, citing the company's strong growth in AWS and advertising segments. The article suggests that Amazon is a good long-term investment despite its current valuation.",
+      "keywords": [
+        "Amazon",
+        "Stanley Druckenmiller",
+        "Duquesne Family Office",
+        "AWS",
+        "Advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong growth in its AWS and advertising segments, which are more profitable than its e-commerce business. It suggests that Amazon is a good long-term investment despite its current valuation."
+        }
+      ]
+    },
+    {
+      "id": "66bec5dc5a2389d3d82eb8930a20f553521dc8aa01365d0da27b708ec3af863c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Cathie Wood Just Bought These 3 Magnificent Stocks. Should You?",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-02-22T10:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/cathie-wood-just-bought-these-3-magnificent-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "SHOP",
+        "TOST"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807914/person-holding-a-phone.jpg",
+      "description": "Cathie Wood, the renowned investor, has recently increased her positions in Amazon, Shopify, and Toast. These companies have shown strong performance and growth potential, with Amazon leading in cloud services, Shopify dominating the e-commerce software market, and Toast emerging as a leader in the restaurant management platform space.",
+      "keywords": [
+        "Cathie Wood",
+        "Amazon",
+        "Shopify",
+        "Toast",
+        "ETFs",
+        "Disruptive technology"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is an exceptional company with a strong market position in cloud services and growth opportunities in generative AI. Cathie Wood recognized the opportunity and increased her position in the stock."
+        },
+        {
+          "ticker": "SHOP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Shopify is the largest e-commerce software platform in the U.S. and is experiencing strong growth in international markets, physical retail, and the business-to-business segment. Cathie Wood is a longtime fan of the company and has added it to her Ark Next Generation Internet ETF."
+        },
+        {
+          "ticker": "TOST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Toast is a cloud-based restaurant management platform that has emerged as a leader in its industry, with a growing customer base and recent profitability. Cathie Wood has added Toast to her Ark Next Generation Internet ETF, recognizing its growth potential."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:44.593054+00:00",
+    "cache_key": "news_c07f59d679c1eb50ad4cdd88c038450f",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Investors wade into bank debt as tariffs bite and key bank regulator is replaced",
+      "description": "Investors wade into bank debt as tariffs bite and key bank regulator is replaced",
+      "published_utc": "2025-02-03T22:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a6a958ed6372dbab96c5802030383da36d799380819fc014a842aa531f196295",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132544094,
+      "datetime": 1738593960
+    },
+    {
+      "title": "Dow's 536-point fall led by losses for NVIDIA Corp., Nike stocks",
+      "description": "Dow's 536-point fall led by losses for NVIDIA Corp., Nike stocks",
+      "published_utc": "2025-02-03T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=62414f423107dcbafc620e66e032898ccd45ef9c4a7e260d6ea7d6fc10124893",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132522727,
+      "datetime": 1738575900
+    },
+    {
+      "title": "Here are all the ways Trump’s tariffs could hit stocks, according to Goldman Sachs",
+      "description": "Here are all the ways Trump’s tariffs could hit stocks, according to Goldman Sachs",
+      "published_utc": "2025-02-03T17:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=eef9289278459918f77524e71c2c14344f254f5b97c0507e90bb3fcb4860a04c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132522484,
+      "datetime": 1738575180
+    },
+    {
+      "title": "Goldman Believes U.S. Tariffs on Energy Have Been Priced into the Oil Market -- OPIS",
+      "description": "Goldman Believes U.S. Tariffs on Energy Have Been Priced into the Oil Market -- OPIS",
+      "published_utc": "2025-02-03T17:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1c2990d652b83f201df94d1ed2743a8a15ae445530ad7e97442bdbf7514a8a34",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132522485,
+      "datetime": 1738575120
+    },
+    {
+      "title": "Global hedge funds dump everything but real estate stocks, says Goldman Sachs",
+      "description": "Hedge funds last week jettisoned global stocks and added bets they would decline, said Goldman Sachs, just before U.S. President Trump announced tariffs that sent global markets tumbling. ...",
+      "published_utc": "2025-02-03T14:36:43",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fa342bdfd3216d5bf7d9e973c257656d3c6fb50fbbcd1abfa6cae32ade73b345",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132519610,
+      "datetime": 1738564603
+    }
+  ]
+}

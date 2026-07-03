@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Contrafund Q4 2024 Review",
+      "description": "For Q4 2024, the Fidelity Contrafund's Retail Class shares gained 3.56%, topping the 2.41% advance of the S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-02-06T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a0a5a73483fa9fd7e332d0b4cf17231696a722fb5cfb954e54a0be6eb6011ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952762622/image_952762622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569795,
+      "datetime": 1738794900
+    },
+    {
+      "title": "Skyworks' Shares Drop as Competitor Cuts Into Apple Business, New CEO Named",
+      "description": "Skyworks' Shares Drop as Competitor Cuts Into Apple Business, New CEO Named",
+      "published_utc": "2025-02-06T02:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ae2d14c6905ddfe38d0f9cb49d4a9af88bd4832c0a23e1573b3fe671fae4634d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573403,
+      "datetime": 1738781760
+    },
+    {
+      "title": "Google Is the Latest Firm to Rethink Diversity Hiring",
+      "description": "Google Is the Latest Firm to Rethink Diversity Hiring",
+      "published_utc": "2025-02-06T01:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2fc007adb3cc3517be093415e504e57a892a444c4e28c3e69ccf0cf67f926ba3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573404,
+      "datetime": 1738777080
+    },
+    {
+      "title": "How DeepSeek could deliver another blow to the stock market",
+      "description": "How DeepSeek could deliver another blow to the stock market",
+      "published_utc": "2025-02-06T01:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5b6f3eceacdc8ccf2398a192cc64dfc45cd25533e6f22e11b8864ca1fd0d18a6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573405,
+      "datetime": 1738777020
+    },
+    {
+      "title": "China May Investigate Apple's App Store Fees",
+      "description": "Apple is the latest tech company to face a potential probe from China as tariff spats escalate with the US. Bloomberg's Peter Elstrom joins Caroline Hyde and Jackie Davalos on Bloomberg Technology...",
+      "published_utc": "2025-02-06T00:35:55",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=67cc76d0d68003d75fdd2e182c513b6230f3d16b6db25bd26e14dee639dabf57",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568240,
+      "datetime": 1738773355
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:24.701564+00:00",
+    "cache_key": "news_e5af36d4ef0c661d021e0d3e55a69996",
+    "count": 5
+  }
+}

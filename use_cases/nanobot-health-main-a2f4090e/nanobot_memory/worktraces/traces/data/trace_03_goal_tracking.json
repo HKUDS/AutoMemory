@@ -1,0 +1,309 @@
+{
+  "trace_id": "trace_03_goal_tracking",
+  "description": "Tests health goals and goal progress updates. Critical: goal progress updates must update current value (not just append), follow-up dates must be stored. Also tests symptom-medication cross-reference storage. Ensures goal section in HEALTH.md is maintained with target vs. current values.",
+  "turns": [
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What's the best way to organize a home office for productivity?"
+        },
+        {
+          "role": "assistant",
+          "content": "Key home office productivity setup: good monitor at eye level, ergonomic chair with lumbar support, adequate lighting (prefer natural + task lamp), noise control (headphones or acoustic panels), clean desk policy (only current project visible), and physically separating work from leisure spaces if possible."
+        }
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {
+          "role": "user",
+          "content": "I want to set some health goals. First, I'm trying to lose weight. I currently weigh 215 pounds and my target weight is 195 pounds \u2014 that's a 20-pound loss. I'd like to achieve this by October 1, 2026. Second, I want to get my blood pressure down. My current readings are averaging around 140/90 and I want to get it below 130/80 \u2014 that's my cardiologist's target. I'd like to reach this by August 1, 2026."
+        },
+        {
+          "role": "assistant",
+          "content": "I've set up your health goals:\n\n1. **Weight loss goal**: Current weight 215 lbs \u2192 Target 195 lbs (20 lb loss). Deadline: October 1, 2026.\n2. **Blood pressure goal**: Current average 140/90 mmHg \u2192 Target <130/80 mmHg. Deadline: August 1, 2026.\n\nThese are now tracked in your Goals & Care Plan section of your health profile."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "Do you have any tips for reducing food waste?"
+        },
+        {
+          "role": "assistant",
+          "content": "Practical food waste reduction: meal plan weekly before shopping, store food correctly (bananas separate from other fruit, herbs in water like flowers), use the FIFO method (first in, first out), keep a 'use first' bin in the fridge, freeze items before they go bad, and learn to love planned leftovers."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "I also want to set an exercise goal. Right now I'm only working out about 2 days per week. I want to build up to exercising at least 4 days a week with a mix of cardio and strength training. No specific deadline, just a habit I'm building toward. My current baseline is 2 days/week."
+        },
+        {
+          "role": "assistant",
+          "content": "Exercise goal recorded:\n- **Exercise frequency goal**: 4 days/week (cardio + strength training)\n- Current baseline: 2 days/week\n- Timeline: ongoing habit building (no specific deadline)\n\nBuilding up gradually \u2014 adding 1 day per month is a sustainable approach. This has been added to your Goals & Care Plan."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you explain what inflation means and how it affects me?"
+        },
+        {
+          "role": "assistant",
+          "content": "Inflation is the gradual increase in prices over time, which means your money buys less. If inflation is 4% and your savings account earns 1%, you're effectively losing purchasing power. It affects you through higher grocery/gas prices, rent increases, and eroding savings value. That's why investing (which ideally outpaces inflation) matters."
+        }
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Quick health update \u2014 I weighed myself this morning, April 16, 2026. I'm now 210 pounds. Down from 215 when I started. So I've lost 5 pounds toward my goal of 195."
+        },
+        {
+          "role": "assistant",
+          "content": "Great progress! Weight goal update:\n- Started: 215 lbs\n- **Current: 210 lbs** (April 16, 2026)\n- Target: 195 lbs\n- Progress: 5 lbs lost, 15 lbs remaining\n\nI've updated your weight goal with the current measurement. You're 25% of the way to your target!"
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What are the best ways to learn a new skill quickly?"
+        },
+        {
+          "role": "assistant",
+          "content": "Accelerated skill learning: use the 80/20 rule (identify the 20% of the skill that gives 80% of results and focus there first), practice with immediate feedback, space your learning sessions rather than cramming, teach what you learn to others (forces real understanding), and embrace deliberate practice \u2014 focused, intentional effort on weaknesses."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "How do I choose a good running shoe?"
+        },
+        {
+          "role": "assistant",
+          "content": "Key running shoe selection factors: get gait analysis at a specialty running store (identifies overpronation, underpronation, or neutral), ensure a thumb's width of space in the toe box, replace every 300-500 miles, and test on the type of surface you'll run on (road, trail, or track shoes differ significantly). Don't buy based on appearance alone."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "I also want to add a medication adherence goal. I need to take my Metformin consistently twice a day every day \u2014 I've been forgetting sometimes. I want to hit at least 95% adherence. I'll track it in a pill organizer."
+        },
+        {
+          "role": "assistant",
+          "content": "Medication adherence goal recorded:\n- **Goal**: 95% adherence to Metformin 1000mg twice daily\n- Tracking method: pill organizer\n- This has been added to your Goals & Care Plan.\n\nTip: set two daily phone alarms \u2014 one for morning and one for evening \u2014 as the most effective adherence aid."
+        }
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Blood pressure update: I've been monitoring at home as Dr. Chen instructed. Here are my readings this week: Monday 138/88, Wednesday 134/84, today (Thursday) 132/82. The trend is clearly going down. My average this week is about 135/85, which is getting closer to the 130/80 target."
+        },
+        {
+          "role": "assistant",
+          "content": "Blood pressure goal update:\n- **Recent readings**: 138/88 (Mon), 134/84 (Wed), 132/82 (Thu)\n- **Current average**: ~135/85 mmHg (week of April 13-16, 2026)\n- **Target**: <130/80 mmHg\n- Progress: trending down, approximately 5/5 mmHg away from target\n\nI've updated your BP goal with these current readings. The Amlodipine appears to be working well. Keep monitoring twice weekly as Dr. Chen instructed."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What's the most efficient way to commute by bike in a city?"
+        },
+        {
+          "role": "assistant",
+          "content": "City cycling efficiency tips: plan your route using bike infrastructure (lanes and paths), use a reliable lock (U-lock + cable combo), choose slightly wider tires for comfort on rough roads, carry basic repair tools (patch kit, multi-tool, pump), and wear visible clothing. Apps like Komoot or Google Maps bike routing help find safer paths."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What are some good strategies for managing work-related stress?"
+        },
+        {
+          "role": "assistant",
+          "content": "Evidence-based stress management: set clear work/life boundaries (shut down devices at a defined time), take micro-breaks every 90 minutes (your brain cycles naturally), use the Pomodoro technique for focused work, practice box breathing for acute stress, prioritize tasks with Eisenhower matrix, and address root causes rather than just symptoms \u2014 overload often signals a delegation or expectations problem."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "I've been experiencing some dizziness when I stand up quickly \u2014 like a brief spinning sensation that lasts a few seconds. Started about 4 days ago. Not every time I stand up, maybe 3-4 times a day. Could this be related to my blood pressure or the Amlodipine I just started? I'm a bit worried."
+        },
+        {
+          "role": "assistant",
+          "content": "This sounds like it could be orthostatic hypotension \u2014 a temporary drop in blood pressure when you stand. This IS a known side effect of Amlodipine (calcium channel blocker), especially when first starting or if your BP is responding strongly to treatment. Given that your BP has been dropping (from 140/90 to 132/82 this week), your body may be adjusting.\n\nI've logged this as a symptom. I'd recommend:\n1. Rising slowly from sitting/lying positions\n2. Mentioning this to Dr. Chen at your May 20 appointment (or sooner if it worsens)\n3. It's not typically dangerous but worth monitoring\n\nI'll cross-reference this with your Amlodipine start date (April 1) in your medication history."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "Can you explain what NFTs are and whether they're still relevant?"
+        },
+        {
+          "role": "assistant",
+          "content": "NFTs (Non-Fungible Tokens) are blockchain-based certificates of ownership for digital assets. The 2021-2022 hype bubble largely collapsed \u2014 most speculative NFT projects lost 90%+ of their value. However, NFTs still have legitimate use cases in gaming (in-game item ownership), digital art provenance, event tickets, and professional credentials. The speculation bubble burst; the underlying technology persists in niches."
+        }
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Exercise goal update: this week I managed to work out 4 days. Monday: 45-minute yoga session. Wednesday: 5K run (31 minutes). Friday: full-body strength workout at the gym (45 minutes). Saturday: 2-hour hike. I'm really proud of that \u2014 it's the first week I've hit the 4-day target!"
+        },
+        {
+          "role": "assistant",
+          "content": "Exercise goal milestone reached!\n- **This week (April 13-19, 2026)**: 4 workouts completed \u2713\n  - Monday: 45-min yoga\n  - Wednesday: 5K run (31 min)\n  - Friday: full-body strength (45 min)\n  - Saturday: 2-hour hike\n- **Goal**: 4 days/week \u2192 **ACHIEVED this week!**\n\nI've updated your exercise goal progress. First week hitting the target is a huge milestone. I'll update your current status from 2 days/week to 4 days/week achieved."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What are some good strategies for public speaking?"
+        },
+        {
+          "role": "assistant",
+          "content": "Effective public speaking strategies: preparation beats practice (know your material cold, not just memorized), focus on the audience's needs not your nervousness, use strategic pauses for emphasis (silence is powerful), make eye contact with multiple people in different areas, vary your pace and volume, and accept that some nervousness is actually helpful (it sharpens focus)."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "I have a follow-up appointment with my cardiologist Dr. James Chen on May 20, 2026 at 2pm. I should also remind myself to discuss the dizziness symptom with him at that appointment."
+        },
+        {
+          "role": "assistant",
+          "content": "Follow-up appointment noted:\n- **Dr. James Chen (cardiologist)**: May 20, 2026 at 2:00 PM\n- Discussion items to prepare: dizziness/orthostatic hypotension symptoms (started ~April 12), BP trend (showing improvement), Amlodipine tolerance\n\nI've added this to your Goals & Care Plan as a follow-up reminder. Would you like me to help you prepare a list of questions for Dr. Chen?"
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What's your favorite book to recommend to someone going through a major life transition?"
+        },
+        {
+          "role": "assistant",
+          "content": "'The Obstacle is the Way' by Ryan Holiday (Stoic framework for adversity), 'Man's Search for Meaning' by Viktor Frankl (finding purpose through hardship), 'Transitions' by William Bridges (specifically about navigating life changes), and 'Untethered Soul' by Michael Singer (letting go and moving forward). Your situation and style of processing would determine which resonates most."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "Any tips for batch cooking to save time during the week?"
+        },
+        {
+          "role": "assistant",
+          "content": "Efficient batch cooking strategy: dedicate 2-3 hours on Sunday, cook 2 proteins (e.g., roasted chicken + hard-boiled eggs), 2 grains (rice + quinoa), and roasted vegetables. Store in clear containers at eye level in the fridge. This gives you mix-and-match components for 5 days of lunches and dinners without eating the same meal repeatedly."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "I should note my A1c goal too \u2014 my endocrinologist wants me to get my HbA1c from the current 7.2% down to below 6.5%. She said the Metformin dose increase should help with that. Target date is my next labs appointment in 3 months, around July 2026."
+        },
+        {
+          "role": "assistant",
+          "content": "HbA1c goal added to your care plan:\n- **HbA1c goal**: Current 7.2% \u2192 Target <6.5%\n- Strategy: Metformin dose increase (now 1000mg twice daily as of April 8)\n- Target timeframe: July 2026 (next labs, ~3 months)\n\nThis is now tracked in your Goals & Care Plan alongside your weight and BP goals."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What's the best approach for learning to meditate?"
+        },
+        {
+          "role": "assistant",
+          "content": "Meditation starting approach: begin with just 5 minutes daily (consistency beats duration), use guided apps like Headspace or Calm for the first month, focus on breath counting (count breaths 1-10, restart when you lose count), expect your mind to wander \u2014 the practice is noticing and returning, not achieving mental silence. Morning meditation before checking your phone is the highest-adherence time slot."
+        }
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What are the user's health goals?",
+      "expected_information": [
+        "/195|weight.*195|195.*lbs/",
+        "/130.80|blood pressure.*130/",
+        "/4 days|exercise.*4/",
+        "/HbA1c|A1c.*6.5/"
+      ]
+    },
+    {
+      "query": "What is the current weight and weight loss progress?",
+      "expected_information": [
+        "210",
+        "195",
+        "215"
+      ]
+    },
+    {
+      "query": "What is the blood pressure goal and current readings?",
+      "expected_information": [
+        "/130.80|130\\/80/",
+        "/135.85|132.82|134.84/"
+      ]
+    },
+    {
+      "query": "dizziness",
+      "expected_information": [
+        "/dizziness|dizzy/",
+        "/Amlodipine|blood pressure/"
+      ]
+    },
+    {
+      "query": "What follow-up appointments are scheduled?",
+      "expected_information": [
+        "Dr. James Chen",
+        "May 20"
+      ]
+    },
+    {
+      "query": "What is the exercise goal progress?",
+      "expected_information": [
+        "/4 days|4.*week/",
+        "/yoga|run|strength|hike/"
+      ]
+    }
+  ]
+}

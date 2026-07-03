@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "This sector may be the ‘accidental beneficiary’ of a U.S. growth scare, says JPMorgan",
+      "description": "This sector may be the ‘accidental beneficiary’ of a U.S. growth scare, says JPMorgan",
+      "published_utc": "2025-03-17T17:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c47042ac1ca03612632c8dfedc6f1cda967c7a731792093b18d5ee5e5d0933a9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213273,
+      "datetime": 1742203800
+    },
+    {
+      "title": "Spring into Streaming and Amazon Purchases with Chase Freedom's Rotating Q2 Cash Back Categories",
+      "description": "Freedom and Freedom Flex cardmembers can earn 5% cash back on new categories to kick off spring...",
+      "published_utc": "2025-03-17T16:06:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e42d8bd35b90bb7360e6c6b66369fad983ab95d7981ebda00b33b46b97e902ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133206544,
+      "datetime": 1742198764
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q4 2024 Update",
+      "description": "Viking Global's 13F stock portfolio increased from $27.44B to $30.90B, with holdings rising from 83 to 86. Read more to see the portfolio's Q4 2024 review.",
+      "published_utc": "2025-03-17T15:41:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4231b308425ecd6a3e209526e09eef1176bde00a59c04dad85e1b4110c15fc5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200502280/image_200502280.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133206548,
+      "datetime": 1742197295
+    }
+  ]
+}

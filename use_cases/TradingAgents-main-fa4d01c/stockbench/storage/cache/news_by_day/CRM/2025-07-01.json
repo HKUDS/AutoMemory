@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "AI Accounting For Up To 50% Of Salesforce, Inc. (CRM)’s Workload, Says CEO",
+      "description": "Salesforce, Inc. (NYSE:CRM) is among the 13 Best Big Name Stocks to Buy Now. During an interview with Bloomberg last week, CEO Marc Benioff described the rise of artificial intelligence as a ‘digital labor revolution’, and stated that it accounts for between 30% to 50% of the work at Salesforce. Benioff said that Salesforce, Inc. (NYSE:CRM) […]",
+      "published_utc": "2025-07-01T05:14:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9341220312563e9adcae9b1238cfb63c7825100e6842d65a17de0e1520c778f6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694038,
+      "datetime": 1751318064
+    },
+    {
+      "title": "NYLI Epoch Global Choice ADR Q1 2025 Commentary",
+      "description": "The Epoch Global Choice SMA ADR declined 2.2% (gross) and 3.0% (Net), slightly lagging the 1.8% decline of the MSCI World Index. Click here to read the full commentary.",
+      "published_utc": "2025-07-01T04:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=01e1db6b49940bbf4d4cb5db9b23e1bbacd31de1c5df6e0994cfad5d7700b094",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172483014/image_172483014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677329,
+      "datetime": 1751315700
+    }
+  ]
+}

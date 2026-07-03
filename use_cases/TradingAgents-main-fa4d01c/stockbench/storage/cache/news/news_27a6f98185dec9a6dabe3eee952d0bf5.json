@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $500 Right Now",
+      "description": "Apple and American Express are two of Berkshire Hathaway's largest investments.  Apple's push into services, in addition to Apple Intelligence, should lead to profitable growth for investors.  American Express is a resilient credit card brand that continues to adapt its offering to win over a new generation of consumers.",
+      "published_utc": "2025-05-18T06:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a30e73cf5f4a389c820df1ff0c28a558addba241614336799c3407f0947fb9a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567646,
+      "datetime": 1747520040
+    },
+    {
+      "title": "Warren Buffett Remains Optimistic About America. Here Are Top American Companies Worth Investing In.",
+      "description": "Warren Buffett has guided Berkshire Hathaway through U.S. stock market investing for 59 years.  Buffett’s investing has spanned all market environments.  The top investor continues to believe in the future of American companies -- and their stock performance.",
+      "published_utc": "2025-05-18T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d02e6ec6c1b22b4d1b4fb69c05f295ff1d671bd7c3781771f7129707f5d2ec35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567806,
+      "datetime": 1747519800
+    },
+    {
+      "id": "1f42850d4c36ef0759b09385158d18e21b588f031c9233db46b7fdf6d99abb50",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Best AMEX Casinos: Ignition Named the Top American Express Casino Site",
+      "author": "Globe Newswire",
+      "published_utc": "2025-05-17T10:34:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/17/3083485/0/en/Best-AMEX-Casinos-Ignition-Named-the-Top-American-Express-Casino-Site.html",
+      "tickers": [
+        "AXP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/28ec8f35-5659-48dc-b395-037a1256e90c",
+      "description": "Ignition, an online casino, is highlighted as the best platform for players to use American Express (AMEX) credit cards to fund their accounts. The article emphasizes Ignition's fast deposits, game selection, security, and generous welcome bonus for AMEX users.",
+      "keywords": [
+        "online casino",
+        "credit card",
+        "American Express",
+        "Ignition"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article positions American Express as a trusted and reliable payment option for online casino players, with Ignition providing a smooth and secure experience for AMEX users."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:44:17.272385+00:00",
+    "cache_key": "news_27a6f98185dec9a6dabe3eee952d0bf5",
+    "count": 3
+  }
+}

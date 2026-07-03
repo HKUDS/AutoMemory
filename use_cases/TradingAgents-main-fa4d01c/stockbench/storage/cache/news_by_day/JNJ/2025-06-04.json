@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "J&J may take a softer tariff hit after US-China pause, CFO says",
+      "description": "Joseph Wolk told an investor conference that the company’s tariff estimate is a “moving target” as trade talks continue with China and Europe and Section 232 investigations are ongoing.",
+      "published_utc": "2025-06-04T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55813b2307364b78dcf347abb7c8f140ea1f1f648d96110febf47f3c67f9c8ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135009836,
+      "datetime": 1749027600
+    },
+    {
+      "title": "Johnson & Johnson MedTech introduces automated system for surgical efficiency",
+      "description": "The system features increased reverse energy to aid in broach removal and push-to-lock adaptors for secure connections.",
+      "published_utc": "2025-06-04T16:48:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8430e09a1eb6e1257aa247e2fa9ed3c469f89263feb2b4a577672ba855208f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135009837,
+      "datetime": 1749026890
+    },
+    {
+      "title": "Johnson & Johnson Launches KINCISE 2 System, the Only Automated Surgical Impactor Approved for Knee and Hip Revision Procedures",
+      "description": "Palm Beach Gardens - Johnson & Johnson MedTech, a global leader in orthopaedic technologies and solutions, announced the launch of the KINCISE 2 Surgical Automated System, a next-generation automated...",
+      "published_utc": "2025-06-04T14:39:27",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b2918beacad26a829a50e6d1149f58a6b0582457c3206017491877d4e9998510",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135007528,
+      "datetime": 1749019167
+    },
+    {
+      "title": "J&J: promising results in multiple myeloma",
+      "description": "Johnson & Johnson announces positive initial Phase 1 results for JNJ-79635322 , an investigational trispecific antibody for patients with relapsed or refractory multiple myeloma. In the 36 patients...",
+      "published_utc": "2025-06-04T14:34:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0f3ce02516bc373477882687860ce9c071e4eab0d242378a8d1974d9597fa990",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135007492,
+      "datetime": 1749018850
+    }
+  ]
+}

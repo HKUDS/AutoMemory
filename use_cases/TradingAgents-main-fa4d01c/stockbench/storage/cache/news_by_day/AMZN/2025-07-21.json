@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amazon Stock Nabs Price-Target Hike As Analyst Envisions 'Amazon Space Platform'",
+      "description": "Baird analysts offered a bullish take on the long-term potential of the tech giant's much-debated Project Kuiper.",
+      "published_utc": "2025-07-21T23:30:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b05114975a06a8451cdd6187799b5a44809e60821bf320db64601083a54dbbb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025295,
+      "datetime": 1753111847
+    }
+  ]
+}

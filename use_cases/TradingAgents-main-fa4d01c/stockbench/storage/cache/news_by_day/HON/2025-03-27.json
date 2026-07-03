@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Honeywell (HON): “Aerospace is the Growth Engine – I Own It!”",
+      "description": "We recently published a list of Jim Cramer Focused On These 9 Stocks Recently. In this article, we are going to take a look at where Honeywell (NASDAQ:HON) stands against other stocks that Jim Cramer discussed recently. Jim Cramer, host of Mad Money, expressed his frustration on March 19 about how investors often get caught […]",
+      "published_utc": "2025-03-27T03:44:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ade2c65859587e7500efe4eafbf363307f33ff3bc1af506854da5b1af9d4569c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462139,
+      "datetime": 1743018290
+    }
+  ]
+}

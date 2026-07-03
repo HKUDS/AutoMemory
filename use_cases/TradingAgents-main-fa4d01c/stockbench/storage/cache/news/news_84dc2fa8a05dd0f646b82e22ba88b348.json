@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Exceeds Market Returns: Some Facts to Consider",
+      "description": "The latest trading day saw Procter & Gamble (PG) settling at $161.03, representing a +1.23% change from its previous close.",
+      "published_utc": "2025-06-24T06:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88b68a056eb6b2ecf5486247f83ca4b983d20bba1d1bdedc14d66d94f43a7ac3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135487704,
+      "datetime": 1750716004
+    },
+    {
+      "title": "Can Procter & Gamble's Pricing Power Keep Earnings Buoyant in 2025?",
+      "description": "PG leverages value-based pricing and innovation to enhance consumer value, profits and market share.",
+      "published_utc": "2025-06-24T01:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1a2f37190861611ce3cf936992cf87849630202ecb97c09574adfa3fd187578",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489816,
+      "datetime": 1750698120
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-24T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=58369ad2f8495e84f026f64a824eeb9ecaf0436edc26055020f6b15f122e5dbe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135498883,
+      "datetime": 1750696260
+    },
+    {
+      "title": "High-Quality Dividend Growth Near 52-Week Lows: Salesforce Is Super",
+      "description": "",
+      "published_utc": "2025-06-23T21:47:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c56e3b533e7fcb88b86aa11c14282ee6155ecda99a7e8098db10b57ceaa38db",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135484400,
+      "datetime": 1750686468
+    },
+    {
+      "title": "5 Insightful Analyst Questions From Procter & Gamble’s Q1 Earnings Call",
+      "description": "Procter & Gamble’s first quarter results were met with a negative market reaction, as management pointed to consumer and retail volatility in the U.S. and Europe as significant headwinds. CFO Andre Schulten explained that “the consumer has been hit with a lot, and that's a lot to process,” referencing shifting retail traffic, cautious spending, and changes in purchasing channels. Management emphasized that despite these challenges, seven out of ten product categories held or grew organic sales,",
+      "published_utc": "2025-06-23T11:17:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c2a76be3bf770bab6b3e8f55662464c70dbd1a604d951d91949ff4bfb223a90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481688,
+      "datetime": 1750648640
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:56.864213+00:00",
+    "cache_key": "news_84dc2fa8a05dd0f646b82e22ba88b348",
+    "count": 5
+  }
+}

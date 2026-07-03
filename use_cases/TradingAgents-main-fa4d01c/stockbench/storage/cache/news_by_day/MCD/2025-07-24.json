@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Chipotle Stock Falls After Earnings. Comparable Store Sales Are the Worry.",
+      "description": "Much of Chipotle’s revenue growth was driven by footprint expansion. Same-store sales for existing restaurants, however, declined 4% from a year ago.",
+      "published_utc": "2025-07-24T05:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fae2031b9266b1374de3ce1fbf4303b78ac07bb7701833be76d6aa78b970bc3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062243,
+      "datetime": 1753305540
+    },
+    {
+      "title": "Meme Stock Euphoria Spreads as Retail Traders Pick New Wagers",
+      "description": "(Bloomberg) -- Meme stock mania is spreading to a growing number of speculative stocks, underscoring the appetite among retail traders for riskier bets with the market at all-time highs. Most Read from BloombergTrump Awards $1.26 Billion Contract to Build Biggest Immigrant Detention Center in USWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionThe High Costs of Trump’s ‘Big Beautiful’ New Car Loan DeductionSalt Lake City Turns Winter Olympic Bid Into Statewide Bond BoomMilan Corrup",
+      "published_utc": "2025-07-24T04:33:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a2a75c89c38a150cc2e660723fa106a675834ee33ccc7c70eeb247d8d1424b66",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062234,
+      "datetime": 1753302829
+    },
+    {
+      "title": "Krispy Kreme: The Meme-Stock Surge Offers An Opportunity To Cut Losses (Downgrade)",
+      "description": "",
+      "published_utc": "2025-07-24T02:11:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=943fc5d57234513cebdb8c81c3a67ee1346a74ebcfed331ce8afc7f773d62510",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136060190,
+      "datetime": 1753294308
+    },
+    {
+      "title": "McDonald's (MCD) Declares US$1.77 Quarterly Dividend Payable September 2025",
+      "description": "On July 22, 2025, McDonald's (MCD) reaffirmed its quarterly dividend of $1.77 per share, reinforcing its dedication to shareholder value, with the payment scheduled for mid-September. Meanwhile, the S&P 500 hit new highs amidst trade deal optimism, buoying broader market sentiment and echoing the upward trend with a 1.3% rise over the past week. Amid this favorable backdrop, McDonald's saw its share price climb by 4.07% over the last month, aligning with bullish market conditions, suggesting...",
+      "published_utc": "2025-07-24T01:27:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33d716567f24186d69c61d7b16d53f59bf4f6ee542f26cf27e6bccbe08b57f64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062245,
+      "datetime": 1753291626
+    }
+  ]
+}

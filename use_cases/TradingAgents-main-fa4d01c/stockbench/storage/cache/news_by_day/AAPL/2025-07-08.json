@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "PRESS DIGEST-British Business - July 8",
+      "description": "July 8 - The following are the top stories onthe business pages of British newspapers. Reuters has notverified these stories and does not vouch for their accuracy. ...",
+      "published_utc": "2025-07-08T06:39:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7511fcc6bd92fc504a91a72454e60bea2e31a2debade8b81181e1a4dc5400f93",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792398,
+      "datetime": 1751927948
+    },
+    {
+      "title": "Meta lures Apple’s top AI executive in latest talent coup, Bloomberg reports",
+      "description": "Investing.com -- Apple Inc (NASDAQ:AAPL). has lost a key figure in its artificial intelligence efforts to Meta Platforms Inc (NASDAQ:META)., as the battle for elite AI talent intensifies. Ruoming Pang, a distinguished engineer who led Apple’s foundation models team, is leaving to join Meta, according to a report from Bloomberg citing people familiar with the matter.",
+      "published_utc": "2025-07-08T06:32:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e589687e5e4d804d399852f7ca31561de9da99d0a95b29657387671f20e602ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792666,
+      "datetime": 1751927573
+    },
+    {
+      "title": "Meta Hires Top Apple AI Expert, Continuing Zuckerberg’s Recruitment Push",
+      "description": "Meta Hires Top Apple AI Expert, Continuing Zuckerberg’s Recruitment Push",
+      "published_utc": "2025-07-08T05:32:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=9f15a8dd263f54fc3bd25830f21d63a557acf054a3eb46f0243bfe91af0f957e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135811281,
+      "datetime": 1751923920
+    },
+    {
+      "title": "Alert on apple's q3 revenue was erroneous and has been withdrawn",
+      "description": "The alert on Apple Inc's third-quarter revenue is wrong and has been withdrawn. It was published inadvertently from a press release issued by shareholder rights law firm Bragar Eagel & Squire, P.C,...",
+      "published_utc": "2025-07-08T05:29:19",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=591c7c6b3c76551cf7a60274fdf1be6d170fbee04d57d539ee5423a928788184",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135791348,
+      "datetime": 1751923759
+    },
+    {
+      "title": "Stocks to Watch Recap: Tesla, Apple, Uber",
+      "description": "↘️ Tesla (TSLA): Chief Executive Elon Musk said Saturday he had created a new political party, after reigniting a feud with President Trump. The president said Musk's America Party was \"ridiculous.\" Tesla shares slid 6.",
+      "published_utc": "2025-07-08T04:28:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33760edb99a78000fa5fe2d076e5676675984b87855b42f65ddf643d4ce994f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135789493,
+      "datetime": 1751920114
+    }
+  ]
+}

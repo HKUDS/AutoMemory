@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "title": "These are the space stocks to watch in 2025",
+      "description": "These are the space stocks to watch in 2025",
+      "published_utc": "2025-01-04T14:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73ba3adeea22bb99bbbfb2d6d54c12f6ae0c436f491b8491e76f120f7e0ef3d8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132324739,
+      "datetime": 1735972380
+    },
+    {
+      "title": "South Korea to compile transcript of voice recording from crashed plane on Saturday",
+      "description": "Investigators on Saturday expect to compile the complete transcript from the cockpit voice recorder recovered from the wreckage of the Jeju Air Boeing 737-800 that crashed on Sunday in South Korea,...",
+      "published_utc": "2025-01-04T09:09:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6f3df2fcb652f1bc3712e2e9ae9790951e6c72a28d7712fd8275fce8b7f09e3d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132263816,
+      "datetime": 1735952953
+    },
+    {
+      "id": "c6546b070ab6d03df5abbfd9a45760d97e04f9b18f017f859430df6eaff9635b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Guess Who's Building America's New Doomsday Plane?",
+      "author": "Rich Smith",
+      "published_utc": "2025-01-04T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/guess-whos-building-americas-new-doomsday-plane/?source=iedfolrf0000001",
+      "tickers": [
+        "NOC",
+        "LMT",
+        "RTX",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802675/artists-conception-of-a-planned-northrop-grumman-e-130j-is-noc.png",
+      "description": "The U.S. Navy awarded Northrop Grumman a $3.5 billion contract to build E-130J 'Doomsday Planes' for use in a nuclear war. While the contract is significant, Northrop's aeronautics division is its least profitable, and the stock is already expensive.",
+      "keywords": [
+        "Northrop Grumman",
+        "U.S. Navy",
+        "Doomsday Planes",
+        "E-130J",
+        "defense contracts"
+      ],
+      "insights": [
+        {
+          "ticker": "NOC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that the $3.5 billion contract is not particularly large, amounting to only 3% of Northrop's annual aeronautics sales. Additionally, the aeronautics division is the company's least profitable, and the stock is already trading at a high valuation, suggesting the contract alone is not enough to significantly move the needle on the stock price."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Lockheed Martin is mentioned as a subcontractor on the E-130J project, but the article does not provide any specific commentary on the impact of this contract on Lockheed Martin."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "RTX Corporation is also mentioned as part of Northrop's team for the E-130J project, but the article does not provide any further details on the impact for RTX."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that the U.S. Air Force's Doomsday Planes, the E-4B Nightwatch, were previously built by Boeing, but a new $13.1 billion contract to replace them was awarded to Sierra Nevada Corporation, with Boeing losing its role as the prime contractor."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that the U.S. Air Force's Doomsday Planes, the E-4B Nightwatch, were previously built by Boeing, but a new $13.1 billion contract to replace them was awarded to Sierra Nevada Corporation, with Boeing losing its role as the prime contractor."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:40.218180+00:00",
+    "cache_key": "news_970962c4490d214cee01d97d6ebd546e",
+    "count": 3
+  }
+}

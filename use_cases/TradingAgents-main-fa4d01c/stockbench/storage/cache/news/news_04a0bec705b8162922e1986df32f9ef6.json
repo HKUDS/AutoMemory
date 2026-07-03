@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Long Wait For Broadcom's 'AI Trifecta' Earnings Report Is Almost Over",
+      "description": "",
+      "published_utc": "2025-05-29T07:08:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe419f4fe91c3a6a4effe75667a1a79989b24624bd8c31378b11a43830fb3a1a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134782665,
+      "datetime": 1748473688
+    },
+    {
+      "title": "How Trump's trade war is upending the global economy",
+      "description": "U.S. President Donald Trump's tariffdecisions since he took office on January 20 have shockedfinancial markets and sent a wave of uncertainty through theglobal economy. Here is a...",
+      "published_utc": "2025-05-29T05:27:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d268b7e7c74a69a63ab4b77ba5838705e5323dff00b8dabf967eb89d3f1ff928",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134775146,
+      "datetime": 1748467632
+    },
+    {
+      "title": "Trump's Apple Beef Isn't Just About India-Made iPhones — It's Also About Skipped Middle East Trip: Report",
+      "description": "Apple Inc. (NASDAQ:AAPL) CEO Tim Cook has found himself at the receiving end of President Donald Trump‘s criticism, marking a stark contrast to their previously warm relationship, but reports suggest iPhone production in India is not the only reason. What Happened: According to The New York Times sources, Tim Cook turned down the Trump administration’s offer to join him alongside other CEOs and founders on a trip to the Middle East. During the trip, the President openly expressed his displeasure",
+      "published_utc": "2025-05-29T04:30:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b0b88be86fcfb0fc2d6be1e975920285f0e6ad4da5b17e407598a882c0483a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134761512,
+      "datetime": 1748464230
+    },
+    {
+      "title": "Apple's difficult 2025 is Tim Cook's biggest test yet",
+      "description": "Apple CEO Tim Cook is contending with a host of serious issues at once, ranging from antitrust fights to a souring relationship with President Trump.",
+      "published_utc": "2025-05-29T03:30:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d03f4cb3a01eae9114e6604c60505a0c9279e078b76a564140cf5db43a9b325",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134761513,
+      "datetime": 1748460607
+    },
+    {
+      "title": "Apple to Rebrand Its Device Operating Systems to Mark Major Overhaul",
+      "description": "(Bloomberg) -- Apple Inc. is planning the most sweeping change yet to its operating system names, part of a software overhaul that extends to all its devices.Most Read from BloombergNYC Congestion Toll Brings In $216 Million in First Four MonthsNY Wins Order Against US Funding Freeze in Congestion FightThe next Apple operating systems will be identified by year, rather than with a version number, according to people with knowledge of the matter. That means the current iOS 18 will give way to “iO",
+      "published_utc": "2025-05-29T02:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d174244798b16b365d8df38e21931865fc5296ad0917d1f84d96b93225346716",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134761514,
+      "datetime": 1748457300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:49:33.986378+00:00",
+    "cache_key": "news_04a0bec705b8162922e1986df32f9ef6",
+    "count": 5
+  }
+}

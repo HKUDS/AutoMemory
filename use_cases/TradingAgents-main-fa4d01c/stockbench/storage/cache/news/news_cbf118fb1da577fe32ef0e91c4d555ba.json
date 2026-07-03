@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Visa to Announce Fiscal Third Quarter 2025 Financial Results on July 29, 2025",
+      "description": "SAN FRANCISCO, July 08, 2025--Visa (NYSE: V) will report its fiscal third quarter 2025 financial results on Tuesday, July 29, 2025. After market close, Visa will furnish the results with the Securities and Exchange Commission and post them, along with accompanying financial information, on the Visa Investor Relations website. Visa will issue a news wire alert when the earnings materials are publicly available, including a link to those documents.",
+      "published_utc": "2025-07-09T04:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da6303fca0b716089339b5dce953786684929bee0cf9dd6f9248d8f2c714a951",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825981,
+      "datetime": 1752005100
+    },
+    {
+      "title": "Mastercard's Fintech Ties in Emerging Markets: Bold Move or Risky Bet?",
+      "description": "MA deepens fintech ties across emerging markets, chasing digital growth while navigating complex regional risks.",
+      "published_utc": "2025-07-08T23:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3fa3c8bff69593dbb57ec7e3cbf5d897e6b8a886ba8ccaf90ed65d3b3facce9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135815994,
+      "datetime": 1751987700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:16.295516+00:00",
+    "cache_key": "news_cbf118fb1da577fe32ef0e91c4d555ba",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Alphabet May Become The Largest Company In The World, Here's How",
+      "description": "I believe that Alphabet (GOOGL) is moving more rapidly to grow a number of its divisions. See why I think it may become the largest company in the world.",
+      "published_utc": "2025-04-14T05:19:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b437efb93217ac04155848658e9974d3560f198ebeb0fddd8ceaa26ad44e1648",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186836579/image_186836579.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133902597,
+      "datetime": 1744579173
+    }
+  ]
+}

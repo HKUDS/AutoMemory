@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Announces Positive Results for Phase 3 Study of Bemarituzumab",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the 10 Best Dip Stocks to Buy According to Billionaires. On June 30, Amgen Inc. (NASDAQ:AMGN) announced positive topline results for an important phase 3 study of Bemarituzumab for certain stomach cancers. The company announced that the Phase 3 FORTITUDE-101 trial met its primary endpoint. The Bemarituzumab plus chemotherapy significantly improved […]",
+      "published_utc": "2025-07-06T15:35:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8977627e29d45ae4c3925c6802e22ae2e2a89fe0b93f01618a63041124944b13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135773784,
+      "datetime": 1751787344
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:04:18.947440+00:00",
+    "cache_key": "news_d902d4113b15fc65fd5aa189c3358d9c",
+    "count": 1
+  }
+}

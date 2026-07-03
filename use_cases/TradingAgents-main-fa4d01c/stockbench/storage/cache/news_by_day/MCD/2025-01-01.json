@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is McDonald's Stock a Buy, Sell, or Hold in 2025?",
+      "description": "If you've ever faced the frustration of finding the ice cream machine out of order at McDonald's (NYSE: MCD), you'll understand the headache investors holding the company's stock faced in 2024.  Has this restaurant giant known for its iconic Golden Arches lost some of its luster, or are there reasons for investors in 2025 to start lovin' McDonald's again?  With more than 40,000 restaurant locations in over 100 countries, McDonald's is one of the most recognizable consumer brands worldwide.",
+      "published_utc": "2025-01-01T17:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78017a4b5a759d2b44b084a53e4dbc812302c9cc7415c596e3c61721227b1096",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802451/mcdonalds-stock-outlook-2025.jpg",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132229377,
+      "datetime": 1735724700
+    }
+  ]
+}

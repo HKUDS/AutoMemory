@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "2 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "Warren Buffett's conglomerate Berkshire Hathaway has been generating market-beating returns for decades.  Buffett is disciplined in how he invests, and he looks for companies built for the long haul.  Since taking control of Berkshire Hathaway in 1965, Warren Buffett has delivered incredible returns for its shareholders.",
+      "published_utc": "2025-05-26T03:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7d739f08c95f74bc609a2df2fb5266a8befb74796aa2c6115a47564f1ede861",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715823,
+      "datetime": 1748202420
+    }
+  ]
+}

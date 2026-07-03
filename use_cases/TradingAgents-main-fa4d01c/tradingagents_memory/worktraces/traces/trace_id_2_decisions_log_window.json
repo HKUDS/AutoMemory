@@ -1,0 +1,89 @@
+{
+  "trace_id": "trace_id_2_decisions_log_window",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "read_last_n windowing, multi-ticker isolation, no-write miss",
+  "turns": [
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-02", "ticker": "MSFT", "rating": "Buy", "one_line_thesis": "Azure cloud momentum intact", "key_risks": ["OpenAI dependency"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-02", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Data center orders surging", "key_risks": ["export controls"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-03", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Taking profits after 20% run", "key_risks": ["rotation risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-03", "ticker": "MSFT", "rating": "Hold", "one_line_thesis": "Near fair value on consensus estimates", "key_risks": ["FTC scrutiny"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-06", "ticker": "NVDA", "rating": "Sell", "one_line_thesis": "Short-term overbought on RSI", "key_risks": ["earnings miss risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-07", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Support level held; demand intact", "key_risks": ["geopolitical escalation"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-07", "ticker": "MSFT", "rating": "Buy", "one_line_thesis": "AI integration driving Office365 upsell", "key_risks": ["macro slowdown"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-08", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Consolidation before next catalyst", "key_risks": ["yield curve inversion"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-09", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Watching FOMC decision impact on growth stocks", "key_risks": ["rate hike surprise"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-09", "ticker": "MSFT", "rating": "Sell", "one_line_thesis": "Valuation premium no longer justified at current growth", "key_risks": ["cloud spending slowdown"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-10", "ticker": "NVDA", "rating": "Sell", "one_line_thesis": "Distribution pattern forming at resistance", "key_risks": ["insider selling pattern"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-13", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Oversold bounce expected; fundamental thesis intact", "key_risks": ["dead-cat-bounce risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-14", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "Institutional accumulation confirmed; new target 210", "key_risks": ["market-wide correction"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-14", "ticker": "MSFT", "rating": "Hold", "one_line_thesis": "Wait for earnings clarity next week", "key_risks": ["guidance disappointment"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-15", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Pre-earnings caution; reducing position size", "key_risks": ["guidance miss", "high expectations baked in"]}}}
+  ],
+  "recall_queries": [
+    {
+      "label": "NVDA_last1_is_most_recent",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "substring", "value": "Pre-earnings caution"},
+        {"type": "not_substring", "value": "2026-01-14"}
+      ]
+    },
+    {
+      "label": "NVDA_last3_correct_window",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-13"},
+        {"type": "substring", "value": "2026-01-14"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "not_substring", "value": "2026-01-10"},
+        {"type": "not_substring", "value": "2026-01-09"}
+      ]
+    },
+    {
+      "label": "NVDA_last5_correct_window",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 5},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-10"},
+        {"type": "substring", "value": "2026-01-13"},
+        {"type": "substring", "value": "2026-01-14"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "not_substring", "value": "2026-01-07"},
+        {"type": "not_substring", "value": "2026-01-06"}
+      ]
+    },
+    {
+      "label": "MSFT_isolated_from_NVDA",
+      "component": "DecisionsLog",
+      "args": {"ticker": "MSFT", "n": 5},
+      "expected_information": [
+        {"type": "substring", "value": "MSFT"},
+        {"type": "not_substring", "value": "NVDA"},
+        {"type": "substring", "value": "Azure"},
+        {"type": "substring", "value": "2026-01-14"}
+      ]
+    },
+    {
+      "label": "TSLA_returns_empty",
+      "component": "DecisionsLog",
+      "args": {"ticker": "TSLA", "n": 5},
+      "expected_information": [
+        {"type": "none_or_empty"}
+      ]
+    },
+    {
+      "label": "NVDA_early_records_excluded_from_n3",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 3},
+      "expected_information": [
+        {"type": "not_substring", "value": "Data center orders surging"},
+        {"type": "not_substring", "value": "Taking profits after 20% run"},
+        {"type": "not_substring", "value": "Short-term overbought on RSI"}
+      ]
+    }
+  ]
+}

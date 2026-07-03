@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "My Top 15 High-Growth Dividend Stocks For April 2025",
+      "description": "Read here for an update on April's top 15 high-growth dividend stocks, outperforming SPY and VIG with a potential 31% undervaluation.",
+      "published_utc": "2025-04-02T10:12:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e5f0e64202063e7cebf0c5b401834366e4367a923dddfe9bc987259250f3992",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1962656730/image_1962656730.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133662084,
+      "datetime": 1743559953
+    }
+  ]
+}

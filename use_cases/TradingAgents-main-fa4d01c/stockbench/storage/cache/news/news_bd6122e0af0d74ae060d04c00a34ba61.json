@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft announces quarterly dividend",
+      "description": "REDMOND, Wash., March 11, 2025 /PRNewswire/ -- Microsoft Corp. on Tuesday announced that its board of directors declared a quarterly dividend of $0.83 per share. The dividend is payable June 12, 2025,...",
+      "published_utc": "2025-03-12T00:06:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5bcd844177a4a1547afc52e34272f0d672561064e3c0b4e1875abcb34b46bbb9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133139149,
+      "datetime": 1741709167
+    },
+    {
+      "title": "US multinationals in Ireland for \"long haul\" — Micheal Martin",
+      "description": "Irish premier Micheal Martin has insisted US multinationals who have invested in Ireland are committed to working in the country for the long haul.The taoiseach was commenting ahead of his...",
+      "published_utc": "2025-03-11T20:32:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=741eb03cbdfd9f44fa227290a0f3f4115976d5ff2c93ae633c4a3974228e0002",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133135761,
+      "datetime": 1741696328
+    },
+    {
+      "title": "Invesco Charter Fund Q4 2024 Commentary",
+      "description": "",
+      "published_utc": "2025-03-11T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=95c0176b47e7774f20184f6f2a105120cd484938174680e245d9781e4ecb23ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133135154,
+      "datetime": 1741689000
+    },
+    {
+      "title": "Can Alibaba Become The World's Largest Company?",
+      "description": "",
+      "published_utc": "2025-03-11T18:22:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7f984ea8ef35fcf03a7ccd88a42df55a998bf3850c8c48c05a787b9aa1e6cc6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133135112,
+      "datetime": 1741688541
+    },
+    {
+      "title": "Trump Is Tanking AI Stocks. Buy the Dip in Palantir and These 4 Names, Analyst Says.",
+      "description": "Trump Is Tanking AI Stocks. Buy the Dip in Palantir and These 4 Names, Analyst Says.",
+      "published_utc": "2025-03-11T15:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e15042c17cd87ff17f1b4d3fb46d6653a2947b16b2a892db43650eb284282d92",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132280,
+      "datetime": 1741678920
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:24.356677+00:00",
+    "cache_key": "news_bd6122e0af0d74ae060d04c00a34ba61",
+    "count": 5
+  }
+}

@@ -1,0 +1,6 @@
+{"trade_date": "2026-01-18", "ticker": "BETA", "rating": "Buy", "one_line_thesis": "B01-JAN18-beta-peak-thesis-momentum", "key_risks": ["sector rotation"]}
+{"trade_date": "2026-01-03", "ticker": "BETA", "rating": "Hold", "one_line_thesis": "B02-JAN03-beta-early-baseline-position", "key_risks": ["illiquidity risk"]}
+{"trade_date": "2026-01-10", "ticker": "BETA", "rating": "Buy", "one_line_thesis": "B03-JAN10-beta-midmonth-recovery", "key_risks": ["macro headwind"]}
+{"trade_date": "2026-01-06", "ticker": "BETA", "rating": "Hold", "one_line_thesis": "B04-JAN06-beta-entry-caution", "key_risks": ["news catalyst risk"]}
+{"trade_date": "2026-01-15", "ticker": "BETA", "rating": "Strong Buy", "one_line_thesis": "B05-JAN15-beta-strong-breakout-signal", "key_risks": ["high implied vol"]}
+{"trade_date": "2026-01-09", "ticker": "BETA", "rating": "Hold", "one_line_thesis": "B06-JAN09-beta-hold-wait-for-clarity", "key_risks": ["rate uncertainty"]}

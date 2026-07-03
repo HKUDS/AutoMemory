@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Federal Judge Sets Hearing Over 2-Year-Old U.S. Citizen’s Deportation",
+      "description": "Federal Judge Sets Hearing Over 2-Year-Old U.S. Citizen’s Deportation",
+      "published_utc": "2025-04-26T20:14:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c0b58924d07c7d8cc38294502bd1524f7cb593bff75ec3582fa389e8b5c9db24",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134129537,
+      "datetime": 1745669640
+    },
+    {
+      "title": "Microsoft, Apple Set To Report Earnings As Markets Watch Out For Core PCE Price Index",
+      "description": "Tech giants MSFT, AAPL, META & AMZN are set to report earnings this week. Investors also look out for major economic indicators due on Friday. See an update here.",
+      "published_utc": "2025-04-26T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d78c26e18c68b7705191062a2c17e2e55a608a8277fc05a553bb1186f0311979",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134100310,
+      "datetime": 1745665200
+    }
+  ]
+}

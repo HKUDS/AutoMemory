@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "title": "Dividend Hikes Offer Optimism Amid Tariff Turmoil",
+      "description": "We profile a pair of blue chips that recently announced dividend hikes, which has turned out to be a broader Q2 theme",
+      "published_utc": "2025-05-19T03:25:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0a956c564b59f13f1f5b4abd3fac6b1845214748958bcf71322b2506317aa0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577215,
+      "datetime": 1747596341
+    },
+    {
+      "title": "US States Likely to Defy US Downgrade to Keep Top Credit Ratings",
+      "description": "(Bloomberg) -- US states from Florida to North Carolina and Texas would likely hold onto top-notch credit scores from Moody’s Ratings, mostly because they’re in better fiscal shape than the federal government itself. Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Strike LoomsMo",
+      "published_utc": "2025-05-19T00:33:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f24a826c01909f591bb19c15dd9cb188c690fddac076eaa2958f1dfaa24fb3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577023,
+      "datetime": 1747585995
+    },
+    {
+      "id": "2de896fb040935c0c7a915ee8b56c4160c9828b8e5e707fd060e1bb6f88da126",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Warren Buffett Investment That's Gained 5,502,284% and Looks Set to Soar Even Higher",
+      "author": "The Motley Fool",
+      "published_utc": "2025-05-18T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/18/meet-the-warren-buffett-stock-thats-gained-5502284/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "KO",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "NVDA",
+        "HD",
+        "JNJ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818482/buffett9-tmf.jpg",
+      "description": "Berkshire Hathaway, the investment vehicle of Warren Buffett, has generated a staggering 5,502,284% in total returns over the past 60 years, far outpacing the S&P 500. The article suggests that Berkshire Hathaway is well-positioned to continue thriving under the leadership of Greg Abel, who is set to take over from Buffett.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "S&P 500",
+        "Greg Abel"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Berkshire Hathaway's exceptional long-term performance, which has far outpaced the S&P 500. It also expresses optimism about the company's future under the leadership of Greg Abel, who is set to take over from Warren Buffett."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Berkshire Hathaway's exceptional long-term performance, which has far outpaced the S&P 500. It also expresses optimism about the company's future under the leadership of Greg Abel, who is set to take over from Warren Buffett."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Coca-Cola as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bank of America as one of the dividend-paying companies that Berkshire Hathaway holds in its portfolio, which has been a successful strategy for the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the industry leaders that has been unchanged or down so far in 2025, but does not make any specific positive or negative statements about the company."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Home Depot as one of the industry leaders that has been unchanged or down so far in 2025, but does not make any specific positive or negative statements about the company."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Johnson & Johnson as one of the industry leaders that has been unchanged or down so far in 2025, but does not make any specific positive or negative statements about the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:08.283371+00:00",
+    "cache_key": "news_7034ffe36c4a80f554bc13892fd1323c",
+    "count": 3
+  }
+}

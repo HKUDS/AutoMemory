@@ -1,0 +1,14 @@
+{
+  "description": "每个 session 使用独立 memory 目录，等价于没有跨 session 记忆。LLM：火山方舟 Ark（OpenAI 兼容，密钥读 ARK_API_KEY）。",
+  "memory_strategy": "per-session-fresh",
+  "selected_analysts": ["market", "social", "news", "fundamentals"],
+  "tradingagents_config": {
+    "llm_provider": "ark",
+    "backend_url": "https://ark.cn-beijing.volces.com/api/coding/v3",
+    "deep_think_llm": "deepseek-v3-2-251201",
+    "quick_think_llm": "deepseek-v3-2-251201",
+    "max_debate_rounds": 1,
+    "max_risk_discuss_rounds": 1,
+    "output_language": "English"
+  }
+}

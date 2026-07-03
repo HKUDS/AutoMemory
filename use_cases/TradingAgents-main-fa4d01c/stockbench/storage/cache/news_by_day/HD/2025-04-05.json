@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "1 Top Dividend Stock That Paid Investors Nearly $9 Billion Last Year: Is It Time to Buy?",
+      "description": "Despite headwinds that have come in the form of economic downturns, a global pandemic, supply chain issues, inflationary pressures, and higher interest rates, nothing has gotten in the way of Home Depot (NYSE: HD) paying a dividend for the past 152 straight quarters -- or 38 straight years.  In its fiscal 2024 alone, Home Depot paid over $8.9 billion in dividends, up from $8.4 billion in the previous fiscal year.  In February of 2023, 2024, and 2025, Home Depot bumped up its quarterly payouts by 10%, 8%, and 2%, respectively.",
+      "published_utc": "2025-04-05T20:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f279485d9c3235b99a6aacb5e00674db11209c0e15ad0b0c48556acae6b34b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727293,
+      "datetime": 1743854700
+    },
+    {
+      "title": "Down 7% in 2025, Here's Why This Blue Chip Dow Jones Dividend Stock Is a No-Brainer Buy Now",
+      "description": "Home Depot (NYSE: HD) is one of just 30 components in the Dow Jones Industrial Average (DJINDICES: ^DJI).  Like the majority of Dow stocks, Home Depot is an industry-leading business that pays a dividend, making it a go-to blue chip stock.  Here's why the sell-off in the dividend stock is a buying opportunity for long-term investors.",
+      "published_utc": "2025-04-05T15:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40361d41e8fe1ccb00b01872cfda207d103758210e6642886e0cf85442193bef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727294,
+      "datetime": 1743836700
+    }
+  ]
+}

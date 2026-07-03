@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Markets Fight Off Powell Rumor, Close in the Green",
+      "description": "A report that President Trump intended on firing Fed Chair Jerome Powell sent all major indexes into the loss column temporarily.",
+      "published_utc": "2025-07-17T06:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a932e304381e63e8ad4a19289247f2af2626f361a1905f72807f24a202dbe4af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135994123,
+      "datetime": 1752703320
+    }
+  ]
+}

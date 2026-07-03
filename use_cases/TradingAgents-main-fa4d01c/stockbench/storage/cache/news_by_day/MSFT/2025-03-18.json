@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tracking John Rogers' Ariel Investments Portfolio - Q4 2024 Update",
+      "description": "Ariel Investments' portfolio sees shifts in major stakes. Read here for top picks, reductions, and performance insights, including Ariel Fund's impressive returns.",
+      "published_utc": "2025-03-18T05:43:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=35cb99e2f0eaa4cf259d82ac330c31a92541b685e42ad49bfb86df39ce59b011",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133210856,
+      "datetime": 1742247818
+    },
+    {
+      "title": "Long-Term S&P 500 Earnings Trends Along With Market Returns",
+      "description": "Over the years, one data point Iâve noticed is that many S&P 500 valuation models use a long-run S&P 500 EPS growth metric of 7% to estimate fair value on the benchmark.",
+      "published_utc": "2025-03-18T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4755d18bac5fdb5596006da7239920751926c5157e5baa344b890b59bbda123",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182036952/image_2182036952.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133210484,
+      "datetime": 1742242200
+    },
+    {
+      "title": "Microsoft responds to TRC Capital's \"Mini-Tender\" offer",
+      "description": "Microsoft Corp: * MICROSOFT RESPONDS TO TRC CAPITAL'S MINI-TENDER OFFERSource text:Further company coverage: ...",
+      "published_utc": "2025-03-18T02:33:41",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f313253f16b14cda294b422ea09e53465852ccb058001780581b12938dacaf63",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133210097,
+      "datetime": 1742236421
+    },
+    {
+      "title": "Microsoft : responds to TRC Capital’s “mini-tender” offer",
+      "description": "REDMOND, Wash. - March 17, 2025 - Microsoft Corp. has received notice of an unsolicited mini-tender offer by TRC Capital Investment Corporation dated Feb.21, 2025, to purchase up to 300,000 shares of...",
+      "published_utc": "2025-03-18T02:13:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=96b565966aa3fc419c3aa2980bcade5910044b9ebc59eb862379ad30a3547718",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133210035,
+      "datetime": 1742235184
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Jumps Ahead Of Fed But Tesla Dives; Warren Buffett Makes These Moves (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Jumps Ahead Of Fed But Tesla Dives; Warren Buffett Makes These Moves (Live Coverage)",
+      "published_utc": "2025-03-18T00:30:32",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=cf345ecd73a4c43ac7fb149a42d7be62caadad4fd86d611de3579ad5c19605a0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212872,
+      "datetime": 1742229032
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce’s (CRM) AI Push Gains Momentum With New Pricing Strategy",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the 10 AI Stocks in the Spotlight. On June 20, Cantor Fitzgerald analyst Matthew Vanvliet reiterated an “Overweight” rating on the stock and maintained the price target at $325.00. The rating affirmation follows the company’s announcement of new AI pricing structures and product updates. In particular, Salesforce has announced new […]",
+      "published_utc": "2025-06-24T06:29:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97642f6707b2b6574559d6c67e4394951d1568d3fdd2247c8c1f191928bb3e25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492111,
+      "datetime": 1750717760
+    },
+    {
+      "title": "Salesforce, Nexstar Media Group Expand Partnership to Revolutionize Advertising Sales",
+      "description": "Salesforce Inc. (NYSE:CRM) is one of the best technology stocks according to Wall Street analysts. On June 19, Salesforce announced an extension of its partnership with Nexstar Media Group Inc. (NASDAQ:NXST). The collaboration aims to enhance and streamline Nexstar’s local advertising sales operations and overall efficiency. Nexstar will use Salesforce Media Cloud to manage its day-to-day […]",
+      "published_utc": "2025-06-24T03:11:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6d879bb400e91b79b0162b518f7ba579782d68b1450ed7a72ed56134ed54864",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492113,
+      "datetime": 1750705895
+    },
+    {
+      "title": "Watch: Top News Moments from the Agentforce 3 Keynote",
+      "description": "Watch as Salesforce unveils Agentforce 3, which includes new capabilities to manage, measure, and optimize AI agents in a hybrid human-AI workforce, features a Command Center for agent observability,...",
+      "published_utc": "2025-06-24T02:15:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0462e029232577de2f89ff6439706bc775d09343af03ee0d0e31d25a5417799c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135485832,
+      "datetime": 1750702506
+    },
+    {
+      "title": "Palantir vs. UiPath: Which AI-First Software Stock Deserves Your Bet?",
+      "description": "PATH's deep tech alliances, high retention, and stable growth may outshine PLTR's AIP-fueled surge in the AI race.",
+      "published_utc": "2025-06-24T00:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49cd1a5bd6ec87da8db9f6a6f2666f69a6d6472a20ab7eb5cec99460d8166be4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492083,
+      "datetime": 1750697640
+    },
+    {
+      "title": "Salesforce Launches Agentforce 3 to Solve the Biggest Blockers to Scaling AI Agents: Visibility and Control",
+      "description": "SAN FRANCISCO, June 23, 2025--Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced Agentforce 3: a major upgrade to its digital labor platform that gives companies the visibility and control to scale AI agents without compromise. As enterprise adoption accelerates, the real blocker has become clear: teams can’t see what agents are doing — or evolve them fast enough. Agentforce 3 changes that. Built on learnings from thousands of Agentforce deployments since its initial launch in Octobe",
+      "published_utc": "2025-06-24T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e75cfbb64ab02c67330f24c55bcaabb66c9b602e8d0883ee8f85f7c52a56c34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492118,
+      "datetime": 1750694400
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The World’s Wealthy Want Truly Global Investments. Big Banks Are Responding.",
+      "description": "JPMorgan Chase  announced last week that it is restructuring its private bank to better serve clients who want to spread their investments across the globe.  The revamp, which was first reported by The Wall Street Journal, recognizes a demographic reality: the world’s wealthy increasingly own businesses which straddle continents, own houses in different countries, hold citizenship in different nations, and have investments across the globe.  “We are marking a significant moment for our Private Bank’s international expansion,” says Adam Tejpaul, who leads JPMorgan’s international private bank, in a statement.",
+      "published_utc": "2025-07-08T04:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98e683c7b392d028eb86619c251632751d9baa4b2ffca2e1cb392fe591cf73c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135789818,
+      "datetime": 1751920560
+    },
+    {
+      "title": "Wells Fargo Draws a Rare Downgrade as Wall Street Looks for Next Catalyst",
+      "description": "Gains in the stock already reflect the removal of a cap on the bank’s asset base, analysts at Raymond James say.",
+      "published_utc": "2025-07-08T04:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc64e95eea6e00b163492c1e09b0d289681123016052a243315da819202d52cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135789704,
+      "datetime": 1751918640
+    }
+  ]
+}

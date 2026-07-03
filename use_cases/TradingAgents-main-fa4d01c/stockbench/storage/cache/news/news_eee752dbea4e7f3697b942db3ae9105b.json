@@ -1,0 +1,171 @@
+{
+  "items": [
+    {
+      "title": "Technology Shares Inch Higher, Defying Selloff -- Tech Roundup",
+      "description": "Technology Shares Inch Higher, Defying Selloff -- Tech Roundup",
+      "published_utc": "2025-03-05T00:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a31bed86b3b012688aadbae77b3fd97f1dcee3baef71086ba062b6a0cdc28de",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981946,
+      "datetime": 1741107180
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-03-05T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=771bf2a94c15788f45a342af01a242c858e714440b77bcaed37612b20cdcdce4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981948,
+      "datetime": 1741105920
+    },
+    {
+      "title": "$20 Billion Club: For The Largest Corporate DB Plans, Maximizing Returns Is Not The Goal",
+      "description": "Russell Investments expects the trend toward liability-hedging fixed income to persist as funded status inches upward. We also expect ongoing interest in alternative asset classes.",
+      "published_utc": "2025-03-05T00:24:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=468745bdb483d27c46aee362eedc06edc9b8f3deba0af40c14a83b479e7a1bb2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1210533728/image_1210533728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132980421,
+      "datetime": 1741105440
+    },
+    {
+      "title": "Dogs Of The Dow Chase A \"Safer\" Buy For March",
+      "description": "My monthly update and commentary on the top dividend stock picks from the Dogs Of The Dow, March 2025 edition. Click here to read more about Dogs of the Dow.",
+      "published_utc": "2025-03-04T22:56:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc6dd860b385b0d72b9bb16ee9ff5ee719c89916be0857afbb145306c6255282",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173947104/image_173947104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132979830,
+      "datetime": 1741100163
+    },
+    {
+      "id": "18444e57813ec0a22101d7009162f3ad8e9c443cf17944c27823ffccf2b2057a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Healthcare Mobility Solutions Market to Exhibit Tremendous Growth at a CAGR of ~21% by 2032 | DelveInsight",
+      "author": "Delveinsight",
+      "published_utc": "2025-03-04T18:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/04/3036866/0/en/Global-Healthcare-Mobility-Solutions-Market-to-Exhibit-Tremendous-Growth-at-a-CAGR-of-21-by-2032-DelveInsight.html",
+      "tickers": [
+        "IBM",
+        "MSFT",
+        "ZBRA",
+        "MCK",
+        "AAPL",
+        "CSCO",
+        "DLGI",
+        "ORCL",
+        "GEHC",
+        "MDRX",
+        "TDOC",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
+      "description": "The healthcare mobility solutions market is expected to grow significantly due to the rising prevalence of chronic diseases and the increasing demand for efficient, accessible, and patient-focused care delivery models.",
+      "keywords": [
+        "healthcare mobility solutions",
+        "chronic diseases",
+        "patient-focused care"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its involvement and potential contribution to the market growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its participation and potential impact on the market."
+        },
+        {
+          "ticker": "ZBRA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, suggesting its active involvement and potential to drive market growth."
+        },
+        {
+          "ticker": "MCK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its presence and potential contribution to the market."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its involvement and potential impact on the market."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, suggesting its active participation and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "DLGI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, suggesting its involvement and potential impact on the market."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its participation and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "GEHC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, suggesting its active participation and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "MDRX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its involvement and potential to drive market growth."
+        },
+        {
+          "ticker": "TDOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, indicating its presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, suggesting its involvement and potential impact on the market."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is mentioned as one of the notable players in the healthcare mobility solutions market, suggesting its involvement and potential impact on the market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:01.731682+00:00",
+    "cache_key": "news_eee752dbea4e7f3697b942db3ae9105b",
+    "count": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing expects Indian, South Asian airlines to add over 2,800 jets in next 20 years",
+      "description": "Boeing said on Thursday itexpects Indian and South Asian airlines will add 2,835commercial aircraft to their fleet over the next 20 years, afour-fold increase over current levels, as a rising...",
+      "published_utc": "2025-02-06T11:05:56",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4072b5a1539c2f9630ff3f8c520eeef0900c5b405b87a74735ceb31826f06084",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132571234,
+      "datetime": 1738811156
+    },
+    {
+      "title": "Boeing Says More Than 2,800 New Airplane Deliveries To India & South Asia Are Predicted Over The Next 20 Years",
+      "description": "Boeing Co: * BOEING - MORE THAN 2,800 NEW AIRPLANE DELIVERIES TO INDIA&SOUTH ASIA ARE PREDICTED OVER THE NEXT 20 YEARS * BOEING - FORECASTS ANNUAL TRAFFIC GROWTH...",
+      "published_utc": "2025-02-06T10:15:35",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=78cab12e06f85618ac1826b9198ddf8f30fd40639b36f12113c20b66a8fef268",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132570974,
+      "datetime": 1738808135
+    },
+    {
+      "title": "Boeing sees delivery of over 2,800 commercial jets to Indian, South Asian airlines",
+      "description": "Boeing on Thursday forecastdeliveries of 2,835 commercial aircraft to Indian and SouthAsian airlines over the next 20 years. The forecast is an increase from Boeing's rolling...",
+      "published_utc": "2025-02-06T10:15:32",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0ea519641661c21af3ce31601d9c7676c01b0889b742fbb3e2927941f8f16774",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132570975,
+      "datetime": 1738808132
+    }
+  ]
+}

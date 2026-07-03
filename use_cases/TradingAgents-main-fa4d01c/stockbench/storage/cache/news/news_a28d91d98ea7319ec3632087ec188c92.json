@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Attempts to kill DEI have inadvertently made corporate diversity stronger",
+      "description": "C-suites and boardrooms have been forced to articulate why diversity is essential to financial performance.",
+      "published_utc": "2025-07-02T00:26:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a37185153d7fe767e34fba8a69812f60504f4e18147824f90dde134d51e2ecca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697894,
+      "datetime": 1751387214
+    },
+    {
+      "title": "'Lucrative' business deals help sustain Israel's Gaza campaign, UN expert says",
+      "description": "A U.N. expert has named over60 companies, including major arms manufacturers and technologyfirms, in a report alleging their involvement in supportingIsraeli settlements and military actions in...",
+      "published_utc": "2025-07-02T00:07:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=618a27a3ec0ba13694e5499e3b0b48ebfc05ca48efbf5d4b129d0d97f0daae3c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697406,
+      "datetime": 1751386043
+    },
+    {
+      "title": "Caterpillar Inc. (CAT) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Caterpillar (CAT) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-07-01T21:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8c381f3c179dc0bf0d7f9ded06a0becf985fc459b53b810ab3c4b1709d919f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135693029,
+      "datetime": 1751374805
+    },
+    {
+      "title": "Q&A: Caterpillar consolidates its move into the energy storage space",
+      "description": "Holly Gregory, design engineer at Caterpillar Electric Power, discusses how locally produced energy can complement existing power grids.",
+      "published_utc": "2025-07-01T17:00:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6c638c44a5cad4898205782fc69ac08166624a5b1bbe2958720560a366854fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135693030,
+      "datetime": 1751360406
+    },
+    {
+      "title": "Norway Pension Fund Blacklists Firms Supplying Israeli Army",
+      "description": "(Bloomberg) -- Norway’s largest private pension fund has excluded two defense companies from its portfolio, citing their ties to the Israeli military and the war in Gaza.Most Read from BloombergStruggling Downtowns Are Looking to Lure New CrowdsPhiladelphia Transit System Votes to Cut Service by 45%, Hike FaresSqueezed by Crowds, the Roads of Central Park Are Being ReimaginedSprawl Is Still Not the AnswerKLP Pension, which oversees about $114 billion, said in a statement on Monday that it won’t",
+      "published_utc": "2025-07-01T15:04:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0238783b81f2e181ebedcbbeed7627d6c0c58628cffc8bb37a6847da3314df6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135690469,
+      "datetime": 1751353483
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:56.793617+00:00",
+    "cache_key": "news_a28d91d98ea7319ec3632087ec188c92",
+    "count": 5
+  }
+}

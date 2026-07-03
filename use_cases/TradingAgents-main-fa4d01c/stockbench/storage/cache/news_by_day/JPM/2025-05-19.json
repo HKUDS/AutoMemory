@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Options Traders Wary of Trump Treat China Rally With Caution",
+      "description": "(Bloomberg) -- The de-escalation of the trade war has brought some relief to the market globally. Yet when it comes to Chinese equities, investors remain reluctant to bet on big gains moving forward. Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Strike LoomsThe Hang Seng China",
+      "published_utc": "2025-05-19T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ea1b22e34d2195bd7ce0b2f798ca6c8c5f15b5b09d9188741f1aec5f37ba537",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577162,
+      "datetime": 1747612800
+    },
+    {
+      "title": "Jamie Dimon’s Would-Be Successors Audition for the Top Job at JPMorgan",
+      "description": "Jamie Dimon’s Would-Be Successors Audition for the Top Job at JPMorgan",
+      "published_utc": "2025-05-19T07:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=ed525e52fd8702be89108d1ece0f2a32599e6eb77e232026db8c742999bf5115",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581705,
+      "datetime": 1747609200
+    },
+    {
+      "title": "NYC Bankers Who Live in NJ Game Out Commute as Rail Strike Upends RTO Plans",
+      "description": "(Bloomberg) -- The initiative by banks and other employers in New York to bring back workers to the office is being undermined by an unexpected roadblock in a neighboring state.Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Strike LoomsAs the strike by New Jersey Transit locomo",
+      "published_utc": "2025-05-19T02:51:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0536d9b89fd70c09721e24084dcdded2fc372fe31bd73ad9618281932143580e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577163,
+      "datetime": 1747594296
+    },
+    {
+      "title": "US States Likely to Defy US Downgrade to Keep Top Credit Ratings",
+      "description": "(Bloomberg) -- US states from Florida to North Carolina and Texas would likely hold onto top-notch credit scores from Moody’s Ratings, mostly because they’re in better fiscal shape than the federal government itself. Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Strike LoomsMo",
+      "published_utc": "2025-05-19T00:33:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f24a826c01909f591bb19c15dd9cb188c690fddac076eaa2958f1dfaa24fb3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577023,
+      "datetime": 1747585995
+    },
+    {
+      "title": "Metaplatforms flooded with illegal advertisers and criminal networks",
+      "description": "Copyright © BusinessAMBE 2023Key takeaways70 percent of new advertisers on Meta in 2022 engaged in scams, selling illegal goods or offering low-quality products.Nearly half of all Zelle fraud...",
+      "published_utc": "2025-05-19T00:01:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7e7bbb0ffdcb5fe3ea2faddff0e4ad9cf1548cce3d6e79f9bb9f636fe2bc5f26",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134571489,
+      "datetime": 1747584065
+    }
+  ]
+}

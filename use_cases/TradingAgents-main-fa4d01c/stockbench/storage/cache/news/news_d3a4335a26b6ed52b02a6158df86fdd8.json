@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "46d19d33848976846d8f7f0311b157aff50d66e1e2a400e7306a63db13621a1b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "UnitedHealth Group Incorporated Investor News: UNH Investors Are Encouraged to Contact The Rosen Law Firm About Ongoing Investigation of Breaches of Fiduciary Duties by the Directors and Officers – UNH",
+      "author": "Rosen Law Firm",
+      "published_utc": "2025-03-09T18:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/09/3039400/673/en/UnitedHealth-Group-Incorporated-Investor-News-UNH-Investors-Are-Encouraged-to-Contact-The-Rosen-Law-Firm-About-Ongoing-Investigation-of-Breaches-of-Fiduciary-Duties-by-the-Director.html",
+      "tickers": [
+        "UNH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "The Rosen Law Firm is investigating potential breaches of fiduciary duties by the directors and officers of UnitedHealth Group Incorporated (UNH) in connection with a report of an investigation by the United States Department of Justice into UnitedHealth's billing practices.",
+      "keywords": [
+        "UnitedHealth Group",
+        "fiduciary duties",
+        "billing practices",
+        "Department of Justice"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that the Rosen Law Firm is investigating potential breaches of fiduciary duties by UnitedHealth's directors and officers, which suggests potential wrongdoing or mismanagement within the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:29.119852+00:00",
+    "cache_key": "news_d3a4335a26b6ed52b02a6158df86fdd8",
+    "count": 1
+  }
+}

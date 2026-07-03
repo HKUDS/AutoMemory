@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 125-point rally highlighted by gains in Verizon, Nike shares",
+      "description": "Dow's nearly 125-point rally highlighted by gains in Verizon, Nike shares",
+      "published_utc": "2025-07-21T23:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e9d46a0dcc101d86e73388249a7713bed3f2b7eb6bfb0922ef4799145aad1eb8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136041130,
+      "datetime": 1753110120
+    },
+    {
+      "title": "Wall Street Analysts Look Bullish on Home Depot (HD): Should You Buy?",
+      "description": "The average brokerage recommendation (ABR) for Home Depot (HD) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "published_utc": "2025-07-21T21:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b79ce3bc0ac0bf093fd56434b84280ff2bae8c400420c38b3185f4418b0b4d06",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025444,
+      "datetime": 1753104604
+    },
+    {
+      "title": "XLY: Economic Growth And Rate Cuts Are Likely To Back Consumer Discretionary Sector",
+      "description": "Discover why XLY's focus on consumer discretionary leaders like Amazon & Home Depot positions it for growth, with rate cuts & sector gains on the horizon.",
+      "published_utc": "2025-07-21T18:09:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2cba3299a01609666e1b9c9057437c7fe351de4d809550c4509bfbe46010e124",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1131460884/image_1131460884.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136024986,
+      "datetime": 1753092555
+    }
+  ]
+}

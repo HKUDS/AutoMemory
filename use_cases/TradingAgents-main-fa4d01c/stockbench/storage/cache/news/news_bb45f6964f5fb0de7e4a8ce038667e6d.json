@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "If You Buy Apple With $10,000 in 2025, Will You Become a Millionaire in 10 Years?",
+      "description": "Apple's ability to introduce inventive products and easy-to-use software has created a loyal following among consumers across the globe.  Worries about tariffs and slow progress with artificial intelligence (AI) might be the key factors on the minds of investors these days.  If you buy Apple shares today with $10,000, will that starting sum turn into $1 million by 2035?",
+      "published_utc": "2025-07-20T06:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbd8bcd9869c37b69872305fd3a3719bbebdd1f893df5179a7eb3688c69555a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019602,
+      "datetime": 1752965940
+    },
+    {
+      "title": "MP Materials (MP) Soars 40% on Multi-Billio Dollar Deals",
+      "description": "We recently published 10 Stocks With Unbelievable Gains This Week. MP Materials Corp. (NYSE:MP) is one of this week’s biggest players. MP Materials climbed by 40.15 percent week-on-week to hit a new all-time high as investors gobbled up shares after clinching a $500-million partnership with technology giant Apple Inc. At intra-day trading on Friday, MP Materials […]",
+      "published_utc": "2025-07-20T02:01:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f24351620887b54a9e741d4fbfcc88dd9a27211dad73b87f6a4117a48990c2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019603,
+      "datetime": 1752948065
+    },
+    {
+      "title": "JPMorgan Bumps Apple (AAPL) PT to $250, Keeps ‘Overweight’",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the AI Stocks on Wall Street’s Radar. On July 17, JPMorgan reiterated the stock as “Overweight” and raised its price target on Apple to $250 per share from $230. “We rate shares of Apple Overweight from the combination of AI and age of installed base led volume replacement cycle while […]",
+      "published_utc": "2025-07-19T23:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a900e3f7dab6cd45f866c079dd2021ae5d54a06c760cf2f2cbbfc71361d4097",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019604,
+      "datetime": 1752937680
+    },
+    {
+      "title": "Trump's antitrust cops are OK with new mergers. Old tech monopolies, not so much.",
+      "description": "President Trump's antitrust cops are so far friendlier about mergers than their predecessors, but they are refusing to let up on one prominent priority of the Biden administration: monopoly prosecutions of the nation's best-known tech giants.",
+      "published_utc": "2025-07-19T22:00:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6433e44fca973e3c64793dfab99432abe22405278aee051c3fcd5a9c35fd1d8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019594,
+      "datetime": 1752933638
+    },
+    {
+      "title": "Could Arm Holdings Stock Help You Become a Millionaire?",
+      "description": "Arm's market capitalization has already reached $160 billion, indicating significant growth in the stock.  Arm Holdings (NASDAQ: ARM) has long stood out in the semiconductor industry, particularly regarding its mobile phone processors.  Amid those gains, investors may wonder whether the stock will mint millionaires, or do its past gains make such a scenario unlikely?",
+      "published_utc": "2025-07-19T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=270ab45d04b6fe6cb9e07865a46d13b55a1a357adc894f4a18c586e0dece235e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019606,
+      "datetime": 1752930000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:09:30.111468+00:00",
+    "cache_key": "news_bb45f6964f5fb0de7e4a8ce038667e6d",
+    "count": 5
+  }
+}

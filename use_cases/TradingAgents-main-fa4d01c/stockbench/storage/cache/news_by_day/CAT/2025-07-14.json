@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Is 1 of the Largest Industrials Companies by Market Cap. But Is It a Buy?",
+      "description": "Caterpillar's fastest-growing business unfortunately produces some of its smallest profits.",
+      "published_utc": "2025-07-14T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e37215212c3d971b61c49ffcdfbb7fc6939e18cfb85ed161631d98882f1358c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135926781,
+      "datetime": 1752496200
+    }
+  ]
+}

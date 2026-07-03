@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Rise Wednesday Afternoon",
+      "description": "Financial stocks advanced in Wednesday afternoon trading with the NYSE Financial Index rising 0.7% a",
+      "published_utc": "2025-04-03T01:55:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6924def71187ce8bb65a631744a6b84205f5046ffa6d58c370b377bdc0b44f82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133675961,
+      "datetime": 1743616502
+    }
+  ]
+}

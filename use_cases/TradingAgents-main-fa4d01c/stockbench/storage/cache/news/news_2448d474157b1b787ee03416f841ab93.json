@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "DA Davidson Calls Microsoft (MSFT) Its Top Mega-Cap Pick — New $600 Target Set",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the 10 Trending AI Stocks on News and Ratings. On July 2, DA Davidson analyst Gil Luria raised the price target on the stock to $600 from $500, maintaining a “Buy” rating. The firm reiterated the stock as its top mega-cap pick, quoting how Microsoft is doing a great job extending […]",
+      "published_utc": "2025-07-06T01:12:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96315c2ac560158c4ff46db57538a11c6b8662c4bbe32e11320f9aafc3c898f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768700,
+      "datetime": 1751735560
+    },
+    {
+      "title": "2 Unstoppable Growth Stocks to Hold for the Next 20 Years",
+      "description": "The two companies below have generally delivered superior market performances.  The stock market has an incredibly impressive long-term track record of wealth creation, and we can reasonably expect it to continue delivering excellent returns over the next 20 years.  Two excellent prospects over the next couple of decades are Microsoft (NASDAQ: MSFT) and Intuitive Surgical (NASDAQ: ISRG).",
+      "published_utc": "2025-07-05T23:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96e5418c5b55748f5beb9babff21c1f26525c534b437673ce5c3d003556497a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768701,
+      "datetime": 1751728200
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Could Be the Surprise Winner of 2025",
+      "description": "Similar to last year, stocks such as Palantir, Nvidia, and Microsoft remain among the hottest names driving the artificial intelligence (AI) revolution.",
+      "published_utc": "2025-07-05T21:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1ea636d35acc69a87b5e5fd43e429c63f9b5e25d4e0fd9a2f5e090a42a54437",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766814,
+      "datetime": 1751722980
+    },
+    {
+      "title": "OpenAI’s Partnership With Microsoft is Good, Says CEO Sam Altman; There’s ‘Tension,’ But Already Planning ‘Next Decade Together’",
+      "description": "Sam Altman’s collaborative leadership with Microsoft reflects his pragmatic approach to partnerships and his influence on the direction of artificial intelligence.",
+      "published_utc": "2025-07-05T20:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cc53c5b700b4571d87aed02495330f6e349dbe3a8f297ec15ac0cfc5d1c9d00",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768703,
+      "datetime": 1751716802
+    },
+    {
+      "title": "How did the hyperscale clouds do in Q1 2025?",
+      "description": "Investing.com -- In a note to clients on Monday, Bernstein analysts said the hyperscale cloud market remains on a strong, long-term growth path, with generative AI now taking center stage as the primary revenue driver.",
+      "published_utc": "2025-07-05T18:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=507f0b2e97b070216439731c615764a85670d32bb6a917cbd267ca29b10fe17b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766463,
+      "datetime": 1751711403
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:23.961288+00:00",
+    "cache_key": "news_2448d474157b1b787ee03416f841ab93",
+    "count": 5
+  }
+}

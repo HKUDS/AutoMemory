@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "IBM, Parker-Hannifin Among 10 Companies To Announce Dividend Increases In Second Half Of April",
+      "description": "Discover upcoming dividend increases from companies like Procter & Gamble, Johnson & Johnson, Ameriprise Financial, and Parker-Hannifin.",
+      "published_utc": "2025-04-20T23:14:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2114261c46464da83a17d4505ad4e0858fb89e87bf95411cd9c2c80f8af10337",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322147027/image_1322147027.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133985780,
+      "datetime": 1745162052
+    },
+    {
+      "title": "Google, Tesla, and IBM earnings lead a make-or-break week for stocks",
+      "description": "Shaken by geopolitical shocks, the S&P 500 was flat last week and the Nasdaq nosed just into the red — but the Dow Jones Industrial Average finished significantly lower, weighed down by a double blow from UnitedHealth (UNH) and Nvidia (NVDA).",
+      "published_utc": "2025-04-20T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12a584176f72505ed5d382c15935e3a77441e611cb3dafc2a85d3d07299ace82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022650,
+      "datetime": 1745146800
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "",
+      "published_utc": "2025-04-20T13:52:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=731ee64826eae50507c3c828b852d395a3640319bb972a4bffd06b147caf31fd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133977246,
+      "datetime": 1745128330
+    },
+    {
+      "title": "IBM: A Defensive Hold",
+      "description": "",
+      "published_utc": "2025-04-20T11:39:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6077c2e859288514b210c045818968e5e783892c98dcbe447ebde300cfe3e137",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133976600,
+      "datetime": 1745120397
+    }
+  ]
+}

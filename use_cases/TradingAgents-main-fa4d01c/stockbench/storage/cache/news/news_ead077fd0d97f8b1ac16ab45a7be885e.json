@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon Q2 Preview: Massive White Collar Automation",
+      "description": "Discover why Amazon.com, Inc. is a Strong Buy. Click for why AI-powered automation boosts productivity, expands margins, and drives EPS growth as we preview Q2.",
+      "published_utc": "2025-07-30T02:36:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d102e04703c80d7728c0acc069fa10071951cc753d74d514591a686fc0d3ddb8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1317474419/image_1317474419.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136126104,
+      "datetime": 1753814187
+    },
+    {
+      "title": "International Business Machines Second Quarter 2025 Earnings: Beats Expectations",
+      "description": "International Business Machines ( NYSE:IBM ) Second Quarter 2025 Results Key Financial Results Revenue: US$17.0b (up...",
+      "published_utc": "2025-07-30T02:34:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=407254254b82d5fc69e80d9ad478991a3d589eb4028ce2038990d68b3d7be9a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129829,
+      "datetime": 1753814093
+    },
+    {
+      "title": "Intel announces a drastic decision to fix its struggling business",
+      "description": "Intel continues to face a harsh reality, prompting it to make a drastic move.",
+      "published_utc": "2025-07-30T02:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a72ee9e1014964b72f3f38d9a4e52c80d87ef082ef30ca3937c1357e7ad632aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136160974,
+      "datetime": 1753812180
+    },
+    {
+      "title": "Safe Dividend Stocks in Tech: Why IBM Offers Long-Term Income Security",
+      "description": "International Business Machines Corporation (NYSE:IBM) is included among the 10 Best and Safe Dividend Stocks to Buy Now. International Business Machines Corporation (NYSE:IBM) is a dividend-paying firm that has gained from its substantial involvement in the artificial intelligence (AI) sector. Between the second quarter of 2023 and the first quarter of 2025, IBM expanded its […]",
+      "published_utc": "2025-07-30T01:13:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59d1bf06462127849971a7eb88339c19388459ad6396ce52984843248f1c4b05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119235,
+      "datetime": 1753809217
+    },
+    {
+      "title": "Digital Rights Management Market worth $11.05 billion by 2030 | MarketsandMarkets™",
+      "description": "According to MarketsandMarkets™, the Digital Rights Management Market is estimated to be USD 6.72 billion in 2025 and is projected to reach USD 11.05 billion by 2030, registering a CAGR of 10.5% during 2025–2030.",
+      "published_utc": "2025-07-29T22:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fad5a7264108101a0cb19c10c5940b463bf767ee09b2f4381c3720980ffbc60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136118993,
+      "datetime": 1753797660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:14:03.851598+00:00",
+    "cache_key": "news_ead077fd0d97f8b1ac16ab45a7be885e",
+    "count": 5
+  }
+}

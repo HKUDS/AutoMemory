@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Microsoft Corporation (MSFT): Among Stocks Wall Street Is Calling Bullish Amid Market Turmoil",
+      "description": "We recently published a list of 10 Stocks Wall Street Is Calling Bullish Amid Market Turmoil. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other stocks that Wall Street is calling bullish amid market turmoil. The S&P 500 is down 8.6% in a month while the […]",
+      "published_utc": "2025-03-23T00:21:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d68545b4ffc7ca67b8a6c312eee088755cb232374f5540506493a69ba38c5a1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324266,
+      "datetime": 1742660463
+    }
+  ]
+}

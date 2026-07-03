@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Voya Infrastructure, Industrials And Materials Fund Q4 2024 Commentary",
+      "description": "For the quarter, Voya Infrastructure, Industrials And Materials Fund provided a total return of 3.94% on a net asset value basis. Read more here.",
+      "published_utc": "2025-04-10T07:04:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=78d0c3553847231f19d525727c431f60fbf146e9d7433e52591d57848cd27f75",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164172527/image_2164172527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133840134,
+      "datetime": 1744239840
+    },
+    {
+      "title": "Honeywell International (NasdaqGS:HON) Announces Leadership Change And Proxy Battle Over Governance",
+      "description": "Honeywell International (NasdaqGS:HON) has recently been in the spotlight due to key corporate developments, including investor activism related to governance structure and strategic executive changes. The company's efforts to restructure and focus on separating its Aerospace Technologies business might reflect its commitment to operational efficiency. Despite these significant shifts, Honeywell's share price fell 14% over the past week, aligning with a broader market decline of 12% amidst...",
+      "published_utc": "2025-04-10T03:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03a1ac6cf5f7cddf5045013065b4e6af9098c47c18a6d504114eecc96519241e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844448,
+      "datetime": 1744225260
+    },
+    {
+      "title": "Honeywell International Inc. stock rises Wednesday, still underperforms market",
+      "description": "Honeywell International Inc. stock rises Wednesday, still underperforms market",
+      "published_utc": "2025-04-10T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=190c8b74085ee3647aec96e2535719389215886bec48ec3f8a9e0e11539690ce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133848519,
+      "datetime": 1744216560
+    },
+    {
+      "title": "Will Honeywell International (HON) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Honeywell International (HON) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-04-10T00:10:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=086581e62cd79f02a43634ede7f1e19cc14f521bac7ee3dc48ece42f07b0ae6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844450,
+      "datetime": 1744215012
+    },
+    {
+      "title": "Honeywell International : 2025 Proxy Statement",
+      "description": "LETTER FROM THE LEAD DIRECTOR DEAR SHAREOWNERS, As I reflect on my first year as Honeywell's independent Lead...",
+      "published_utc": "2025-04-09T15:56:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=44e3467e7c30b37edc76b11e1bf9485fdd51a7079d3db6aac1e7177a7092630d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133827131,
+      "datetime": 1744185371
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:02.767855+00:00",
+    "cache_key": "news_ab8907218bb11ac31edf742c9b851198",
+    "count": 5
+  }
+}

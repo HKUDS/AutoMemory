@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Wall Street swings as the approach of Trump's 'Liberation Day' sends stock markets reeling worldwide",
+      "description": "NEW YORK — President Donald Trump’s fast-approaching “Liberation Day” has stock markets swinging sharply worldwide on Monday. On Wall Street, the S&P 500 was up 0.3% in another...",
+      "published_utc": "2025-03-31T23:13:49",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=92d650a4b97129fa7cf8b75cc23be5c6f1d7c50e3e9dd7673531179558127887",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133629085,
+      "datetime": 1743434029
+    },
+    {
+      "title": "Possible Bearish Signals With Goldman Sachs Group Insiders Disposing Stock",
+      "description": "In the last year, many The Goldman Sachs Group, Inc. ( NYSE:GS ) insiders sold a substantial stake in the company which...",
+      "published_utc": "2025-03-31T22:00:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b7445c96bced211c1b06107e4c46a9a402d205565626b6b71bda76121d22331",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627844,
+      "datetime": 1743429616
+    },
+    {
+      "title": "Goldman Sachs now sees much higher odds of economy shrinking, hiking probability of a U.S. recession to 35%",
+      "description": "Goldman believes the tax-like impact on real disposable income and consumer spending from Trump's tariff policies will hurt U.S. growth prospects.",
+      "published_utc": "2025-03-31T20:54:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bab9c83b0e094f3cd8432a0bfbaf7226777d471d9ddc1109c394cf6b5921f1af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627845,
+      "datetime": 1743425651
+    }
+  ]
+}

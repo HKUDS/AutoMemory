@@ -1,0 +1,112 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+  "eval_mode": "hit_rate",
+  "category": "edge_case",
+  "description": "Escalation: repeated cards for the same session should expose the latest summary without stale earlier outcomes.",
+  "checks": [
+    {
+      "description": "Same session update should not leave obsolete outcome visible.",
+      "write_input": {
+        "writes": [
+          {
+            "sessionID": "ses-auth-update",
+            "title": "Auth throttle investigation",
+            "goal": "Investigate login throttling",
+            "outcome": "Initial guess blamed Redis TTL drift.",
+            "files": ["packages/auth/src/throttle.ts"],
+            "commands": ["bun test packages/auth --filter throttle"],
+            "concepts": ["auth", "throttle", "redis"],
+            "l0": "Initial auth throttle guess blamed Redis TTL drift.",
+            "l1": "This preliminary outcome was superseded after OAuth retry analysis.",
+            "time": { "start": 1700010000000, "end": 1700010100000 }
+          },
+          {
+            "sessionID": "ses-auth-update",
+            "title": "Auth throttle investigation",
+            "goal": "Investigate login throttling",
+            "outcome": "Final cause was OAuth retry bypass of the leaky bucket limiter.",
+            "files": ["packages/auth/src/throttle.ts"],
+            "commands": ["bun test packages/auth --filter throttle"],
+            "concepts": ["auth", "throttle", "oauth", "leaky-bucket"],
+            "l0": "Final auth throttle cause was OAuth retry bypass.",
+            "l1": "The Redis TTL drift theory was rejected; patch OAuth retry limiter integration.",
+            "time": { "start": 1700010000000, "end": 1700010200000 }
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*Initial guess blamed Redis TTL drift)[\\s\\S]*OAuth retry bypass[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "Latest updated session should keep final file.",
+      "write_input": {
+        "sessionID": "ses-billing-update",
+        "title": "Billing retry update",
+        "goal": "Patch invoice retry",
+        "outcome": "Final fix used idempotency keys.",
+        "files": ["packages/billing/src/retry.ts"],
+        "commands": ["bun test packages/billing --retry 2"],
+        "concepts": ["billing", "invoice", "idempotency"],
+        "l0": "Billing retry fix used idempotency keys.",
+        "l1": "Retry tests should assert idempotency per invoice attempt.",
+        "time": { "start": 1700010300000, "end": 1700010400000 }
+      },
+      "read_input": {},
+      "expected_output": { "value": "packages/billing/src/retry.ts", "matcher": "substring" }
+    },
+    {
+      "description": "Latest updated session should keep final command.",
+      "write_input": {
+        "sessionID": "ses-search-update",
+        "title": "Search tenant update",
+        "goal": "Verify tenant hydration",
+        "outcome": "Tenant hydration focused test passed.",
+        "files": ["packages/search/test/tenant-hydration.test.ts"],
+        "commands": ["bun test packages/search --filter tenant-hydration"],
+        "concepts": ["search", "tenant", "hydration"],
+        "l0": "Tenant hydration test passed.",
+        "l1": "Use focused hydration test before staging approval.",
+        "time": { "start": 1700010500000, "end": 1700010600000 }
+      },
+      "read_input": {},
+      "expected_output": { "value": "tenant-hydration", "matcher": "substring" }
+    },
+    {
+      "description": "Latest updated session should keep deploy gate.",
+      "write_input": {
+        "sessionID": "ses-deploy-update",
+        "title": "Deploy gate update",
+        "goal": "Record staging gate",
+        "outcome": "staging-east approval is required before rollout.",
+        "files": ["docs/deploy/search-rollout.md"],
+        "commands": [],
+        "concepts": ["deploy", "staging-east"],
+        "l0": "Staging gate recorded.",
+        "l1": "Do not roll out search migration before staging-east approval.",
+        "time": { "start": 1700010700000, "end": 1700010800000 }
+      },
+      "read_input": {},
+      "expected_output": { "value": "staging-east approval", "matcher": "substring" }
+    },
+    {
+      "description": "Latest updated session should keep model override.",
+      "write_input": {
+        "sessionID": "ses-model-update",
+        "title": "Memory model override",
+        "goal": "Keep memory test model override documented",
+        "outcome": "OPENCODE_MEMORY_LLM_TEST_MODEL controls the extraction model in tests.",
+        "files": ["packages/opencode/test/preload.ts"],
+        "commands": ["OPENCODE_MEMORY_LLM_TEST_MODEL=minimax/minimax-m2.7 bun test test/memory"],
+        "concepts": ["memory", "model", "openrouter"],
+        "l0": "Memory model override documented.",
+        "l1": "Use minimax/minimax-m2.7 where OpenRouter region blocks the default.",
+        "time": { "start": 1700010900000, "end": 1700011000000 }
+      },
+      "read_input": {},
+      "expected_output": { "value": "OPENCODE_MEMORY_LLM_TEST_MODEL", "matcher": "substring" }
+    }
+  ]
+}

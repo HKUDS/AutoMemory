@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise After Trump Triggers Stock Market Rout; Nvidia, Palantir, Tesla Plunge",
+      "description": "Dow Jones Futures Rise After Trump Triggers Stock Market Rout; Nvidia, Palantir, Tesla Plunge",
+      "published_utc": "2025-03-11T06:39:24",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=79d166ed914c3715e3fabfff75ead61af2897ce1f3bb6edc3fcd050e6744c731",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132259,
+      "datetime": 1741646364
+    },
+    {
+      "title": "Apple and Nvidia led Monday’s $750 billion tech wreck. How to play the aftermath.",
+      "description": "Apple and Nvidia led Monday’s $750 billion tech wreck. How to play the aftermath.",
+      "published_utc": "2025-03-11T01:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3763d5b01e138ff7d591a51f14dbe48b622c6d9b10460e886b121e1532722622",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132282,
+      "datetime": 1741628760
+    },
+    {
+      "title": "Trump’s Justice Department Isn’t Easing Up on Big Tech. It’s One More Headwind for the Stocks.",
+      "description": "Trump’s Justice Department Isn’t Easing Up on Big Tech. It’s One More Headwind for the Stocks.",
+      "published_utc": "2025-03-11T00:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e15a7d40a4ea1128cee642fadc840c92f7a03ac9c396f515a5bfdc8f4a652fa2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132283,
+      "datetime": 1741624140
+    }
+  ]
+}

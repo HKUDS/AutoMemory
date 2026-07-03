@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "3 Stocks to Watch in the Promising Construction & Mining Equipment Industry",
+      "description": "The prospects of the Zacks Manufacturing - Construction and Mining industry look good. Stocks like CAT, KMTUY and HTCMY are stocks worth a look.",
+      "published_utc": "2025-04-29T23:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a31227773d7784aa5ad7a3b748bdd35be8b708fa5fa7500c8118013ea927477",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141730,
+      "datetime": 1745941800
+    },
+    {
+      "title": "Jim Cramer on Caterpillar Inc. (CAT): “Not trading like it should” – Waiting for the Infrastructure Bill to Kick In",
+      "description": "We recently published a list of Jim Cramer’s Game Plan for This Week: 16 Stocks in Focus. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other stocks that Jim Cramer discussed. On Friday, Mad Money host Jim Cramer took a close look at what he called […]",
+      "published_utc": "2025-04-29T20:37:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fdc85f96fc3dc1aa2ed671692749b810645d5e8af07bfee6246fcfdf414b19b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131154,
+      "datetime": 1745930249
+    },
+    {
+      "title": "Possible Bearish Signals With Caterpillar Insiders Disposing Stock",
+      "description": "In the last year, many Caterpillar Inc. ( NYSE:CAT ) insiders sold a substantial stake in the company which may have...",
+      "published_utc": "2025-04-29T19:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba7ea82eaac47c39a5dc967f595d01095b6e91a536271fd0577218d704d86845",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131155,
+      "datetime": 1745924413
+    }
+  ]
+}

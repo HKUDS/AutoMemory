@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Uber, IBM's Power11 chip, Hershey new CEO: Trending Tickers",
+      "description": "Uber (UBER) stock recently hit new record highs, rebounding 60% this year. Bank of America also raised its price target on the stock to $115, citing expectations for higher free cash flow. IBM (IBM) unveiled its first major Power chip update in five years with the new Power11 chip, saying the company aims to compete more directly in the artificial intelligence (AI) server race. Hershey (HSY) has named Wendy's (WEN) CEO Kirk Tanner as the company's next CEO as the candy maker navigates changing consumer tastes. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts here.",
+      "published_utc": "2025-07-08T23:01:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a899820b20004c17f5859d43c4d277d4a863032d5db879c427cd42a7891ecaf3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825996,
+      "datetime": 1751986902
+    },
+    {
+      "title": "Finance Cloud Market Trend Analysis and Forecast Report 2025-2034, Competitive Analysis of Key Players - Salesforce, IBM, Dell, Oracle, Capgemini, Acumatica, Infosys, Amazon, Microsoft, and Google",
+      "description": "The Global Finance Cloud Market is anticipated to expand from USD 32.8 billion in 2024 to USD 240.4 billion by 2034, driven by the digital transformation in banking, insurance, and investment sectors. The shift to finance cloud solutions enhances operational efficiency, compliance, and customer experience. Innovations in AI, automation, and analytics are revolutionizing financial processes. Major players like Salesforce, IBM, and Google focus on security, compliance, and partnerships to boost ma",
+      "published_utc": "2025-07-08T22:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92c0ff54f1b2db1caee17d54c18fd7f1b5b1fbf0193600d751b899516c17c2df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805487,
+      "datetime": 1751983560
+    }
+  ]
+}

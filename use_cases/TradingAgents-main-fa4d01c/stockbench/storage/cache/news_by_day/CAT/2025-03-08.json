@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Bill Gates Owns $2.5 Billion of This Dow Jones Stock. Should You Buy It, Too?",
+      "description": "Caterpillar (NYSE: CAT) is a top-five holding of the Bill & Melinda Gates Foundation Trust, and it's also a stock up 83% over the last three years and 176% over the last five.  Does it make sense to follow the Bill & Melinda Gates Foundation Trust and buy the stock?  As always with Caterpillar, investors should be mindful that it's a cyclical company, so its sales tend to oscillate according to a trend.",
+      "published_utc": "2025-03-08T17:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87debeb1eee37a4a52a1c50255acfeebf2b9b1526c4fdb9d0b7237373e822289",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185148,
+      "datetime": 1741427460
+    }
+  ]
+}

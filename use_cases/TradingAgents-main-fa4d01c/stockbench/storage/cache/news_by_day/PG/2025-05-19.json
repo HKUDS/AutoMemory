@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q1 2025 Update",
+      "description": "Fisher Asset Managementâs Q1 2025 portfolio shifts focus with mega-cap tech reductions and energy sector boosts. Check out the significant stake increases here.",
+      "published_utc": "2025-05-19T05:36:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3d4ca0c5601d6c33d5b8a73480c0af970db18cd3837050d03c55d97c742ceec1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134572705,
+      "datetime": 1747604168
+    },
+    {
+      "title": "The Top Corporate Board Directors",
+      "description": "The Top Corporate Board Directors",
+      "published_utc": "2025-05-19T04:31:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3a8da79ef0fea5374c3f6ca6012be9e16fbb63d9a0d64bd39aac240b57995d59",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581204,
+      "datetime": 1747600260
+    },
+    {
+      "title": "Dividend Hikes Offer Optimism Amid Tariff Turmoil",
+      "description": "We profile a pair of blue chips that recently announced dividend hikes, which has turned out to be a broader Q2 theme",
+      "published_utc": "2025-05-19T03:25:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0a956c564b59f13f1f5b4abd3fac6b1845214748958bcf71322b2506317aa0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577215,
+      "datetime": 1747596341
+    }
+  ]
+}

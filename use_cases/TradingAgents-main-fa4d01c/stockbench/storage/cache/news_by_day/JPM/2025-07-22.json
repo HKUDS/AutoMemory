@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Figma’s IPO Seeks $13B Valuation in Latest Tech Debut. How It Stacks Up to Adobe.",
+      "description": "The design software start-up filed the terms of its upcoming initial public offering, with plans to sell 37 million shares at $25 to $28 a share.",
+      "published_utc": "2025-07-22T20:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12fb1eeecb0077c1f8838f9877d2fb3ee08cbf9f8fad6370c154c60bd6706b5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031214,
+      "datetime": 1753188660
+    }
+  ]
+}

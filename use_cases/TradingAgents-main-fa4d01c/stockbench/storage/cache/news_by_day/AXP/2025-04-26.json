@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Warren Buffett-Led Berkshire Hathaway Owns $37 Billion Worth of 1 Stock. Here Are 3 Reasons You Should Buy It Right Now.",
+      "description": "Berkshire Hathaway, the massive enterprise with its hand in various industries, also owns a sizable public equities portfolio.  Directed by legendary investor Warren Buffett, the conglomerate has done a remarkable job compounding capital.  Everyday investors can find potential ideas by looking at what the Oracle of Omaha owns.",
+      "published_utc": "2025-04-26T16:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=024d8768234a69311b5855bed4e4dab015329d3d745c1132d923996093f70d7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104595,
+      "datetime": 1745655240
+    }
+  ]
+}

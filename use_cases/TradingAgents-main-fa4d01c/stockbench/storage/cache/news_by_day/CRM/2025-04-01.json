@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "title": "Freshworks: Disrupting The SaaS Universe With Simplicity",
+      "description": "Freshworks stock offers 87% potential upside with strong growth, free cash flow, and market share gains. Read more about FRSH stock here.",
+      "published_utc": "2025-04-01T21:32:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c4b63319255a9835f40b5e14f8168677f30874b0ac43a2cd1c41b57255e1b56",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310129219/image_1310129219.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133652492,
+      "datetime": 1743514334
+    },
+    {
+      "title": "3 S&P 500 Stocks in Hot Water",
+      "description": "The S&P 500 is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "published_utc": "2025-04-01T21:03:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c64853d749c270312500ca03b4a5c03dd4b7c85bb1eeeb26e6dac042f8d5535",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658218,
+      "datetime": 1743512598
+    },
+    {
+      "title": "Dogs Of The Dow Chase April's 'Safer' Buy",
+      "description": "",
+      "published_utc": "2025-04-01T20:05:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feed9044f044f2d4cb8422e3537e5db1ce869843f4c4367a375d4fa0a997d66",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133646857,
+      "datetime": 1743509147
+    },
+    {
+      "id": "eb0c5b90c246825190322eb219b97ef1fa737f6beacdf6240498b1326b711d75",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Robotic Process Automation (RPA) Market Disruptions: The $7.9 Billion Opportunity Vendors Can’t Afford to Miss",
+      "author": "Qks Group",
+      "published_utc": "2025-04-01T10:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/01/3053094/0/en/Robotic-Process-Automation-RPA-Market-Disruptions-The-7-9-Billion-Opportunity-Vendors-Can-t-Afford-to-Miss.html",
+      "tickers": [
+        "PATH",
+        "NICE",
+        "APPN",
+        "NOW",
+        "CRM",
+        "PEGA",
+        "MSFT",
+        "SAP",
+        "IBM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0c7f2ca9-2c83-4ecc-882d-38dab5dadbb2",
+      "description": "The global Robotic Process Automation (RPA) market is projected to reach $7.9 billion by 2030, growing at a CAGR of 11.72% from 2024 to 2030. RPA solutions are becoming essential for enterprises to drive digital transformation, enhance productivity, and reduce operational costs.",
+      "keywords": [
+        "Robotic Process Automation",
+        "RPA",
+        "Digital Transformation",
+        "Automation",
+        "AI",
+        "Analytics"
+      ],
+      "insights": [
+        {
+          "ticker": "PATH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "UiPath is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "NICE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NICE is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "APPN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Appian is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "NOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ServiceNow is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "PEGA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pegasystems is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as one of the key industry players in the RPA market, indicating its strong market presence and competitive position."
+        }
+      ]
+    }
+  ]
+}

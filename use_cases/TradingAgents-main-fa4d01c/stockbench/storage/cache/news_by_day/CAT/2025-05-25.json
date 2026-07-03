@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Are Investors Undervaluing Caterpillar Inc. (NYSE:CAT) By 31%?",
+      "description": "Key Insights The projected fair value for Caterpillar is US$498 based on 2 Stage Free Cash Flow to Equity Caterpillar...",
+      "published_utc": "2025-05-25T20:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9396719f4e83841b36dd4187809a6f91483704ede8d1714b4f57f6a4ad62e3a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694398,
+      "datetime": 1748174418
+    }
+  ]
+}

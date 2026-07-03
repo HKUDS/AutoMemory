@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Crypto Currents: Strategy buys more bitcoin",
+      "description": "As bitcoin, ethereum and other cryptocurrencies get increasing attention from investors, Wall Street and its traditional banks continue to adjust to the shift. Catch up on this week’s top stories highlighting the intersection of these old guard and new school areas of finance with this recap compiled by The Fly. STRATEGY BUYS MORE BITCOIN: Strategy (MSTR) announced updates on Monday with respect to its at-the-market offering programs and bitcoin holdings. The company purchased 705 bitcoin during",
+      "published_utc": "2025-06-07T21:50:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9720d9720c9cfaef4551b1bcbba3e533c388c42cf1ef434e23b7b20445be5df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106367,
+      "datetime": 1749304219
+    },
+    {
+      "title": "Better Ultra-High-Yield Dividend ETF to Buy for Passive Income: Global X SuperDividend ETF or JPMorgan Equity Premium Income ETF?",
+      "description": "The Global X SuperDividend ETF has an 11.7% annualized dividend yield.  The JPMorgan Equity Premium Income ETF has a 7.4% yield based on its payments over the past year.  Exchange-traded funds (ETFs) make it easy to start generating passive income.",
+      "published_utc": "2025-06-07T16:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56ebeba10e04e14dd6a7d80f49c7016f31a656735ea7d4815b48e2164bf4b6fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106368,
+      "datetime": 1749283680
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 10% (June 2025)",
+      "description": "See here for 5 large-cap, dividend-paying stocks with significant discounts. Click for our cutdown of dividend stocks using our proprietary techniques.",
+      "published_utc": "2025-06-07T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ffdbb365cd6398c4cf9057a011487323cd5550688fe60bbdfa2a5466b67d0c6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135105820,
+      "datetime": 1749283200
+    }
+  ]
+}

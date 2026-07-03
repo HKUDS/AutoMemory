@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers Launches Landmark Preservation Initiative to Commemorate America’s 250th Anniversary",
+      "description": "HARTFORD, Conn., July 01, 2025--The Travelers Companies, Inc. (NYSE: TRV) today announced the launch of Travelers Across America, a national initiative to restore and protect historic landmarks in partnership with the National Trust for Historic Preservation. Timed to commemorate the 250th anniversary of the United States, the effort reflects Travelers’ long-standing commitment to strengthening community resilience.",
+      "published_utc": "2025-07-02T02:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=335fb3025cc4846576982790e20e8e53b2832dcc713e69248df01965b501608f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135698119,
+      "datetime": 1751394600
+    }
+  ]
+}

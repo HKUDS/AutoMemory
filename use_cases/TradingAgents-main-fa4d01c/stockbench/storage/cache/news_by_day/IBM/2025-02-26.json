@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corp. stock underperforms Tuesday when compared to competitors",
+      "description": "International Business Machines Corp. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-02-26T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e0e3d070edfc40439d767b31d32ed127d6e9fcfbcbdd94ee6f97a212c68c667a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882365,
+      "datetime": 1740501120
+    }
+  ]
+}

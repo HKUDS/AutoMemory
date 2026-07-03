@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "\"I don't want to hurt Ireland but trade must be fair\" — Donald Trump",
+      "description": "President Donald Trump has said he does not want to do anything to hurt Ireland but added that the trade relationship between the countries should be focused on fairness.Trump levelled accusations...",
+      "published_utc": "2025-03-12T22:20:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bdd126881c1c45053c9e46b249eb5582bd505063252810c314797503643001bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156804,
+      "datetime": 1741789208
+    },
+    {
+      "title": "Wall Street Lunch: Inflation Eases But Warning Signs Lurk",
+      "description": "A soft inflation report before the bell brought out stock buyers, but they quickly retreated and gains faded into the open as investors looked under the hood.",
+      "published_utc": "2025-03-12T21:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b4350253053ba431cb3dae8d0ad012de7c8b73648a46fa11a785d17332a3cac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165462299/image_2165462299.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156513,
+      "datetime": 1741784700
+    }
+  ]
+}

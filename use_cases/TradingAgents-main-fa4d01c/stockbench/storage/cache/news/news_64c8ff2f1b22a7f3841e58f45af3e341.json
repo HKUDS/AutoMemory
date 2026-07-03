@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Google’s Revenue Growth Slows, Sending Shares Down",
+      "description": "Google’s Revenue Growth Slows, Sending Shares Down",
+      "published_utc": "2025-02-05T03:09:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=554f568ec863e6e4ef02ec86b9e1ec30eeba6fa70732b9273a7cd0394ad55eca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564005,
+      "datetime": 1738696140
+    },
+    {
+      "title": "AI Infrastructure: Laying The Groundwork",
+      "description": "Generative AI could add $16 trillion to global gross domestic product by 2030. Click to read.",
+      "published_utc": "2025-02-04T22:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b0f0aaff25a49b0ecd30b005cd72345f9926797f5a56a6a7c90d09eac8027435",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1358927461/image_1358927461.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132552152,
+      "datetime": 1738678200
+    },
+    {
+      "title": "Microsoft Still Achieves Double-Digit Growth",
+      "description": "Microsoft's $3 trillion stock valuation reflects strong growth and cash flow, driven by cloud and AI segments. Learn more about MSFT stock here.",
+      "published_utc": "2025-02-04T20:52:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c755a842e13cb1be08b73c08e3c80b71c54ce9e534fd9d0ff6ba0c3ecf415939",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1729779122/image_1729779122.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132547806,
+      "datetime": 1738673561
+    },
+    {
+      "title": "Microsoft: Don't Let Go Of This Fantastic Buying Opportunity",
+      "description": "Microsoft is struggling to regain traction amid the DeepSeek selloff and the volatility linked to Trump's tariffs threats. Read more about MSFT stock here.",
+      "published_utc": "2025-02-04T20:09:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9083d29a5cfe5ba50ed050c90e13a19ba981ccfb484a399fad254bb07c6cebaf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1729779122/image_1729779122.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132544924,
+      "datetime": 1738670940
+    },
+    {
+      "title": "Magnificent Seven Stocks: Apple, Nvidia Rebound; Alphabet Hits New High Ahead Of Q4 Earnings",
+      "description": "Magnificent Seven Stocks: Apple, Nvidia Rebound; Alphabet Hits New High Ahead Of Q4 Earnings",
+      "published_utc": "2025-02-04T19:46:42",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=89fc452ff56e69a48f8c4eb0e871977b45e059f618723516dd1fe1191fde3cff",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543645,
+      "datetime": 1738669602
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:58:19.227007+00:00",
+    "cache_key": "news_64c8ff2f1b22a7f3841e58f45af3e341",
+    "count": 5
+  }
+}

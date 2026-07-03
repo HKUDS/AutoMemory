@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Voya Global Equity Dividend And Premium Opportunity Fund Q4 2024 Commentary",
+      "description": "For the quarter, the Voya Global Advantage and Premium Opportunity Fund provided a total return of 0.36% on a net asset value basis and a total return of 0.31% on a market priceÂ -4.20%.",
+      "published_utc": "2025-04-10T06:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cbb2ccbff3f2145c7fb74add461908dbdbfe3a7d839d4323f3ec3ad2654ec02a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193247114/image_2193247114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133839972,
+      "datetime": 1744237020
+    },
+    {
+      "title": "Voya Global Advantage And Premium Opportunity Fund Q4 2024 Commentary",
+      "description": "",
+      "published_utc": "2025-04-10T05:38:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=43aa7e552511e1ee0922e6f37d793118f2b16c6f134c1e0d547ef8a2bd1a4e0f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133839877,
+      "datetime": 1744234680
+    },
+    {
+      "title": "JPMorgan Earnings Preview: Tough Compares Meet Harder Capital Markets",
+      "description": "JPMorgan will report their Q1 â25 financial results before the opening bell on Friday, April 11th, 2025.",
+      "published_utc": "2025-04-10T04:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e3f2635586d7cf2beffff1cf71d1afadea6b1c7f98618d2cb887cab96a158b2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/171292089/image_171292089.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133839603,
+      "datetime": 1744230600
+    },
+    {
+      "title": "Nike’s 30-Year Gamble on Vietnam Is Rattled by Trump Tariffs",
+      "description": "(Bloomberg) -- At Nike Inc. headquarters in Beaverton, Oregon, executives are trying to figure out how to best spread the pain of new tariffs.Nike, the factories that produce its goods, the wholesalers that sell the goods and ultimately shoppers will all likely share portions of the cost, according to a person familiar with the matter who asked not to be named discussing private conversations.The backbone of Nike’s supply chain is being threatened by President Donald Trump’s global tariff campai",
+      "published_utc": "2025-04-10T01:41:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=adb986c022004ef31a5f57eec615d070b1e63eb97fcd3be2447cc9ad3a553189",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841175,
+      "datetime": 1744220499
+    },
+    {
+      "title": "Apple, oil futures, bank stocks: Market Minute",
+      "description": "Josh Lipton goes over some of the top trending stories on this segment of Market Minute. Apple (AAPL) stock rebounds after previous losses, though shares are down over 20% over the past five days. Oil futures (CL=F) are sliding due to the escalating trade war as China announced retaliatory tariffs of 84% on US goods, effective April 10th. Bank stocks, including JPMorgan (JPM), Wells Fargo (WFC), and Citigroup (C) are under pressure after JPMorgan Chase CEO Jamie Dimon warned that a US recession is likely. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-04-10T01:19:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7c542cb045ab4def91ac4e0c7ae36ae2d0ccebe0471c4cc29b06aaaffd922d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841302,
+      "datetime": 1744219178
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:59.275075+00:00",
+    "cache_key": "news_641c6b9fbedb0a433ad2ef85b50690f7",
+    "count": 5
+  }
+}

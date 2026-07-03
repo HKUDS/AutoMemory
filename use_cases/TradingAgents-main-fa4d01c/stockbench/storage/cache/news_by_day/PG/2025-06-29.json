@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Calls J. M. Smucker’s Recent Quarterly Report “Horrendous”",
+      "description": "The J. M. Smucker Company (NYSE:SJM) is one of the 13 stocks Jim Cramer recently shed light on. During the episode, Cramer discussed the impact of the company’s acquisition of Hostess Brands. He said: “Meanwhile, usually strong stocks like Colgate or Procter & Gamble, they can’t get traction at all. Hey, two weeks ago, we […]",
+      "published_utc": "2025-06-29T00:19:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de431d1f2348ecebd59a4a06fb0369d515bd4c200eb39b695625d917ef63e3c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623668,
+      "datetime": 1751127598
+    }
+  ]
+}

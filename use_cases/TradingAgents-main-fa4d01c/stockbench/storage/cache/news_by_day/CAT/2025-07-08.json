@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Unifor members at Toromont on strike as they fight for first contract",
+      "description": "Workers at Toromont Industries in Bradford, Ont. went on strike this morning after the employer failed to adequately address wages and benefits during negotiations for a first collective agreement.",
+      "published_utc": "2025-07-08T22:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8385f7a68b44339cea699c0fba52f37cfb234e3444a2b96702d7cf648e3a737",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135806078,
+      "datetime": 1751984640
+    }
+  ]
+}

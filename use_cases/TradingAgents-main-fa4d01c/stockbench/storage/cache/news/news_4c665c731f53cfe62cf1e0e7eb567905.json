@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson Elects Daniel Pinto, President, JPMorganChase to its Board of Directors",
+      "description": "NEW BRUNSWICK, N.J., June 10, 2025--Johnson & Johnson (NYSE: JNJ) announced today that Daniel Pinto, President, JPMorganChase, has been elected to its Board of Directors.",
+      "published_utc": "2025-06-11T04:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c08b3fc45c4f8a870e9e690c063f760ee271634619327e36204a24d1d93adf4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171140,
+      "datetime": 1749588660
+    },
+    {
+      "title": "Top Analyst Reports for Johnson & Johnson, T-Mobile US & Boeing",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Johnson & Johnson, T-Mobile US, and The Boeing Company.",
+      "published_utc": "2025-06-11T04:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14fe6ba76c061228e8070204ef07b4c31dd83a30db70a6a8639fa68c83d529b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171141,
+      "datetime": 1749587100
+    },
+    {
+      "title": "Fact Checking RFK Jr.’s Attack on Government Vaccine Experts",
+      "description": "Fact Checking RFK Jr.’s Attack on Government Vaccine Experts",
+      "published_utc": "2025-06-10T23:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=beeb5767ad36e02c990493ebc08cf30b1848b278292960b4d163e1000f974c03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135180879,
+      "datetime": 1749570720
+    },
+    {
+      "title": "RFK Jr. removes CDC vaccine panel members: What to know",
+      "description": "US Secretary of Health and Human Services (HHS) Robert F. Kennedy, Jr. has removed all 17 members of the Centers for Disease Control and Prevention's (CDC) vaccine advisory panel and aims to replace it with new members \"currently under consideration.\" Yahoo Finance senior health reporter Anjalee Khemlani covers what this means for vaccine distribution in the US and the reaction from vaccine manufacturers. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+      "published_utc": "2025-06-10T22:10:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed5e7098555ab2793f0e6b6d81573e7096cc4fcb0f532f7044b81d62ee2205eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135150679,
+      "datetime": 1749564622
+    },
+    {
+      "title": "Have Skyrizi and Rinvoq Successfully Saved AbbVie From Humira LoE?",
+      "description": "ABBV eyes $24.7 billion from Skyrizi and Rinvoq in 2025 as ex-Humira growth offsets sharp sales drop post-U.S. patent loss.",
+      "published_utc": "2025-06-10T21:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5af4e1473048fde6653e3f9a23bb5c5d2f8061432f20b363e55638be9ed8970b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135154589,
+      "datetime": 1749560520
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:52.284961+00:00",
+    "cache_key": "news_4c665c731f53cfe62cf1e0e7eb567905",
+    "count": 5
+  }
+}

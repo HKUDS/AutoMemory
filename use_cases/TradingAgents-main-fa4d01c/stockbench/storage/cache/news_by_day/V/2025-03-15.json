@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Visa Stock: Not Where Investors Want It To Be (Technical Analysis)",
+      "description": "Visa's fair valuation and mixed signals lead to a neutral outlook. Learn why V stock is a hold despite earnings growth and cash flow strength.",
+      "published_utc": "2025-03-15T15:27:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab9903a3e732a78c3876e7b9aefc248b5294332953ad6cfdf91c30418edd42e9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487418477/image_487418477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133177948,
+      "datetime": 1742023620
+    },
+    {
+      "title": "Fiserv: Challenges In Front Of Sustaining Share Price Momentum",
+      "description": "Fiserv outperformed its peers in 2023 and its key growth drivers may not sustain in 2025. See why I remain optimistic about FI stock's long-term future.",
+      "published_utc": "2025-03-15T13:12:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d63833b88b75b940e302f8bd1b1e637494e45e182b3706864eb94243900fc671",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2166508224/image_2166508224.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133177532,
+      "datetime": 1742015574
+    },
+    {
+      "title": "Is Visa Inc. (V) the Best Quality Stock to Invest in Now?",
+      "description": "We recently published a list of 12 Best Quality Stocks to Invest in Now. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best quality stocks to invest in now. Tom Lee, co-founder of Fundstrat Global Advisors, believes that a significant rebound is in the offing, […]",
+      "published_utc": "2025-03-15T10:18:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79f21a6193639eb1cdda7f93045e6ec9fd87c29a5ffcd84ac32b1117d1e9dd16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184287,
+      "datetime": 1742005119
+    }
+  ]
+}

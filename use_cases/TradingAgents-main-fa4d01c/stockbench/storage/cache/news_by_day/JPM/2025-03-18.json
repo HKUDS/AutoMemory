@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jessica Douieb: How to Get Wealthy Clients the Expert Help They Need",
+      "description": "Jessica Douieb: How to Get Wealthy Clients the Expert Help They Need",
+      "published_utc": "2025-03-18T23:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0c7f6964afcbe8b7b407858c3e3cebd040010da1b1129aa25acfaa9cf5b04b92",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133240532,
+      "datetime": 1742311740
+    }
+  ]
+}

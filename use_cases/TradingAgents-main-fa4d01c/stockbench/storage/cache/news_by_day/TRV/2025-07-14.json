@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Analysts Estimate RLI Corp. (RLI) to Report a Decline in Earnings: What to Look Out for",
+      "description": "RLI Corp. (RLI) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-07-14T22:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b062168b7c02beeedc711ee72be88238a480521d61304a7bdf4a3db7ba60b27",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135928026,
+      "datetime": 1752501603
+    },
+    {
+      "title": "Is a Beat in the Cards for Travelers This Earnings Season?",
+      "description": "TRV's Q2 results are likely to reflect solid renewal rate change, strong retention in high-quality Management Liability business and higher long-term average yields.",
+      "published_utc": "2025-07-14T21:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17f0b66903d7409d74efb12b6692985cad15026d947cf8ae88e0c86c0973431a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135928027,
+      "datetime": 1752500760
+    },
+    {
+      "title": "Unlocking Q2 Potential of Travelers (TRV): Exploring Wall Street Estimates for Key Metrics",
+      "description": "Beyond analysts' top-and-bottom-line estimates for Travelers (TRV), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2025.",
+      "published_utc": "2025-07-14T21:15:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b50930448310d1c78c0deac7982eeb81e172e863285829a35c086ed76b2f354",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135928029,
+      "datetime": 1752498904
+    },
+    {
+      "title": "Should You Invest in the iShares U.S. Insurance ETF (IAK)?",
+      "description": "Sector ETF report for IAK",
+      "published_utc": "2025-07-14T18:20:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a40a3585b0fad81f54c6e47c95ee1195210a963930716c6bfba6db6981eb483c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135925462,
+      "datetime": 1752488404
+    }
+  ]
+}

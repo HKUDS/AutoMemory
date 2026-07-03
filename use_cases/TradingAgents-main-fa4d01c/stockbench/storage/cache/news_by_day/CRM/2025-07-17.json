@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Veeva Systems' Vault CRM Momentum Builds With Top Biopharma Adoptions",
+      "description": "VEEV sees rising Vault CRM adoption among top biopharma firms, driven by new features, fueling customer migration and growth.",
+      "published_utc": "2025-07-17T00:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=899dd9b1319ca6802176114f9ab20af3365d61931b5f7b9e820ecf84f8416905",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993130,
+      "datetime": 1752683340
+    }
+  ]
+}

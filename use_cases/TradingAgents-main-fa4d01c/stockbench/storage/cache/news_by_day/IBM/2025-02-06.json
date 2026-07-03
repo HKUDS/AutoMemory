@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow's 175-point fall led by losses in shares of Honeywell, Salesforce",
+      "description": "Dow's 175-point fall led by losses in shares of Honeywell, Salesforce",
+      "published_utc": "2025-02-06T23:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0fc11537943c0917a3e0674a6ea8756e7e546640b21c4c5616558eee7236a341",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132581651,
+      "datetime": 1738856820
+    },
+    {
+      "title": "Dow's nearly 300-point drop led by losses for Honeywell, Salesforce shares",
+      "description": "Dow's nearly 300-point drop led by losses for Honeywell, Salesforce shares",
+      "published_utc": "2025-02-06T22:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6df5b890c37a4bda978689993897c29a8d17d2504a64c39d2573a8a7f0436d7a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132581652,
+      "datetime": 1738852320
+    },
+    {
+      "title": "Dow's nearly 175-point fall led by losses in Honeywell, Salesforce shares",
+      "description": "Dow's nearly 175-point fall led by losses in Honeywell, Salesforce shares",
+      "published_utc": "2025-02-06T20:12:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bd03cd1bc072494ba2c04b4183e75fcbe31ee494c6d54af79cd9fe1535377087",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573946,
+      "datetime": 1738843920
+    },
+    {
+      "title": "Fitch Rates IBM's Senior Notes 'A-'",
+      "description": "Fitch Ratings has assigned an 'A-' rating to International Business Machines' proposed senior unsecured notes issuance, including the Euro tranche and USD tranche.Fitch expects the proceeds to be...",
+      "published_utc": "2025-02-06T12:39:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8da94594dd4d4f4bf4ab21b488d96e23235034e3559c0afbbac432c40e6b27a0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132571728,
+      "datetime": 1738816752
+    },
+    {
+      "title": "IBM Files For Offering Of $1 Billion 4.650% Notes Due 2028",
+      "description": "International Business Machines Corp: * IBM FILES FOR OFFERING OF $1 BILLION 4.650% NOTES DUE2028, $1BILLION 4.800% NOTES DUE 2030 -SEC FILING * IBM FILES FOR OFFERING...",
+      "published_utc": "2025-02-06T02:13:41",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=67d183fda3b3b821bbbac06b6a3e5a04fc24fb039a50ec781df6c1f146a9d8b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568902,
+      "datetime": 1738779221
+    }
+  ]
+}

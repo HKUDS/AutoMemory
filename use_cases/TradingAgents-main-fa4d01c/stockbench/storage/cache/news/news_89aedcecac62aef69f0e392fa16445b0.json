@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Ascends But Remains Behind Market: Some Facts to Note",
+      "description": "JPMorgan Chase & Co. (JPM) reachead $264.66 at the closing of the latest trading day, reflecting a +0.25% change compared to its last close.",
+      "published_utc": "2025-06-03T05:45:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5e7f05a6b60a2e0a63d84fbb259c1c6ac7574c775de09779043aa756dde92b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134969723,
+      "datetime": 1748900707
+    },
+    {
+      "title": "Jamie Dimon says he's not retiring from JPMorgan Chase for 'several years'",
+      "description": "Don’t expect JPMorgan Chase (JPM) CEO Jamie Dimon to step down anytime soon. That’s still “several years away,” he said on Monday.",
+      "published_utc": "2025-06-03T02:35:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=930dd0eac8182db1968292be8206de7310c317429aadb1eeadcb0295b30f5ba5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134969725,
+      "datetime": 1748889302
+    },
+    {
+      "title": "JPMorgan Chase To Open New 'Elevated Concierge Type Of Service' Brick-And-Mortar Locations To Woo Wealth Clientele",
+      "description": "JPMorgan Chase announced the opening of 14 new Financial Centers across four states this week The brick-and-mortar locations are aimed at serving its Private Client tier, who have over $750,000 in qualifying deposits and investments with the institution The new financial centers join to existing locations in San Francisco and New York City that opened late last year JPMorgan Chase (NYSE:JPM) announced Tuesday it would be open 14 new financial centers to cater to affluent clients in four states t",
+      "published_utc": "2025-06-03T01:01:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae04060dbf12d0aeb93f4d5992ef80f74a623bce14e3a103170f190441bcdbcd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134969726,
+      "datetime": 1748883707
+    },
+    {
+      "title": "Trump’s Tax Bill Heads to the Senate. The Bond Vigilantes Are Waiting.",
+      "description": "Trump’s Tax Bill Heads to the Senate. The Bond Vigilantes Are Waiting.",
+      "published_utc": "2025-06-03T00:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d1c15bfed592fdc0705f0d88125c8144e7142036dc16b38116a7f5c7b874a698",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134982552,
+      "datetime": 1748882820
+    },
+    {
+      "title": "Jamie Dimon’s bond-market warnings put investors on alert to diversify outside U.S.",
+      "description": "Jamie Dimon’s bond-market warnings put investors on alert to diversify outside U.S.",
+      "published_utc": "2025-06-03T00:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=96e61da277c87faa774659a7198efb9cbd47d5f217bebd7679c4b9ca03ed8721",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134982554,
+      "datetime": 1748880060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:13.343391+00:00",
+    "cache_key": "news_89aedcecac62aef69f0e392fa16445b0",
+    "count": 5
+  }
+}

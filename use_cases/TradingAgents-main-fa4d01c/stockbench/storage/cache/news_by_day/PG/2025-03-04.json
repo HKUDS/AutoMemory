@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Advances While Market Declines: Some Information for Investors",
+      "description": "Procter & Gamble (PG) closed the most recent trading day at $175.59, moving +1.01% from the previous trading session.",
+      "published_utc": "2025-03-04T06:50:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78cac6e0a5eb0ef64c7614aa7a6dfa936741af7d8c8f1c4fd21a66cb8a9770f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184397,
+      "datetime": 1741042206
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Procter & Gamble Co. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-03-04T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e26a7dca1e95d4f87881d9caaabcdd20a3dd308831dab3165edc88a85ce2cbe4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973917,
+      "datetime": 1741019460
+    }
+  ]
+}

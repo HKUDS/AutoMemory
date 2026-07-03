@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Switzerland faces deflation and threat of negative interest rates",
+      "description": "Copyright © BusinessAMBE 2023Key takeawaysConsumer prices in Switzerland fell 0.1 percent in May from a year earlier.The Swiss National Bank is under pressure to respond to this deflationary...",
+      "published_utc": "2025-06-11T23:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e972052e7ab9dae5796d76ea9b8b5a8ac38cb9ec55cd0728350cf318db5179d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135193148,
+      "datetime": 1749654067
+    },
+    {
+      "title": "Dow up 231 points on gains for shares of Goldman Sachs, 3M",
+      "description": "Dow up 231 points on gains for shares of Goldman Sachs, 3M",
+      "published_utc": "2025-06-11T21:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=671facf985b90cea700e0ed4dbdfce9c9aa3e2c257783c5e34d0bf065e69b384",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135214890,
+      "datetime": 1749648300
+    }
+  ]
+}

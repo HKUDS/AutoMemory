@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Alphabet Boosted by AI, Cloud Demand as Spending Needs Skyrocket",
+      "description": "(Bloomberg) -- Alphabet Inc. said demand for artificial intelligence products boosted quarterly sales, and now requires an extreme increase in capital spending — heightening pressure on the company to justify the cost of keeping up in the AI race.Most Read from BloombergTrump Awards $1.26 Billion Contract to Build Biggest Immigrant Detention Center in USWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionThe High Costs of Trump’s ‘Big Beautiful’ New Car Loan DeductionSalt Lake City T",
+      "published_utc": "2025-07-24T07:39:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e06bec9d7c5be19a53d4c3df9a504e8edbd50f6e0373702029b016a534ae0a85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061967,
+      "datetime": 1753313959
+    },
+    {
+      "title": "Amazon (AMZN) Stock Holds Steady as Analysts Look Past Prime Day Weakness",
+      "description": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks on Analysts’ Radar Right Now. On July 18, Citizens JMP analyst Andrew Boone reiterated a “Market Outperform” rating on the stock with a $285.00 price target. The firm remains focused on AWS and advertising growth due to their higher margin profiles. “While we acknowledge Prime day growth […]",
+      "published_utc": "2025-07-24T06:20:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd4d62c7cc60a93355e3e0f962614cedd8c0a22810b9b1732009eaa1f04b340b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062004,
+      "datetime": 1753309242
+    },
+    {
+      "title": "White House Unveils Push to Speed AI Development",
+      "description": "President Donald Trump’s first major speech on artificial intelligence comes amid a technology arms race among Silicon Valley giants.",
+      "published_utc": "2025-07-24T06:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59cae85eeb64af3cdf975595cdc3272d500d0bd2584447f7abfe08adec73ab49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061970,
+      "datetime": 1753308720
+    },
+    {
+      "title": "Palantir vs. BigBear.ai: Which Is the Better Artificial Intelligence (AI) Software Stock?",
+      "description": "Palantir and BigBear.ai have handily beat the broader market this year, but one looks like the better opportunity for long-run investors.",
+      "published_utc": "2025-07-24T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a5f4871fc50fa2b5b5c600b59f69e747fc05a6e36e066c222c7b6620f992f82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061971,
+      "datetime": 1753308000
+    },
+    {
+      "title": "CNBC's 'Mad Money' host Cramer thinks investors shouldn't bet against 'not terrible' Kohl's",
+      "description": "CNBC's Jim Cramer, host of Mad Money, ended his show by issuing some advice to the hedge funds shorting Kohl's: \"Cover and move on.\"",
+      "published_utc": "2025-07-24T04:48:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89ba53ea5d3efa9ff61e31df3f24d2125507eef42101e20c388930c5de7aaf70",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062007,
+      "datetime": 1753303734
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:11:33.043710+00:00",
+    "cache_key": "news_25bbecd4a3d5127c86d2b3ae8481eb9a",
+    "count": 5
+  }
+}

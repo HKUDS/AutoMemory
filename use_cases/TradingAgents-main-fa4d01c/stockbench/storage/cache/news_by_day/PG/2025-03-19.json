@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble: Can't Wash Away Inflation And Valuation Worries",
+      "description": "Procter & Gamble's steady EPS growth faces inflation pressures and consumer challenges. Click here to read an analysis of PG stock now.",
+      "published_utc": "2025-03-19T23:21:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c060b5321466bb61cafd2bb3e215071631e59a295108a5fbf5398b2895869c6c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2149854117/image_2149854117.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133261992,
+      "datetime": 1742397712
+    },
+    {
+      "title": "Managing Risk Through Market Badness With Rob Isbitts",
+      "description": "Rob Isbitts explains how investors should manage risk in the midst of volatile markets.",
+      "published_utc": "2025-03-19T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=143f44fcf015ea6701f41fd14bd663b6f70d31e762641ef3773834d1cb5d4185",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1023759644/image_1023759644.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133260531,
+      "datetime": 1742395500
+    },
+    {
+      "title": "Top Companies for Financial Strength",
+      "description": "Top Companies for Financial Strength",
+      "published_utc": "2025-03-19T18:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=00f4ad9b3a6f7bb5119870070c830e05688b3be53541e2b1980391279eb0f179",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133242331,
+      "datetime": 1742378400
+    }
+  ]
+}

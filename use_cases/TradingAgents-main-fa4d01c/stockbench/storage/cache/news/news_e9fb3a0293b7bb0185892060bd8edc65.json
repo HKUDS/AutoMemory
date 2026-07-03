@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Was Jim Cramer Right to Defend Salesforce (CRM) After Its Post-Earnings Collapse A Year Ago?",
+      "description": "We recently published a list of Jim Cramer Nailed These 11 Stock Predictions. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stocks that Jim Cramer discusses. In those older episodes, Jim Cramer addressed the sharp 20% post-earnings drop in Salesforce, Inc. (NYSE:CRM). In the first […]",
+      "published_utc": "2025-06-10T03:14:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98593247c763d5c0d7d1a4a63b17155d536823f76661838232d34949fdb8ed72",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139332,
+      "datetime": 1749496485
+    },
+    {
+      "title": "Which Software Stocks Is BofA Securities Bullish On?",
+      "description": "The BofA Securities software research team hosted 18 public and 10 private companies at the BofA Global Technology Conference in San Francisco on June 3-5. With an ever-changing macro policy backdrop, the spending environment was the focus of this discussion. AI product cycles were another key topic discussed, with companies citing healthy pilot activity for agentic applications. Based on discussions, participating software companies endorsed a generally stable environment, although companies re",
+      "published_utc": "2025-06-10T03:01:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b86bea1cecc8548d66726c8933c58188c93f1cb0d6450e34ca42229e83c53c9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139333,
+      "datetime": 1749495709
+    },
+    {
+      "title": "SALESFORCE : RBC reaffirms its Neutral rating",
+      "description": "In his latest research note, analyst Rishi Jaluria confirms his recommendation. The broker RBC is keeping its Neutral rating. The target price is still set at USD 275.",
+      "published_utc": "2025-06-09T21:56:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4aa6d8506ee650054af38fa4f7ca9a06452d6185bcfd2ec5cf1999d9815c3fc9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137239,
+      "datetime": 1749477375
+    },
+    {
+      "title": "The Market Is Vulnerable. 6 ‘Defensive’ Stocks to Buy Now.",
+      "description": "The Market Is Vulnerable. 6 ‘Defensive’ Stocks to Buy Now.",
+      "published_utc": "2025-06-09T20:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cd31a31e14d4108c8344f07e444186ad1b1ba32e8564ca65fb2f4c9f9675d1c7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135151719,
+      "datetime": 1749473160
+    },
+    {
+      "title": "Dow's 109-point drop led by losses in shares of Travelers, McDonald's",
+      "description": "Dow's 109-point drop led by losses in shares of Travelers, McDonald's",
+      "published_utc": "2025-06-09T17:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c88001a071e64c02d5b75b2bfedf159fb54610b638fad48678c335a25265e566",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135126123,
+      "datetime": 1749463140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:07.939207+00:00",
+    "cache_key": "news_e9fb3a0293b7bb0185892060bd8edc65",
+    "count": 5
+  }
+}

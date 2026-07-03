@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Laps the Stock Market: Here's Why",
+      "description": "IBM (IBM) concluded the recent trading session at $265.52, signifying a +0.12% move from its prior day's close.",
+      "published_utc": "2025-06-05T05:45:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4537f49095dc5188cbd261eed7bc02e40400ac349f452dae9110c34f9e9b6271",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135038617,
+      "datetime": 1749073515
+    },
+    {
+      "title": "IBM Said To Have Pursued Informatica Ahead Of Salesforce Deal- Bloomberg News",
+      "description": "June 4 - * IBM SAID TO HAVE PURSUED INFORMATICA AHEAD OF SALESFORCEDEAL-BLOOMBERG NEWSSource text: https://tinyurl.com/4tcnry3jFurther company coverage: [CRM.N IBM.N INFA.NCRM.N] ...",
+      "published_utc": "2025-06-05T05:14:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=053bd644598e0ee68bd72ead8ba40e3c031c6e7991948c2338036a03f13ade01",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035224,
+      "datetime": 1749071647
+    }
+  ]
+}

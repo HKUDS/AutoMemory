@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Tariff Tempest: How Savvy Investors Can Ride Out The Trade War Storm",
+      "description": "Potential tariffs on Canadian, Mexican and Chinese goods on key sectors like autos, energy and tech hardware could impact certain companies. Read more on how investors can assess the impact.",
+      "published_utc": "2025-02-06T01:45:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ff07f2143ddf7c85e9471fec9b5066104d4ec96a5eef5905d2cec036c11fd524",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1287178621/image_1287178621.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568659,
+      "datetime": 1738777522
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:52:08.677464+00:00",
+    "cache_key": "news_688d36b7bb530dcb556fb9b213000680",
+    "count": 1
+  }
+}

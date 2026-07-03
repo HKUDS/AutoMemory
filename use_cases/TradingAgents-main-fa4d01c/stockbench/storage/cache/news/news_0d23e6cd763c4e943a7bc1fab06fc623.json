@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "title": "Dow's 225-point rally highlighted by gains in shares of Boeing, Merck",
+      "description": "Dow's 225-point rally highlighted by gains in shares of Boeing, Merck",
+      "published_utc": "2025-07-09T23:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b837ec7fc99f2da3c66acb987df4b08e9bd6eed63d5e9730d6e007874472ea6e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135859327,
+      "datetime": 1752076500
+    },
+    {
+      "title": "Sherwin-Williams to Announce Second Quarter 2025 Financial Results on July 22, 2025",
+      "description": "CLEVELAND,-- The Sherwin-Williams Company will issue a press release announcing its financial results for the second quarter ended June 30, 2025, prior to market open on Tuesday, July 22, 2025. At...",
+      "published_utc": "2025-07-09T19:29:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cf3fd333ea02d642e74e3716788d94705ef3c7b377d80069109b311953315f1f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135834719,
+      "datetime": 1752060551
+    },
+    {
+      "title": "Citi Downgrades Sherwin-Williams (SHW) on Housing Market Concerns",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) is one of the top 10 materials stocks to buy according to analysts. On June 13, Citi lowered its rating on Sherwin-Williams stock from Buy to Neutral, citing concerns about the housing market’s future prospects. The firm also reduced its price target from $405.00 to $385.00. Citi analysts pointed to “sustained […]",
+      "published_utc": "2025-07-09T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19435fbce863b1af7cfe54d7ac7c4b6befe5e3d19fcba03f1f5a1291546c0d6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135830068,
+      "datetime": 1752036420
+    },
+    {
+      "id": "edc29db6addc5967a5f2ba3fe8b710cd27b695bf07485087d15160c22503735f",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "3 Champion Dividend Stocks Raising Dividends for Over 25 Years",
+      "author": "Bob Ciura",
+      "published_utc": "2025-07-09T06:50:00Z",
+      "article_url": "https://www.investing.com/analysis/3-champion-dividend-stocks-raising-dividends-for-over-25-years-200663379",
+      "tickers": [
+        "EMR",
+        "SHW",
+        "SON"
+      ],
+      "amp_url": "https://m.investing.com/analysis/3-champion-dividend-stocks-raising-dividends-for-over-25-years-200663379?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article highlights three dividend champion stocks - Emerson Electric, Sherwin-Williams, and Sonoco Products - that have consistently raised dividends for over 25 years, demonstrating financial resilience and strong performance.",
+      "keywords": [
+        "dividend stocks",
+        "dividend champions",
+        "income investing",
+        "dividend growth"
+      ],
+      "insights": [
+        {
+          "ticker": "EMR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong Q2 earnings, revenue growth, strategic acquisitions, global customer base, and a safe dividend with low payout ratio"
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent earnings growth, margin expansion, positive 2025 guidance, and potential for 7% annualized earnings growth"
+        },
+        {
+          "ticker": "SON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "49-year dividend growth streak, revenue growth from acquisitions, reasonable dividend payout ratio, and improved quarterly performance"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:51.823705+00:00",
+    "cache_key": "news_0d23e6cd763c4e943a7bc1fab06fc623",
+    "count": 4
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Is Apple Inc. (NASDAQ:AAPL) the Hottest Large-Cap Stock Right Now?",
+      "description": "We recently compiled a list of the 10 Hottest Large-Cap Stocks Right Now. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other large-cap stocks. This article will analyze several prominent large-cap stocks that are currently exerting significant influence on market dynamics. These stocks are currently considered […]",
+      "published_utc": "2025-01-05T22:21:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd7b1b9d67dfafa129ad4a80e33e4d5c7a9bc533759b71c5565b8572086adeba",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132279761,
+      "datetime": 1736086873
+    },
+    {
+      "title": "Apple Insiders Sell US$104m Of Stock, Possibly Signalling Caution",
+      "description": "Many Apple Inc. ( NASDAQ:AAPL ) insiders ditched their stock over the past year, which may be of interest to the...",
+      "published_utc": "2025-01-05T21:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3c863a9e55e98b2c0fa66755f9e2a8d74e79c82dd180b43c61ffbca285dbd84",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/13f69b02f49f819df1dcc276114d4a99",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132279763,
+      "datetime": 1736082017
+    },
+    {
+      "title": "Why A Major Market Reversal Is Likely Coming In 2025",
+      "description": "Discover why a major market reversal may be on the horizon in 2025 and how one financial writer is adjusting their investments accordingly.",
+      "published_utc": "2025-01-05T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c30b7fbb9743d0743277cf7f1c95fac98b0eaf6f4f86e6638fbf0dbf95b3dc40",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/916713888/image_916713888.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278513,
+      "datetime": 1736074800
+    },
+    {
+      "title": "Is Apple a Buy, Sell, or Hold in 2025?",
+      "description": "Apple (NASDAQ: AAPL) is one the world's largest publicly traded companies, with a market cap of $3.7 trillion and it continues to attract investor attention as it slowly steps into new areas of innovation, like artificial intelligence (AI).  Is there a case for buying Apple?  Apple offers investors an opportunity to ride some of the biggest tech waves, such as (like AI) without as much of the risk of the types of big share price swings some smaller stocks experience.",
+      "published_utc": "2025-01-05T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b89f6e3dd362b6b71ff5878badf208177b61313c4fe763899dcf10fd9721efb9",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802758/gettyimages-1096811086-1200x679-88e5cda.jpg",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132277240,
+      "datetime": 1736069400
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Workday Stock: “I’m Worried”",
+      "description": "Workday, Inc. (NASDAQ:WDAY) is one of the 11 stocks Jim Cramer put under the microscope recently. During the lightning round, a caller inquired about the company, and Cramer replied: “I’m worried. There’s a lot of companies coming for Workday, and I don’t like that. I think that what happens is we begin to see what’s […]",
+      "published_utc": "2025-06-29T00:20:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3df8bf7fc7e84fc8bb81178a7d405576b5d5a209a06e5ce40aa7f69487f25bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623487,
+      "datetime": 1751127613
+    }
+  ]
+}

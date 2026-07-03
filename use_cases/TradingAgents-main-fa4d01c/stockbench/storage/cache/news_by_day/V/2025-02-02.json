@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Mastercard: A Great Year Under The Regulator's Scrutiny",
+      "description": "Mastercard's robust growth is fueled by strong fundamentals. Find out why MA stock is a hold with a fair value around $500 amid market optimism.",
+      "published_utc": "2025-02-02T15:04:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f041597c65075da6e3fa4814029aeaf44384b26240adeaf7f4c9250132c9e448",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1791232366/image_1791232366.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132514529,
+      "datetime": 1738479842
+    }
+  ]
+}

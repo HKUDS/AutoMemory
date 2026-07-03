@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Rise Monday Afternoon",
+      "description": "Health care stocks were higher Monday afternoon, with the NYSE Health Care Index rising 0.4% and the",
+      "published_utc": "2025-04-15T02:08:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f2a1731967f9be71c3d8da809f7f4fbce655acc80558f7f511bf725bbbd245f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917817,
+      "datetime": 1744654081
+    },
+    {
+      "title": "Dow's 500-point rally highlighted by gains in shares of Apple, Amgen",
+      "description": "Dow's 500-point rally highlighted by gains in shares of Apple, Amgen",
+      "published_utc": "2025-04-14T23:24:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=35252498fb89524b2fa5e9031aad0ad355981e09c7b36d73032de3f1e00f4416",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133911631,
+      "datetime": 1744644240
+    },
+    {
+      "title": "This Cholesterol Gene Medicine Could Work in 1 Shot. It Could Also Bring This Biotech Stock Back to Life.",
+      "description": "This Cholesterol Gene Medicine Could Work in 1 Shot. It Could Also Bring This Biotech Stock Back to Life.",
+      "published_utc": "2025-04-14T21:27:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c66e6b6197c3cc7bb18fbdd1bef486175ff7348ee62876c94aad8298722bd614",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134146423,
+      "datetime": 1744637220
+    },
+    {
+      "title": "Sandoz challenges Amgen’s Enbrel patents in US antitrust lawsuit",
+      "description": "Sandoz is suing Amgen over alleged patent abuse delaying the US launch of a biosimilar to the autoimmune drug Enbrel.",
+      "published_utc": "2025-04-14T18:59:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5bb9afc9dc53645bc72324b99635d54d05fa546d53f2032097f156f6de5306a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908340,
+      "datetime": 1744628367
+    },
+    {
+      "title": "Amgen’s Phase III trial of Imdelltra meets primary endpoint for SCLC",
+      "description": "The randomised, controlled study aims to assess the therapy’s safety and efficacy.",
+      "published_utc": "2025-04-14T17:27:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=703022b0d2845fea62424b059428045665e0b4835b06df4881e360b5cdd9868f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908341,
+      "datetime": 1744622836
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:45.600471+00:00",
+    "cache_key": "news_43b0943f41e395e09e874305d97ad773",
+    "count": 5
+  }
+}

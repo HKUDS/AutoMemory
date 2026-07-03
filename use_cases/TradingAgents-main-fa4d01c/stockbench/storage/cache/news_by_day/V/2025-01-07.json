@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Visa (V) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "In the latest trading session, Visa (V) closed at $313.04, marking a -0.59% move from the previous day.",
+      "published_utc": "2025-01-07T06:45:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6aa99dbae2806971252138ad95400f0e30333e95932b060aaf073af7347c98da",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/ac90b3d74679f6d01a122aa033d8a9a4",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132293997,
+      "datetime": 1736203522
+    },
+    {
+      "title": "My Top 10 Dividend-Paying Buy-And-Hold Stocks For 2025",
+      "description": "Top 10 dividend-paying buy-and-hold stocks for your portfolio, offering both stability and growth potential over the next decade. Click here to find out more.",
+      "published_utc": "2025-01-07T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=194e8b0b17f43cd50d323b1dd1fe870f097d08c546eb01ad6383bb187ffb6fd9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157681450/image_157681450.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292286,
+      "datetime": 1736186400
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Monday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-01-07T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b9bef70823b923552f3b8ce41edc0436a8daa65d7adab645dd8b377c93576cd1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321598,
+      "datetime": 1736181180
+    }
+  ]
+}

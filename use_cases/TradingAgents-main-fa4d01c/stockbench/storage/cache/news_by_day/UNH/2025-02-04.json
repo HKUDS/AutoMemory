@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "title": "Healthcare Stocks Have Gotten a Boost. Now Comes the Hard Part.",
+      "description": "Healthcare Stocks Have Gotten a Boost. Now Comes the Hard Part.",
+      "published_utc": "2025-02-04T22:11:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fab37d0bd1113cb5eebf48e1b563167697f904fcf439e1bab0eb4a29107cb7ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564453,
+      "datetime": 1738678260
+    },
+    {
+      "id": "cc7d1d0bb01187c99ec2ce3fd64fa709d6ca46b53e8cc5cb229cdcff466db219",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Top Dividend Stocks to Buy If You Have $1,000 to Invest",
+      "author": "Rachel Warren",
+      "published_utc": "2025-02-04T09:40:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/04/2-top-dividend-stocks-to-buy-if-you-have-1000-to-i/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH",
+        "COST"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805801/getty-bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "The article discusses two dividend stocks, UnitedHealth Group and Costco Wholesale, that have the potential to deliver strong performance in the long term. UnitedHealth Group is a healthcare company with consistent dividend growth, while Costco Wholesale has a low dividend yield but a history of share price appreciation and special dividends.",
+      "keywords": [
+        "dividend stocks",
+        "UnitedHealth Group",
+        "Costco Wholesale",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights UnitedHealth Group's consistent dividend growth, strong financial performance, and diversified business model, making it a potentially attractive long-term investment."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Costco Wholesale's business model, consistent dividend increases, and strong share price performance, suggesting it could be a good long-term dividend stock investment."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "_meta": {
+    "usage": "explanation fields",
+    "field_descriptions": {
+      "step_status": "ready | critic_finished | improver_finished | completed",
+      "runner_path": "Single reusable runner used across phases. Do not fork per-phase runners.",
+      "memory_paths": "Path composition decided by Phase 0 Critic. Maps path name to {components, eval_mode, policy}. Immutable after Phase 0.",
+      "graduated_paths": "Paths that survived two escalations at >=0.9 in one phase. Append-only. Excluded from further escalation.",
+      "trace_registry": "Append-only registry of all traces in the suite.",
+      "trace_registry[].memory_path": "Primary memory path tested by this trace, from memory_paths or 'e2e'.",
+      "trace_registry[].focus": "Short description of the main thing this trace is testing.",
+      "phase_history[].improvement": "Short and Concise Summary of Improver's work, this field appears after phase 0.",
+      "phase_history[].scores": "Per-trace scores recorded for the traces rerun in this phase. Fields: trace_id, support_coverage, query_success (for qa), hit_rate (for hit_rate).",
+      "phase_history[].weakness": "Short and Concise Critic findings for this phase."
+    }
+  },
+  "refine_state": {
+    "current_phase": 6,
+    "max_phases": 7,
+    "step_status": "improver_finished",
+    "runner_path": "worktraces/run_traces.py",
+    "memory_paths": {
+      "decisions_log": {
+        "components": [
+          "DecisionsLog"
+        ],
+        "eval_mode": "qa",
+        "policy": "off-policy"
+      },
+      "knowledge_reflection": {
+        "components": [
+          "KnowledgeCard",
+          "BM25Reflections"
+        ],
+        "eval_mode": "qa",
+        "policy": "off-policy"
+      },
+      "macro": {
+        "components": [
+          "MacroNotes"
+        ],
+        "eval_mode": "qa",
+        "policy": "off-policy"
+      },
+      "analyst_cache": {
+        "components": [
+          "AnalystCache"
+        ],
+        "eval_mode": "hit_rate",
+        "policy": "off-policy"
+      }
+    },
+    "graduated_paths": [
+      "knowledge_reflection",
+      "analyst_cache",
+      "decisions_log",
+      "macro_notes"
+    ],
+    "stop_decision": {
+      "by": "critic",
+      "decision": "stop"
+    },
+    "trace_registry": [
+      {
+        "trace_id": "trace_id_1_decisions_log_dedup",
+        "memory_path": "decisions_log",
+        "focus": "Same-date overwrite dedup, ticker isolation, read_last_n ordering",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_2_decisions_log_window",
+        "memory_path": "decisions_log",
+        "focus": "read_last_n windowing, multi-ticker isolation, no-write miss",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_3_knowledge_card_update",
+        "memory_path": "knowledge_reflection",
+        "focus": "KnowledgeCard cold-start, LLM merge, multi-session update, ticker isolation",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_4_bm25_recall",
+        "memory_path": "knowledge_reflection",
+        "focus": "BM25 recall context-shift, ambiguous query, cross-bucket consistency, empty bucket miss",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_5_macro_write_read",
+        "memory_path": "macro",
+        "focus": "MacroRefresher LLM write with mock news, read_recent content and week presence",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_6_macro_idempotent",
+        "memory_path": "macro",
+        "focus": "MacroNotes direct write_section idempotency, same-week overwrite, rolling cap",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_7_analyst_cache_hit_rate",
+        "memory_path": "analyst_cache",
+        "focus": "Write-then-read hits, miss on wrong key, miss before write, overwrite correctness",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_8_e2e_multi_path",
+        "memory_path": "e2e",
+        "focus": "Multi-path: DecisionsLog + KnowledgeCard + MacroNotes + UserContext seeded",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_9_kc_single_last_updated",
+        "memory_path": "knowledge_reflection",
+        "focus": "KnowledgeCard: exactly one Last-updated line after 4 consecutive merges; old timestamps absent; correct latest date preserved",
+        "created_in_phase": 2
+      },
+      {
+        "trace_id": "trace_id_10_decisions_log_ooo_write",
+        "memory_path": "decisions_log",
+        "focus": "DecisionsLog: out-of-chronological-order writes expose read_last_n returning by insertion order not trade_date",
+        "created_in_phase": 2
+      },
+      {
+        "trace_id": "trace_id_11_kc_pm_ratings_cap",
+        "memory_path": "knowledge_reflection",
+        "focus": "KnowledgeCard: LLM enforces <=5 PM Ratings entries after 7 merges; oldest ratings and old Technical Posture bullets dropped",
+        "created_in_phase": 2
+      },
+      {
+        "trace_id": "trace_id_12_macro_read_zero_weeks",
+        "memory_path": "macro",
+        "focus": "MacroNotes.read_recent(n_weeks=0) Python -0 gotcha: sections[-0:] returns all sections instead of empty string",
+        "created_in_phase": 3
+      },
+      {
+        "trace_id": "trace_id_13_decisions_log_n0",
+        "memory_path": "decisions_log",
+        "focus": "DecisionsLog.read_last_n(ticker, n=0) Python -0 gotcha: records[-0:] returns all records instead of empty list",
+        "created_in_phase": 3
+      },
+      {
+        "trace_id": "trace_id_14_decisions_log_combined_stress",
+        "memory_path": "decisions_log",
+        "focus": "DecisionsLog: combined OOO writes + duplicates + cross-ticker isolation stress; verifies dedup, date-ordering, and windowing under complex interleaved writes",
+        "created_in_phase": 4
+      },
+      {
+        "trace_id": "trace_id_15_macro_ooo_section_ordering",
+        "memory_path": "macro",
+        "focus": "MacroNotes: OOO write_section calls expose that read_recent returns by insertion order not ISO week date; backfill writes cause wrong weeks to be returned",
+        "created_in_phase": 4
+      },
+      {
+        "trace_id": "trace_id_16_decisions_log_n_exceeds_total",
+        "memory_path": "decisions_log",
+        "focus": "DecisionsLog: read_last_n(n) when n exceeds total record count returns all records in ascending date order; also tests n=total and n<total windowing",
+        "created_in_phase": 5
+      },
+      {
+        "trace_id": "trace_id_17_decisions_log_ooo_interleaved_multi_ticker",
+        "memory_path": "decisions_log",
+        "focus": "DecisionsLog: interleaved OOO writes for two tickers; each ticker's read_last_n returns by date not insertion order with no cross-ticker contamination",
+        "created_in_phase": 5
+      }
+    ],
+    "phase_history": [
+      {
+        "phase": 0,
+        "new_traces": [
+          "trace_id_1_decisions_log_dedup",
+          "trace_id_2_decisions_log_window",
+          "trace_id_3_knowledge_card_update",
+          "trace_id_4_bm25_recall",
+          "trace_id_5_macro_write_read",
+          "trace_id_6_macro_idempotent",
+          "trace_id_7_analyst_cache_hit_rate",
+          "trace_id_8_e2e_multi_path"
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_1_decisions_log_dedup",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_2_decisions_log_window",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_3_knowledge_card_update",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_4_bm25_recall",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_5_macro_write_read",
+            "support_coverage": 0.9762,
+            "query_success": 0.8571
+          },
+          {
+            "trace_id": "trace_id_6_macro_idempotent",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_7_analyst_cache_hit_rate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_8_e2e_multi_path",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "weakness": [
+          {
+            "type": "macro/MacroRefresher: silent write failure on LLM bullet format mismatch",
+            "severity": "high",
+            "description": "MacroRefresher.refresh_if_stale() silently drops a weekly macro section when the LLM response does not contain '- ' prefixed bullet lines (e.g. LLM uses numbered list or prose). bullets list is empty → early return without write, without error log, and without calling mark_macro_refresh_done(). Result: gap weeks are silently skipped. Confirmed: W02 (2026-01-06) absent from macro_notes.md in trace_id_5_macro_write_read despite 5 MacroRefresher calls; only W03-W06 stored. Failing query: macro_recent_5weeks_shows_all_written_weeks (sc=0.8333, qs=0.0)."
+          },
+          {
+            "type": "knowledge_reflection/BM25Reflections: recall precision failure — vocabulary mismatch between SelfReflector SITUATION text and recall queries",
+            "severity": "medium",
+            "description": "SelfReflector writes SITUATION texts describing the debate-level issue (e.g. 'PM dismissed risk raised by Bear') without necessarily including the domain-specific keywords of the original market context (e.g. 'commercial real estate', 'write-down', 'bank'). BM25 lexical matching therefore fails for domain-shifted recall queries. Confirmed: trace_id_4_bm25_recall bear_memory query for 'bank with commercial real estate loan exposure and rising write-down risk' returned BIOTECH cash-runway situation instead of the BANKCO situation. The mismatch is structural: BM25 scores by token overlap and the BANKCO SITUATION text apparently lacked 'bank'/'CRE'/'write-down' tokens."
+          },
+          {
+            "type": "knowledge_reflection/KnowledgeCardWriter: LLM ignores no-preamble constraint, produces malformed section headers",
+            "severity": "low",
+            "description": "KnowledgeCardWriter system prompt says 'Output ONLY the updated markdown card. No code fences, no preamble, no explanation.' The LLM adds a preamble header ('### Updated Card for TICKER...' or '### Market Overview for TICKER...') and wraps section headers as '#### ## Identity' instead of '## Identity'. Observed in trace_id_3_knowledge_card_update for both TESTK and TESTK2 cards. Tests passed because substring '## Identity' is contained within '#### ## Identity', masking the format violation. The preamble text pollutes on-disk cards and section header inconsistency could break any future section-aware parsing."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 1,
+        "new_traces": [],
+        "improvement": [
+          "W1 MacroRefresher silent write failure: Replaced bare '- ' bullet-line filter with _extract_macro_bullets() that also handles '* ', '• ', and numbered-list (1. / 1)) formats; falls back to treating any non-empty line as a bullet so no week is silently dropped. Added RuntimeWarning when extraction still yields nothing.",
+          "W2 BM25 SITUATION vocabulary mismatch: Strengthened _SELF_REFLECT_SYSTEM prompt to require SITUATION to ground domain context first (company type, sector, specific metric/risk) before stating the debate-level issue, so stored text includes domain keywords that recall queries can match via BM25.",
+          "W3 KnowledgeCardWriter format violations: (a) Strengthened _KC_MERGE_SYSTEM with STRICT format rules requiring the first line to be '## Identity' and each section header to be exactly the H2 form. (b) Added _clean_knowledge_card() post-processor that strips preamble lines before the first recognised ## section and normalises nested headers like '#### ## Identity' → '## Identity'. All 28 functional tests pass."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_1_decisions_log_dedup",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_2_decisions_log_window",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_3_knowledge_card_update",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_4_bm25_recall",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_5_macro_write_read",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_6_macro_idempotent",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_7_analyst_cache_hit_rate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_8_e2e_multi_path",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "weakness": [
+          {
+            "type": "knowledge_reflection/KnowledgeCardWriter: duplicate 'Last updated:' line on every merge",
+            "severity": "low",
+            "description": "KnowledgeCardWriter.merge() appends '\\n\\nLast updated: {trade_date}' unconditionally after the LLM output. However, the LLM typically copies the 'Last updated:' line from the existing card into its regenerated output (since _KC_MERGE_SYSTEM does not forbid it and the card is shown verbatim as context). _clean_knowledge_card() only strips pre-section preamble lines and does not strip any trailing 'Last updated:' the LLM emits. Result: every card merge produces two consecutive 'Last updated:' lines at the end of the file. Confirmed in both TESTK.md and TESTK2.md from fresh trace_id_3_knowledge_card_update run. Current test assertions are all substring-based and do not check for absence of duplicates, so the defect is invisible to scoring. Accumulation is bounded (overwrite per merge, so max two lines per session), but the on-disk format is malformed relative to the intended single-line convention."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 2,
+        "new_traces": [
+          "trace_id_9_kc_single_last_updated",
+          "trace_id_10_decisions_log_ooo_write",
+          "trace_id_11_kc_pm_ratings_cap"
+        ],
+        "improvement": [
+          "W (duplicate Last updated line): _clean_knowledge_card() now strips any 'Last updated: ...' lines the LLM copies verbatim from the existing card before the caller appends its own authoritative timestamp. Added _LAST_UPDATED_RE regex filter at the end of the cleaning pipeline. Also added .rstrip() to avoid trailing blank lines before the appended timestamp. All 28 functional tests pass."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_1_decisions_log_dedup",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_2_decisions_log_window",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_3_knowledge_card_update",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_4_bm25_recall",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_5_macro_write_read",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_6_macro_idempotent",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_7_analyst_cache_hit_rate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_8_e2e_multi_path",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_9_kc_single_last_updated",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_10_decisions_log_ooo_write",
+            "support_coverage": 0.5667,
+            "query_success": 0.5
+          },
+          {
+            "trace_id": "trace_id_11_kc_pm_ratings_cap",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "weakness": [
+          {
+            "type": "decisions_log/DecisionsLog: read_last_n returns by JSONL insertion order not trade_date",
+            "severity": "medium",
+            "description": "DecisionsLog.read_last_n(ticker, n) returns the last N lines of the JSONL file by insertion order, not sorted by trade_date. When propagate() is called with out-of-chronological-order dates (e.g., backtesting, error-recovery replay, or manual backdated entries), the 'last N decisions' window silently excludes records with more recent trade_dates that were written earlier, and includes records with older trade_dates that were written later. Confirmed in trace_id_10_decisions_log_ooo_write: writing dates Jan15, Jan10, Jan13, Jan17, Jan08 in that order causes read_last_n(n=1) to return Jan08/Hold instead of Jan17/Buy (the most recent by date); read_last_n(n=3) returns [Jan13, Jan17, Jan08] instead of [Jan13, Jan15, Jan17]. sc=0.5667, qs=0.5. Fix: sort records by trade_date before taking the last N, or sort in read_last_n before slicing."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 3,
+        "new_traces": [
+          "trace_id_12_macro_read_zero_weeks",
+          "trace_id_13_decisions_log_n0"
+        ],
+        "improvement": [
+          "W decisions_log/DecisionsLog read_last_n ordering: Changed read_last_n() to parse ALL lines in the JSONL file, sort by trade_date ascending, then slice the last N. Previously it sliced the last N lines by file position (insertion order), silently returning stale-by-date records when writes occurred out of chronological order. The new implementation guarantees the N most recent records by date regardless of write order. All 28 functional tests pass."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_1_decisions_log_dedup",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_2_decisions_log_window",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_3_knowledge_card_update",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_4_bm25_recall",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_5_macro_write_read",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_6_macro_idempotent",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_7_analyst_cache_hit_rate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_8_e2e_multi_path",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_9_kc_single_last_updated",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_10_decisions_log_ooo_write",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_11_kc_pm_ratings_cap",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_12_macro_read_zero_weeks",
+            "support_coverage": 0.6,
+            "query_success": 0.6
+          },
+          {
+            "trace_id": "trace_id_13_decisions_log_n0",
+            "support_coverage": 0.6,
+            "query_success": 0.6
+          }
+        ],
+        "weakness": [
+          {
+            "type": "decisions_log/DecisionsLog: read_last_n(n=0) Python -0 gotcha returns all records instead of empty list",
+            "severity": "medium",
+            "description": "DecisionsLog.read_last_n(ticker, n) uses records[-n:] to slice the last N records. When n=0, Python evaluates -0 as 0, so records[-0:] == records[0:] returns the entire record list instead of an empty list. Any caller passing n=0 (e.g. a future PM agent configured with window=0 to suppress prior decisions) silently receives ALL decisions instead of none. Confirmed: trace_id_13_decisions_log_n0 query 'read_last_n0_must_return_empty_list' returns 3 records instead of []. sc=0.6, qs=0.6. Fix: guard with 'if n <= 0: return []' before the slice."
+          },
+          {
+            "type": "macro/MacroNotes: read_recent(n_weeks=0) Python -0 gotcha returns all sections instead of empty string",
+            "severity": "medium",
+            "description": "MacroNotes.read_recent(n_weeks) uses sections[-n_weeks:] to slice the last N weekly sections. When n_weeks=0, Python evaluates -0 as 0, so sections[-0:] == sections[0:] returns all sections instead of empty string. Confirmed: trace_id_12_macro_read_zero_weeks query 'read_recent_n0_must_return_empty' returns all 3 sections (non-empty, non-null output) when 0 weeks were requested. sc=0.6, qs=0.6. Fix: guard with 'if n_weeks <= 0: return \"\"' before the slice."
+          },
+          {
+            "type": "decisions_log/DecisionsLog: ring-buffer cap uses insertion-order eviction inconsistent with date-order read",
+            "severity": "high",
+            "description": "DecisionsLog.append() enforces the 500-record ring buffer by dropping the oldest-by-insertion-order records (kept = kept[-500:]). DecisionsLog.read_last_n() now returns by date order after the Phase 3 fix. These two policies are inconsistent: if a record with a date-recent value is written first (before many date-older records), and the log subsequently exceeds 500 entries, the cap will drop that date-recent record (because it is oldest by insertion order), silently losing it from future read_last_n results. Scenario confirmed analytically: write record with date=2026-12-31 first, then write 499 records with dates 2026-01-01 through ~2026-06-04, then write one more — cap evicts 2026-12-31 (the most recent date). read_last_n(1) then returns max remaining date (~2026-06-04) instead of 2026-12-31. This is untestable at trace-level (requires 501 turns) but is a real code-level inconsistency. Fix: in append(), sort records by trade_date before enforcing the cap, so date-oldest records are evicted first."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 4,
+        "new_traces": [
+          "trace_id_14_decisions_log_combined_stress",
+          "trace_id_15_macro_ooo_section_ordering"
+        ],
+        "improvement": [
+          "W1 read_last_n(n=0) Python -0 gotcha: Added 'if n <= 0: return []' guard at the top of DecisionsLog.read_last_n() so n=0 correctly returns an empty list instead of all records.",
+          "W2 read_recent(n_weeks=0) Python -0 gotcha: Added 'if n_weeks <= 0: return \"\"' guard at the top of MacroNotes.read_recent() so n_weeks=0 correctly returns empty string instead of all sections.",
+          "W3 ring-buffer cap eviction inconsistency: Changed DecisionsLog.append() cap enforcement to parse all kept lines, sort by trade_date ascending, then keep the last _DECISIONS_CAP entries. This aligns eviction policy with date-order read_last_n: the oldest-by-date records are evicted first, not oldest-by-insertion-order. All 28 functional tests pass."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_1_decisions_log_dedup",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_2_decisions_log_window",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_3_knowledge_card_update",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_4_bm25_recall",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_5_macro_write_read",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_6_macro_idempotent",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_7_analyst_cache_hit_rate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_8_e2e_multi_path",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_9_kc_single_last_updated",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_10_decisions_log_ooo_write",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_11_kc_pm_ratings_cap",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_12_macro_read_zero_weeks",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_13_decisions_log_n0",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_14_decisions_log_combined_stress",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_15_macro_ooo_section_ordering",
+            "support_coverage": 0.6333,
+            "query_success": 0.3333
+          }
+        ],
+        "weakness": [
+          {
+            "type": "macro/MacroNotes: write_section does not sort sections by ISO week; OOO writes cause read_recent to return wrong weeks by insertion order",
+            "severity": "medium",
+            "description": "MacroNotes.write_section() appends a new section to the end of the section list if its iso_week header does not match any existing header. There is no sorting by ISO week before writing. If write_section is called out of chronological order (e.g., W01, W03, W05, then backfill W02, then W04), the on-disk section order becomes [W01, W03, W05, W02, W04]. MacroNotes.read_recent(n_weeks) uses sections[-n_weeks:], which slices by insertion position not by ISO week date. As a result: read_recent(1) returns W04 (last inserted) instead of W05 (most recent by ISO week); read_recent(2) returns [W02, W04] instead of [W04, W05]. This means the Portfolio Manager receives stale/wrong macro context when backfill writes occur. Confirmed: trace_id_15_macro_ooo_section_ordering sc=0.6333, qs=0.3333. Queries read_recent_n1_must_return_w05_most_recent (sc=0.6, qs=0.0), read_recent_n2_must_show_w04_and_w05_only (sc=0.6, qs=0.0), read_recent_n3_must_show_w03_w04_w05_only (sc=0.6, qs=0.0), read_recent_n1_content_must_be_w05_trade_deal (sc=0.0, qs=0.0) all fail. Fix: sort new_sections by iso_week string before writing in write_section(), OR sort sections by header in read_recent() before slicing."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 5,
+        "new_traces": [
+          "trace_id_16_decisions_log_n_exceeds_total",
+          "trace_id_17_decisions_log_ooo_interleaved_multi_ticker"
+        ],
+        "improvement": [
+          "W macro/MacroNotes OOO section ordering: (1) MacroNotes.write_section() now sorts new_sections by ISO week string (lexicographic = chronological for YYYY-Www) before enforcing the cap and writing to disk. Backfill writes no longer produce out-of-order sections on disk. (2) MacroNotes.read_recent() now also sorts sections by ISO week before slicing, ensuring correct week ordering even on legacy unsorted files on disk. All 28 functional tests pass."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_1_decisions_log_dedup",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_2_decisions_log_window",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_3_knowledge_card_update",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_4_bm25_recall",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_5_macro_write_read",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_6_macro_idempotent",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_7_analyst_cache_hit_rate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_8_e2e_multi_path",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_9_kc_single_last_updated",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_10_decisions_log_ooo_write",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_11_kc_pm_ratings_cap",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_12_macro_read_zero_weeks",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_13_decisions_log_n0",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_14_decisions_log_combined_stress",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_15_macro_ooo_section_ordering",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_16_decisions_log_n_exceeds_total",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_17_decisions_log_ooo_interleaved_multi_ticker",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "weakness": [],
+        "decision": "stop"
+      }
+    ]
+  }
+}

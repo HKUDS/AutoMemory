@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "McDONALD'S ANNOUNCES QUARTERLY CASH DIVIDEND",
+      "description": "Today, McDonald's Board of Directors declared a quarterly cash dividend of $1.77 per share of common stock payable on June 16, 2025 to shareholders of record at the close of business on June 2, 2025.",
+      "published_utc": "2025-05-21T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23cc1abc11c433c148102417c18d7878e98d254a2cd22b7695091ed6ae8aa556",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628333,
+      "datetime": 1747780200
+    },
+    {
+      "title": "Investors sue Krispie Kreme after McDonald’s donut deal falls to the McWaySide",
+      "description": "The suit alleges that the donut maker made ‘materially false’ and misleading statements about the partnership, and failed to notify investors that the venture was not profitable",
+      "published_utc": "2025-05-21T06:01:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27ce213d01b26f2931bf7fe0fe1966ae786fa949690323666160e90d4de10715",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628334,
+      "datetime": 1747778519
+    }
+  ]
+}

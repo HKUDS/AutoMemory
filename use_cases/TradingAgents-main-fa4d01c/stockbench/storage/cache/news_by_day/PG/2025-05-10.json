@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "title": "The Procter & Gamble Company (PG): One of the Best Income Stocks to Invest in Now",
+      "description": "We recently published a list of the Best Income Stocks to Invest in Now. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other best income stocks. Amid concerns over trade restrictions and a weakening economy, some investors are seeking stability in dividend-paying stocks—a […]",
+      "published_utc": "2025-05-10T16:15:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc98c1dc09725318f73feeb8ba50d4be9b7385eb1532f52330ec503dee2cb852",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379274,
+      "datetime": 1746864931
+    },
+    {
+      "id": "85d1cf03acb48786af78405188d05fb06f8961511fca0d40c2cd8435b683e6b9",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Hotel Toiletries Market Size to worth USD 52.01 Bn by 2032, expanding at 10.4% CAGR, says Coherent Market Insights",
+      "author": "Coherent Market Insights",
+      "published_utc": "2025-05-10T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/10/3078665/0/en/Hotel-Toiletries-Market-Size-to-worth-USD-52-01-Bn-by-2032-expanding-at-10-4-CAGR-says-Coherent-Market-Insights.html",
+      "tickers": [
+        "UL",
+        "PG",
+        "HLT",
+        "KMB"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/450ec960-647a-4b12-8885-a4afd6739e88",
+      "description": "The global hotel toiletries market is projected to grow from $26 billion in 2025 to $52.01 billion by 2032, driven by the booming travel and tourism industry. However, high costs of premium products and sustainability concerns may limit growth.",
+      "keywords": [
+        "hotel toiletries",
+        "tourism",
+        "sustainability",
+        "premium products"
+      ],
+      "insights": [
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As a major player in the hotel toiletries market, Unilever is likely to benefit from the industry's growth."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As a leading manufacturer of personal care products, Procter & Gamble is well-positioned to capitalize on the increasing demand for hotel toiletries."
+        },
+        {
+          "ticker": "HLT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As a leading hotel operator, Hilton Worldwide is likely to increase its investment in premium hotel toiletries to meet customer expectations."
+        },
+        {
+          "ticker": "KMB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As a manufacturer of hotel toiletries, Kimberly-Clark is well-positioned to benefit from the industry's growth, particularly with its new smart dispensing technology."
+        }
+      ]
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 11",
+      "description": "See here for weekly updates on Dividend Champions, Contenders & Challengers. Find dividend changes, ex-dividend dates & payment schedules.",
+      "published_utc": "2025-05-10T08:51:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46f8a9e80aba7a68cf6be54f22b4b6d9a16dc7bd155bd6acc0229c183c1ca887",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134361860,
+      "datetime": 1746838302
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Tariffs Stoke Fears That Hung Debt Will Return",
+      "description": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they’ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s Tariffs Are Already Hurting New York Eco",
+      "published_utc": "2025-04-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcdf8afa08c74dfb7bc324925a7e4269a01e0ba35515a963fc3095e192cb5781",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727253,
+      "datetime": 1743879600
+    },
+    {
+      "title": "Wall Street Gets Rude Shock as Bessent Plays Second Fiddle on Tariffs",
+      "description": "(Bloomberg) -- From the moment President Donald Trump unveiled his sweeping tariffs Wednesday through the ensuing market mayhem the following day, Treasury Secretary Scott Bessent’s phone lit up with text messages from executives tied to his former industry.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look L",
+      "published_utc": "2025-04-06T02:51:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19d2451c113c286241f388d38c7005a1e934414a58cedf10838ab78301e067e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727254,
+      "datetime": 1743879112
+    },
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Drops 13% Following Trade Tension Impact",
+      "description": "JPMorgan Chase (NYSE:JPM) recently experienced a 13% price decline amid a turbulent week for global markets. While initiatives such as launching the Money Smart Financial Coaching Program and appointing Carl Torrillo as Managing Director underline its strategic focus on expansion and leadership, the broader market's response to escalating trade tensions played a pivotal role in this downturn. With major indices like the S&P 500 and Nasdaq dropping significantly due to tariff concerns, JPM's...",
+      "published_utc": "2025-04-06T02:10:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=355a26cf3640b99d833a54aa41215e1e7857caca54b1e234f2bd7e7ffa8ee0e7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727255,
+      "datetime": 1743876632
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "U.S.-China Talks End: Bessent Touts 'Substantial Progress'; White House Signals Deal",
+      "description": "Treasury Secretary Scott Bessent cited \"substantial progress\" after weekend China trade talks, with more details Monday.",
+      "published_utc": "2025-05-12T07:20:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=912791634a149a0762acf57394a3798cfa95a6d782f4e6d545d513fbd22b453b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379260,
+      "datetime": 1747005616
+    },
+    {
+      "title": "Trump defends prospect of Qatar gifting him luxury jumbo jet to use as Air Force One",
+      "description": "Trump defends prospect of Qatar gifting him luxury jumbo jet to use as Air Force One",
+      "published_utc": "2025-05-12T06:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fe30a8c93e5a537f7a9a69e0ba08ef22cbb49a7f4814dd8382edfd870ad99339",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134385110,
+      "datetime": 1747002000
+    },
+    {
+      "title": "S&P 500 To 5900 And Ending With A FOMO Rally. What's Next?",
+      "description": "S&P 500 may hit 5900 amid a FOMO rally fueled by strong earnings, stable inflation and pro trades. Learn more about market outlook here.",
+      "published_utc": "2025-05-12T05:39:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9629ec51b36d92c00c3be0d35e436e3a1ef6c90863352dd848b9b721590bffdd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2157912969/image_2157912969.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134373903,
+      "datetime": 1746999583
+    },
+    {
+      "title": "Trump plans to accept luxury 747 from Qatar to use as Air Force One",
+      "description": "U.S. President Donald Trump'sadministration intends to accept a Boeing 747-8 plane asa gift from the Qatari royal family that would be outfitted toserve as Air Force One, according to a source...",
+      "published_utc": "2025-05-12T05:02:29",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=42bbb0b2b87076640d97b2bd8607a8b7ec13d7ab04d077ad61a0568a1ffe6c6e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134373675,
+      "datetime": 1746997349
+    },
+    {
+      "title": "Stephen Miller Says 'History Will Record' Trump's Tariffs As The Start Of Saving The West From China's Economic Domination'",
+      "description": "A new round of tariff hikes from President Donald Trump's administration has reignited trade tensions between the world's two largest economies. \"History will record that the actions President Trump has taken in recent days were the beginning of saving the West from complete economic domination by another power,\" White House Deputy Chief of Staff Stephen Miller said in an April 13 interview on Fox News, referring to China's growing influence over global supply chains. He described the latest tar",
+      "published_utc": "2025-05-12T03:00:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8cd486f60c969f78c2619c143a0c0db056d4088afcb1143c74e523b25610808",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379404,
+      "datetime": 1746990024
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:19.117063+00:00",
+    "cache_key": "news_f95d52d9ba35c02324e315ced1c2c2cf",
+    "count": 5
+  }
+}

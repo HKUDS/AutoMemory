@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "PGR's Property Insurance Fuels Growth: Can it Sustain the Momentum?",
+      "description": "PGR rides property insurance growth with bundling, tech, and cross-selling-but can its momentum outpace rivals?",
+      "published_utc": "2025-06-17T22:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a66551a891b360b35a9011e4e2a6fe8dd8d58539fb0f70ae48f05c93b486eaa4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135333875,
+      "datetime": 1750171860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:27.399175+00:00",
+    "cache_key": "news_c0485e598a9748df3e78e94b3b3c2a33",
+    "count": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Millennium Space Systems Delivers Pair of Space Vehicles to Launch Site for NASA's TRACERS Mission",
+      "description": "Millennium Space Systems, a Boeing Company, delivered two space vehicles for NASA's Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites (TRACERS) mission to Vandenberg Space Force Base Friday, marking a key milestone in preparation for launch later this year.",
+      "published_utc": "2025-06-17T07:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f10b7fae0a8504a427c56352449059968e9d3dcf4e05fd6e027aa25e2d08021",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311953,
+      "datetime": 1750115460
+    },
+    {
+      "title": "U.S., U.K. Sign Announced Trade Deal",
+      "description": "The United States and the United Kingdom officially signed a bilateral trade deal announced last month.  In the pact, the Trump administration agreed to roll back tariffs imposed on British steel and automobiles.  In exchange, the U.K. agreed to purchase Boeing jets and give American farmers greater access to U.K. markets.",
+      "published_utc": "2025-06-17T05:39:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a452d340c611b655c07d9e31e8c47592c5901a13dbfc232ab81bef5ba8638cdb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311954,
+      "datetime": 1750109950
+    },
+    {
+      "title": "Southwest Airlines To Equip Entire Boeing 737 Fleet With Honeywell's Runway Safety Technology",
+      "description": "Honeywell (NASDAQ:HON) on Monday announced that Southwest Airlines (NYSE:LUV) is in the process of activating its entire Boeing Co (NYSE:BA) Boeing 737 aircraft fleet with Honeywell’s SmartRunway and SmartLanding software designed to increase runway ...",
+      "published_utc": "2025-06-17T05:31:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7547729d4dfeb84fe6b95927675e6806ff8ac122e08a014a3907490279950f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311955,
+      "datetime": 1750109500
+    },
+    {
+      "title": "Boeing Stock Is Rising. Here’s the Latest on the Air India 787 Crash.",
+      "description": "Investors and the wider public are looking for answers after Thursday’s crash of an Air India 787 jet. Both of the plane’s black boxes have been recovered.",
+      "published_utc": "2025-06-17T04:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1334ff8b26cff5c5d3a03c0b3e67c734150ab22c00b1c5ca96ee1368d7e3fbab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311956,
+      "datetime": 1750104660
+    },
+    {
+      "title": "US State Department approves possible sale to Australia of fighter jet spare parts",
+      "description": "WASHINGTON -The U.S. State Department approved a possible foreign military sale to Australia of fighter jet spare parts for $2 billion, the Pentagon said in a statement, adding the principle...",
+      "published_utc": "2025-06-17T00:36:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1f320ea13e470eb71236e5b0a6e67affcb945a7d20f17876409d2de971355542",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135310791,
+      "datetime": 1750091768
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:02.534119+00:00",
+    "cache_key": "news_527e968a00a1507a3ac859d334aaac0f",
+    "count": 5
+  }
+}

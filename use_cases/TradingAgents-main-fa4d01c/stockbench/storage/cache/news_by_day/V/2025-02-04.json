@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Visa Inc. Cl A stock outperforms competitors on strong trading day",
+      "description": "Visa Inc. Cl A stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-04T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4a05d7c7490de29545951454173a90440989de867506ac68c7329537062a09cc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132544174,
+      "datetime": 1738600260
+    }
+  ]
+}

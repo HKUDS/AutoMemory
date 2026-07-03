@@ -1,0 +1,58 @@
+{
+  "trace_id": "trace_id_tool_operational_multi_tool_budget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: compact tool lessons should not let one verbose tool line crowd out another available tool's repeated failure signature.",
+  "turns": [
+    { "role": "tool", "content": "shell failed: VITE_PORT_COLLISION_5173 stale preview server still owns the socket", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 310, "error": "VITE_PORT_COLLISION_5173 stale preview server still owns the socket with a long diagnostic about preview reload state and workspace graph hydration." } } },
+    { "role": "tool", "content": "shell failed: VITE_PORT_COLLISION_5173 stale preview server still owns the socket", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 320, "error": "VITE_PORT_COLLISION_5173 stale preview server still owns the socket with a long diagnostic about preview reload state and workspace graph hydration." } } },
+    { "role": "tool", "content": "shell failed: VITE_PORT_COLLISION_5173 stale preview server still owns the socket", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": false, "durationMs": 330, "error": "VITE_PORT_COLLISION_5173 stale preview server still owns the socket with a long diagnostic about preview reload state and workspace graph hydration." } } },
+    { "role": "tool", "content": "shell succeeded after stopping the stale server", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "shell", "ok": true, "durationMs": 90 } } },
+    { "role": "tool", "content": "apply_patch failed: PATCH_CONTEXT_MISMATCH generated schema block shifted", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "apply_patch", "ok": false, "durationMs": 60, "error": "PATCH_CONTEXT_MISMATCH generated schema block shifted after codegen; refresh the exact hunk anchor before retrying." } } },
+    { "role": "tool", "content": "apply_patch failed: PATCH_CONTEXT_MISMATCH generated schema block shifted", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "apply_patch", "ok": false, "durationMs": 65, "error": "PATCH_CONTEXT_MISMATCH generated schema block shifted after codegen; refresh the exact hunk anchor before retrying." } } },
+    { "role": "tool", "content": "apply_patch failed: PATCH_CONTEXT_MISMATCH generated schema block shifted", "used_for_evaluation": true, "metadata": { "tool_outcome": { "tool": "apply_patch", "ok": false, "durationMs": 70, "error": "PATCH_CONTEXT_MISMATCH generated schema block shifted after codegen; refresh the exact hunk anchor before retrying." } } },
+    { "role": "tool", "content": "read_file succeeded on package.json", "used_for_evaluation": false, "metadata": { "tool_outcome": { "tool": "read_file", "ok": true, "durationMs": 15 } } },
+    { "role": "agent", "content": "Noise about unrelated package metadata.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false },
+    { "role": "user", "content": "Continue with both shell and patch lessons available.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Continuing.", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What shell failure should remain visible with both tools available?",
+      "metadata": { "availableToolIds": ["shell", "apply_patch"], "maxChars": 300 },
+      "expected_information": [
+        { "value": "VITE_PORT_COLLISION_5173", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What apply_patch failure should remain visible with both tools available?",
+      "metadata": { "availableToolIds": ["shell", "apply_patch"], "maxChars": 300 },
+      "expected_information": [
+        { "value": "PATCH_CONTEXT_MISMATCH", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Are apply_patch counters represented?",
+      "metadata": { "availableToolIds": ["shell", "apply_patch"], "maxChars": 300 },
+      "expected_information": [
+        { "value": "apply_patch: calls=3", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does shell still warn after repeated failures?",
+      "metadata": { "availableToolIds": ["shell", "apply_patch"], "maxChars": 300 },
+      "expected_information": [
+        { "value": "shell: calls=4", "matcher": "substring" },
+        { "value": "failed often", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Does available-tool filtering exclude read_file lessons?",
+      "metadata": { "availableToolIds": ["shell", "apply_patch"], "maxChars": 300 },
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*read_file)[\\s\\S]*(shell|apply_patch)[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

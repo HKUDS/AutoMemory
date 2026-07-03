@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Goldman Sachs: “There’s a Thirst That Can’t Be Slaked Without More Deals”",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the 16 stocks Jim Cramer recently discussed. Cramer noted that investors who are interested in investing in IPOs can go for GS stock, as he explained: “I’ve tried to be skeptical of these three red hot areas, but as I told you last week, once the […]",
+      "published_utc": "2025-06-15T17:27:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5930841425e515dc9ed3c243cd84449ae5843bb345d9bd7fd869ca0359d6f0d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285454,
+      "datetime": 1749979624
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:04.175877+00:00",
+    "cache_key": "news_01cca5629fa4adf22c70550fc740c993",
+    "count": 1
+  }
+}

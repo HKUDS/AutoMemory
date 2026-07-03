@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "S&P 500: The First Week Of 2025 To Set The Tone For The Year",
+      "description": "2025 could be defined by investor positioning in tech mega-caps like Nvidia, with the GenAI theme shaping the year ahead. Click here for more on market outlook.",
+      "published_utc": "2024-12-31T22:11:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b655407c27ca22c03df7c6b8262608e3c26ba054aff62e4173c2bcbf511326e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187445525/image_2187445525.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132217417,
+      "datetime": 1735654262
+    },
+    {
+      "title": "Investors Heavily Search Salesforce Inc. (CRM): Here is What You Need to Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Salesforce.com (CRM). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2024-12-31T22:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f57c9bb685f816d4ccd24df7c9d952a740e9d0ff557358ca5ee1741fb1261ef0",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/078b2d95159d12a337f09f2519ff10ba",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132227329,
+      "datetime": 1735653618
+    }
+  ]
+}

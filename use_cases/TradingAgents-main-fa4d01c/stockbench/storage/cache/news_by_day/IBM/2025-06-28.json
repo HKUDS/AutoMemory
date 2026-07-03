@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "title": "Jessica Inskip Explains AI Growth Catalysts for IBM Stock",
+      "description": "Jessica Inskip from StockBrokers.com recently said while talking to Schwab Network that she likes International Business Machines (NYSE:IBM) because of the company’s growth catalysts related to enterprise and AI. “I’ve liked IBM for quite some time because it’s an enterprise solution that offers consulting but also a lot of technology solutions for enterprises. And that’s […]",
+      "published_utc": "2025-06-28T16:54:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f942f806f22c6d614f232d04a56659cede1fc9dc3caaca48cc2b72e813064fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135624104,
+      "datetime": 1751100859
+    },
+    {
+      "title": "International Business Machines Corporation (IBM) Outperforms with AI-Driven Growth in 2025",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the Best Dividend Stocks of 2025 as it has surged by over 32% since the start of the year. The company has positioned itself as a major force in enterprise-focused artificial intelligence. The company has been strategically preparing for this pivotal moment in the evolution of computing, […]",
+      "published_utc": "2025-06-28T13:25:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67a8c3653cfbf0e8da808330fb2b0bd25b358159d9ac5eeaf8b9ebfb4acf76f0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135604132,
+      "datetime": 1751088355
+    },
+    {
+      "id": "e19dbc0f2b162eb7ea0f26f13270986cc87f0b16adc03e35edc502b4dae889c0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Philippe Laffont Sells Nvidia Stock and Buys an AI Stock Up 300% in 2025",
+      "author": "Trevor Jennewine",
+      "published_utc": "2025-06-28T07:04:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/28/billionaire-sell-nvidia-stock-buys-ai-stock-up-300/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "CRWV",
+        "IBM",
+        "META",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/823122/investor-51.jpg",
+      "description": "Billionaire hedge fund manager Philippe Laffont reduced his Nvidia stake while initiating a position in CoreWeave, an AI infrastructure company that has seen significant stock growth since its IPO in March 2025.",
+      "keywords": [
+        "AI",
+        "hedge fund",
+        "stock market",
+        "technology investment",
+        "GPUs"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong financial performance, market leadership in AI infrastructure, expected earnings growth, and continued potential in AI ecosystem"
+        },
+        {
+          "ticker": "CRWV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rapid revenue growth, specialized AI infrastructure, strong client base, and 300% stock price increase since IPO"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential AI infrastructure client"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential AI infrastructure client"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential AI infrastructure client"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen Q4 Earnings: Strong Pipeline And Label Expansions Justify Buy Rating",
+      "description": "Amgen's Q4 earnings beat expectations, showcasing robust performance for the company's growth strategy. Click here to read why AMGN stock is a Buy.",
+      "published_utc": "2025-02-05T23:08:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=875a53d3d17f3991b2caeb7e5a5814b08dfee064061d5f713a2aa9203a132a48",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412046220/image_1412046220.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132565449,
+      "datetime": 1738768125
+    },
+    {
+      "title": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "description": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "published_utc": "2025-02-05T22:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=14522b0ead6971c45a7d15acc074a34c685995d64c40e7b4752770b363481809",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564061,
+      "datetime": 1738764480
+    },
+    {
+      "title": "Regeneron Is Playing Defense With Capital Allocation",
+      "description": "Regeneron's 2025 outlook includes defensive capital allocation, competitive pressure on Eylea, et cetera. Click here to read why I rate REGN a Buy.",
+      "published_utc": "2025-02-05T21:10:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9a0c9b25731d76b789ce893a51dade7a12e0b641dc763a1ebb21f152d7bed54c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2129856936/image_2129856936.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132563616,
+      "datetime": 1738761030
+    },
+    {
+      "title": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "description": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-02-05T19:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cd443e114c79cbc979e50a14141aa0503528955326bdd3ab0714973ab0a7ecc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564063,
+      "datetime": 1738756320
+    },
+    {
+      "title": "Amgen Shrugs Off A Surprise Setback For One Of Its Obesity Drugs",
+      "description": "Amgen Shrugs Off A Surprise Setback For One Of Its Obesity Drugs",
+      "published_utc": "2025-02-05T18:04:41",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c12b4071d5b7cee405b563bd5a1519bec9dd57d2cabc2b8829e32cee10af15e9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132566414,
+      "datetime": 1738749881
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:20.431678+00:00",
+    "cache_key": "news_011b8e4a43ac14a35f63a95c6aa9a931",
+    "count": 5
+  }
+}

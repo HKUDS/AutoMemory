@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "description": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-03-11T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b9957062ca2a01005e5735fe584613a67625f50cd66ec4b719a2a2b43e91ffaf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133134557,
+      "datetime": 1741624500
+    },
+    {
+      "title": "2 Dividend Stocks to Double Up On Right Now",
+      "description": "Here are two dividend-paying stocks that should continue paying back their shareholders.",
+      "published_utc": "2025-03-11T00:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f08f4c238fb7dfb2485dabda760091becdf274393f104765a952ff629086b6c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185145,
+      "datetime": 1741623780
+    },
+    {
+      "title": "Saudi’s Zahid to Reopen Talks With Barloworld’s Shareholders",
+      "description": "(Bloomberg) -- Saudi Arabia’s Zahid Group will start fresh negotiations with the shareholders of South Africa’s Barloworld Ltd., after an initial acquisition offer was rejected. Most Read from BloombergNJ College to Merge With State School After Financial StressNYC Congestion Pricing Toll Gains Support Among City ResidentsWhere New York City's Zoning Reform Will Add HousingBuffalo’s Billion-Dollar Freeway Fix Is on Ice, But Not Because of TrumpInside the ‘Not Architecture’ of High Line Designers",
+      "published_utc": "2025-03-10T21:47:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2c277d2903aa685aa3feb3526ade784e5b5bd9abc7863a3338dc3725a30f6fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185146,
+      "datetime": 1741614435
+    },
+    {
+      "id": "d6f507f588ccef0becb9f04ecd4f887d7a05f391be64dcee1109bc223227accb",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Hydraulic Tiltrotator Market to Reach USD 1,666.26 Million by 2032, Growing at 7.2% CAGR: IMR Market Reports Reveals Industry Outlook",
+      "author": "Imr Market Reports",
+      "published_utc": "2025-03-10T11:50:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/10/3039650/0/en/Hydraulic-Tiltrotator-Market-to-Reach-USD-1-666-26-Million-by-2032-Growing-at-7-2-CAGR-IMR-Market-Reports-Reveals-Industry-Outlook.html",
+      "tickers": [
+        "CAT",
+        "DE",
+        "EPKKY",
+        "HTCMY",
+        "KMTUY",
+        "KUBTY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/94de5d3b-896b-42eb-ac3a-a9b044bfbf39",
+      "description": "The global hydraulic tiltrotator market is expected to grow significantly, driven by the demand for precision in excavation, infrastructure projects, and utility work. Key players are focused on innovation, improving efficiency, and reducing labor costs. Growth is fueled by urbanization, automation trends, and rising construction activities, with Europe and North America leading in adoption and technological advancements.",
+      "keywords": [
+        "hydraulic tiltrotator",
+        "construction",
+        "excavation",
+        "automation",
+        "precision",
+        "infrastructure",
+        "utility work"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Caterpillar Inc. as one of the key players in the hydraulic tiltrotator market, suggesting their participation and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "DE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deere & Company is mentioned as a key player in the hydraulic tiltrotator market, indicating their involvement and potential to capitalize on the industry's expansion."
+        },
+        {
+          "ticker": "EPKKY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Epiroc is listed as one of the key players in the hydraulic tiltrotator market, indicating their involvement and potential to capitalize on the industry's expansion."
+        },
+        {
+          "ticker": "HTCMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Hitachi Construction Machinery as a key player in the hydraulic tiltrotator market, suggesting their participation and potential growth opportunities in this industry."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Komatsu Ltd. as one of the key players in the hydraulic tiltrotator market, indicating their involvement and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "KUBTY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Kubota Corporation is included as a key player in the hydraulic tiltrotator market, suggesting their participation and potential growth opportunities in this industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:59.172555+00:00",
+    "cache_key": "news_119c4876569b83fac625dbba5cf1b326",
+    "count": 4
+  }
+}

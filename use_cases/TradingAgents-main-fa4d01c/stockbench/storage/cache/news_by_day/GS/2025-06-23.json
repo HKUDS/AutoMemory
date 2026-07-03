@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Can Goldman's Expansion in Private Equity Credit Set New Growth Path?",
+      "description": "GS targets global growth by expanding private equity credit lines and launching Capital Solutions Group.",
+      "published_utc": "2025-06-23T23:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43769a02323e1de13108d2b36520a8a85b5732087d382c94b49dcc711b094436",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135490288,
+      "datetime": 1750693680
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "How Stablecoins Can Be Destabilizing",
+      "description": "Stablecoins’ going mainstream wouldn’t take all of banks’ deposits away.  The Senate looks set to soon pass the so-called Genius Act, which will set guidelines for issuers of stablecoins—digital tokens that are fully backed by fiat currencies such as dollars.  One big debate over the wisdom of giving stablecoins a regulatory framework centers around how they would affect the current banking system if they were to hugely expand in size.",
+      "published_utc": "2025-06-15T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f7ef2af62f43615bce21d351f712f91b29296665686da8d39430f250fa30727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284815,
+      "datetime": 1749983400
+    }
+  ]
+}

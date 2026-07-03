@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Finance Earnings Outlook Improves: A Closer Look",
+      "description": "JPMorgan (JPM), Wells Fargo (WFC), and Citigroup (C) will kick-start the June-quarter reporting cycle for the Finance sector on July 15th. These banks comfortably passed the Fed's stress tests, opening the way for increased capital returns to shareholders through share buybacks and dividend hikes.",
+      "published_utc": "2025-07-10T07:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8864f783549230cffccb81bac25db2cddd9a2733a2fbb4cc5d1af2cf918c90b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135840581,
+      "datetime": 1752103980
+    },
+    {
+      "title": "Fed won't cut until December: JPM's Chief US Economist",
+      "description": "\"So I believe December is your call for when we are going to get a cut,\" Michael Feroli of JPMorgan joins Bloomberg \"The Close\" to discuss.",
+      "published_utc": "2025-07-10T05:36:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5652f7b3990419cb78076937c222895a358526b61d51b67fc8c960ce7408043",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135849952,
+      "datetime": 1752096993
+    },
+    {
+      "title": "Morgan Stanley, JPMorgan Get Some Analyst Love Ahead Of Earnings Reports",
+      "description": "Several Wall Street analysts have raised their price targets on JPMorgan Chase and Morgan Stanley this week — a bullish vibe ahead of the major banks' earnings reports next week.  In one of the most bullish notes, Keefe Bruyette & Woods analyst Christopher McGratty upgraded JPMorgan and Morgan Stanley to outperform from market perform.  The analyst raised the price target on JPMorgan to 327 from 253, and on Morgan Stanley to 160 from 127.",
+      "published_utc": "2025-07-10T01:13:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82d059c493da17d4f7220b7f0dbc89d85b18699cfad5133f00c6dd927dcdde7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835663,
+      "datetime": 1752081192
+    },
+    {
+      "title": "Goldman Demands an Oath From Junior Bankers to Fend Off Private Equity Poaching",
+      "description": "(Bloomberg) -- Goldman Sachs Group Inc. plans to ask junior bankers to confirm their loyalty on a regular basis in a bid to limit advances from talent-hungry buyout firms.Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortAre Tourists Ruining Europe? How Locals Are Pushing BackCan Americans Just Stop Building New Highways?Denver City Hall Takes a Page From NASAPhiladelphia Trash Piles Up as Garbage Workers’ Strike Drags OnThe investment bank will a",
+      "published_utc": "2025-07-10T01:11:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6246cb436a6e0d35dff48ea3f2bd022c476ba84c4211a0370ab1926bcb4f995",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835664,
+      "datetime": 1752081098
+    },
+    {
+      "title": "JPMorgan Chase's Balance Sheet, Management Create 'Optionality,' BofA Says",
+      "description": "JPMorgan Chase's (JPM) balance sheet and management strength create \"optionality,\" BofA Securities s",
+      "published_utc": "2025-07-09T23:03:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74922b54b7ccc1cc537f33406bc0081a9ce0a0cc7b5bf61c193a0f03dd950f30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835665,
+      "datetime": 1752073428
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:06:03.912910+00:00",
+    "cache_key": "news_de3c71f6ff97f1cccd1642db71bcbd07",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Microsoft (MSFT) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "Microsoft (MSFT) closed the most recent trading day at $486.00, moving +1.8% from the previous trading session.",
+      "published_utc": "2025-06-24T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d12a60594b20a6b39dc1bfc092711f9cb1cb515fffeb7f6b46f5ba73d0b5b946",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135490218,
+      "datetime": 1750715103
+    },
+    {
+      "title": "How Microsoft Built a Reliable Dividend Track Record in a Growth-Focused Sector",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the 10 Technology Dividend Aristocrats to Buy in 2025. Microsoft Corporation (NASDAQ:MSFT) surprised Wall Street in 2003 when it announced its first-ever dividend, especially since the company was dealing with costly antitrust challenges at the time. Analysts viewed the move as a smart step, both financially and strategically. Today, […]",
+      "published_utc": "2025-06-24T05:22:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87b2ce7a534c074dde95d42ceb64af4066340741344aca387d75619817dc1edd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135490219,
+      "datetime": 1750713764
+    },
+    {
+      "title": "Microsoft and IBM Just Hit Fresh Highs. Both Are Still Set for AI-Driven Gains, Analysts Say",
+      "description": "Microsoft and International Business Machines shares closed at record highs Monday, building on a string of recent gains.",
+      "published_utc": "2025-06-24T04:58:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3901d75a0f78824d2215a62a1ac7d4fba5fa82e76f1d9b733cda0f4e2306de72",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489991,
+      "datetime": 1750712303
+    },
+    {
+      "title": "US stocks aren’t safe in heated global tensions anymore",
+      "description": "Bitcoin's volatility drops below major U.S. stocks as long-term holders drive asset class maturity.",
+      "published_utc": "2025-06-24T03:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c80765693e393ffc66a367feb4a0449e79d521f73ddf31234ae89d12910ebab8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135487490,
+      "datetime": 1750707900
+    },
+    {
+      "title": "Microsoft, AMD Partner to Co-Engineer Custom Silicon for Next-Gen Xbox Consoles",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the best QQQ stocks to buy according to hedge funds. On June 18, Microsoft and Advanced Micro Devices Inc. (NASDAQ:AMD) announced a multi-year agreement to co-engineer custom silicon for a range of devices, such as Microsoft’s next-generation Xbox consoles. The partnership aims to enhance visual quality, immersive gameplay, and […]",
+      "published_utc": "2025-06-24T03:37:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e2e7da2e9cfb2461e9d796516176f1e37cb0363142a2f31b68ac8659d3bb55f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486851,
+      "datetime": 1750707456
+    }
+  ]
+}

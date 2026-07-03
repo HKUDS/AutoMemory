@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers Announces Enhanced Services for Cyber Liability Customers",
+      "description": "HARTFORD, Conn., April 02, 2025--The Travelers Companies, Inc. (NYSE: TRV) today announced the launch of Travelers Cyber Risk Services, a suite of capabilities added to all cyber liability policies designed to help lower both the risk of a cyberattack and the cost to recover from one.",
+      "published_utc": "2025-04-02T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=beff366ed21447c5ba375854e4ca5b4c8d77120e288e80f854741414fd47723d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669737,
+      "datetime": 1743598800
+    }
+  ]
+}

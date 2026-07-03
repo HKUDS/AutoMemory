@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Jones Dives As Nvidia Plunges; Warren Buffett Gives This Warning With Trump Tariffs 'All Set' (Live Coverage)",
+      "description": "The Dow Jones dived on the stock market today. Warren Buffett issued a warning as President Donald Trump said tariffs are 'all set.' Nvidia and Tesla fell.",
+      "published_utc": "2025-03-04T05:16:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2270f98691e6b7c2fe0803c8e04a7684a3518c6236ec6083c3ef17b247171bf4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185430,
+      "datetime": 1741036614
+    }
+  ]
+}

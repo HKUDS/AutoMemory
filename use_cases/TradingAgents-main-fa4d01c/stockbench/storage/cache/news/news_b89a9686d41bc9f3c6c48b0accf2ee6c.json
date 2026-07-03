@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Calls The Procter & Gamble Company (PG) a ‘Recession Stock’",
+      "description": "We recently published an article titled Was Jim Cramer Right About These 12 Stocks? In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against the other stocks. Back then, Cramer was focused on the impact of future rate cuts and how different stocks would react. He […]",
+      "published_utc": "2025-02-19T02:52:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09e0d936aeb51decce8d7f61eeb6798964b3874bd39d9dad93d116f2d67aaad7",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1ZohQ2YSKqgMoq3VoXxDpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e67c69f89d80ec8ce4e58c9699e33b0e",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943358,
+      "datetime": 1739904735
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-19T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=743196fb0742fcf0a5c557476bd406ba707b9755c0e710449fe4aba7dab83895",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132785410,
+      "datetime": 1739896260
+    },
+    {
+      "title": "Dawn® Launches its Best Liquid Dish Soap with Double the Suds",
+      "description": "CINCINNATI, February 18, 2025--Dawn®, the nation’s #1 dish liquid*, once again improves how America washes dishes with the launch of new Dawn PowerSuds, its best liquid dish soap - perfect for lots of dishes. Inspired by P&G consumer research that revealed washing dishes remains the #1 disliked daily chore, Dawn PowerSuds makes dish duty easier than ever. The new, proprietary Dawn PowerSuds formula delivers double the suds** with bubbles that trap grease and eliminate residue from traveling and",
+      "published_utc": "2025-02-18T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=318553332c22c25a63a00a59082cabd4df2c7c469da9b2e4a44c4e59d9fccdf6",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/business-wire.com/9f7c42438eeec6e68f21b96e4f495014",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943359,
+      "datetime": 1739887200
+    },
+    {
+      "title": "Spotting Winners: Reynolds (NASDAQ:REYN) And Household Products Stocks In Q4",
+      "description": "As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q4. Today, we are looking at household products stocks, starting with Reynolds (NASDAQ:REYN).",
+      "published_utc": "2025-02-18T17:02:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e370519244d09975e94883eb41f71ad5685e6ac0636d56b593f3945644235c47",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/X5RBS.uyQzOFY4PiUGIkSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/stockstory_922/e96188a838985f41d8750fc2645a5ba2",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132939222,
+      "datetime": 1739869330
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:42.616130+00:00",
+    "cache_key": "news_b89a9686d41bc9f3c6c48b0accf2ee6c",
+    "count": 4
+  }
+}

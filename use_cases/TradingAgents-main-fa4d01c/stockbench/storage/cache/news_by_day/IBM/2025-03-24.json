@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "AI Budgets Are Still Rising. IBM Has a ‘Massive Opportunity.’",
+      "description": "Wall Street’s biggest optimist on technology companies said spending on artificial intelligence has risen over the past weeks even as the stock market has struggled, and that  IBM  has an enormous opportunity to benefit.  In a research note on Monday morning, Wedbush Securities’ managing director Daniel Ives estimated that AI spending now makes up roughly 12% of many IT budgets, and in some cases even 15%.  The numbers, up from his estimate of 10% for January, were based on checks conducted over the past few weeks monitoring dozens of large companies.",
+      "published_utc": "2025-03-24T21:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae99fd6c83773f41b4917e38aeda110b47797719b71dc3c27432ebef16f144fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133337854,
+      "datetime": 1742824080
+    }
+  ]
+}

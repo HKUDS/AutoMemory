@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers Offers New Product Liability Insurance for Life Sciences Companies",
+      "description": "HARTFORD, Conn., March 11, 2025--The Travelers Companies, Inc. (NYSE: TRV) today introduced Travelers Synergy℠, a new customizable product liability coverage tailored to life sciences companies. The offering will help medical technology, pharmaceutical, biopharmaceutical and digital health companies with the costs of product-related claims.",
+      "published_utc": "2025-03-11T21:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd924fa7adcc52e7d9abd053c94bad11388fe756c3f89d1c368a18749ac8ccc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133187246,
+      "datetime": 1741698480
+    }
+  ]
+}

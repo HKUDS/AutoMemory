@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Walmart, Goldman Sachs share gains contribute to Dow's 466-point rally",
+      "description": "Walmart, Goldman Sachs share gains contribute to Dow's 466-point rally",
+      "published_utc": "2025-03-17T22:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4a7445a4a723412d9de500ace64250b6f87b39695f76342aa68606bfd2a59800",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213766,
+      "datetime": 1742222280
+    },
+    {
+      "title": "Walmart, Goldman Sachs share gains contribute to Dow's 361-point jump",
+      "description": "Walmart, Goldman Sachs share gains contribute to Dow's 361-point jump",
+      "published_utc": "2025-03-17T21:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cd75541fdfafab1ec1bdbd5f950226850330f1411c6d6f4ec85db6dcc90b772d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213463,
+      "datetime": 1742218560
+    },
+    {
+      "title": "Walmart, IBM share gains contribute to Dow's 250-point jump",
+      "description": "Walmart, IBM share gains contribute to Dow's 250-point jump",
+      "published_utc": "2025-03-17T20:07:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5d191a655125941b740c0e46b9badefc81436bf6e0dea6fd75fd5180b7239ae2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213464,
+      "datetime": 1742213220
+    }
+  ]
+}

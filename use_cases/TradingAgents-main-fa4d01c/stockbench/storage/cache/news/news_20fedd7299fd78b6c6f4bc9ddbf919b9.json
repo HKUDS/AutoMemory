@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Stock Sinks As Market Gains: Here's Why",
+      "description": "Amgen (AMGN) concluded the recent trading session at $258.59, signifying a -1.01% move from its prior day's close.",
+      "published_utc": "2025-01-07T07:00:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6385fe87a20f56dc977c5bd8c352a443c989e60fdac808ba4a344c91901a26ff",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132294847,
+      "datetime": 1736204419
+    },
+    {
+      "title": "Top Analyst Reports for Microsoft, Exxon Mobil & Amgen",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Microsoft Corporation (MSFT), Exxon Mobil Corporation (XOM) and Amgen Inc. (AMGN), as well as two micro-cap stocks PrimeEnergy Resources Corporation (PNRG) and FONAR Corporation (FONR).",
+      "published_utc": "2025-01-07T05:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25330f3372284582a64b0014220c95fa9ad2bccec8a19851f3453b2494a84ef3",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/d325e443265f81b37d14d0c390b4cefa",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292806,
+      "datetime": 1736197920
+    },
+    {
+      "title": "Will Amgen (AMGN) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Amgen (AMGN) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-01-07T01:10:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccb3ad2980d8a3d816fbabe28c93266d1edaddc91fb275ddcdff491056d83447",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/0c6f98f4bf655bec3b199bc1a71b8b85",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132291660,
+      "datetime": 1736183416
+    },
+    {
+      "title": "Amgen (NASDAQ:AMGN) Is Paying Out A Larger Dividend Than Last Year",
+      "description": "Amgen Inc.'s ( NASDAQ:AMGN ) dividend will be increasing from last year's payment of the same period to $2.38 on 7th of...",
+      "published_utc": "2025-01-06T20:51:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58b001d2fd13cce780b0bf67ac0837402e3b5f0f6ed6a25e88a778efa4694826",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/7137ef364be97d9882cfa4ec57169a99",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132291661,
+      "datetime": 1736167917
+    },
+    {
+      "title": "Amgen’s Imdylltra wins conditional MHRA licence for lung cancer",
+      "description": "Amgen’s bispecific T-cell engager (BiTE) led to an ORR of 41% in patients with extensive-stage small cell lung cancer.",
+      "published_utc": "2025-01-06T20:43:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79dbaf209746b03133960cc3b88fdf3bba7179b7b3c7f33ce6e48fe48583ae43",
+      "category": "company",
+      "image": "https://live-b2b-gdm-figaro1.pantheonsite.io/wp-content/uploads/sites/24/2025/01/shutterstock_1953872293.jpg",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132286679,
+      "datetime": 1736167424
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:02:32.303824+00:00",
+    "cache_key": "news_20fedd7299fd78b6c6f4bc9ddbf919b9",
+    "count": 5
+  }
+}

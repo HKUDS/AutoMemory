@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Oracle Sees ‘Dramatically Higher’ Sales, Boosting Cloud Momentum",
+      "description": "(Bloomberg) -- Oracle Corp. projected cloud infrastructure sales will jump more than 70% in the fiscal year that began this month, boosting shares in late trading on investor enthusiasm for the closely watched business.Most Read from BloombergShuttered NY College Has Alumni Fighting Over Its FutureTrump’s Military Parade Has Washington Bracing for Tanks and WeaponryNYC Renters Brace for Price Hikes After Broker-Fee BanNY Long Island Rail Service Resumes After Grand Central FireDo World’s Fairs S",
+      "published_utc": "2025-06-12T06:43:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e58d9e73ed75d2eb327a11648c1a7709197c72ce570e308acdda14d28c055527",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135212248,
+      "datetime": 1749681805
+    },
+    {
+      "title": "Applied Optoelectronics: Record Cash Outflows Likely To Result In Further Dilution - Sell",
+      "description": "Applied Optoelectronics continues to experience record cash outflows due to elevated capital expenditures. Read more on AAOI stock here.",
+      "published_utc": "2025-06-12T06:26:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a1f234efd8a547c8a13f98e5a938c0ced2d1e0654b97a53a624000c0b3080eb4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427554817/image_1427554817.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199224,
+      "datetime": 1749680772
+    },
+    {
+      "title": "5 Reasons Amazon Is Still the Alpha in Tech Stocks",
+      "description": "Despite implementing job cuts, Amazon.com, Inc. (NASDAQ:AMZN) continues to outshine other tech stocks. The Seattle-based company’s high-growth segments—from AWS cloud services and digital advertising to ambitious ventures like Project Kuiper's ...",
+      "published_utc": "2025-06-12T05:30:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f00b1e03b692b5cfc41901423544781ff4c76299109ed7346b384e38d90bbbb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135200494,
+      "datetime": 1749677441
+    },
+    {
+      "title": "How Amazon’s Nuclear Deal Could Solve a Touchy Political Problem",
+      "description": "The data-center agreement with Talen Energy could help ease fears of rising electricity prices for homeowners.",
+      "published_utc": "2025-06-12T05:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b87e81571c62256acf953c546cb9437b3c27a00ebaf910af3b487f4d3c560f2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135200495,
+      "datetime": 1749677340
+    },
+    {
+      "title": "Vinson & Elkins Represents Talen Energy in Agreement to Power Amazon Data Centers",
+      "description": "By Karen Roman Vinson & Elkins said Partner Kaam Sahely is leading the firm’s team to represent Talen Energy Corp. (Nasdaq: TLN) in the expansion of its nuclear relationship with Amazon.com, Inc. (Nasdaq: AMZN). The agreement will allow Talen to supply carbon-free energy from its Susquehanna nuclear power plant to Amazon Web Services (AWS) data […]",
+      "published_utc": "2025-06-12T04:51:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=075f96fcbe20b8558d570005b245610a57fe7bd860121961e5818e7439c5ab2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199807,
+      "datetime": 1749675111
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:21.124459+00:00",
+    "cache_key": "news_de69793b38488152ab5b0bab069e274e",
+    "count": 5
+  }
+}

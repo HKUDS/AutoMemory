@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "id": "ed40aeb169c368281b17d4e6efec86514d781a6517776c8b3ae78b091fcbc298",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Apple Stock Plunged on Tariff News, But It's Proving to Be Unstoppable in Another Lucrative Area",
+      "author": "The Motley Fool",
+      "published_utc": "2025-04-13T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/13/apple-stock-plunged-tariff-unstoppable/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "V",
+        "AXP",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "COF",
+        "COFpI",
+        "COFpJ",
+        "COFpK",
+        "COFpL",
+        "COFpN",
+        "SYF",
+        "SYFpA",
+        "SYFpB",
+        "MA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/814471/using-credit-card-mobile-payment.jpg",
+      "description": "Apple's stock has plunged due to tariffs on goods from China, but the company is finding success in its financial services business, including Apple Pay and Apple Card, which are attracting interest from major financial institutions.",
+      "keywords": [
+        "Apple",
+        "tariffs",
+        "financial services",
+        "Apple Pay",
+        "Apple Card"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite the potential impact of tariffs, Apple is finding success in its financial services business, which is growing rapidly and attracting interest from major partners."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs is partnering with Apple on the Apple Card credit card program, which has 12 million customers and $20 billion in balances."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs is partnering with Apple on the Apple Card credit card program, which has 12 million customers and $20 billion in balances."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs is partnering with Apple on the Apple Card credit card program, which has 12 million customers and $20 billion in balances."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs is partnering with Apple on the Apple Card credit card program, which has 12 million customers and $20 billion in balances."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa offered Apple $100 million to end its relationship with Mastercard, indicating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express is also interested in partnering with Apple on its financial services products."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "COF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital One is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "COFpI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital One is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "COFpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital One is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "COFpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital One is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "COFpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital One is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "COFpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital One is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "SYF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Synchrony Financial is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "SYFpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Synchrony Financial is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "SYFpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Synchrony Financial is reaching out to Goldman Sachs, offering to take over the $20 billion in Apple Card balances and handle the program, demonstrating the value of Apple's financial services offerings."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Visa offered Apple $100 million to end its relationship with Mastercard, indicating that Mastercard may be losing out on the value of Apple's financial services offerings."
+        }
+      ]
+    }
+  ]
+}

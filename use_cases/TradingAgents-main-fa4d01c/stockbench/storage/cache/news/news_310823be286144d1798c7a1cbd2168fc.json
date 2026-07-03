@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Watch Tuesday: Coinbase, Boeing, Hertz, UnitedHealth",
+      "description": "↗️ Coinbase (COIN): Shares surged 25% after S&P Dow Jones Indices said the crypto exchange will join the S&P 500 on May 19. ↗️ Boeing (BA): The aviation company's shares rose 2.7% after China scrapped a ban on airlines taking delivery of Boeing planes.",
+      "published_utc": "2025-05-14T02:46:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8f27626f2af01ca3a0af45f01af8b01e4b130b8331a8b093787c8f149044bd9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408575,
+      "datetime": 1747162006
+    },
+    {
+      "title": "Boeing Hits 52-Week High After China Reverses Delivery Ban",
+      "description": "Boeing stock hit its highest level since March 2024 as Beijing reportedly reversed a delivery ban in the wake of U.S.-China tariff cuts.",
+      "published_utc": "2025-05-14T02:13:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d63c4da5cc9a56e18f490ed227a3bc3b19a4d3f53d4949f60fbf2ce4fad00d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408991,
+      "datetime": 1747160019
+    },
+    {
+      "title": "Trump and MBS Tout $1 Trillion Pledge as Details Remain Elusive",
+      "description": "(Bloomberg) -- President Donald Trump and Saudi Crown Prince Mohammed bin Salman touted a pledge for $1 trillion in commercial deals in Riyadh on Tuesday, a staggering figure that doesn’t quite stand up to scrutiny.Most Read from BloombergAs Coastline Erodes, One California City Considers ‘Retreat Now’A New Central Park Amenity, Tailored to Its East Harlem NeighborsWhat’s Behind the Rise in Serious Injuries on New York City’s Streets?NYC Warns of 17% Drop in Foreign Tourists Due to Trump Policie",
+      "published_utc": "2025-05-14T01:49:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc7f67037ed5fd23b0437e18bfd22910a691c5b80d1cb120516d6049a9a58da6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408230,
+      "datetime": 1747158542
+    },
+    {
+      "title": "Industrials Advanced on Economic Optimism - Industrials Roundup",
+      "description": "Shares of industrial and transportation companies rose amid optimism about the durability of a global economic expansion. China has reopened itself to Boeing, the biggest U.S. exporter, after the...",
+      "published_utc": "2025-05-14T01:38:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5626b3a7fd11b10d62cfb6fa870145421306cb94a6e9d70710b2caeff3af69c5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134416819,
+      "datetime": 1747157896
+    },
+    {
+      "title": "RTX's PhantomStrike Radar Catches Spotlight: Should You Buy the Stock Now?",
+      "description": "Investors interested in RTX stock should wait for a better entry point, considering its premium valuation and downward revision in earnings estimates.",
+      "published_utc": "2025-05-14T01:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc513710b8bee1154dfa3b9699414bceed7028f5101783ef3f6ce35623aad0f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408994,
+      "datetime": 1747157460
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:21.877274+00:00",
+    "cache_key": "news_310823be286144d1798c7a1cbd2168fc",
+    "count": 5
+  }
+}

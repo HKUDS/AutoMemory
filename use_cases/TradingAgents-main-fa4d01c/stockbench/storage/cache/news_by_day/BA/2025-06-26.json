@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "'Bloody terrified': Flying anxiety peaks in India after fatal Air India crash",
+      "description": "Retired Air Force officerDinesh K. has seen a surge in demand for his $500 therapy courseto help people overcome their fear of flying since Air Indiaflight 171 crashed moments after take-off from...",
+      "published_utc": "2025-06-26T06:01:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=83992ec6b1709b38c1d4567a43dfda7588d6af6a21f4b09c9ce9c9230b1fc3ae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531613,
+      "datetime": 1750888871
+    },
+    {
+      "title": "Boeing (BA) Stock Moves -1.02%: What You Should Know",
+      "description": "Boeing (BA) closed at $198.90 in the latest trading session, marking a -1.02% move from the prior day.",
+      "published_utc": "2025-06-26T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=518bae934fc605e58fa3dba2cdbafce99eb5c5aabf41d9312c75ea054d6f884a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135534879,
+      "datetime": 1750887905
+    },
+    {
+      "title": "How to play the defense sector amid growing global conflict",
+      "description": "Defense stocks are holding steady even as global tensions persist. Tony Bancroft, Gabelli Funds Aerospace and Defense ETF portfolio manager, joins Market Domination to explain how long-term instability could keep demand for US weapon systems high. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-26T05:43:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c23b0b0f71848ca3d9d88e3df09f1092ee0c2290b2462102b3d5a0de5b747126",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529390,
+      "datetime": 1750887807
+    },
+    {
+      "title": "Boeing hires former Northrop executive to lead Air Force One program, sources say",
+      "description": "Sullivan, who previously worked on key Northrop programs including the B-21 bomber, replaces Gregg Coffey, who is moving to another role at the U.S. planemaker.  Boeing did not immediately respond to a Reuters request for a comment.  The Air Force One program, which involves converting two 747-8 aircraft into VC-25B jets equipped with advanced communications and defense systems to serve as the next generation of U.S. presidential air transport, has faced chronic delays over the last decade.",
+      "published_utc": "2025-06-26T03:27:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=370278e2e6863c56ce883c9fd0e123a2aa499a7877c213b000d3ed118aff1e77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529897,
+      "datetime": 1750879635
+    }
+  ]
+}

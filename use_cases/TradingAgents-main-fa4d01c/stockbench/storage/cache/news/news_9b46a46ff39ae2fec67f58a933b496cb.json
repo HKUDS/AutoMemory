@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Oscar Health: Building The Operating System Of American Healthcare",
+      "description": "",
+      "published_utc": "2025-06-24T06:25:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5cae4e04fb7a4033e7377b1342d10f3681b64c0c032bfaba66adf766750338b1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486879,
+      "datetime": 1750717522
+    },
+    {
+      "title": "UnitedHealth Group Recommends Shareholders Reject \"Mini-Tender\" Offer by Tutanota",
+      "description": "June 23, 2025--UnitedHealth Group (NYSE: UNH) today announced that it recently became aware of an unsolicited \"mini-tender\" offer by Tutanota LLC (Tutanota) to purchase up to 175,000 shares of UnitedHealth Group’s common stock, representing significantly less than 1% of UnitedHealth Group’s common stock outstanding.",
+      "published_utc": "2025-06-24T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ceee370f05cc6fb96b43b8adfe31a681eb5fb7981458ef831b05d4ebf88337e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492088,
+      "datetime": 1750708800
+    },
+    {
+      "title": "US health chief Kennedy gets pledge from insurers on prior authorization reform",
+      "description": "U.S. health secretaryRobert F. Kennedy Jr. met with major health insurers on Monday,extracting pledges that they will take additional measures tosimplify their requirements for prior approval on...",
+      "published_utc": "2025-06-23T23:34:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0c129bb39b5bb94bd561a1238de22c4520baf525dfd76ec80926426da49b9cd6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135484800,
+      "datetime": 1750692850
+    },
+    {
+      "title": "‘Quality’ Stocks Just Ain’t What They Used to Be",
+      "description": "FEATURE  “Quality” stocks are supposed to perform well in a volatile market. That hasn’t been the case this year.   This year’s market has certainly been volatile. Between President Donald Trump’s tariffs, the debate over the “One Big Beautiful Bill,” and the war between Israel and Iran, it has been a choppy ride for the which has managed a small gain this year despite a 19% drop earlier this year.",
+      "published_utc": "2025-06-23T23:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75a840657f9865c412818c7506b10eee02569d3b6b3ed3cf201bc75ec6d11c4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135487614,
+      "datetime": 1750691340
+    },
+    {
+      "title": "High-Quality Dividend Growth Near 52-Week Lows: Salesforce Is Super",
+      "description": "",
+      "published_utc": "2025-06-23T21:47:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c56e3b533e7fcb88b86aa11c14282ee6155ecda99a7e8098db10b57ceaa38db",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135484400,
+      "datetime": 1750686468
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:39.196718+00:00",
+    "cache_key": "news_9b46a46ff39ae2fec67f58a933b496cb",
+    "count": 5
+  }
+}

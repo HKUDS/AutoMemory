@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "EdgeOne Medical Announces Appointment of Michael Denzer as VP, Client Relations to Further Elevate Product Innovation and Client Partnerships",
+      "description": "WHEELING, Ill., July 21, 2025--EdgeOne Medical, a professional service organization focused on device development service for combination products in the bio-pharmaceutical industry is pleased to announce the appointment of Mr. Michael Denzer as Vice President of Client Relations.",
+      "published_utc": "2025-07-21T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b50b912444b416c14c990d86bc9b3c2b1fd97fca3b2a0ef8d8b31341a2993dbf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025614,
+      "datetime": 1753110000
+    },
+    {
+      "title": "NodThera Announces Appointment of Dr. Jyothis George as Chief Medical Officer",
+      "description": "NodThera Announces Appointment of Dr. Jyothis George as Chief Medical Officer Former Amgen, Novo Nordisk and Boehringer Ingelheim senior leader joins NodThera Leadership TeamWill spearhead clinical advancement of the company’s innovative NLRP3 inflammasome inhibitor portfolioBrings deep clinical leadership in obesity and cardiometabolic diseases, with a proven track record guiding programs from early-stage development through Phase 3 and regulatory approval Philadelphia, PA, July 21, 2025 - NodT",
+      "published_utc": "2025-07-21T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23dca6c0f0a1b6b5ee512e5bd25947fab2360e297b1a80d057d6c5dd5f2c4e4f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136024326,
+      "datetime": 1753095600
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Will Housing & Construction Related Stocks Surge This Summer?",
+      "description": "With summer considered the prime season for construction, investors may be wondering if it's time to buy stocks that offer exposure to the housing market.",
+      "published_utc": "2025-05-21T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dd8bd72c5319d859841d803a478188ef12ea7aaf3cdb30c3abc627fc566b42f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628227,
+      "datetime": 1747783800
+    },
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares red as US Fed's Musalem echoes Dimon",
+      "description": "",
+      "published_utc": "2025-05-21T04:32:54",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=2b5f16599966482f3fd524d1fa0bcc147dd5797fcacd0a280bd8b1c11507bfd1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134619661,
+      "datetime": 1747773174
+    },
+    {
+      "title": "Why Home Depot’s approach to prices and tariffs will ‘likely play better’ to Trump administration",
+      "description": "Why Home Depot’s approach to prices and tariffs will ‘likely play better’ to Trump administration",
+      "published_utc": "2025-05-21T02:23:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=728c8292e95f936a30e2b3317dcbbb3557aca7e8b05feb8423147bde2d4ee08f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134633006,
+      "datetime": 1747765380
+    },
+    {
+      "title": "Consumer Cos Down as Home Depot Vows to Hold Prices Steady - Consumer Roundup",
+      "description": "Consumer companies fell amid fears that retailers would take a hit to earnings because of border duties. Home Depot ticked down after it said it plans to hold prices steady and despite cost...",
+      "published_utc": "2025-05-21T01:43:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4ea79b11597811f677ecbd7b73d2de82a051aa7c8a963304c988193ad6bc8d45",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134620001,
+      "datetime": 1747762998
+    },
+    {
+      "title": "Home Depot : Quarterly Results (hd 1q25 transcript)",
+      "description": "HD - Q1'24 Home Depot Earnings Call EVENT DATE/TIME: May 20, 2025 / 09:00AM ET PRESENTATION Operator Greetings, and...",
+      "published_utc": "2025-05-21T00:15:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1e2ad5aeabb487f065aeaced2d66430128605e23d371f3f6e0b79891e8905010",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134619536,
+      "datetime": 1747757711
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:44.740186+00:00",
+    "cache_key": "news_10d9e9e3198d178027086edf2b5e8489",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple: WWDC 2025 Was A Major Point Of Failure",
+      "description": "Apple seems lost in a rapidly evolving market environment. Read how AAPL stock is struggling with long-term trends and repeated missteps like WWDC 2025.",
+      "published_utc": "2025-06-15T07:29:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8e78814ce25e975e4b8cdbc2f8595a0a143a221bc69002fd1065e5415829ecb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1705316992/image_1705316992.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135274400,
+      "datetime": 1749943768
+    },
+    {
+      "title": "Week in Review: WWDC 2025 recap",
+      "description": "Welcome back to Week in Review! We have lots for you this week, including what came out of WWDC 2025; The Browser Company's AI browser; OpenAI's partnership with Mattel; and your iPad might finally be a true work machine.",
+      "published_utc": "2025-06-15T01:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fd9f4035d433868f2a6ea0abc9863c0b66a45cb0e5fff7dcd4b23fbbf88c52a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135273845,
+      "datetime": 1749920880
+    },
+    {
+      "title": "The App Store’s new AI-generated tags are live in the beta",
+      "description": "Apple’s plans to improve App Store discoverability using AI tagging techniques are now available in the developer beta build of iOS 26. However, the tags do not appear on the public App Store as of yet, nor are they informing the App Store Search algorithm on the public store. Of course, with any upcoming App […]",
+      "published_utc": "2025-06-15T00:01:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6c29901cdc2ce35fbe08c2875fd003b6794681b53f2feb1773d81b454aebf6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135273846,
+      "datetime": 1749916909
+    },
+    {
+      "title": "JUST: ESG ETF Doing The Job, But Not The Best",
+      "description": "JUST offers ESG-focused exposure to Russell 1000 stocks with solid fundamentals but trails peers in impact, fees, and volume. Find out why JUST ETF is a hold.",
+      "published_utc": "2025-06-14T19:52:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4675da96ec78d4e7506d48cc041c9c739d55b5bb618f338e731cc767a0f41f38",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154241541/image_2154241541.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272014,
+      "datetime": 1749901948
+    },
+    {
+      "title": "Generational Buying Opportunity: Dividend Growth Machines For The AI Boom",
+      "description": "The AI boom may define the next decade, but most stocks are already priced for perfection. Learn why a few overlooked plays still offer a rare buying opportunity.",
+      "published_utc": "2025-06-14T18:29:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=521f4f5dc4cc136a8e0fefd6c2f1e6695b97c48e0f148acd918780a37b14a8e3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1761645896/image_1761645896.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271703,
+      "datetime": 1749896968
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:57.938126+00:00",
+    "cache_key": "news_929503a0da79d358c0924b78ed146acf",
+    "count": 5
+  }
+}

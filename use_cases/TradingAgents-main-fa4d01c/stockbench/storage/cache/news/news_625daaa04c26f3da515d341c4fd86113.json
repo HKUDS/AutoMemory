@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Analyst Reports for Procter & Gamble, Novo Nordisk & PepsiCo",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including The Procter & Gamble Company (PG), Novo Nordisk A/S (NVO) and PepsiCo, Inc. (PEP), as well as two micro-cap stocks Genie Energy Ltd. (GNE) and Canterbury Park Holding Corporation (CPHC).",
+      "published_utc": "2025-04-10T04:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97e165415ac8d55699860aefff04e2d06bd459a2fb76da0fbc209209651d5401",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841332,
+      "datetime": 1744231860
+    },
+    {
+      "title": "Procter & Gamble (NYSE:PG) Announces Increased Dividends for Common and Preferred Shares",
+      "description": "Procter & Gamble (NYSE:PG) recently announced an increase in its quarterly dividends for both common and preferred stocks to $1.0568 per share, indicating a focus on shareholder returns. Despite this positive move, the company's share price declined by 2.29% over the last quarter. During this period, the broader market saw significant volatility primarily due to tariff uncertainties, with major indices like the S&P 500 experiencing a 12% drop. The company's dividend enhancements might have...",
+      "published_utc": "2025-04-10T01:57:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c900ee9a519a9f63570a0f9c91cdeb33ed47c1201680de0538240907bb1e2f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841333,
+      "datetime": 1744221454
+    },
+    {
+      "title": "Procter & Gamble Co. stock rises Wednesday, still underperforms market",
+      "description": "Procter & Gamble Co. stock rises Wednesday, still underperforms market",
+      "published_utc": "2025-04-10T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b18b013330ad2fb2d7c7dfa090a08714711d12c7d6454e4e67009863487f01af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133845211,
+      "datetime": 1744216260
+    },
+    {
+      "title": "Febreze Reveals Vanilla Suede as its 2025 Scent of the Year",
+      "description": "CINCINNATI, April 09, 2025--Trade FOMO for JOMO with Febreze's fourth annual Scent of the Year, Vanilla Suede. Embrace the joy of missing out and the comfort of your own home with an enchanting scent experience that creates a sanctuary for homebodies and hostesses alike. From Febreze’s new Blends Collection, Vanilla Suede instantly transforms any night at home into a luxurious staycation.",
+      "published_utc": "2025-04-09T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbb262c784ab810e7e7e2abd9da5ad58f2352c93bf839041b3725dfa11167275",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828268,
+      "datetime": 1744207200
+    },
+    {
+      "title": "Procter & Gamble: quarterly dividend up 5%",
+      "description": "Procter & Gamble has announced that its Board of Directors has approved a 5% increase in its quarterly dividend to $1.0568 per share, to be paid from 15 May.The consumer staples group has paid a...",
+      "published_utc": "2025-04-09T12:52:22",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=53137ceb11e8388fe6ae72b198ca083166562b75d422c13d30ff7db56dbe1b63",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133826114,
+      "datetime": 1744174342
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:09.690788+00:00",
+    "cache_key": "news_625daaa04c26f3da515d341c4fd86113",
+    "count": 5
+  }
+}

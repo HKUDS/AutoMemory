@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "title": "U.S. Banks Hoard Cash Amid Slow Loan Growth In Q1",
+      "description": "Bigger US bank balance sheets did not translate to strong loan growth in the first quarter as the industry took a cautious approach to deploying fresh assets.",
+      "published_utc": "2025-05-17T10:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=38e6de3bf847b74508e1cd121469c2816d13a0057b2e4edd80bb7470d238da73",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972371962/image_1972371962.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134530943,
+      "datetime": 1747447200
+    },
+    {
+      "id": "e76fe309d38c6345535d88a1d2d1ed7b545aaab8c954698c8e0d4065163d7ff5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire CEO Jamie Dimon Says a Recession Isn't \"Off the Table at This Point,\" Despite Lowering Tariffs. 5 Ways to Help Protect Your Stock Portfolio in Any Market Environment.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-05-17T08:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/17/jamie-dimon-says-recession-risk-remains/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "AMZN",
+        "KO",
+        "JNJ",
+        "VOO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818605/gettyimages-157523998-1201x751-3a47f9e.jpg",
+      "description": "Despite the recent U.S.-China trade deal, JPMorgan Chase CEO Jamie Dimon remains cautious about the economy, warning that a recession is still possible. The article provides five strategies to help protect your stock portfolio in any market environment.",
+      "keywords": [
+        "recession",
+        "stock portfolio",
+        "diversification",
+        "dividend stocks",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites JPMorgan Chase CEO Jamie Dimon's cautious outlook on the economy, noting that he believes a recession is still a possibility despite the recent trade deal."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Amazon as an example of a well-established company that has proven its ability to handle challenges and adapt its strategies, making it a good candidate for investment during uncertain times."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Coca-Cola as one of the Dividend Kings, companies that have increased their dividend payments for at least the past 50 years, suggesting they are reliable dividend stocks."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also lists Johnson & Johnson as one of the Dividend Kings, indicating it is a reliable dividend-paying company."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in an ETF that tracks one of the major market indexes, such as the Vanguard S&P 500 ETF, as a way to benefit from the long-term growth of the stock market as a whole."
+        }
+      ]
+    }
+  ]
+}

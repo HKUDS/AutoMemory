@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Columbia Convertible Securities Fund Q4 2024 Commentary",
+      "description": "Columbia Convertible Securities Fund Institutional Class shares returned 2.38% for Q4 2024. Click here to read the full commentary.",
+      "published_utc": "2025-02-24T06:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=17ead8b579ea7c631566e0540eee95961a35ad756a9cbd7427c88be5095c8a73",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186061669/image_1186061669.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132860438,
+      "datetime": 1740349200
+    },
+    {
+      "title": "The Boeing Company (BA): Among the Best Performing Dow Stocks So Far in 2025",
+      "description": "We recently published a list of 11 Best Performing Dow Stocks So Far in 2025. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other best performing Dow stocks so far in 2025. The Dow is a renowned and significant stock market index that measures the […]",
+      "published_utc": "2025-02-24T04:00:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae09419e6aec8238ce13ac160bbeceaf15b0023f3e1f631c506e7e8a96631604",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YokX_821.osEk1gcRWLGng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1637b9a8f8fe729120f4cef176533fc9",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878305,
+      "datetime": 1740340837
+    }
+  ]
+}

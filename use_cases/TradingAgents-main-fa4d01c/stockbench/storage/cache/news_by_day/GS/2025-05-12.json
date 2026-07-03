@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow surges nearly 1050 points on gains in shares of Amazon.com Inc., Nike",
+      "description": "Dow surges nearly 1050 points on gains in shares of Amazon.com Inc., Nike",
+      "published_utc": "2025-05-12T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f09970122a8cb041ae91430f26960272ae2e230f8ef5a9fd0f8bfaaf542f9dc9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134382416,
+      "datetime": 1747043100
+    },
+    {
+      "title": "CATL Begins Taking Orders for World’s Top Listing in 2025",
+      "description": "(Bloomberg) -- Contemporary Amperex Technology Co. Ltd. has started taking investor orders for a Hong Kong stock offering that is likely to be the world’s biggest listing this year. Most Read from BloombergA New Central Park Amenity, Tailored to Its East Harlem NeighborsAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsWhat’s Behind the Rise in Serious Injuries on New York City’s Streets?Is Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?NYC Warns of 17% Drop in For",
+      "published_utc": "2025-05-12T17:14:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17567699802638c1fa6feb6c39ac1bfca9c48845dcb3faf9111fe1103c6a3cc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379218,
+      "datetime": 1747041282
+    },
+    {
+      "title": "Gold takes a dive as US-China trade deal dents safe-haven appeal",
+      "description": "Meanwhile, oil jumped by almost 3% as Washington and Beijing agreed to slash tariffs on each other.",
+      "published_utc": "2025-05-12T16:34:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e731d505c3e00b1361d68e838c6c846dce0e1b57ad1b406987b47201d5ab08ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379357,
+      "datetime": 1747038896
+    }
+  ]
+}

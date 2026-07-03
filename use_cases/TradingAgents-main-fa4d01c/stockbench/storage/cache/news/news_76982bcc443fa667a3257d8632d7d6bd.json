@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 5 worst-performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "The Dow's biggest losers include companies in the aerospace, biopharma, and sports apparel sectors.",
+      "published_utc": "2025-01-01T20:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7f3a696e0e56a3cd01b865ec5627e3b730f312cc93b2897bf9e4b8f3312dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226604,
+      "datetime": 1735732980
+    },
+    {
+      "title": "Amgen (AMGN) Advances While Market Declines: Some Information for Investors",
+      "description": "Amgen (AMGN) closed at $260.64 in the latest trading session, marking a +0.52% move from the prior day.",
+      "published_utc": "2025-01-01T06:50:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=849a4fd3f9782f0f5f294c6764beacb06d3a08d56bfd6a608228e169366bfe2c",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132222137,
+      "datetime": 1735685418
+    },
+    {
+      "title": "GLP-1 questions emerge for 2025",
+      "description": "The 2025 outlook for GLP-1s isn't as bullish as it once was, but all hope is not lost.",
+      "published_utc": "2025-01-01T05:48:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10d16fd7419a29a826adae343cff42b8cce630ca6029cd6b54f4057e9d8f8745",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/o.xKVkL_2cKm_990lun34w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/2d578f90-9d7d-11ee-bd6d-e9421ec244af",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132221988,
+      "datetime": 1735681738
+    },
+    {
+      "title": "Akero Therapeutics: Where This Potential MASH Play Stands Currently",
+      "description": "Discover the latest on Akero Therapeutics, Inc., a biotech firm focusing on metabolic balance therapies, with a market cap of $2 billion. Click for my AKRO update.",
+      "published_utc": "2024-12-31T20:49:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=59f1490761432441566bcb1c76e1b8ca8e84060130f68c53918f19c2e06d32c5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/184964962/image_184964962.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132216255,
+      "datetime": 1735649392
+    },
+    {
+      "title": "This Biotech Is One of the S&P 500’s Worst Performers. It Looks Too Cheap.",
+      "description": "This Biotech Is One of the S&P 500’s Worst Performers. It Looks Too Cheap.",
+      "published_utc": "2024-12-31T08:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=372459c0450a0a8c44bad940edc33a0deb4f95ee859cf2bb4a3316f84f8972be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132324426,
+      "datetime": 1735603260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:16:37.872821+00:00",
+    "cache_key": "news_76982bcc443fa667a3257d8632d7d6bd",
+    "count": 5
+  }
+}

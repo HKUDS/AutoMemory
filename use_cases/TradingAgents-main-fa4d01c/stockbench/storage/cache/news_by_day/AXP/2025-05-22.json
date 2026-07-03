@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "American Express Company (AXP): A Bull Case Theory",
+      "description": "We came across a bullish thesis on American Express Company (AXP) on Substack by Max Dividends and Serhio MaxDividends. In this article, we will summarize the bulls’ thesis on AXP. American Express Company (AXP)’s share was trading at $296.17 as of May 20th. AXP’s trailing and forward P/E were 20.68 and 19.57 respectively according to Yahoo Finance. […]",
+      "published_utc": "2025-05-22T01:04:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ed1f5a219f3682dfdb1cc063544e4460aedf6b638162baa3ed256e192145759",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628434,
+      "datetime": 1747847059
+    }
+  ]
+}

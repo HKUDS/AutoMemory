@@ -1,0 +1,1464 @@
+{
+  "_meta": {
+    "usage": "explanation fields",
+    "field_descriptions": {
+      "step_status": "ready | critic_finished | improver_finished | completed",
+      "runner_path": "Single reusable runner used across phases. Do not fork per-phase runners.",
+      "memory_paths": "Path composition decided by Phase 0 Critic. Maps path name to {components, eval_mode, policy}. policy is \"on-policy\" | \"off-policy\" (see refine-protocol). Immutable after Phase 0.",
+      "graduated_paths": "Paths that survived two escalations at >=0.9 in one phase. Append-only. Excluded from further escalation.",
+      "trace_registry": "Append-only registry of all traces in the suite.",
+      "trace_registry[].memory_path": "Primary memory path tested by this trace, from memory_paths or 'e2e'.",
+      "trace_registry[].focus": "Short description of the main thing this trace is testing.",
+      "phase_history[].improvement": "Summary of Improver's work, this field appears after phase 0.",
+      "phase_history[].scores": "Per-trace scores recorded for the traces rerun in this phase. Fields: trace_id, support_coverage, query_success (for qa), hit_rate (for hit_rate).",
+      "phase_history[].weakness": "Short and Concise Critic findings for this phase."
+    }
+  },
+  "refine_state": {
+    "current_phase": 7,
+    "max_phases": 7,
+    "step_status": "critic_finished",
+    "runner_path": "worktraces/refine_runner.ts",
+    "memory_paths": {
+      "fact_lifecycle": {
+        "components": [
+          "facts",
+          "fact status"
+        ],
+        "eval_mode": "qa",
+        "policy": "off-policy"
+      },
+      "observations_store": {
+        "components": [
+          "observations"
+        ],
+        "eval_mode": "hit_rate",
+        "policy": "off-policy"
+      },
+      "handoff_state": {
+        "components": [
+          "handoff"
+        ],
+        "eval_mode": "qa",
+        "policy": "off-policy"
+      },
+      "tool_operational_memory": {
+        "components": [
+          "tool statistics"
+        ],
+        "eval_mode": "qa",
+        "policy": "off-policy"
+      },
+      "session_trajectory_archive": {
+        "components": [
+          "session cards / trajectory archive"
+        ],
+        "eval_mode": "hit_rate",
+        "policy": "off-policy"
+      }
+    },
+    "graduated_paths": [],
+    "stop_decision": {
+      "by": "critic",
+      "decision": "stop"
+    },
+    "trace_registry": [
+      {
+        "trace_id": "trace_id_fact_lifecycle_forget_correction",
+        "memory_path": "fact_lifecycle",
+        "focus": "Correction and natural forget should not leave stale facts active",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+        "memory_path": "fact_lifecycle",
+        "focus": "Escalated paraphrased runtime forget should remove corrected facts without hard-coded subjects",
+        "created_in_phase": 3
+      },
+      {
+        "trace_id": "trace_id_fact_lifecycle_paraphrased_size_forget",
+        "memory_path": "fact_lifecycle",
+        "focus": "Escalated paraphrased asset-size forget should remove corrected bundle budget facts without topic-specific expansions",
+        "created_in_phase": 4
+      },
+      {
+        "trace_id": "trace_id_observations_store_basic_dedupe",
+        "memory_path": "observations_store",
+        "focus": "Observation persistence and exact evidence-hash dedupe",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_observations_store_near_duplicate",
+        "memory_path": "observations_store",
+        "focus": "Escalated near-duplicate observation suppression",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+        "memory_path": "observations_store",
+        "focus": "Escalated shared command/tool observations should preserve distinct lessons",
+        "created_in_phase": 1
+      },
+      {
+        "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+        "memory_path": "observations_store",
+        "focus": "Escalated similar timeout observations should preserve distinct remediation steps",
+        "created_in_phase": 2
+      },
+      {
+        "trace_id": "trace_id_handoff_state_replacement",
+        "memory_path": "handoff_state",
+        "focus": "Replacement semantics for active task handoff",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_handoff_state_long_context_next_steps",
+        "memory_path": "handoff_state",
+        "focus": "Escalated long handoff should preserve actionable next steps",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+        "memory_path": "handoff_state",
+        "focus": "Escalated tight handoff budget should preserve action items and files",
+        "created_in_phase": 1
+      },
+      {
+        "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+        "memory_path": "handoff_state",
+        "focus": "Escalated verbose first action item should not starve later actions",
+        "created_in_phase": 2
+      },
+      {
+        "trace_id": "trace_id_handoff_state_many_short_steps_budget",
+        "memory_path": "handoff_state",
+        "focus": "Escalated many short handoff next steps should not starve blockers, decisions, files, or in-progress state",
+        "created_in_phase": 4
+      },
+      {
+        "trace_id": "trace_id_tool_operational_error_signatures",
+        "memory_path": "tool_operational_memory",
+        "focus": "Repeated tool failures should expose exact error signatures",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_tool_operational_recovery_decay",
+        "memory_path": "tool_operational_memory",
+        "focus": "Escalated recovered tool should not retain stale high-failure warning",
+        "created_in_phase": 1
+      },
+      {
+        "trace_id": "trace_id_tool_operational_common_error_signatures",
+        "memory_path": "tool_operational_memory",
+        "focus": "Escalated tool lessons should retain repeated common error signatures",
+        "created_in_phase": 2
+      },
+      {
+        "trace_id": "trace_id_tool_operational_budget_common_errors",
+        "memory_path": "tool_operational_memory",
+        "focus": "Escalated compact tool lessons should preserve common errors despite long latest errors",
+        "created_in_phase": 3
+      },
+      {
+        "trace_id": "trace_id_tool_operational_multi_tool_budget",
+        "memory_path": "tool_operational_memory",
+        "focus": "Escalated compact tool lessons should preserve multiple available tools under shared budget",
+        "created_in_phase": 4
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_basic",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Session cards persist compact prior-session context",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated same-session updates should not leave obsolete cards active",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory persistence should serialize, redact, and replace session cards",
+        "created_in_phase": 1
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory persistence should redact title-derived card fields",
+        "created_in_phase": 3
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_long_first_part",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory persistence should preserve later outcomes after oversized earlier text parts",
+        "created_in_phase": 4
+      },
+      {
+        "trace_id": "trace_id_e2e_composed_recall_context",
+        "memory_path": "e2e",
+        "focus": "Composed recall across facts, handoff, tool lessons, observations, and sessions",
+        "created_in_phase": 0
+      },
+      {
+        "trace_id": "trace_id_fact_lifecycle_paraphrased_kill_switch_forget",
+        "memory_path": "fact_lifecycle",
+        "focus": "Escalated paraphrased beta rollout kill-switch forget should deactivate corrected facts",
+        "created_in_phase": 5
+      },
+      {
+        "trace_id": "trace_id_observations_store_reordered_command_duplicate",
+        "memory_path": "observations_store",
+        "focus": "Escalated equivalent reordered commands should dedupe semantically duplicate observations",
+        "created_in_phase": 5
+      },
+      {
+        "trace_id": "trace_id_handoff_state_many_critical_steps",
+        "memory_path": "handoff_state",
+        "focus": "Escalated compact handoff should preserve multiple critical next steps",
+        "created_in_phase": 5
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_oversized_final_message",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory persistence should preserve oversized final assistant outcomes",
+        "created_in_phase": 5
+      },
+      {
+        "trace_id": "trace_id_fact_lifecycle_paraphrased_webhook_retry_forget",
+        "memory_path": "fact_lifecycle",
+        "focus": "Escalated paraphrased webhook retry SLA forget should deactivate corrected facts",
+        "created_in_phase": 6
+      },
+      {
+        "trace_id": "trace_id_observations_store_shared_env_distinct_fix",
+        "memory_path": "observations_store",
+        "focus": "Escalated shared env-token observations should preserve distinct remediations",
+        "created_in_phase": 6
+      },
+      {
+        "trace_id": "trace_id_handoff_state_sub600_multiple_steps",
+        "memory_path": "handoff_state",
+        "focus": "Escalated sub-600 compact handoff should preserve multiple critical steps",
+        "created_in_phase": 6
+      },
+      {
+        "trace_id": "trace_id_tool_operational_long_common_error_suffixes",
+        "memory_path": "tool_operational_memory",
+        "focus": "Escalated tool lessons should preserve long common-error distinguishing suffixes",
+        "created_in_phase": 6
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_tail_outcome",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory archive should preserve tail outcomes in oversized final messages",
+        "created_in_phase": 6
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_deep_tail_outcome",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory archive should preserve deep-tail outcomes in oversized final messages",
+        "created_in_phase": 6
+      },
+      {
+        "trace_id": "trace_id_fact_lifecycle_paraphrased_export_retention_forget",
+        "memory_path": "fact_lifecycle",
+        "focus": "Escalated paraphrased customer export retention forget should deactivate corrected facts",
+        "created_in_phase": 7
+      },
+      {
+        "trace_id": "trace_id_observations_store_paraphrased_duplicate_no_code",
+        "memory_path": "observations_store",
+        "focus": "Escalated paraphrased duplicate observations without code-like shared tokens should dedupe",
+        "created_in_phase": 7
+      },
+      {
+        "trace_id": "trace_id_handoff_state_mid_budget_six_steps",
+        "memory_path": "handoff_state",
+        "focus": "Escalated mid-budget compact handoff should preserve more than four critical steps",
+        "created_in_phase": 7
+      },
+      {
+        "trace_id": "trace_id_tool_operational_four_common_errors_budget",
+        "memory_path": "tool_operational_memory",
+        "focus": "Escalated tool lessons should retain four repeated common error signatures under roomy single-tool budget",
+        "created_in_phase": 7
+      },
+      {
+        "trace_id": "trace_id_session_trajectory_archive_mid_message_outcome",
+        "memory_path": "session_trajectory_archive",
+        "focus": "Escalated production trajectory archive should preserve important middle outcomes in oversized final messages",
+        "created_in_phase": 7
+      }
+    ],
+    "phase_history": [
+      {
+        "phase": 0,
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 0.4,
+            "query_success": 0.4
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 0.8571428571428571,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 0.875,
+            "query_success": 0.8
+          }
+        ],
+        "new_traces": [
+          "trace_id_fact_lifecycle_forget_correction",
+          "trace_id_observations_store_basic_dedupe",
+          "trace_id_observations_store_near_duplicate",
+          "trace_id_handoff_state_replacement",
+          "trace_id_handoff_state_long_context_next_steps",
+          "trace_id_tool_operational_error_signatures",
+          "trace_id_session_trajectory_archive_basic",
+          "trace_id_session_trajectory_archive_update_semantics",
+          "trace_id_e2e_composed_recall_context"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Explicit correction/forget handling leaves stale fact rows active because correction is appended as another active fact and natural forget text only does brittle substring matching."
+          },
+          {
+            "severity": "medium",
+            "type": "observations_store",
+            "description": "Observation deduplication only checks exact evidenceHash, so near-duplicate reusable failures with the same command/error but different hashes are both recalled."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Long handoff formatting truncates from the front and can drop later actionable nextSteps and files, even though those fields are critical for resuming work."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Tool lessons expose counters and a generic warning but omit the stored lastErrorSample/common failure signature needed to avoid repeating the exact failure."
+          },
+          {
+            "severity": "medium",
+            "type": "session_trajectory_archive",
+            "description": "Session cards append repeated records for the same sessionID without replacing or selecting the latest summary, leaving superseded outcomes visible."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 1,
+        "improvement": [
+          "Improved fact lifecycle matching and correction superseding so stale corrected facts are deactivated and forget requests can match normalized fact subjects.",
+          "Added near-duplicate observation suppression using reusable command/tool/error signatures in addition to exact evidence hashes.",
+          "Prioritized handoff next steps and files under truncation so resumable actions survive verbose context.",
+          "Included exact last error samples in tool lessons and replaced same-session archive cards with the latest card."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 0.0,
+            "query_success": 0.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 0.875,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "new_traces": [
+          "trace_id_observations_store_same_command_distinct_lessons",
+          "trace_id_handoff_state_tight_budget_action_items",
+          "trace_id_tool_operational_recovery_decay",
+          "trace_id_session_trajectory_archive_persist_retrieval"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget still leaves a corrected/superseding dashboard TypeScript fact active when the user asks to forget the broader requirement."
+          },
+          {
+            "severity": "medium",
+            "type": "observations_store",
+            "description": "Observation near-duplicate suppression collapses distinct lessons that share the same type, command, tool, and file tuple, losing a separate rollback procedure."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Tight handoff formatting spends the budget on a verbose goal and truncates actionable next steps, blockers, and files that are more important for resumption."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Tool lessons retain a stale 'failed often' warning after later successes reduce the failure ratio below the warning threshold."
+          },
+          {
+            "severity": "high",
+            "type": "session_trajectory_archive",
+            "description": "Production session trajectory persistence does not redact an OpenRouter API key-shaped value from stored outcome, l1, commands, and concepts fields."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 2,
+        "improvement": [
+          "Re-tested the current memory source after the previous phase's memory-code fixes and escalated every active path that initially had no remaining weakness."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+            "support_coverage": 0.4,
+            "query_success": 0.4
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_common_error_signatures",
+            "support_coverage": 0.8571428571428571,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "new_traces": [
+          "trace_id_observations_store_similar_distinct_remediations",
+          "trace_id_handoff_state_verbose_first_next_step",
+          "trace_id_tool_operational_common_error_signatures"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget still leaves the corrected dashboard TypeScript fact active when the forget request names the broader requirement with normal punctuation."
+          },
+          {
+            "severity": "medium",
+            "type": "observations_store",
+            "description": "Near-duplicate suppression drops a distinct remediation when two observations share the same command, tool, file, and error fingerprint but differ in the actionable fix."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Handoff formatting can spend a tight budget on one verbose next step, truncating later blockers, files, and decisions that are needed to resume work."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Tool lessons retain only the last error sample, so a repeated earlier common failure signature is lost after a later different error."
+          },
+          {
+            "severity": "high",
+            "type": "session_trajectory_archive",
+            "description": "Production session trajectory persistence still stores an OpenRouter API key-shaped value in archived card fields instead of fully redacting it."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 3,
+        "improvement": [
+          "Re-tested current memory source, escalated every active path that initially had no remaining weakness, and kept graduated_paths unchanged because every escalated path exposed a source-level failure."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_common_error_signatures",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_budget_common_errors",
+            "support_coverage": 0.7142857142857143,
+            "query_success": 0.6
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "new_traces": [
+          "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+          "trace_id_tool_operational_budget_common_errors",
+          "trace_id_session_trajectory_archive_title_redaction"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget handling still relies on brittle substring or hard-coded fuzzy expansions, so a paraphrased request to forget a Lambda runtime requirement leaves the corrected Node 22.13 fact active."
+          },
+          {
+            "severity": "high",
+            "type": "observations_store",
+            "description": "Observation near-duplicate handling is poorly calibrated: it keeps semantically duplicate EACCES failures when wording overlap is below threshold, yet suppresses distinct remediation steps when command/tool/file/error metadata match."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Handoff formatting still drops later decision context under tight budgets because verbose next steps and file text consume the budget before decisions such as the required staging-east canary."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Compact tool lessons put the latest long error sample before common errors and the failure guideline, so repeated high-value signatures and warnings are truncated out under realistic small budgets."
+          },
+          {
+            "severity": "high",
+            "type": "session_trajectory_archive",
+            "description": "Production session trajectory persistence redacts message-derived text but stores secret-like values from the session title in title, goal, l0, and concepts fields."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 4,
+        "improvement": [
+          "Generalized normalized fact tokens by stripping punctuation, adding runtime/node synonyms, and supporting Lambda runtime forget phrases; smoke-tested paraphrased runtime forget removal.",
+          "Adjusted observation duplicate handling to suppress equivalent EACCES opencode-cache repairs while preserving similar failures with distinct remediations.",
+          "Sorted handoff next steps shortest-first, bounded item lengths, and moved decisions ahead of lower-priority context so tight budgets retain canary decisions and concise actions.",
+          "Reordered compact tool lessons to show common errors and warning before bounded lastError, and redacted session titles before archive card title/goal/l0/concept generation."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_size_forget",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_short_steps_budget",
+            "support_coverage": 0.4,
+            "query_success": 0.4
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_common_error_signatures",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_budget_common_errors",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          },
+          {
+            "trace_id": "trace_id_tool_operational_multi_tool_budget",
+            "support_coverage": 0.6666666666666666,
+            "query_success": 0.6
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+            "hit_rate": 1.0
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_long_first_part",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1.0,
+            "query_success": 1.0
+          }
+        ],
+        "new_traces": [
+          "trace_id_fact_lifecycle_paraphrased_size_forget",
+          "trace_id_handoff_state_many_short_steps_budget",
+          "trace_id_tool_operational_multi_tool_budget",
+          "trace_id_session_trajectory_archive_long_first_part"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget handling still depends on substring matching and topic-specific fuzzy expansions, so a paraphrased request to forget the mobile checkout asset size limit leaves the corrected 160 KB bundle budget fact active."
+          },
+          {
+            "severity": "high",
+            "type": "observations_store",
+            "description": "Observation near-duplicate handling is still poorly calibrated: it suppresses a distinct cache-clear remediation when another timeout observation has the same command/tool/file/error metadata."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Handoff formatting can let many short next steps consume the tight budget before files, blockers, and in-progress state, dropping critical resume context such as the reconciliation source file and finance blocker."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Compact tool lessons use a shared ordered text budget, so a verbose shell lesson can truncate a second available tool's repeated apply_patch failure signature and counters."
+          },
+          {
+            "severity": "medium",
+            "type": "session_trajectory_archive",
+            "description": "Production trajectory cards slice outcome/l1 from the start of serialized transcript text, so a noisy early user part can crowd out the later assistant outcome that explains how the session ended."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 5,
+        "improvement": [
+          "Extended normalized fact matching for asset/bundle size limit forget requests and preserved distinct timeout remediations while keeping known equivalent EACCES cache repairs deduped.",
+          "Added a compact handoff formatter for tight budgets that prioritizes one actionable next step plus decision, file, blocker, and in-progress context.",
+          "Allocated compact tool-lesson budget per available tool and moved failed-often warnings ahead of bounded common-error samples so multiple tools remain visible.",
+          "Changed trajectory serialization to tail-preserve useful final outcomes under noisy long transcripts while retaining redaction and same-session replacement."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_size_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_short_steps_budget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_common_error_signatures",
+            "support_coverage": 0.8571428571428571,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_tool_operational_budget_common_errors",
+            "support_coverage": 0.8571428571428571,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_tool_operational_multi_tool_budget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_long_first_part",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_kill_switch_forget",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_reordered_command_duplicate",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_critical_steps",
+            "support_coverage": 0.5,
+            "query_success": 0.4
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_oversized_final_message",
+            "hit_rate": 0.8
+          }
+        ],
+        "new_traces": [
+          "trace_id_fact_lifecycle_paraphrased_kill_switch_forget",
+          "trace_id_observations_store_reordered_command_duplicate",
+          "trace_id_handoff_state_many_critical_steps",
+          "trace_id_session_trajectory_archive_oversized_final_message"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget handling still depends on substring matching and topic-specific fuzzy expansions, so a paraphrased request to forget a beta rollout flag kill switch leaves the corrected remote kill-switch fact active."
+          },
+          {
+            "severity": "high",
+            "type": "observations_store",
+            "description": "Observation near-duplicate handling requires exact normalized command strings, so semantically duplicate lessons with equivalent reordered command arguments are stored twice instead of deduped."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Compact handoff formatting emits only one next step when many short steps exist, dropping additional critical resume actions such as mapper patching, audit snapshot regeneration, and worker restart even when budget remains."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Tool lesson formatting truncates common error samples to fixed short snippets before applying the available output budget, so repeated high-value failure signatures lose distinguishing words even when there is enough room."
+          },
+          {
+            "severity": "medium",
+            "type": "session_trajectory_archive",
+            "description": "Production trajectory serialization skips an oversized final assistant text part entirely instead of taking a bounded excerpt, so the archived outcome can omit the final validation result that explains how the session ended."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 6,
+        "improvement": [
+          "Added beta rollout kill-switch paraphrase expansion for corrected fact forgets.",
+          "Normalized command argument order and code-like remediation tokens for observation duplicate detection, so reordered equivalent commands dedupe while distinct remediations remain.",
+          "Made compact handoff next-step count adaptive to available budget so larger compact budgets preserve multiple critical resume actions plus file/blocker context.",
+          "Expanded common-error sample budgets and preserved bounded prefixes of oversized final archive messages so validation results and final outcomes remain indexed."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_size_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_short_steps_budget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_common_error_signatures",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_budget_common_errors",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_multi_tool_budget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_long_first_part",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_kill_switch_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_reordered_command_duplicate",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_critical_steps",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_oversized_final_message",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_webhook_retry_forget",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_shared_env_distinct_fix",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_sub600_multiple_steps",
+            "support_coverage": 0.5,
+            "query_success": 0.4
+          },
+          {
+            "trace_id": "trace_id_tool_operational_long_common_error_suffixes",
+            "support_coverage": 0.5,
+            "query_success": 0.4
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_tail_outcome",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_deep_tail_outcome",
+            "hit_rate": 0.6
+          }
+        ],
+        "new_traces": [
+          "trace_id_fact_lifecycle_paraphrased_webhook_retry_forget",
+          "trace_id_observations_store_shared_env_distinct_fix",
+          "trace_id_handoff_state_sub600_multiple_steps",
+          "trace_id_tool_operational_long_common_error_suffixes",
+          "trace_id_session_trajectory_archive_tail_outcome",
+          "trace_id_session_trajectory_archive_deep_tail_outcome"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget handling still relies on brittle substring matching and topic-specific fuzzy expansions, so a paraphrased request to forget the webhook retry SLA leaves the corrected 72-hour webhook retry fact active."
+          },
+          {
+            "severity": "high",
+            "type": "observations_store",
+            "description": "Observation near-duplicate suppression treats any shared code-like token as duplicate when command/tool/file/error metadata match, so it drops a distinct PARTNER_CA_BUNDLE remediation that merely shares PAYMENT_GATEWAY_URL= with another timeout lesson."
+          },
+          {
+            "severity": "high",
+            "type": "handoff_state",
+            "description": "Sub-600 compact handoff formatting emits only the first next step when many short steps exist, dropping additional critical resume actions such as mapper patching, fixture regeneration, and worker restart even while file/blocker context remains."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Tool lesson formatting truncates repeated common error samples before their distinguishing remediation suffixes, so high-value markers are lost even with a 900-character single-tool output budget."
+          },
+          {
+            "severity": "medium",
+            "type": "session_trajectory_archive",
+            "description": "Production trajectory serialization preserves only the prefix of an oversized final assistant text part, so deep-tail final outcomes, validation commands, and changed documentation paths can be omitted from the archived session card."
+          }
+        ],
+        "decision": "continue"
+      },
+      {
+        "phase": 7,
+        "improvement": [
+          "Re-tested current memory source after the phase 7 Improver changes, escalated every active path independently after initial perfect scores, and found source-level failures in each escalated path."
+        ],
+        "scores": [
+          {
+            "trace_id": "trace_id_fact_lifecycle_forget_correction",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_runtime_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_size_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_basic_dedupe",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_near_duplicate",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_same_command_distinct_lessons",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_similar_distinct_remediations",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_replacement",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_long_context_next_steps",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_tight_budget_action_items",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_short_steps_budget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_error_signatures",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_recovery_decay",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_common_error_signatures",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_budget_common_errors",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_multi_tool_budget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_basic",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_update_semantics",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_persist_retrieval",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_title_redaction",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_long_first_part",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_e2e_composed_recall_context",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_kill_switch_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_reordered_command_duplicate",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_many_critical_steps",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_oversized_final_message",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_webhook_retry_forget",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_observations_store_shared_env_distinct_fix",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_handoff_state_sub600_multiple_steps",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_tool_operational_long_common_error_suffixes",
+            "support_coverage": 1,
+            "query_success": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_tail_outcome",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_deep_tail_outcome",
+            "hit_rate": 1
+          },
+          {
+            "trace_id": "trace_id_fact_lifecycle_paraphrased_export_retention_forget",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_observations_store_paraphrased_duplicate_no_code",
+            "hit_rate": 0.8
+          },
+          {
+            "trace_id": "trace_id_handoff_state_mid_budget_six_steps",
+            "support_coverage": 0.8,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_tool_operational_four_common_errors_budget",
+            "support_coverage": 0.8333333333333334,
+            "query_success": 0.8
+          },
+          {
+            "trace_id": "trace_id_session_trajectory_archive_mid_message_outcome",
+            "hit_rate": 0.8
+          }
+        ],
+        "new_traces": [
+          "trace_id_fact_lifecycle_paraphrased_export_retention_forget",
+          "trace_id_observations_store_paraphrased_duplicate_no_code",
+          "trace_id_handoff_state_mid_budget_six_steps",
+          "trace_id_tool_operational_four_common_errors_budget",
+          "trace_id_session_trajectory_archive_mid_message_outcome"
+        ],
+        "weakness": [
+          {
+            "severity": "high",
+            "type": "fact_lifecycle",
+            "description": "Natural forget handling still relies on brittle substring matching and topic-specific fuzzy expansions, so a paraphrased request to forget the data retention rule for customer exports leaves the corrected 30-month customer export retention fact active."
+          },
+          {
+            "severity": "high",
+            "type": "observations_store",
+            "description": "Observation near-duplicate detection misses semantically duplicate lessons when wording overlap is low and no code-like tokens are shared, so the same Prisma shadow-database failure/remediation is stored twice."
+          },
+          {
+            "severity": "medium",
+            "type": "handoff_state",
+            "description": "Compact handoff formatting caps mid-budget output at four next steps even when space remains, dropping additional critical resume actions such as notifying the payment owner."
+          },
+          {
+            "severity": "medium",
+            "type": "tool_operational_memory",
+            "description": "Tool lesson formatting reports at most three common error samples, so a fourth repeated high-value failure signature is omitted even under a roomy single-tool budget."
+          },
+          {
+            "severity": "medium",
+            "type": "session_trajectory_archive",
+            "description": "Production trajectory serialization preserves only prefix and suffix excerpts of an oversized final assistant message, so important final outcomes located in the middle of that message are omitted from the archived session card."
+          }
+        ],
+        "decision": "stop"
+      }
+    ]
+  }
+}

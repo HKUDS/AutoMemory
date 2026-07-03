@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow up 350 points on gains for shares of Boeing, Amazon.com Inc.",
+      "description": "Dow up 350 points on gains for shares of Boeing, Amazon.com Inc.",
+      "published_utc": "2025-04-23T23:19:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=434d4ef938d65a6076740f66dd18ef4605a31907a68dea3274e4cfaf3719a54a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052320,
+      "datetime": 1745421540
+    },
+    {
+      "title": "Microsoft, Salesforce Lead BofA's Top \"Software Picks\" Amid Market Uncertainty",
+      "description": "From Risk-Off to Risk-On, These Are BofA's Software Standouts",
+      "published_utc": "2025-04-23T22:24:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ef283d860fcebfb064c0365f3c26a25d05436ee501491925278309c334bd106",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046113,
+      "datetime": 1745418260
+    },
+    {
+      "title": "Dow rallies nearly 550 points on gains in shares of Boeing, Amazon.com Inc.",
+      "description": "Dow rallies nearly 550 points on gains in shares of Boeing, Amazon.com Inc.",
+      "published_utc": "2025-04-23T22:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a3cb08a06aed5b717156e2e05a75871a23ba9da15043356c78021671851adf5c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052322,
+      "datetime": 1745417880
+    },
+    {
+      "title": "Dow's 669-point rally highlighted by gains in shares of Boeing, NVIDIA Corp.",
+      "description": "Dow's 669-point rally highlighted by gains in shares of Boeing, NVIDIA Corp.",
+      "published_utc": "2025-04-23T21:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6705f144a5c7e6d9c14da2a8f200c89a121d2135fb2f599031ed316b71d3dd7d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052324,
+      "datetime": 1745414220
+    },
+    {
+      "title": "Dow up 568 points on gains for shares of Boeing, Amazon.com Inc.",
+      "description": "Dow up 568 points on gains for shares of Boeing, Amazon.com Inc.",
+      "published_utc": "2025-04-23T20:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6ef1ec7ae3500ff86c1fc9f1dfe53439120db454909e7a3ff1664d583384c2d6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052325,
+      "datetime": 1745409660
+    }
+  ]
+}

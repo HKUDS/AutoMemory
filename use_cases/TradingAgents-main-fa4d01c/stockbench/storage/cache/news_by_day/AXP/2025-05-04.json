@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Without Buffett Is Bound to Be Different. The Changes Abel Might Make.",
+      "description": "Berkshire Without Buffett Is Bound to Be Different. The Changes Abel Might Make.",
+      "published_utc": "2025-05-04T18:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8de85ba2c35e7a7e5f80ea4a7078359464f66f43e929b103014810efc2151300",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253779,
+      "datetime": 1746354840
+    },
+    {
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "American Express has a closed-loop model that makes money under varying conditions.  Coca-Cola is one of the highest-yielding Dividend Kings you can buy.  Investors look to Warren Buffett for advice in any market, but listening to his wisdom can help people get through tough times, like today's market, with calm and clarity.",
+      "published_utc": "2025-05-04T17:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa97a7a3f0ecfc3222563bd2958b4f80660c976668483b07bd5e156ac31cb7ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246914,
+      "datetime": 1746351300
+    },
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
+      "description": "All of Berkshire Hathaway's holdings have their bullish arguments, but three of them are particularly strong arguments right now.",
+      "published_utc": "2025-05-04T16:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd0950b830a852e71e31cb2a9b25fa304b921c592429bfb9a1ccba448624ebc0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134247109,
+      "datetime": 1746347700
+    }
+  ]
+}

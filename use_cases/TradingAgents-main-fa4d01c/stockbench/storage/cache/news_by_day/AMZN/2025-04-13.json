@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Here's How Artificial Intelligence (AI) Is Driving Profit Growth for These 2 Tech Stocks",
+      "description": "AI has the potential to revolutionize everything from the way you plan your day, thanks to AI assistants, to the way companies run factories and develop products thanks to a wide range of AI tools.  Let's check out how, today, AI is driving profit growth for the following technology companies.  Amazon (NASDAQ: AMZN) has established itself as a leader in two major growth areas: e-commerce and cloud computing.",
+      "published_utc": "2025-04-13T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55445953bbe53da1006d312270d8e97d37c2da4045d9001115661acf7ab95c6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908071,
+      "datetime": 1744495800
+    },
+    {
+      "title": "Exclusive: Chinese suppliers are offering U.S. Amazon sellers a tariff solution—but it’s not legal",
+      "description": "In emails and WeChat messages viewed by Fortune, Chinese suppliers proposed illegal workarounds to executives from a brand with a large presence on Amazon.",
+      "published_utc": "2025-04-13T02:04:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0ebaf3a975be1ba82210ab325564c5e95ec0f0a6c568a49c4dbb33b9263d4b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908072,
+      "datetime": 1744481098
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN): Amazon Maintains AI Focus Despite Tariff Pressure and Price Target Trim",
+      "description": "We recently published a list of 14 AI Stocks Catching Wall Street’s Attention. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other AI stocks catching Wall Street’s attention. In the latest development in the feud between OpenAI and Elon Musk, the ChatGPT maker has countersued billionaire […]",
+      "published_utc": "2025-04-13T00:10:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=635dfae9022d491bc4d2fa352cc36ae0709ae32b06944109ee8aa2c645aedd9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895837,
+      "datetime": 1744474235
+    }
+  ]
+}

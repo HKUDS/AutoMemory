@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "A Closer Look at Q2 Earnings: What Can Investors Expect?",
+      "description": "Total S&P 500 earnings for the June quarter are expected to be up +4.9% from the same period last year on +3.9% higher revenues, with three Zacks sectors currently expected to post double-digit earnings growth.",
+      "published_utc": "2025-06-26T06:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b56549b10a5f8ebb32291f92c3f40ab195646cc437895bfb22f7237be4dc17e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530866,
+      "datetime": 1750891200
+    },
+    {
+      "title": "Jefferies’ Profit Falls 40%. CEO Strikes Positive Tone on Dealmaking Outlook.",
+      "description": "The investment banking firm recorded $88 million of net earnings for the second quarter, a decline from $145 million a year earlier.",
+      "published_utc": "2025-06-26T05:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b720bbaabf22388f6ec2fdf07fa2a870647c2a08773957eff3a5d34f4849af00",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530867,
+      "datetime": 1750887420
+    },
+    {
+      "title": "Bank of America Securities Raised the PT on JPMorgan Chase & Co (JPM), Keeps a Buy Rating",
+      "description": "JPMorgan Chase & Co. (NYSE:JPM) is one of the 10 Best and Cheap Stocks to Buy Now. On June 18, Ebrahim Poonawala from Bank of America Securities reiterated a Buy rating on JPMorgan Chase & Co. (NYSE:JPM) while increasing the price target from $300 to $325. The analyst based his rating on the strategic market position […]",
+      "published_utc": "2025-06-26T04:37:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5fc38f3096c5035e5f62cf0a2537747c79aeceb85482d287c50b438476ebc4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530868,
+      "datetime": 1750883846
+    },
+    {
+      "title": "Mamdani’s Shock Win Has Wall Street Fretting Over ‘Hot Commie Summer’",
+      "description": "(Bloomberg) -- Even Zohran Mamdani’s detractors recognize that the vibes are with the 33-year-old democratic socialist.Most Read from BloombergBezos Wedding Draws Protests, Soul-Searching Over Tourism in VeniceUS Renters Face Storm of Rising CostsUS State Budget Wounds Intensify From Trump, DOGE Policy ShiftsCommuters Are Caught in Johannesburg's Taxi Feuds as Transit LagsMapping the Architectural History of New York’s Chinatown“It’s officially hot commie summer,” hedge fund billionaire Dan Loeb",
+      "published_utc": "2025-06-26T04:02:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b979d4554975971550710b5b675f6543d0ec00abcb7d175b6c9e3ade68a96807",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529124,
+      "datetime": 1750881764
+    },
+    {
+      "title": "Tariff shock looms, but AI rally likely to roll on as Fed cuts near: JPM",
+      "description": "Investing.com -- Investors may have dodged the worst of the geopolitical shocks, but a new test is coming: tariff hikes are set to hit the U.S. economy in the second half of the year, threatening a growth slump but also teeing up the Fed for long-awaited rate cuts—and adding fresh fuel to the AI rally as institutional money keeps chasing the trade.",
+      "published_utc": "2025-06-26T03:41:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=793c2452a7486c0439119bac00a58022320abb0954e3fe12cd605e6896f30798",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530871,
+      "datetime": 1750880503
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:49.012552+00:00",
+    "cache_key": "news_be427b4a25294fb92c90033def14e186",
+    "count": 5
+  }
+}

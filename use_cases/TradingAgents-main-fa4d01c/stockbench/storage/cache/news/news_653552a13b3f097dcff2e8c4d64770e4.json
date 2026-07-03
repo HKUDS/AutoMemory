@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. 2024 Q4 - Results - Earnings Call Presentation",
+      "description": "The following slide deck was published by Amgen Inc.",
+      "published_utc": "2025-02-05T04:33:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f839ce2777d24bcf0d39a821b22b7d79e93899a8c5fe659c56de82b5a56e32f7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132558945,
+      "datetime": 1738701214
+    },
+    {
+      "title": "Amgen, Inc. (AMGN) Q4 2024 Earnings Call Transcript",
+      "description": "Amgen, Inc. (NASDAQ:AMGN) Q4 2024 Earnings Conference Call February 4, 2025 4:30 PM ETCompany ParticipantsJustin Claeys - VP, IRRobert Bradway - Chairman,...",
+      "published_utc": "2025-02-05T04:32:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aea226cb234b780918e8f21df5dae8eb12b3d5142f6842d31f3a607385a8a4bf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132558946,
+      "datetime": 1738701152
+    },
+    {
+      "title": "Amgen 4Q Sales Up 11% as Ten Products Post Double-Digit Gains",
+      "description": "Amgen 4Q Sales Up 11% as Ten Products Post Double-Digit Gains",
+      "published_utc": "2025-02-05T00:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=44757ec0ef8f6cd61334b966809982fb11711e78844d466bb908c35d3238209d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132566436,
+      "datetime": 1738685640
+    },
+    {
+      "title": "Alphabet results lead busy day of earnings",
+      "description": "Alphabet results lead busy day of earnings",
+      "published_utc": "2025-02-04T13:55:10",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e5dfd889369f51d42634e6a306820faabbe83decbd89331f4eace874326224f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543886,
+      "datetime": 1738648510
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-04T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9f0e321bd84bc0908c2d60cad98d6eeb676558d49ff712e015222291e5c555b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132546177,
+      "datetime": 1738600500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:58:22.568286+00:00",
+    "cache_key": "news_653552a13b3f097dcff2e8c4d64770e4",
+    "count": 5
+  }
+}

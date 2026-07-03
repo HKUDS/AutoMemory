@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan's Maier on JEPQ Outperforming JEPI",
+      "description": "JPMorgan Asset Management Chief ETF Strategist Jon Maier discusses the JPMorgan Nasdaq Equity Premium Income ETF and JPMorgan Equity Premium Income ETF . He speaks with Eric Balchunas, Scarlet Fu...",
+      "published_utc": "2025-03-03T23:32:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=01e7a99d1cd91871a030e43f3eb14cb9a4b46a341b527c599422f73b03605865",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132962464,
+      "datetime": 1741015927
+    },
+    {
+      "title": "The economy’s at risk of plunging into an air pocket, says JPMorgan. What that would mean for stocks.",
+      "description": "The economy’s at risk of plunging into an air pocket, says JPMorgan. What that would mean for stocks.",
+      "published_utc": "2025-03-03T17:49:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ace3ea64b3d392465e8fb980a0bda14112497743d91122411e42e344ee0b7629",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132956067,
+      "datetime": 1740995340
+    },
+    {
+      "title": "Inside Jamie Dimon’s JPMorgan Chase: Restive Employees Amid Record Profits",
+      "description": "Inside Jamie Dimon’s JPMorgan Chase: Restive Employees Amid Record Profits",
+      "published_utc": "2025-03-03T16:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e09f74f7aacb815b51ffe5b44a76f7a220ddab44a4053ee40116a53f4dbdd7ec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955760,
+      "datetime": 1740992100
+    },
+    {
+      "id": "02f34625833401e7e58c13b505ce01348ce4c5aa1b7eff22542484b1d2f6b6ea",
+      "publisher": {
+        "name": "MarketWatch",
+        "homepage_url": "https://www.marketwatch.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+      },
+      "title": "The economy’s at risk of plunging into an air pocket, says JPMorgan. What that would mean for stocks now and in the future.",
+      "author": "Barbara Kollmeyer",
+      "published_utc": "2025-03-03T13:01:00Z",
+      "article_url": "https://www.marketwatch.com/story/the-economys-at-risk-of-plunging-into-an-air-pocket-says-jpmorgan-what-that-would-mean-for-stocks-now-and-in-the-future-e99b039a?mod=mw_rss_topstories",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://images.mktw.net/im-33421083/social",
+      "description": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market in the near and long term. Investors need to be better prepared for potential economic turbulence this year.",
+      "keywords": [
+        "economy",
+        "stocks",
+        "JPMorgan"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan warns that the economy is at risk of an 'air pocket', which could have negative implications for the stock market."
+        }
+      ]
+    },
+    {
+      "id": "b8b40888bcb9850b139abcc81418725aa847b0381232a02aa3cb97ece273c1f4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Ally Financial: Buy, Sell, or Hold?",
+      "author": "Neil Patel",
+      "published_utc": "2025-03-03T11:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/03/ally-financial-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "ALLY",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "SOFI",
+        "HOOD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809208/handling-finances-on-mobile-device.jpg",
+      "description": "Ally Financial, a digital-only financial services company, has seen its stock price underperform the broader market despite its strong auto lending business. While the company faces headwinds from higher interest rates and concentration risk in its auto loan portfolio, its digital model and potential for growth make it a worthy long-term investment.",
+      "keywords": [
+        "Ally Financial",
+        "auto lending",
+        "digital banking",
+        "interest rates",
+        "concentration risk"
+      ],
+      "insights": [
+        {
+          "ticker": "ALLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Ally Financial's digital-only operating model, which helps reduce overhead expenses and drive deposit growth, providing a low-cost source of capital for the company's auto lending business. While the company faces headwinds from higher interest rates and concentration risk in its auto loan portfolio, the article suggests that Ally's core competency in auto lending and the potential for growth make it a worthy long-term investment."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase, along with other financial services companies, have done remarkably well for investors recently, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that SoFi Technologies, a younger fintech provider, has surged in the past 12 months, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "HOOD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Robinhood Markets, a younger fintech provider, has surged in the past 12 months, suggesting a positive sentiment towards the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:29.665041+00:00",
+    "cache_key": "news_7c9df69d4c963e67ef123b51f06fa2d5",
+    "count": 5
+  }
+}

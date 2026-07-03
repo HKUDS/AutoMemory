@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "THW: Income Investors Likely To Face A Massive Distribution Cut",
+      "description": "",
+      "published_utc": "2025-05-25T17:22:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a3da899ef4a9d4e7d94a10749f922b80b4e7533ebde280775acd20c87ded1bb4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134693394,
+      "datetime": 1748164929
+    },
+    {
+      "title": "Street Call of the Week",
+      "description": "Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.",
+      "published_utc": "2025-05-25T16:51:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fa0bb160ab3bdffbee6072a821d5137378f2bd218b103d19f45e98e02246c32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694516,
+      "datetime": 1748163111
+    },
+    {
+      "title": "UnitedHealth's Sell-Off Is Exaggerated",
+      "description": "",
+      "published_utc": "2025-05-25T10:39:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=45a2a4ab43cd375f61eb24648bf712010953a958814b4829af03e5792057ad3f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134691812,
+      "datetime": 1748140769
+    }
+  ]
+}

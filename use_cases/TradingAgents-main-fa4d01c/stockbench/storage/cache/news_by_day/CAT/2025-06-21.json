@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "What Moved Markets This Week",
+      "description": "",
+      "published_utc": "2025-06-21T14:45:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=988eb683cc67cb1dc4a54c7611fdf64928b8c87a4e2f6283244bedeba4e8d1b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454393,
+      "datetime": 1750488310
+    }
+  ]
+}

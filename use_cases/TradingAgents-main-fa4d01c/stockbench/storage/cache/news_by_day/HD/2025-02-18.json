@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Retail ETFs in Focus Ahead of Big-Box Q4 Earnings",
+      "description": "The retail sector is in focus with the earnings releases of big retailers like Walmart, Home Depot, Lowe's and Target lined up.",
+      "published_utc": "2025-02-18T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c76dacb2d5bb90b7555aa14f7316233eb67c0a518a7b2f416f07ef8da87f2ea",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/ce63992769d8b4b6e6e862535dbc2eaf",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132782823,
+      "datetime": 1739890800
+    },
+    {
+      "title": "Lowe’s simplifies its professional contractor loyalty program",
+      "description": "The revamped MyLowe’s Pro Rewards is designed to make it easier for professionals to earn and redeem rewards.",
+      "published_utc": "2025-02-18T22:24:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a68937d9643a13149eebcda3a2c7e1787c5a30f76ebbaaea9b24792a43b77bc7",
+      "category": "company",
+      "image": "https://imgproxy.divecdn.com/9MYGSwLcSpA6umEQ9s-jM3UzR-twoB38XdLqyfZpPAk/g:nowe:0:790/c:4032:2278/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMDkyMS5qcGc=.webp",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132782824,
+      "datetime": 1739888668
+    }
+  ]
+}

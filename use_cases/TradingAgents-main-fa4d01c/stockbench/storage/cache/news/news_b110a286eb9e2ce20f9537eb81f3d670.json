@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "S&P, Dow Pharma Stocks Boomerang On Drug-Pricing Order That Is 'All Bark' And 'Little Bite'",
+      "description": "Pharmaceutical stocks boomeranged Monday after Trump signed an executive order tying drug prices in the U.S. to international price tags.",
+      "published_utc": "2025-05-13T04:25:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e47244c465885beed6f1ca595ff644dcf2ed5efc962b3620a570a6251ee670b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408475,
+      "datetime": 1747081543
+    },
+    {
+      "title": "50 Fortune World's Most Admired Companies (FWMAC): 24 \"Safer\", 1 Ideal Buy",
+      "description": "These are my top dividend stock picks from Fortune Worldâs Most Admired Companies, May 2025 edition. Read the full report here on Seeking Alpha.",
+      "published_utc": "2025-05-13T02:25:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce6b1e455860c526dd2cb46bd7eb05e757c51e3c22b9d8bfeba114fe20621d90",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/678921557/image_678921557.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392206,
+      "datetime": 1747074311
+    },
+    {
+      "title": "HistoSonics secures first insurance coverage for histotripsy system",
+      "description": "Michigan is the first US state to offer reimbursement for Histonics’ FDA-approved Edison histotripsy system.",
+      "published_utc": "2025-05-13T00:42:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87f3742a4985a86a51f3c65e948f65a2a7d21f772e6398972df27aecf4c40f85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408553,
+      "datetime": 1747068158
+    },
+    {
+      "title": "Johnson & Johnson: For Those Who Want Some Immunity Against Tariff Changes",
+      "description": "Johnson & Johnson is an attractive investment for those who want some isolation from ongoing tariff drama. Click here to find out why JNJ stock is a Hold.",
+      "published_utc": "2025-05-12T23:35:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdd715986322501b1ec9c3d86eab633a601c8ad4a982ae8d45283ed8f4119686",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205487321/image_2205487321.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134391046,
+      "datetime": 1747064148
+    },
+    {
+      "title": "Trump expected to sign order to slash US drug prices",
+      "description": "President Trump is expected to sign an executive order intended to cut US prescription drug prices in order to match drug prices overseas. Yahoo Finance senior health reporter Anjalee Khemlani outlines the many steps and government agencies involved in investigating and carrying out this act. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+      "published_utc": "2025-05-12T22:44:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fac8407bab8089ee6638e31408578326a93679e005cdef8d76c714e3eae16d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134381623,
+      "datetime": 1747061072
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:59.509521+00:00",
+    "cache_key": "news_b110a286eb9e2ce20f9537eb81f3d670",
+    "count": 5
+  }
+}

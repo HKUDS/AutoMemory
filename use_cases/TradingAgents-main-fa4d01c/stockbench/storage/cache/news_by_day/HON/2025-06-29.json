@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Borouge Partners with Honeywell to Develop Autonomous Operations in UAE",
+      "description": "Borouge has partnered with Honeywell to conduct a proof of concept for AI-powered autonomous operations.",
+      "published_utc": "2025-06-29T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed982af0abba4aede2d39301329842d18de024f839dee2baf30ea2949f35bd41",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135639865,
+      "datetime": 1751205600
+    }
+  ]
+}

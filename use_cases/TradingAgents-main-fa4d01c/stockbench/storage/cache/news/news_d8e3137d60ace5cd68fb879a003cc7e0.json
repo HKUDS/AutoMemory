@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "title": "Mairs & Power Balanced Fund Q4 2024 Commentary",
+      "description": "The Fund lagged the benchmark composite index, which was up 15.01%, while the Fund underperformed the Morningstar Moderate Allocation peer group, which rose 11.29%.",
+      "published_utc": "2025-02-19T16:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29975de5785e96be4bca83002c66233baf15555758fed17c910d511ee446c7b6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310052459/image_1310052459.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132784169,
+      "datetime": 1739954400
+    },
+    {
+      "id": "5ab1ae247c693231f32e6112d455100258547db640a2b790f1515ac5f6025b24",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is XRP a Warren Buffett Coin?",
+      "author": "Alex Carchidi",
+      "published_utc": "2025-02-19T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/is-xrp-a-warren-buffett-coin/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "V",
+        "MA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807618/investor-considers-papers-while-sitting-near-books.jpg",
+      "description": "The article discusses the potential for Warren Buffett to invest in the cryptocurrency XRP, which offers fast and inexpensive international money transfers. While Buffett is unlikely to consider XRP due to his distaste for cryptocurrencies, the article outlines how XRP's business model could align with Buffett's investment principles.",
+      "keywords": [
+        "Warren Buffett",
+        "XRP",
+        "cryptocurrency",
+        "international money transfers",
+        "financial technology"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Buffett has a substantial position in American Express, which is a financial technology company and payment processor, similar to the business model that the article suggests could be appealing to Buffett in the case of XRP."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Buffett has a substantial position in Visa, which is a payment processing company that aligns with the type of financial technology companies that Buffett is interested in investing in."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Buffett has a substantial position in Mastercard, which is another payment processing company that is similar to the type of financial technology companies that the article suggests could be appealing to Buffett in the case of XRP."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions that Buffett has invested in Apple, but this is not the main focus of the article, and the sentiment towards Apple is neutral."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:58.374041+00:00",
+    "cache_key": "news_d8e3137d60ace5cd68fb879a003cc7e0",
+    "count": 2
+  }
+}

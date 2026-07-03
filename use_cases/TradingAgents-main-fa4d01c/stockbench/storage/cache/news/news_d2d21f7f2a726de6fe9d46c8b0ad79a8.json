@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Consumer Group Calls for McDonald’s Boycott. What It Means for the Stock.",
+      "description": "Consumer Group Calls for McDonald’s Boycott. What It Means for the Stock.",
+      "published_utc": "2025-06-24T00:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=758f32bf64175fd3f7f429a5165a8d6a3e71aa935c58dbf4694ab65c810f7a77",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135499855,
+      "datetime": 1750694580
+    },
+    {
+      "title": "United States Cafes & Bars Market Forecast Report 2025-2033 | Urban Social Life Boosts Bars' Popularity with Dynamic Dining and Vibrant Experiences",
+      "description": "The U.S. Cafes & Bars Market is projected to grow from USD 81.34 billion in 2024 to USD 165.33 billion by 2033, at an 8.2% CAGR. This substantial growth is driven by a dynamic coffee culture, social dining trends, and demand for innovative beverages. Urbanization and lifestyle shifts amplify this growth in the U.S. food and beverages sector. Key players like Starbucks, McDonald's, and Smoothie King are embracing these trends. Despite challenges like evolving consumer tastes and rising costs, caf",
+      "published_utc": "2025-06-23T21:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c08911f8999fe78e2ebb8cfa184ebe2af7056ebe573a9b54f1204d52cb859f5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481770,
+      "datetime": 1750685700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:37.521846+00:00",
+    "cache_key": "news_d2d21f7f2a726de6fe9d46c8b0ad79a8",
+    "count": 2
+  }
+}

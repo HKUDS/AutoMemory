@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Home Depot (HD): Among the Best Retail Dividend Stocks to Buy",
+      "description": "We recently published a list of the 11 Best Retail Dividend Stocks to Buy. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other best retail dividend stocks. The retail industry has been undergoing a digital transformation since the COVID-19 pandemic. The industry has shifted […]",
+      "published_utc": "2025-03-31T07:58:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04b5399014d135f07a78fde4e5b0441b9d1a5a0d1e84a1125d41c4493af62f8b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622659,
+      "datetime": 1743379111
+    },
+    {
+      "title": "Home Depot: I Will Buy When It Dips",
+      "description": "Home Depot shows strong financials and growth potential. Hold now and wait for a price dip before investing.",
+      "published_utc": "2025-03-31T04:09:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e008c1ccb4176825c628edc79ee8fd9dbfd6e3d14f5e7c6ebbdee4bfc7c4ad76",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1209677273/image_1209677273.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133621140,
+      "datetime": 1743365367
+    },
+    {
+      "title": "Can Home Depot Stock Double in 5 Years?",
+      "description": "Home Depot (NYSE: HD) has been negatively affected by this.  After posting double-digit revenue growth in fiscal 2020 and fiscal 2021, its gains have been more muted in recent years.  Ongoing economic uncertainty, characterized by higher borrowing costs, pressured consumer confidence, and inflationary pressures discourage consumers from wanting to spend on big purchases.",
+      "published_utc": "2025-03-30T17:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b50daa05a878f89a1dfa30cf5a4a4203d603a4d490f7846ad7b27c96a3d6c1cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622660,
+      "datetime": 1743327420
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:24:41.621905+00:00",
+    "cache_key": "news_35136977b1a062bc6dca75382badeb4e",
+    "count": 3
+  }
+}

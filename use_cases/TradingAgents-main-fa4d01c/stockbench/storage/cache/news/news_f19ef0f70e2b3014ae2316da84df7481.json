@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Bill Ackman on his move to recreate Warren Buffett's Berkshire Hathaway",
+      "description": "Pershing Square CEO Bill Ackman shares why he's taking aim at Warren Buffett's business model.",
+      "published_utc": "2025-05-06T02:59:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6a091098b2f3ebd0930f2fa26d9bf941b2ec5607aca5f29ad0aaed7a7eb0670",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266210,
+      "datetime": 1746471546
+    },
+    {
+      "title": "How Berkshire Hathaway's holdings have evolved over time",
+      "description": "Berkshire Hathaway (BRK-B, BRK-A) chairman and CEO Warren Buffett’s investment strategy has seen both ups and downs this year. Yahoo Finance markets and data editor Jared Blikre — who also hosts the Stocks In Translation podcast — breaks down how Berkshire Hathaway’s biggest holdings have performed and evolved over time, naming several of the investment firm's biggest holdings. At Berkshire's annual shareholders meeting over the weekend, Warren Buffett, 94, announced that he will step down and be succeeded by Berkshire Hathaway Energy Chair Greg Abel at the end of the year. Twice a week, Stocks In Translation cuts through the market mayhem, noisy numbers and hyperbole to give you the information you need to make the right trade for your portfolio. You can find more episodes here, or watch on your favorite streaming service. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+      "published_utc": "2025-05-06T01:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43b82d57047bc1b1f7fdef1391619459f90595231fe041663cbd3858e1f5986a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266318,
+      "datetime": 1746464400
+    },
+    {
+      "title": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "description": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "published_utc": "2025-05-05T20:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d2454692857ed12a2f43286076b646d13672034d2dcf9b27722bf6104fa2a8da",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134254151,
+      "datetime": 1746446580
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:56.688237+00:00",
+    "cache_key": "news_f19ef0f70e2b3014ae2316da84df7481",
+    "count": 3
+  }
+}

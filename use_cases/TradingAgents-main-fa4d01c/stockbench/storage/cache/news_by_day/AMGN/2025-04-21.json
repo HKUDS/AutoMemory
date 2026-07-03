@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Most-Watched Stock Amgen Inc. (AMGN) Worth Betting on Now?",
+      "description": "Zacks.com users have recently been watching Amgen (AMGN) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2025-04-21T21:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c2e8c61ebe0066fb3de9999037b71e8755d5593c6bea5bf868ab10e5ebf4b5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022861,
+      "datetime": 1745240410
+    }
+  ]
+}

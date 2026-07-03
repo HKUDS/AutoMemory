@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Earnings Growth & Price Strength Make Procter & Gamble (PG) a Stock to Watch",
+      "description": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
+      "published_utc": "2025-03-31T21:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa334e3156cc9d7c54e95301897bc393332f350adefe5708d493a05aefed7e98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627792,
+      "datetime": 1743427804
+    }
+  ]
+}

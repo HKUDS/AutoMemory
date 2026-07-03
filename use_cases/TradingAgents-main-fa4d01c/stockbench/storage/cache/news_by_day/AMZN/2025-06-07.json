@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It.",
+      "description": "What if you could only own one stock forever? My pick for a single-stock portfolio might surprise you.",
+      "published_utc": "2025-06-07T22:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a21136d523ab1de8d316e467be717ad727d8fd5bf469c8ffaf97915a6d480fb5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106707,
+      "datetime": 1749307620
+    },
+    {
+      "title": "Amazon, Hot IPO Lead Five Stocks Near Buy Points",
+      "description": "Amazon is near a buy point, already triggering an early entry. IPO eToro and a trio from software, uranium mining and heavy construction are on the list.",
+      "published_utc": "2025-06-07T20:00:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a1be8ef8a0cf5f538c69e67c07e7ab3ccd20a449fdba6b276edf6f0e3ed3173",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106509,
+      "datetime": 1749297642
+    },
+    {
+      "title": "QQA: New Option Strategy ETF In The Nasdaq 100",
+      "description": "QQA offers an 8.63% yield from option strategies in the Nasdaq 100 and its track record shows a total return nearly matching QQQ. Read more on QQA's potential vs. its peers.",
+      "published_utc": "2025-06-07T19:11:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb9334fa978096f061c6db4fa07430e6d7b4f9da57fc608f8cba9c723b9a8323",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209112443/image_2209112443.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106545,
+      "datetime": 1749294681
+    },
+    {
+      "title": "2 No-Brainer Stocks I'd Buy Right Now Without Hesitation",
+      "description": "Constellation Software is a growth machine that has a huge opportunity in the vertical software industry.  Buying stocks of companies benefiting from long-term industry trends can help you identify rewarding investment opportunities.  The following companies are serving growing demand in the semiconductor and software industries.",
+      "published_utc": "2025-06-07T18:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a08673d0e666d8446803184b59b4f1b152517f031d0708702e359252433990c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106292,
+      "datetime": 1749293100
+    }
+  ]
+}

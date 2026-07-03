@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Franklin Global Equity Fund Q1 2025 Commentary",
+      "description": "Stock selection was mixed at the region and sector level and modestly detracted overall. Click here to read the full commentary.",
+      "published_utc": "2025-05-01T07:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=add304a3ab757e79b9ad0319825662e9fcf86ab08aa9fe55c09c3b0c156d77d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151312477/image_2151312477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165585,
+      "datetime": 1746057000
+    },
+    {
+      "title": "Surprising Microsoft earnings sends stock surging",
+      "description": "Microsoft shares are up 7% after quarterly earnings.",
+      "published_utc": "2025-05-01T07:48:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43f64c33ef00a771400bcc7dfdeb52fd1424d0e0ba9418b13f754337f5a57314",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165701,
+      "datetime": 1746056910
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella says software is the ‘most malleable resource’ to combat ‘any type of inflationary pressure’",
+      "description": "All three of Microsoft’s businesses beat the company’s internal guidance amid an uncertain economic climate.",
+      "published_utc": "2025-05-01T07:43:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d771867650bc91c6c0bddb59ca703be642d277f5a421ee4b339134d144cdc8a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165702,
+      "datetime": 1746056630
+    },
+    {
+      "title": "Microsoft Flexes Muscle in Cloud, Office and Windows as Earnings Jump",
+      "description": "Microsoft  needed a win.  Its latest quarterly results and forecast are giving it one.  The report showed strong growth in revenue and earnings across all of the company’s business segments, with the closely watched Azure cloud service solidly beating Wall Street’s forecasts.",
+      "published_utc": "2025-05-01T07:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f70ba4a75c9d31814251be4fc4fc9657767bd2b99a2e9991e38cbca1fa1a3061",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165703,
+      "datetime": 1746056460
+    },
+    {
+      "title": "Tracking AMG's Yacktman Asset Management Portfolio - Q1 2025 Update",
+      "description": "Read here for Yacktman's Q1 2025 portfolio trends, top holdings, stake changes, and strategies with highlights on Canadian Natural Resources & PepsiCo.",
+      "published_utc": "2025-05-01T07:32:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36a8a56c2d2d6f00a78a6b4f9d508bf30461e0432094acffab2700fd67a431ea",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165461,
+      "datetime": 1746055924
+    }
+  ]
+}

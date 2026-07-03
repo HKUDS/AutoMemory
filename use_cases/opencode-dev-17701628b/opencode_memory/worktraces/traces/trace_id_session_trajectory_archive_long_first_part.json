@@ -1,0 +1,157 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_long_first_part",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: production session trajectory persistence should preserve later useful outcomes when an earlier text part is too large for the card excerpt budget.",
+  "checks": [
+    {
+      "description": "A huge first user part should not cause the later assistant outcome to disappear from the session card.",
+      "write_input": {
+        "session": {
+          "id": "ses-long-first-1",
+          "projectID": "proj-memory",
+          "title": "Webhook incident archive",
+          "time": { "created": 1700300000000, "updated": 1700300100000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK NOISY_TRACE_CHUNK " }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Final outcome: rotate webhook nonce before retrying the failed invoice replay." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "rotate webhook nonce", "matcher": "substring" }
+    },
+    {
+      "description": "A normal later trajectory still preserves its concise outcome.",
+      "write_input": {
+        "session": {
+          "id": "ses-long-first-2",
+          "projectID": "proj-memory",
+          "title": "Queue isolation archive",
+          "time": { "created": 1700300200000, "updated": 1700300300000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Outcome: queue isolation fixed duplicate settlement retries." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "duplicate settlement retries", "matcher": "substring" }
+    },
+    {
+      "description": "Ignored huge synthetic text should not block a real assistant outcome.",
+      "write_input": {
+        "session": {
+          "id": "ses-long-first-3",
+          "projectID": "proj-memory",
+          "title": "Synthetic noise archive",
+          "time": { "created": 1700300400000, "updated": 1700300500000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "SYNTHETIC_NOISE", "synthetic": true }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Visible outcome: deploy after qa-window closes." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*SYNTHETIC_NOISE)[\\s\\S]*qa-window closes[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "File-like tokens from a later assistant outcome should remain indexed after a moderate transcript.",
+      "write_input": {
+        "session": {
+          "id": "ses-long-first-4",
+          "projectID": "proj-memory",
+          "title": "Adapter path archive",
+          "time": { "created": 1700300600000, "updated": 1700300700000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "short setup context for adapter path" }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Patch packages/account/src/tenant-residency.ts before running the residency adapter smoke test." }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": { "value": "packages/account/src/tenant-residency.ts", "matcher": "substring" }
+    },
+    {
+      "description": "Same-session replacement should still remove obsolete card text after long-part cases.",
+      "write_input": {
+        "writes": [
+          {
+            "session": {
+              "id": "ses-long-first-update",
+              "projectID": "proj-memory",
+              "title": "Obsolete Redis archive",
+              "time": { "created": 1700300800000, "updated": 1700300900000 }
+            },
+            "messages": [
+              {
+                "role": "assistant",
+                "parts": [
+                  { "type": "text", "text": "Outcome: obsolete Redis TTL explanation." }
+                ]
+              }
+            ]
+          },
+          {
+            "session": {
+              "id": "ses-long-first-update",
+              "projectID": "proj-memory",
+              "title": "Final replay archive",
+              "time": { "created": 1700300800000, "updated": 1700301000000 }
+            },
+            "messages": [
+              {
+                "role": "assistant",
+                "parts": [
+                  { "type": "text", "text": "Outcome: replay archive keeps tenant residency evidence." }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*Obsolete Redis)(?![\\s\\S]*Redis TTL)[\\s\\S]*tenant residency evidence[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    }
+  ]
+}

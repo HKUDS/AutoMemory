@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Columbia Large Cap Growth Fund Q4 2024 Commentary",
+      "description": "Columbia Large Cap Growth Fund Institutional Share Class Shares returned 5.71% for Q4 2024. Click here to read the full commentary.",
+      "published_utc": "2025-02-24T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=479bbe97802f2ba4774f3161c5aba7ae93a134d6c8186f50916582477de247c0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1044528598/image_1044528598.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132864077,
+      "datetime": 1740393000
+    },
+    {
+      "title": "Afraid Of Investing In Individual Stocks? Consider This ETF Trifecta",
+      "description": "I have been recently adding ETFs as these are also great for building wealth. Check out the ETF trifecta you should consider for your portfolio and why.",
+      "published_utc": "2025-02-24T14:23:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b1a8771a01017d172c047f9bd8a971640b181cf823a942d644c382e2b4c99bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303055097/image_1303055097.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132862618,
+      "datetime": 1740378180
+    }
+  ]
+}

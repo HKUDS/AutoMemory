@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Fall Late Afternoon",
+      "description": "Health care stocks declined late Tuesday afternoon, with the NYSE Health Care Index dropping 2.1% an",
+      "published_utc": "2025-04-02T04:00:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27dd22c7ea89dfbf74be7ad3b60e982777bb519a71dde1eec9895b61c00487f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658157,
+      "datetime": 1743537650
+    },
+    {
+      "title": "DOJ seeks death penalty in Luigi Mangione case",
+      "description": "The Department of Justice plans to seek the death penalty in the case against Luigi Mangione, the suspect in the murder of Brian Thompson, who was the CEO of UnitedHealthcare. Julie Hyman breaks down the latest on Wealth. To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+      "published_utc": "2025-04-02T00:58:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=156b8191a69fe31249325f29059f3f13b8582c5e3364dbd8340dfcb45633e4d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133655191,
+      "datetime": 1743526707
+    }
+  ]
+}

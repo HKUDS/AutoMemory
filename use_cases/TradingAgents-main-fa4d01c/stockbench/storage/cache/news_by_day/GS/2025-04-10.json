@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "description": "Financial Services Roundup: Market Talk",
+      "published_utc": "2025-04-10T00:57:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c8dc9e83717a71fbabb47cfa96b56a28121785967ecf1ae9d2ed3c3bc18d67a5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133847459,
+      "datetime": 1744217820
+    },
+    {
+      "title": "Here's How to Play Goldman Stock Ahead of Its Q1 Earnings Release",
+      "description": "GS is set to report first-quarter 2025 earnings. We assess the factors influencing its performance and how investors should play this stock now.",
+      "published_utc": "2025-04-10T00:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73cd3162dbe8c3f30c9745f76d169c2c34c31331e1a7524aa7cf6158db599410",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844357,
+      "datetime": 1744216260
+    }
+  ]
+}

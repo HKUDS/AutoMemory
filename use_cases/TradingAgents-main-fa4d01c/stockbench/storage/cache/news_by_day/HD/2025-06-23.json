@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Tariffs, Mid-East Turmoil, Now U.S. Involvement, Yet Stocks Go Higher, Why?",
+      "description": "Despite geopolitical tensions and tariff risks, I expect stocks to reach new highs this summer. Read why I'm focusing on technology and growth stocks.",
+      "published_utc": "2025-06-23T06:28:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9e187103e14a8b2ef1998a5a8bc54d609b870784ad758bbd6958904a1a8aec7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226873573/image_1226873573.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135468120,
+      "datetime": 1750631317
+    },
+    {
+      "title": "Home Depot: We Do Not See Any Growth Catalysts In The Near Future",
+      "description": "The macroeconomic environment remains challenging for Home Depot. Click here to read more about HD stock and why it is rated as a Hold.",
+      "published_utc": "2025-06-23T05:25:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c0f0a88ad06d37174797024a8986fcf9b154ca317baeb388aecc17695a5d7cdc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445771080/image_1445771080.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135467779,
+      "datetime": 1750627559
+    },
+    {
+      "title": "GMS Inc (GMS) Soars 31.88% W/W as 2 Building Giants Engage in Bidding War",
+      "description": "GMS Inc. (NYSE:GMS) is one of the Double-Digit Winners: 10 Stocks Crushing The Market. GMS Inc. (NYSE:GMS) jumped by 31.88 percent week-on-week to finish at $100.27 versus the $76.03 on June 13, as investors snapped up shares following news that it was being targeted for acquisition by two home building giants. Last week, GMS Inc. (NYSE:GMS) confirmed […]",
+      "published_utc": "2025-06-23T02:57:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1114b7d6b84eaad370e830b7e7394e973ad3b2f6d1dcdfe5f7e8ca1fe65248cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135466871,
+      "datetime": 1750618678
+    },
+    {
+      "title": "Home Depot: Margin Reacceleration Through Pro Credit Boost",
+      "description": "",
+      "published_utc": "2025-06-23T02:47:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=452caf3fc03a7d51d88d5e4c8d6d8cce08baa89191c3f569d5fbe22395df6199",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135466936,
+      "datetime": 1750618025
+    }
+  ]
+}

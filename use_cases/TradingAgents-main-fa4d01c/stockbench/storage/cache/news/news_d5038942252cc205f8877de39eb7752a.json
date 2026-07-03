@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon and Apple earnings coverage, Eli Lilly: What to Watch",
+      "description": "Market Domination Overtime hosts Julie Hyman and Josh Lipton preview several of the biggest stories and reports due out tomorrow, Thursday, May 1, including Apple (AAPL) and Amazon's (AMZN) respective quarterly earnings results alongside Eli Lilly (LLY), Mastercard (MA), McDonald's (MCD), and CVS Health (CVS). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-05-01T07:00:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df2b9307b9d5d0e211a07c09f4c5130fc294ec295df18da85e79cbabe9ceb01d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165686,
+      "datetime": 1746054052
+    },
+    {
+      "title": "Is McDonald’s Corporation (MCD) Among the Best Fast Food Stocks to Buy Now?",
+      "description": "We recently compiled a list of the 12 Best Fast Food Stocks to Buy Now. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against the other fast food stocks. Fast food stocks are businesses that run quick-service restaurants. These stocks can be a smart option to invest in the […]",
+      "published_utc": "2025-05-01T04:13:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e15fab35dd9e10160b7dad6054a3f7579e281663a3d129c0454f03badb8a3c48",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165986,
+      "datetime": 1746044031
+    },
+    {
+      "title": "Is McDonald’s Corp. (MCD) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where McDonald’s Corp. (NYSE:MCD) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, is […]",
+      "published_utc": "2025-05-01T02:27:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2135fa47a752e6a8f6b64e01169c6ca62626b9cc48affdd004b1bc2e4d64f17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165987,
+      "datetime": 1746037653
+    },
+    {
+      "title": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "description": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-05-01T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cc228a0a7a8cd496c4792773bd6df7cd3dace2603e52f645570c6666fdd5f21",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134189208,
+      "datetime": 1746030780
+    },
+    {
+      "title": "Starbucks CEO on stock slide and turnaround: Fixing what's broken will take time",
+      "description": "Starbucks chair and CEO Brian Niccol said he will need more time to turn around the coffee giant.",
+      "published_utc": "2025-04-30T22:37:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ec5cadfd79848ad6b3813e084c9cc85f295acf6ce4bad81cf5b131df01ce69f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165988,
+      "datetime": 1746023856
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:12.751312+00:00",
+    "cache_key": "news_d5038942252cc205f8877de39eb7752a",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Down 21%, Should You Buy the Dip on Apple Stock? The Answer Might Surprise You.",
+      "description": "It's the combination of products and services that has made Apple one of the best businesses on Earth.  At the current valuation, Apple stock provides zero margin of safety.  Apple (NASDAQ: AAPL) shares are down 18% in 2025 (as of June 6).",
+      "published_utc": "2025-06-09T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5aeec14c8cfe1c3f0baa9047ae1aff17e359f78c8abb5bdb3a19e0362caf27d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116940,
+      "datetime": 1749420000
+    },
+    {
+      "title": "Pro Drivers Give Brad Pitt's 'F1' Movie The Thumbs Up. Its $300 Million Budget Makes It One Of The Most Expensive Films Ever Made",
+      "description": "Brad Pitt‘s much-vaunted Formula One movie, “F1,” recently received a resounding thumbs up from its potentially toughest audience — F1 drivers. During a screening in Monaco, the film was praised by the sport’s speed kings, multiple outlets reported. It was hardly surprising considering some of them have cameos in the movie and it was made in cooperation with F1. Apple (NASDAQ:AAPL), which reportedly spent $300 million to make the film, and Warner Brothers, the distributor, can only hope the publ",
+      "published_utc": "2025-06-09T02:31:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ed75c19e8c4f70d39f847800bf8aa243cfaa22ba6a9491cb65fec10ec8fbdc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116941,
+      "datetime": 1749407500
+    },
+    {
+      "title": "Stock Futures Edge Higher",
+      "description": "Stock Futures Edge Higher",
+      "published_utc": "2025-06-09T02:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=61344f8ecf215abf56a2b5f77f7fe2e8d49580bcba42e01655f5c4338843293f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135124097,
+      "datetime": 1749406200
+    },
+    {
+      "title": "Inflation Data, GameStop Earnings, Oracle Stock, Apple WWDC, and More to Watch This Week",
+      "description": "The Apple faithful are hoping for good news that can jump-start the shares of the iPhone maker.  The consumer price index, released by the Bureau of Labor Statistics on Wednesday, one week before the Federal Open Market Committee announces its monetary policy decision, will garner much attention.  With the labor market resilient and the core CPI above the FOMC’s 2% target, the central bank looks likely to stand pat on interest rates.",
+      "published_utc": "2025-06-09T02:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45a208a4b7a019bc78ec9a0d38f7837adc12394404377041b6122d8e5ff30b81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135126173,
+      "datetime": 1749405600
+    },
+    {
+      "title": "Apple WWDC; Inflation Data; GameStop Earnings, Oracle Stock, and More to Watch This Week",
+      "description": "The new week kicks off with Apple’s Worldwide Developers Conference that runs from Monday through Friday.  The Apple faithful are hoping for good news that can jump-start the shares of the iPhone maker.  The consumer price index, released by the Bureau of Labor Statistics on Wednesday, one week before the Federal Open Market Committee announces its monetary policy decision, will garner much attention.",
+      "published_utc": "2025-06-09T02:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b3a37d4607d8f15337ee617405f5fe9d03dd3644facf41af8165daa7db0e080",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116942,
+      "datetime": 1749405600
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "European Banks Swarm Dollar Market For AT1 Debt: Credit Weekly",
+      "description": "(Bloomberg) -- European banks have turned to the US dollar market to sell almost $8 billion of bonds that help them boost capital levels. Investors hunting for higher coupons want even more.Most Read from BloombergTrump Targets $128 Billion California High-Speed Rail ProjectTrump Asserts Power Over NYC, Proclaims ‘Long Live the King’Trump to Halt NY Congestion Pricing by Terminating ApprovalAirbnb Billionaire Offers Pre-Fab Homes for LA Fire VictimsSorry, Kids: Disney’s New York Headquarters Is",
+      "published_utc": "2025-02-23T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=651ad8ad24e22e6884ad0a32bcb870508b2906d8accb989de3852a16417eaf33",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vGYuBPMERvSOMjd6uTF.Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDU-/https://media.zenfs.com/en/bloomberg_markets_842/4692f6388ed34bdedbb20995bd3492f5",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878718,
+      "datetime": 1740254400
+    },
+    {
+      "title": "Is Johnson & Johnson's (NYSE:JNJ) Recent Stock Performance Influenced By Its Fundamentals In Any Way?",
+      "description": "Most readers would already be aware that Johnson & Johnson's (NYSE:JNJ) stock increased significantly by 11% over the...",
+      "published_utc": "2025-02-22T19:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df274c953d2ec995540e86eed1ff8e98857cd03f3a5345f9cf4282861739a50d",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/2eedc463aef15274c4887c130e30e298",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902116,
+      "datetime": 1740222014
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:50.015192+00:00",
+    "cache_key": "news_fcd6ceecfe0239b5a84934c5e856c6f8",
+    "count": 2
+  }
+}

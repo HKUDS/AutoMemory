@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co., Caterpillar share losses contribute to Dow's nearly 525-point drop",
+      "description": "Sherwin-Williams Co., Caterpillar share losses contribute to Dow's nearly 525-point drop",
+      "published_utc": "2025-07-07T21:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ebdf0e31af7ce72344d9592a9fdaec76bd514a2ffd2df04a848fa4d1f8812872",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135813346,
+      "datetime": 1751895360
+    },
+    {
+      "title": "Sherwin-Williams Co., Travelers share losses contribute to Dow's 400-point fall",
+      "description": "Sherwin-Williams Co., Travelers share losses contribute to Dow's 400-point fall",
+      "published_utc": "2025-07-07T20:19:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a6fc732d209e73fc0d2069b645ca1c5a7786f98ae4ee843b58132d910fd244d4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135813347,
+      "datetime": 1751890740
+    },
+    {
+      "title": "Dow's 263-point fall led by losses for UnitedHealth, Travelers shares",
+      "description": "Dow's 263-point fall led by losses for UnitedHealth, Travelers shares",
+      "published_utc": "2025-07-07T19:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=59abedcc9c1ee58e43a2e635a74f91050f8f574d942270f559317591411db106",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135812521,
+      "datetime": 1751886180
+    },
+    {
+      "title": "Sherwin-Williams Co., Chevron share losses lead Dow's 138-point drop",
+      "description": "Sherwin-Williams Co., Chevron share losses lead Dow's 138-point drop",
+      "published_utc": "2025-07-07T17:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=afbad109b33a1b297730e8f49b2d362fab3f2053a31bb4258734a6a799b2ec0a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135812607,
+      "datetime": 1751881620
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:04:44.752043+00:00",
+    "cache_key": "news_a35fd5eff672814418686b5871d082a5",
+    "count": 4
+  }
+}

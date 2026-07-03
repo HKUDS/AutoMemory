@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Starbucks CEO on stock slide and turnaround: Fixing what's broken will take time",
+      "description": "Starbucks chair and CEO Brian Niccol said he will need more time to turn around the coffee giant.",
+      "published_utc": "2025-04-30T22:37:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ec5cadfd79848ad6b3813e084c9cc85f295acf6ce4bad81cf5b131df01ce69f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165988,
+      "datetime": 1746023856
+    }
+  ]
+}

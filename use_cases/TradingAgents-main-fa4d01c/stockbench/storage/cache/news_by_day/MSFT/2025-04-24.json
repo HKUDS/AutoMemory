@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Is Microsoft Corporation (MSFT) the Best Stock to Buy and Hold for 20 Years?",
+      "description": "We recently published a list of 10 Best Stocks to Buy and Hold for 20 Years. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best stocks to buy and hold for 20 years. As per Ameriprise Financials, the initial months of 2025 were tough for investors. This […]",
+      "published_utc": "2025-04-24T06:07:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d36bb4a2db46658a04c7412623f64a354f6a53afde4c240d018cc039ab8a77b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059154,
+      "datetime": 1745446045
+    },
+    {
+      "title": "3 Artificial Intelligence (AI) Stocks That Could Soar in the Second Half of 2025",
+      "description": "Millions of businesses and individuals now use artificial intelligence (AI) tools like ChatGPT on a daily basis.  Despite impressive growth over the last 12 to 24 months, the AI revolution has just begun.  No one knows what will happen next, but it's not hard to see the three AI businesses below soaring in value before the year is up.",
+      "published_utc": "2025-04-24T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4df6b50651085430a29e511f68d694e596c233c0f97268bba71dfc27c3dc2575",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059155,
+      "datetime": 1745445600
+    },
+    {
+      "title": "Microsoft (MSFT) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "In the closing of the recent trading day, Microsoft (MSFT) stood at $374.05, denoting a +1.97% change from the preceding trading day.",
+      "published_utc": "2025-04-24T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56ef08d31b8e4e54cb95042f16820d102b2d8a036b2e617a99ef43d6dd85a02e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059156,
+      "datetime": 1745444716
+    },
+    {
+      "title": "Berkshire Hathaway, Coca-Cola, and Other Stable Stocks That Have Avoided the Market Chaos",
+      "description": "Top constituents in Morningstar’s U.S. Low Volatility index such as Berkshire Hathaway, Coca-Cola, and Johnson & Johnson sport year-to-date gains.",
+      "published_utc": "2025-04-24T04:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79e692d32831ffb5f3c578e12bf8de5257279b5c5bcd5f508536e5196e4db104",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059157,
+      "datetime": 1745441280
+    },
+    {
+      "title": "Why Software Stocks Like Microsoft Face Less Risk From Tariffs, According to Morningstar",
+      "description": "Tech investors looking to reduce their risk in an unpredictable trade environment could turn to software names like Adobe and Microsoft over tech firms that depend more on hardware sales, Morningstar analysts wrote.",
+      "published_utc": "2025-04-24T04:29:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f770e879108fc0b9fb9d1759f355ed6a06e2269fcc6a6c04c353bf552c1391cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059158,
+      "datetime": 1745440197
+    }
+  ]
+}

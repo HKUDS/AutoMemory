@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Fewer rate cuts will boost banks in 2025. Here's how.",
+      "description": "The Federal Reserve has reduced its projected interest rate cuts for 2025 to just two cuts. While broader markets reacted negatively to fewer anticipated rate cuts, slower monetary policy appears to be bullish for the banking sector. Yahoo Finance Reporter David Hollerith analyzes how this more gradual approach to rate cuts could benefit big banks, particularly focusing on its potential positive impact on major banks' profit margins. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here. This post was written by Angel Smith",
+      "published_utc": "2024-12-31T23:43:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77be013904981a9fe466b79b3c73fbd9febb4537f0182b4f8e66778a11d6e0fa",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lRUvvsCp.htskGDIrd.6dQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b73e98e0-c787-11ef-bffd-9e2256fe3737",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132216010,
+      "datetime": 1735659818
+    },
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Best Dividend Stock of 2024?",
+      "description": "We recently compiled a list of the Top 20 Dividend Stocks of 2024. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against the other dividend stocks. Macroeconomic factors have weighed on US stocks in the final days of the year, with the broader market declining by […]",
+      "published_utc": "2024-12-31T18:50:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6da78f7bd201ff58bc51d817303060491751514862c1e1e1ef9dad6f54c48e2a",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0BwlrHHssSozZHQNtMcVwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f82652d0e7c350dea8b9d7c85e94e30e",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132213675,
+      "datetime": 1735642206
+    }
+  ]
+}

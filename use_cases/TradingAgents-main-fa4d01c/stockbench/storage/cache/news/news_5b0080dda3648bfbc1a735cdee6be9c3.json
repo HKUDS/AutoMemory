@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Home Depot (HD) Fell More Than Broader Market",
+      "description": "Home Depot (HD) reached $358.64 at the closing of the latest trading day, reflecting a -3.1% change compared to its last close.",
+      "published_utc": "2025-07-16T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74979b9adab7b2b0fd0c3a051b8acb46e1f3a1e3e6e9194567fa13334b040875",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135959847,
+      "datetime": 1752615903
+    },
+    {
+      "title": "Stocks Fade as Expectations are Trimmed for Fed Rate Cut in September",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.13%. September E-mini S&P futures (ESU25 ) fell -0.50%, and September E-mini Nasdaq futures...",
+      "published_utc": "2025-07-16T05:02:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3d3a897fc35ccb05bb9b69b8236d5c3e42c5fb14f705df714455c95274dbade",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135957930,
+      "datetime": 1752613361
+    },
+    {
+      "title": "Tractor Supply: Growth Priced In, Risk-Reward Balanced",
+      "description": "Tractor Supply's growth is driven by C.U.E. pricing, new store openings, and strategic initiatives. Click here to read an analysis of TSCO stock now.",
+      "published_utc": "2025-07-15T23:00:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9880510a15da2c7c3a1e08c4a8dbffe4696f78d25794ae037665090d3c12966a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/911356176/image_911356176.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135955911,
+      "datetime": 1752591603
+    },
+    {
+      "title": "Why You Should Be Investing in Coca-Cola, Home Depot and 6 More of Your Favorite Brands",
+      "description": "Here are some of the reasons why you may want to consider investing in the stocks of your favorite brands.",
+      "published_utc": "2025-07-15T21:03:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b147071ae278a4434fa4abfe0e1274cb106583f277fc53636277b99e0f0a7d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135947417,
+      "datetime": 1752584590
+    },
+    {
+      "title": "American Express, Merck share losses lead Dow's 375-point fall",
+      "description": "American Express, Merck share losses lead Dow's 375-point fall",
+      "published_utc": "2025-07-15T21:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=145b362c2bb7387b4faf720415d1829068ee84a053018c46fd6537a00c3889e6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135975106,
+      "datetime": 1752584580
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:02.382512+00:00",
+    "cache_key": "news_5b0080dda3648bfbc1a735cdee6be9c3",
+    "count": 5
+  }
+}

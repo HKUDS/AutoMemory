@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Alphabet Boosted by AI, Cloud Demand as Spending Needs Skyrocket",
+      "description": "(Bloomberg) -- Alphabet Inc. said demand for artificial intelligence products boosted quarterly sales, and now requires an extreme increase in capital spending — heightening pressure on the company to justify the cost of keeping up in the AI race.Most Read from BloombergTrump Awards $1.26 Billion Contract to Build Biggest Immigrant Detention Center in USWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionThe High Costs of Trump’s ‘Big Beautiful’ New Car Loan DeductionSalt Lake City T",
+      "published_utc": "2025-07-24T07:39:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e06bec9d7c5be19a53d4c3df9a504e8edbd50f6e0373702029b016a534ae0a85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061967,
+      "datetime": 1753313959
+    },
+    {
+      "title": "Google Revenue Soars on AI Boom, and Investors Eye Spending Surge",
+      "description": "The search giant is spending tens of billions of dollars on infusing its products with artificial intelligence capabilities.",
+      "published_utc": "2025-07-24T06:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2b90500fa0ca967c322285a059c97b177793a0259065855213774ab6f36a4fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061968,
+      "datetime": 1753311060
+    },
+    {
+      "title": "Microsoft (MSFT) Gets $525 Price Target as AI and Cloud Demand Remain Strong",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks on Analysts’ Radar Right Now. On July 21, RBC Capital analyst Rishi Jaluria reiterated an “Outperform” rating on the stock with a $525.00 price target. The firm’s channel checks reveal “healthy cloud” conditions and “phased Copilot rollouts” across Microsoft’s enterprise customer base. The channel checks included system […]",
+      "published_utc": "2025-07-24T06:22:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99076ec0765af30f3d0b1a637ae96ac0e30a994ee9b2ed6993fe6b0a54155526",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061969,
+      "datetime": 1753309331
+    },
+    {
+      "title": "White House Unveils Push to Speed AI Development",
+      "description": "President Donald Trump’s first major speech on artificial intelligence comes amid a technology arms race among Silicon Valley giants.",
+      "published_utc": "2025-07-24T06:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59cae85eeb64af3cdf975595cdc3272d500d0bd2584447f7abfe08adec73ab49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061970,
+      "datetime": 1753308720
+    },
+    {
+      "title": "Palantir vs. BigBear.ai: Which Is the Better Artificial Intelligence (AI) Software Stock?",
+      "description": "Palantir and BigBear.ai have handily beat the broader market this year, but one looks like the better opportunity for long-run investors.",
+      "published_utc": "2025-07-24T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a5f4871fc50fa2b5b5c600b59f69e747fc05a6e36e066c222c7b6620f992f82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136061971,
+      "datetime": 1753308000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:11:10.557224+00:00",
+    "cache_key": "news_98448281387323d5e74cd6f94bc35a1d",
+    "count": 5
+  }
+}

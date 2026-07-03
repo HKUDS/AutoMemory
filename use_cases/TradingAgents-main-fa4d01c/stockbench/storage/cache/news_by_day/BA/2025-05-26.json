@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "title": "EU Plans to ‘Fast Track’ Trade Talks With US Amid Tariff Fight",
+      "description": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadPacific Coast Highway to Reopen Near Malibu After January FiresThe European Union said it agreed to accelerate negotiations with the US to avoid a transatlantic trade war, signaling a more amicable approach just days afte",
+      "published_utc": "2025-05-26T22:20:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8ebaf04dc462e50b20b94da588d9459224aba7f7740d323a8c384a529ee68c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716265,
+      "datetime": 1748269209
+    },
+    {
+      "title": "UAL vs. CPA: Which Airline Stock is a Stronger Play Now?",
+      "description": "CPA outshines UAL with stronger earnings outlook, better price performance, and upbeat sales estimates despite the prevalent uncertainties.",
+      "published_utc": "2025-05-26T21:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b0f2d1ff87b9e2f398a5898afaeccaba49a4c9a19ee849aceb97dab34e43890",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716267,
+      "datetime": 1748266860
+    },
+    {
+      "id": "47efad883f9934f2b57635a98557941a3fd9b2db4887a351190ff33088e5eb4c",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Is UnitedHealth the Boeing of Healthcare? Why It May Be Too Big to Break",
+      "author": "The Tokenist",
+      "published_utc": "2025-05-26T21:09:00Z",
+      "article_url": "https://www.investing.com/analysis/is-unitedhealth-the-boeing-of-healthcare-why-it-may-be-too-big-to-break-200661307",
+      "tickers": [
+        "UNH",
+        "BA",
+        "BApA",
+        "HUM",
+        "CVS",
+        "AMED"
+      ],
+      "amp_url": "https://m.investing.com/analysis/is-unitedhealth-the-boeing-of-healthcare-why-it-may-be-too-big-to-break-200661307?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "UnitedHealth Group (UNH) faces regulatory probes, leadership changes, and lawsuits, leading to a 31% stock decline. However, the company's dominant market position, vertically integrated ecosystem, and strong financials suggest it may be too big to break, similar to Boeing's position in the aviation industry.",
+      "keywords": [
+        "UnitedHealth Group",
+        "Boeing",
+        "healthcare",
+        "antitrust",
+        "Medicare Advantage",
+        "leadership",
+        "financials"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed outlook for UnitedHealth Group, with the company facing regulatory challenges and leadership changes, but also highlighting its dominant market position and strong financials. The neutral sentiment reflects the balanced nature of the analysis."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article draws a comparison between UnitedHealth Group and Boeing, suggesting that UnitedHealth Group may be as entrenched in the healthcare industry as Boeing is in the aviation industry, implying a positive sentiment towards Boeing's position."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article draws a comparison between UnitedHealth Group and Boeing, suggesting that UnitedHealth Group may be as entrenched in the healthcare industry as Boeing is in the aviation industry, implying a positive sentiment towards Boeing's position."
+        },
+        {
+          "ticker": "HUM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Humana's market share in the Medicare Advantage market, providing context for UnitedHealth Group's dominance, but does not make any explicit statements about Humana's outlook."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions CVS (former Aetna) as having an 11% market share in the Medicare Advantage market, but does not provide any further analysis or sentiment towards the company."
+        },
+        {
+          "ticker": "AMED",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses the Department of Justice's blocking of UnitedHealth Group's acquisition of Amedisys, but does not make any explicit statements about Amedisys's outlook."
+        }
+      ]
+    },
+    {
+      "title": "Germany’s Merz Says US Tech Perks Could Be Target in Trade War",
+      "description": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadPacific Coast Highway to Reopen Near Malibu After January FiresThe European Union could retaliate against US technology companies if the trade conflict with Donald Trump’s administration escalates, German Chancellor Fried",
+      "published_utc": "2025-05-26T20:20:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f15a41c94fdf586b3e26d8b6cdcf5c192d496d0c1d7b56a7eeb7a54fb3b0cbfd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716269,
+      "datetime": 1748262020
+    },
+    {
+      "title": "BOEING CO : Raised to Buy by UBS",
+      "description": "UBS's analyst Gavin Parsons has upgraded his rating from Neutral to Buy. The target price continues to be set at USD 226.",
+      "published_utc": "2025-05-26T09:16:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fcb489e5d89ba773029c3d4ed95323d318b6cebec7eb2442616deb987b22b58f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134697510,
+      "datetime": 1748222172
+    }
+  ]
+}

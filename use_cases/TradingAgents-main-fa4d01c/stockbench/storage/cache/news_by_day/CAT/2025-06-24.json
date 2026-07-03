@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Exceeds Market Returns: Some Facts to Consider",
+      "description": "The latest trading day saw Caterpillar (CAT) settling at $366.23, representing a +1.58% change from its previous close.",
+      "published_utc": "2025-06-24T05:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a33005b5832afe6b7fd33859fa67dcdead53ee04971b0e794333b3cf7119b6f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492182,
+      "datetime": 1750715104
+    },
+    {
+      "title": "An ‘impossible’ PIP revives age bias lawsuit against Caterpillar",
+      "description": "The plaintiff had already won an age-discrimination jury verdict against the company years before.",
+      "published_utc": "2025-06-24T00:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bfc30898e7d351022e89bf59686c0f2a27a9766d9aa272dd63d9198f826f8d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492183,
+      "datetime": 1750697400
+    },
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-24T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d9afe854ad4b33634c91fe2fba20f9e791ddc39cf890e56508e6a79cc1e608cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135500427,
+      "datetime": 1750696440
+    }
+  ]
+}

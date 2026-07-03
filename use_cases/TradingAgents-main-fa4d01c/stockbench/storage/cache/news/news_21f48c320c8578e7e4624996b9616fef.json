@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Charting the Global Economy: Key Central Banks Hold on Rates",
+      "description": "(Bloomberg) -- Central bankers in the US, UK and Japan held the line on interest rates this week as officials attempt to gauge the impact of tariffs, uncertainty about economic activity and war in the Middle East.Most Read from BloombergOne Architect’s Quest to Save Mumbai’s Heritage From DisappearingBezos Wedding Draws Protests, Soul-Searching Over Tourism in VeniceJFK AirTrain Cuts Fares 50% This Summer to Lure Riders Off RoadsNYC Congestion Toll Cuts Manhattan Gridlock by 25%, RPA ReportsTase",
+      "published_utc": "2025-06-21T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8d164b079999e50a9d6a85e54e7408922d444c487f960ab0a620d811a8f9ddc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135457255,
+      "datetime": 1750496400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:29.099365+00:00",
+    "cache_key": "news_21f48c320c8578e7e4624996b9616fef",
+    "count": 1
+  }
+}

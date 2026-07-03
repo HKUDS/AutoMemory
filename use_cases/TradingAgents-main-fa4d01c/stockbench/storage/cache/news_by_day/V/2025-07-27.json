@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Capital One Financial Corporation (COF): CEO’s Going For A “Worldwide Card,” Says Jim Cramer",
+      "description": "We recently published 10 Stocks On Jim Cramer’s Mind As He Gives Up On Becoming Fed Chair. Capital One Financial Corporation (NYSE:COF) is one of the stocks Jim Cramer recently discussed. Capital One Financial Corporation (NYSE:COF)’s merger with Discovery has made it one of Cramer’s favorite stocks in the banking industry. He is particularly enthusiastic […]",
+      "published_utc": "2025-07-27T07:46:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cc2b8f7ace5da948612498aa62f74d910ba8681ea03359603bc1c7033b43cd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101670,
+      "datetime": 1753573604
+    },
+    {
+      "title": "Visa Inc. (V) Only Wants A “Piece” & Not The Pie, Implies Jim Cramer",
+      "description": "We recently published 10 Stocks On Jim Cramer’s Mind As He Gives Up On Becoming Fed Chair. Visa Inc. (NYSE:V) is one of the stocks Jim Cramer recently discussed. Visa Inc. (NYSE:V) is one of the largest payment processing firms in the US. Its shares have gained 13% year-to-date but have lost 4.8% since early […]",
+      "published_utc": "2025-07-27T07:46:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b152228ead6f677bb0bac63c076dc9caa409933f325ddabea622fbc90c5ea46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101671,
+      "datetime": 1753573582
+    },
+    {
+      "title": "Fidelity Fund Q2 2025 Commentary",
+      "description": "Fidelity Investments reviews Q2 fund performance amid market volatility. See how stock selection shaped returns and explore their forward-looking strategy.",
+      "published_utc": "2025-07-27T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5df73e5d2e5214870ef208a2b29b34e9e97fe3be2676717d08eed9859d5472c9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165312975/image_2165312975.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136098255,
+      "datetime": 1753564500
+    }
+  ]
+}

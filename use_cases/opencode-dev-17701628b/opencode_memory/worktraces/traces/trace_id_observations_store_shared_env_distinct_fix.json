@@ -1,0 +1,98 @@
+{
+  "trace_id": "trace_id_observations_store_shared_env_distinct_fix",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: observations that share command, tool, file, error fingerprint, and a code-like env token should still preserve distinct remediations.",
+  "checks": [
+    {
+      "description": "Initial partner sync timeout lesson is stored.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "partner sync timeout fixed by sandbox endpoint",
+        "l0": "pnpm sync:partner timed out during the partner API handshake.",
+        "l1": "Set PAYMENT_GATEWAY_URL= to the sandbox endpoint before rerunning partner sync in CI.",
+        "commands": ["pnpm sync:partner --env ci"],
+        "tools": ["shell"],
+        "files": ["packages/payments/scripts/sync-partner.ts"],
+        "errorFingerprint": "PARTNER_SYNC_TIMEOUT",
+        "evidence": { "sessionID": "obs-env-a" },
+        "evidenceHash": "obs-env-a"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "sandbox endpoint", "matcher": "substring" }
+    },
+    {
+      "description": "Distinct CA-bundle remediation should be retained even though it mentions the same env token and failure fingerprint.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "partner sync timeout fixed by CA bundle refresh",
+        "l0": "pnpm sync:partner timed out after TLS negotiation against the same partner API.",
+        "l1": "Keep PAYMENT_GATEWAY_URL= unchanged; refresh PARTNER_CA_BUNDLE before rerunning when the timeout follows TLS renegotiation.",
+        "commands": ["pnpm sync:partner --env ci"],
+        "tools": ["shell"],
+        "files": ["packages/payments/scripts/sync-partner.ts"],
+        "errorFingerprint": "PARTNER_SYNC_TIMEOUT",
+        "evidence": { "sessionID": "obs-env-b" },
+        "evidenceHash": "obs-env-b"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "PARTNER_CA_BUNDLE", "matcher": "substring" }
+    },
+    {
+      "description": "Exact evidence hash replay should remain suppressed.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "exact replay of partner sync CA bundle timeout",
+        "l0": "Replay of the CA bundle timeout lesson.",
+        "l1": "This exact hash should not append another observation.",
+        "commands": ["pnpm sync:partner --env ci"],
+        "tools": ["shell"],
+        "files": ["packages/payments/scripts/sync-partner.ts"],
+        "errorFingerprint": "PARTNER_SYNC_TIMEOUT",
+        "evidence": { "sessionID": "obs-env-c" },
+        "evidenceHash": "obs-env-b"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "^(?![\\s\\S]*exact replay of partner sync CA bundle timeout)[\\s\\S]*sandbox endpoint[\\s\\S]*$", "matcher": "regex" }
+    },
+    {
+      "description": "Different fingerprint on the same command remains appendable.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "partner sync 401 fixed by token rotation",
+        "l0": "pnpm sync:partner returned a 401 after credentials expired.",
+        "l1": "Rotate PARTNER_SYNC_TOKEN before rerunning the same sync command.",
+        "commands": ["pnpm sync:partner --env ci"],
+        "tools": ["shell"],
+        "files": ["packages/payments/scripts/sync-partner.ts"],
+        "errorFingerprint": "PARTNER_SYNC_401",
+        "evidence": { "sessionID": "obs-env-d" },
+        "evidenceHash": "obs-env-d"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "PARTNER_SYNC_TOKEN", "matcher": "substring" }
+    },
+    {
+      "description": "Unrelated observation remains appendable after dedupe checks.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "storybook static build fixed by font preload",
+        "l0": "storybook build failed because font assets were not preloaded.",
+        "l1": "Add the Inter font preload before running storybook build in CI.",
+        "commands": ["pnpm storybook:build"],
+        "tools": ["shell"],
+        "files": ["packages/ui/.storybook/preview.ts"],
+        "errorFingerprint": "STORYBOOK_FONT_PRELOAD",
+        "evidence": { "sessionID": "obs-env-e" },
+        "evidenceHash": "obs-env-e"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "Inter font preload", "matcher": "substring" }
+    }
+  ]
+}

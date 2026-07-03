@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on McDonald’s Corporation (MCD): ‘Market Worries Overblown — Time to Buy’",
+      "description": "We recently published a list of Jim Cramer Reveals Trump’s Potential Secret Weapon In China Trade Talks & Discusses These 10 Stocks. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against other stocks that Jim Cramer recently discussed. In a recent appearance on CNBC’s Squawk on the […]",
+      "published_utc": "2025-05-08T01:13:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3ca69f22fdf6341d409b497360753da8870255b20e5b1fac6645c461ea80a2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316783,
+      "datetime": 1746638006
+    },
+    {
+      "title": "Shopify initiated, Comcast downgraded: Wall Street’s top analyst calls",
+      "description": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today’s research calls that investors need to know, as compiled by The Fly. Top Upgrades: Benchmark upgraded Playstudios (MYPS) to Speculative Buy from Hold with a $2 price target after the company’s results “demonstrated operating resilience and strategic focus despite topline pressure” in Q1. More bullish on the stock, Hovde Group upgraded Lakeland Financial (LKFN) to Outperform from Market",
+      "published_utc": "2025-05-07T21:41:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=189218ae617b507f241ee658e7113170dd6c074e5b1ccb41507e96df7a0267cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316784,
+      "datetime": 1746625279
+    },
+    {
+      "title": "2024 Total Dividend Income And Portfolio Update",
+      "description": "2024 also saw some changes to some of my holdings as the author shuttled several dividend income payers for higher return crypto plays. Click to read.",
+      "published_utc": "2025-05-07T19:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e84a491388932db92b15edae67d11240e3b812c212aa814a6209bef6a4a9af74",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2007398242/image_2007398242.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134296532,
+      "datetime": 1746617700
+    },
+    {
+      "title": "McDonald's' (NYSE:MCD) investors will be pleased with their splendid 101% return over the last five years",
+      "description": "If you buy and hold a stock for many years, you'd hope to be making a profit. Better yet, you'd like to see the share...",
+      "published_utc": "2025-05-07T19:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60d5fdfb775464049d5b56690123d2bab987adf1997cd6c05c87eb1796e66b12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316785,
+      "datetime": 1746615618
+    },
+    {
+      "title": "S&P 500 companies risk significant earnings hit without access to China's customers: Apollo",
+      "description": "S&P 500 companies risk significant earnings hit without access to China's customers: Apollo",
+      "published_utc": "2025-05-07T17:43:28",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e0531758791e3376e9c674d7cb0e0373ce9d05d1a98acdaaa2201a8c6fb314bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134297699,
+      "datetime": 1746611008
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:55.962176+00:00",
+    "cache_key": "news_6f5688432b6b3a9e330c0af554b31f0d",
+    "count": 5
+  }
+}

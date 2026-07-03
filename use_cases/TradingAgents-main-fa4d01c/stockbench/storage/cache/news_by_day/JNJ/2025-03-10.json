@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson - Icotrokinra results show potential to set a new standard of treatment in plaque psoriasis",
+      "description": "SPRING HOUSE - Johnson & Johnson today announced new icotrokinra data from its comprehensive Phase 3 clinical program and the start of the first-ever head-to-head study in plaque psoriasis seeking...",
+      "published_utc": "2025-03-10T20:39:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3263c10710231cbb6e510e225c0f7e187192b181425afcabeb46997b9c6a3312",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122064,
+      "datetime": 1741610360
+    },
+    {
+      "title": "Genmab Shares Fall After J&J Drops Blood-Cancer Treatment Option",
+      "description": "Genmab Shares Fall After J&J Drops Blood-Cancer Treatment Option",
+      "published_utc": "2025-03-10T19:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=951910a318b37d2a9dc926640a43045d151550e30e14b359ca9b482011190688",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133123584,
+      "datetime": 1741604460
+    },
+    {
+      "title": "Genmab Stops Blood Cancer Treatment Development After J&J Won't License It",
+      "description": "Genmab Stops Blood Cancer Treatment Development After J&J Won't License It",
+      "published_utc": "2025-03-10T18:43:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d6579e85e922701d5f72dc097b5e0086e106434b9f454af1bbdbc2d21020e599",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133118688,
+      "datetime": 1741603380
+    },
+    {
+      "title": "Protagonist Therapeutics Unveils 'Paradigm-Shifting' Drug And Breaks Out",
+      "description": "Protagonist Therapeutics Unveils 'Paradigm-Shifting' Drug And Breaks Out",
+      "published_utc": "2025-03-10T18:19:46",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a55d7493fb58c6cf6d7bc37bd29ce2e81811d28363bf7b4f62e782336c9cd1f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133118668,
+      "datetime": 1741601986
+    }
+  ]
+}

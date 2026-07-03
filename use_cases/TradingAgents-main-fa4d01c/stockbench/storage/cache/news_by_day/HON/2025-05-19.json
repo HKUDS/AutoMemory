@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Hartford Quality Value ETF Q1 2025 Commentary",
+      "description": "Hartford Quality Value ETF outperformed the Russell 1000 Value Index during the quarter. Read more here.",
+      "published_utc": "2025-05-19T23:34:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=32d7f8e3fad37beafac16093e7991b97881be0f20a5ebc8c13eff3326c47e8ed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194081197/image_2194081197.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601056,
+      "datetime": 1747668840
+    }
+  ]
+}

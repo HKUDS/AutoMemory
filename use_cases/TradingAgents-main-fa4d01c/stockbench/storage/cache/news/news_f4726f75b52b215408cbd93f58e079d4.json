@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dodge & Cox Stock Fund Q2 2025 Shareholder Letter",
+      "description": "Dodge & Cox Stock Fund stays focused amid market swings, boosting value with Health Care picks. Discover how disciplined investing drives results",
+      "published_utc": "2025-07-23T05:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a1cfacfa5e3eb86b51afeda1e7ee4129f0bd49dd711e8ade970bda0809035b5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/874979248/image_874979248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136037246,
+      "datetime": 1753220700
+    },
+    {
+      "title": "Commentary: CEOs have a new boss — Trump",
+      "description": "Trump tells businesses what products to make, where to make them, and who to hire. Is this capitalism?",
+      "published_utc": "2025-07-23T03:40:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07ecca67f849207b35e353d37f758637962875e387f97966d9509842929d7319",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038084,
+      "datetime": 1753213213
+    },
+    {
+      "title": "UNH Stock is Down 44% in 2025, But This Analyst Still Thinks UnitedHealth is a Top Q2 Earnings Pick",
+      "description": "UNH stock is battered, but one top analyst says a recovery could double earnings by 2029.",
+      "published_utc": "2025-07-23T03:36:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=788669890dc932afc288098a3d7fd98d0e10b3f13b97efa7e6541ab029a662ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038251,
+      "datetime": 1753212964
+    },
+    {
+      "title": "Polen Focus Growth Strategy Decided to Exit Its Position in UnitedHealth Group (UNH)",
+      "description": "Polen Capital, an investment management company, released its “Polen Focus Growth Strategy” second quarter 2025 investor letter. A copy of the letter can be downloaded here. The market sentiment shifted in the second quarter, from a sharp decline to a V-shaped recovery. In the second quarter, the strategy returned 9.36% (gross) and 9.15% (net) compared […]",
+      "published_utc": "2025-07-22T22:32:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9795d40f66a84ab515d6ae3d0bb27d9307d01eeb0945df675a1ea7055a34e38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033423,
+      "datetime": 1753194750
+    },
+    {
+      "title": "Analysts Trim Price Targets but See Long-Term Value in UnitedHealth (UNH)",
+      "description": "UnitedHealth Group Inc. (NYSE:UNH) is one of the most oversold S&P 500 stocks so far in 2025. While the stock was down only marginally in 2024, it has declined substantially in 2025, placing it among the top three oversold stocks. The downturn primarily began with a weak quarterly result and a revision of guidance in April […]",
+      "published_utc": "2025-07-22T22:08:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b21f2500c0aaee545fb79206e5411d59697d17e5080ca0e971fe21b197c472d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033424,
+      "datetime": 1753193289
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:49.296258+00:00",
+    "cache_key": "news_f4726f75b52b215408cbd93f58e079d4",
+    "count": 5
+  }
+}

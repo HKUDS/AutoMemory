@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "ClearBridge Appreciation ESG Strategy Q1 2025 Commentary",
+      "description": "Marketâs sector performance exhibited a defensive posture in Q1 with health care, consumer staples, utilities and real estate the top-performing industries, outside of energy.",
+      "published_utc": "2025-04-13T21:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1482822139534b3cf52f21a40eba7b71687da970c3c2ff83e4d40f14f065caa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178325066/image_2178325066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901044,
+      "datetime": 1744550100
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "We Could Have A Clear Shot To 6,000, But Be Proactive",
+      "description": "A potential rally to 6,000 is possible if retail sales are positive and the FOMC Meeting is dovish. Read why investors should focus on Fab 5.",
+      "published_utc": "2025-03-17T04:14:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b5f3213ea2e6b78a475e250056dd5914c14e4a6af8b101c64d67240d28c31552",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/546825299/image_546825299.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133203421,
+      "datetime": 1742156053
+    },
+    {
+      "title": "Defending Dividends: Why American Defense Stocks Are The Ultimate Value Play",
+      "description": "Despite regulatory noise and budget fears, American defense contractors offer rock-solid fundamentals. Read more to see my recommendations.",
+      "published_utc": "2025-03-16T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=feb42a705cc0364e11f65a7364a822163483566f19570a60135c243b88ec3c1d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/511466974/image_511466974.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133182547,
+      "datetime": 1742110200
+    },
+    {
+      "title": "Astronaut crew docks with space station to replace 'Butch and Suni'",
+      "description": "A SpaceX capsuledelivered four astronauts to the International Space Stationearly on Sunday in a NASA crew-swap mission that will allow apair of stuck astronauts, Butch Wilmore and Suni Williams,...",
+      "published_utc": "2025-03-16T08:26:52",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8bd7348d979fb7df862e9128ff30166abf0820682ae6683317113371bb23c052",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133180894,
+      "datetime": 1742084812
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:29.701284+00:00",
+    "cache_key": "news_64bf7ff34d121949d57bbfc1e86d3dcf",
+    "count": 3
+  }
+}

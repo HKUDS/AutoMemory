@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "IAK: A Defensive ETF Buy",
+      "description": "The iShares U.S. Insurance ETF (IAK) offers exposure to U.S.",
+      "published_utc": "2025-03-04T17:17:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=abed196b6612db7e67c5ffb30185fa6ab8ed1b0bfd77261827f1fae441eb8a45",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1706231587/image_1706231587.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132975159,
+      "datetime": 1741079838
+    }
+  ]
+}

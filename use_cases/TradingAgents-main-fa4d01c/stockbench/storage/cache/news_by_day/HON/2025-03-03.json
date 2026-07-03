@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Jones Falls, Bitcoin Gains Melt; Warren Buffett Gives This Trump Tariff Warning (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Falls, Bitcoin Gains Melt; Warren Buffett Gives This Trump Tariff Warning (Live Coverage)",
+      "published_utc": "2025-03-03T22:05:54",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=863a2209e083e0ff39656ac357797ff08fd968afc47364f6441062ecbb6a3257",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955881,
+      "datetime": 1741010754
+    },
+    {
+      "title": "Nike, Walt Disney share gains contribute to Dow's 120-point climb",
+      "description": "Nike, Walt Disney share gains contribute to Dow's 120-point climb",
+      "published_utc": "2025-03-03T17:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bf31d5b94a9d9dbf829d451081d98347dd2470ed3aff485b8fdac8acea192740",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132957326,
+      "datetime": 1740995160
+    },
+    {
+      "id": "f69711417e0e3d24d585dd6208670c2391de6ec81fbeb6451bc94db764ce187a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Airport Security Market Report 2025: Revenues to Exceed $25.9 Billion by 2030, Led by SITA, Bosch Sicherheitssysteme, Thales, Honeywell International, and Leidos",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-03-03T09:50:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/03/3035344/28124/en/Airport-Security-Market-Report-2025-Revenues-to-Exceed-25-9-Billion-by-2030-Led-by-SITA-Bosch-Sicherheitssysteme-Thales-Honeywell-International-and-Leidos.html",
+      "tickers": [
+        "THLLY",
+        "HON",
+        "LDOS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global airport security market is expected to reach $25.94 billion by 2030, driven by the need for efficient screening and security measures at airports. Key players in the market include SITA, Bosch Sicherheitssysteme, Thales, Honeywell International, and Leidos.",
+      "keywords": [
+        "airport security",
+        "market report",
+        "security technologies",
+        "screening systems",
+        "cybersecurity"
+      ],
+      "insights": [
+        {
+          "ticker": "THLLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Thales is identified as one of the leading companies in the airport security market, highlighting its prominence and expertise in the field."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International is mentioned as a key player in the airport security market, indicating its strong presence and capabilities in providing security solutions."
+        },
+        {
+          "ticker": "LDOS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leidos is listed as one of the major companies in the airport security market, suggesting its significant role and expertise in the industry."
+        }
+      ]
+    }
+  ]
+}

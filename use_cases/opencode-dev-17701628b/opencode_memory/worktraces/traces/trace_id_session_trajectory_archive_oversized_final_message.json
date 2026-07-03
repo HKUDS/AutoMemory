@@ -1,0 +1,114 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_oversized_final_message",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: production trajectory archive should preserve the final assistant outcome even when the final text part is larger than the card serialization budget.",
+  "checks": [
+    {
+      "description": "Oversized final assistant message should still contribute its outcome to the card.",
+      "write_input": {
+        "session": {
+          "id": "archive-oversized-final",
+          "projectID": "proj-memory",
+          "title": "Webhook rotation cutover",
+          "time": { "created": 1777270000000, "updated": 1777270300000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "Please rotate the webhook verifier and update the staging callback documentation." }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Started by inspecting the webhook verifier and staging callback docs." }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Final fix: rotated webhook verifier to HMAC_V3 and updated docs/webhooks/staging-callback.md. Validation: pnpm test packages/webhooks passed. Follow-up: notify integrations team before deploy. This final result must survive archiving even though the rest of this assistant message is intentionally verbose. The remaining prose repeats operational context about reviewers, rollout notes, and audit breadcrumbs so the single text part is larger than the serializer budget. Reviewers asked for traceability, so the message includes repeated neutral filler about webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. webhook verifier migration planning, staging callback ownership, deployment windows, rollback notes, config checks, and documentation links. End of oversized final message." }
+            ]
+          }
+        ]
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "HMAC_V3", "matcher": "substring" }
+    },
+    {
+      "description": "Final validation command should remain visible from the oversized final message.",
+      "write_input": {
+        "sessionID": "archive-fixture-validation",
+        "title": "Fixture card for validation query",
+        "goal": "Keep unrelated card present.",
+        "outcome": "Unrelated fixture outcome.",
+        "files": ["README.md"],
+        "commands": ["echo fixture"],
+        "concepts": ["fixture"],
+        "l0": "Fixture card for validation query.",
+        "l1": "Unrelated fixture outcome.",
+        "time": { "start": 1777270400000, "end": 1777270500000 }
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "pnpm test packages/webhooks passed", "matcher": "substring" }
+    },
+    {
+      "description": "Final documentation file should remain visible from the oversized final message.",
+      "write_input": {
+        "sessionID": "archive-fixture-docs",
+        "title": "Second fixture card",
+        "goal": "Ensure multiple cards do not mask the target card.",
+        "outcome": "Another unrelated fixture.",
+        "files": ["docs/other.md"],
+        "commands": ["echo other"],
+        "concepts": ["other"],
+        "l0": "Second fixture card.",
+        "l1": "Another unrelated fixture.",
+        "time": { "start": 1777270600000, "end": 1777270700000 }
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "docs/webhooks/staging-callback.md", "matcher": "substring" }
+    },
+    {
+      "description": "Ignored synthetic tail must not be archived.",
+      "write_input": {
+        "session": {
+          "id": "archive-ignored-tail",
+          "projectID": "proj-memory",
+          "title": "Ignored synthetic card",
+          "time": { "created": 1777270800000, "updated": 1777270900000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Visible archived text for ignored-tail control." },
+              { "type": "text", "text": "SYNTHETIC_SHOULD_NOT_ARCHIVE", "synthetic": true }
+            ]
+          }
+        ]
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "^(?![\\s\\S]*SYNTHETIC_SHOULD_NOT_ARCHIVE)[\\s\\S]*Visible archived text[\\s\\S]*$", "matcher": "regex" }
+    },
+    {
+      "description": "Same-session replacement should keep only the updated card.",
+      "write_input": {
+        "sessionID": "archive-fixture-docs",
+        "title": "Second fixture card updated",
+        "goal": "Updated card replaces old fixture.",
+        "outcome": "Updated fixture outcome with CALLBACK_REPLACED_MARKER.",
+        "files": ["docs/replaced.md"],
+        "commands": ["echo replaced"],
+        "concepts": ["replaced"],
+        "l0": "Second fixture card updated.",
+        "l1": "Updated fixture outcome with CALLBACK_REPLACED_MARKER.",
+        "time": { "start": 1777270600000, "end": 1777270800000 }
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "^(?![\\s\\S]*Another unrelated fixture)[\\s\\S]*CALLBACK_REPLACED_MARKER[\\s\\S]*$", "matcher": "regex" }
+    }
+  ]
+}

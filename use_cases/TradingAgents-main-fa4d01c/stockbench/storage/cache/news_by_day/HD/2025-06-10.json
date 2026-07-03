@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "ITB: Trading At A Valuation Discount In Spite Of Potential Bullish Catalysts",
+      "description": "Discover investment opportunities with the iShares U.S. Home Construction ETF (ITB).",
+      "published_utc": "2025-06-10T23:38:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5ff849aa2c26c21c9a65796a7bce3bf4e3208da6e14d80103c13eb225c18f73",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153490882/image_2153490882.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135169882,
+      "datetime": 1749569881
+    },
+    {
+      "title": "BlackRock, Goldman Scale Up Tax Trades in $3 Trillion SMA Boom",
+      "description": "(Bloomberg) -- This year’s stock market turbulence has punished ordinary investors. But for the wealthy, it’s opened up fresh opportunities to convert equity swings into tax breaks — fueling a growing Wall Street business that turns volatility into a financial advantage. Most Read from BloombergTrump Said He Fired the National Portrait Gallery Director. She’s Still There.NYC Mayoral Candidates All Agree on Building More Housing. But Where?Senator Calls for Closing Troubled ICE Detention Facility",
+      "published_utc": "2025-06-10T22:19:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecd1e0b373602260e726a678dd112d260da3adeeb7132b6ce3d6fe0963fe23de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135156418,
+      "datetime": 1749565193
+    },
+    {
+      "title": "Casey's General Stores: Strong Performance, But Valuation May Need A Correction",
+      "description": "",
+      "published_utc": "2025-06-10T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29c07818042950ff0520457c6d65f352d7781faeec45f1e64bd92b896d2c09bc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135153791,
+      "datetime": 1749553200
+    },
+    {
+      "title": "The Highest-Quality Dividend Contenders By Quality Scores",
+      "description": "",
+      "published_utc": "2025-06-10T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a715141ace3b115707a223df8914be7859358185883c42415537be64b013a81",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135148116,
+      "datetime": 1749546000
+    }
+  ]
+}

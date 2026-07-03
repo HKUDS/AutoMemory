@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "BloFin Adds Apple Pay Support, Enhancing a Seamless Crypto Buying Experience for Traders",
+      "description": "BloFin announced the integration of Apple Pay into its Buy Crypto feature, offering users a faster, simpler, and more secure way to purchase digital assets. With Apple Pay now supported, BloFin users...",
+      "published_utc": "2025-07-17T01:06:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=220f7c8e6074aa8cc02c16a0594e3b9984128d6fac58465a16b33e01306cd235",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971206,
+      "datetime": 1752685560
+    }
+  ]
+}

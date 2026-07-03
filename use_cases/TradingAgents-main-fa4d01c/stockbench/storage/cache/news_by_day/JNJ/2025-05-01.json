@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tracking AMG's Yacktman Asset Management Portfolio - Q1 2025 Update",
+      "description": "Read here for Yacktman's Q1 2025 portfolio trends, top holdings, stake changes, and strategies with highlights on Canadian Natural Resources & PepsiCo.",
+      "published_utc": "2025-05-01T07:32:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36a8a56c2d2d6f00a78a6b4f9d508bf30461e0432094acffab2700fd67a431ea",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165461,
+      "datetime": 1746055924
+    },
+    {
+      "title": "Top Stock Reports for Amazon.com, Johnson & Johnson & Cisco Systems",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Amazon.com, Inc. (AMZN), Johnson & Johnson (JNJ) and Cisco Systems, Inc. (CSCO), as well as a micro-cap NeurAxis, Inc. (NRXS).",
+      "published_utc": "2025-05-01T05:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c093f1335c7912e26ecda027ce068191992e96550f94d1685875a269a6a5c236",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165744,
+      "datetime": 1746046920
+    },
+    {
+      "title": "Johnson & Johnson (JNJ): Jim Cramer Says “They Love the Weak Dollar” — Is This Quiet Giant Back in Favor?",
+      "description": "We recently published a list of Jim Cramer Reveals Details Of Trump’s Tariff Negotiations & Discusses 10 Stocks. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other stocks that Jim Cramer discusses. In his recent appearance on CNBC’s Squawk on the Street, Jim Cramer commented […]",
+      "published_utc": "2025-05-01T04:17:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e65ef0cdf1ac83c487d7c93873f07afaca9f0d0bc63cbeee1e3a988334b75e58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165931,
+      "datetime": 1746044228
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, […]",
+      "published_utc": "2025-05-01T02:28:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a34067628fa1c46a0a2e8fbae72f399391e2f71a8d200867c2bf4dc536d19cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165932,
+      "datetime": 1746037697
+    },
+    {
+      "title": "Johnson & Johnson (NYSE:JNJ) Gains FDA Approval For IMAAVY™ To Treat Myasthenia Gravis",
+      "description": "Johnson & Johnson (NYSE:JNJ) recently experienced a 3% price increase in the last quarter, a period during which significant developments occurred for the company. Notably, the FDA granted approval for IMAAVY, a new monoclonal antibody treatment for generalized myasthenia gravis, potentially strengthening J&J's portfolio in autoimmune conditions. Additionally, their Q1 earnings report highlighted a substantial increase in net income and an increased quarterly dividend, marking the 63rd...",
+      "published_utc": "2025-05-01T01:30:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af0fe83484030cbe6511ab509f66026ce1c5ed43f4fb9c2bccae9aded3cfaff2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165933,
+      "datetime": 1746034251
+    }
+  ]
+}

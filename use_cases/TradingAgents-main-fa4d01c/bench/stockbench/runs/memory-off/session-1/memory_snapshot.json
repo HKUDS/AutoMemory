@@ -1,0 +1,23 @@
+{
+  "symbols": [
+    "AAPL",
+    "AMZN",
+    "MSFT"
+  ],
+  "trade_date": "2025-06-30",
+  "memory_strategy": "per-decision-isolated",
+  "isolated_memory_root": "/data2/junzhou2/TradingAgents/bench/stockbench/runs/memory-off/session-1/memory/isolated",
+  "analyst_cache_hits": {
+    "market": 0,
+    "social": 0,
+    "news": 0,
+    "fundamentals": 0
+  },
+  "analyst_cache_misses": {
+    "market": 609,
+    "social": 296,
+    "news": 262,
+    "fundamentals": 353
+  },
+  "analyst_cache_hit": false
+}

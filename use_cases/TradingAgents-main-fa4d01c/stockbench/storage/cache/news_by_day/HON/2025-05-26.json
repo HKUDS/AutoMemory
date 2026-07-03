@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "HONEYWELL COMPLETES SALE OF PERSONAL PROTECTIVE EQUIPMENT BUSINESS TO PROTECTIVE INDUSTRIAL PRODUCTS",
+      "description": "CHARLOTTE, N.C., - Honeywell today announced it has completed the sale of its Personal Protective Equipment business to Protective Industrial Products, Inc. for $1.325 billion in an all-cash...",
+      "published_utc": "2025-05-26T19:17:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1dd06b9de04b7a728aa2e026ecfe325bf5049f4fdfe6aeb471081cf219c02f54",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134700540,
+      "datetime": 1748258237
+    }
+  ]
+}

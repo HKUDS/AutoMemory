@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Stock Market’s Path Depends on Fed’s View of What We Don’t Know",
+      "description": "(Bloomberg) -- For investors and traders trying to game out where the US economy, the stock market or interest rates are headed in the second half of 2025, good luck. There’s simply too much uncertainty to be sure of anything right now.Most Read from BloombergSecurity Concerns Hit Some of the World’s ‘Most Livable Cities’One Architect’s Quest to Save Mumbai’s Heritage From DisappearingJFK AirTrain Cuts Fares 50% This Summer to Lure Riders Off RoadsNYC Congestion Toll Cuts Manhattan Gridlock by 2",
+      "published_utc": "2025-06-21T20:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71e628d833bb5ad8e5181379738c369c9b95ce3c9502fee0b52bc4f711a9dfbb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456332,
+      "datetime": 1750507207
+    },
+    {
+      "title": "Charting the Global Economy: Key Central Banks Hold on Rates",
+      "description": "(Bloomberg) -- Central bankers in the US, UK and Japan held the line on interest rates this week as officials attempt to gauge the impact of tariffs, uncertainty about economic activity and war in the Middle East.Most Read from BloombergOne Architect’s Quest to Save Mumbai’s Heritage From DisappearingBezos Wedding Draws Protests, Soul-Searching Over Tourism in VeniceJFK AirTrain Cuts Fares 50% This Summer to Lure Riders Off RoadsNYC Congestion Toll Cuts Manhattan Gridlock by 25%, RPA ReportsTase",
+      "published_utc": "2025-06-21T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8d164b079999e50a9d6a85e54e7408922d444c487f960ab0a620d811a8f9ddc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135457255,
+      "datetime": 1750496400
+    }
+  ]
+}

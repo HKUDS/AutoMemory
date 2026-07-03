@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "823ed87347910764c638b743c54551c42c30bffdb0781bbc502a56fa2c023b1a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "High-Yield Kraft Heinz Stock Was a Big Letdown in 2024. Could 2025 Be Any Better?",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-01-04T09:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/high-yield-kraft-heinz-stock-was-a-big-letdown-in/?source=iedfolrf0000001",
+      "tickers": [
+        "KHC",
+        "PG",
+        "UL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802525/23_11_01-a-person-pushing-a-full-cart-in-a-warehouse-club-setting-_mf-dolad-gettyimages-1306845916.jpg",
+      "description": "Kraft Heinz's turnaround efforts have faced setbacks in 2024, with the company failing to meet its organic sales growth targets. While the company is following a similar path to other consumer staples makers, it will need to show more progress in 2025 to regain investor confidence.",
+      "keywords": [
+        "Kraft Heinz",
+        "Procter & Gamble",
+        "Unilever",
+        "consumer staples",
+        "turnaround"
+      ],
+      "insights": [
+        {
+          "ticker": "KHC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Kraft Heinz's turnaround efforts have faced challenges in 2024, with the company failing to meet its organic sales growth targets. The company's recent performance has been disappointing, and it will need to show more progress in 2025 to regain investor confidence."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Procter & Gamble is mentioned as an example of a consumer staples company that successfully turned around its business a few years earlier, suggesting that Kraft Heinz could potentially follow a similar path."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Unilever is also mentioned as a company currently using a similar approach to turn its business around, with the article noting that Unilever was able to increase sales by 4.5% in Q3 2024, in contrast to Kraft Heinz's declining sales."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:41.595835+00:00",
+    "cache_key": "news_a9babd4f1ffb2eba3418056831cd016f",
+    "count": 1
+  }
+}

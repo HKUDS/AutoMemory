@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "JPM, BAC, and MS: How U.S. Bank Stocks Line Up in the Trump Era",
+      "description": "The banking world feels like a high-stakes poker game. The chips are flying, the players are tense, and the dealer (i.e., the global economy) keeps throwing wild cards. Tariffs are spiking, markets are swinging, and whispers of a recession are growing louder. Yet, JPMorgan Chase (JPM), Bank of America (BAC), and Morgan Stanley (MS) are still at the table, brushing off market anxiety like seasoned risk takers. The three banking giants are navigating a landscape where intense trade wars, interest",
+      "published_utc": "2025-05-21T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a58e76094d641f0dd6f1a4a5862ed695b67b2bfdb2b312d9e91ed6da10d92b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628135,
+      "datetime": 1747767600
+    },
+    {
+      "title": "Jim Cramer on JPMorgan (JPM) Chase’s Analyst Meetings: “It Moves Stocks”",
+      "description": "We recently published a list of 15 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other stocks on Jim Cramer’s radar On Friday’s episode of Mad Money, Jim Cramer reflected on this week’s market performance, with attention to upcoming […]",
+      "published_utc": "2025-05-21T02:53:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dc58e4df70cf7ed392055407b8c66204659acec8f07e94f56e2757f4afb505e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628136,
+      "datetime": 1747767224
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "description": "Financial Services Roundup: Market Talk",
+      "published_utc": "2025-05-21T01:34:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=567587082092dd253a67aaeeb33adabe7a74b6a83258dfe3982fb05825c7ce90",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632672,
+      "datetime": 1747762440
+    }
+  ]
+}

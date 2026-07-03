@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "American Express Co. stock outperforms competitors on strong trading day",
+      "description": "American Express Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-01-03T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3b0f6dfeb5f271435414a6094f301dda0cd7ee147521ba19039580ace2213ee0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132323541,
+      "datetime": 1735835760
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "'Liberation Day' Tariffs: Potential Impact On The Dow Jones, S&P 500",
+      "description": "",
+      "published_utc": "2025-04-03T03:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4394f8cf3b137db2edeadf9d11aab44e2e09bd6068ed78aaf862a67c4c908672",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133689197,
+      "datetime": 1743623700
+    },
+    {
+      "title": "Microsoft Poised to Benefit From OpenAI Boom as Copilot Gets AI Boost, Jefferies Notes",
+      "description": "OpenAI's user and revenue growth is set to benefit Microsoft via cloud, ownership, and Copilot integration, says Jefferies",
+      "published_utc": "2025-04-03T03:40:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=422aecce25567135e8231aa59d601091ec56093398ebfdb9606bffa6d69de76c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133675866,
+      "datetime": 1743622804
+    },
+    {
+      "title": "Here’s How Much Money Elon Musk and Jeff Bezos Lost in the First Quarter of 2025",
+      "description": "Among the top 10 richest people in the world, only Bill Gates and Warren Buffett added to their fortunes in this period, according to the Bloomberg Billionaires Index.",
+      "published_utc": "2025-04-03T01:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a87b53b67d869fc78b7489f75eca5f5f29b79f547103d1bca77e278985847316",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669345,
+      "datetime": 1743613800
+    },
+    {
+      "title": "RingCentral Plunges 28% YTD: Should You Buy the Stock on the Dip?",
+      "description": "RNG stock benefits from a growing clientele, robust growth in AI initiatives and an increasing demand for its solutions.",
+      "published_utc": "2025-04-03T00:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdde4f575173f5b3761f69bf0c9dca7fa0da1efefbb04027ff54300cc8831f8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133670992,
+      "datetime": 1743611340
+    }
+  ]
+}

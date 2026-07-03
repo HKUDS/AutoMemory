@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing, 3M share losses contribute to Dow's 668-point fall",
+      "description": "Boeing, 3M share losses contribute to Dow's 668-point fall",
+      "published_utc": "2025-03-04T23:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7fa5255cdcf4db35318c23fd67068f76c9220d6160822111e23ae48dbadf8c8c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981004,
+      "datetime": 1741103700
+    },
+    {
+      "title": "Corporate bank bond-buyers wade in, even as stocks get clobbered",
+      "description": "Corporate bank bond-buyers wade in, even as stocks get clobbered",
+      "published_utc": "2025-03-04T23:39:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3e5106b3c89bef1eed2e2cb0af09452402eab50ce1328093426090f0bd3ab97b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981005,
+      "datetime": 1741102740
+    },
+    {
+      "title": "Dow down 267 points on losses for Boeing, American Express shares",
+      "description": "Dow down 267 points on losses for Boeing, American Express shares",
+      "published_utc": "2025-03-04T22:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=712958f6de24b502744efb6215b779f7121108ca619d0d78f7e4a3da27290bc0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981006,
+      "datetime": 1741100100
+    },
+    {
+      "title": "J.P. Morgan Asset Management Releases 2025 Guide to Retirement",
+      "description": "13th edition of Guide explores key themes that will impact retirement planning this year, including Social Security and guaranteed incomeNEW YORK, March 4, 2025 /PRNewswire/ -- J.P. Morgan Asset...",
+      "published_utc": "2025-03-04T21:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=643612d157f4e58402b55489eac46f5f0c57dabe028213590d192f73b0540553",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132976793,
+      "datetime": 1741093267
+    },
+    {
+      "title": "Boeing, American Express share losses lead Dow's 550-point drop",
+      "description": "Boeing, American Express share losses lead Dow's 550-point drop",
+      "published_utc": "2025-03-04T20:28:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a2e6450cb62fca7001ec78e737a84f22579bc0139632b173f30eff76448921d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132976938,
+      "datetime": 1741091280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:59.975405+00:00",
+    "cache_key": "news_237f530836ae82aba91a34ce8efebac8",
+    "count": 5
+  }
+}

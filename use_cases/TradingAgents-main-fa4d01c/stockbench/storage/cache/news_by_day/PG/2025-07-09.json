@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why Procter & Gamble (PG) Dipped More Than Broader Market Today",
+      "description": "Procter & Gamble (PG) reached $157.89 at the closing of the latest trading day, reflecting a -1.63% change compared to its last close.",
+      "published_utc": "2025-07-09T06:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f5a0f3e00073893a015835dcdb7ddc17ecc05e731f68c3dccee868e48293b4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135826228,
+      "datetime": 1752012004
+    },
+    {
+      "title": "P&G Declares Quarterly Dividend for July 2025",
+      "description": "CINCINNATI, July 08, 2025--The Board of Directors of The Procter & Gamble Company (NYSE:PG) declared a quarterly dividend of $1.0568 per share on the Common Stock and on the Series A and Series B ESOP Convertible Class A Preferred Stock of the Company, payable on or after August 15, 2025 to Common Stock shareowners of record at the close of business on July 18, 2025, and to Series A and Series B ESOP Convertible Class A Preferred Stock shareowners of record at the start of business on July 18, 2",
+      "published_utc": "2025-07-09T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de1dda79e1bea302ba24b8fd2b4f9d217b18763b58ba5893191e3aa5d8faff80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135826230,
+      "datetime": 1752005700
+    },
+    {
+      "title": "Procter & Gamble (NYSE:PG) Launches Luxurious Unstopables Laundry Scent Collection With Jasmine Tookes",
+      "description": "Procter & Gamble (NYSE:PG) launched the Unstopables Unlimited Collection, a line of in-wash scent boosters, in collaboration with Jasmine Tookes. Despite this product release, the company's stock price experienced a moderate increase of 1.33% over the last quarter, aligning with a general market trend that remained largely flat with a yearly gain of 13%. The market was tempered by ongoing trade uncertainties as tariffs were postponed and broader economic concerns lingered. The company's other...",
+      "published_utc": "2025-07-09T01:17:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84e4af300113af3ec988d7b066a631201558942ec25d30bee835e0bec71748c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135826231,
+      "datetime": 1751995066
+    },
+    {
+      "title": "The Procter & Gamble Company Declares Quarterly Dividend on Common Stock, Payable or after August 15, 2025",
+      "description": "The Board of Directors of The Procter & Gamble Company declared a quarterly dividend of $1.0568 per share on the Common Stock, payable on or after August 15, 2025 to Common Stock shareowners of record...",
+      "published_utc": "2025-07-09T01:05:21",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=646392166fb66533c808ca77f91a578af9ad14e99899e1cc0f49f0c1b61ef3be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135821604,
+      "datetime": 1751994321
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-07-09T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4950c03ee866196d6d80de1194a963370a894ceaa427fed27c024c7787dee983",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135858562,
+      "datetime": 1751992260
+    }
+  ]
+}

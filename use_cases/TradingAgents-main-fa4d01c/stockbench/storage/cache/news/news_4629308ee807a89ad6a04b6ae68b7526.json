@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PayPal has some big new growth targets. Can it hit its marks?",
+      "description": "PayPal has some big new growth targets. Can it hit its marks?",
+      "published_utc": "2025-02-26T05:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8a554ea837d946837a273a4e68be7b59cce9a81ea6d631ab565457018eec52f2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881140,
+      "datetime": 1740520560
+    },
+    {
+      "title": "Apple shareholders overwhelmingly reject proposal to scrap company’s DEI efforts",
+      "description": "Apple shareholders overwhelmingly reject proposal to scrap company’s DEI efforts",
+      "published_utc": "2025-02-26T03:24:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=76559ab10678ab67f550b11d7fedc221614aca0c112bc4066c7960c6ca486d47",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881141,
+      "datetime": 1740511440
+    },
+    {
+      "title": "Alphabet: Cloud Growth Uncertainty And Declining Management Sentiment Concern, But It's Still Attractive",
+      "description": "Alphabet's Q4 results highlight mixed performance: EPS beat, revenue missed. Read here for growth challenges, $75B capex concerns, and shifting market sentiment.",
+      "published_utc": "2025-02-26T03:21:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=371db8bd37926b11cc769cc77821ddee8f8fe3a80410d604d931465cf164cd6e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451451810/image_1451451810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132874045,
+      "datetime": 1740511277
+    },
+    {
+      "title": "Apple Shareholders Reject DEI Proposal",
+      "description": "Apple investors rejected a proposal to abolish its corporate Diversity, Equity and Inclusion program, but CEO Tim Cook says the company may need to make changes to the policy as the law evolves....",
+      "published_utc": "2025-02-26T00:44:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a57d1efffaff5159c7e4d4f8d6a55b4965ad8e35247a1ad7375ff3282b2df036",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132873301,
+      "datetime": 1740501863
+    },
+    {
+      "title": "Apple Pledges to Fix Transcription Glitch That Replaces ‘Racist’ With ‘Trump’",
+      "description": "Apple Pledges to Fix Transcription Glitch That Replaces ‘Racist’ With ‘Trump’",
+      "published_utc": "2025-02-26T00:38:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=f92e4eec7ac31ecad4438b4e48b36ead7c43804757feee41f3cb723946b0e5d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881111,
+      "datetime": 1740501480
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:52.078813+00:00",
+    "cache_key": "news_4629308ee807a89ad6a04b6ae68b7526",
+    "count": 5
+  }
+}

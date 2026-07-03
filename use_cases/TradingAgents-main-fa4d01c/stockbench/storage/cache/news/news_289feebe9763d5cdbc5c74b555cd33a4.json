@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why McDonald’s Corporation (MCD) is Among the Best Coffee Stocks to Buy Now",
+      "description": "We recently published a list of the 11 Best Coffee Stocks to Buy Now. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against the other best coffee stocks to buy now. Overview of the Coffee Sector According to the US National Coffee Association, the number of Americans […]",
+      "published_utc": "2025-03-27T06:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=440a8c2c4bddc722aa332c61c07164c0a0b5f406161fa9750554797fac831e16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462088,
+      "datetime": 1743026415
+    },
+    {
+      "title": "With 74% ownership, McDonald's Corporation (NYSE:MCD) boasts of strong institutional backing",
+      "description": "Key Insights Given the large stake in the stock by institutions, McDonald's' stock price might be vulnerable to their...",
+      "published_utc": "2025-03-26T20:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e5dcee69b133deb8f5bdf5ad0e51e15a368c34c531cfd10c0eadae1486d9ac1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133448363,
+      "datetime": 1742990410
+    },
+    {
+      "title": "Chevron, McDonald's share gains contribute to Dow's 118-point jump",
+      "description": "Chevron, McDonald's share gains contribute to Dow's 118-point jump",
+      "published_utc": "2025-03-26T19:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5dc775908e4183e81d2ef577dbfde84a64b6fce93c1704e497f60bc002ac4b94",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133463167,
+      "datetime": 1742987880
+    },
+    {
+      "title": "Dow rallies 225 points on gains in shares of Honeywell, IBM",
+      "description": "Dow rallies 225 points on gains in shares of Honeywell, IBM",
+      "published_utc": "2025-03-26T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0f54bf309547556e7549cc8f1c9604ea9cfeb1bf07c2d9a802860126484632b2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133463714,
+      "datetime": 1742982300
+    },
+    {
+      "title": "Spotting Winners: Yum China (NYSE:YUMC) And Traditional Fast Food Stocks In Q4",
+      "description": "The end of the earnings season is always a good time to take a step back and see who shined (and who not so much). Let’s take a look at how traditional fast food stocks fared in Q4, starting with Yum China (NYSE:YUMC).",
+      "published_utc": "2025-03-26T17:12:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e59779d70e1b4673c8d434065f5853b93770ed18d7bfb68bee4f6a3fbe8464d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133457232,
+      "datetime": 1742980375
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:52.490272+00:00",
+    "cache_key": "news_289feebe9763d5cdbc5c74b555cd33a4",
+    "count": 5
+  }
+}

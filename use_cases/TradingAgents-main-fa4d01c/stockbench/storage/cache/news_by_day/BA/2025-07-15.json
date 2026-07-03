@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "EU Targets Boeing, US Cars and Bourbon With €72 Billion List",
+      "description": "(Bloomberg) -- The European Union has finalized a second list of countermeasures to target US goods worth €72 billion ($84 billion), including Boeing Co. aircraft, automobiles and bourbon if it decides to retaliate as transatlantic trade tensions intensify.Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?Advocates Fear US Agents Are Using ‘Wellness Checks’ on Children as a Prelude to ArrestsHow German Cities Are Rethinking Women’s Safety — With TaxisLA Homelessness Drops for Second",
+      "published_utc": "2025-07-15T07:49:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eafd89f045faaa893562dc7eef7bbfc18ceb0a5c2bfd8102a04a09eb78022b40",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135933105,
+      "datetime": 1752536994
+    },
+    {
+      "title": "Top Research Reports for Eli Lilly, Netflix & GE Aerospace",
+      "description": "LLY, NFLX, and GE lead today's top stock picks, with strong growth drivers but face headwinds from pricing, rivals, and costs.",
+      "published_utc": "2025-07-15T04:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58b6aac6ca314dd0b51883447506ef092542ecc44a514862f7843700de8d81e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931649,
+      "datetime": 1752525300
+    },
+    {
+      "title": "Jim Cramer Thinks Boeing “Stock’s Going Much Higher”",
+      "description": "The Boeing Company (NYSE:BA) is one of the stocks on Jim Cramer’s radar. During the episode, Cramer showed bullish sentiment toward the stock, as he commented: “Let me give you another one many missed. Boeing just announced some huge second-quarter deliveries, and deliveries are the chief determinant of its stock price. The company delivered 150 […]",
+      "published_utc": "2025-07-15T02:46:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c873c92ac55189094163206cae33e9afb7a8a503f62bf365e0c4d4d192f4aaba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135933112,
+      "datetime": 1752518785
+    },
+    {
+      "title": "Why Astronics (ATRO) Stock Is Trading Lower Today",
+      "description": "Shares of aerospace and defense technology solutions provider Astronics Corporation (NASDAQ:ATRO) fell 3% in the afternoon session after the stock appeared to be taking a breather as investors engaged in profit-taking following a significant rally in the prior trading session.",
+      "published_utc": "2025-07-15T02:45:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c34832b90160b276d100fc7e6cb1e22d3b322cfddc5f3a116094152f5973f4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135933113,
+      "datetime": 1752518757
+    },
+    {
+      "title": "US Equity Indexes Inch Up Ahead of Mega-Cap Banks' Earnings, Consumer Price Index",
+      "description": "US equity indexes edged higher in midday trading Monday, ahead of Tuesday's consumer price index rel",
+      "published_utc": "2025-07-15T01:43:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d189826fe6859e41bf74727711710c1ebce4175a62bc5e1ceebfea51bed5cf4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135933114,
+      "datetime": 1752515024
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Boeing CEO Ortberg is winning hearts on Wall Street. Here’s the latest vote of confidence.",
+      "description": "Boeing CEO Ortberg is winning hearts on Wall Street. Here’s the latest vote of confidence.",
+      "published_utc": "2025-06-03T05:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d476eb8be62a3dbc3f225814dee8d18f3f9af9aebf3dfd029e1031824dbf25c9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134984792,
+      "datetime": 1748901000
+    },
+    {
+      "title": "Boeing Stock, Up 64% From April Low, Upgraded To Buy As Trump Game Piece",
+      "description": "Boeing stock upgraded to buy as Dow Jones jet maker plays a key role in Trump trade deals. BA stock rallies 64% from April low.",
+      "published_utc": "2025-06-03T04:28:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf221ee346e65a7c569d1a8c617703693f13fe7e6093e0a13ed65e68f6dc7f50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968334,
+      "datetime": 1748896131
+    },
+    {
+      "title": "NTSB to hold June 24 hearing to determine cause of 2024 Boeing 737 MAX 9 mid-air emergency",
+      "description": "The board said Monday it will hold the hearing into the Alaska Airlines flight that prompted the Justice Department to open a criminal investigation and declare that Boeing was not in compliance with a 2021 deferred prosecution agreement.  The incident badly damaged Boeing's reputation and led to the MAX 9 grounding for two weeks and a cap by the Federal Aviation Administration on the plane's production that remains in place.",
+      "published_utc": "2025-06-03T04:22:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b04456b7caa6bc70de6d69f822e2fed2148bcdd28657b4e783277d2602123f7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968335,
+      "datetime": 1748895737
+    },
+    {
+      "title": "Boeing Stock Just Got Upgraded. Why This Analyst Says Shares Can Gain 25%.",
+      "description": "BofA analyst Ronald Epstein upgraded Boeing stock to Buy from Hold. He also raised his target price to $260—the highest on Wall Street—from $185.",
+      "published_utc": "2025-06-03T04:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df93aa0076a3506e1fb2b721634f7991caedd40213c86c618b6edb7525a0aebc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968337,
+      "datetime": 1748895120
+    },
+    {
+      "title": "Boeing Rolls Out First 737 Max At 38 Per Month Rate- Air Current",
+      "description": "June 2 - * BOEING ROLLS OUT FIRST 737 MAX AT 38 PER MONTH RATE- AIRCURRENTSource: https://tinyurl.com/yuypmbsj ...",
+      "published_utc": "2025-06-03T03:12:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=436b7f2081e1bcb36671370dd98932926a1cfd3a134df5ec432bf2833d351fc7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967065,
+      "datetime": 1748891527
+    }
+  ]
+}

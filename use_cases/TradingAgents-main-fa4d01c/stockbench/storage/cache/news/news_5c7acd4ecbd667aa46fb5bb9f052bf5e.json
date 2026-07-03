@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth raises concerns over Bill Ackman's post on X with SEC",
+      "description": "UnitedHealth has reached outto the U.S. Securities and Exchange Commission about billionaireinvestor Bill Ackman's now-deleted post on social media platformX that said he would take a short...",
+      "published_utc": "2025-02-05T23:10:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0bb35cd6a4a1eb8f8b1414cce9e20882eef074a18070fe8da13412d78bc9e437",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564635,
+      "datetime": 1738768223
+    },
+    {
+      "title": "Dow's 140-point fall led by losses for shares of UnitedHealth, Merck",
+      "description": "Dow's 140-point fall led by losses for shares of UnitedHealth, Merck",
+      "published_utc": "2025-02-05T18:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4324f4aab5bdee985d884c706306d687c634c2961275b19c4569ef331412e62c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564102,
+      "datetime": 1738749780
+    },
+    {
+      "title": "ClearBridge Growth Portfolios Q4 2024 Commentary",
+      "description": "Performance was supported in the quarter by AI-indexed semiconductor and software provider Broadcom, along with a cohort of disruptors. Read more here.",
+      "published_utc": "2025-02-05T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9fafe55af9968c5fff0f9de4be882738f07d01c01f0ff6eb7bb997d3221ceb4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1061700868/image_1061700868.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132562056,
+      "datetime": 1738743300
+    },
+    {
+      "title": "LRT Capital Management January 2025 Investor Update",
+      "description": "For the month of January, LRT Capital Management strategy return was +7.51%, bringing overall results to +7.51% for the year. Click here to read more.",
+      "published_utc": "2025-02-05T11:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc3d1d8e4081b4a12538247342f050d9d2a7c4a18d3fa50f14b37822cbe2c1f4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1357752804/image_1357752804.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132559791,
+      "datetime": 1738727100
+    },
+    {
+      "title": "I Do Not Want My Future To Depend On Another AI Bot",
+      "description": "Discover how reliable insurers and Buffett-style stocks can help protect against market shocks and offer stable returns with lower volatility. Read what investors need to know.",
+      "published_utc": "2025-02-05T01:04:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=af44fefc9f2a0cf16d36ec3764e9748ec17b1688d9e13f2007b7a3ec8c352767",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/806264432/image_806264432.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132558293,
+      "datetime": 1738688691
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:19.611886+00:00",
+    "cache_key": "news_5c7acd4ecbd667aa46fb5bb9f052bf5e",
+    "count": 5
+  }
+}

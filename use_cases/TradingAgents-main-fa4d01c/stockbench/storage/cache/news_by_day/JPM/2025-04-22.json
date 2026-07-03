@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "JPMorganChase Investor Day 2025",
+      "description": "NEW YORK, April 21, 2025--JPMorgan Chase & Co. (NYSE: JPM) (\"JPMorganChase\" or the \"Firm\") will host an Investor Day in New York City on Monday, May 19, 2025 at 8:00 a.m. (Eastern). Presentations by members of executive management are expected to conclude at approximately 12:00 p.m. (Eastern).",
+      "published_utc": "2025-04-22T04:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c2a16ed21b1ea9acb850cc9696a1f0d4de05aac647ded82e1556e8adc6ff3c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031895,
+      "datetime": 1745268840
+    },
+    {
+      "title": "JPMorgan Chase & Co. (JPM): Among Billionaire Rob Citrone’s Top Stock Picks",
+      "description": "We recently published a list of Billionaire Rob Citrone’s Top 10 Stock Picks. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other billionaire Rob Citrone’s top stock picks. Robert K. Citrone is a well-known figure in the financial world. Rob, as many call him, […]",
+      "published_utc": "2025-04-22T01:13:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7e8f09ac49b197fe652c3ae082c2b7cf390ca20b33097933d0cb5d9fa8049b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026287,
+      "datetime": 1745255582
+    },
+    {
+      "title": "JPMorgan Chase & Co. stock",
+      "description": "JPMorgan Chase & Co. stock",
+      "published_utc": "2025-04-22T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1580bc865046f512b4f93c3514db238a253fadf19a075435e78a2c41079f4cd2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052661,
+      "datetime": 1745253060
+    },
+    {
+      "title": "Chicken, crypto and Nvidia: The companies that helped Trump’s inauguration shatter fundraising records",
+      "description": "A wide array of companies helped President Trump shatter fundraising records during his second inauguration, netting $239 million.",
+      "published_utc": "2025-04-22T00:09:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=254377ba4ebee8b1577b47874b863bd183453450265106debf7cb5fe210046aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024092,
+      "datetime": 1745251782
+    }
+  ]
+}

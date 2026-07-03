@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Video Highlights from First Princeton CorpGov Forum 2025",
+      "description": "CorpGov is happy to share video highlights of the first Princeton CorpGov Forum held on May 22, 2025, at The Nassau Inn in Princeton, New Jersey. The event was hosted together with NYSE and Goldman Sachs and featured over a hundred institutional investors, corporate executives, and Princeton alumni/students in an afternoon of panels, firesides and networking. […] The post Video Highlights from First Princeton CorpGov Forum 2025 appeared first on CorpGov.",
+      "published_utc": "2025-06-17T00:40:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c6a887a360894c99b42d633d565e854898802d083a84e14923a37a096945cfd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135309253,
+      "datetime": 1750092042
+    },
+    {
+      "title": "Dow up 275 points on gains for shares of American Express, Goldman Sachs",
+      "description": "Dow up 275 points on gains for shares of American Express, Goldman Sachs",
+      "published_utc": "2025-06-16T22:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b1811026487b1c3bd6ecdb8776832cd209d9e41ff58fbb40640a28ddc32cae4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135328357,
+      "datetime": 1750085460
+    },
+    {
+      "title": "Americans Are Gorging on Stocks. Why They May Keep Buying.",
+      "description": "Americans Are Gorging on Stocks. Why They May Keep Buying.",
+      "published_utc": "2025-06-16T21:19:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c1fa1aa4c6d51fb0d027f09466c7741f3bd158c43b131ce5234e665acf8e87b5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135330874,
+      "datetime": 1750079940
+    },
+    {
+      "title": "Dow's 386-point rally highlighted by gains in shares of Goldman Sachs, American Express",
+      "description": "Dow's 386-point rally highlighted by gains in shares of Goldman Sachs, American Express",
+      "published_utc": "2025-06-16T19:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dcbb150a661434a813466ec2c678c0f72fb0690e90be2304356ff0fa91c38829",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135328366,
+      "datetime": 1750074720
+    },
+    {
+      "title": "American Express, Goldman Sachs share gains contribute to Dow's 500-point rally",
+      "description": "American Express, Goldman Sachs share gains contribute to Dow's 500-point rally",
+      "published_utc": "2025-06-16T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8342003e1ddfe25ec9779c526db5b94a976400d5c2e6656032a81b100484a7af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135303637,
+      "datetime": 1750070760
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:36.421551+00:00",
+    "cache_key": "news_f37afd18cf8362a68324618507f8465a",
+    "count": 5
+  }
+}

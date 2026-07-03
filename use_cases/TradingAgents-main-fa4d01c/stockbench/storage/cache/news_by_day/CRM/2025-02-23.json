@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Stay ahead this week with updates on Nvidia earnings, key inflation data, and GDP insights. Discover market trends and top earnings reports.",
+      "published_utc": "2025-02-23T15:07:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e74a6906f75d53957887fafe9ea14ddb083a1472ff03b4cd34df0d3b9188e225",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493247947/image_493247947.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132857197,
+      "datetime": 1740294458
+    },
+    {
+      "id": "81e6c8917033c432c3e1473abd5886100cde4841d76bbfc8157ea82857f7d3ec",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Artificial Intelligence Stocks to Buy Like There's No Tomorrow",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-02-23T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/23/3-artificial-intelligence-stocks-to-buy-like-there/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808088/gettyimages-1480633240.jpg",
+      "description": "The article discusses three AI stocks that are well-positioned to benefit from the growing demand for AI infrastructure and services: Nvidia, Alphabet, and Salesforce. It highlights the companies' strengths and growth opportunities in the AI space.",
+      "keywords": [
+        "Nvidia",
+        "Alphabet",
+        "Salesforce",
+        "AI",
+        "Cloud computing",
+        "Agentic AI"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is the leading provider of GPUs for AI infrastructure, and its market share and technology leadership are expected to continue driving growth as AI spending increases."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google Cloud is benefiting from growing AI demand, and the company is developing its own AI chips and models to improve its offerings and monetization opportunities."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google Cloud is benefiting from growing AI demand, and the company is developing its own AI chips and models to improve its offerings and monetization opportunities."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is positioning itself as a leader in the emerging agentic AI market with its Agentforce solution, which has seen strong early demand from customers."
+        }
+      ]
+    }
+  ]
+}

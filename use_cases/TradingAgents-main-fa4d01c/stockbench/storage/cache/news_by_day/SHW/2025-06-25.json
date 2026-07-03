@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "5 Must-Read Analyst Questions From Sherwin-Williams’s Q1 Earnings Call",
+      "description": "Sherwin-Williams delivered first quarter results that prompted a positive market response, as margin expansion and disciplined cost management offset flat organic revenue and a modest decline in total sales. Management cited growth in its Paint Stores Group, particularly in residential repaint and protective and marine coatings, as key drivers, even as softness persisted in commercial, property maintenance, and international segments. CEO Heidi Petz emphasized ongoing efforts to “navigate a wide",
+      "published_utc": "2025-06-25T02:17:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84248abc7214fd7fcc96ee578c28184ae03caa48a4fbb7e8abce81014b114107",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135528685,
+      "datetime": 1750789079
+    }
+  ]
+}

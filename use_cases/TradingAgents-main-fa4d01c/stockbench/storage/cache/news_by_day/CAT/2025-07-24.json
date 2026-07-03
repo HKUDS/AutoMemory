@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Gerald Johnson elected to Eaton’s Board of Directors",
+      "description": "DUBLIN, July 23, 2025--Intelligent power management company Eaton (NYSE:ETN) today announced that Gerald Johnson has been elected to the company’s Board of Directors effective July 23, 2025.",
+      "published_utc": "2025-07-24T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcd5c4f4f7416274fa22d63be736b29525375e3541adff5b5ae73d68ba0cee1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062315,
+      "datetime": 1753302600
+    }
+  ]
+}

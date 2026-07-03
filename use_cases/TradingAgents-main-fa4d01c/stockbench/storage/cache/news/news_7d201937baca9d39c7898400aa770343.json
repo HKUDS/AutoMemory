@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Travelers Cos. Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-03-05T00:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=52a94a596ec79ab449702239f3bd8fae6a4680569a11fdc10118665fda111618",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132987561,
+      "datetime": 1741106760
+    },
+    {
+      "title": "IAK: A Defensive ETF Buy",
+      "description": "The iShares U.S. Insurance ETF (IAK) offers exposure to U.S.",
+      "published_utc": "2025-03-04T17:17:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=abed196b6612db7e67c5ffb30185fa6ab8ed1b0bfd77261827f1fae441eb8a45",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1706231587/image_1706231587.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132975159,
+      "datetime": 1741079838
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:57.015805+00:00",
+    "cache_key": "news_7d201937baca9d39c7898400aa770343",
+    "count": 2
+  }
+}

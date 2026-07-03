@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Oracle Stock Slips as Firm Gives Big Services Discount to US Government",
+      "description": "Oracle is reducing what it charges the federal government for its services through November.",
+      "published_utc": "2025-07-07T23:26:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8a02d84cc6872f896539857698c4e34ae29d69f04b3b4641900598417f84af5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135790740,
+      "datetime": 1751901996
+    },
+    {
+      "title": "AI is forcing the data industry to consolidate — but that’s not the whole story",
+      "description": "While AI may be the catalyst behind the recent wave of data company M&A, the market was ripe for consolidation.",
+      "published_utc": "2025-07-07T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dacb1787266225c7a6e18cf1d91c8a8c318b9383e9f63d1ddaabc0ced803a0e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135791179,
+      "datetime": 1751900400
+    },
+    {
+      "title": "UiPath Stock Jumps 36% in Three Months: Time to Buy PATH?",
+      "description": "PATH jumps 36% in three months as strong partnerships, solid growth and discounted valuation draw investor interest.",
+      "published_utc": "2025-07-07T21:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fea2906ad26db39e5e991d74d694cf45b50d2f9966ee620604c4c2f2c8263350",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787563,
+      "datetime": 1751893380
+    },
+    {
+      "title": "Kevin Egan Joins ClickHouse as Chief Revenue Officer to Accelerate Growth",
+      "description": "SAN FRANCISCO, July 07, 2025--ClickHouse, a leader in real-time analytics, data warehousing, observability, and AI/ML, today announced the appointment of Kevin Egan as Chief Revenue Officer (CRO). With over two decades of experience building and leading enterprise sales organizations at Atlassian, Slack, Dropbox, and Salesforce, Egan will oversee ClickHouse’s global go-to-market functions as demand continues to grow.",
+      "published_utc": "2025-07-07T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56d7e16b873cf71e8fdd1f9ac2d5cb5ece811dd1a78acb12ef32e95ef37e2743",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135788028,
+      "datetime": 1751893200
+    },
+    {
+      "title": "EasySend Launches New Website and Platform Capabilities, Defying the Limits of Traditional Forms",
+      "description": "EasySend, the Digital Experience Platform designed to bridge the gap between your customers and your business, today unveiled its newly redesigned website and expanded, AI-enabled platform capabilities — signaling a bold new vision for how enterprises can streamline their workflow and elevate customer service.",
+      "published_utc": "2025-07-07T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b953ea5e481fe5a19da7ba5f480ffe4f41eec951b30f8b67e93eb0a80bed247d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135791181,
+      "datetime": 1751893200
+    }
+  ]
+}

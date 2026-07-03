@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "What Moved Markets This Week",
+      "description": "U.S. stocks recorded the second-best weekly advance of 2025 on Friday as tariff concerns eased. Read more about this week's major events on Wall Street.",
+      "published_utc": "2025-04-26T14:45:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cbd8576e561e89b433c0b95f43fbbd1c93dda3f91d0ece9b74ac2a1e8fbff09",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099176,
+      "datetime": 1745649939
+    },
+    {
+      "title": "Boeing Faces Key Turnaround Challenges With Tariff Risks, China Orders: Analyst",
+      "description": "BofA Securities analyst Ronald J. Epstein reiterated the Neutral rating on Boeing Company (NYSE:BA) on Thursday, with a price forecast of $185. The analyst states that Boeing still faces major hurdles in its turnaround efforts. Key among them is the need to stabilize 737 model production at 38 units per month before seeking FAA approval to increase output to 42. Additionally, Epstein remarks that the company must keep its loss-making defense programs on track to avoid further pressure on free ca",
+      "published_utc": "2025-04-26T08:04:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c88c60df8e09f43b8dd2aa71ffe917172a46553b45366c8b9888164b8a9e7b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104617,
+      "datetime": 1745625866
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "title": "Junkiest Junk Is Offering a Warning Sign for Debt",
+      "description": "(Bloomberg) -- For much of the year, money managers have embraced optimism and snatched up corporate bonds, sending valuations to ever more expensive levels. Now, Wall Street titans are saying it’s time to focus on how bad things can get. Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadChicago’s O’Hare Airport Seeks Up to $4.3 Billion of Muni DebtPacific C",
+      "published_utc": "2025-05-25T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c66a483a5203aebf3d348a6b31edbfabd993e7e7703cecd977e25a1662e294b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694247,
+      "datetime": 1748113200
+    },
+    {
+      "title": "JPMorgan Unveils Center for Geopolitics Amid Global Uncertainty",
+      "description": "On May 21, JPMorgan Chase & Co. (NYSE:JPM) revealed its Center for Geopolitics (CfG), a new advisory division that offers the bank’s clients in-depth analysis and guidance on navigating the current global political and economic environment. The CfG’s role at JPMorgan is that of a targeted “special forces” team that offers strategic geopolitical insights to […]",
+      "published_utc": "2025-05-24T16:24:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a64a8e74a278b426c27f3c6df07324cf333f9038b2bc09a2cf3e8dd49bd2a42d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694298,
+      "datetime": 1748075042
+    },
+    {
+      "title": "5 Best CEFs This Month For Yields Up To 14% (May 2025)",
+      "description": "",
+      "published_utc": "2025-05-24T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b75c7d61e883a81f425a93fd499175b0ca3c9bb887e49e5974fcd7bdfea8be17",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134687749,
+      "datetime": 1748073600
+    },
+    {
+      "id": "69e1b0e88b5cf664f6ea23edbfd3b12c7ddec9483f9ee87f92b05329899fe98b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire CEO Jamie Dimon Just Delivered a Stark Warning to the Market. Here Are 3 Things Investors Should Do.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-05-24T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/24/billionaire-ceo-jamie-dimon-just-delivered-a-stark/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "WMT",
+        "TGT",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818999/couple-planning-finances-budget-1200x800-5b2df79.jpg",
+      "description": "JPMorgan Chase CEO Jamie Dimon warned of potential market volatility and a 10% drop, citing factors like elevated tariffs and expensive credit. Investors should have cash ready, focus on long-term value stocks, and stay invested despite market fluctuations.",
+      "keywords": [
+        "market volatility",
+        "tariffs",
+        "credit",
+        "investing strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The CEO of JPMorgan Chase, Jamie Dimon, delivered a stark warning about the state of the economy and potential market volatility, including a possible 10% drop in the market."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Walmart said it would need to raise some prices due to new tariffs, indicating a potential negative impact on the company."
+        },
+        {
+          "ticker": "TGT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that Target lowered its full-year guidance, suggesting a potential negative outlook for the company."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Berkshire Hathaway, led by Warren Buffett, has built up its cash reserves to a record high, indicating a cautious and patient approach to investing in the current market environment."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Berkshire Hathaway, led by Warren Buffett, has built up its cash reserves to a record high, indicating a cautious and patient approach to investing in the current market environment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:47:09.936918+00:00",
+    "cache_key": "news_ed607e63444a80c348f0f6b212259f30",
+    "count": 4
+  }
+}

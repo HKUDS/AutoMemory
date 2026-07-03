@@ -1,0 +1,243 @@
+{
+  "items": [
+    {
+      "title": "This Is The Time For SCHD To Shine",
+      "description": "Schwab U.S. Dividend Equity ETF excels in market downturns with a 3.6% dividend yield. Find out why SCHD offers lower risk and better downside protection.",
+      "published_utc": "2025-03-09T17:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5a8ca956c8010e3e6b29b4d8122c60e59630900c77b044483ee13c3ec424659e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2136187857/image_2136187857.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133111447,
+      "datetime": 1741511700
+    },
+    {
+      "id": "62561c06090646e3a49dbd2853f198284347fb78f7e79ff10ae126d884266646",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "PayPal CEO Alex Chriss Just Gave Investors Amazing News",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-03-09T13:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/paypal-ceo-alex-chriss-just-gave-investors-amazing/?source=iedfolrf0000001",
+      "tickers": [
+        "PYPL",
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "SHOP",
+        "SQ",
+        "XYZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810019/a-person-looking-at-a-phone.jpg",
+      "description": "PayPal is undergoing a turnaround, with a new CEO and a revamped commerce platform. The company has provided optimistic guidance, but investors remain skeptical due to the company's past struggles and the competitive landscape.",
+      "keywords": [
+        "PayPal",
+        "digital payments",
+        "competition",
+        "turnaround",
+        "guidance"
+      ],
+      "insights": [
+        {
+          "ticker": "PYPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed outlook on PayPal. While the company's turnaround efforts and improved guidance are positive, investors remain skeptical due to the company's past struggles and the competitive landscape."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that companies like Apple have been releasing their own digital payments functions, which have been increasing competition for PayPal."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that companies like Alphabet have been releasing their own digital payments functions, which have been increasing competition for PayPal."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that companies like Alphabet have been releasing their own digital payments functions, which have been increasing competition for PayPal."
+        },
+        {
+          "ticker": "SHOP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that in order to compete with other commerce platforms like Shopify, PayPal needs to offer an expanded and unified platform."
+        },
+        {
+          "ticker": "SQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that companies like Block have been grabbing market share from PayPal with their complete digital payments systems, such as Cash App."
+        },
+        {
+          "ticker": "XYZ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that companies like Block have been grabbing market share from PayPal with their complete digital payments systems, such as Cash App."
+        }
+      ]
+    },
+    {
+      "id": "6d127689e9b49bc90f9b1c1743f64c7f95fdcf2badf5a25f09828deb6cd9ddb9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Incredible AI Stock's Management Predicts Revenue Will Double in 2025. Should You Buy It?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-09T11:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/this-incredible-ai-stocks-management-predicts/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809818/artificial-intelligence-robotics-ai-touchscreen.jpg",
+      "description": "SoundHound AI, an AI company that uses audio input instead of text, has predicted its revenue will double in 2025. The company has a large revenue backlog and is expected to become profitable by the end of 2025, but its stock is currently trading at a premium valuation.",
+      "keywords": [
+        "SoundHound AI",
+        "AI",
+        "revenue growth",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's strong revenue growth projections, large revenue backlog, and path to profitability, indicating the company's positive outlook."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's strong revenue growth projections, large revenue backlog, and path to profitability, indicating the company's positive outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon's Alexa as a digital assistant, but does not provide any specific commentary on Amazon's performance or outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple's Siri as a digital assistant, but does not provide any specific commentary on Apple's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "c7e541435593fad8df8c553639dcffc3906ec4248c74bdb69294191e6873a6f2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Unstoppable Artificial Intelligence (AI) Stock That Could Join the $3 Trillion Club by 2028",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-09T10:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/meet-the-unstoppable-artificial-intelligence-ai-st/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810215/gettyimages-artificial-intelligence-ai-motherboard-circuit.jpeg",
+      "description": "Meta (Facebook) is investing heavily in AI, which is already improving its financial results. The company's advancements in AI could help it reach a market cap of $3 trillion by 2028 through increased engagement, ad revenue, and new AI-powered products and services.",
+      "keywords": [
+        "Meta",
+        "Artificial Intelligence",
+        "Market Cap",
+        "Growth"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Meta's significant investments in AI, which are already yielding positive results in terms of improved content recommendations, ad performance, and the potential for new AI-powered products and services. The article suggests that these AI advancements could help Meta reach a $3 trillion market cap by 2028."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as the first member of the exclusive $3 trillion market cap club, but does not provide any specific commentary on the company's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Microsoft is one of the few companies that has joined the $3 trillion market cap club, but does not provide any further details on the company's performance or AI-related initiatives."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the companies that has joined the $3 trillion market cap club, and notes that the company is benefiting from the increased spending on AI infrastructure by major tech companies, but does not provide any specific analysis on Nvidia's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "33f374404454c10ce9e6b1243873b46b196c1c977ddd2403eb0c560fb780cad9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying Berkshire Hathaway Stock Today Set You Up for Life?",
+      "author": "Leo Sun",
+      "published_utc": "2025-03-09T08:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/could-buying-berkshire-hathaway-stock-today-set-yo/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810296/buffett17-tmf.jpg",
+      "description": "Berkshire Hathaway, led by Warren Buffett, has outperformed the S&P 500 for decades. Its insurance and investment businesses have been key drivers of growth. However, the upcoming leadership transition and potential changes in strategy raise concerns about Berkshire's future performance.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "insurance",
+        "investment portfolio",
+        "leadership transition"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Berkshire Hathaway's future performance. While the company has a strong track record under Buffett's leadership, the upcoming leadership transition and potential changes in strategy raise concerns about its ability to maintain its market-beating performance."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Berkshire Hathaway's future performance. While the company has a strong track record under Buffett's leadership, the upcoming leadership transition and potential changes in strategy raise concerns about its ability to maintain its market-beating performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway holds a large stake in Apple, which is considered a blue-chip giant. The article suggests that Berkshire's investment portfolio, which includes companies like Apple, has been a key driver of its growth."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway holds a significant stake in American Express, which is also considered a blue-chip company. The article indicates that Berkshire's investment portfolio has been a key contributor to its success."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway holds a large stake in Coca-Cola, another blue-chip company. The article suggests that Berkshire's investment portfolio, which includes companies like Coca-Cola, has been a key driver of its growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:46.780191+00:00",
+    "cache_key": "news_f3e4f2141938a9ca7af9270f47dba884",
+    "count": 5
+  }
+}

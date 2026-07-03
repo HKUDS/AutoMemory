@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Johnson & Johnson (JNJ) is the Best Medical Stock to Buy According to Billionaires",
+      "description": "We recently published a list of 10 Best Medical Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best medical stocks to buy according to billionaires. Why are Healthcare Stocks Under Pressure? Some experts view medical, healthcare, and big […]",
+      "published_utc": "2025-04-14T05:41:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03be68cb9854bc10e639d5d1ff76f339dccb8e04f684ca4807cd196ee488c603",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908234,
+      "datetime": 1744580487
+    },
+    {
+      "title": "Wall Street Brunch: Tariffs For Some",
+      "description": "Listen below or on the go on Apple Podcasts and SpotifyThe following is an abridged transcript:President Donald Trump said he will provide an update on the...",
+      "published_utc": "2025-04-14T01:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c11b94ca2ec4942e1949dd9656f37c2fac1ebf3dc53b86380efeaffccad9341",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1837756135/image_1837756135.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901832,
+      "datetime": 1744565340
+    },
+    {
+      "title": "DJD: Dividend And Value In Mega Caps",
+      "description": "Discover how the Invesco DJD ETF compares to popular dividend ETFs with balanced sector exposure, strong value traits, and insights on yields and...",
+      "published_utc": "2025-04-13T22:12:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3814e8985460c1a7daafd9627c1aa365e76705ede58ad1cd79cffc47239cd0a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1854380206/image_1854380206.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901227,
+      "datetime": 1744553567
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Stay informed with Wall Street updates! Key economic reports, earnings releases, and market insights ahead. Explore trends & navigate volatility effectively.",
+      "published_utc": "2025-04-13T17:37:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=765a44646359d27d6e90e8febdaa3ef34a4489627ef6f0779b4c4603e30b851f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133900406,
+      "datetime": 1744537039
+    },
+    {
+      "title": "Navigating Today's Volatile Market: A Stress-Free Approach",
+      "description": "The stock market faces volatility and uncertainty due to tariff unpredictability, inflation, and economic fluctuations. Our investment strategy lets you sleep well at night. Read more here.",
+      "published_utc": "2025-04-13T16:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f550b61b366c64e835b4cb13ccf6ac34159c26dff6938ed36481c05c9cfa4ca3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/88621226/image_88621226.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133900017,
+      "datetime": 1744531260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:29.210359+00:00",
+    "cache_key": "news_0c97fd989a2c6287297768c4cb436d76",
+    "count": 5
+  }
+}

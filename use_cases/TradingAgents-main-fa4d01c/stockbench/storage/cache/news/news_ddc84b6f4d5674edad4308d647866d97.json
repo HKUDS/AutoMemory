@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer shares Costco, McDonald's, Home Depot, Starbucks news",
+      "description": "The television personality wants to sound the alarm about all four of these brands.",
+      "published_utc": "2025-07-12T12:38:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e56a5c635892a6924b3ba6191cdf086039981bb53ee0a7c29c766b978ca39b44",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135889769,
+      "datetime": 1752295135
+    },
+    {
+      "id": "4aedefe058a86645dd675a049cd5fdec3a7e6d305a7f7e57c0bb80a60ddd221d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "KRISPY KREME DEADLINE ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Krispy Kreme, Inc. and Urgently Encourages Investors to Contact the Firm",
+      "author": "Bragar Eagel & Squire, P.C.",
+      "published_utc": "2025-07-12T16:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/12/3114363/0/en/KRISPY-KREME-DEADLINE-ALERT-Bragar-Eagel-Squire-P-C-Announces-that-a-Class-Action-Lawsuit-Has-Been-Filed-Against-Krispy-Kreme-Inc-and-Urgently-Encourages-Investors-to-Contact-the-F.html",
+      "tickers": [
+        "DNUT",
+        "MCD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+      "description": "A class action lawsuit has been filed against Krispy Kreme regarding alleged misleading statements about its McDonald's partnership, with the company experiencing declining revenues and pausing expansion into new McDonald's locations.",
+      "keywords": [
+        "class action lawsuit",
+        "securities",
+        "McDonald's partnership",
+        "financial performance"
+      ],
+      "insights": [
+        {
+          "ticker": "DNUT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Company reported a 15.3% revenue decline, a net loss of $33.4 million, and is reassessing its McDonald's deployment schedule, leading to a 25% stock price drop"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partnership partner experiencing challenges with Krispy Kreme's product demand"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:06:27.441683+00:00",
+    "cache_key": "news_ddc84b6f4d5674edad4308d647866d97",
+    "count": 2
+  }
+}

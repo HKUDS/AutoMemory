@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Kyndryl rolls out SAP services suite inspired by its own migration story",
+      "description": "The enterprise IT vendor is “living in the platform” after completing an 18-month ERP transition to S/4HANA.",
+      "published_utc": "2025-04-16T22:39:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a581ff40ac0956909138b2d1c68f21cb3b89041170275e611ce37a88e49a60e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942565,
+      "datetime": 1744814399
+    },
+    {
+      "title": "Analysts Estimate IBM (IBM) to Report a Decline in Earnings: What to Look Out for",
+      "description": "IBM (IBM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-04-16T22:00:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49de3db99f46088131ab1f61082639e165626d74aa4509d94ef1429782b2156e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935678,
+      "datetime": 1744812052
+    },
+    {
+      "title": "IBM vs. Microsoft: Which Cloud Computing Stock is a Better Bet?",
+      "description": "With a better price performance and attractive valuation metrics, IBM is relatively better placed than MSFT at the moment.",
+      "published_utc": "2025-04-16T21:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad0f4384775a151d63262f80b9821ce8f07817730fc5548ceb57366f795849e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935498,
+      "datetime": 1744811640
+    },
+    {
+      "title": "Thousands of NVIDIA Grace Blackwell GPUs Now Live at CoreWeave, Propelling Development for AI Pioneers",
+      "description": "Cohere, IBM and Mistral AI deploy thousands of Blackwell GPUs in NVIDIA GB200 NVL72 rack-scale systems to train and run reasoning models and agentic AI.CoreWeave today became one of the first cloud...",
+      "published_utc": "2025-04-16T13:19:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0647ad56fb688661cc963c73963cc265cdc4ab81b2314903c242b98234b3e38d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932411,
+      "datetime": 1744780760
+    },
+    {
+      "title": "Visual Cloud Market Growing Trends 2029, New Opportunities, Future Outlook, Advance Technology",
+      "description": "Global Industry Forecast to 2029.The global visual cloud market is projected to expand from USD 126.02 billion in 2024 to USD 237.26 billion by 2029, growing at a compound annual growth rate of...",
+      "published_utc": "2025-04-16T11:53:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=861e42062bce22b6c175e9968cbd5c35f691acd0020b75af4b21d02dede1b12f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133931812,
+      "datetime": 1744775585
+    }
+  ]
+}

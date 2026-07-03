@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "March of Dimes and Pampers® Award Scholarships to Nursing Students",
+      "description": "Six exceptional nursing students are being recognized with March of Dimes Nursing Scholarships for their bold commitment to improving the health of moms and babies. With generous support from Pampers®, a March of Dimes partner for more than 25 years, the 2025 March of Dimes Nursing Scholarship Awards provide $10,000 to each recipient whose work tackles the maternal and infant health crisis and championing better health outcomes in communities across the US.",
+      "published_utc": "2025-05-14T22:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb5f8a8175015e98dbd548434c4c875d65503f35c552db756ce5533cd3f28ae6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460747,
+      "datetime": 1747234200
+    },
+    {
+      "title": "Italy's crib makers look to the elderly as births fall",
+      "description": "Only two manufacturers remainin northern Italy's once thriving industrial district for babyand child products, after years of falling births andcompetition from abroad forced many of the...",
+      "published_utc": "2025-05-14T12:00:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c4392f0563a164fe2bdf02630db0ccf23629eed7b336f6527afbb693836a2b0b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134433040,
+      "datetime": 1747195218
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:59.607132+00:00",
+    "cache_key": "news_4aec14c3cc25b665ed2dca192c509cac",
+    "count": 2
+  }
+}

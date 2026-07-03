@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Coca-Cola, GM, Alphabet, Tesla: Earnings to watch this week",
+      "description": "Asking for a Trend host Josh Lipton breaks down the major earnings reports to keep an eye on this coming week. On Monday, Verizon (VZ), Ryanair (RYAAY), and Domino's (DPZ) will publish earnings reports. On Tuesday, Coca-Cola (KO), Lockheed Martin (LMT), General Motors (GM), RTX (RTX), Sherwin-Williams (SHW), and D.R. Horton (DHI) report results. Coca-Cola will post its second quarter results on Tuesday before the opening bell, just days after President Trump said the company will start to use cane sugar instead of high-fructose corn syrup. GM is also reporting its second quarter results before markets open on Tuesday, as analysts expect numbers to be in line with estimates. On Wednesday, AT&T (T), Alphabet (GOOG, GOOGL), IBM (IBM), GE Vernova (GEV), Tesla (TSLA), and T-Mobile (TMUS) are releasing earnings. Alphabet's second quarter results will be out after the markets close on Wednesday. CapEx, ad prices, and cloud are all in focus for Alphabet. Tesla's second quarter numbers are also out Wednesday after the closing bell. Analysts expect earnings to be in line with estimates. On Thursday, Honeywell (HON), Keurig Dr Pepper (KDP), Intel (INTC), Union Pacific (UNP), Tractor Supply Company (TSCO), and Deckers (DECK) announce results. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+      "published_utc": "2025-07-20T20:00:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2f9e52d0d312b03fa1ed6095ca02b1dd85687d6b080445e5323530a1e50b8c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019648,
+      "datetime": 1753012831
+    }
+  ]
+}

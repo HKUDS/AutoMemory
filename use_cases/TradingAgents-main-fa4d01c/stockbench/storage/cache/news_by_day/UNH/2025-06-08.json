@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is UnitedHealth a Buy for Long-Term Investors?",
+      "description": "Shares of UnitedHealth Group have experienced an epic sell-off over the last month.",
+      "published_utc": "2025-06-08T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=679ed3e3833a433f62d3fb6b23f91ab920d31545a1f9840e530ccaec8276cffb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135118488,
+      "datetime": 1749387900
+    },
+    {
+      "title": "UnitedHealth: Bernstein lists 3 top priorities for the new CEO",
+      "description": "Investing.com -- In a note to clients on Wednesday, Bernstein identified three critical priorities for UnitedHealth’s new CEO, Steve Hemsley, following the company’s annual shareholder meeting, with pricing discipline emerging as the most immediate focus.",
+      "published_utc": "2025-06-08T17:40:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=baab31fae997e34799670966419b483d43233c834396552e15c9c124c069a182",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114449,
+      "datetime": 1749375602
+    }
+  ]
+}

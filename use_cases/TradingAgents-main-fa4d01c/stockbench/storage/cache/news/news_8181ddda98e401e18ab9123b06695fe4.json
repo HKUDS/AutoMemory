@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Carney Gets Down to Work as Canada Election Drumbeat Grows",
+      "description": "(Bloomberg) -- Mark Carney laid the groundwork to take over as Canada’s prime minister as soon as this week, appointing a chief of staff and promising a speedy transition to a new cabinet that he says will be focused on the economy and fighting back against US tariffs. Most Read from BloombergNJ College to Merge With State School After Financial StressNYC Congestion Pricing Toll Gains Support Among City ResidentsWhere New York City's Zoning Reform Will Add HousingBuffalo’s Billion-Dollar Freeway",
+      "published_utc": "2025-03-11T06:08:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a29edb565d9569200a47b115776d8cf89288dcebec48074ddee09d537eb5f6c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185072,
+      "datetime": 1741644539
+    },
+    {
+      "title": "Goldman Sachs managing director Scott Rubner leaves firm, source says",
+      "description": "Scott Rubner, a managing director in the derivatives sales and macro execution team at Goldman Sachs, has left the investment bank, a source familiar with the matter told Reuters on Monday. ...",
+      "published_utc": "2025-03-11T02:16:47",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7de0ec299794eb4ae39680b88b176c176169243e18a1eadd6c5db4f640ea01b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133128127,
+      "datetime": 1741630607
+    },
+    {
+      "title": "Hedge funds cut risk in stocks at largest amount in two years, Goldman Sachs says",
+      "description": "NEW YORK -Hedge funds reduced their exposure to stocks on Friday at the largest amount in more than two years, according to a Goldman Sachs note released on Monday. The bank added some...",
+      "published_utc": "2025-03-11T00:39:27",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5c7a82152af0c1060aa23a5c1dae8e7defc2a7fdebeed0ae10c2595afc255693",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133127648,
+      "datetime": 1741624767
+    },
+    {
+      "title": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "description": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "published_utc": "2025-03-10T23:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f0efd6bd16cfc5288192b3ff97718103c4c3d57d1088d88c9e62d17a81f11a99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133125334,
+      "datetime": 1741620900
+    },
+    {
+      "title": "Goldman’s Top European IPO Banker Set to Retire After 31 Years",
+      "description": "(Bloomberg) -- Christoph Stanger, one of the longtime leaders in Goldman Sachs Group Inc.’s equity underwriting business across Europe, the Middle East and Africa, is retiring after more than 31 years. Most Read from BloombergNJ College to Merge With State School After Financial StressNYC Congestion Pricing Toll Gains Support Among City ResidentsWhere New York City's Zoning Reform Will Add HousingBuffalo’s Billion-Dollar Freeway Fix Is on Ice, But Not Because of TrumpInside the ‘Not Architecture",
+      "published_utc": "2025-03-10T23:05:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3f95bfd1b90481fddb471326887f5a70fbe4abca5fbd0191d1764f7712dccd0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185073,
+      "datetime": 1741619113
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:51.205010+00:00",
+    "cache_key": "news_8181ddda98e401e18ab9123b06695fe4",
+    "count": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Pfizer to Face Several Headwinds: Can It Successfully Navigate Them?",
+      "description": "PFE faces a decline in COVID revenues, LOE pressure and IRA impacts but rising EPS estimates offer a glimmer of resilience.",
+      "published_utc": "2025-06-24T22:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c4f7360a1b1e638f10f9ab708d3565e404a83552a33b49e9cbfe943a62a8e22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135506341,
+      "datetime": 1750775100
+    },
+    {
+      "title": "5 Dividend Stocks Poised to Profit From the AI Efficiency Boom",
+      "description": "Boring dividend stocks are becoming the smartest way to profit from AI's efficiency revolution.  Microsoft (NASDAQ: MSFT) is using AI-powered code-completion tools to help developers write code 55% faster.  Johnson & Johnson (NYSE: JNJ) is leveraging AI to accelerate drug-discovery timelines.",
+      "published_utc": "2025-06-24T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9208af17d327883e3e55f6757f31a0e35f7824bcd4ddc2a2f47e8634612b63e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135496896,
+      "datetime": 1750766400
+    },
+    {
+      "title": "Johnson & Johnson: Undervalued Dividend King With 65% Upside Potential",
+      "description": "Johnson & Johnson offers stability with 62 years of dividend growth and a 3.44% yield. Click for why JNJ is undervalued and poised for potential 65% upside.",
+      "published_utc": "2025-06-24T19:49:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad8e98110d6e9178ba9b500d6bbbfb8869489d5d11417dbc8c3145bd3187c0d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1916635270/image_1916635270.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135506352,
+      "datetime": 1750765775
+    }
+  ]
+}

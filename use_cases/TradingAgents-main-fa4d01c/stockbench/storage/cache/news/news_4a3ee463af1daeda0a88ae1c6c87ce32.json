@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) The Best American Tech Stock To Buy Now?",
+      "description": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech companies […]",
+      "published_utc": "2025-04-16T02:54:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ca323a00ff10e9fbcfaee176b3cc8d1e8ea56fd64bde9eaf86ccab277ed9356",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932754,
+      "datetime": 1744743255
+    },
+    {
+      "title": "Elliott Builds Over $1.5 Billion Stake in HP Enterprise",
+      "description": "(Bloomberg) -- Elliott Investment Management has built a large position worth more than $1.5 billion in Hewlett Packard Enterprise Co., according to people familiar with the matter. Most Read from BloombergHow Did This Suburb Figure Out Mass Transit?Even Oslo Has an Air Quality ProblemNYC Tourist Helicopter Crashes in Hudson River, Killing SixLisbon Mayor Wants Companies to Help Fix City’s Housing Shortage$15 Million Fund Bets Leadership Training Can Improve Chicago PolicingElliott plans to enga",
+      "published_utc": "2025-04-15T21:52:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=825f855214425730fc764ca574e7d38348d8175f2a00333fafcf4a65323f869e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133921941,
+      "datetime": 1744725165
+    },
+    {
+      "title": "Parnassus Core Select ETF Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-15T21:49:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=61e7ce955a49f8b139bda4a2fad3e2d3964f77602af33173277cac5786f3296c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133925065,
+      "datetime": 1744724940
+    },
+    {
+      "title": "Salesforce (CRM) Slid in Q1 as Growth Guidance Fell Short of Expectations",
+      "description": "Investment management company Vulcan Value Partners recently released its first-quarter 2025 investor letter. A copy of the letter can be downloaded here. The first quarter experienced the return of volatility. The companies’ management teams expressed a more cautious view following the recent election. Optimism has given way to uncertainty about tariffs and potential impacts on earnings, inflation, […]",
+      "published_utc": "2025-04-15T20:37:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6286f9b1c9e007e356f7f277fe4da3c70fd3edd79ff3182a83fefb8382b27068",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133922119,
+      "datetime": 1744720631
+    },
+    {
+      "title": "Disney Stock Is Having a Brutal Year. Why Trump’s Trade War Could Make It Worse.",
+      "description": "Disney Stock Is Having a Brutal Year. Why Trump’s Trade War Could Make It Worse.",
+      "published_utc": "2025-04-15T19:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3506b4918346d15ea62901bda225d404867df33b68e93c6bed238112d9c991b9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147185,
+      "datetime": 1744718340
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:21.203612+00:00",
+    "cache_key": "news_4a3ee463af1daeda0a88ae1c6c87ce32",
+    "count": 5
+  }
+}

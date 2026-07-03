@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Highest-Quality Dividend Champions By Quality Scores",
+      "description": "Highest-quality Dividend Champions have consistently higher annual dividend payouts for at least 25 years. Check out 15 highest-quality Dividend Champions stocks here.",
+      "published_utc": "2025-03-24T04:40:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c01fae6ead35c9c7a67e7a15d027846832400eced03252aac4f3ed78ac053e9b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1305984152/image_1305984152.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133332781,
+      "datetime": 1742762416
+    }
+  ]
+}

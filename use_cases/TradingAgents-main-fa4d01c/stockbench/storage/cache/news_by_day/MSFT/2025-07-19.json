@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "CoreWeave (CRWV) Stock Downgraded: HSBC Flags Liquidity Strains, Heavy Capex Ahead",
+      "description": "CoreWeave, Inc. (NASDAQ:CRWV) is one of the AI Stocks on Wall Street’s Radar. On July 17, HSBC initiated the stock as “Reduce” with a $32 per share price target. The firm said it sees too many negative catalysts and that Coreweave could be in big trouble soon. According to analyst Abhishek Shukla, Coreweave’s revenue comes […]",
+      "published_utc": "2025-07-19T22:27:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47ab3f90941bba87f0c88cfb45c6c6c75b4e1320b8798c1bd1f6b071f143d1bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136017454,
+      "datetime": 1752935245
+    }
+  ]
+}

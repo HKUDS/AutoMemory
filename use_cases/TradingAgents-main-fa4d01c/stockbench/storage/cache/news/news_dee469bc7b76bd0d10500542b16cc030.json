@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Capital One Financial Corporation (COF): CEO’s Going For A “Worldwide Card,” Says Jim Cramer",
+      "description": "We recently published 10 Stocks On Jim Cramer’s Mind As He Gives Up On Becoming Fed Chair. Capital One Financial Corporation (NYSE:COF) is one of the stocks Jim Cramer recently discussed. Capital One Financial Corporation (NYSE:COF)’s merger with Discovery has made it one of Cramer’s favorite stocks in the banking industry. He is particularly enthusiastic […]",
+      "published_utc": "2025-07-27T07:46:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cc2b8f7ace5da948612498aa62f74d910ba8681ea03359603bc1c7033b43cd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101670,
+      "datetime": 1753573604
+    },
+    {
+      "title": "Is This Top Warren Buffett Stock a No-Brainer Buy Right Now?",
+      "description": "As this is Berkshire’s second-biggest position, Buffett has certainly found some traits he appreciates.  This premium credit card brand boasts superb charge-off rates that are the envy of the industry.  Shares of American Express have performed exceptionally well in recent years, creating valuation risk.",
+      "published_utc": "2025-07-26T22:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46df34361bbf242cf2fff06f4a26cdd288fb1961513ef4c2da13981fa4b1840a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101549,
+      "datetime": 1753541100
+    },
+    {
+      "title": "Delta’s struggles with the airport lounge and the angst of the upper middle class in the age of ‘elite overproduction,’ explained",
+      "description": "Peter Turchin argues that societies collapse when there isn't enough room at the top. \"There is a limited amount of space, but many more elites now ... low-rank elites.",
+      "published_utc": "2025-07-26T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bd02a5a1ce4c7434beba03ec30db728e4dc35f6b157991152c4a7bcca3abd90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136096541,
+      "datetime": 1753527600
+    },
+    {
+      "title": "How Amex took over the world",
+      "description": "There is one phrase an American Express cardholder hears probably more often than any other: “Sorry, we don’t take Amex.”",
+      "published_utc": "2025-07-26T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec62e7ba92ad519af06bf653c9be7dea949ce0fac7305eb7e001db37e16c3afa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101860,
+      "datetime": 1753520400
+    },
+    {
+      "title": "The Amex alternatives that offer better rewards",
+      "description": "American Express (Amex) is synonymous with credit card spending but it’s also known for its deals that offer generous cashback, points-based rewards and exclusive perks including priority access to gigs, film screenings and theatre shows. But while these rewards can be appealing, Amex isn’t always the best option.",
+      "published_utc": "2025-07-26T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6feccd4808b733bca975d8844eab80debf83dacc3bfcd5f45a0923ca724929cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101858,
+      "datetime": 1753520400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:12:24.050373+00:00",
+    "cache_key": "news_dee469bc7b76bd0d10500542b16cc030",
+    "count": 5
+  }
+}

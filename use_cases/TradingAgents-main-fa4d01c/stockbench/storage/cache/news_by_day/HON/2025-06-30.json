@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc.(NasdaqGS: HON) dropped from Russell 3000E Growth Index",
+      "description": "Honeywell International Inc. dropped from Russell 3000E Growth Index...",
+      "published_utc": "2025-06-30T07:17:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6a1ecd88c5c225bf41c528316ccf62b34bead5ea450cf9e3c3d4b8e629afd9fb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135635939,
+      "datetime": 1751239043
+    },
+    {
+      "title": "Honeywell International Inc.(NasdaqGS: HON) dropped from Russell 3000 Growth Index",
+      "description": "Honeywell International Inc. dropped from Russell 3000 Growth Index...",
+      "published_utc": "2025-06-30T07:10:50",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a683a5c8ebbf91450bf31030517746004f71e3eae0a99f2e7797fd9131d11df8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135635845,
+      "datetime": 1751238650
+    },
+    {
+      "title": "Honeywell International Inc.(NasdaqGS: HON) dropped from Russell Top 200 Growth Index",
+      "description": "Honeywell International Inc. dropped from Russell Top 200 Growth Index...",
+      "published_utc": "2025-06-30T05:25:41",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8bd83c7831a78db28183c6a4a289d05e476a959b665b11af9e279af124a9385f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135634361,
+      "datetime": 1751232341
+    },
+    {
+      "title": "Honeywell International Inc.(NasdaqGS: HON) dropped from Russell 1000 Growth Index",
+      "description": "Honeywell International Inc. dropped from Russell 1000 Growth Index...",
+      "published_utc": "2025-06-30T05:22:55",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=298118f25ae870c0a754583e30dc69bc8968fd21548d36be8c9a09a4c19f8463",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135634346,
+      "datetime": 1751232175
+    }
+  ]
+}

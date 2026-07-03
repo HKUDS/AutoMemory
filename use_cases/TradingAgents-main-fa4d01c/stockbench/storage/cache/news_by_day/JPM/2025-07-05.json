@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Calls JPMorgan the “Big Dog in the Banking Sector”",
+      "description": "JPMorgan Chase & Co. (NYSE:JPM) is one of the 22 stocks Jim Cramer recently talked about. Cramer’s opinion was that the stock is cheap compared to the rest of the S&P 500. He said: “The big dog in the banking sector, JPMorgan, announced a 7.1% dividend boost that gives the stock a 2.05% yield here. […]",
+      "published_utc": "2025-07-05T22:43:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c33f7d3bba8f9c713245546a72fde6fd84a27a0ee901b696ea1fdc76c7f66717",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766431,
+      "datetime": 1751726631
+    },
+    {
+      "title": "OPEC+ Will Boost Supply Even Faster With Larger August Hike",
+      "description": "(Bloomberg) -- OPEC+ will increase oil production even more rapidly than expected next month, as the group led by Saudi Arabia seeks to capitalize on strong summer demand in its move to reclaim market share.Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsMassachusetts to Follow NYC in Making Landlords Pay Broker FeesNYC Commutes Resume After Midtown Bus Terminal Crash ChaosStruggling Downtowns Are Looking to Lure New CrowdsTrump’s Gilded Design Style May Be Gau",
+      "published_utc": "2025-07-05T19:01:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be89159bd0a225cec59219ad085c5a62c3f3fd45833fbf0883efbac2bd71428c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766113,
+      "datetime": 1751713318
+    },
+    {
+      "title": "U.S. Banks Scale Back Held-To-Maturity Securities For 9th Quarter In A Row",
+      "description": "",
+      "published_utc": "2025-07-05T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3303dc95d8ed4bb38d04785733773b8b8373cb7272e9d0f588eeb3c50d5ebb4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135761549,
+      "datetime": 1751684400
+    }
+  ]
+}

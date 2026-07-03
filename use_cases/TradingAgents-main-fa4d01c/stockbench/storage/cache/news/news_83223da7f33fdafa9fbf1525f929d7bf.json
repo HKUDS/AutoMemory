@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Apple, Chevron share losses lead Dow's nearly 175-point fall",
+      "description": "Apple, Chevron share losses lead Dow's nearly 175-point fall",
+      "published_utc": "2025-05-19T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7073d054a58621ec50513d92ef45c1de2d3e0932778712cd6cea89b653872d62",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581261,
+      "datetime": 1747647900
+    },
+    {
+      "title": "3 Unpopular Stocks Skating on Thin Ice",
+      "description": "When Wall Street turns bearish on a stock, it’s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
+      "published_utc": "2025-05-19T12:42:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c5755a196cf834ab4f9284a01c53ffaa1391713e8260cd5b056c480df50f98f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577430,
+      "datetime": 1747629771
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:16.788892+00:00",
+    "cache_key": "news_83223da7f33fdafa9fbf1525f929d7bf",
+    "count": 2
+  }
+}

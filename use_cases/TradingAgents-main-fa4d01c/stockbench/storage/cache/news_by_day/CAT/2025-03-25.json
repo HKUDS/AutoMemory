@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Advances But Underperforms Market: Key Facts",
+      "description": "The latest trading day saw Caterpillar (CAT) settling at $341.67, representing a +1.75% change from its previous close.",
+      "published_utc": "2025-03-25T05:45:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e1d989009c16b68883a8baf194777d4281bd2a410621629f8a539527e123459",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360415,
+      "datetime": 1742852714
+    },
+    {
+      "title": "Caterpillar Inc. stock rises Monday, still underperforms market",
+      "description": "Caterpillar Inc. stock rises Monday, still underperforms market",
+      "published_utc": "2025-03-25T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b4228bf8f4c568a3cac02c01b8d9c5552a22c7ff399cdbb70c73c7edb4e95f39",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133363103,
+      "datetime": 1742834040
+    }
+  ]
+}

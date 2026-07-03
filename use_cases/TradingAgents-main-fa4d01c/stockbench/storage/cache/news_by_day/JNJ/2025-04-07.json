@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "J&J’s psoriatic arthritis therapy trial meets endpoints",
+      "description": "The trial involved biologic-naïve subjects who had not responded adequately to standard therapies.",
+      "published_utc": "2025-04-07T19:12:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d067fa015d1d667e29b308fe1b16f7e8429e177736dee6d37e7d5159aa60117c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738614,
+      "datetime": 1744024329
+    },
+    {
+      "title": "Dow's 675-point fall led by losses for Nike, Home Depot shares",
+      "description": "Dow's 675-point fall led by losses for Nike, Home Depot shares",
+      "published_utc": "2025-04-07T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21f7e6db04ac2d0313d5eedcd1de78dd786ff5d88ff8f33f73f9d760c1bf6583",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741237,
+      "datetime": 1744022760
+    },
+    {
+      "title": "Book Review: 'No More Tears' scrutinizes the legacy of health giant Johnson & Johnson",
+      "description": "Health care giant Johnson & Johnson is one of the most well-known and respected brands, and its response to the 1982 tampering of Tylenol bottles that killed seven people is held up in business...",
+      "published_utc": "2025-04-07T17:27:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=93347a5e560eae703295e92a4c6f301380453a9b7cad9121d99dc4ac17b9e247",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738297,
+      "datetime": 1744018025
+    },
+    {
+      "title": "ClearBridge Small Cap Growth Strategy Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-07T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0d05ee80576887f8a527e6fc394b8892dec4c03a3e0052f0f59e58bc6ee0b379",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133737835,
+      "datetime": 1744012800
+    }
+  ]
+}

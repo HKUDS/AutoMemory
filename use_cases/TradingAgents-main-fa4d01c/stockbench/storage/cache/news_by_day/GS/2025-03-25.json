@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer: ‘Too Soon to Give Up on Goldman Sachs (GS)’",
+      "description": "We recently published a list of 9 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where Goldman Sachs (NYSE:GS) stands against other stocks on Jim Cramer’s radar. Jim Cramer, the host of Mad Money, shared his concerns on Thursday, describing the current stock market environment as a […]",
+      "published_utc": "2025-03-25T07:49:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eba5b98d21ab63c8260b03ddd3a0ce38c58145ee37ba8c48ca49c2412f03ff7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360403,
+      "datetime": 1742860195
+    },
+    {
+      "title": "Microsoft (MSFT): Among the Tech Stocks to Buy According to Goldman Sachs",
+      "description": "We recently published a list of Goldman Sachs Tech Stocks: 10 Stocks to Buy. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other top Goldman Sachs tech stocks to buy. The technology sector delivered a strong performance in 2024, driven by chip companies, which played a […]",
+      "published_utc": "2025-03-25T04:27:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5e24566f7012f4336292d2375f67c13313320165600a21e44ec070b61357b9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360242,
+      "datetime": 1742848036
+    }
+  ]
+}

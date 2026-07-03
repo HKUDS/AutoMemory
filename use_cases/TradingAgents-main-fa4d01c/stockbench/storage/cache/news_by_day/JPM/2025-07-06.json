@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "'We've Got To Get Our Act Together,' Warns JPMorgan CEO — Mismanagement, Not China, Is America's Real Threat",
+      "description": "\"We've got to get our act together,\" JPMorgan Chase & Co. (NYSE:JPM) CEO Jamie Dimon said in late May, warning that poor governance, not China, could erode U.S. leadership. Speaking at the Reagan National Economic Forum in Simi Valley, California, Dimon pointed to crumbling bridges, grid bottlenecks, and a $36.2 trillion federal debt to shrinking national prestige. He also warned that the dollar's reserve-currency crown could slip if Washington fails to correct course. Don't Miss: Maximize savin",
+      "published_utc": "2025-07-06T07:01:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fc31eadbc503a715408bf31ec3a57d0f116c1bd7b2f6d770f3564e576811c2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768849,
+      "datetime": 1751756488
+    },
+    {
+      "title": "The Securities That Banks Are Backing Away From: Credit Weekly",
+      "description": "(Bloomberg) -- US banks, among the few companies that still sell preferred shares, are following JPMorgan Chase & Co.’s lead and retreating from the securities, even as investors are eager to buy them. Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsTrump’s Gilded Design Style May Be Gaudy. But Don’t Call it ‘Rococo.’Massachusetts to Follow NYC in Making Landlords Pay Broker FeesNYC Commutes Resume After Midtown Bus Terminal Crash ChaosWhat Gothenburg Got Out o",
+      "published_utc": "2025-07-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3be5721e7bb76d52f23e31607eea8559fc7af5df3af5aa04c98af83f1d912616",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135767855,
+      "datetime": 1751742000
+    }
+  ]
+}

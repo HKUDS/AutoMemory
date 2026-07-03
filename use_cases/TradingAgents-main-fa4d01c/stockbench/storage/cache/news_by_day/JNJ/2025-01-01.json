@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "The 5 worst-performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "The Dow's biggest losers include companies in the aerospace, biopharma, and sports apparel sectors.",
+      "published_utc": "2025-01-01T20:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7f3a696e0e56a3cd01b865ec5627e3b730f312cc93b2897bf9e4b8f3312dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226604,
+      "datetime": 1735732980
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Ascends While Market Falls: Some Facts to Note",
+      "description": "The latest trading day saw Johnson & Johnson (JNJ) settling at $144.62, representing a +0.89% change from its previous close.",
+      "published_utc": "2025-01-01T06:45:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7832f82998d3a9589dce1fad1afc41ce1e35870c4dd80432f886864e96970b77",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/gZA5XMnsr1RRZw6lGNAcdA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05NDA-/https://media.zenfs.com/en/zacks.com/c65fb4556b91b6c9dc83e4eff25fede0",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132220789,
+      "datetime": 1735685119
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) Among the Best Low Volatility Stocks to Buy Right Now?",
+      "description": "We recently published a list of 8 Best Low Volatility Stocks To Buy Right Now. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best low volatility stocks to buy right now. The market has shown strong performance overall, with the S&P 500 up nearly […]",
+      "published_utc": "2025-01-01T02:57:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4701cbef955c2893ca9936797fa0ac1d710f7f9d22e20c9ad3e8fcd5e0645058",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DBFyZ0OZ_JyFkP8R8eQoiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9ccf3c88c7274582ef19e20143427c2",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132218406,
+      "datetime": 1735671479
+    }
+  ]
+}

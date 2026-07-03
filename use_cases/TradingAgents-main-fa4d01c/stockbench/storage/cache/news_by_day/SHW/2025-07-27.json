@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Magellan Fund Q2 2025 Commentary",
+      "description": "For the first quarter of 2025, the fund's Retail Class shares returned -5.87%, trailing the -4.27% advance of the benchmark S&P 500 (SP500), (SPX) index.U.S.",
+      "published_utc": "2025-07-27T09:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=00fb5ea88d0fc041ebc8afd11a8934e0d3a35645a4d92eeb493319ea0e8794ee",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1752097598/image_1752097598.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136099320,
+      "datetime": 1753580400
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Best Safe Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 11 Best Safe Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other best safe stocks to buy according to hedge funds. In times when you never know what you’ll wake up […]",
+      "published_utc": "2025-04-26T21:20:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b22451a2b6bb0c01a47b2be7b089d713349d6950144f28766cbc81cb8865b301",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104470,
+      "datetime": 1745673647
+    },
+    {
+      "title": "Better Dividend Stock: JPMorgan Chase vs. Goldman Sachs",
+      "description": "Despite these uncertainties, reliable and high-quality dividend income from a diversified portfolio can be a great option for investors to ride out stock market turbulence.  Let's discuss which of these financial titans is the better dividend stock to buy now.  In this case, it's not a coincidence that shares of JPMorgan have outperformed the broader market, returning 30% over the past year.",
+      "published_utc": "2025-04-26T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83f56dc0cdc743188605803fe165df487ff0f121d4647a0210c243abf7aa3f58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104471,
+      "datetime": 1745659800
+    },
+    {
+      "title": "A Big Market Reversal Might Be Coming In 2025",
+      "description": "We will still likely face a recession. See which investments are poised to outperform amid a potential recession and trade war resolution.",
+      "published_utc": "2025-04-26T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7050ea206420403c0c47d08179210238b7f66cf311225db019e11774a0e7864b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209734748/image_2209734748.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099521,
+      "datetime": 1745655300
+    }
+  ]
+}

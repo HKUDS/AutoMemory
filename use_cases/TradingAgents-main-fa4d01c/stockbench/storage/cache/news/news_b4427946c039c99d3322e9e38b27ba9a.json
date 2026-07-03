@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing Stock Is Down. The 737 MAX Charges May Be Decided This Week.",
+      "description": "More updates about the Justice Department’s criminal prosecution of Boeing related to two 737 MAX crashes should be coming soon.",
+      "published_utc": "2025-05-19T21:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f60036db944680b984b16bfac8375c6a0c03c37ea2f462b9b9a2a2f08e004285",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601702,
+      "datetime": 1747663080
+    },
+    {
+      "title": "DCO Q1 Earnings Call: Defense Growth Offsets Commercial Aerospace Weakness, Margin Expansion Continues",
+      "description": "Aerospace and defense company Ducommun (NYSE:DCO) reported Q1 CY2025 results exceeding the market’s revenue expectations, with sales up 1.7% year on year to $194.1 million. Its non-GAAP profit of $0.83 per share was 18.5% above analysts’ consensus estimates.",
+      "published_utc": "2025-05-19T20:23:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4dde5dd5942165b5fa7114eaf9dbc75e2ff8c9d90652feea4c20c1c05d15b77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601704,
+      "datetime": 1747657415
+    },
+    {
+      "title": "Market Chatter: Boeing Faces Opposition from Crash Victims' Families Over DOJ Deal",
+      "description": "Boeing (BA) is facing strong opposition from families of victims killed in two fatal 737 MAX crashes",
+      "published_utc": "2025-05-19T18:35:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ba304b478983c06bffd939da301c45daabcf8ad26aeac701f5970232b27ea44",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577334,
+      "datetime": 1747650903
+    },
+    {
+      "title": "Ryanair to raise prices as it seeks return to profit growth",
+      "description": "The budget airline saw profits after tax fall 16% in 2024-25 following a 7% cut in fares.",
+      "published_utc": "2025-05-19T16:22:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=095e2abceb56c942913d90571a1110fcb0bd5c513481d579ac8f7a2daae41f02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577335,
+      "datetime": 1747642930
+    },
+    {
+      "title": "Poland seizes tyres for Boeing aircraft headed for Russia",
+      "description": "Polish customs seized 5metric tons of tyres for civilian Boeing aircraft which were dueto transit through Belarus and Russia, the country's NationalRevenue Administration said on Monday, adding...",
+      "published_utc": "2025-05-19T15:32:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d9736c473540ebb16dc142e72c43d2b3e1bc378f07e3cc816f3e35df47f6a110",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134576624,
+      "datetime": 1747639928
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:34.930333+00:00",
+    "cache_key": "news_b4427946c039c99d3322e9e38b27ba9a",
+    "count": 5
+  }
+}

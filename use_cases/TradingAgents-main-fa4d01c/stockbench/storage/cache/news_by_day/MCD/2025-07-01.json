@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s rolls out a Blueberry & Crème Pie",
+      "description": "The new dessert was created to drive traffic and create social media buzz, according to the company",
+      "published_utc": "2025-07-01T23:43:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba8a804ba03e7a50648e777d19597f688d8e56e2c41856e780731f3d58731043",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694097,
+      "datetime": 1751384615
+    }
+  ]
+}

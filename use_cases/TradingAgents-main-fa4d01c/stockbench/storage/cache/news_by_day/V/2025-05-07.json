@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visa's Strong Q2 Payments & Cross-Border Volumes: How to Play V Now",
+      "description": "Through strategic diversification, innovation and resilient consumer spending, V is well-positioned for long-term growth.",
+      "published_utc": "2025-05-07T22:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b40f8590848a4424ba40b41054bc790a619c2b18744e0b8007a8cd1e2e305aec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316672,
+      "datetime": 1746629040
+    },
+    {
+      "title": "Surge In Stock Buybacks On Stretched Valuations A Sign Of Hubris",
+      "description": "Discover why the S&P 500's optimism might be misplaced as U.S. macroeconomic fundamentals and SPX valuations flash warning signs.",
+      "published_utc": "2025-05-07T21:28:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3c1584e74f7a25491730e3e914489bc6069ac55a6f9ca84742ff916df0adc1d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/465491983/image_465491983.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134297379,
+      "datetime": 1746624530
+    }
+  ]
+}

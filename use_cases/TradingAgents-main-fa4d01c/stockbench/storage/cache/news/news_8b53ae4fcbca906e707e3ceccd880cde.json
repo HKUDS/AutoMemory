@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon and Apple earnings coverage, Eli Lilly: What to Watch",
+      "description": "Market Domination Overtime hosts Julie Hyman and Josh Lipton preview several of the biggest stories and reports due out tomorrow, Thursday, May 1, including Apple (AAPL) and Amazon's (AMZN) respective quarterly earnings results alongside Eli Lilly (LLY), Mastercard (MA), McDonald's (MCD), and CVS Health (CVS). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-05-01T07:00:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df2b9307b9d5d0e211a07c09f4c5130fc294ec295df18da85e79cbabe9ceb01d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165686,
+      "datetime": 1746054052
+    },
+    {
+      "title": "Is Amgen Inc. (AMGN) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where Amgen Inc. (NASDAQ:AMGN) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, is […]",
+      "published_utc": "2025-05-01T02:35:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa8d40649109fde7c9f2eaea93cfd97d51aaf26038543053fc94ce7d478d77dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166063,
+      "datetime": 1746038139
+    },
+    {
+      "title": "Will Amgen (AMGN) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Amgen (AMGN) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-05-01T00:10:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad4ee684a80a4e5eca429df3b0f6798ca8717bb03d80bc2c12f5dc5414136b85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166064,
+      "datetime": 1746029402
+    },
+    {
+      "title": "How to Play Defense in the Market if You’re Worried About a Recession",
+      "description": "How to Play Defense in the Market if You’re Worried About a Recession",
+      "published_utc": "2025-04-30T22:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=46e6dd79c91a41434cef689226245010451ab197abd92e8098898aa10ca41198",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134179141,
+      "datetime": 1746024780
+    },
+    {
+      "title": "Amgen (AMGN) Reports Earnings Tomorrow: What To Expect",
+      "description": "Biotech company Amgen (NASDAQ:AMGN) will be reporting earnings tomorrow afternoon. Here’s what to expect.",
+      "published_utc": "2025-04-30T15:14:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99713700d86990d2f4628fa77d30b3262b32a02972e9f6ace0905afd7f853c77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141615,
+      "datetime": 1745997274
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:16.953032+00:00",
+    "cache_key": "news_8b53ae4fcbca906e707e3ceccd880cde",
+    "count": 5
+  }
+}

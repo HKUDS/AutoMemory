@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers Introduces Quantum Yacht 2.0℠",
+      "description": "HARTFORD, Conn., May 19, 2025--The Travelers Companies, Inc. (NYSE: TRV) today announced the launch of Quantum Yacht 2.0, which offers personalized coverage options and a redesigned, user-friendly quoting platform for agents.",
+      "published_utc": "2025-05-19T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d578dba6d16ca2172d5ddcc0695f17b60556b8b389c9ad8071d8c972ea1b8b37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601871,
+      "datetime": 1747657800
+    }
+  ]
+}

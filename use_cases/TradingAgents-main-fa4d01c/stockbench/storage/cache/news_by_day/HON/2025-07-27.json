@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International (HON) Declares US$1.13 Quarterly Dividend Payment",
+      "description": "Honeywell International (HON) recently announced a quarterly dividend affirmation, maintaining investor confidence with a payment of $1.13 per share. Despite market conditions with a broader 1% climb last week and 17% over the last year, Honeywell's 13% price increase over the last quarter stands out. Notably, the company's strong Q2 earnings, raised sales forecast, and strategic alternatives for business restructuring likely strengthened its market position. Executives such as Jim Masso...",
+      "published_utc": "2025-07-27T01:16:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8447b87603cc54c81b4ddec0b803402dd1f553e271e459c223a467a5935c8efd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101889,
+      "datetime": 1753550178
+    }
+  ]
+}

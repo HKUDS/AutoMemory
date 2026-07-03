@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Snack Wrap unwrapped: Here's why McDonald's is bringing back a fan favorite on July 10",
+      "description": "If McDonald’s ever doubted it needed to bring back the Snack Wrap, consider this: Nine years after the fast-food powerhouse discontinued the item in the U.S., customers have continued to order it at drive-thrus.  On Tuesday, McDonald's announced that a new version of the Snack Wrap will go on sale July 10.  McDonald's invented the Snack Wrap — a tortilla full of chicken, lettuce, shredded cheese and sauce — almost two decades ago to make it easier to eat its chicken on the go.",
+      "published_utc": "2025-06-03T07:33:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30a2e95286680d3463a22abf6d5acc0f15bfe7bb8bbfc9c75d290e20a9ccab2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134977235,
+      "datetime": 1748907211
+    }
+  ]
+}

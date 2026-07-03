@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot’s (HD) $5.5B GMS Acquisition Solidifies Bullish Analyst Confidence",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the top e-commerce stocks with long-term potential. On July 1, DA Davidson reaffirmed its Buy rating and $450 price target for Home Depot (NYSE:HD) after the company finalized a deal to acquire GMS for $110 per share, totaling a $5.5 billion enterprise value. Though the purchase price […]",
+      "published_utc": "2025-07-12T23:37:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08ba309516259f130a4e98af82c70c365700b50d076441f6dfa3fb4adec98ecc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135907761,
+      "datetime": 1752334662
+    }
+  ]
+}

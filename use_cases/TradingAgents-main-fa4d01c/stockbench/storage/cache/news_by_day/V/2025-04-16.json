@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Parnassus Value Select ETF Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-16T05:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2e31897592ea1dc508c320a8c41d17a62678f4ebcf905c5bf8468843de7fae7b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133929990,
+      "datetime": 1744753800
+    },
+    {
+      "title": "Visa (V) Gains As Market Dips: What You Should Know",
+      "description": "In the closing of the recent trading day, Visa (V) stood at $335.81, denoting a +0.19% change from the preceding trading day.",
+      "published_utc": "2025-04-16T05:45:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ab14e91aaeea17113671be3dddddda2f0713fcab0769a8eafa096331c02a558",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932722,
+      "datetime": 1744753514
+    },
+    {
+      "title": "Will Visa (V) Beat Estimates Again in Its Next Earnings Report?",
+      "description": "Visa (V) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+      "published_utc": "2025-04-16T00:10:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50ac068bbcefad2840660cd955f16786c7452957c853971e109650403371989f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133927932,
+      "datetime": 1744733410
+    }
+  ]
+}

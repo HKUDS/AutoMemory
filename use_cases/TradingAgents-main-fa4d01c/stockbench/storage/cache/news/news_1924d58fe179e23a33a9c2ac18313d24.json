@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Inside the Complex and Petty Prenups of the Superwealthy",
+      "description": "When  Jeff Bezos  and  MacKenzie Scott  divorced in 2019, they didn’t have a prenuptial agreement to govern the division of their assets.  Now, as the world’s third-richest man prepares to marry  Lauren Sánchez  in a multiday Venetian extravaganza, onlookers can’t help but wonder whether there is a prenup and what it looks like.  A spokesman for Bezos declined to comment.",
+      "published_utc": "2025-06-25T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06781728503822c79d994bb99b8cc7450761034883f3f194f1d1d53976a883a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135519357,
+      "datetime": 1750809600
+    },
+    {
+      "title": "United Parcel Service: A Value Buy On Strategic Transformation",
+      "description": "",
+      "published_utc": "2025-06-25T07:03:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f2fd44290d93853c4cd08cc405bb1264a7f6670798be267548c760971e531c12",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135514156,
+      "datetime": 1750806216
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-06-25T06:20:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9a9da7f7e18d228967693726dc1eba196ff21c1e363c445b788802879b730ad8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135513611,
+      "datetime": 1750803655
+    },
+    {
+      "title": "Amazon (AMZN) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "Amazon (AMZN) closed at $212.77 in the latest trading session, marking a +2.06% move from the prior day.",
+      "published_utc": "2025-06-25T05:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=742b180bfe3e71e7a70a2b24c14f0976d8ac72b83ed91355ac785a51aa39adba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135519358,
+      "datetime": 1750801502
+    },
+    {
+      "title": "Amazon Could Soar to $250 as Oppenheimer Sees Margin Lift and AI Windfall",
+      "description": "Higher margin forecasts reflect stronger-than-expected trade dynamics; AWS outlook unchanged",
+      "published_utc": "2025-06-25T03:19:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6969faaa63e9c0cdc02c7ea43b5487b89594d0b3547bf298c30ab26319cb872",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135519359,
+      "datetime": 1750792759
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:23.504092+00:00",
+    "cache_key": "news_1924d58fe179e23a33a9c2ac18313d24",
+    "count": 5
+  }
+}

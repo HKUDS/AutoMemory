@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams' (NYSE:SHW) Shareholders Will Receive A Bigger Dividend Than Last Year",
+      "description": "The board of The Sherwin-Williams Company ( NYSE:SHW ) has announced that the dividend on 14th of March will be...",
+      "published_utc": "2025-02-23T20:13:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=414fb305eb192de4ee9bb095aade8edf41ae401e997df0da60add19458a3c164",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186496,
+      "datetime": 1740312788
+    }
+  ]
+}

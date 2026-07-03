@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (NYSE:UNH) Has A Pretty Healthy Balance Sheet",
+      "description": "Howard Marks put it nicely when he said that, rather than worrying about share price volatility, 'The possibility of...",
+      "published_utc": "2025-07-05T22:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9141e6dcc505a61a045196b66f3f2a66717bafc31b2f1b98e37fefe7be8a2e76",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135769073,
+      "datetime": 1751724015
+    },
+    {
+      "title": "The Best Stocks to Invest $1,000 In Right Now",
+      "description": "Alibaba offers a cheap way to invest in artificial intelligence (AI), cloud computing, digital media, and e-commerce.  UnitedHealth Group is a bargain after its steep sell-off.  Vertex Pharmaceuticals has two new drugs on the market and a promising pipeline.",
+      "published_utc": "2025-07-05T16:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9137a21ff3f6fde09679c37f54ff203dadc736addf994ba74df99f0c74482a78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766875,
+      "datetime": 1751705460
+    },
+    {
+      "title": "ClearBridge Large Cap Growth Strategy Q2 2025 Commentary",
+      "description": "Growth stocks led a furious market rebound from tariff uncertainty with the higher-beta technology and communication services sectors leading in the return to a risk-on environment.",
+      "published_utc": "2025-07-05T13:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f34d09a01ca6bec9dd41d5fcfd384af4daabee079fbf3d8d5b4bb0bac30d840e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153770829/image_2153770829.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135764052,
+      "datetime": 1751692500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:36.046389+00:00",
+    "cache_key": "news_8cf26b4b8c0bf284bcbfa9ec1606d4d2",
+    "count": 3
+  }
+}

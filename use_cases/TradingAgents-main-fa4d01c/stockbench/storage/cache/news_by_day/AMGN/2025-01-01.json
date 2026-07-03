@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "The 5 worst-performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "The Dow's biggest losers include companies in the aerospace, biopharma, and sports apparel sectors.",
+      "published_utc": "2025-01-01T20:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7f3a696e0e56a3cd01b865ec5627e3b730f312cc93b2897bf9e4b8f3312dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226604,
+      "datetime": 1735732980
+    },
+    {
+      "title": "Amgen (AMGN) Advances While Market Declines: Some Information for Investors",
+      "description": "Amgen (AMGN) closed at $260.64 in the latest trading session, marking a +0.52% move from the prior day.",
+      "published_utc": "2025-01-01T06:50:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=849a4fd3f9782f0f5f294c6764beacb06d3a08d56bfd6a608228e169366bfe2c",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/4f1a8d86cead9f96536efb147945dcc9",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132222137,
+      "datetime": 1735685418
+    },
+    {
+      "title": "GLP-1 questions emerge for 2025",
+      "description": "The 2025 outlook for GLP-1s isn't as bullish as it once was, but all hope is not lost.",
+      "published_utc": "2025-01-01T05:48:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10d16fd7419a29a826adae343cff42b8cce630ca6029cd6b54f4057e9d8f8745",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/o.xKVkL_2cKm_990lun34w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/2d578f90-9d7d-11ee-bd6d-e9421ec244af",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132221988,
+      "datetime": 1735681738
+    }
+  ]
+}

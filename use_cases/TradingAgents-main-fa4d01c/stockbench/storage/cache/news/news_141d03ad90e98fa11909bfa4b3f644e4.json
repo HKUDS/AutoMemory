@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Travelers Companies (NYSE:TRV) Launches Synergy Product Liability Coverage for Life Sciences Sector",
+      "description": "Travelers Companies (NYSE:TRV) recently unveiled Travelers Synergy, a new product liability coverage tailored for life sciences firms. This strategic enhancement, alongside the appointment of Mike Lawton as the new Chief Operating Officer of Travelers Europe, signifies the company's commitment to refining its market offerings and leadership team. Over the past month, Travelers' stock price rose 4.66%, despite a broader market decline with indexes like the Dow Jones and S&P 500 facing downward...",
+      "published_utc": "2025-03-12T01:54:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=450d1b78bd3636e53393f7f36f7e67306989f996bc75f0360b620dbceaead922",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133187244,
+      "datetime": 1741715645
+    },
+    {
+      "title": "Travelers Offers New Product Liability Insurance for Life Sciences Companies",
+      "description": "HARTFORD, Conn., March 11, 2025--The Travelers Companies, Inc. (NYSE: TRV) today introduced Travelers Synergy℠, a new customizable product liability coverage tailored to life sciences companies. The offering will help medical technology, pharmaceutical, biopharmaceutical and digital health companies with the costs of product-related claims.",
+      "published_utc": "2025-03-11T21:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd924fa7adcc52e7d9abd053c94bad11388fe756c3f89d1c368a18749ac8ccc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133187246,
+      "datetime": 1741698480
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:37.707045+00:00",
+    "cache_key": "news_141d03ad90e98fa11909bfa4b3f644e4",
+    "count": 2
+  }
+}

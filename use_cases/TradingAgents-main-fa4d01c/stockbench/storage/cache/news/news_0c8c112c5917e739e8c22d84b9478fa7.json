@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express Company (AXP): A Bull Case Theory",
+      "description": "We came across a bullish thesis on American Express Company (AXP) on Substack by Max Dividends and Serhio MaxDividends. In this article, we will summarize the bulls’ thesis on AXP. American Express Company (AXP)’s share was trading at $296.17 as of May 20th. AXP’s trailing and forward P/E were 20.68 and 19.57 respectively according to Yahoo Finance. […]",
+      "published_utc": "2025-05-22T01:04:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ed1f5a219f3682dfdb1cc063544e4460aedf6b638162baa3ed256e192145759",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628434,
+      "datetime": 1747847059
+    },
+    {
+      "title": "UnitedHealth, Nike share losses lead Dow's 817-point fall",
+      "description": "UnitedHealth, Nike share losses lead Dow's 817-point fall",
+      "published_utc": "2025-05-21T23:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=63c3a2b832c279de90ca294bf9a9d73bb7a4c7aa6d1d2647163931ac9ddf17a1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632335,
+      "datetime": 1747840680
+    },
+    {
+      "title": "Dow drops 690 points on losses for shares of UnitedHealth, Nike",
+      "description": "Dow drops 690 points on losses for shares of UnitedHealth, Nike",
+      "published_utc": "2025-05-21T22:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=236b3870721d9b00a6a627922282cd67e4f65891ffe45242c263629e5befdb8b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134633368,
+      "datetime": 1747837020
+    },
+    {
+      "title": "Dow heads for worst day in a month. Here's what's dragging it down.",
+      "description": "Dow heads for worst day in a month. Here's what's dragging it down.",
+      "published_utc": "2025-05-21T21:53:09",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a656942c4775de818b534ecc563c6bd821124e2b8710f171de52e37841f559ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632337,
+      "datetime": 1747835589
+    },
+    {
+      "title": "UnitedHealth, Nike share losses lead Dow's 525-point drop",
+      "description": "UnitedHealth, Nike share losses lead Dow's 525-point drop",
+      "published_utc": "2025-05-21T21:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9df2c156e347c1e7e8d7750a98c86061f1fe9fd1ca3f0e9136bb11c9d9caa4cc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632338,
+      "datetime": 1747833360
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:28.296937+00:00",
+    "cache_key": "news_0c8c112c5917e739e8c22d84b9478fa7",
+    "count": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Meet the Company Leading the \"Third Wave\" of Artificial Intelligence (AI). Its Stock Is Up 39% in 4 Months, and It Could Soar Even Higher in 2025.",
+      "description": "The enterprise software giant has an \"unfair advantage\" in AI that may be underappreciated.",
+      "published_utc": "2025-01-01T21:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78affea44d1d8cc6b49694935cbd3c13fc93117b6a7b6a10f201dd5cebe7b379",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802390/gettyimages-brain-with-ai-chip-and-wave.jpg",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132227326,
+      "datetime": 1735738800
+    },
+    {
+      "title": "Jim Cramer Says Salesforce, Inc. (CRM)’s Stock Should Have Been Up In August, Stock Up 3% In November After Elections",
+      "description": "We recently compiled a list of the Jim Cramer’s Bold Predictions About These 10 SaaS Stocks. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other SaaS stocks. As 2024 comes to a close, the software-as-a-service or SaaS industry has been shaken up quite a bit. Artificial […]",
+      "published_utc": "2025-01-01T19:14:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad8fa3409aabf056eb6470e9af9530b6a3a3f88b9b32ce1f9a88c7d0d88c2805",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/V4tGuBo0fm2vOSewxPjpmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132227327,
+      "datetime": 1735730090
+    },
+    {
+      "title": "10 stocks retail investors craved in 2024",
+      "description": "It has been another great year for retail investors.",
+      "published_utc": "2025-01-01T00:12:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f572cccfe4a1e19d1fbacad16bfb0e6f3527da02869a42cc1699101d2448591",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fxgY40h5GrdsS0vcx7yukA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/981892a0-c790-11ef-b343-04a981da914c",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132215443,
+      "datetime": 1735661551
+    }
+  ]
+}

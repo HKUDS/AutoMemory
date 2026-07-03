@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Coresight Research Announces \"NextGen 2025: Retail, Real Estate & the New Consumer\" Conference in New York City",
+      "description": "NEW YORK, June 18, 2025--Coresight Research, the leading research and advisory firm specializing in retail and technology, announces registration is now open and unveils programming for its 2025 NextGen conference. NextGen 2025: Retail, Real Estate & the New Consumer, presented by Coresight Research and IBM, will be hosted at One Madison Ave in New York on June 23, 2025, from 12:30 p.m. to 8:00 p.m. Eastern Time. The conference will explore the future of retail, real estate, and the consumer exp",
+      "published_utc": "2025-06-19T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad728acd22cb18bb1f78ac50f433f0e2515fd5e2d61840b2ea55b68bf3d4d644",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375939,
+      "datetime": 1750277700
+    },
+    {
+      "title": "The Stock Market Doesn't Care About The Israel-Iran War (Unless This One Thing Happens)",
+      "description": "Discover how geopolitical turmoil impacts markets, uncover a potential black swan event, and explore expert insights on current market trends. Click for more.",
+      "published_utc": "2025-06-19T02:07:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd04ba7c9f4a1e08791d7729cddd96c703a9a332161cd0e22263201f3adfd96e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1342623354/image_1342623354.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374276,
+      "datetime": 1750270072
+    },
+    {
+      "title": "IBM Keeps Hitting Record Highs. Bank of America Says There's Still Room for Gains",
+      "description": "IBM shares are on track to close at a record high for the third straight session. Bank of America just lifted its price target for the stock even higher.",
+      "published_utc": "2025-06-19T00:43:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77f76246d9a040b5c688f5e01207d7148d3234c5a2d0d6fb63d15b7a7f7e2206",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375940,
+      "datetime": 1750265023
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "5 Insightful Analyst Questions From Honeywell’s Q1 Earnings Call",
+      "description": "Honeywell’s first quarter saw a positive market reaction as the company delivered revenue and non-GAAP profit above Wall Street expectations. Management attributed the performance to strong demand in aerospace, particularly in commercial aftermarket and defense, alongside steady execution in building automation. CEO Vimal Kapur highlighted the company’s resilience, noting, “Our results demonstrate tremendous effort from our commercial teams, successful productivity initiatives, and excellent sup",
+      "published_utc": "2025-06-23T11:59:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d76e7eb2cee093ffbc239587256bb892027d97dc639370d11f17fc319e120e3e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135481822,
+      "datetime": 1750651142
+    }
+  ]
+}

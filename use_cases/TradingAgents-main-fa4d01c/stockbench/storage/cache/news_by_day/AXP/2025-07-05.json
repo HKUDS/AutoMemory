@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "3118b48728ab385eb87c3401786c439314399f7d39623ba14515a194316aebd6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Berkshire Hathaway Stock, Even Though It's Down 10% Since Warren Buffett Announced Retiring as CEO?",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-07-05T10:03:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/05/should-you-buy-berkshire-hathaway-stock-buffett/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "AXP",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/823639/a-person-holding-a-piece-of-paper-sits-at-a-desk-in-front-of-a-computer-monitor.jpg",
+      "description": "Berkshire Hathaway stock has dropped 10% since Warren Buffett announced his retirement as CEO, but the article suggests this could be a buying opportunity due to the company's strong fundamentals, massive cash position, and long-term operational advantages.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "investing",
+        "value stocks",
+        "CEO transition"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral/positive",
+          "sentiment_reasoning": "Despite recent stock decline, the company has strong operational earnings, a record $348 billion cash position, diverse business portfolio, and potential for future growth under new leadership"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral/positive",
+          "sentiment_reasoning": "Despite recent stock decline, the company has strong operational earnings, a record $348 billion cash position, diverse business portfolio, and potential for future growth under new leadership"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a strategic investment and one of Berkshire's significant holdings"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Noted as a long-term investment in Berkshire's portfolio"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a high-growth stock benefiting from current market sentiment"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a mega-cap growth stock performing well in current market conditions"
+        }
+      ]
+    }
+  ]
+}

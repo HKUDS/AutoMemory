@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Franklin Global Equity Fund Q1 2025 Commentary",
+      "description": "Stock selection was mixed at the region and sector level and modestly detracted overall. Click here to read the full commentary.",
+      "published_utc": "2025-05-01T07:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=add304a3ab757e79b9ad0319825662e9fcf86ab08aa9fe55c09c3b0c156d77d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151312477/image_2151312477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165585,
+      "datetime": 1746057000
+    },
+    {
+      "title": "Franklin Rising Dividends Fund Q1 2025 Commentary",
+      "description": "Over the quarter, Franklin Rising Dividends Fund was more resilient than its benchmark, the S&P 500 Index. Read more here.",
+      "published_utc": "2025-05-01T07:27:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26941f83084757ed624985370f3fd39d40943f91642b1ebf6fc6e3c4526f1c0d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316707586/image_1316707586.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165430,
+      "datetime": 1746055620
+    },
+    {
+      "title": "US judge rules Apple violated order to reform App Store",
+      "description": "Apple violated a US court order that required the iPhone maker to allow greater competition for app downloads and payment methods in its lucrative App Store and will be referred to federal prosecutors, a federal judge in California ruled on Wednesday.",
+      "published_utc": "2025-05-01T07:14:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7eace2042989bcaba60db6abe4470c95dea8ee4a65bdbabbce2c44e72b1d624",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165685,
+      "datetime": 1746054898
+    },
+    {
+      "title": "Amazon and Apple earnings coverage, Eli Lilly: What to Watch",
+      "description": "Market Domination Overtime hosts Julie Hyman and Josh Lipton preview several of the biggest stories and reports due out tomorrow, Thursday, May 1, including Apple (AAPL) and Amazon's (AMZN) respective quarterly earnings results alongside Eli Lilly (LLY), Mastercard (MA), McDonald's (MCD), and CVS Health (CVS). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-05-01T07:00:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df2b9307b9d5d0e211a07c09f4c5130fc294ec295df18da85e79cbabe9ceb01d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165686,
+      "datetime": 1746054052
+    },
+    {
+      "title": "Court sides with Fortnite maker Epic as Apple sanctioned for defying order in App Store case",
+      "description": "A federal judge has strongly rebuked Apple, finding that the iPhone maker willfully violated a court injunction in an antitrust case filed by “Fortnite maker Epic Games. U.S. District Judge Yvonne...",
+      "published_utc": "2025-05-01T05:10:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=113ef2a49b02f6d9f1531cef4745fa3619e6687874ece78d9a43785944f98196",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134164850,
+      "datetime": 1746047409
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise on US-Japan deal hopes, with Tesla and Google on deck",
+      "description": "Wall Street is getting ready for Tesla and Google-parent Alphabet to fire up \"Magnificent 7\" earnings.",
+      "published_utc": "2025-07-23T07:26:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62868c22ae0c5c9b72b64afb78c4aef91b6ba545f53e3708de1e45267cb0a3ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136044149,
+      "datetime": 1753226807
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after US strikes a trade deal with Japan",
+      "description": "Wall Street is getting ready for Tesla and Google-parent Alphabet to fire up \"Magnificent 7\" earnings.",
+      "published_utc": "2025-07-23T07:26:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2537377e4b9017f78bfdc6fccbefd40df99c635f273e6fcacd3e0ad4411f9077",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136039614,
+      "datetime": 1753226807
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as Trump announces trade deal with Japan",
+      "description": "US stock futures TK as Wall Street readied for Tesla and Google-parent Alphabet to report earnings Wednesday.",
+      "published_utc": "2025-07-23T07:26:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de98263d6084830265e913e21a7af1809ae75104d461bc133fe6a31ee7357144",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038149,
+      "datetime": 1753226807
+    },
+    {
+      "title": "Alphabet & Tesla earnings, existing home sales: What to Watch",
+      "description": "Asking for a Trend host Josh Lipton takes a look at the top stories for investors to watch on Wednesday, July 23. In the afternoon, earnings results will be posted for Alphabet (GOOG, GOOGL), Tesla (TSLA), IBM (IBM), T-Mobile (TMUS), Chipotle (CMG), and Alaska Air (ALK). In the morning, existing home sales data for June will be published. Economists are expecting the number to fall slightly. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+      "published_utc": "2025-07-23T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8703f7366be7d54a6a26b4ac3c8983486a11945e9675bfd830c37191d79e30b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038150,
+      "datetime": 1753225200
+    },
+    {
+      "title": "New Record Close for S&P 500 - TXN, COF Report After the Bell",
+      "description": "The S&P 500 has tiptoed to another record closing high this afternoon, to 6309 for the first time ever.",
+      "published_utc": "2025-07-23T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf2c813e89baa0892a397f32a53fbc4133322549ff6df4f21e3719af23cfdd68",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038247,
+      "datetime": 1753221600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:58.714103+00:00",
+    "cache_key": "news_b8011ce859a155770917dfff1955f071",
+    "count": 5
+  }
+}

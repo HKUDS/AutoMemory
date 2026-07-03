@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "AppLovin: The advertising giant in the making",
+      "description": "The platform uses deep learning technology to explore user data, providing real-time feedback for smart algorithms.",
+      "published_utc": "2025-06-21T23:20:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbc4f890059151ace178fb54c4b8b64d3a368f424696a1e8e9770315c92f189f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456092,
+      "datetime": 1750519235
+    },
+    {
+      "title": "Could Nvidia's Projected 9% Annual Returns Through 2030 Be the Smartest Risk-Adjusted Play in Tech?",
+      "description": "Nvidia, the dominant platform provider, offers excellent risk-adjusted returns with its expanding ecosystem moat.  While venture capitalists funnel billions into speculative start-ups, Nvidia (NASDAQ: NVDA) continues to dominate the infrastructure powering the entire industry.  A projected 9% annual return may not sound thrilling, but it could be the smartest risk-adjusted investment in tech this decade.",
+      "published_utc": "2025-06-21T22:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa5f9c9d44bbb3b2b169fd3a075f987a457906f53645a301c1bed4dfa01d2c7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135457833,
+      "datetime": 1750516200
+    },
+    {
+      "title": "Apple: Buying More As Fundamentals Deteriorate, Blue Chip Status Remains (Rating Upgrade)",
+      "description": "Apple's valuation dip and stable iOS market share signal potential opportunities. iPhone sales have seemingly stagnated. Read more on AAPL stock here.",
+      "published_utc": "2025-06-21T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=df6acd87dab3434eb4e19d64a12b5928021d6245606159b09d19150da57258e3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/957630024/image_957630024.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135455128,
+      "datetime": 1750501800
+    },
+    {
+      "title": "The $1,999 Liberty Phone Is Made in America. Its Creator Explains How.",
+      "description": "Despite the president’s domestic manufacturing push—and the Trump Organization’s launch of an ostensibly U.S.-made phone—the challenges remain massive.",
+      "published_utc": "2025-06-21T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77bfb19b284a69f966cc96f43135adf9f4d8aa92cd826c828fe21ad882a519d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135455159,
+      "datetime": 1750498200
+    },
+    {
+      "title": "Is Apple Stock In Trouble?",
+      "description": "The company is struggling to innovate with cutting-edge technologies.",
+      "published_utc": "2025-06-21T16:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2be306ba8aa15ec5c1124c7bcfb57f5625e561b8f0848f4d7ceb5ae5e68acdb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135452944,
+      "datetime": 1750494900
+    }
+  ]
+}

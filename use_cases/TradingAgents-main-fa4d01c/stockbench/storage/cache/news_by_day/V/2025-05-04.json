@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For May 2025",
+      "description": "Discover top dividend growth stocks with strong returns and attractive valuations. See which 17 stocks had rating changes this month.",
+      "published_utc": "2025-05-04T06:39:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a762047670374f80ad46f6a15d2b0db249e8353790f3177242647b358bf9547",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2047165268/image_2047165268.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134235481,
+      "datetime": 1746311940
+    }
+  ]
+}

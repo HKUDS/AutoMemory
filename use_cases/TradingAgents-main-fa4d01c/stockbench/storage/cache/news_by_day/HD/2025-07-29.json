@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Home Depot unveils 2025 Halloween collection",
+      "description": "The Home Depot reveals its 2025 Halloween collection, which promises to captivate decorators of all styles and budgets. Products will be available for purchase on HomeDepot.com and The Home Depot app starting August 4, and the collection can be previewed online now.Halloween products will hit Home Depot store shelves this fall.",
+      "published_utc": "2025-07-29T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a11595fb991aacb519728f96f68caa178c39907fac5807eb52edc1d79448c11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136116978,
+      "datetime": 1753790400
+    },
+    {
+      "title": "Franklin Income Fund Q2 2025 Commentary",
+      "description": "US stocks advanced during the second quarter of 2025 as equity markets rebounded from Aprilâs lows and continued to rally through June, despite bouts of volatility.",
+      "published_utc": "2025-07-29T16:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da0dbacd777c2f6ccb23261d15768f51b81587626d916c67f2edf73873cfdaa1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1359134494/image_1359134494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136116824,
+      "datetime": 1753777200
+    }
+  ]
+}

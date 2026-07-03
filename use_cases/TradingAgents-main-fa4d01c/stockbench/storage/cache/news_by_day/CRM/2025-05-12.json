@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "title": "Salesforce com : How To Learn About Agentic AI and Make It Stick",
+      "description": "Design Understand foundational models, how data is structured and shared, the protocols that connect services, and the architectural logic of intelligent systems. [IRStone | Adobe] Tools come and go....",
+      "published_utc": "2025-05-12T23:55:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f14e873b48012db8ec5f1570a3e311765ebd944ec4cfcbf3961b63ae231b6f31",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134391085,
+      "datetime": 1747065303
+    },
+    {
+      "title": "Saudi crown prince launches new company to develop AI technologies",
+      "description": "Crown Prince Mohammed binSalman launched a new company to develop and manage artificialintelligence technologies in Saudi Arabia on Monday, a toppriority of its economic diversification drive. ...",
+      "published_utc": "2025-05-12T17:33:01",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6f752368c644370ae49d8d18188ada06cec90a54de8f34d2e6c740d1e25eb3b2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378887,
+      "datetime": 1747042381
+    },
+    {
+      "id": "a91cb65ccbcdb6a585dc70cca2633ede92cbdeaa965c07adb18ac7e06d4c5a8a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Marketing Technology Market Size to worth USD 1,769.49 Bn by 2032, Growing at 17.3% CAGR, Coherent Market Insights",
+      "author": "Coherent Market Insights",
+      "published_utc": "2025-05-12T08:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/12/3078833/0/en/Marketing-Technology-Market-Size-to-worth-USD-1-769-49-Bn-by-2032-Growing-at-17-3-CAGR-Coherent-Market-Insights.html",
+      "tickers": [
+        "CRM",
+        "ADBE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/450ec960-647a-4b12-8885-a4afd6739e88",
+      "description": "The global marketing technology market is expected to grow from $579.11 billion in 2025 to $1,769.49 billion by 2032, driven by rapid digital transformation and increasing adoption of AI-powered marketing tools. However, high costs and regulatory challenges are limiting market growth.",
+      "keywords": [
+        "marketing technology",
+        "digital transformation",
+        "AI",
+        "automation",
+        "e-commerce"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is mentioned as a key player in the marketing technology market, and the company's recent launch of new marketing and commerce innovations is expected to contribute to the industry's growth."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Adobe is also highlighted as a major player in the marketing technology market, and the company's recent unveiling of the Adobe Experience Platform Agent Orchestrator is seen as a positive development for the industry."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway Inc. 2024 Shareholder Letter",
+      "description": "Berkshire Hathaway has released its 2024 shareholder letter. Click here to read the full letter.",
+      "published_utc": "2025-02-23T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e0b4c32d3b424b2a3cd92c66def85354998e1dcc6fe5da17af114013215adc6c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/73562040/image_73562040.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132854890,
+      "datetime": 1740254400
+    }
+  ]
+}

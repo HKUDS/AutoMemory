@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on The Boeing Company (BA): “The Chinese Need Planes Very Badly’",
+      "description": "We recently published a list of Jim Cramer Put These 14 Stocks Under the Microscope. In this article, we are going to take a look at where The Boeing Company (NYSE:BA) stands against other stocks that Jim Cramer discusses. Cramer emphasized that China would need plans from The Boeing Company (NYSE:BA) as he said: “So, […]",
+      "published_utc": "2025-06-10T03:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0db7aa30846ae86753dc502870286981a933f99d27a421127fd34dc860eff18",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140814,
+      "datetime": 1749495900
+    },
+    {
+      "title": "Airbus: May Orders Stall, Deliveries Dip, But Backlog Supports Long-Term Upside",
+      "description": "Airbus SE deliveries remain low, but the backlog supports sustained growth in deliveries for years to come. Click here to find out why EADSY stock is a Buy.",
+      "published_utc": "2025-06-10T01:25:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=16c65892a86c4f6731290ce2bea38de5e85e3d2accd347b4cd1d7092fc06cc19",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151183419/image_2151183419.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138807,
+      "datetime": 1749489954
+    },
+    {
+      "title": "Pentagon should shave defense procurement regulation, industry group says",
+      "description": "As the Pentagon overhaulsprocurement regulations, an industry group that representsdefense and aerospace companies says it identified over 50regulatory requirements that discourage companies from...",
+      "published_utc": "2025-06-10T01:10:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c1a6e0d639ad2c2f9e1d7e4adbb8ef40ae61ae945d1d3652eb0e1e239b191504",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138706,
+      "datetime": 1749489014
+    },
+    {
+      "title": "Boeing Stock Rises. Its Turnaround Was Boosted By An Unexpected Source.",
+      "description": "Paris Airshow observers might be wondering where the new, exciting jetliners are. There’s been a drought of announcements.",
+      "published_utc": "2025-06-10T01:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ad664336d7766f952e20c8f53a17a7ca4dce3560a1978f4031b935d6d106103",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137035,
+      "datetime": 1749488400
+    },
+    {
+      "title": "Top Stock Movers Now: Warner Bros. Discovery, Boeing, Sunnova, and more",
+      "description": "U.S. equities were mixed and little changed at midday as the market focused on new trade talks between the U.S. and China.",
+      "published_utc": "2025-06-10T00:10:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b258991588b6132bde095f1a7a3dec82e117b14706b20d4db6cb0c9fec08ff0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137942,
+      "datetime": 1749485409
+    }
+  ]
+}

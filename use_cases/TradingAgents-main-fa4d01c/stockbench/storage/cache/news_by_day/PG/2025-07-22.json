@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Earnings Expected to Grow: Should You Buy?",
+      "description": "P&G (PG) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-07-22T22:00:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8da7c473699802183349a029bc63c300c82a90361c6dc9c3b17076e250470d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033335,
+      "datetime": 1753192806
+    },
+    {
+      "title": "Procter & Gamble Company (The) (PG) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "P&G (PG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-07-22T21:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b912580cb7d15288e4bcdc305b188bf04769a14b2b9e61e515c9a99757b29c42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033336,
+      "datetime": 1753189203
+    },
+    {
+      "title": "Best Dividend Kings: July 2025",
+      "description": "Discover why 14 Dividend Kings outperform the S&P 500 in 2025.",
+      "published_utc": "2025-07-22T17:31:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0abfb9a06bfcdd22331e819cff2f63c95a0a2e603f074263e23c8ab514d9f843",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158691690/image_2158691690.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031024,
+      "datetime": 1753176661
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "OpenAI’s Altman says to release o3 and o4-mini ‘probably in a couple of weeks’",
+      "description": "OpenAI CEO Sam Altman stated in a post to X: “change of plans: we are going to release o3 and o4-mini after all, probably in a couple of weeks, and then do GPT-5 in a few months. there are a bunch of reasons for this, but the most exciting one is that we are going to be able to make GPT-5 much better than we originally though. we also found it harder than we thought it was going to be to smoothly integrate everything. and we want to make sure we have enough capacity to support what we expect to",
+      "published_utc": "2025-04-05T22:50:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98e504b8f8b01b1561118e925ace73dc16b0b83aa18619f3acdf6a442acddab2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727131,
+      "datetime": 1743864610
+    },
+    {
+      "title": "Is Cameco Stock a Buy Now?",
+      "description": "With artificial intelligence (AI) increasing demand for electricity, nuclear energy is becoming a more viable option.  In fact, all three big cloud computing companies have announced major investments in nuclear power.  Microsoft started the ball rolling when last fall it signed a 20-year power purchase agreement with Constellation Energy in which the power company would restart its Three Mile Island nuclear facility to power Microsoft's data centers.",
+      "published_utc": "2025-04-05T21:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07af69f88bef1bd35aa1502756dcea1c99491383e35df409fbbff713e22cc402",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727132,
+      "datetime": 1743858420
+    },
+    {
+      "title": "Nvidia Partner Hon Hai’s Sales Jump 24% on AI Demand",
+      "description": "(Bloomberg) -- Hon Hai Precision Industry Co.’s first-quarter sales rose at their fastest clip since 2022 on resilient data center demand, a bright sign for the artificial intelligence sector amid tariff-induced fears.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s Tariffs Are Alre",
+      "published_utc": "2025-04-05T21:03:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d86046260ded650c023058fbf6387abcf2437414f877fe1846b34f4573ddc410",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727115,
+      "datetime": 1743858182
+    }
+  ]
+}

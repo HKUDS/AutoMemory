@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell: Adding Before Breaking Up",
+      "description": "Honeywell is preparing to split into three focused businesses, aiming to unlock shareholder value. Read why I remain in wait-and-see mode with HON stock.",
+      "published_utc": "2025-05-25T12:57:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3368ab513687e388b7a4a6ae50984c0459ef8ea577ef730a5726c72d69c6b43d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160132490/image_2160132490.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134692396,
+      "datetime": 1748149073
+    }
+  ]
+}

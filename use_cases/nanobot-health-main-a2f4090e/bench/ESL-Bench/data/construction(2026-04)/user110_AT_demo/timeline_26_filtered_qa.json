@@ -1,0 +1,809 @@
+{
+  "user_id": "user110_AT_demo",
+  "source_file": "timeline_26_filtered.json",
+  "random_seed": 42,
+  "sample_size": 100,
+  "source_entry_count": 2168,
+  "entries": [
+    {
+      "time": "2026-01-10T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "RecoveryTime",
+      "device_type": "smartwatch",
+      "value": 35.9616,
+      "unit": "hours"
+    },
+    {
+      "time": "2026-01-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyWeight",
+      "device_type": "smart_scale",
+      "value": 78.1374,
+      "unit": "kg"
+    },
+    {
+      "time": "2026-01-24T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VO2Max-Estimated",
+      "device_type": "smartwatch",
+      "value": 50.6808,
+      "unit": "mL/kg/min"
+    },
+    {
+      "time": "2026-01-22T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyStepCount",
+      "device_type": "smartwatch",
+      "value": 3988,
+      "unit": "steps"
+    },
+    {
+      "time": "2026-01-20T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "HeartRateVariability-HRV",
+      "device_type": "smartwatch",
+      "value": 71.0304,
+      "unit": "ms"
+    },
+    {
+      "time": "2026-01-13T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyBattery",
+      "device_type": "smartwatch",
+      "value": 82.951,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingReadiness",
+      "device_type": "smartwatch",
+      "value": 54.2623,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-08T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "ModerateActivityTime",
+      "device_type": "smartwatch",
+      "value": 45.0823,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-02-06T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "RecoveryTime",
+      "device_type": "smartwatch",
+      "value": 36.0532,
+      "unit": "hours"
+    },
+    {
+      "time": "2026-01-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "SleepRecoveryScore",
+      "device_type": "smartwatch",
+      "value": 91.3446,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "MuscleMass",
+      "device_type": "smart_scale",
+      "value": 61.73,
+      "unit": "kg"
+    },
+    {
+      "time": "2026-01-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyBattery",
+      "device_type": "smartwatch",
+      "value": 71.7761,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-19T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "WakeAfterSleepOnset-WASO",
+      "device_type": "smartwatch",
+      "value": 16.2603,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-21T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "CardiorespiratoryFitness-CRF",
+      "device_type": "smartwatch",
+      "value": 49.0263,
+      "unit": ""
+    },
+    {
+      "time": "2026-02-13T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VO2Max-Estimated",
+      "device_type": "smartwatch",
+      "value": 49.6072,
+      "unit": "mL/kg/min"
+    },
+    {
+      "time": "2026-01-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyStressScore",
+      "device_type": "smartwatch",
+      "value": 39.248,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-18T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyStepCount",
+      "device_type": "smartwatch",
+      "value": 11397,
+      "unit": "steps"
+    },
+    {
+      "time": "2026-02-06T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LowestSpO2",
+      "device_type": "smartwatch",
+      "value": 91.3846,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-20T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyFatPercentage-BFP",
+      "device_type": "smart_scale",
+      "value": null,
+      "unit": "%"
+    },
+    {
+      "time": "2026-02-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "24-HourAverageDiastolicBP",
+      "device_type": "bp_monitor",
+      "value": 74.2884,
+      "unit": "mmHg"
+    },
+    {
+      "time": "2026-01-25T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyMassIndex-BMI",
+      "device_type": "smart_scale",
+      "value": 24.302,
+      "unit": "kg/m²"
+    },
+    {
+      "time": "2026-01-01T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "ModerateActivityTime",
+      "device_type": "smartwatch",
+      "value": 49.0289,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-14T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingLoad",
+      "device_type": "smartwatch",
+      "value": 92.0125,
+      "unit": ""
+    },
+    {
+      "time": "2026-02-06T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "SleepEfficiency-SE",
+      "device_type": "smartwatch",
+      "value": 94.0732,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-30T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "ModerateActivityTime",
+      "device_type": "smartwatch",
+      "value": 41.7047,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-25T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyFatPercentage-BFP",
+      "device_type": "smart_scale",
+      "value": 16.5092,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-14T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "MaximumHeartRateDuringExercise",
+      "device_type": "smartwatch",
+      "value": 174.2582,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-01-19T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "RestingHeartRate-RHR",
+      "device_type": "smartwatch",
+      "value": 50.9056,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-01-30T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyDistance",
+      "device_type": "smartwatch",
+      "value": 6276.3174,
+      "unit": "meters"
+    },
+    {
+      "time": "2026-01-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingLoad",
+      "device_type": "smartwatch",
+      "value": 81.0712,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "24-HourAverageSystolicBP",
+      "device_type": "bp_monitor",
+      "value": null,
+      "unit": "mmHg"
+    },
+    {
+      "time": "2026-02-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "24-HourAverageDiastolicBP",
+      "device_type": "bp_monitor",
+      "value": 77.2967,
+      "unit": "mmHg"
+    },
+    {
+      "time": "2026-01-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "HeartRateVariability-HRV",
+      "device_type": "smartwatch",
+      "value": 71.1158,
+      "unit": "ms"
+    },
+    {
+      "time": "2026-02-01T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyWeight",
+      "device_type": "smart_scale",
+      "value": 77.1683,
+      "unit": "kg"
+    },
+    {
+      "time": "2026-01-30T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingReadiness",
+      "device_type": "smartwatch",
+      "value": 67.6443,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-23T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "WakeAfterSleepOnset-WASO",
+      "device_type": "smartwatch",
+      "value": null,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-04T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "SleepRecoveryScore",
+      "device_type": "smartwatch",
+      "value": 96.0354,
+      "unit": ""
+    },
+    {
+      "time": "2026-02-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VO2Max-Estimated",
+      "device_type": "smartwatch",
+      "value": 50.9706,
+      "unit": "mL/kg/min"
+    },
+    {
+      "time": "2026-01-11T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TotalSleepTime-TST",
+      "device_type": "smartwatch",
+      "value": 437.3503,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-02-02T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingReadiness",
+      "device_type": "smartwatch",
+      "value": 76.837,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-07T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TotalSleepTime-TST",
+      "device_type": "smartwatch",
+      "value": 458.602,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-26T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LowestSpO2",
+      "device_type": "smartwatch",
+      "value": 93.3383,
+      "unit": "%"
+    },
+    {
+      "time": "2026-02-01T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LightActivityTime",
+      "device_type": "smartwatch",
+      "value": 209.2831,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-17T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "SedentaryTime",
+      "device_type": "smartwatch",
+      "value": 608.0329,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-07T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "24-HourAverageSystolicBP",
+      "device_type": "bp_monitor",
+      "value": 113.0927,
+      "unit": "mmHg"
+    },
+    {
+      "time": "2026-01-04T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "WakeAfterSleepOnset-WASO",
+      "device_type": "smartwatch",
+      "value": 10.2893,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-20T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "StandingTime",
+      "device_type": "smartwatch",
+      "value": 108.8723,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-26T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyFatPercentage-BFP",
+      "device_type": "smart_scale",
+      "value": 16.3336,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-07T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VigorousActivityTime",
+      "device_type": "smartwatch",
+      "value": 27.7749,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-21T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyAverageMETs",
+      "device_type": "smartwatch",
+      "value": 1.2973,
+      "unit": "METs"
+    },
+    {
+      "time": "2026-01-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "SleepLatency-SL",
+      "device_type": "smartwatch",
+      "value": 5.7474,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-02-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "HeartRateVariability-HRV",
+      "device_type": "smartwatch",
+      "value": 62.3203,
+      "unit": "ms"
+    },
+    {
+      "time": "2026-02-01T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "RestingHeartRate-RHR",
+      "device_type": "smartwatch",
+      "value": 52.9775,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-01-15T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyFatPercentage-BFP",
+      "device_type": "smart_scale",
+      "value": 16.628,
+      "unit": "%"
+    },
+    {
+      "time": "2026-02-02T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyMassIndex-BMI",
+      "device_type": "smart_scale",
+      "value": 24.3875,
+      "unit": "kg/m²"
+    },
+    {
+      "time": "2026-01-31T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingReadiness",
+      "device_type": "smartwatch",
+      "value": 66.1899,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-19T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "CardiorespiratoryFitness-CRF",
+      "device_type": "smartwatch",
+      "value": 49.7269,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-24T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "CardiorespiratoryFitness-CRF",
+      "device_type": "smartwatch",
+      "value": 50.8382,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-07T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "CardiorespiratoryFitness-CRF",
+      "device_type": "smartwatch",
+      "value": 49.1627,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-15T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingLoad",
+      "device_type": "smartwatch",
+      "value": 79.3013,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-22T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyExerciseDuration",
+      "device_type": "smartwatch",
+      "value": 10.144,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-15T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "CardiorespiratoryFitness-CRF",
+      "device_type": "smartwatch",
+      "value": 48.8818,
+      "unit": ""
+    },
+    {
+      "time": "2026-02-10T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyMassIndex-BMI",
+      "device_type": "smart_scale",
+      "value": 24.7183,
+      "unit": "kg/m²"
+    },
+    {
+      "time": "2026-02-02T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VisceralFatLevel-VFL",
+      "device_type": "smart_scale",
+      "value": 6.3329,
+      "unit": "level"
+    },
+    {
+      "time": "2026-01-24T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LowestSpO2",
+      "device_type": "smartwatch",
+      "value": 93.3492,
+      "unit": "%"
+    },
+    {
+      "time": "2026-01-20T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "AverageHeartRateDuringExercise",
+      "device_type": "smartwatch",
+      "value": 114.6818,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-01-29T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyWeight",
+      "device_type": "smart_scale",
+      "value": 77.0778,
+      "unit": "kg"
+    },
+    {
+      "time": "2026-01-05T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingLoad",
+      "device_type": "smartwatch",
+      "value": 85.4666,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-20T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VO2Max-Estimated",
+      "device_type": "smartwatch",
+      "value": 50.2895,
+      "unit": "mL/kg/min"
+    },
+    {
+      "time": "2026-01-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "StandingTime",
+      "device_type": "smartwatch",
+      "value": 120.3462,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-28T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LightActivityTime",
+      "device_type": "smartwatch",
+      "value": 213.3047,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-02-04T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingLoad",
+      "device_type": "smartwatch",
+      "value": 125.1174,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-24T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyExerciseDuration",
+      "device_type": "smartwatch",
+      "value": 10.4957,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-06T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "SleepLatency-SL",
+      "device_type": "smartwatch",
+      "value": 12.8653,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-19T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DeepSleepDuration",
+      "device_type": "smartwatch",
+      "value": 91.874,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-28T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DeepSleepDuration",
+      "device_type": "smartwatch",
+      "value": 83.2835,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-19T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LowestSpO2",
+      "device_type": "smartwatch",
+      "value": 93.8113,
+      "unit": "%"
+    },
+    {
+      "time": "2026-02-13T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "HeartRateRecovery-1Minute",
+      "device_type": "smartwatch",
+      "value": 36.402,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-02-04T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "HeartRateRecovery-1Minute",
+      "device_type": "smartwatch",
+      "value": 34.6439,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-02-09T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingLoad",
+      "device_type": "smartwatch",
+      "value": 123.8948,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-13T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LightActivityTime",
+      "device_type": "smartwatch",
+      "value": 215.0038,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-24T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "24-HourAverageDiastolicBP",
+      "device_type": "bp_monitor",
+      "value": 75.4336,
+      "unit": "mmHg"
+    },
+    {
+      "time": "2026-01-22T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LightSleepDuration",
+      "device_type": "smartwatch",
+      "value": 205.0475,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-23T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TotalSleepTime-TST",
+      "device_type": "smartwatch",
+      "value": null,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-02-07T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyAverageMETs",
+      "device_type": "smartwatch",
+      "value": 1.6458,
+      "unit": "METs"
+    },
+    {
+      "time": "2026-02-04T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "RestingHeartRate-RHR",
+      "device_type": "smartwatch",
+      "value": 53.5876,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-02-01T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LightSleepDuration",
+      "device_type": "smartwatch",
+      "value": 221.809,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-01-20T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "ActiveCalories",
+      "device_type": "smartwatch",
+      "value": 290.0112,
+      "unit": "kcal"
+    },
+    {
+      "time": "2026-01-13T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "24-HourAverageDiastolicBP",
+      "device_type": "bp_monitor",
+      "value": 73.7005,
+      "unit": "mmHg"
+    },
+    {
+      "time": "2026-02-14T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyStepCount",
+      "device_type": "smartwatch",
+      "value": 9736,
+      "unit": "steps"
+    },
+    {
+      "time": "2026-02-12T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "TrainingReadiness",
+      "device_type": "smartwatch",
+      "value": 68.6786,
+      "unit": ""
+    },
+    {
+      "time": "2026-01-08T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VO2Max-Estimated",
+      "device_type": "smartwatch",
+      "value": 50.652,
+      "unit": "mL/kg/min"
+    },
+    {
+      "time": "2026-01-05T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "AverageHeartRateDuringExercise",
+      "device_type": "smartwatch",
+      "value": 140.2031,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-01-10T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "MeanGlucose-MG",
+      "device_type": "cgm",
+      "value": 4.9324,
+      "unit": "mmol/L"
+    },
+    {
+      "time": "2026-01-14T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "DailyStepCount",
+      "device_type": "smartwatch",
+      "value": 10335,
+      "unit": "steps"
+    },
+    {
+      "time": "2026-01-14T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "VO2Max-Estimated",
+      "device_type": "smartwatch",
+      "value": 50.5451,
+      "unit": "mL/kg/min"
+    },
+    {
+      "time": "2026-02-06T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "RestingHeartRate-RHR",
+      "device_type": "smartwatch",
+      "value": 54.7111,
+      "unit": "bpm"
+    },
+    {
+      "time": "2026-01-06T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "MeanGlucose-MG",
+      "device_type": "cgm",
+      "value": 5.1405,
+      "unit": "mmol/L"
+    },
+    {
+      "time": "2026-02-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "LightSleepDuration",
+      "device_type": "smartwatch",
+      "value": 240.985,
+      "unit": "minutes"
+    },
+    {
+      "time": "2026-02-03T04:31:19",
+      "entry_type": "device_indicator",
+      "indicator": "BodyMassIndex-BMI",
+      "device_type": "smart_scale",
+      "value": 24.4497,
+      "unit": "kg/m²"
+    }
+  ]
+}

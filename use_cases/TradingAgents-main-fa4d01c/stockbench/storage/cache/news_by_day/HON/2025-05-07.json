@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Top Analyst Reports for Novo Nordisk, Honeywell & American Tower",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Novo Nordisk A/S (NVO), Honeywell International Inc. (HON) and American Tower Corporation (AMT).",
+      "published_utc": "2025-05-07T04:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=915129c0505ad1261913cb49583853aa653ea95495b1453ae10685d0f44a9023",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290275,
+      "datetime": 1746564420
+    }
+  ]
+}

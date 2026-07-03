@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Fidelity, Goldman Find Tariff Haven in Asian Consumer Stocks",
+      "description": "(Bloomberg) -- The global trade war is providing a boon for Asian consumer stocks, as investors take shelter in companies that cater to local buyers’ essential needs. Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveWhy the Best Bike Lanes Always Get BlamedNashville’s $3 Billion Transit Plan Brings a Call for Zoning ReformStrategis",
+      "published_utc": "2025-04-20T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=075550d2a49d77906450d67a9b61635a23f1973629125acbb366718b2ec6de79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134005788,
+      "datetime": 1745107200
+    },
+    {
+      "title": "The Goldman Sachs Group (GS): Among Value Stocks in Ken Fisher’s Portfolio",
+      "description": "We recently published a list of 10 Value Stocks in Ken Fisher’s Portfolio. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against other value stocks in Ken Fisher’s portfolio. Trump’s “stupid” tariffs will fail; that’s the sentiment echoed by billionaire investor Ken Fisher as […]",
+      "published_utc": "2025-04-19T23:50:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a1d8db802ee1d5ca60d84ff2218895f3036041919d83f5fe34f70b22b57a744",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133995868,
+      "datetime": 1745077827
+    },
+    {
+      "title": "Our Top 10 High Growth Dividend Stocks - April 2025",
+      "description": "",
+      "published_utc": "2025-04-19T16:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=838aa26feb0a2d059a8d0159d7439925d116059adf87489e1057aca621b9ca15",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133971211,
+      "datetime": 1745049660
+    },
+    {
+      "title": "China Accelerates Budget Spending to Counter Tariff Woes",
+      "description": "(Bloomberg) -- China expanded government spending at the fastest rate for any first quarter since 2022, ramping up support for an economy bracing for foreign demand declines as a trade war with the US intensifies.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveTrump Signs Executive Orders on Federal Purchasing, Office SpaceNashvil",
+      "published_utc": "2025-04-19T12:10:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85f5afdbbfce39577096bec63b733e2769ca3dc8931170643701765debefcaa2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134014937,
+      "datetime": 1745035822
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:33:04.462870+00:00",
+    "cache_key": "news_c54ae32d36cdd90e00f04657a53b69fc",
+    "count": 4
+  }
+}

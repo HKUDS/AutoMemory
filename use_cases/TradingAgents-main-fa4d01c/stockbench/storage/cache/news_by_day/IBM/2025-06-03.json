@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "IBM acquires data analysis startup Seek AI, opens AI accelerator in NYC",
+      "description": "IBM on Monday said that it has acquired Seek AI, an AI platform that allows users to ask questions about enterprise data using natural language, for an undisclosed sum. Seek CEO and founder Sarah Nagy said that the startup's technology will be a key part of Watsonx AI Labs, IBM's new NYC-based AI accelerator, which IBM also announced today. \"[W]e’ll scale our platform, deploy mission-critical solutions for IBM clients, empower the next generation of AI developers, and grow our team significantly",
+      "published_utc": "2025-06-03T02:06:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df3f1a783f8131e0bacfa946572092fbda29dbdfe8cbfe1c0ee85049c0d33708",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967244,
+      "datetime": 1748887581
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-03T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b6677ca1817df2867ec9d97efcd581d8ea454e0b2eea3520833e88231774f9c5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134983562,
+      "datetime": 1748881920
+    },
+    {
+      "title": "IBM Unveils watsonx AI Labs: The Ultimate Accelerator for AI Builders, Startups and Enterprises in New York City",
+      "description": "IBM (NYSE: IBM) today announced watsonx AI Labs, a new, developer-first innovation hub in New York City, designed to supercharge AI builders and accelerate AI adoption at scale. watsonx AI Labs connects IBM's enterprise resources and expertise with the next generation of AI developers in order to build breakthrough AI applications for business.",
+      "published_utc": "2025-06-03T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f786686b91843cba4efa6314ed56d839caa5d6d3fc012b04ae1ce706fd655781",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967246,
+      "datetime": 1748880000
+    }
+  ]
+}

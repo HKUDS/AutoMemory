@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group: Mr. Market Has Got It All Wrong",
+      "description": "UnitedHealth's stock tanked following the Q1 earnings report after it revised the earnings guidance for this year. Learn more about UNH stock here.",
+      "published_utc": "2025-04-29T21:41:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=07d9a28f6910661c8de719b912b2ea44204322816131daec4ba87be629dce010",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/540839640/image_540839640.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134134373,
+      "datetime": 1745934079
+    },
+    {
+      "title": "UnitedHealth Group Incorporated (UNH): Among Billionaire Israel Englander’s Stock Picks with Huge Upside Potential",
+      "description": "We recently published a list of Billionaire Israel Englander’s 10 Stock Picks with Huge Upside Potential. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other billionaire Israel Englander’s stock picks with huge upside potential. Millennium Management is a globally recognized investment firm specializing in multi-strategy hedge […]",
+      "published_utc": "2025-04-29T20:23:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd1bb07d3bbfef3ff02aa78eb7501cebe539dd30b0167914171b91e7d5373eb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130955,
+      "datetime": 1745929427
+    }
+  ]
+}

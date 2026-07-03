@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Market Update: Dow Jones, S&P 500 React To Fed Rate Decision",
+      "description": "The Federal Reserve kept interest rates steady, but hinted at possible rate cuts later in the year.",
+      "published_utc": "2025-03-20T03:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9649f3aaa568d60645bb48e6ae9525636fec9ac679041cfe495f248d47a8970c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262976,
+      "datetime": 1742412900
+    },
+    {
+      "title": "IX or AXP: Which Is the Better Value Stock Right Now?",
+      "description": "IX vs. AXP: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-03-19T23:40:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d8d783959b1eaf99948769bd2260115455919505226f92788283bb732fd77cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325167,
+      "datetime": 1742398809
+    },
+    {
+      "title": "Boeing, NVIDIA Corp. share gains lead Dow's 450-point rally",
+      "description": "Boeing, NVIDIA Corp. share gains lead Dow's 450-point rally",
+      "published_utc": "2025-03-19T23:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cefef8dc077d46f608ffc09738701323f57cc648f4d86614d1056857ca136ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264305,
+      "datetime": 1742396400
+    },
+    {
+      "title": "Boeing, NVIDIA Corp. share gains contribute to Dow's 100-point climb",
+      "description": "Boeing, NVIDIA Corp. share gains contribute to Dow's 100-point climb",
+      "published_utc": "2025-03-19T21:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b0d3e59936f61704c939df6406a329cc1c6f08b7eb7f7479806334dd82fc39eb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264307,
+      "datetime": 1742392740
+    },
+    {
+      "title": "Boeing, NVIDIA Corp. share gains lead Dow's 233-point climb",
+      "description": "Boeing, NVIDIA Corp. share gains lead Dow's 233-point climb",
+      "published_utc": "2025-03-19T20:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6431d8d5a9af92379a51acb4e6dad06feb2793f53214fcc24d63a30e4a16997c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264309,
+      "datetime": 1742389080
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:02.116244+00:00",
+    "cache_key": "news_f96fd17819e39d31b0b74a28e779ebf3",
+    "count": 5
+  }
+}

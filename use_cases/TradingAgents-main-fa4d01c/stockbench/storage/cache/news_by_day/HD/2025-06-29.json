@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Home Depot: “We Are Sticking With It”",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the 13 stocks Jim Cramer recently shed light on. The company was mentioned during the episode, and here’s what Mad Money’s host had to say: “Next up, retail. Oh man, it’s all over the map, but for the most part, the stocks are awful. Kohl’s looks so […]",
+      "published_utc": "2025-06-29T00:19:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37faab7f0d0cd93a0cc4e47fee0617eaa7ad0972bc0e5c8def52094bc20651de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135616641,
+      "datetime": 1751127591
+    }
+  ]
+}

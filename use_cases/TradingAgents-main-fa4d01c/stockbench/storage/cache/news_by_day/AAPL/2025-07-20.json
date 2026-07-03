@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "If You Buy Apple With $10,000 in 2025, Will You Become a Millionaire in 10 Years?",
+      "description": "Apple's ability to introduce inventive products and easy-to-use software has created a loyal following among consumers across the globe.  Worries about tariffs and slow progress with artificial intelligence (AI) might be the key factors on the minds of investors these days.  If you buy Apple shares today with $10,000, will that starting sum turn into $1 million by 2035?",
+      "published_utc": "2025-07-20T06:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbd8bcd9869c37b69872305fd3a3719bbebdd1f893df5179a7eb3688c69555a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019602,
+      "datetime": 1752965940
+    },
+    {
+      "title": "MP Materials (MP) Soars 40% on Multi-Billio Dollar Deals",
+      "description": "We recently published 10 Stocks With Unbelievable Gains This Week. MP Materials Corp. (NYSE:MP) is one of this week’s biggest players. MP Materials climbed by 40.15 percent week-on-week to hit a new all-time high as investors gobbled up shares after clinching a $500-million partnership with technology giant Apple Inc. At intra-day trading on Friday, MP Materials […]",
+      "published_utc": "2025-07-20T02:01:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f24351620887b54a9e741d4fbfcc88dd9a27211dad73b87f6a4117a48990c2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019603,
+      "datetime": 1752948065
+    }
+  ]
+}

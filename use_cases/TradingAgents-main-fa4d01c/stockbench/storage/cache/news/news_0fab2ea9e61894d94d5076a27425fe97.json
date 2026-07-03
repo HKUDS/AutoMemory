@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (NYSE:JNJ) Submits sNDA For Schizophrenia Drug CAPLYTA® To FDA",
+      "description": "Johnson & Johnson (NYSE:JNJ) submitted a supplemental New Drug Application for CAPLYTA®, aiming to prevent schizophrenia relapse, marking a significant step in expanding its mental health portfolio. Over the last quarter, Johnson & Johnson's stock price increased by 4%. This movement aligns with the broader market trends, which have shown steady growth despite some trade uncertainties. The company's efforts in the pharmaceutical sector and robust earnings likely contributed positively to its...",
+      "published_utc": "2025-07-09T01:26:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dda058c5eb97ab0f86a5485aabe0905835e1f8076da4acf8c39439e820ce272",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829767,
+      "datetime": 1751995618
+    },
+    {
+      "title": "Trump says pharmaceutical tariffs could reach 200%",
+      "description": "U.S. President DonaldTrump on Tuesday said he plans to announce tariffs on importedpharmaceuticals which could reach 200% but he would givedrugmakers about one year to get their act together. ...",
+      "published_utc": "2025-07-09T01:15:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ad58440456c926559c68bd2e6b6e91ab8c66b954068a94580d45ed2a4b2923e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135822191,
+      "datetime": 1751994912
+    },
+    {
+      "title": "How Will Skyrizi and Rinvoq Sales Aid AbbVie's Upcoming Q2 Results?",
+      "description": "ABBV leans on Skyrizi and Rinvoq sales strength to offset Humira's decline ahead of its Q2 earnings report.",
+      "published_utc": "2025-07-08T20:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a18c12cd77ddee6772eeda08f133bcb8c233bd69bdcc839a042f8df8b92a629b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805660,
+      "datetime": 1751977620
+    },
+    {
+      "title": "Supplemental new drug application submitted to U.S. FDA for CAPLYTA® (lumateperone) with data demonstrating significant schizophrenia relapse prevention compared to placebo",
+      "description": "Johnson & Johnson (NYSE:JNJ) announced today the submission of a supplemental New Drug Application (sNDA) to the U.S. Food and Drug Administration (FDA) based upon long-term data evaluating the safety and efficacy of CAPLYTA® (lumateperone) for the prevention of relapse in schizophrenia. CAPLYTA® is the newest addition to Johnson & Johnson's portfolio of schizophrenia therapies, which now offers the broadest range of oral and long-acting injectable treatment options to support each patient's ind",
+      "published_utc": "2025-07-08T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5243b80de315ea0759dfc163675e7ded82616c6cbf94d4b972bc4ad522cf5868",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135804223,
+      "datetime": 1751976000
+    },
+    {
+      "title": "IP Due Diligence: The Make-Or-Break Factor In Modern M&A",
+      "description": "As innovation cycles accelerate and technology convergence increases, intellectual property has become a powerful driver of major corporate acquisitions. For example, when Johnson & Johnson acquired...",
+      "published_utc": "2025-07-08T18:11:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=861e15b48b2fb4806d01b6cbbe80ef418e57cbbb3a1b18e5a840834d8db75487",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805160,
+      "datetime": 1751969471
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:43.366009+00:00",
+    "cache_key": "news_0fab2ea9e61894d94d5076a27425fe97",
+    "count": 5
+  }
+}

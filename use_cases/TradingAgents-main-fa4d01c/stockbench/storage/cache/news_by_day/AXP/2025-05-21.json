@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth, Nike share losses lead Dow's 817-point fall",
+      "description": "UnitedHealth, Nike share losses lead Dow's 817-point fall",
+      "published_utc": "2025-05-21T23:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=63c3a2b832c279de90ca294bf9a9d73bb7a4c7aa6d1d2647163931ac9ddf17a1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632335,
+      "datetime": 1747840680
+    },
+    {
+      "title": "Dow drops 690 points on losses for shares of UnitedHealth, Nike",
+      "description": "Dow drops 690 points on losses for shares of UnitedHealth, Nike",
+      "published_utc": "2025-05-21T22:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=236b3870721d9b00a6a627922282cd67e4f65891ffe45242c263629e5befdb8b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134633368,
+      "datetime": 1747837020
+    },
+    {
+      "title": "Dow heads for worst day in a month. Here's what's dragging it down.",
+      "description": "Dow heads for worst day in a month. Here's what's dragging it down.",
+      "published_utc": "2025-05-21T21:53:09",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a656942c4775de818b534ecc563c6bd821124e2b8710f171de52e37841f559ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632337,
+      "datetime": 1747835589
+    },
+    {
+      "title": "UnitedHealth, Nike share losses lead Dow's 525-point drop",
+      "description": "UnitedHealth, Nike share losses lead Dow's 525-point drop",
+      "published_utc": "2025-05-21T21:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9df2c156e347c1e7e8d7750a98c86061f1fe9fd1ca3f0e9136bb11c9d9caa4cc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632338,
+      "datetime": 1747833360
+    }
+  ]
+}

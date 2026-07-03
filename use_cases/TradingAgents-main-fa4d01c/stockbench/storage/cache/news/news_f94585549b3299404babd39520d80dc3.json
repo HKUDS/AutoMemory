@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Celebrates First 100 years with a Commitment to the Future Workforce",
+      "description": "Caterpillar Inc. (NYSE: CAT) today announced an investment to support a key source of its success and longevity for the next 100 years: people. As part of the celebration, the company pledged $100 million over the next five years to help equip the workforce of the future with the skills needed, leveraging technology to meet global market demands as the world undergoes a rapid digital transformation.",
+      "published_utc": "2025-04-14T21:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e38d0c1e70b18cdff2d5e8cd3083788434b0d559a5045305df3d48d9fa75f662",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908364,
+      "datetime": 1744636800
+    },
+    {
+      "title": "Nike, Apple share gains lead Dow's 515-point rally",
+      "description": "Nike, Apple share gains lead Dow's 515-point rally",
+      "published_utc": "2025-04-14T18:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2c31eb7f586cc851c8986fccbf4c64766bbbe609a4101a94087a0934ade19e52",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133911638,
+      "datetime": 1744627800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:39.268413+00:00",
+    "cache_key": "news_f94585549b3299404babd39520d80dc3",
+    "count": 2
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is Amgen Inc. (NASDAQ:AMGN) Trading At A 49% Discount?",
+      "description": "Key Insights The projected fair value for Amgen is US$569 based on 2 Stage Free Cash Flow to Equity Amgen's US$288...",
+      "published_utc": "2025-06-01T20:00:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d3bdfa9db0ec5ad684ff6ae36c20b9c9ab5260438cce29401c228749cb4dd6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927454,
+      "datetime": 1748779221
+    },
+    {
+      "title": "How The BLSH Portfolio Buys Low And Sells High, Consistently",
+      "description": "The BLSH strategy systematically buys blue-chip stocks at undervalued prices and sells partial positions at overvalued levels. Learn more about the strategy here.",
+      "published_utc": "2025-06-01T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da9f4c876d8f46ad218f622289f0a249ade8eac2f56f6ee313e2293c6632ad29",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/536134845/image_536134845.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927246,
+      "datetime": 1748766600
+    }
+  ]
+}

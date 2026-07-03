@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wall Street CEOs Stress Fed Independence Amid Powell Attacks",
+      "description": "(Bloomberg) -- Top bosses at some of Wall Street’s biggest banks emphasized the importance of an independent Federal Reserve as the long-running saga between President Donald Trump and central bank Chair Jerome Powell intensified.Most Read from BloombergThe Dutch Intersection Is Coming to Save Your LifeAdvocates Fear US Agents Are Using ‘Wellness Checks’ on Children as a Prelude to ArrestsLA Homelessness Drops for Second YearManhattan, Chicago Murder Rates Drop in 2025, Officials SayBank of Amer",
+      "published_utc": "2025-07-17T05:22:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f10780f81fbeb098a70fa649e7090cd1ef8adb535101e0f864d3bb2b2a0c33df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993024,
+      "datetime": 1752700959
+    },
+    {
+      "title": "Stocks End Higher After Trump Plays Down Intentions to Fire Powell",
+      "description": "A series of reports indicating that President Trump could attempt to fire Federal Reserve Chair  Jerome Powell  sparked a roller-coaster day on Wall Street, before major indexes closed the session near records.  Major stock indexes slid as much as 0.8% midday after news that Trump told Republican lawmakers that he was likely to attempt to remove Powell from his job soon.  The prospect that lower rates would eventually yield higher inflation sparked a selloff in long-dated Treasurys, driving up the 30-year yield around 0.1 percentage point.",
+      "published_utc": "2025-07-17T04:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=427088d4ae9b29d43bb709e1d9a6365bdd5c7fd46a5b0462f0d198d5affca247",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993025,
+      "datetime": 1752699240
+    },
+    {
+      "title": "Trading Desks Rejoice: Wall Street Keeps Benefitting From Tariff Upheaval",
+      "description": "Traders—especially stock traders—rejoice.  Investors have learned this earnings season that last quarter’s whiplash led to outsized gains for trading desks up and down Wall Street.  When markets go haywire—as they did when President Donald Trump in early April announced tariffs that threaten to remake global trade relations—clients typically rush to capitalize on big swings while trying to minimize risks to their portfolios.",
+      "published_utc": "2025-07-17T03:18:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90dabbc1363c89369f030556f39251aa80d1cbe8d9319cf6f3e7b5963aac7253",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993026,
+      "datetime": 1752693537
+    },
+    {
+      "title": "Banks’ Wealth Management Units Ride Market Rebound in Second Quarter",
+      "description": "Assets under management at some of the nation’s largest wealth management businesses are up, but net new assets for the second quarter tell a more nuanced story.",
+      "published_utc": "2025-07-17T02:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df06ef6711e59e6020c75e79289efc229da84f603311b1f4f6a6ceda8c7a87ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993027,
+      "datetime": 1752690540
+    },
+    {
+      "title": "Citi hires senior JPMorgan bankers to strengthen financing business",
+      "description": "Aloke Gupte, previously co-head of international equity capital markets (ECM) at JPMorgan, will join Citi as global co-head of ECM alongside Doug Adams.  Alex Watkins, who held the same role as Gupte at JPMorgan, will take over as head of technology financing.",
+      "published_utc": "2025-07-17T01:39:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1bd86189b2474bf8a3b76abcb1063302fb79f1343acda642d73dc32d22c53eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993028,
+      "datetime": 1752687559
+    }
+  ]
+}

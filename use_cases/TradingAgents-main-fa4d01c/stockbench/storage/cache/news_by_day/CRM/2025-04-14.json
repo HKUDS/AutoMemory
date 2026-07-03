@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) the Best Stock for 15 Years?",
+      "description": "We recently published a list of Long-Term Stock Portfolio: 15 Best Stocks for 15 Years. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other best stocks for 15 years. Russell Investments believes that 3 features are defining the market outlook for 2025. These include the elevated […]",
+      "published_utc": "2025-04-14T05:39:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=160d297b245195d605bda1460a7768fad7f0b6c6f46c7a002da56a78fb854c11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908245,
+      "datetime": 1744580344
+    }
+  ]
+}

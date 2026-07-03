@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "January Dow Dogs: 1 'Safer' Buy, And 5 With Promise",
+      "description": "Get insights on top Dow Dogs like Verizon and Merck, with potential net gains forecasted by analysts. Click for the January picks.",
+      "published_utc": "2025-01-02T20:21:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a2bfec130e38310a0339d2950fb14a024997156e837c950640f2806e609acfa0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/478792228/image_478792228.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240262,
+      "datetime": 1735820503
+    },
+    {
+      "id": "f8238a5e7c0262f4ec6bb3f1f74d1844843e46a08a5e8790fb7baff1f719c855",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Beaten-Down Stock That Could Soar by 50% in 2025, According to Wall Street",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-01-02T15:00:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/02/1-beaten-down-stock-that-could-soar-by-47-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "REGN",
+        "AMGN",
+        "SNY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802113/elderly-person-sitting-on-a-bed.jpg",
+      "description": "Regeneron Pharmaceuticals is facing challenges with its key drug Eylea due to biosimilar competition, but its other products like Dupixent and Libtayo are performing well. Analysts believe Regeneron's stock could rise by 50% in the next year, but the outcome of a patent case against Amgen is a key uncertainty.",
+      "keywords": [
+        "Regeneron Pharmaceuticals",
+        "Eylea",
+        "Dupixent",
+        "Libtayo",
+        "Amgen"
+      ],
+      "insights": [
+        {
+          "ticker": "REGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Regeneron is facing headwinds with its key drug Eylea due to biosimilar competition, but its other products are performing well, and the company has a deep pipeline with potential for future growth. The outcome of a patent case against Amgen is a key uncertainty."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amgen has won a ruling allowing it to launch a biosimilar version of Regeneron's Eylea, which could negatively impact Regeneron's revenue."
+        },
+        {
+          "ticker": "SNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sanofi is Regeneron's partner for the successful drug Dupixent, which is expected to continue its strong growth, including in the new COPD indication."
+        }
+      ]
+    },
+    {
+      "title": "Not A Year For The 2024 Dogs Of The Dow",
+      "description": "With the close of trading for 2024 occurring on Tuesday, it is time to look at the performance of those Dogs of the Dow. Read more here.",
+      "published_utc": "2025-01-02T13:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28c6a445e8e9a1d5a082ef979aa21a6b9db0edad6601803c67794cbbb92d3e75",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1854380206/image_1854380206.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132237169,
+      "datetime": 1735795200
+    }
+  ]
+}

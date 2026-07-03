@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Analysts reboot IBM stock price targets after earnings",
+      "description": "This is what could happen next to IBM's shares.",
+      "published_utc": "2025-04-26T23:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ea4c9522dfdc478d4b41e33d267a76f29f286d05f2eb878b9d8d9928eceba91",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104553,
+      "datetime": 1745679780
+    }
+  ]
+}

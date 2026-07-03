@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "McDonald : 2025 Post Annual Shareholders’ Meeting Q&A",
+      "description": "McDonald's Corporation 2025 Annual Shareholders' Meeting Supplemental Questions & Answers The following questions were submitted in connection...",
+      "published_utc": "2025-07-07T19:38:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=474af6c268b110d5e5a0b738d8639fa77d94054f03e84506854131043db12a35",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135786646,
+      "datetime": 1751888313
+    },
+    {
+      "title": "McDonald's: Rich Valuation, Low Consumer Confidence Suggest Waiting For A Better Entry Point",
+      "description": "",
+      "published_utc": "2025-07-07T19:07:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d48963f22438470c4d0965f99c514a1a4ae5310e27146be0bd039900ec475b26",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135786450,
+      "datetime": 1751886451
+    },
+    {
+      "title": "McDonald's (NYSE:MCD) shareholders have earned a 12% CAGR over the last five years",
+      "description": "When you buy and hold a stock for the long term, you definitely want it to provide a positive return. Furthermore...",
+      "published_utc": "2025-07-07T19:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d7e8f473a84a6b5b13304ebfd8f1c0ad2e7ae58cc28144045a8c104b7745843",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135785223,
+      "datetime": 1751886017
+    }
+  ]
+}

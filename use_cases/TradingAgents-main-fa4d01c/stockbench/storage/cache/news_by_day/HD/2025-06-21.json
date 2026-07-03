@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Morning Movers: GMS Inc. jumps after report of competing suitors",
+      "description": "Stock futures are ticking slightly higher as investors digest fresh geopolitical news and continue to weigh the Federal Reserve’s latest stance on interest rates. President Trump’s announcement of a two-week pause on potential military action against Iran has brought some relief to markets. Brent crude has pulled back to around $77 per barrel as the likelihood of immediate escalation diminishes. On the macro side, the Fed’s cautious tone earlier this week is still reverberating. Policymakers kep",
+      "published_utc": "2025-06-21T21:00:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea5b556683f78fbfa6f60d1753a47f3f309ec5ff1fc1762ccbcf934ad1f2a2ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454803,
+      "datetime": 1750510850
+    },
+    {
+      "title": "GMS Inc. price target raised to $95 from $71 at Barclays",
+      "description": "Barclays analyst Matthew Bouley raised the firm’s price target on GMS Inc. (GMS) to $95 from $71 and keeps an Equal Weight rating on the shares after QXO (QXO) publicly announced its bid to acquire GMS for $95.20 and The Wall Street Journal subsequently reported that Home Depot (HD) has also submitted an offer. With Home Depot making its push towards the Pro and QXO acquiring Beacon earlier this year, “there are clearly two behemoths making a push to consolidate the building products distributio",
+      "published_utc": "2025-06-21T20:35:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f9ffe846ffecc7751926d16d857815fbdf0fc9cf9f61f5d635191f3c4335df6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135455360,
+      "datetime": 1750509336
+    },
+    {
+      "title": "Home Depot Could Get Hammered: Pricey Stock And No Earnings Growth",
+      "description": "",
+      "published_utc": "2025-06-21T17:11:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=34106d97c5c6a920449885be841a7f6c1041ec951fd8f5dfa25df55791083219",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454876,
+      "datetime": 1750497076
+    },
+    {
+      "title": "5 Stocks I'm Buying As The Economy Slumps Toward Stagflation",
+      "description": "",
+      "published_utc": "2025-06-21T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36d5d6334d15a573431667c254fff0737be74d9d1547b8a5e4785b6fd081f32e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454639,
+      "datetime": 1750493100
+    }
+  ]
+}

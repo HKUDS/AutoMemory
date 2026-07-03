@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "AMGEN ANNOUNCES 2025 SECOND QUARTER DIVIDEND",
+      "description": "THOUSAND OAKS, Calif., March 4, 2025 /PRNewswire/ -- Amgen today announced that its Board of Directors declared a $2.38 per share dividend for the second quarter of 2025. The dividend will be paid on...",
+      "published_utc": "2025-03-05T00:56:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=10fb504145b7251ed112b480d072b99963a00528335899cd8bcd46556f756f3a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132980532,
+      "datetime": 1741107365
+    }
+  ]
+}

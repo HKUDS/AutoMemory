@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Boeing jet returns to US from China, a victim of Trump's tariff war",
+      "description": "A Boeing jet intended for use by a Chinese airline landed back at the planemaker's U.S. production hub on Sunday, a victim of the tit-for-tat bilateral tariffs launched by President Donald Trump in...",
+      "published_utc": "2025-04-20T07:13:48",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c070eb469b565a104b908ac0febb2a2100aa6a5589e7d96e223dcd50a1e8f97d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133976662,
+      "datetime": 1745104428
+    },
+    {
+      "title": "Boeing Investors: Here's What the Latest Big News From Delta Air Lines Means for You",
+      "description": "Delta Air Lines (NYSE: DAL) was the first major company to report results since the tariff war kicked off in early April.  What its management said had significant implications for the aerospace sector, particularly for Boeing (NYSE: BA).  Here's what happened and why it matters so much for Boeing investors.",
+      "published_utc": "2025-04-20T02:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02bf16f8779ea978b3d5ac49b79d7aaa528211eb07e7f9dc844ced36fac77e1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133988459,
+      "datetime": 1745087520
+    }
+  ]
+}

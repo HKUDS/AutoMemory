@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Home Depot Foundation invests more than $5.5 million to strengthen disaster preparedness, response and rebuilding efforts",
+      "description": "ATLANTA- This National Hurricane Preparedness Week, The Home Depot Foundation committed to invest more than $5.5 million to support nonprofit organizations as they help communities prepare for,...",
+      "published_utc": "2025-05-07T19:11:38",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1e7c80f0bc7a111fae0226263d08aa401b006edab4a20921eeaa7757948cd62b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134296123,
+      "datetime": 1746616298
+    }
+  ]
+}

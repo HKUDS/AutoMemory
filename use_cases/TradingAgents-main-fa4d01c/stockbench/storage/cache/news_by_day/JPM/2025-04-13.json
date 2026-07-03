@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Posts Strong Q1 Earnings With US$14,643 Million Net Income",
+      "description": "JPMorgan Chase (NYSE:JPM) announced a strong first-quarter earnings report for 2025, revealing impressive growth in net income and earnings per share compared to the previous year. These positive results likely added weight to the stock's 12% price increase over the past week. During this period, the market itself rose by 5%, indicating that broader market trends may also have contributed to JPM's performance. The solid financial performance underscored the company's resilience, amplifying...",
+      "published_utc": "2025-04-13T01:21:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d21a00b3dad90814a90ed557444fb30603dc6e07b03063dd01bf2cb4acd7fa93",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895914,
+      "datetime": 1744478509
+    }
+  ]
+}

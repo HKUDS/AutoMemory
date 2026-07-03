@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Honeywell: Puzzling And Continued M&A Ahead Of The Break-Up",
+      "description": "Honeywell's recent acquisitions and divestments aim to boost growth, but upcoming split into Automation, Aerospace, and Advanced Materials adds complexity. Learn more on HON stock here.",
+      "published_utc": "2025-03-12T22:44:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1ac3e686512feecd84c4613916d6c2fe243b42d4482f5e0bb9be739742b75a92",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303252631/image_1303252631.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157022,
+      "datetime": 1741790661
+    },
+    {
+      "title": "Caterpillar: Diversification Without Diworsification; Home Depot Looks Healthy, So Do Others",
+      "description": "Diversify Caterpillar holdings with tax-efficient strategies. Explore HD, LOW, and SNA for income replacement potential and strong dividend growth.",
+      "published_utc": "2025-03-12T21:29:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cf9ca56103d930886a81f4fb47de06448e6f9ac30502d33ccf692493d220c13",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2033001899/image_2033001899.jpg?io=getty-c-w750",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133156626,
+      "datetime": 1741786147
+    },
+    {
+      "title": "Fidelity Select Industrials Portfolio Q4 2024 Review",
+      "description": "For the three months ending December 31, 2024, the industrials sector, as measured by the MSCI U.S. IMI Industrials 25/50 Index, returned -1.72%. Read more here.",
+      "published_utc": "2025-03-12T20:43:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c06cf98eed1840413027d7be7f0db196be962cfc16d362067300970355fb64ec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1020346586/image_1020346586.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133155404,
+      "datetime": 1741783380
+    }
+  ]
+}

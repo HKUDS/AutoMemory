@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now",
+      "description": "Looking to invest in the future of computing without excessive risk? These three tech powerhouses are building quantum capabilities while generating massive profits from their more well-known core businesses.",
+      "published_utc": "2025-04-12T19:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=974400b10fa72ede92abf09e62c7009e903b9ff7c96fc6a0808a2a7f3b6e7cf7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133895825,
+      "datetime": 1744458540
+    }
+  ]
+}

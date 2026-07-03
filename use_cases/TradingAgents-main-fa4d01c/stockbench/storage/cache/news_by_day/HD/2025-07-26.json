@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Dividend Growth Fund Q2 2025 Commentary",
+      "description": "Fidelity Investments reviews Q2 2025 for its Dividend Growth Fund. See how sector shifts and stock picks helped cushion losses in a volatile market.",
+      "published_utc": "2025-07-26T21:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5fd08e5b7b1da8d991ff35f3081314c78f8d43eaa0b0e49d904fb73e19c29767",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/874979248/image_874979248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136095809,
+      "datetime": 1753534800
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "'The Game Is Rigged' Says Kevin O'Leary On Credit Card Points. He Claims They're Inflating Faster Than The Dollar And Always Cashes Out Fast",
+      "description": "Kevin O'Leary, the entrepreneur and investor known as Mr. Wonderful from “Shark Tank,” recently shared his thoughts on loyalty programs, describing them as a losing game for consumers. “Loyalty programs? Don't fall for the hype. Points are inflating faster than the dollar,” O’Leary wrote on X recently. Why O'Leary Cashes Out Quickly In the same post, he shared a video in which he elaborated further. \"Loyalty schemes and point systems. Worthless, worthless,\" he said. \"The inflation in points from",
+      "published_utc": "2025-05-12T07:01:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8719cee5c2cd0d1c56296dc253a4420fdec4c3b7648ba93d2a6be1ae0ecdf3ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379119,
+      "datetime": 1747004486
+    },
+    {
+      "title": "The Best Stocks to Invest $1,000 in Right Now",
+      "description": "Major benchmarks are down this year amid concerns about import tariffs and their impact on economic growth.  The stock market may not seem like the friendliest place for investors right now, with the three major benchmarks -- the S&P 500, the Dow Jones Industrial Average, and the Nasdaq Composite -- down since the start of the year.  Worries about President Donald Trump's plan to impose tariffs on imports have halted the positive momentum that carried indexes over the past two years.",
+      "published_utc": "2025-05-12T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d6c5bbe9de6056243abe1a29657a4b35fbf0b4aafa7b0f21cd8a82d4d312be1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379106,
+      "datetime": 1747001400
+    },
+    {
+      "title": "The ‘Magnificent Seven’ are back in the stock market’s driver’s seat — but are they still a buy?",
+      "description": "The ‘Magnificent Seven’ are back in the stock market’s driver’s seat — but are they still a buy?",
+      "published_utc": "2025-05-12T05:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4b119023f3686cb538d363e4812389a136801f37bdfda5e0207dcc2e8b53edbd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134382269,
+      "datetime": 1746999060
+    },
+    {
+      "title": "This Artificial Intelligence (AI) Software Stock -- a 1,090% Gainer Since Its IPO -- Could Soar Another 285%, According to Dan Ives. Is It Time to Buy Like There's No Tomorrow?",
+      "description": "Palantir Technologies stock has risen exponentially over the last few years thanks to soaring demand for its AI software.",
+      "published_utc": "2025-05-12T03:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c9ba67b6751cb4f5344935d80262e892b8b9d02c2ba2971e58db5f0495b05ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379049,
+      "datetime": 1746991200
+    },
+    {
+      "title": "Nasdaq Recovery: 3 Artificial Intelligence (AI) Stocks That Are Still Too Cheap to Ignore",
+      "description": "It's not too late to buy into these beaten-down tech giants.",
+      "published_utc": "2025-05-12T02:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b29457feb3ea4658130cec2e4b13320608270d2a34c3aff7f36101fcb5bc103",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134375597,
+      "datetime": 1746987540
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:20.605504+00:00",
+    "cache_key": "news_c555a1fed079bc3a67d71c9c26a3da1b",
+    "count": 5
+  }
+}

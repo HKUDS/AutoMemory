@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "EPU: Peru Isn't One Of My Top LatAm Picks Right Now",
+      "description": "Peru's political instability and upcoming elections present significant risks, particularly vs. other countries in the region. Read why EPU ETF is a Hold.",
+      "published_utc": "2025-07-27T09:03:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3f365a739b7a2271829d8c7123cf0bb3e9fd512711aac2528c62e0dff2359dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387126975/image_1387126975.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136099223,
+      "datetime": 1753578215
+    },
+    {
+      "title": "Fidelity Large Cap Stock Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-27T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dabed13e4a285da09db3a5961cd1a6f4f26ff2adc0f4484530b23cbfe012b2e6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136098550,
+      "datetime": 1753569300
+    }
+  ]
+}

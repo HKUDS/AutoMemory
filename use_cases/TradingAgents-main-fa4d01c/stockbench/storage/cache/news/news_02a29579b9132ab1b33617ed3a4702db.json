@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "abrdn Life Sciences Investors Q4 2024 Commentary",
+      "description": "The equity portion of the Abrdn Life Sciences Investors Fund fell (gross) but outperformed its benchmark for Q4 2024. Click here to read the full commentary.",
+      "published_utc": "2025-03-30T11:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66dc9f2b53ce613484d516524a22eafdccbe115cabd59877c7d52f9cd1ad811b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322205513/image_1322205513.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133594341,
+      "datetime": 1743306600
+    },
+    {
+      "title": "abrdn Healthcare Investors Q4 2024 Commentary",
+      "description": "The equity portion of the Abrdn Healthcare Investors Fund fell (gross of fees) but outperformed its custom benchmark over the quarter. Click here to read the full commentary.",
+      "published_utc": "2025-03-30T10:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=82f91dbf63848ebe808f64808c8e5edf8521e08d31f59b25f79fc61ada48f984",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/91598774/image_91598774.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133590926,
+      "datetime": 1743303000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:24:54.627315+00:00",
+    "cache_key": "news_02a29579b9132ab1b33617ed3a4702db",
+    "count": 2
+  }
+}

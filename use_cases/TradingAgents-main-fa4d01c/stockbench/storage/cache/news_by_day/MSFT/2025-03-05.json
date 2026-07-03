@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "description": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "published_utc": "2025-03-05T23:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=81e89f35d6261cbf1bf18f68f20315094b10be6b45e617a4a715b67f1db19283",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133052096,
+      "datetime": 1741187040
+    },
+    {
+      "title": "AI-Driven Semiconductor Growth",
+      "description": "AI model specialization and monetization are accelerating, reshaping semiconductor demand. Click to read.",
+      "published_utc": "2025-03-05T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1feb9d03d5c71399a510620890823f6b379c1215e9d605a82c4cf9dbf21de791",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2075787099/image_2075787099.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133020329,
+      "datetime": 1741185900
+    },
+    {
+      "title": "Caterpillar, Boeing share gains lead Dow's 429-point rally",
+      "description": "Caterpillar, Boeing share gains lead Dow's 429-point rally",
+      "published_utc": "2025-03-05T22:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0d5b0636a48216779ae0a972ae27251e7060e2df3b1b828649b484d9360c3e4e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133019031,
+      "datetime": 1741183380
+    }
+  ]
+}

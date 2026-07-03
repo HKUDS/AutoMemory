@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Krispy Kreme: Plan To Fix The Glaze",
+      "description": "Krispy Kreme's turnaround plan focuses on core products & cost cuts. Current price offers 40-50% upside if the turnaround plan gains traction. See more on DNUT.",
+      "published_utc": "2025-06-05T06:47:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c297712d008c1abea15b6a5519755012b2135b96e9a29c1064ba59aa7571292f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1615717898/image_1615717898.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135036290,
+      "datetime": 1749077255
+    }
+  ]
+}

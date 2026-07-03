@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "'AI Agents Can Be 10x Employees'—AI Customer Support Chatbot Startup Founded Two Years Ago Seeks $100 Million At A $1.5 Billion Valuation",
+      "description": "Decagon, a two-year-old AI startup helping companies cut customer support costs, is in talks to raise $100 million at a $1.5 billion valuation, according to Forbes, which cites multiple sources familiar with the deal. Founded in 2023 by Jesse Zhang and Ashwin Sreenivas, Decagon builds customer support agents powered by artificial intelligence. These agents can handle common service tasks like issuing refunds, canceling subscriptions and answering product questions. Companies including Notion, Du",
+      "published_utc": "2025-05-19T00:02:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5097f3ab5f3cfddf1b0cb17778e849f2808c4c46b007f90b21fd12634083500",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577231,
+      "datetime": 1747584129
+    }
+  ]
+}

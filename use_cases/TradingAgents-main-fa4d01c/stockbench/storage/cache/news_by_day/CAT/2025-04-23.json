@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "KMTUY vs. CAT: Which Stock Is the Better Value Option?",
+      "description": "KMTUY vs. CAT: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-04-23T23:40:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c0db639bc3c2537eb51201ebc8c1c9d9432f80ddcde7c5533b9c39b224800da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046533,
+      "datetime": 1745422809
+    },
+    {
+      "title": "Caterpillar Inc. (CAT): Among Top Stocks in Bill Gates’ Portfolio with Huge Upside Potential",
+      "description": "We recently published a list of Bill Gates’ 10 Stock Positions with Huge Upside Potential. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other top stocks in Bill Gates’ portfolio with huge upside potential. Bill Gates became the youngest billionaire back in 1987 when he took […]",
+      "published_utc": "2025-04-23T22:28:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63fa41018935f980326d9ba31edfd9c81ebef14177d81bff52922024c60b055e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046534,
+      "datetime": 1745418515
+    }
+  ]
+}

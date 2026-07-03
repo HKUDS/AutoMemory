@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Inside the cockpit: How Air India's Boeing Dreamliner flight ended in disaster",
+      "description": "A cockpit recording of dialoguebetween the two pilots of the Air India flight that crashed lastmonth indicates the captain cut the flow of fuel to the Boeing787 jet's engines, the Wall Street...",
+      "published_utc": "2025-07-17T07:33:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ec587b7fec7bd6ae6ba21b7d2b6e482dc0e8ca1fe92790b2f4f12184b0a09b61",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135972796,
+      "datetime": 1752708788
+    },
+    {
+      "title": "What are the fuel switches at the centre of the Air India crash probe?",
+      "description": "A cockpit recording ofdialogue between the two pilots of the Air India flight thatcrashed last month indicates the captain cut the flow of fuel tothe Boeing 787 jet's engines, the Wall Street...",
+      "published_utc": "2025-07-17T07:32:20",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=31a0c08f250e04c0b6bec7b32b2ddf0d45a9d50db4031b5fd375d69adc050c64",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135972795,
+      "datetime": 1752708740
+    },
+    {
+      "title": "Key events in the Air India crash investigation",
+      "description": "A cockpit recording of dialoguebetween the two pilots of the Air India flight that crashed lastmonth indicates the captain cut the flow of fuel to the Boeing787 jet's engines, the Wall Street...",
+      "published_utc": "2025-07-17T07:26:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=35c37b3831fa70b2da59f98521ee013025e058835aa7d29cc6589ee766444d2b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135972756,
+      "datetime": 1752708375
+    },
+    {
+      "title": "Who were the two pilots who flew the Air India jet that crashed?",
+      "description": "A cockpit recording of dialoguebetween the two pilots of the Air India flight that crashed lastmonth indicates the captain cut the flow of fuel to the Boeing787 jet's engines, the Wall Street...",
+      "published_utc": "2025-07-17T07:21:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0dc0256b8238917b873fb22b26cf8caacfaff61cf49293929eea989097bd7405",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135972743,
+      "datetime": 1752708067
+    },
+    {
+      "title": "Boeing Stock Keeps Hitting New Highs. Here’s Why.",
+      "description": "J.P. Morgan analyst Seth Seifman boosted his Boeing stock price target to $230—about where shares are now—and has a Buy rating.",
+      "published_utc": "2025-07-17T04:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c54d32a503d58299a81b296c37ecd977508eb9f1e4c804b8f53199c9432adc86",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993516,
+      "datetime": 1752697980
+    }
+  ]
+}

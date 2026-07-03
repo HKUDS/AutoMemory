@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (NYSE:JNJ) Unveils Promising CAR T-Cell Therapy for B-Cell Lymphoma",
+      "description": "Johnson & Johnson (NYSE:JNJ) recently announced promising Phase 1b study results for its CAR T-cell therapy, JNJ-90014496, indicating potential efficacy in treating large B-cell lymphoma. During the same period, the company saw a 7% share price increase. While the broader market remained flat over the last 7 days, Johnson & Johnson's advancements in cancer treatment likely added weight to its positive stock movement. Other positive developments, such as promising results in acute myeloid...",
+      "published_utc": "2025-06-15T01:16:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4de96322e56d6ec25f9b700eccc21fb455bf2e954e62f57fe69e9760414d1ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135273774,
+      "datetime": 1749921393
+    }
+  ]
+}

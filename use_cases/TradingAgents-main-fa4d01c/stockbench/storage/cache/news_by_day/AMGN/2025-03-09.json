@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "de3a861175a006fb55ad8f8ae26287cdf429c6be1f9495c9fd757f969db35fe8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Dividend Stock Down 30% to Buy and Hold for the Next Decade",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-03-09T10:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/1-dividend-stock-down-30-to-buy-and-hold-for-next/?source=iedfolrf0000001",
+      "tickers": [
+        "REGN",
+        "AMGN",
+        "SNY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809355/doctor-and-patient-talking.jpg",
+      "description": "Regeneron Pharmaceuticals faces challenges with its Eylea drug, but its Dupixent treatment and promising pipeline, including a gene therapy for congenital deafness, make it an attractive long-term investment. The company's capital allocation priorities, including a new dividend and share buybacks, further enhance its appeal.",
+      "keywords": [
+        "Regeneron Pharmaceuticals",
+        "Eylea",
+        "Dupixent",
+        "gene therapy",
+        "capital allocation"
+      ],
+      "insights": [
+        {
+          "ticker": "REGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite facing headwinds with its Eylea drug, Regeneron has strong growth drivers in Dupixent and a promising pipeline, including a groundbreaking gene therapy. The company's capital allocation priorities, including a new dividend and share buybacks, further enhance its appeal as a long-term investment."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amgen's Pavblu, a biosimilar version of Eylea, as a competitor to Regeneron's Eylea, but does not provide a detailed assessment of Amgen's performance or outlook."
+        },
+        {
+          "ticker": "SNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sanofi co-markets Dupixent with Regeneron, and the article highlights Dupixent's strong performance and growth potential, which benefits Sanofi as Regeneron's partner."
+        }
+      ]
+    }
+  ]
+}

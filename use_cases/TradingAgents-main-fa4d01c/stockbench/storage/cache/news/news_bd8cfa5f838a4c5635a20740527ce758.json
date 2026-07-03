@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corp. stock underperforms Tuesday when compared to competitors",
+      "description": "International Business Machines Corp. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-02-26T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e0e3d070edfc40439d767b31d32ed127d6e9fcfbcbdd94ee6f97a212c68c667a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882365,
+      "datetime": 1740501120
+    },
+    {
+      "title": "IBM to Acquire DataStax Amid Deeper Gen AI Push",
+      "description": "By Dean Seal International Business Machines said it plans to acquire the AI and data solutions provider DataStax in a deal with undisclosed terms. The tech company said Tuesday that...",
+      "published_utc": "2025-02-25T19:36:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d996fe35eec51825812337f7fe886470cbb1d0b1137ba208935c663caec42abf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132871570,
+      "datetime": 1740483369
+    },
+    {
+      "title": "IBM to Acquire DataStax, Deepening watsonx Capabilities and Addressing Generative AI Data Needs for the Enterprise",
+      "description": "Planned acquisition furthers IBM's commitment to open-source innovation; helps clients access untapped, unstructured enterprise data to maximize the impact of generative AIARMONK, N.Y., Feb. 25, 2025...",
+      "published_utc": "2025-02-25T18:16:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a65008d0387d80887c98d81acee6824547cb81a3e1ecca1fdff41789602be480",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132871146,
+      "datetime": 1740478565
+    },
+    {
+      "title": "9 Fastest-Growing Remote Jobs That Pay $100,000+ in 2025",
+      "description": "Originally published on ForbesJustina Nixon Saintil, IBM's VP and global head of corporate social responsibility, predicted in a recent interview that AI agents will become the norm, and soon,...",
+      "published_utc": "2025-02-25T17:36:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=154a5777f9d5f06f501f26653117cee184f0762b073f91fe09f20a26f5311545",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132870944,
+      "datetime": 1740476177
+    },
+    {
+      "title": "Riyadh Air and IBM to build AI-driven enterprise, to elevate guest and employee experiences",
+      "description": "Agreement will see Riyadh Air leverage IBM watsonx and IBM Consulting solutions to drive Riyadh Air's vision as the world's first digital native airlineThe collaboration aims to help power the Saudi...",
+      "published_utc": "2025-02-25T15:01:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=27a33d8d54f6f0c2f35684e5310e54d7c92cab0d3a3d06f6274441b2f788cbc6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132869756,
+      "datetime": 1740466872
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:46.085561+00:00",
+    "cache_key": "news_bd8cfa5f838a4c5635a20740527ce758",
+    "count": 5
+  }
+}

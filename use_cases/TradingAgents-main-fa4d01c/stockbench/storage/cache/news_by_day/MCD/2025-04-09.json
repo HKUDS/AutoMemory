@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "El Pollo Loco Stock Slips 24% in 6 Months: Should You Hold or Exit?",
+      "description": "LOCO's ability to manage costs, adapt to evolving consumer preferences, and maintain a differentiated brand identity should support growth.",
+      "published_utc": "2025-04-09T22:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a87157fa613395701295b222b72068eeb3da3bcd3639d8000fe4068ee5a1ae3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844214,
+      "datetime": 1744207440
+    },
+    {
+      "title": "Warner Bros.’ ‘A Minecraft Movie’ Smashes Box Office",
+      "description": "Warner Bros.’ ‘A Minecraft Movie’ Smashes Box Office",
+      "published_utc": "2025-04-09T21:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2108fef356858904938fe078842ed1df11f0f003d8287a52bab62fa392f98606",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147374,
+      "datetime": 1744204860
+    }
+  ]
+}

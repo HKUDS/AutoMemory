@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing (BA) Declines More Than Market: Some Information for Investors",
+      "description": "Boeing (BA) closed at $197.68 in the latest trading session, marking a -1.29% move from the prior day.",
+      "published_utc": "2025-06-19T05:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=909251a8acfb1fff74ef19917edd546ba0f334b6f047bd8b516d3293feeff326",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135376103,
+      "datetime": 1750283104
+    },
+    {
+      "title": "Boeing 737 MAX victims' relatives ask judge to reject deal ending criminal case",
+      "description": "WASHINGTON (Reuters) -Relatives of some of the 346 people killed in two Boeing 737 MAX crashes in 2018 and 2019 asked a federal judge on Wednesday to reject a deal between the Justice Department and the planemaker that allows the company to avoid prosecution in a criminal fraud case.  The agreement enables Boeing to avoid being branded a convicted felon and to escape oversight from an independent monitor for three years that was part of a plea deal struck in 2024.  The families cited Judge Reed O'Connor's statement in 2023 that \"Boeing's crime may properly be considered the deadliest corporate crime in U.S. history.\"",
+      "published_utc": "2025-06-19T03:45:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02c35bbb5d9fc685a78e83f212037b689cfedd22a4fccc00efa18d2ac9baad68",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135376104,
+      "datetime": 1750275935
+    },
+    {
+      "title": "US safety board wants warnings on Boeing 737 MAX engines over smoke entering cockpit",
+      "description": "The NationalTransportation Safety Board issued an urgent safetyrecommendation Wednesday to address the possibility of smokeentering the cockpit or cabin of Boeing 737 MAX airplanesequipped with...",
+      "published_utc": "2025-06-19T00:54:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7ed91ea0217ca9900a909373dc2a9176e2b57669a85753d5b074b1b570b55a09",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135373992,
+      "datetime": 1750265651
+    }
+  ]
+}

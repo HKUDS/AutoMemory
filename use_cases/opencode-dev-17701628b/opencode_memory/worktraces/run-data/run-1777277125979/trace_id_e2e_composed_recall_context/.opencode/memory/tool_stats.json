@@ -1,0 +1,1 @@
+{"shell":{"tool":"shell","calls":3,"successes":0,"errors":3,"totalDurationMs":350,"updatedAt":1777277126030,"lastErrorSample":"EACCES opening /tmp/opencode-cache/index.json","errorSamples":{"EACCES opening /tmp/opencode-cache/index.json":3},"guideline":"Tool \"shell\" has failed often in this workspace; double-check inputs and permissions before retrying."}}

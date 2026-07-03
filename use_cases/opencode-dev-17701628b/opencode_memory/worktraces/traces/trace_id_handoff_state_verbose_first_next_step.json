@@ -1,0 +1,79 @@
+{
+  "trace_id": "trace_id_handoff_state_verbose_first_next_step",
+  "eval_mode": "qa",
+  "category": "high_noise",
+  "description": "Escalation: one verbose first action item should not starve later concise action items, blockers, or files under a realistic handoff budget.",
+  "turns": [
+    {
+      "role": "system",
+      "content": "compaction wrote a handoff with a verbose first next step",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish the residency invoice replay migration for enterprise tenants.",
+          "constraints": "Preserve audit logging, keep dry-run mode enabled, and avoid generated client edits.",
+          "done": ["Mapped invoice replay callers", "Added dry-run adapter"],
+          "inProgress": ["Threading residency region into invoice replay"],
+          "blockers": ["Need security approval for eu-enterprise-9 replay logs"],
+          "decisions": ["Use staging-east canary before production replay"],
+          "nextSteps": [
+            "Review every invoice replay diff, compare tenant-by-tenant checksums, confirm support calendar windows, attach audit export evidence, verify dry-run counters, and write a release note draft before any production toggle is touched.",
+            "Run bun test packages/billing --filter replay-residency",
+            "Update docs/runbooks/residency-replay.md",
+            "Ask security to approve eu-enterprise-9 replay logs"
+          ],
+          "files": [
+            "packages/billing/src/replay/residency.ts",
+            "docs/runbooks/residency-replay.md"
+          ]
+        }
+      }
+    },
+    { "role": "tool", "content": "noise: replay dry-run output page 1", "used_for_evaluation": false },
+    { "role": "agent", "content": "noise: summarized a separate documentation concern", "used_for_evaluation": false },
+    { "role": "tool", "content": "noise: replay dry-run output page 2", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false, "metadata": { "retention_flush": true } },
+    { "role": "user", "content": "Pause here and keep the concise action items.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Paused.", "used_for_evaluation": false },
+    { "role": "tool", "content": "format produced no changes", "used_for_evaluation": false },
+    { "role": "agent", "content": "End of noisy handoff trace.", "used_for_evaluation": false },
+    { "role": "system", "content": "final noise marker", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "Which replay residency test must be run?",
+      "metadata": { "maxChars": 420 },
+      "expected_information": [
+        { "value": "bun test packages/billing --filter replay-residency", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which runbook must be updated?",
+      "metadata": { "maxChars": 420 },
+      "expected_information": [
+        { "value": "docs/runbooks/residency-replay.md", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which security approval remains blocked?",
+      "metadata": { "maxChars": 420 },
+      "expected_information": [
+        { "value": "eu-enterprise-9 replay logs", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which replay source file is relevant?",
+      "metadata": { "maxChars": 420 },
+      "expected_information": [
+        { "value": "packages/billing/src/replay/residency.ts", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which canary decision matters?",
+      "metadata": { "maxChars": 420 },
+      "expected_information": [
+        { "value": "staging-east canary", "matcher": "substring" }
+      ]
+    }
+  ]
+}

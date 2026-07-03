@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "RSP: S&P 500 Monthly Dashboard For March",
+      "description": "RSP ETF exhibits value characteristics, but higher volatility and lower risk-adjusted performance compared to SPY. Check out my recommendation for the fund.",
+      "published_utc": "2025-03-02T13:22:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1578c1bd5b071dbfbc1edfadf7d7e28ff81c12a39d0f7719db37598d05841f8d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1167416299/image_1167416299.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132942312,
+      "datetime": 1740892960
+    }
+  ]
+}

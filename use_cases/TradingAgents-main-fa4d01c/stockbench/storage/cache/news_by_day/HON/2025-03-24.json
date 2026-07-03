@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tariffs Might Be Lighter Than Expected. It’s a Relief for Markets.",
+      "description": "Tariffs Might Be Lighter Than Expected. It’s a Relief for Markets.",
+      "published_utc": "2025-03-24T20:12:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0bd4826a99912a9962281b1936c4908522a7b02bc345241d463bc6165c914c8c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134149116,
+      "datetime": 1742818320
+    }
+  ]
+}

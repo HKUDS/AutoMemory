@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "J.P. Morgan Asset Management Announces Liquidation of JPMorgan Sustainable Infrastructure ETF (BLLD)",
+      "description": "NEW YORK, Feb. 18, 2025 /PRNewswire/ -- J.P. Morgan Asset Management today announced the upcoming liquidation and dissolution of the JPMorgan Sustainable Infrastructure ETF . ...",
+      "published_utc": "2025-02-19T00:46:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=02244864adfcb77a9bb224ebb622bd2209fa1eaf2cf267ce2fd6dd91342d0437",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132779999,
+      "datetime": 1739897165
+    }
+  ]
+}

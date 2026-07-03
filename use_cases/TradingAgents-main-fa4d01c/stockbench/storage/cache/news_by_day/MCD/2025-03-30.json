@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "This Soon-to-Be Dividend King Is Hoping to Get a Boost From the AI Trend -- Here's How",
+      "description": "In the fourth quarter of 2024, fast-food giant McDonald's (NYSE: MCD) raised its quarterly dividend from $1.67 per share to $1.77 per share.  If it raises its dividend again before the end of 2025, McDonald's will extend its streak to 50 years, placing it among the elite Dividend Kings.  Furthermore, progressively paying more on an annual basis over the course of decades suggests that the company is able to outcompete its rivals regardless of what's going on in the world, perhaps thanks to some competitive advantage.",
+      "published_utc": "2025-03-30T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f82eb415e8789042b28eb49bb702cc83474a63d0db2c095dcdc8669feb62be32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133599766,
+      "datetime": 1743327000
+    }
+  ]
+}

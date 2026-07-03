@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Travelers Stock Nears Buy Point, But The Company Faces A Profit Headwind",
+      "description": "Travelers Stock Nears Buy Point, But The Company Faces A Profit Headwind",
+      "published_utc": "2025-03-19T20:34:28",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=53dfd957b9749c43973157de4b2769c0a4381ffd7664e1b4672872caaa6083b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133276547,
+      "datetime": 1742387668
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:13.006191+00:00",
+    "cache_key": "news_07f330c5bfd266693560d39434a2ab8a",
+    "count": 1
+  }
+}

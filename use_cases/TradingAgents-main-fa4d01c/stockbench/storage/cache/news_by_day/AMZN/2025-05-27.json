@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "UPS Sells Ware2Go To Peter Thiel-Backed Stord As Startup Gains 2.5M Square Feet To Compete With Amazon, Expand To U.K. And Netherlands",
+      "description": "Stord, the logistics tech startup founded by former Thiel fellow Sean Henry, is stepping up its campaign to challenge Amazon's (NASDAQ:AMZN) grip on e-commerce by acquiring United Parcel Service (NYSE:UPS) subsidiary Ware2Go. The deal, announced Monday, brings an additional 2.5 million square feet of fulfillment space into Stord's network and according to CNBC, it strengthens its growing footprint across the U.S., Canada, the U.K., and the Netherlands. Don't Miss: Hasbro, MGM, and Skechers trust",
+      "published_utc": "2025-05-27T07:02:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5063d62699581acbbecf0fc0d64fd0aec45f9ad86ae9b71cfeb4a3c45138584a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715644,
+      "datetime": 1748300529
+    },
+    {
+      "title": "Amazon Just Sent a Massive Warning to Nvidia Investors",
+      "description": "A new AI investment from the cloud computing leader could signal a shift in its strategy.",
+      "published_utc": "2025-05-27T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c423f11f167b7d9d656290dfa681ae15dd82910225aba28c3eabd6b92b9048c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715646,
+      "datetime": 1748296800
+    },
+    {
+      "title": "Shopify: Wait For A Drop",
+      "description": "",
+      "published_utc": "2025-05-27T00:21:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2fe692b83d8c5f9695afe775dfd433441ff8830f9665ae10dd6ba1c9e765b46f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134702659,
+      "datetime": 1748276488
+    },
+    {
+      "title": "How To Build A $100,000 Dividend Portfolio That Could Yield 10.75% In 15 Years",
+      "description": "The Dividend Income Accelerator Portfolio targets income growth and diversification across sectors and countries. Learn why it offers strong returns and low risk.",
+      "published_utc": "2025-05-27T00:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4bba80b64fd9b458cfb1fb516aebcdd2ca8aadeff95b4f1fe8fcb22ac8432e60",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134702503,
+      "datetime": 1748275200
+    }
+  ]
+}

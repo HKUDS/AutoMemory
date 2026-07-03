@@ -1,0 +1,151 @@
+{
+  "trace_id": "trace_id_handoff_state_mid_budget_six_steps",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: a mid-size compact handoff budget should preserve more than four short critical next steps when space remains.",
+  "turns": [
+    {
+      "role": "user",
+      "content": "Prepare checkout rollout handoff.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Collected checkout rollout state.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "read_file inspected checkout rollout files.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "compaction produced handoff",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish checkout rollout verification without losing rollback safety.",
+          "constraints": "Keep the staged rollout below ten percent until payment audit signs off.",
+          "done": [
+            "Mapped existing rollout gates to the new checkout flow."
+          ],
+          "inProgress": [
+            "Comparing staged rollout metrics against the payment audit dashboard."
+          ],
+          "blockers": [
+            "Payment audit owner must approve the dispute-rate threshold."
+          ],
+          "decisions": [
+            "Use checkout_v3_canary as the rollout flag."
+          ],
+          "nextSteps": [
+            "Run smoke test",
+            "Patch rollout gate",
+            "Refresh audit fixture",
+            "Restart checkout worker",
+            "Notify payment owner",
+            "Update rollback doc"
+          ],
+          "files": [
+            "packages/checkout/src/rollout.ts",
+            "packages/checkout/test/rollout.test.ts"
+          ],
+          "evidenceSessionID": "handoff-mid-six"
+        }
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Noise after compaction.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush marker one",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "formatter check succeeded.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "More unrelated release-note chatter.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "Trace complete.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush marker two",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What checkout smoke step remains?",
+      "metadata": {
+        "maxChars": 650
+      },
+      "expected_information": [
+        {
+          "value": "Run smoke test",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "What rollout gate action remains?",
+      "metadata": {
+        "maxChars": 650
+      },
+      "expected_information": [
+        {
+          "value": "Patch rollout gate",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "What audit fixture action remains?",
+      "metadata": {
+        "maxChars": 650
+      },
+      "expected_information": [
+        {
+          "value": "Refresh audit fixture",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "What checkout worker action remains?",
+      "metadata": {
+        "maxChars": 650
+      },
+      "expected_information": [
+        {
+          "value": "Restart checkout worker",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "What payment owner action remains visible?",
+      "metadata": {
+        "maxChars": 650
+      },
+      "expected_information": [
+        {
+          "value": "Notify payment owner",
+          "matcher": "substring"
+        }
+      ]
+    }
+  ]
+}

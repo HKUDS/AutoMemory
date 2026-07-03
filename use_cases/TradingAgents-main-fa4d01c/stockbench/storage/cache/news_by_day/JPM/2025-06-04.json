@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "BAC's Push to Expand Financial Centers: A Catalyst for Growth?",
+      "description": "Bank of America bets big on physical branches, with 150 new financial centers planned by 2027 to boost growth and deepen customer ties.",
+      "published_utc": "2025-06-04T20:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f453341e7608aeccb3ba53ce3421aad498c2fdaa915965cdae4de17b6fab0cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011222,
+      "datetime": 1749041880
+    }
+  ]
+}

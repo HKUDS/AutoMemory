@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Weekly Option Windfall: Trading AXP Options Following Q4 Earnings Beat",
+      "description": "One of Warren Buffett's long-held positions, American Express just delivered its fourth consecutive earnings beat.",
+      "published_utc": "2025-02-07T04:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d2942eeac6672957d3189e7b125c7799e93efbdddef55a06f8354946cdff4a4",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/c6c1c3149db795d75ce670ec5d90c6d2",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604972,
+      "datetime": 1738872600
+    },
+    {
+      "title": "MarketAxess Q4 Earnings Beat on Strong Emerging Markets Volumes",
+      "description": "MKTX's fourth-quarter results reflect solid trading volumes in Eurobonds and emerging markets, driving commission revenues. Elevated marketing and advertising expenses partially offset the results.",
+      "published_utc": "2025-02-07T02:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e25c4cb3dc405ad6ed7e830a18ee8b9bd5b366bf03bb758cf7c3faa4d8740910",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/5e3463114a5e85713272fa6b2be1c546",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604974,
+      "datetime": 1738867080
+    },
+    {
+      "title": "Jim Cramer: Buy American Express (AXP) on Travel Strength",
+      "description": "We recently published a list of Jim Cramer Discusses These 10 Stocks & President Trump’s Tariffs. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other stocks that Jim Cramer discusses with insights on President Trump’s tariffs. In a fresh appearance on CNBC’s Squawk on the […]",
+      "published_utc": "2025-02-07T01:50:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bcced0b18dc19cea43a90afdf825198181300572695a72dbb013aea9f87b594",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/fTraY96se0UtN7GF9x5Fsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a44e70b22da11d3cbca7b31155886c1a",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604977,
+      "datetime": 1738864232
+    },
+    {
+      "title": "Franklin Equity Income Fund Q4 2024 Commentary",
+      "description": "US stocks collectively rose in the fourth quarter of 2024, with the S&P 500 Index, Dow Jones Industrial Average and NASDAQ Composite Index reaching new record highs.",
+      "published_utc": "2025-02-06T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25b7b106bd1d4f960396261f4e862f4eaef85ff6d434c5a38ef819dc38060499",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2095584352/image_2095584352.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132572898,
+      "datetime": 1738834500
+    },
+    {
+      "title": "Not all premium credit cards are created equal—here’s how three top contenders stack up",
+      "description": "Some premium cards make life easier, others just make it more expensive. Here’s how to tell them apart.",
+      "published_utc": "2025-02-06T16:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c277a89afce59f6bc49834c643f054580ba16ba60b06fed31714677c5e1b49e",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/2dDHyG.eXCXu0sl2v9ZK8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/7bef9781d845accbc217730756235334",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604979,
+      "datetime": 1738828860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T16:37:36.481973+00:00",
+    "cache_key": "news_201e6d6353e7498ddf7d4676685c7f44",
+    "count": 5
+  }
+}

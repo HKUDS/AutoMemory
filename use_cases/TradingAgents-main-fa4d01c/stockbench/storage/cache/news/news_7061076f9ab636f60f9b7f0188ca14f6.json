@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Bill Gates Could Have Been World's First Trillionaire If He Had Diamond-Handed His Microsoft Stock — But Instead, He's Vowed To Not Die Rich",
+      "description": "Elon Musk may top today's rich list, but if Bill Gates had diamond-handed his Microsoft stock instead of giving most of it away, we'd be looking at a very different kind of billionaire. A trillionaire, in fact. According to a Forbes video posted on YouTube this week, Gates would be worth around $1.2 trillion today — more than three times Musk's net worth — if he'd never sold a single share or donated a dime. The clip estimates that he and Melinda French Gates could have had a combined fortune of",
+      "published_utc": "2025-05-28T06:31:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14b668106cfd041bd7c2a072da2fc2ecb4dbdaa09ad0002398f6d776829e89ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134741855,
+      "datetime": 1748385082
+    },
+    {
+      "title": "Nvidia’s suppliers resolve AI rack issues in boost to sales",
+      "description": "Nvidia’s suppliers are accelerating production of its flagship AI data centre “racks” following a resolution of technical issues that had delayed...",
+      "published_utc": "2025-05-28T04:00:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=263f6aaf165cd7f85e2d395d7e078ffdaeb297d7912416f97866340888e2d272",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134741856,
+      "datetime": 1748376044
+    },
+    {
+      "title": "Jefferies Names Microsoft (MSFT) Its Top AI Pick After “Build 2025”",
+      "description": "Jefferies’ top tech analyst, Brent Thill, has named Microsoft Corp. (NASDAQ: MSFT) his “top AI pick” following the company’s annual developer conference, Build 2025, held in Seattle last week. In a research note on May 23, Thill reaffirmed his Buy rating on the stock and maintained a price target of $550, highlighting Microsoft’s strategic focus […]",
+      "published_utc": "2025-05-28T03:43:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6cacf3e1a96b75c503a8adeba25615500ab752c1439b50bd754e72fc06a7113",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715507,
+      "datetime": 1748374991
+    },
+    {
+      "title": "Last Week in AI",
+      "description": "NVIDIA, Microsoft, and Google all had major conferences and OpenAI stole Apple's lunch money.",
+      "published_utc": "2025-05-28T01:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5cceba1b849085b5f4be3e3eb688567d8c824972f8bc4adee27aada901cf771",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715509,
+      "datetime": 1748366760
+    },
+    {
+      "title": "2 Reasons To Buy Nebius And 1 To Sell CoreWeave",
+      "description": "",
+      "published_utc": "2025-05-28T01:06:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f38c88ca2f3420773687ed38e740cd1e3300704654940d9902cb9b3c093e8822",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134718127,
+      "datetime": 1748365615
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:36.568375+00:00",
+    "cache_key": "news_7061076f9ab636f60f9b7f0188ca14f6",
+    "count": 5
+  }
+}

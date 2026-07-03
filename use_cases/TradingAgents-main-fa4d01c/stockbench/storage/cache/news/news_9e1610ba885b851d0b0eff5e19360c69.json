@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Home Depot Inc. stock outperforms competitors on strong trading day",
+      "description": "Home Depot Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-04T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a5cb05e9f2a074bb80159448579856e16a7f30acf6f959bf2aa580c07a7930e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135014863,
+      "datetime": 1748968260
+    },
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For June 2025",
+      "description": "Track 50 top dividend growth stocks with daily valuation updates. Discover upgrades like Ferrari & Accenture, outperforming SPY & SCHD in 2023.",
+      "published_utc": "2025-06-03T20:53:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=019d2eb701e479ef25b7438df3bdf4961a9d2ab247e89a75ca9759239fdf6f7e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189850011/image_2189850011.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134980969,
+      "datetime": 1748955192
+    },
+    {
+      "title": "From Tariffs to Tags: The Price Hike Reality for US Shoppers (Part 2)",
+      "description": "For investors, the situation poses a complex challenge: U.S. consumer spending has remained resilient so far, but rising retail prices and cost-cutting responses hint at a deeper strain brewing beneath the surface.",
+      "published_utc": "2025-06-03T17:15:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb82f37b4e8ddd2390c64b8926248b685eb61ac15a59fed92029b07472fa7afd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134978075,
+      "datetime": 1748942118
+    },
+    {
+      "title": "Oil And The Real Estate Cycle",
+      "description": "",
+      "published_utc": "2025-06-03T17:11:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ed28f8cbd532878c653dda269fa86e6d397ff7ec9f74738b24c37037eb4ed903",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134976996,
+      "datetime": 1748941875
+    },
+    {
+      "title": "Walmart is supercharging revenue — but with fewer workers",
+      "description": "The thousands gathering at Walmart’s employee jamboree this week will celebrate record-breaking revenue, newly opened stores and a market-beating...",
+      "published_utc": "2025-06-03T12:01:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7235b58b0eaac8672292c87563529e4ab2d5fc6377e50baee2b0141880880789",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134977833,
+      "datetime": 1748923292
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:28.907913+00:00",
+    "cache_key": "news_9e1610ba885b851d0b0eff5e19360c69",
+    "count": 5
+  }
+}

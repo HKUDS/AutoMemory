@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "GARP: Growth ETF With A Solid Track Record",
+      "description": "iShares MSCI USA Quality GARP ETF holds 135 growth stocks weighted based on value and quality. Read the full ETF analysis and more like it here on Seeking Alpha.",
+      "published_utc": "2025-06-03T01:20:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=effd3783a0b241fa2ff614b4a6737f5f25dd55a40fa870fdf54248400d4f340f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/182410275/image_182410275.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134965105,
+      "datetime": 1748884827
+    }
+  ]
+}

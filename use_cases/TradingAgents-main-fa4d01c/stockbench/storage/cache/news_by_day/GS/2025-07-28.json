@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Update: Market Chatter: Diageo Appoints Bank of America, Goldman for East African Breweries Strategic Review",
+      "description": "(Updates with responses from Diageo and Bank of America, and Diageo recent stock movement in the las",
+      "published_utc": "2025-07-28T22:00:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1ce2ec461ab34e2644e1b19b0643e4ca62292ca3f1427a2daa63ba0c68a6a30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108056,
+      "datetime": 1753711240
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Netflix, Goldman Sachs and AMREP",
+      "description": "NVDA, NFLX, GS, and AXR stand out with strong performance and growth drivers, despite margin or macro risks.",
+      "published_utc": "2025-07-28T21:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24d2d86b4395aab02c647dcdde1504a4670c80630aee59e53a5708da704e229a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107960,
+      "datetime": 1753708320
+    }
+  ]
+}

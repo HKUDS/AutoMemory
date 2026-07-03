@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "PRESS DIGEST-British Business - March 13",
+      "description": "March 13 - The following are the top storieson the business pages of British newspapers. Reuters has notverified these stories and does not vouch for their accuracy. ...",
+      "published_utc": "2025-03-13T07:35:42",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=263857feeedcbb184e3736b9655f4fbe41571f737ea17cd93825a5260a85b70b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133160074,
+      "datetime": 1741822542
+    },
+    {
+      "title": "Investors bought Magnificent 7 ETF amid downturn, data shows",
+      "description": "Individual investors snapped upshares of an exchange-traded fund tied to the MagnificentSeven group of technology megacap stocks during the recentnosedive in the U.S. stock market, according to...",
+      "published_utc": "2025-03-13T01:09:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f97909c1bdef1914bbf1f2ee5dcc8ef3ed727e691e3520152a82db685d49f17e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133158820,
+      "datetime": 1741799373
+    },
+    {
+      "title": "Investors Dumped Meta After Historic Run, Bought These Stocks Instead",
+      "description": "Investors Dumped Meta After Historic Run, Bought These Stocks Instead",
+      "published_utc": "2025-03-13T00:07:45",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4d0c36916202df28e7acb210090a2674ef8c75f435d7f76ad7ae349c627556f0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133157527,
+      "datetime": 1741795665
+    }
+  ]
+}

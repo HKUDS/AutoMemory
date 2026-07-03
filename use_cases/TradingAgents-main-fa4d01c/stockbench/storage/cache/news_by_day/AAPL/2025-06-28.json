@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Why Are Meta Platforms, Microsoft, and Nvidia Outperforming the \"Magnificent Seven\" and the S&P 500?",
+      "description": "Meta Platforms, Microsoft, and Nvidia are turning AI investments into concrete results.  Artificial intelligence has helped these companies grow their profit margins.  Meta Platforms (NASDAQ: META), Microsoft (NASDAQ: MSFT), and Nvidia (NASDAQ: NVDA) are knocking on the door of all-time highs, whereas the other four \"Magnificent Seven\" stocks -- Amazon, Alphabet, Tesla, and Apple -- are down year to date.",
+      "published_utc": "2025-06-28T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a018f9c6834fee91921d9b801cba67ee12add116db1dd6210d74ee2d538d4c8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609938,
+      "datetime": 1751118300
+    },
+    {
+      "title": "Why Are Tesla, Apple, and Alphabet Underperforming the \"Magnificent Seven\" and the S&P 500?",
+      "description": "Tesla, Apple, and Alphabet could be coiled springs for long-term growth.  Tesla needs its big bets to pay off.  Many mega-cap tech-focused companies have posted sizable gains -- including \"Magnificent Seven\" members Meta Platforms (NASDAQ: META), Microsoft (NASDAQ: MSFT), and Nvidia (NASDAQ: NVDA).",
+      "published_utc": "2025-06-28T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2b30e47b221f75e0879428989ea66fbe22bb32787b61f99970b340a1640a78a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609941,
+      "datetime": 1751105700
+    }
+  ]
+}

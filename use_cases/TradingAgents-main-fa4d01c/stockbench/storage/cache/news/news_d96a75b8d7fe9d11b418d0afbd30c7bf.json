@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs : to Speak at Bernstein's 41st Annual Strategic Decisions Conference",
+      "description": "NEW YORK, April 28, 2025 - The Goldman Sachs Group, Inc. today announces that John E. Waldron, President and Chief Operating Officer, is scheduled to speak at the Bernstein 41st Annual Strategic...",
+      "published_utc": "2025-04-29T00:58:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=53dca978b31aef029440741a7890a62d84f353d7df86acaa9efcedd32670d0ca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134119279,
+      "datetime": 1745859490
+    },
+    {
+      "title": "Trump Promised a Markets Boom. 100 Days In, Stocks Have Only Seen Damage",
+      "description": "(Bloomberg) -- Donald Trump promised Americans a “boom like no other” if they elected him president. But based on the stock market’s performance during his first 100 days in office, it depends on what you mean by “boom.”Most Read from BloombergNewsom Says California Is Now the World’s Fourth-Biggest EconomyAt Bryn Mawr, a Monumental Plaza Traces the Steps of Black HistoryLos Angeles Downgraded to AA- by S&P Due to Budget WoesUS Cricket Deepens Bet on Texas With HQ Shift From CaliforniaThe Last T",
+      "published_utc": "2025-04-28T19:50:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f80aa2c472e6f168f3220124e2226197a0a670590f785c9484b6e3df8375b54",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115005,
+      "datetime": 1745841013
+    },
+    {
+      "title": "Wells Fargo gets another federal penalty lifted, but still has 3 big ones to go",
+      "description": "Wells Fargo gets another federal penalty lifted, but still has 3 big ones to go",
+      "published_utc": "2025-04-28T19:27:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=723458b14826d10c2e557183d20915c379a4212a027fab86c93eb789ab1d8f4d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126954,
+      "datetime": 1745839620
+    },
+    {
+      "title": "Dow's 175-point rally highlighted by gains for shares of Boeing, Caterpillar",
+      "description": "Dow's 175-point rally highlighted by gains for shares of Boeing, Caterpillar",
+      "published_utc": "2025-04-28T18:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5b91356091aefb076d0bc490b953b80451158b818da5a5213e2fd31a256f5b40",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134127671,
+      "datetime": 1745837400
+    },
+    {
+      "title": "Is Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF (GLOV) a Strong ETF Right Now?",
+      "description": "Smart Beta ETF report for GLOV",
+      "published_utc": "2025-04-28T18:20:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=408c36e40739f34536b87224f553f890112b2150957a6b31b443910d3928e441",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115193,
+      "datetime": 1745835605
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:52.782800+00:00",
+    "cache_key": "news_d96a75b8d7fe9d11b418d0afbd30c7bf",
+    "count": 5
+  }
+}

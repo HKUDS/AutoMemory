@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Trump meeting retailers including Walmart, Home Depot, Target regarding tariff concerns",
+      "description": "President Donald Trump is reportedly having a sit-down with some retailers regarding the tariffs he has imposed on goods imported from foreign countries.",
+      "published_utc": "2025-04-22T03:24:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07513b7bb8d88e3504b3ee5c0914f28e877a46c046dcca26ac852c719981f147",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031922,
+      "datetime": 1745263457
+    },
+    {
+      "title": "Trump Meets With Big Box Store Execs",
+      "description": "President Trump on Monday is meeting with executives from the retail giants Lowe's, Home Depot, Target and Walmart, according to a White House official, as business leaders rush to determine the fallout from the president's tariffs.  The meeting comes as Trump and his team, including Treasury Secretary Scott Bessent, try to make deals with a variety of countries after the president levied at least 10% tariffs against them.",
+      "published_utc": "2025-04-22T02:23:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2952610fa423e8522fed39678c7b1e6416b510f1c6810ff6fe31530a8d997dfb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026316,
+      "datetime": 1745259799
+    },
+    {
+      "title": "Walmart, Target Executives to Meet Trump as Tariff Angst Spreads",
+      "description": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveNashville’s $3 Billion Transit Plan Brings a Call for Zoning ReformThe Racial Wealth Gap Is Not Just About MoneyPresident Donald Trump is set to meet with major retailers at the White House, as b",
+      "published_utc": "2025-04-22T01:50:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e06964adf4f4f7186816ccf89eb61d6d4a74e15c23f79a53acb07b935b29f37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026317,
+      "datetime": 1745257844
+    },
+    {
+      "title": "Trump to meet major retailers to discuss tariffs, White House official says",
+      "description": "WASHINGTON (Reuters) -U.S. President Donald Trump is set to meet with representatives from major retailers on Monday afternoon to discuss the effects of broad-based tariffs on their businesses, a White House official said.  The official, speaking on the condition of anonymity, confirmed a Bloomberg report that said the meeting at the White House will include representatives from Walmart, Home Depot, Lowe's and Target.",
+      "published_utc": "2025-04-22T00:44:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e341d496bc9c4ece377b65d46bcebc7fbe2c6bbd6efee47f1f559fed0e37ca9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026318,
+      "datetime": 1745253864
+    }
+  ]
+}

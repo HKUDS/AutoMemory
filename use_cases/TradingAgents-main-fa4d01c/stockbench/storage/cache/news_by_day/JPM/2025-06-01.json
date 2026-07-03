@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase: Private Banking Can Unlock More Upside",
+      "description": "JPMorgan Chases' wealth management division is a key growth driver. Click here to read what justifies maintaining a Buy rating for JPM stock.",
+      "published_utc": "2025-06-01T07:45:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b094be59578873ceaa8bcb3789a0e6ae407f0368b9cfb0a780984e1b52d6d9b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157735574/image_157735574.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134921153,
+      "datetime": 1748735132
+    }
+  ]
+}

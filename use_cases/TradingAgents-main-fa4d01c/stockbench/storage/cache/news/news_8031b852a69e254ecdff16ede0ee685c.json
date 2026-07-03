@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IBM Files For Offering Of $1 Billion 4.650% Notes Due 2028",
+      "description": "International Business Machines Corp: * IBM FILES FOR OFFERING OF $1 BILLION 4.650% NOTES DUE2028, $1BILLION 4.800% NOTES DUE 2030 -SEC FILING * IBM FILES FOR OFFERING...",
+      "published_utc": "2025-02-06T02:13:41",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=67d183fda3b3b821bbbac06b6a3e5a04fc24fb039a50ec781df6c1f146a9d8b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568902,
+      "datetime": 1738779221
+    },
+    {
+      "title": "Mike Maples Sr., the Adult in the Room During Microsoft’s Early Days, Dies at 82",
+      "description": "Mike Maples Sr., the Adult in the Room During Microsoft’s Early Days, Dies at 82",
+      "published_utc": "2025-02-05T18:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=0a7369e4c801034615b6abfbd2ff348bff7a7a3d67fbd35937d326de5a6e0dc3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564002,
+      "datetime": 1738749600
+    },
+    {
+      "title": "IBM Study: Gen AI Will Elevate Financial Performance of Banks in 2025",
+      "description": "Initiatives are maturing from pilots and proofs of concept to targeted, enterprise-wide strategiesARMONK, N.Y., Feb. 5, 2025 /PRNewswire/ -- IBM today released its annual expectations for technology...",
+      "published_utc": "2025-02-05T13:01:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6d1011a474fa9077f8f389f45817e962ec7e047f43bb439191f7bea92d132022",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132560098,
+      "datetime": 1738731670
+    },
+    {
+      "title": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "description": "International Business Machines Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-05T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=03ab37c5b662221b8dca52ac8f8cd95048c67ab035e6a64eb8d71ee9134fa762",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132565285,
+      "datetime": 1738686720
+    },
+    {
+      "title": "Horizon Kinetics Q4 2024 Commentary",
+      "description": "Horizon Kinetics have published their Q4 2024 Commentary. Howâd we do? Howâd the market do? What to expect now? Click here to find out.",
+      "published_utc": "2025-02-04T16:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f104b965c4049a5a7b898f7d995ab54ca768b70c9bd4ae348573d8105150da6",
+      "category": "company",
+      "image": "https://media.gettyimages.com/id/2192191539/photo/stock-market-and-exchange-concept-with-charts-graphs-and-data.jpg?b=1&s=612x612&w=0&k=20&c=XJ2XLAAgVC6Vb-23JDqPa-CrgXBYKcUAa6tTHMHfO1A=",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132542974,
+      "datetime": 1738657200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:22.468682+00:00",
+    "cache_key": "news_8031b852a69e254ecdff16ede0ee685c",
+    "count": 5
+  }
+}

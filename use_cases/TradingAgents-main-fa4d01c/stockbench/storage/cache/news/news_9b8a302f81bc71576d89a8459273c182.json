@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Stock-Market Rally Is Moving Beyond Big Tech and Investors Are Thrilled",
+      "description": "The Stock-Market Rally Is Moving Beyond Big Tech and Investors Are Thrilled",
+      "published_utc": "2025-06-29T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=eed6baabbebd879e885d8e4727866385fa323b8906dc18b477d8279583e9b3db",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135654574,
+      "datetime": 1751144400
+    },
+    {
+      "title": "Veteran fund manager who predicted Nvidia stock rally makes surprising move",
+      "description": "Here’s what could be next for Nvidia stock.",
+      "published_utc": "2025-06-29T02:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a9f5e9822e11b8c79d0f3e6715b76685fc0579e969b83c313a871764bcf8f3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623704,
+      "datetime": 1751135580
+    },
+    {
+      "title": "Would Investing $10K in the Magnificent 7 Stocks in 2023 Have Made You Rich?",
+      "description": "In a nutshell, if you had the foresight to invest in the Magnificent 7 stocks at the beginning of 2023, you would have done well. How well? Read on to find out.",
+      "published_utc": "2025-06-29T02:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d5e0471da985e208fcae75155835587e19b03f5b67c6df5116264d3d20188d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610604,
+      "datetime": 1751133660
+    },
+    {
+      "title": "Microsoft, Antigen Security Partner to Cut Cyber Insurance Costs",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the best software infrastructure stocks to invest in. On June 26, Antigen Security, LLC, announced a new partner program with Microsoft, establishing Antigen as one of Microsoft’s Top 150 Managed Partners. The collaboration allows customers utilizing Microsoft 365 E3/E5 Security and Microsoft Azure Security to achieve an average of […]",
+      "published_utc": "2025-06-29T01:29:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92aa34b0b2602468e225cae23a07614c314b37e5b9c03ff112894de73ef64190",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135635161,
+      "datetime": 1751131766
+    },
+    {
+      "title": "Meta hires four more OpenAI researchers, The Information reports",
+      "description": "Meta Platforms is hiringfour more OpenAI artificial intelligence researchers, TheInformation reported on Saturday. The researchers, Shengjia Zhao, Jiahui Yu, Shuchao Bi andHongyu Ren...",
+      "published_utc": "2025-06-28T21:55:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8e523236759b3cc205ef94e2edbf695fdb24e244aba57cd24efeebe1ba6cd67b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610511,
+      "datetime": 1751118918
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:04.513006+00:00",
+    "cache_key": "news_9b8a302f81bc71576d89a8459273c182",
+    "count": 5
+  }
+}

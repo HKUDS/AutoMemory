@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "J&J sues Samsung Bioepis over ‘surreptitious’ breach of Stelara biosimilar contract",
+      "description": "Samsung Bioepis has allegedly sub-licensed its Stelara biosimilar rights to a health conglomerate, breaching a previous settlement.",
+      "published_utc": "2025-02-26T07:42:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10ed8923d37fce488cb0faa329b20d8bd88acbe9afc466657528b6b67babc328",
+      "category": "company",
+      "image": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2025/02/shutterstock_2055997766.jpg",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902102,
+      "datetime": 1740526952
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Ascends While Market Falls: Some Facts to Note",
+      "description": "In the closing of the recent trading day, Johnson & Johnson (JNJ) stood at $166.09, denoting a +1.44% change from the preceding trading day.",
+      "published_utc": "2025-02-26T06:45:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f83e663933ff7d03d3933d2e3b6908e95d4fa21178297b823b4eb2226557eb3",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/17a4db66bb13bdabcbf848550a6ea15a",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902103,
+      "datetime": 1740523531
+    },
+    {
+      "title": "Healthcare Stocks Should Be Hurting. How the Sector Became This Year’s Top Performer.",
+      "description": "Healthcare Stocks Should Be Hurting. How the Sector Became This Year’s Top Performer.",
+      "published_utc": "2025-02-26T00:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8833f98acfa862636e1dce43c993c99937aee464d76cc2b2afdacba07a93c573",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881966,
+      "datetime": 1740500160
+    }
+  ]
+}

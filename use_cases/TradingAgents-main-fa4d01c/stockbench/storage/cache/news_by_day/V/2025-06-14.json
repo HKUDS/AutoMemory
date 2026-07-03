@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Morning Movers: Meta Platforms dips following big investment in Scale AI",
+      "description": "Stock market futures are pointing to a lower open after Israel carried out airstrikes on Iran’s nuclear program sites in a major escalation of tensions in the Middle East. The dollar has rallied, as investors rush back into the currency in their search for safe-haven assets, including gold, on rising Middle East tensions. Oil prices jumped to near multi-month highs on worries about disrupted crude supplies. In pre-market trading, S&P 500 futures fell 0.91%, Nasdaq futures fell 1.2% and Dow futur",
+      "published_utc": "2025-06-14T21:00:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61fbf231a82e9d6eb29b684525cb31878335c632ddc519734e40e10d3e398ac6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271341,
+      "datetime": 1749906021
+    },
+    {
+      "title": "Keefe sees limited risk to Visa, MasterCard from WSJ report",
+      "description": "Keefe Bruyette sees limited near-term risk to Visa (V) and MasterCard (MA) after the Wall Street Journal reported the large retailers are exploring stablecoin payments and potentially bypass the card payment rails. Discussions are in the early stages, and any decisions would depend on passage of the Genius Act, which aims to establish a regulatory framework for stablecoins, the analyst tells investors in a research note. Visa is down 3% to $362.01 in premarket trading while MasterCard is down 2%",
+      "published_utc": "2025-06-14T20:45:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddf83337d1f9cacf9458bf0bfa17fce3f3e7984fca3f27dc968f0549eaf9ed10",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272274,
+      "datetime": 1749905124
+    },
+    {
+      "title": "JUST: ESG ETF Doing The Job, But Not The Best",
+      "description": "JUST offers ESG-focused exposure to Russell 1000 stocks with solid fundamentals but trails peers in impact, fees, and volume. Find out why JUST ETF is a hold.",
+      "published_utc": "2025-06-14T19:52:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4675da96ec78d4e7506d48cc041c9c739d55b5bb618f338e731cc767a0f41f38",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154241541/image_2154241541.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272014,
+      "datetime": 1749901948
+    },
+    {
+      "title": "Prediction: 3 Non-Tech Stocks That Can Blow Past Nvidia's Market Cap by 2035",
+      "description": "History suggests three time-tested, industry-leading, brand-name businesses are going to be worth more than artificial intelligence (AI) titan Nvidia 10 years from now.",
+      "published_utc": "2025-06-14T15:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d900267e7bce10b48317a833047c9de94667a25a8091ae9c80e308693c90ae16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135269998,
+      "datetime": 1749884760
+    },
+    {
+      "title": "Harbor Human Capital Factor US Large Cap ETF Q1 2025 Commentary",
+      "description": "During the first quarter, the Harbor Human Capital Factor US Large Cap ETF returned -4.13%, slightly underperforming its benchmark.",
+      "published_utc": "2025-06-14T13:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9bc3e7c6441a64481afd72aa8eca6680983a2c33dd68ff91f513d77c2bb8101",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203443147/image_2203443147.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135268235,
+      "datetime": 1749877800
+    }
+  ]
+}

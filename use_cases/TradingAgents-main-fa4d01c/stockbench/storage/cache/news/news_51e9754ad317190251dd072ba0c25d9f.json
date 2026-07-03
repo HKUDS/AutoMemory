@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Southwest Airlines Adds Cockpit Alerts to Boost Runway Safety",
+      "description": "Southwest Airlines Adds Cockpit Alerts to Boost Runway Safety",
+      "published_utc": "2025-06-16T06:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=b3b96066d4d62b9784430f6161f096c89dadb25a4300d31f4584d3ca0ae6c4e3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135304770,
+      "datetime": 1750024800
+    },
+    {
+      "title": "Jim Cramer on Honeywell: “I Do Like the Stock Very Much”",
+      "description": "Honeywell International Inc. (NASDAQ:HON) is one of the 18 stocks Jim Cramer recently shared insights on. A caller asked if Cramer thinks they should pick up shares of the company before the split. In response, Cramer said: “The split’s not going to happen for a long time, sir, and the stock just had a run, […]",
+      "published_utc": "2025-06-15T17:27:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9135b7e5707aac1125a5df44d13a890fbb3c3bb189fb21849d8462d84427f9d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285065,
+      "datetime": 1749979662
+    },
+    {
+      "title": "Transcript : Honeywell International Inc. Presents at SIAE Paris Air Show 2025, Jun-15-2025 02",
+      "description": "Presenter SpeechSean Meakim All right. Good afternoon, everyone. Welcome to the Honeywell Paris Air Show Investor Reception 2025. Great to have you all here as well as those live on the webcast.",
+      "published_utc": "2025-06-15T17:20:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e38f28b7f2f2c97f3a45eb93bad80fe29debaa298418d936029b7be4bf2f9374",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285073,
+      "datetime": 1749979218
+    },
+    {
+      "title": "Honeywell International : Aerospace - Paris Air Show Presentation vF",
+      "description": "HONEYWELL AEROSPACE PARIS AIR SHOW INVESTOR RECEPTION JUNE 15, 2025 ...",
+      "published_utc": "2025-06-15T14:21:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=76b37ba6922d1c51ed1b6f0baf0d65db8c9af3f1e7796e3dbeb9649c646795ac",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284457,
+      "datetime": 1749968465
+    },
+    {
+      "title": "Honeywell International : 2025 Paris Air Show Investor Reception Presentation",
+      "description": "HONEYWELL AEROSPACE PARIS AIR SHOW INVESTOR RECEPTION JUNE 15, 2025 ...",
+      "published_utc": "2025-06-15T14:21:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6d0fff191cad97f5bcbe1c0a9cf56ad714fa5f1b1fbb961ac993352284fccc5f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284456,
+      "datetime": 1749968465
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:27.715328+00:00",
+    "cache_key": "news_51e9754ad317190251dd072ba0c25d9f",
+    "count": 5
+  }
+}

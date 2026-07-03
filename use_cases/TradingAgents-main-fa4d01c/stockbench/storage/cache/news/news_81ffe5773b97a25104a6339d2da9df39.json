@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is JPMorgan Chase & Co. (JPM) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength […]",
+      "published_utc": "2025-05-08T02:27:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e59d109acf1384fcdc15157eff215ae1be8011862e90f1361114acbb37762b0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316658,
+      "datetime": 1746642458
+    },
+    {
+      "title": "Hartford Core Equity Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-08T01:23:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=628123fd0ae5f166c3eccd6e90f406a5962ccb18fc51660b756316ae1e3278ac",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134309743,
+      "datetime": 1746638580
+    },
+    {
+      "title": "Hartford Balanced Income Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-08T00:56:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=96a7906ceb9b4dcad22b47b4b1a9bb2f2d2c80e6ad8a47f60cf572ffd8191537",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134308335,
+      "datetime": 1746636960
+    },
+    {
+      "title": "JPMorgan's Michele: Large Firms Don't See 'Sell America Trade'",
+      "description": "JPMorgan Global Head of Fixed Income Bob Michele says large-scale institutions don't see the sell America trade during an interview ahead of the Fed rate decision....",
+      "published_utc": "2025-05-07T23:32:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bf07d57234b8d4ee7590652702a5225ab60164dfc8e6995943edf2d499cce510",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134301704,
+      "datetime": 1746631934
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights The Goldman Sachs, JPMorgan and Morgan Stanley",
+      "description": "The Goldman Sachs, JPMorgan and Morgan Stanley are part of the Zacks top Analyst Blog.",
+      "published_utc": "2025-05-07T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11e1812263d53412b178118c0aa55db436e3b2dfcc5f1b610370e7c4e82d1e11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316660,
+      "datetime": 1746623100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:06.204333+00:00",
+    "cache_key": "news_81ffe5773b97a25104a6339d2da9df39",
+    "count": 5
+  }
+}

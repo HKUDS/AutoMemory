@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Microsoft announces quarterly dividend",
+      "description": "REDMOND, Wash., March 11, 2025 /PRNewswire/ -- Microsoft Corp. on Tuesday announced that its board of directors declared a quarterly dividend of $0.83 per share. The dividend is payable June 12, 2025,...",
+      "published_utc": "2025-03-12T00:06:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5bcd844177a4a1547afc52e34272f0d672561064e3c0b4e1875abcb34b46bbb9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133139149,
+      "datetime": 1741709167
+    }
+  ]
+}

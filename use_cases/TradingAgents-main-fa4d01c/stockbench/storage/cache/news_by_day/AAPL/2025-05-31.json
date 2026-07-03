@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Chipotle",
+      "description": "Chipotle has had more consistent annual growth rates than Apple.  Meanwhile, Apple is currently right in the crosshairs of more tariffs.  The clearer path for future growth at Chipotle makes it more appealing.",
+      "published_utc": "2025-05-31T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4501b08fa57a0992a1ab58af2d22016d5d8c28c1075ae18d663a2f42c568c08d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918751,
+      "datetime": 1748700000
+    },
+    {
+      "title": "Where the Stock Market Stands Now After a Wild Start to the Year",
+      "description": "(Bloomberg) -- The stock market’s crazy first five months of 2025 have left Wall Street pros in a bit of a pickle. Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaNYC Congestion Toll Brings In $216 Million in First Four MonthsThe Economic Benefits of Paying Workers to MoveWhere the Wild Children’s Museums AreComing off the best month for the S&P 500 Index in a year and a half and the b",
+      "published_utc": "2025-05-31T20:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=627480b3dc41e957bc55d7f2abf0d70d50f0344b5d440b54d36dc453a4484076",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918506,
+      "datetime": 1748692807
+    },
+    {
+      "title": "47% of Berkshire Hathaway's $276 Billion Warren Buffett-Led Portfolio Is Invested in 3 Dividend Stocks",
+      "description": "Apple has developed an ecosystem of tech devices that its customers love and are willing to trade up to have.  American Express has numerous earnings streams, and a younger cohort of cardholders is driving growth.  Coca-Cola's business has proven resilient under pressure, and it reliably boosts its dividends.",
+      "published_utc": "2025-05-31T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4de5351dcac4420cc10d76e35d0975c0480d983513d922632b0a43644c7f310",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918267,
+      "datetime": 1748691000
+    },
+    {
+      "title": "These Are Stocks You Should Watch in June",
+      "description": "Stocks soared in May, boosted by easing trade tensions, solid corporate earnings and signs of economic resilience. Trade and tax policy are likely to remain Wall Street's focus in June.",
+      "published_utc": "2025-05-31T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6169a1e7ec907c72deaa014071f49bd0c2c243b18165b12c9bb50dd0e088a0b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917808,
+      "datetime": 1748689200
+    },
+    {
+      "title": "Shimmers, floating toolbars, and radical transparency: Here’s what iOS 26 could look like",
+      "description": "Apple needs something eye-catching right now. A new user interface, likely called ‘solarium,’ is about to turn heads.",
+      "published_utc": "2025-05-31T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a29b5ab8f1ff1d6538afe02271da97a011e4aba7819b21b54b7b621d0917acbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930573,
+      "datetime": 1748682000
+    }
+  ]
+}

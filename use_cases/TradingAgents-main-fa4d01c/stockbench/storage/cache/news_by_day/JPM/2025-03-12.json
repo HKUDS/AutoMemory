@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. stock outperforms market despite losses on the day",
+      "description": "JPMorgan Chase & Co. stock outperforms market despite losses on the day",
+      "published_utc": "2025-03-12T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=df6fe7143ae6a7ed2497d00777a6fd8eab2f28e6b2df5dc6bcb4aad0d73e3f07",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133150041,
+      "datetime": 1741710660
+    }
+  ]
+}

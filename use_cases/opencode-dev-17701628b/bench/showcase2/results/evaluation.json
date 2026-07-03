@@ -1,0 +1,47 @@
+{
+  "showcase": "showcase2",
+  "resolveRate": {
+    "memoryOn": {
+      "resolved": 1,
+      "total": 3,
+      "rate": 0.3333333333333333
+    },
+    "memoryOff": {
+      "resolved": 1,
+      "total": 3,
+      "rate": 0.3333333333333333
+    }
+  },
+  "forwardTransferByTask": [
+    {
+      "session": 1,
+      "instanceID": "django__django-13964",
+      "resolvedMemoryOn": false,
+      "resolvedMemoryOff": false,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 2,
+      "instanceID": "django__django-13964",
+      "resolvedMemoryOn": false,
+      "resolvedMemoryOff": false,
+      "forwardTransfer": 0
+    },
+    {
+      "session": 3,
+      "instanceID": "django__django-13933",
+      "resolvedMemoryOn": true,
+      "resolvedMemoryOff": true,
+      "forwardTransfer": 0
+    }
+  ],
+  "forwardTransferMean": 0,
+  "tokenTotals": {
+    "memoryOn": 623231,
+    "memoryOff": 5929795
+  },
+  "toolCallsTotals": {
+    "memoryOn": 38,
+    "memoryOff": 158
+  }
+}

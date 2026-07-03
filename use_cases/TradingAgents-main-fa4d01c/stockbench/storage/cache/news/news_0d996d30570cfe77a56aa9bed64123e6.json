@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce (CRM) $430 PT, Market Outperform Reaffirmed by JMP",
+      "description": "Salesforce, Inc. (NYSE:CRM) is a Must-Watch AI Stock on Wall Street. On July 11, JMP Securities analyst Patrick Walravens reiterated a “Market Outperform” rating for the stock with a steady price target at $430.00. The rating affirmation comes after the firm reviewed details of Salesforce’s merger with Informatica. The firm based its decision on the information […]",
+      "published_utc": "2025-07-15T06:39:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec309d7a72f7c75157d29751fd12631879f34068a373d8793a2c5011a86e4d2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931556,
+      "datetime": 1752532775
+    },
+    {
+      "title": "Software stocks: Morgan Staley sees improving outlook for front office",
+      "description": "Investing.com -- Morgan Stanley analysts told investors in a note Monday that spending on front office software is poised to accelerate in 2025, supported by waning cyclical headwinds and growing enterprise interest in generative AI.",
+      "published_utc": "2025-07-14T22:31:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6225ff9a575e12af9045d14c5446c5de8173c42e9066f8ad84330c0a9589f083",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927600,
+      "datetime": 1752503517
+    },
+    {
+      "title": "Salesforce Seen Gaining Strategic Edge With Informatica Acquisition, RBC Says",
+      "description": "Salesforce's (CRM) $25-per-share offer for Informatica (INFA) was selected over rival bids due to it",
+      "published_utc": "2025-07-14T21:43:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e7b7df04258ed7809362d4aeafec2a69b810388012587cc03c89740069203e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927602,
+      "datetime": 1752500622
+    },
+    {
+      "title": "Coveo Will Join the Expansion of AgentExchange with MCP Servers, Accelerating AI Adoption for Enterprises",
+      "description": "Coveo (TSX: CVO), the leader in AI-Relevance, delivering best-in-class AI-search and generative experiences that maximize business outcomes at every point-of-experience, today announced the expansion of its partnership with Salesforce and its collaboration with Salesforce for MCP Server on AgentExchange, further enhancing the ability of AI agents to access relevant, accurate, and secure enterprise data through a standardized protocol. Model Context Protocol (MCP) activates AI agents with a wide",
+      "published_utc": "2025-07-14T20:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49a7a2b5e709cde493260fb4cecfe60fab688ff34fc6be40e0f4cf41ae961f5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927603,
+      "datetime": 1752494700
+    },
+    {
+      "title": "Wall Street Lunch: Copper Import Duties Could Disrupt U.S. Auto Market",
+      "description": "Wells Fargo dove into the implications for the auto sector of the Trump Administration imposing a 50% tariff on copper imports from select countries.",
+      "published_utc": "2025-07-14T19:57:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=99fa4fc3e375b96e6af3b143ca460128cd17e1e5e7140007e1719fad40dad073",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1383558438/image_1383558438.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135928836,
+      "datetime": 1752494220
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:44.564456+00:00",
+    "cache_key": "news_0d996d30570cfe77a56aa9bed64123e6",
+    "count": 5
+  }
+}

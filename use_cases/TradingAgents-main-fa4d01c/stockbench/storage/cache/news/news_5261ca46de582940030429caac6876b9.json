@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Is UnitedHealth Group Incorporated (UNH) the Best Strong Buy Stock to Buy Right Now?",
+      "description": "We recently published a list of the 10 Best Strong Buy Stocks To Buy Right Now. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against the other best strong buy stocks to buy right now. Fears of a slowing economy have hit stocks recently, along with […]",
+      "published_utc": "2025-03-18T07:34:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea5431f4d392e7a6bb2eb0e75ab6b88cf8694c4d7d3d676a2d543a85ae4a967c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324492,
+      "datetime": 1742254473
+    },
+    {
+      "title": "Walmart, Goldman Sachs share gains contribute to Dow's 361-point jump",
+      "description": "Walmart, Goldman Sachs share gains contribute to Dow's 361-point jump",
+      "published_utc": "2025-03-17T21:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cd75541fdfafab1ec1bdbd5f950226850330f1411c6d6f4ec85db6dcc90b772d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213463,
+      "datetime": 1742218560
+    },
+    {
+      "title": "Walmart, IBM share gains contribute to Dow's 250-point jump",
+      "description": "Walmart, IBM share gains contribute to Dow's 250-point jump",
+      "published_utc": "2025-03-17T20:07:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5d191a655125941b740c0e46b9badefc81436bf6e0dea6fd75fd5180b7239ae2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213464,
+      "datetime": 1742213220
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q4 2024 Update",
+      "description": "Viking Global's 13F stock portfolio increased from $27.44B to $30.90B, with holdings rising from 83 to 86. Read more to see the portfolio's Q4 2024 review.",
+      "published_utc": "2025-03-17T15:41:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4231b308425ecd6a3e209526e09eef1176bde00a59c04dad85e1b4110c15fc5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200502280/image_200502280.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133206548,
+      "datetime": 1742197295
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:49.476336+00:00",
+    "cache_key": "news_5261ca46de582940030429caac6876b9",
+    "count": 4
+  }
+}

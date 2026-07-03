@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "Nvidia, Dell, Salesforce To Report Earnings Next Week",
+      "description": "",
+      "published_utc": "2025-05-24T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4002980bc11356191bd5e97a81f72e32d6df6fdec5c60bd72c34593ca2fc04af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134688478,
+      "datetime": 1748084400
+    },
+    {
+      "title": "The Weekend: A blow to the US economy takes the shine off a UK-EU trade deal",
+      "description": "Key moments from the last seven days, plus a glimpse at the week ahead",
+      "published_utc": "2025-05-24T18:08:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f3e709aa9c2f16359178186c410f21591f53bbe02f788e2114b18735dbb78f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694337,
+      "datetime": 1748081335
+    },
+    {
+      "id": "b513eed29483ba16249a8674cb63e03b87e8d806fa905333e2cb0a8acc57e672",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Can a $10,000 Investment in SoundHound AI Turn Into $1 Million by 2035?",
+      "author": "Keithen Drury",
+      "published_utc": "2025-05-24T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/24/can-a-10000-investment-in-soundhound-ai-turn-into/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "NFLX",
+        "ORCL",
+        "PLTR",
+        "CRM",
+        "SHOP",
+        "SPOT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818982/image-of-stock-chart-going-up.jpg",
+      "description": "The article discusses whether SoundHound AI, an AI-focused company, has the potential to turn a $10,000 investment into $1 million over the next decade. It analyzes the company's growth, valuation, and the challenges it would need to overcome to achieve this ambitious goal.",
+      "keywords": [
+        "SoundHound AI",
+        "artificial intelligence",
+        "stock growth",
+        "investment potential"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that SoundHound AI has the potential for significant growth, as it is at the center of the artificial intelligence trend. The company is experiencing rapid revenue growth and could become a household name in the software industry if it can maintain its high growth rate over the next decade."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that SoundHound AI has the potential for significant growth, as it is at the center of the artificial intelligence trend. The company is experiencing rapid revenue growth and could become a household name in the software industry if it can maintain its high growth rate over the next decade."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Netflix is used as a comparison to illustrate the size of company that SoundHound AI would need to become to achieve the 100-times growth target. The article does not make any specific comments about Netflix's outlook."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Oracle is also used as a comparison to illustrate the size of company that SoundHound AI would need to become to achieve the 100-times growth target. The article does not make any specific comments about Oracle's outlook."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Palantir Technologies is mentioned as a software company that is near the $400 billion valuation level that SoundHound AI would need to reach to achieve the 100-times growth target. The article does not make any specific comments about Palantir's outlook."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Salesforce is mentioned as a software company that is near the $400 billion valuation level that SoundHound AI would need to reach to achieve the 100-times growth target. The article does not make any specific comments about Salesforce's outlook."
+        },
+        {
+          "ticker": "SHOP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Shopify is used as a comparison to illustrate the size of company that SoundHound AI could potentially become, as it is near the $150 billion valuation level that the article suggests would be more realistic for SoundHound AI to achieve. The article does not make any specific comments about Shopify's outlook."
+        },
+        {
+          "ticker": "SPOT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Spotify is used as a comparison to illustrate the size of company that SoundHound AI could potentially become, as it is near the $150 billion valuation level that the article suggests would be more realistic for SoundHound AI to achieve. The article does not make any specific comments about Spotify's outlook."
+        }
+      ]
+    }
+  ]
+}

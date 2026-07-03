@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Visa (V) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "In the latest trading session, Visa (V) closed at $344.95, marking a +0.31% move from the previous day.",
+      "published_utc": "2025-03-26T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=719348dc8a2b8393b73780e2184c4a7ac6b4999832a60aadf52ccd045c567026",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444841,
+      "datetime": 1742939116
+    }
+  ]
+}

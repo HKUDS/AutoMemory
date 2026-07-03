@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Consumer Group Calls for McDonald’s Boycott. What It Means for the Stock.",
+      "description": "Consumer Group Calls for McDonald’s Boycott. What It Means for the Stock.",
+      "published_utc": "2025-06-24T00:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=758f32bf64175fd3f7f429a5165a8d6a3e71aa935c58dbf4694ab65c810f7a77",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135499855,
+      "datetime": 1750694580
+    }
+  ]
+}

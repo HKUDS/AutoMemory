@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Outlook of the AI Sector, Including Microsoft (MSFT), Is Positive, Analyst Says",
+      "description": "AI-oriented companies appear to be performing “overwhelmingly” well, Gabelli Portfolio Manager John Felton recently told Schwab Network. Among the companies well-positioned to benefit from the latter trend are Microsoft (MSFT) and Oracle (ORCL), he suggested. A “Disconnect” Between the Performance and Stock Prices of AI Names Although AI-oriented stocks in general and the sector’s “high […]",
+      "published_utc": "2025-04-08T01:55:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=977eb4158826379f225fc0e868085cfa7d0976b2cc109a97354fa8fd983f4b2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741026,
+      "datetime": 1744048540
+    },
+    {
+      "title": "Apple Takes the Biggest Hit of the \"Magnificent Seven\" in Response to Trump Tariffs",
+      "description": "Tariffs will be the focus, but Apple's issues predate the shocking tariff announcement on April 2.",
+      "published_utc": "2025-04-08T00:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ab3eaacb3d3e7b8e58e031ce185d941e89c0978b4de0c8e52ba5a17414c8f03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741013,
+      "datetime": 1744044300
+    }
+  ]
+}

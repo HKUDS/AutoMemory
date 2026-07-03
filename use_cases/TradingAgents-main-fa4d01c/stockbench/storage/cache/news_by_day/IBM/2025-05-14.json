@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Finanz Informatik and IBM extend and expand collaboration",
+      "description": "Finanz Informatik (FI) – the central IT service provider and digitalization partner of the Sparkassen-Finanzgruppe – and IBM (NYSE: IBM) have extended their successful collaboration with the signing of a new contract.",
+      "published_utc": "2025-05-14T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e2cfb429d0ee2ddb8df9e42d9174ace7601613851a2d5df3a0e8e96d2b4569d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460873,
+      "datetime": 1747232100
+    },
+    {
+      "title": "How Our High-Yield Portfolio Beats The S&P 500",
+      "description": "It is possible to build a high-yield equity portfolio that outperforms the S&P 500 with dividend-focused strategies. Read more about how to create such a high-yield portfolio.",
+      "published_utc": "2025-05-14T16:04:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bd500286602ea8738ab30e113e7701f6f3468f1ce19b2f09b24c3e8dd4463d6b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1377760359/image_1377760359.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134435285,
+      "datetime": 1747209856
+    },
+    {
+      "title": "You can see AI everywhere — except in Big Tech’s profits",
+      "description": "You can see AI everywhere — except in Big Tech’s profits",
+      "published_utc": "2025-05-14T15:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=35b4863ee15ff30d207af029b91899babce08ae17b396d856c5cd346e57dab03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134437014,
+      "datetime": 1747209000
+    }
+  ]
+}

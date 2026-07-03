@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Analyst Reports for Philip Morris, McDonald's & Texas Instruments",
+      "description": "Walmart's investments in supply chain, store remodels, and automation are fueling growth across its U.S. and international segments.",
+      "published_utc": "2025-07-22T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=288d165222480642d180ab3dc42bf49311d964d5700033e5b189ca688bf1078e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031328,
+      "datetime": 1753129800
+    },
+    {
+      "title": "McDonalds, General Mills, and Other Low-Volatility Stocks Are Being Overlooked. It’s an Opportunity.",
+      "description": "The market is once again favoring so-called high-beta stocks, those with bigger-than-average price swings. Investors might do better by focusing elsewhere.",
+      "published_utc": "2025-07-22T04:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5958be891453ef9cd651c67feaa7ae3b4fbf52885fb4feff4616249756224701",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031418,
+      "datetime": 1753128420
+    },
+    {
+      "title": "US retail giant Costco to set up global capability centre in India, to employ 1000 people, sources say",
+      "description": "HYDERABAD/BENGALURU (Reuters) -U.S. retailer Costco Wholesale Corp will open its first technology centre in India in Hyderabad, two people familiar with the plans told Reuters.  The Global Capability Centre, handling technology and research operations and working alongside global teams, will initially employ 1,000 people and scale up, sources said.  India is already home to some of the global marquee brands--having their GCC operations in India.",
+      "published_utc": "2025-07-22T02:04:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c40f94a12cc5f1a8f893086905aaff56cde435a78fa47344c1a201db458ede8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031251,
+      "datetime": 1753121057
+    },
+    {
+      "title": "In-car payments are set to soar. What banks need to know",
+      "description": "Car manufacturers and apps have made it easier for customers to pay for fuel, parking and other services seamlessly from their cars or smart devices.",
+      "published_utc": "2025-07-21T23:01:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b82f8f5c5b2ee568c32f56a6e40c4cb971196d4cdc166b63428b27bd24afb611",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031420,
+      "datetime": 1753110094
+    },
+    {
+      "title": "Domino's Q2 Earnings Miss, Revenues Beat Estimates, Stock Up",
+      "description": "DPZ stock jumps after second-quarter revenues beat despite an earnings miss, boosted by store growth and aggregator expansion.",
+      "published_utc": "2025-07-21T22:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3485e854a852fdfb669e60679cfdbe2f3b0adfdd5d13aefd32c005085ddc33f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031421,
+      "datetime": 1753108140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:18.981903+00:00",
+    "cache_key": "news_ff6efecb1e6adfb3840b6da210eea696",
+    "count": 5
+  }
+}

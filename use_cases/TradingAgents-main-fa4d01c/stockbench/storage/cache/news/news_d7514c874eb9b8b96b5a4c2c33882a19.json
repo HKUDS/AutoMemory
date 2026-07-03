@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Nvidia, Caterpillar and other winners and losers from DeepSeek’s emergence, according to JPMorgan",
+      "description": "Nvidia, Caterpillar and other winners and losers from DeepSeek’s emergence, according to JPMorgan",
+      "published_utc": "2025-02-05T14:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ddc3de20d0615bfac542f54fa0aa5d6edb4ebb40a1037efa8eca33aa30418d12",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564069,
+      "datetime": 1738735200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:52:06.152861+00:00",
+    "cache_key": "news_d7514c874eb9b8b96b5a4c2c33882a19",
+    "count": 1
+  }
+}

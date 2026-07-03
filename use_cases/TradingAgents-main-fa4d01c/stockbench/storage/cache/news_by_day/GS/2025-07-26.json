@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Goldman Sachs: “I’m a Believer”",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the stocks that Jim Cramer looked at. A caller asked if the company’s private credit unit will continue doing highly leveraged deals like the one in the Walgreens-Shields transaction. Cramer replied: “I don’t know. You know Sweeney, Rob Sweeney, my friend Rob Sweeney, or my wife […]",
+      "published_utc": "2025-07-26T11:31:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa41affc5c6b342ccdb840d128ac9a5ee3d70828e26936a68eb9677f871d3bcb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101778,
+      "datetime": 1753500680
+    },
+    {
+      "id": "6b5f1135f6edb823c863ffe9bd62de1e1911944562f0524c44525ac75760f330",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Really Buy Stocks as the S&P 500 Roars by Record Highs? History Gives a Shocking Answer.",
+      "author": "Trevor Jennewine",
+      "published_utc": "2025-07-26T08:01:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/26/buy-stocks-sp-500-record-high-history-gives-answer/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/826724/market-15.jpeg",
+      "description": "Historical data suggests investing in the S&P 500 during record highs can yield better returns than random day investments, contrary to investor fears. While current market conditions show a premium valuation, cautious investment in high-conviction ideas is recommended.",
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "record highs",
+        "investing strategy",
+        "market performance"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a data source for market analysis, no specific positive or negative commentary"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Provided analytical insight about market performance at record highs, without direct investment recommendation"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Provided analytical insight about market performance at record highs, without direct investment recommendation"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Provided analytical insight about market performance at record highs, without direct investment recommendation"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Provided analytical insight about market performance at record highs, without direct investment recommendation"
+        }
+      ]
+    }
+  ]
+}

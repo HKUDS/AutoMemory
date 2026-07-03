@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "6 Top Quantum Computing Stocks to Buy in 2025",
+      "description": "In the fast-moving world of cutting-edge technologies, quantum computing is perhaps one of the most exciting developments in recent years.  Breakthroughs that could revolutionize machine learning, optimization problems, advanced simulations, and cryptography have opened the door for transformative commercial applications.  Industry estimates suggest quantum computing could represent an annual market valued at upward of $170 billion by 2040, driving multiple companies to pursue the opportunity.",
+      "published_utc": "2025-03-20T06:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1da9b7670b56af7360ccb90aaa828b5ed08469f09b4f4354d7d502dbb925870f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324772,
+      "datetime": 1742422860
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Teams With NVIDIA To Enhance Generative AI And Cloud Solutions",
+      "description": "International Business Machines (NYSE:IBM) recently announced a strategic collaboration with NVIDIA to enhance enterprise generative AI workloads through integrated solutions, which may have been a catalyst for the company's share price increasing by 12% in the last quarter. This initiative is part of IBM's broader focus on AI advancements, complemented by the upcoming launch of content-aware storage capabilities to strengthen hybrid cloud infrastructure. Furthermore, IBM's solid dividend...",
+      "published_utc": "2025-03-20T01:26:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3008ce8a7e976ca1a66ff876c90ef1d5858bdb7a0b66085b497d499e28dda0b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324773,
+      "datetime": 1742405178
+    },
+    {
+      "title": "Boeing, NVIDIA Corp. share gains lead Dow's 450-point rally",
+      "description": "Boeing, NVIDIA Corp. share gains lead Dow's 450-point rally",
+      "published_utc": "2025-03-19T23:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cefef8dc077d46f608ffc09738701323f57cc648f4d86614d1056857ca136ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264305,
+      "datetime": 1742396400
+    },
+    {
+      "title": "Boeing, NVIDIA Corp. share gains contribute to Dow's 100-point climb",
+      "description": "Boeing, NVIDIA Corp. share gains contribute to Dow's 100-point climb",
+      "published_utc": "2025-03-19T21:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b0d3e59936f61704c939df6406a329cc1c6f08b7eb7f7479806334dd82fc39eb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264307,
+      "datetime": 1742392740
+    },
+    {
+      "title": "IBM Extends NVIDIA Collaboration for AI Scalability: Stock to Gain?",
+      "description": "IBM and NVIDIA will help clients transform and govern end-to-end business processes with agentic AI applications and monetize AI for real business outcomes.",
+      "published_utc": "2025-03-19T20:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9068e6cfe3f3c155818335ca76626a369579022fa68a15c252a7e7c2adfb2147",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324774,
+      "datetime": 1742389140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:17.693899+00:00",
+    "cache_key": "news_e4eb8a30e3f6f2eda9e766d431486059",
+    "count": 5
+  }
+}

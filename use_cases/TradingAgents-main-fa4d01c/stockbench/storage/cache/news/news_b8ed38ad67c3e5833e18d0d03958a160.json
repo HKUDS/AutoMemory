@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Laps the Stock Market: Here's Why",
+      "description": "Procter & Gamble (PG) concluded the recent trading session at $169.76, signifying a +1.07% move from its prior day's close.",
+      "published_utc": "2025-03-18T06:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82a87a273e9033b56acf7f55b3426b77e5e7a91135254219bfc9e95c4aaa1e0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324546,
+      "datetime": 1742248817
+    },
+    {
+      "title": "Walmart, IBM share gains contribute to Dow's nearly 150-point climb",
+      "description": "Walmart, IBM share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-03-17T18:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1a53c0faeb21898afb09840619ed2f87d13880295bc25ed2f12f1a99fccbeb1f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133213599,
+      "datetime": 1742208900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:19:07.803561+00:00",
+    "cache_key": "news_b8ed38ad67c3e5833e18d0d03958a160",
+    "count": 2
+  }
+}

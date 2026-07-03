@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is Caterpillar Inc. (CAT) the Most Undervalued High Quality Stock to Buy According to Analysts?",
+      "description": "We recently published a list of 10 Most Undervalued High Quality Stocks to Buy According to Analysts. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other most undervalued high quality stocks to buy according to analysts. Is a Market Rally Around The Corner? In one of […]",
+      "published_utc": "2025-03-09T03:00:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b3f17179be2a00ac948d9c5de5497b3e0bf0705e20c1d1841ed1ba62b2cc888",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185147,
+      "datetime": 1741460448
+    },
+    {
+      "title": "Billionaire Bill Gates Owns $2.5 Billion of This Dow Jones Stock. Should You Buy It, Too?",
+      "description": "Caterpillar (NYSE: CAT) is a top-five holding of the Bill & Melinda Gates Foundation Trust, and it's also a stock up 83% over the last three years and 176% over the last five.  Does it make sense to follow the Bill & Melinda Gates Foundation Trust and buy the stock?  As always with Caterpillar, investors should be mindful that it's a cyclical company, so its sales tend to oscillate according to a trend.",
+      "published_utc": "2025-03-08T17:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87debeb1eee37a4a52a1c50255acfeebf2b9b1526c4fdb9d0b7237373e822289",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185148,
+      "datetime": 1741427460
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:51.291136+00:00",
+    "cache_key": "news_5fbe232e800eccfd5ddb3b27ab2788ae",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble: Overvalued, But The Long Term Play Always Delivers",
+      "description": "Discover why Procter & Gamble (NYSE:PG) is rated a HOLD.",
+      "published_utc": "2025-03-23T19:56:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=450a811866fa1f5df774f1639ba28ad5d99b1ccf053b9b7849967a88a1a957c2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2149854117/image_2149854117.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133330420,
+      "datetime": 1742730987
+    }
+  ]
+}

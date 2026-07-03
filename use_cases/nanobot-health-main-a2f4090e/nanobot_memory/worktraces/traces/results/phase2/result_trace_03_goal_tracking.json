@@ -1,0 +1,102 @@
+{
+  "trace_id": "trace_03_goal_tracking",
+  "description": "Tests health goals and goal progress updates. Critical: goal progress updates must update current value (not just append), follow-up dates must be stored. Also tests symptom-medication cross-reference storage. Ensures goal section in HEALTH.md is maintained with target vs. current values.",
+  "n_turns": 21,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "What are the user's health goals?",
+      "expected_information": [
+        "/195|weight.*195|195.*lbs/",
+        "/130.80|blood pressure.*130/",
+        "/4 days|exercise.*4/",
+        "/HbA1c|A1c.*6.5/"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Orthostatic hypotension (dizziness with position changes) \u2014 onset ~April 12, 2026, status: active, possibly Amlodipine-related; brief spinning sensation lasting seconds, 3-4 episodes/day when standing quickly\n- Type 2 diabetes \u2014 status: active, ongoing management\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026 (dose increase), for Type 2 diabetes management\n- Amlodipine \u2014"
+    },
+    {
+      "query": "What is the current weight and weight loss progress?",
+      "expected_information": [
+        "210",
+        "195",
+        "215"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Orthostatic hypotension (dizziness with position changes) \u2014 onset ~April 12, 2026, status: active, possibly Amlodipine-related; brief spinning sensation lasting seconds, 3-4 episodes/day when standing quickly\n- Type 2 diabetes \u2014 status: active, ongoing management\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026 (dose increase), for Type 2 diabetes management\n- Amlodipine \u2014"
+    },
+    {
+      "query": "What is the blood pressure goal and current readings?",
+      "expected_information": [
+        "/130.80|130\\/80/",
+        "/135.85|132.82|134.84/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Orthostatic hypotension (dizziness with position changes) \u2014 onset ~April 12, 2026, status: active, possibly Amlodipine-related; brief spinning sensation lasting seconds, 3-4 episodes/day when standing quickly\n- Type 2 diabetes \u2014 status: active, ongoing management\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026 (dose increase), for Type 2 diabetes management\n- Amlodipine \u2014"
+    },
+    {
+      "query": "dizziness",
+      "expected_information": [
+        "/dizziness|dizzy/",
+        "/Amlodipine|blood pressure/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Orthostatic hypotension (dizziness with position changes) \u2014 onset ~April 12, 2026, status: active, possibly Amlodipine-related; brief spinning sensation lasting seconds, 3-4 episodes/day when standing quickly\n- Type 2 diabetes \u2014 status: active, ongoing management\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026 (dose increase), for Type 2 diabetes management\n- Amlodipine \u2014"
+    },
+    {
+      "query": "What follow-up appointments are scheduled?",
+      "expected_information": [
+        "Dr. James Chen",
+        "May 20"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Orthostatic hypotension (dizziness with position changes) \u2014 onset ~April 12, 2026, status: active, possibly Amlodipine-related; brief spinning sensation lasting seconds, 3-4 episodes/day when standing quickly\n- Type 2 diabetes \u2014 status: active, ongoing management\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026 (dose increase), for Type 2 diabetes management\n- Amlodipine \u2014"
+    },
+    {
+      "query": "What is the exercise goal progress?",
+      "expected_information": [
+        "/4 days|4.*week/",
+        "/yoga|run|strength|hike/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Orthostatic hypotension (dizziness with position changes) \u2014 onset ~April 12, 2026, status: active, possibly Amlodipine-related; brief spinning sensation lasting seconds, 3-4 episodes/day when standing quickly\n- Type 2 diabetes \u2014 status: active, ongoing management\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026 (dose increase), for Type 2 diabetes management\n- Amlodipine \u2014"
+    }
+  ]
+}

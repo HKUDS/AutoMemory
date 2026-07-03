@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Likes International Business Machines Corporation (IBM) for Reliability",
+      "description": "We recently published a list of Jim Cramer’s Game Plan for Next Week: 25 Stocks in Focus. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, the host of Mad Money, walked viewers through what […]",
+      "published_utc": "2025-04-22T01:13:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec7df7228118a8c1c1a371cfd9c14afb80e2dcafdb79bc76a501d08059bd9330",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026361,
+      "datetime": 1745255612
+    },
+    {
+      "title": "IBM's Q1 Earnings on the Horizon: How to Play the Stock Now?",
+      "description": "IBM is trading at premium valuation metrics and investors could wait for a better entry point to cash in on its long-term fundamentals.",
+      "published_utc": "2025-04-21T22:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6422224a7dcb9a6834ffe09dd2e92d6d1e1d60c8007366bb04caccb8f5c149e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026363,
+      "datetime": 1745245380
+    },
+    {
+      "title": "Markets Are Depending on Trade Deals. Why Earnings Season Will Be an Afterthought.",
+      "description": "Markets Are Depending on Trade Deals. Why Earnings Season Will Be an Afterthought.",
+      "published_utc": "2025-04-21T14:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f05d1b29cd4c7747006d771b2f1929d3c8e52812a6690b090c6230eaa5943344",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134159277,
+      "datetime": 1745217960
+    },
+    {
+      "title": "IBM: It's Bad, Mostly",
+      "description": "",
+      "published_utc": "2025-04-21T13:55:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd825f5e5c5e42ae382ffd3f7cc29d0e0aa4416a414c8a2986517b7b9223aa04",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134020942,
+      "datetime": 1745214941
+    },
+    {
+      "id": "47af0e652a6f09e763801fa5a5858d0480a3a8077f2fba9f3b2c07515b2ffccd",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Data Observability Market Size to Surpass USD 6.23 Billion by 2032, Owing to the Increasing Need for Real-Time Data Monitoring Solutions | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-04-21T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/21/3064726/0/en/Data-Observability-Market-Size-to-Surpass-USD-6-23-Billion-by-2032-Owing-to-the-Increasing-Need-for-Real-Time-Data-Monitoring-Solutions-SNS-Insider.html",
+      "tickers": [
+        "DDOG",
+        "DT",
+        "IBM",
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Data Observability Market is rapidly growing, driven by the increasing need for real-time data monitoring solutions to ensure data integrity, availability, and performance. The market is expected to reach USD 6.23 billion by 2032, with the U.S. and Asia Pacific regions leading the growth.",
+      "keywords": [
+        "data observability",
+        "real-time data monitoring",
+        "data integrity",
+        "data performance"
+      ],
+      "insights": [
+        {
+          "ticker": "DDOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Datadog is mentioned as a major player in the data observability market, indicating its strong presence and offerings in this growing industry."
+        },
+        {
+          "ticker": "DT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dynatrace is mentioned as a major player in the data observability market, indicating its strong presence and offerings in this growing industry."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as a major player in the data observability market, indicating its strong presence and offerings in this growing industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as a major player in the data observability market, indicating its strong presence and offerings in this growing industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:37.081795+00:00",
+    "cache_key": "news_df65734dc49044710673979aae3e3e53",
+    "count": 5
+  }
+}

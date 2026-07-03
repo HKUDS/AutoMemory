@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tracking Al Gore's Generation Investment Management Portfolio - Q4 2024 Update",
+      "description": "Generation Investment Management reduces portfolio value to $19.17B, adds stakes in GOOG & TTAN, boosts Schwab, MercadoLibre, cuts Amazon & Trimble.",
+      "published_utc": "2025-02-25T04:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9d0910cb8e13bf180d90e5a66440dfd894ee00ed5fdd3b444839d1948a5540fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/534971566/image_534971566.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132866932,
+      "datetime": 1740429000
+    }
+  ]
+}

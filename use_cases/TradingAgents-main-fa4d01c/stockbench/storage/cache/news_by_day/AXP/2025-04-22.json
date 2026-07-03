@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's 1,010-point surge highlighted by gains for shares of 3M, Travelers",
+      "description": "Dow's 1,010-point surge highlighted by gains for shares of 3M, Travelers",
+      "published_utc": "2025-04-22T23:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d26489450b4b382da746040756290bc627721dd537514a4e1eaf70e501c94843",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052749,
+      "datetime": 1745336760
+    },
+    {
+      "title": "Is American Express Company (AXP) the Cheap Blue Chip Stock to Buy According to Hedge Funds?",
+      "description": "We recently published a list of 10 Cheap Blue Chip Stocks to Buy According to Hedge Funds. In this article, we are going to take a look at where American Express Company (NYSE:AXP) stands against other cheap blue chip stocks to buy according to hedge funds. The broad-based market anxiety increased as the US policy uncertainty […]",
+      "published_utc": "2025-04-22T22:54:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e55f765af19c553f371143281f2e735c576a56acf31e7b579421f4403750fc26",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038993,
+      "datetime": 1745333662
+    },
+    {
+      "title": "Dow's 911-point surge highlighted by gains in 3M, Travelers shares",
+      "description": "Dow's 911-point surge highlighted by gains in 3M, Travelers shares",
+      "published_utc": "2025-04-22T22:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=169d5cf5cc7fd8ce9f8763326906f561e692f02cf5b8b4856ffad77ed8c7c47f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052248,
+      "datetime": 1745332380
+    }
+  ]
+}

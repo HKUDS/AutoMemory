@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ) Stock Sinks As Market Gains: What You Should Know",
+      "description": "In the most recent trading session, Johnson & Johnson (JNJ) closed at $155.22, indicating a -1.2% shift from the previous trading day.",
+      "published_utc": "2025-06-17T05:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7c7459e7488eb085034f9d17d490d4ceff55e080edd6791ad6ad911af7c327a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135314385,
+      "datetime": 1750110302
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2025 Update",
+      "description": "AQR Capital's Q1'25 portfolio hits $97.07B, with top picks in AAPL, NVDA, & AMZN. Active portfolio adjustments show a quantitative, diversified approach. See more.",
+      "published_utc": "2025-06-17T05:09:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51b45bd42e92498ec52abd010edf461044394127b04a8428f9c402a3b43b4ef8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312158,
+      "datetime": 1750108183
+    }
+  ]
+}

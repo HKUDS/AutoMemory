@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "‘Sextortion’ Scams Involving Apple Messages Ended in Tragedy for These Boys",
+      "description": "Criminals exploit the trust teens have in iPhone messaging, and use the platform to make relentless demands for money.",
+      "published_utc": "2025-06-07T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9337cbef528709fe1ca36530dc81ff40e009663619526ce73747ed4142ee1003",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135108627,
+      "datetime": 1749301200
+    },
+    {
+      "title": "Here's How Much Traders Expect Apple Stock to Move After WWDC",
+      "description": "Current options pricing suggests markets expect a modest move in the tech giant's stock price the week of its annual Worldwide Developers Conference, with the keynote scheduled for Monday.",
+      "published_utc": "2025-06-07T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=683ed3a647cfe8db13310db025dad86d2d37ff1ba9cdaa68f2dc75c77e8c9716",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135105956,
+      "datetime": 1749295800
+    },
+    {
+      "title": "QQA: New Option Strategy ETF In The Nasdaq 100",
+      "description": "QQA offers an 8.63% yield from option strategies in the Nasdaq 100 and its track record shows a total return nearly matching QQQ. Read more on QQA's potential vs. its peers.",
+      "published_utc": "2025-06-07T19:11:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb9334fa978096f061c6db4fa07430e6d7b4f9da57fc608f8cba9c723b9a8323",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209112443/image_2209112443.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106545,
+      "datetime": 1749294681
+    },
+    {
+      "title": "GameStop, Oracle Headline Earnings Next Week As Investors Eye Trade Talks, Inflation Data, WWDC25",
+      "description": "GameStop, Oracle will report earnings next week. In focus will be trade talks, inflation data and Apple's WWDC event. See more updates here.",
+      "published_utc": "2025-06-07T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1afeae48fbef5b3d0fb2725b8c845c9f58429c80b84b981fb1eadcaaa0449024",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106513,
+      "datetime": 1749294000
+    },
+    {
+      "title": "Pomerantz Law Firm Investigates Claims On Behalf of Investors of Apple Inc. - AAPL",
+      "description": "NEW YORK, June 7, 2025 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Apple Inc.  . Such investors are advised to contact Danielle Peyton at...",
+      "published_utc": "2025-06-07T18:01:43",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=13a57a4a178c5af9ebc1ecef2796a3ab9609a7a7b53a4561ed65edd233dd72fb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106278,
+      "datetime": 1749290503
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:07.623443+00:00",
+    "cache_key": "news_f6b34f83de8fe81460f739a9a547f874",
+    "count": 5
+  }
+}

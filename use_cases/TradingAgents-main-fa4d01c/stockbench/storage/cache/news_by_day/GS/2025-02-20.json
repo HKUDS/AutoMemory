@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Nikola Corporation: Bankruptcy Likely To Wipe Out Equity Holders - Strong Sell",
+      "description": "Nikola files for bankruptcy amid mounting liabilities. Learn about its asset auction, struggles, and a potential delisting. Click to read why NKLA is a Strong Sell.",
+      "published_utc": "2025-02-20T00:37:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=34d7c113edc40e8b9a065eaeac0719fee4902b7cc7262bb284128e1cb22532bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1670721624/image_1670721624.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132791157,
+      "datetime": 1739983049
+    },
+    {
+      "title": "This ‘divide and conquer’ investing strategy can lead you to stock-market winners",
+      "description": "This ‘divide and conquer’ investing strategy can lead you to stock-market winners",
+      "published_utc": "2025-02-20T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2be3b8fa998717e22188e37817fd8fa2c62d4f3fb68bac147b671e13d9789feb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132795269,
+      "datetime": 1739982660
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce Inc. (CRM) the Best Enterprise Software Stock to Buy Now?",
+      "description": "We recently published a list of 12 Best Enterprise Software Stocks to Buy Now. In this article, we are going to take a look at where Salesforce Inc. (NYSE:CRM) stands against other best enterprise software stocks to buy now. In 2024, the global enterprise market size was estimated at $263.79 billion, according to Grand View […]",
+      "published_utc": "2025-04-06T07:40:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23f5373f29fa229fc13eb881e753f110386cfcabbca0a06dd9a46423aeaa84e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729255,
+      "datetime": 1743896410
+    },
+    {
+      "title": "Salesforce (NYSE:CRM) Declares 4% Dividend Increase Despite 11% Weekly Stock Slide",
+      "description": "Salesforce (NYSE:CRM) recently declared a 4% increase in quarterly dividends, reflecting strategic financial management amidst challenging market conditions. Concurrently, its collaboration with Deloitte aims to deliver AI-driven industry solutions, bolstering business appeal. This positive news contrasts sharply with the broader stock market downturn, where a 10.82% decline in Salesforce's share price was observed. The drop aligns with widespread investor anxiety following significant tariff...",
+      "published_utc": "2025-04-06T01:37:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8ab86040884e2845f0cdeb1f022c3672f6cb5cd7beeb492972649a606ace15f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727308,
+      "datetime": 1743874676
+    },
+    {
+      "title": "Markets Watch Out For Core CPI With Big Banks Set To Report Earnings",
+      "description": "Stay ahead in financial markets with Seeking Alpha's Wall Street Week Ahead as big banks are set to report earnings this week.",
+      "published_utc": "2025-04-05T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=290a46b4ff94cd232215d799c4e0de45630fa5ec77b14abd0e5e194c09959460",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133726036,
+      "datetime": 1743850800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:14.200978+00:00",
+    "cache_key": "news_b34b4fff82d82cfa792b2bb5c361b047",
+    "count": 3
+  }
+}

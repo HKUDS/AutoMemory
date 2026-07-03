@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "2 Top Buffett Stocks to Buy and Hold for the Long Haul",
+      "description": "The Oracle of Omaha focuses on long-term investing, and you should too.",
+      "published_utc": "2025-05-25T16:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffeea55472487fedd6559ba5b60948f7583a1a07e08c94710fc586ca8ab8cedd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694401,
+      "datetime": 1748162700
+    }
+  ]
+}

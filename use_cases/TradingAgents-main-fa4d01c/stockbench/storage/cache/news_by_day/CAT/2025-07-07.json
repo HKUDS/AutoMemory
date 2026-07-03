@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Clorox Among 14 Dividend Growth Companies Announcing Annual Increases In July",
+      "description": "Clorox is expected to announce a modest dividend increase of around 2%. Check out July dividend increase predictions for 14 long-term dividend growth companies.",
+      "published_utc": "2025-07-07T06:26:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41b499b87d35c97ef933ca3535b4728b725bf8bebb642db5236a58433640d1bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/600406380/image_600406380.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135778438,
+      "datetime": 1751840792
+    }
+  ]
+}

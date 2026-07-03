@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Co. stock rises Monday, still underperforms market",
+      "description": "Procter & Gamble Co. stock rises Monday, still underperforms market",
+      "published_utc": "2025-05-13T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7ed5be917268c386e9e38697839cde3ede89adf645ab68239719bafda9c3983b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134402223,
+      "datetime": 1747067460
+    }
+  ]
+}

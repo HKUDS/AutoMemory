@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM) Price Target Cut to $315 Amid AI Adoption Challenges and Slowing Growth",
+      "description": "We recently compiled a list of the 12 AI Stocks Analysts Are Talking About Right Now. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other AI stocks. Latest reports from the IMF reveal that economic gains from artificial intelligence are likely to outweigh the costs of […]",
+      "published_utc": "2025-04-26T12:17:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c7ffdfaa45318f09548a5f9bfd3ad5269252f840d45db082b16694a28fc14e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104530,
+      "datetime": 1745641030
+    }
+  ]
+}

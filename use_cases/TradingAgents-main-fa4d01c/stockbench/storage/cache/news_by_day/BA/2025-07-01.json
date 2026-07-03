@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Boeing CFO Exit Is Latest Change in Chief Executive Kelly Ortberg’s C-Suite",
+      "description": "Jet maker names Jesus ‘Jay’ Malave as next finance chief and says his predecessor will be a senior adviser to CEO Kelly Ortberg.",
+      "published_utc": "2025-07-01T07:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30c1661bd05cb5dc3f4d31477c5b59ca109dbe335d03a0f0048e01fc88c36e46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677013,
+      "datetime": 1751324580
+    },
+    {
+      "title": "Boeing Names Lockheed Martin's Jay Malave as New CFO",
+      "description": "Jay Malave named Chief Financial Officer, effective Aug. 15",
+      "published_utc": "2025-07-01T06:34:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=554661c904c50f53a4a45b50eb486d3ad442f27c4296efdd9bbc5e2d57baff9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694191,
+      "datetime": 1751322847
+    },
+    {
+      "title": "S&P 500, Nasdaq Stretch Record Run as Wall Street Notches Monthly Gains",
+      "description": "The S&P 500 and the Nasdaq Composite hit fresh highs on Monday after the US and Canada resumed trade",
+      "published_utc": "2025-07-01T05:16:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ea270f4bd9488163dcded8274763878ab9d44b90ac922d02533a217147d5733",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677972,
+      "datetime": 1751318200
+    },
+    {
+      "title": "EU to Accept Trump’s Universal Tariff But Seeks Key Exemptions",
+      "description": "(Bloomberg) -- The European Union is willing to accept a trade arrangement with the US that includes a 10% universal tariff on many of the bloc’s exports, but wants the US to commit to lower rates on key sectors such as pharmaceuticals, alcohol, semiconductors and commercial aircraft.Most Read from BloombergPhiladelphia Transit System Votes to Cut Service by 45%, Hike FaresStruggling Downtowns Are Looking to Lure New CrowdsSqueezed by Crowds, the Roads of Central Park Are Being ReimaginedSprawl",
+      "published_utc": "2025-07-01T01:55:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bafb2f58a38272dc19b82f16b3cbaa528637e4ef2bccdd91db22e3bcf73d1642",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671666,
+      "datetime": 1751306157
+    },
+    {
+      "title": "Industrials Flat as Traders Await Budget, Jobs Updates -- Industrials Roundup",
+      "description": "Shares of industrial and transportation companies were more flat as traders awaited updates on trade and congressional budget negotiations. Treasury Secretary Scott Bessent expressed confidence in...",
+      "published_utc": "2025-07-01T01:28:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=85693321209c472ab9a6af86034127b46a0d1025c0377bedc9f24deaa3036374",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135675725,
+      "datetime": 1751304489
+    }
+  ]
+}

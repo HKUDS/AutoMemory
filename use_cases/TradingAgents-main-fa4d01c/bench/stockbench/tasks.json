@@ -1,0 +1,37 @@
+{
+  "showcase": "stockbench-tradingagents-portfolio",
+  "description": "TradingAgents decisions over a small StockBench offline data window.",
+  "symbols": ["AAPL", "AMZN", "MSFT"],
+  "start_date": "2025-06-02",
+  "end_date": "2025-07-11",
+  "window_trading_days": 20,
+  "initial_cash": 10000.0,
+  "execution_price": "close",
+  "selected_analysts": ["market", "social", "news", "fundamentals"],
+  "news": {
+    "lookback_days": 2,
+    "page_limit": 100,
+    "top_k_event_count": 5
+  },
+  "trading_rules": {
+    "partial_equity_fraction": 0.3,
+    "rating_actions": {
+      "BUY": "buy",
+      "OVERWEIGHT": "buy_partial",
+      "HOLD": "hold",
+      "UNDERWEIGHT": "sell_partial",
+      "SELL": "sell"
+    }
+  },
+  "flush_window": {
+    "enabled": true,
+    "frequency_days": 5,
+    "description": "For memory-on, force outcome-aware reflections after the next available trading day so small windows can surface memory effects."
+  },
+  "sessions": [
+    {
+      "order": 1,
+      "seed": 42
+    }
+  ]
+}

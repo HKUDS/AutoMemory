@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Bill Gates Has A 'McGold Card' That Gives Him Free McDonald's Meals For Life, Anywhere In The World — But Says 'I Tend Not To Use It'",
+      "description": "It must be one of the great ironies of wealth: the richer you are, the more free stuff you get. Celebrities get gifting suites. Athletes get free gear. And billionaires? Apparently, they get free Big Macs. That's right—Bill Gates, worth well over $100 billion, has a McDonald's \"gold card\" granting him free meals for life anywhere in the world. And while it may sound like a recent social media stunt, the story behind Gates' golden ticket actually stretches back almost two decades—and involves his",
+      "published_utc": "2025-05-11T06:55:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=896c93765c64b96b972a0d314485c5298adeefdb5415fe76cef809773271016b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379334,
+      "datetime": 1746917739
+    },
+    {
+      "title": "'A Divided Economy': McDonald's CEO Says Rich Keep Dining Out But Average Income Consumers Feeling Economic 'Anxiety'",
+      "description": "The inflation crisis that has been hammering the U.S. economy is now taking a visible toll on consumers. Last month, data showed that consumer confidence in the U.S. fell to a five-year low. The country's economy shrank in the first quarter for the first time since 2022. The current earnings season is highlighting the struggles of companies exposed to consumer spending. Fast-food giant McDonald’s Corp (NYSE:MCD) March quarter earnings and revenue missed Wall Street's estimates, while the company",
+      "published_utc": "2025-05-11T02:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b1041013cef8f58522bd2ef864c0a520b83b9c294cfce9de6687010cceb1100",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379335,
+      "datetime": 1746901800
+    }
+  ]
+}

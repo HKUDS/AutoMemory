@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Value Discovery Fund Q4 2024 Review",
+      "description": "For the three months ending December 31, 2024, the fund's Retail Class shares returned -3.41%, trailing the -1.94% return of the benchmark Russell 3000Â® Value Index.",
+      "published_utc": "2025-03-10T09:02:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da3cb6d6bb2994a879bb43bf701580e22d1855cb83830fb91c34d3da1094e5d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1432028495/image_1432028495.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133114899,
+      "datetime": 1741568520
+    }
+  ]
+}

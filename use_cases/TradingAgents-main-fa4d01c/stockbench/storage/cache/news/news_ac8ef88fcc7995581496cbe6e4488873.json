@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Outgoing US transport chief says Boeing has more to do after 737 MAX incident",
+      "description": "WASHINGTON (Reuters) -The outgoing U.S. transportation secretary said on Monday that Boeing has more to do and its efforts to improve its culture are unfinished after a door panel missing four key bolts flew off a new 737 MAX 9 in mid-air in January 2024.  \"There were real deficiencies ... there is much more to do,\" Pete Buttigieg told Reuters in an interview.  \"I think the culture change at Boeing is something that is a real work in progress and the only way to fully assess it will be to see they can consistently improve results.\"",
+      "published_utc": "2025-01-07T07:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6260d3608701128340151cc0d13910104cf14d38649bc9b2d29b59790825b3b8",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/reuters.com/c1eca88ab7570b69efbd890c001e53fb",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132293536,
+      "datetime": 1736206800
+    },
+    {
+      "title": "Pete Buttigieg says Boeing needs 'a pretty profound culture change'",
+      "description": "Boeing (BA) is coming in for a bit more last-minute criticism from outgoing members of the Biden administration. Soon-to-be-former Transportation Secretary Pete Buttigieg told Bloomberg in an interview Monday that the planemaker still has a lot of work to do on itself.",
+      "published_utc": "2025-01-07T05:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c211e7a828645995a880abe622c790ab43cbe4055f34847f38b03455f3188d95",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/quartz.com/96ce7f36b6ac464c7673a9cff2765352",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132293537,
+      "datetime": 1736198340
+    },
+    {
+      "title": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual",
+      "description": "Can Boeing Be Fixed? Aerospace Leaders Offer a Repair Manual",
+      "published_utc": "2025-01-07T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a803edcd1cdcd03f9945a86274795f8a71f9569564b9d842c40c8e223ae91571",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132324698,
+      "datetime": 1736197200
+    },
+    {
+      "title": "Boeing Gets $616 Million Pentagon Contract for Electronic Warfare Systems",
+      "description": "By Connor Hart Boeing was awarded a $616 million contract for its Eagle Passive Active Warning Survivability System, or EPAWSS, an electronic warfare system that will enable decades-old Air Force...",
+      "published_utc": "2025-01-07T02:37:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=563100ae95485f440fbd5bbe2c3012bd1e3de32c99d2a73363e37d68cbe55c0f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292850,
+      "datetime": 1736188632
+    },
+    {
+      "title": "Boeing Gets $616M Pentagon Contract for Electronic Warfare Systems",
+      "description": "Boeing Gets $616M Pentagon Contract for Electronic Warfare Systems",
+      "published_utc": "2025-01-07T02:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3f63edace0a8822fa7e9790b8b15dcf30e40a2bd6b427b4cdd87569580b68299",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132324730,
+      "datetime": 1736187660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:02:35.362225+00:00",
+    "cache_key": "news_ac8ef88fcc7995581496cbe6e4488873",
+    "count": 5
+  }
+}

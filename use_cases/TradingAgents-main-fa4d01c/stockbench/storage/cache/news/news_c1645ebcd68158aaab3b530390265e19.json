@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "Aristotle Global Equity Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-16T07:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f1f5836bf98d38379a2f870f23faba1f146e173e45877a294aff9e0578c99719",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133930344,
+      "datetime": 1744759200
+    },
+    {
+      "title": "Aristotle Capital Value Equity Strategy Decided to Sell Honeywell International (HON) Due to Short-Time Uncertainty",
+      "description": "Aristotle Capital Management, LLC, an investment management company, released its “Value Equity Strategy” first quarter 2025 investor letter. A copy of the letter can be downloaded here. The U.S. equity market started the year with a modest decline, with the S&P 500 Index declining 4.27% during the quarter. Conversely, the Bloomberg U.S. Aggregate Bond Index rose 2.78% […]",
+      "published_utc": "2025-04-15T19:46:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ac3906f735d0483dfe62b537a83818eb57f4a21db9fa70336d09a7a5c5bc784",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133922247,
+      "datetime": 1744717577
+    },
+    {
+      "title": "Littelfuse: Headwinds Likely To Persist, But Valuation Is Now Very Attractive",
+      "description": "Littelfuseâs growth depends heavily on macroeconomic conditions, and recent weakness in end markets. See why I rate LFUS stock a strong buy.",
+      "published_utc": "2025-04-15T17:58:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a87439a4a094380f84f5b5de08f4d79483e5c3e8f8b7b9e501f19aebea9eebe6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2075787287/image_2075787287.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133921295,
+      "datetime": 1744711083
+    },
+    {
+      "id": "5ff729b423ec98fc78769f1b2958aa2d6b4f3e713cefad82eb636798450f2ad8",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Smart Building IoT (SBIoT) Market Disruptions: Riding a High-Growth Wave Through 2030 at CAGR 21.19%",
+      "author": "Qks Group",
+      "published_utc": "2025-04-15T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/15/3061935/0/en/Smart-Building-IoT-SBIoT-Market-Disruptions-Riding-a-High-Growth-Wave-Through-2030-at-CAGR-21-19.html",
+      "tickers": [
+        "CARR",
+        "JCI",
+        "SBGSY",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0c7f2ca9-2c83-4ecc-882d-38dab5dadbb2",
+      "description": "The global Smart Building IoT (SBIoT) market is expected to grow at a compound annual growth rate of 21.19% through 2030, driven by the increasing adoption of IoT-driven building automation across various sectors. The report covers key industry players and explores emerging trends such as digital twins and AI-driven automation.",
+      "keywords": [
+        "Smart Building IoT",
+        "IoT",
+        "Building Automation",
+        "Energy Efficiency",
+        "Sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "CARR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Carrier as one of the key industry players in the Smart Building IoT market, but does not provide any additional details about the company."
+        },
+        {
+          "ticker": "JCI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Johnson Controls as one of the key players in the Smart Building IoT market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "SBGSY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Schneider Electric as a key industry player in the Smart Building IoT market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Honeywell in the list of key industry players in the Smart Building IoT market, but does not offer any further details about the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:32:25.900754+00:00",
+    "cache_key": "news_c1645ebcd68158aaab3b530390265e19",
+    "count": 4
+  }
+}

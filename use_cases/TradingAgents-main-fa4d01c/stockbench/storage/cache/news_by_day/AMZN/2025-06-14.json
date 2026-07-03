@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Amazon to invest $13 billion in Australia's data center infrastructure over five years",
+      "description": "Amazon will invest 20billion Australian dollars from 2025 to 2029 toexpand, operate and maintain its data center infrastructure inAustralia, aiming to bolster the nation's artificialintelligence...",
+      "published_utc": "2025-06-14T23:57:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=37bf2f4dc08b52c7e9547baa81450595b41bbce44aa38a7d0e5fbbc6f9284173",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272893,
+      "datetime": 1749916628
+    },
+    {
+      "title": "Amazon com : investing AU$20 billion to expand data center infrastructure in Australia and strengthen the nation’s AI future",
+      "description": "Key takeaways Amazon plans to invest AU$20 billion to expand data center infrastructure by 2029, strengthening Australia's cloud and AI capabilities. Three new solar farms in Victoria and Queensland...",
+      "published_utc": "2025-06-14T23:33:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=af669bb5e01391c6a5f46a33e2c5839844f35992174c68dae5f4f00f0410c9b6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272831,
+      "datetime": 1749915184
+    },
+    {
+      "title": "Amazon to invest $13 billion in Australia's data center infrastructure",
+      "description": "Amazon will invest 20 billion Australian dollars from 2025 to 2029 to expand, operate and maintain its data center infrastructure in Australia, aiming to bolster the nation's artificial intelligence...",
+      "published_utc": "2025-06-14T23:28:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=deef806cec9baf9e2d4bc33401e0eae170e80008ad4423bdfc7e16936766e91e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272800,
+      "datetime": 1749914887
+    }
+  ]
+}

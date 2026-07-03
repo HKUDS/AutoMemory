@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Conventum-Alluvium Global Fund December 2024 Quarterly Report",
+      "description": "We bought two new companies during the quarter, Mastercard and Charter Communications. We now have 24 years of performance data for the MSCI World Value and Growth Indices.",
+      "published_utc": "2025-03-10T21:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9e8eca7728c497fceb1a2bad911311076379a95432ba91fa5df0ce9c7f1f808",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/912015114/image_912015114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122500,
+      "datetime": 1741614300
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "ClearBridge Large Cap Growth ESG Strategy Q1 2025 Commentary",
+      "description": "The ClearBridge Large Cap Growth ESG Strategy outperformed its Russell 1000 Growth Index benchmark in the first quarter. Read more here.",
+      "published_utc": "2025-04-14T00:19:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9dce9a7e0cb758c599555c55ee64d26c6885c4334e8b06c537fed55dc1ed5daf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1861931013/image_1861931013.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901618,
+      "datetime": 1744561140
+    }
+  ]
+}

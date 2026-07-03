@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Amgen : Update on Patent Litigation Related to Fresenius Denosumab Biosimilar Products",
+      "description": "Amgen Update on Patent Litigation Related to Fresenius Denosumab Biosimilar Products We are pleased to have reached resolution of our patent infringement litigation related to...",
+      "published_utc": "2025-03-10T23:42:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4f36151ad6c811da06182b548d3769fb6f8924626ca5419c49780b2c29b9421f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133125713,
+      "datetime": 1741621324
+    },
+    {
+      "title": "AMGN's Eczema Drug Meets Goal in Two Late-Stage Studies",
+      "description": "Data from two more late-stage studies show that treatment with Amgen's rocatinlimab improves outcomes in atopic dermatitis indication.",
+      "published_utc": "2025-03-10T21:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58ef0150b41d2233a520d9bd77af4d5b028c9786dd73f802323e68c42b56be10",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185014,
+      "datetime": 1741613220
+    },
+    {
+      "title": "AMGEN AND KYOWA KIRIN PROVIDE TOP-LINE RESULTS FROM ROCATINLIMAB PHASE 3 IGNITE STUDY IN ADULTS WITH MODERATE TO SEVERE ATOPIC DERMATITIS",
+      "description": "THOUSAND OAKS, TOKYO - Amgen and Kyowa Kirin Co., Ltd. today announced new results from the ongoing ROCKET Phase 3 clinical trial program evaluating rocatinlimab, an investigational T-cell...",
+      "published_utc": "2025-03-10T20:39:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9f19f7cbf57d1b3d4633eaa509b89e40e9ceba9443c1c02f5b391929fe87e35a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122070,
+      "datetime": 1741610357
+    }
+  ]
+}

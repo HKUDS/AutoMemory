@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for Wells Fargo, Abbott & American Express",
+      "description": "Wells Fargo gains post-Fed cap removal, Abbott rides strong devices pipeline, while AmEx sees growth but rising costs pinch margins.",
+      "published_utc": "2025-07-24T05:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2d069ba636b1eaf150ef0f514f84d7e6e1df711b4ea0cb71793ed93a5aaeb3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062210,
+      "datetime": 1753304760
+    },
+    {
+      "title": "American Express Elects Randal K. Quarles and Noel Wallace to Board of Directors",
+      "description": "NEW YORK, July 23, 2025--American Express Company (NYSE: AXP) today announced that Randal K. Quarles and Noel Wallace have been elected to its Board of Directors, effective July 23, 2025. With these appointments, the American Express Board increases to 14 members.",
+      "published_utc": "2025-07-24T04:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=654d6fe4023d90e0ccc8a9aee754af067486dccdd56174a2ec11b3e13babcab6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062364,
+      "datetime": 1753302480
+    },
+    {
+      "title": "Mastercard credit card benefits: What is the difference between each tier?",
+      "description": "Learn about each Mastercard credit card tier’s benefits and perks.",
+      "published_utc": "2025-07-24T03:40:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07e77b6920a947c10bd6829d5e531b08fa4fff85e55a4183f688ed71c7e5b773",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062111,
+      "datetime": 1753299608
+    },
+    {
+      "title": "American Express (AXP) Declares US$9 Dividend on Preferred Shares for September Payout",
+      "description": "American Express (AXP) announced a significant dividend declaration recently, reflecting its ongoing financial stability and commitment to shareholders. Over the last quarter, the company's stock price increased by 17%, a notable move largely in line with the broader market's upward trend on trade deal optimism and record highs in major indices. The company's reaffirmed earnings guidance and product enhancements likely bolstered investor sentiment. However, the dip in Q2 earnings from the...",
+      "published_utc": "2025-07-24T01:19:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=937457f7cd70c6c35b46b19bc0c19f7ec62d3b62bca5a760d3480ed397c239cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062366,
+      "datetime": 1753291167
+    },
+    {
+      "title": "American Express Co. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "description": "American Express Co. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "published_utc": "2025-07-24T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ca37d0e64e065a0920f64e5ec8fab61161f4bcc7c9bcf87002abd9f61a333fcd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136070608,
+      "datetime": 1753288440
+    }
+  ]
+}

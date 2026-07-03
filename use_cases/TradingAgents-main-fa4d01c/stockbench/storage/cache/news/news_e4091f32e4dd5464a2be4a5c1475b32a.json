@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is Amazon Stock a Buy, Sell, or Hold in 2025?",
+      "description": "The recent sell-off has left few stocks unscathed, including \"Magnificent Seven\" stocks such as Amazon (NASDAQ: AMZN).  Let's take a closer look at Amazon's businesses and financials to see if the stock could still be a winner this year.  It may surprise some investors to learn that the online sales enterprise is likely not a compelling reason to buy Amazon stock.",
+      "published_utc": "2025-04-10T06:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=365a81d898dce2c87321de01309262a66e82aa9f0b4c2c62ba020cf66fb54b8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841210,
+      "datetime": 1744238460
+    },
+    {
+      "title": "Exclusive-Chinese sellers on Amazon to hike prices or exit US as tariffs soar, association says",
+      "description": "Chinese companies that sell products on Amazon are preparing to hike prices for the U.S. or quit that market due to the unprecedented blow from President Donald Trump's tariff hikes, the head of...",
+      "published_utc": "2025-04-10T06:35:31",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3a65bbeaffb6f36ec991a9fa5d875a45832d2daf30fdaa381c82aa2416c7cc71",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133840002,
+      "datetime": 1744238131
+    },
+    {
+      "title": "The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now",
+      "description": "President Trump's announcement of tariffs on imports from countries worldwide has rocked the stock market -- and the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) has led the decline, crashing more than 20% from its most recent high.  Why are tech stocks being hit so hard?  All this has prompted investors to worry about tech earnings ahead, fleeing shares of these companies.",
+      "published_utc": "2025-04-10T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=199f201cee01d446b8ae8210b04f673072dc2f5cb05adda1f63411a254da70fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841176,
+      "datetime": 1744236600
+    },
+    {
+      "title": "Jim Cramer Sees Major Supply Chain Risks for Amazon.com (AMZN) Amid China Tariff Standoff",
+      "description": "We recently published a list of Jim Cramer Warns of a 36% Market Drop & Reviews These 9 Key Stocks. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other stocks Jim Cramer discusses. In his appearance on CNBC’s Squawk on the Street on Monday, Jim Cramer […]",
+      "published_utc": "2025-04-10T05:26:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51286cc3768ab4d707591e56b27f9d5912f0530b8271f5bd64e2bf408d62b504",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841212,
+      "datetime": 1744233989
+    },
+    {
+      "title": "Bad weather scrubs Amazon's launch of first Kuiper internet satellites",
+      "description": "Amazon on Wednesday had its launch of the first 27 initial Kuiper internet satellites postponed over bad weather, the launch provider United Launch Alliance said. ...",
+      "published_utc": "2025-04-10T04:50:01",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c116720d6249b7d9c28386a3d132dc44a18a09ffe2467ee2106a6305e95982e2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133839634,
+      "datetime": 1744231801
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:06.232731+00:00",
+    "cache_key": "news_e4091f32e4dd5464a2be4a5c1475b32a",
+    "count": 5
+  }
+}

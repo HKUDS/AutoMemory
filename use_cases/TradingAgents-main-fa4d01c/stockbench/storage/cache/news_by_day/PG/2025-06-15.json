@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Impax Sustainable Allocation Fund Q1 2025 Commentary",
+      "description": "The Impax Sustainable Allocation Fund underperformed its blended benchmark (60% S&P 500/40% Bloomberg Barclays US Aggregate Bond Index). Read more here.",
+      "published_utc": "2025-06-15T18:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac72484ea92ad51b25b5cb238a33f6161c356f8bfe39e905ad376a756a3b7185",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285363,
+      "datetime": 1749982860
+    }
+  ]
+}

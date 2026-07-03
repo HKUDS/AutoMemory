@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. (AMGN): Among Dobermans of the Dow to Buy",
+      "description": "We recently published a list of Dobermans of the Dow: 10 Stocks to Consider. In this article, we are going to take a look at where Amgen Inc. (NASDAQ:AMGN) stands against other Dobermans of the Dow to buy. The Dobermans of the Dow strategy serves as an alternative to the well-known Dogs of the Dow […]",
+      "published_utc": "2025-03-12T22:04:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=586472abd408288e0b41438b01c1a3831c685cf4b0162f5cdf215f98a07ebec4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185011,
+      "datetime": 1741788283
+    },
+    {
+      "title": "Verizon, McDonald's share losses lead Dow's 313-point drop",
+      "description": "Verizon, McDonald's share losses lead Dow's 313-point drop",
+      "published_utc": "2025-03-12T18:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a2e8622b35c3e738721cfee729bf42cc53e7838f4c24db44664dcf43d6e1b30f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133150310,
+      "datetime": 1741777020
+    },
+    {
+      "title": "Dow's relief rally quickly fades. Here are some key stocks dragging it down.",
+      "description": "Dow's relief rally quickly fades. Here are some key stocks dragging it down.",
+      "published_utc": "2025-03-12T18:06:42",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a9f2657ca724aeb62bc52582693a4465dcd4268415af48a4ba5ce5b253e5da4c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133151061,
+      "datetime": 1741774002
+    },
+    {
+      "title": "Verizon, Amgen share losses lead Dow's nearly 150-point fall",
+      "description": "Verizon, Amgen share losses lead Dow's nearly 150-point fall",
+      "published_utc": "2025-03-12T17:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=045d6fb7b4d7b1e92fc920991af21358b92de7cb9be70ed19b8bb77041d70566",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133151062,
+      "datetime": 1741773360
+    },
+    {
+      "id": "6d15c47edd730f463dadbd7005230bf4f39f9ae4a7e535900601c3ca39e22385",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Bispecific Antibody Market Opportunity, Drug Dosage, Patent, Price, Sales & Clinical Trials Insight 2030: New Report Highlights 600+ Bispecific Antibodies in Clinical Trials Worldwide",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-03-12T12:48:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/12/3041385/28124/en/Bispecific-Antibody-Market-Opportunity-Drug-Dosage-Patent-Price-Sales-Clinical-Trials-Insight-2030-New-Report-Highlights-600-Bispecific-Antibodies-in-Clinical-Trials-Worldwide.html",
+      "tickers": [
+        "RHHBY",
+        "AMGN",
+        "PFE",
+        "JNJ",
+        "GILD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The bispecific antibody market is experiencing rapid growth, projected to reach $50 billion by 2030. This is driven by increasing clinical trials, with over 600 candidates under development. Leading therapies like Hemlibra and Vabysmo (Roche) have already dominated 75% of sales, while emerging treatments like Linvoseltamab and Odronextamab are under FDA review.",
+      "keywords": [
+        "bispecific antibodies",
+        "clinical trials",
+        "cancer treatments",
+        "autoimmune diseases"
+      ],
+      "insights": [
+        {
+          "ticker": "RHHBY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Roche's bispecific antibody therapies Hemlibra and Vabysmo have dominated 75% of the market, each surpassing $4 billion in sales in 2024, indicating their strong market position and commercial success."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amgen is mentioned as one of the leading players in the bispecific antibody market, driving innovation in this space, which suggests a positive outlook for the company."
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pfizer is listed as one of the major players in the bispecific antibody market, indicating its involvement and potential to benefit from the market's growth."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson (Janssen) is mentioned as one of the leading companies driving innovation in the bispecific antibody market, suggesting a positive outlook for the company."
+        },
+        {
+          "ticker": "GILD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Gilead is listed as one of the leading players in the bispecific antibody market, which implies a positive outlook for the company's involvement in this growing market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:05.017372+00:00",
+    "cache_key": "news_538a9f6a7936ef76481659a89d11ba6b",
+    "count": 5
+  }
+}

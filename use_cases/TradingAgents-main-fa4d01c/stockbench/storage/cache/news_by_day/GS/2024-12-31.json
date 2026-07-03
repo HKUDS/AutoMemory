@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Five underrecognized standout CEOs of the year",
+      "description": "This is one year where it is hard to recognize just five outstanding CEOs, with hundreds of companies enjoying record stock prices amidst record profitability.",
+      "published_utc": "2024-12-31T22:35:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a3a3ff9953fdb1659c0bf857423faaf46ac0bdfa15a91a98c7c7e572f9687f0",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/MkAcDnnD8N7d7AFnJhowqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/147d8027289d8a2e2eba60f65cfe81b0",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132215653,
+      "datetime": 1735655730
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares mixed ahead of tech earnings this week",
+      "description": "",
+      "published_utc": "2025-04-29T04:31:39",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=0482b6c5cef9ad90bc0ffd371de91ffcf8d5b44a01e2b7a4f7b86b698259f81f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134119109,
+      "datetime": 1745872299
+    },
+    {
+      "title": "IBM is supercharging its quantum computer efforts as part of a major 5-year investment in U.S. tech",
+      "description": "The tech giant is the latest to announce U.S.-based commitments in the wake of the Trump administration’s push to increase domestic manufacturing.",
+      "published_utc": "2025-04-29T03:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5c45129252981843ae01e08da2b00849ff1260075c777d28598ac1f47825061",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141663,
+      "datetime": 1745869500
+    },
+    {
+      "title": "IBM's Plans to Invest Billions in the US",
+      "description": "IBM has joined the list of companies pledging to invest billions in the US following President Donald Trump's election and tariff threats. Bloomberg's Brody Ford discusses Big Blue's plans with Caroline Hyde on \"Bloomberg Technology.\"",
+      "published_utc": "2025-04-29T02:28:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e841a59043cc62fc6688d51bd79792d2041e4ea5e85880605ade353b01067941",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131046,
+      "datetime": 1745864934
+    },
+    {
+      "title": "IBM Delivers Strong Quarter, Eases Concerns Over Government Cuts",
+      "description": "IBM beat expectations with $14.5 billion in first-quarter revenue and $1.60 adjusted EPS.",
+      "published_utc": "2025-04-29T01:10:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=181f4dddff734284a11d0bb730df28936f3241bc400881167b8a4cd02d82d173",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131047,
+      "datetime": 1745860244
+    },
+    {
+      "title": "Tech Drops on Earnings Nerves - Tech Roundup",
+      "description": "Tech Drops on Earnings Nerves - Tech Roundup",
+      "published_utc": "2025-04-29T01:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=259ef5aaf596a9073610c53c1d496c4bae641673514c5e4a56896c7494d403af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134128041,
+      "datetime": 1745859660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:25.072015+00:00",
+    "cache_key": "news_4520ce489a199e0835c79e33905936c3",
+    "count": 5
+  }
+}

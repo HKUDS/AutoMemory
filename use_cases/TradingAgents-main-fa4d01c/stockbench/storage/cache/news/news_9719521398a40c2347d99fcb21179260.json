@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights Amazon.com, Home Depot, Cisco, United Homes and The Eastern Company",
+      "description": "AMZN, HD, CSCO, UHG, and EML earn analyst focus for growth potential, despite trade risks, soft demand, and margin pressures.",
+      "published_utc": "2025-06-24T17:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f0bc65ec5404871193ca9179ae119395f1ada43bc6477f5b73cb6454944b91d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135506344,
+      "datetime": 1750757820
+    },
+    {
+      "title": "Here's How Many Shares of Home Depot Stock You Should Own to Get $500 in Yearly Dividends",
+      "description": "Home Depot is demonstrating resilience, but it's operating in a pressured environment.  Home Depot (NYSE: HD) stock has been a fantastic investment for long-term investors, and aside from price appreciation, it pays an attractive dividend.  Home Depot stock is down 10% this year as the company faces economic pressure.",
+      "published_utc": "2025-06-24T17:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9eeb0d19ec1609aac10e030865d4c0a6b348059eb8958b72428c72419fb1d4b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135506345,
+      "datetime": 1750757340
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:03.375396+00:00",
+    "cache_key": "news_9719521398a40c2347d99fcb21179260",
+    "count": 2
+  }
+}

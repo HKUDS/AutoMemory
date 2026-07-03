@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar May Reach New EPS Peak Ahead of Deere on Power-Led Growth, BofA Says",
+      "description": "Caterpillar's (CAT) valuation, free cash flow strength, and exposure to power-related growth could h",
+      "published_utc": "2025-07-22T00:19:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8814da4f70767afcdce72008554d88054e393bd80d02a6db170111fa4c65a9ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031468,
+      "datetime": 1753114753
+    }
+  ]
+}

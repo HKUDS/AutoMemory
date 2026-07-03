@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Stock Moves 0.58%: What You Should Know",
+      "description": "In the most recent trading session, Home Depot (HD) closed at $359, indicating a +0.58% shift from the previous trading day.",
+      "published_utc": "2025-04-30T05:45:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a42475b2dec68fce6e4849ebf8803a2c2927f7768e409a583fb450d2d7350bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141610,
+      "datetime": 1745963115
+    },
+    {
+      "title": "Walmart, Home Depot, Target Push Chinese Suppliers To Resume Shipments, Agree To Absorb Tariffs: Report",
+      "description": "Analyst Ray Wang posted that major U.S. retailers, including Walmart and Target, have reportedly asked Chinese suppliers to resume shipments, with tariffs to be absorbed by the American retailers. What Happened: On Saturday, Wang posted on X that ...",
+      "published_utc": "2025-04-30T04:42:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=918b835d2b11f28661bfd143e22f3a7ab9c6e3c3eca773fc4c8155c71dd10599",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141601,
+      "datetime": 1745959334
+    },
+    {
+      "title": "Top Research Reports for Home Depot, CME & Airbnb",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including The Home Depot, Inc. (HD), CME Group Inc. (CME) and Airbnb, Inc. (ABNB), as well as a micro-cap stock Park Aerospace Corp. (PKE).",
+      "published_utc": "2025-04-30T04:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7357059d2a70e1ec625ecbb2c6b47b93f121ff05b11b0686287d1f1218538d6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141612,
+      "datetime": 1745958540
+    }
+  ]
+}

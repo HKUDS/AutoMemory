@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "title": "ClearBridge Global Value Improvers Strategy Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-04-29T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4777d1093e87a14df62c8046130e86746a78550592dfcc51a616b39754e74653",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134124983,
+      "datetime": 1745915400
+    },
+    {
+      "id": "f0a858604c737f01452ffd8090454b4bee9c1ecfe17bc772ceff5cc5ab84b7ec",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Carahsoft Accelerates Public Sector Customer Experience and Engagement Innovations with Participation in Top 10 CX Events for Government in 2025",
+      "author": "N/A",
+      "published_utc": "2025-04-29T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/29/3070385/0/en/Carahsoft-Accelerates-Public-Sector-Customer-Experience-and-Engagement-Innovations-with-Participation-in-Top-10-CX-Events-for-Government-in-2025.html",
+      "tickers": [
+        "ADBE",
+        "CRM",
+        "NOW",
+        "ZM",
+        "DOCU",
+        "OKTA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ee2f2b02-4089-4a15-93fa-0956daf4ad82",
+      "description": "Carahsoft Technology Corp. announces its Customer Experience (CX) and Engagement highlights for 2024, including strategic partnerships with industry leaders, and its leading events for 2025 to connect government agencies with modern technology solutions and resources to increase efficiency and enhance CX in the public sector.",
+      "keywords": [
+        "customer experience",
+        "public sector",
+        "digital transformation",
+        "government",
+        "technology solutions"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Carahsoft has formed a strategic partnership with Adobe, indicating the company's solutions are being leveraged to enhance digital services and customer experience in the public sector."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Carahsoft has partnered with Salesforce, a leading provider of customer relationship management (CRM) solutions, suggesting the company's products are being used to improve government customer engagement and service delivery."
+        },
+        {
+          "ticker": "NOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Carahsoft's partnership with ServiceNow, a prominent provider of workflow automation and digital transformation solutions, implies the company's offerings are being utilized to increase efficiency and modernize government operations."
+        },
+        {
+          "ticker": "ZM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Carahsoft's inclusion of Zoom, a prominent video conferencing and collaboration platform, in its partner ecosystem indicates the company's solutions are being utilized to facilitate remote and hybrid government service delivery."
+        },
+        {
+          "ticker": "DOCU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Carahsoft's collaboration with DocuSign, a leading e-signature and digital transaction management platform, implies the company's solutions are being used to streamline and digitize government processes and workflows."
+        },
+        {
+          "ticker": "OKTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Carahsoft's inclusion of Okta, a leading identity and access management solution, in its partner ecosystem suggests the company's products are being leveraged to secure and manage access to government digital services and applications."
+        }
+      ]
+    }
+  ]
+}

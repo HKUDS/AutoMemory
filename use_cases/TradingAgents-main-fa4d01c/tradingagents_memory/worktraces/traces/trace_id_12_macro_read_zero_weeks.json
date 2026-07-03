@@ -1,0 +1,83 @@
+{
+  "trace_id": "trace_id_12_macro_read_zero_weeks",
+  "memory_path": "macro",
+  "eval_mode": "qa",
+  "focus": "MacroNotes.read_recent(n_weeks=0) should return empty string — Python -0 gotcha causes sections[-0:] to return all sections instead",
+  "turns": [
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2026-W01",
+        "bullets": ["CPI held at 3.1%, in line with expectations", "FOMC paused; next meeting in February"],
+        "trade_date": "2026-01-07"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2026-W02",
+        "bullets": ["Strong jobs report: 240K added, unemployment 3.9%", "USD strengthened on rate-hold expectations"],
+        "trade_date": "2026-01-14"
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2026-W03",
+        "bullets": ["Retail sales beat: +1.2% MoM", "Oil declined to $74 on demand softness"],
+        "trade_date": "2026-01-21"
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "read_recent_n3_returns_3_sections",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W01"},
+        {"type": "substring", "value": "2026-W02"},
+        {"type": "substring", "value": "2026-W03"},
+        {"type": "non_empty"}
+      ]
+    },
+    {
+      "label": "read_recent_n2_returns_latest_2_only",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W02"},
+        {"type": "substring", "value": "2026-W03"},
+        {"type": "not_substring", "value": "2026-W01"}
+      ]
+    },
+    {
+      "label": "read_recent_n0_must_return_empty",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 0},
+      "expected_information": [
+        {"type": "none_or_empty"}
+      ]
+    },
+    {
+      "label": "read_recent_n0_must_not_contain_W01",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 0},
+      "expected_information": [
+        {"type": "not_substring", "value": "2026-W01"},
+        {"type": "not_substring", "value": "2026-W02"},
+        {"type": "not_substring", "value": "2026-W03"}
+      ]
+    },
+    {
+      "label": "read_recent_n1_returns_only_latest",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 1},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W03"},
+        {"type": "not_substring", "value": "2026-W01"},
+        {"type": "not_substring", "value": "2026-W02"}
+      ]
+    }
+  ]
+}

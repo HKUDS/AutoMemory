@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Franklin Equity Income Fund Q4 2024 Commentary",
+      "description": "US stocks collectively rose in the fourth quarter of 2024, with the S&P 500 Index, Dow Jones Industrial Average and NASDAQ Composite Index reaching new record highs.",
+      "published_utc": "2025-02-06T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25b7b106bd1d4f960396261f4e862f4eaef85ff6d434c5a38ef819dc38060499",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2095584352/image_2095584352.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132572898,
+      "datetime": 1738834500
+    },
+    {
+      "title": "Not all premium credit cards are created equal—here’s how three top contenders stack up",
+      "description": "Some premium cards make life easier, others just make it more expensive. Here’s how to tell them apart.",
+      "published_utc": "2025-02-06T16:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c277a89afce59f6bc49834c643f054580ba16ba60b06fed31714677c5e1b49e",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/2dDHyG.eXCXu0sl2v9ZK8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/7bef9781d845accbc217730756235334",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604979,
+      "datetime": 1738828860
+    },
+    {
+      "title": "American Express Co. stock outperforms competitors on strong trading day",
+      "description": "American Express Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-06T00:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=15f3d8cbeeca5ea88efdf5a7c9bc775340bf4ead9b65aa5b8d01f216971fea50",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132575489,
+      "datetime": 1738773180
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "USA: A Historical Underperformer, But Value-Orientation Might Be Appealing",
+      "description": "High-yield Liberty All-Star Equity Fund offers 9.20% yield with diversification. Discover its potential & whether it fits your income strategy.",
+      "published_utc": "2025-05-11T20:16:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=330eb9cea95f5b959d5f4ac1f33fedd5eb9041aab60c9cb5fe41f387790bcc3a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1463138711/image_1463138711.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134371817,
+      "datetime": 1746965766
+    },
+    {
+      "title": "Invesco Comstock Fund Q1 2025 Commentary",
+      "description": "The largest contributors to relative return were consumer staples, health care and consumer discretionary, primarily due to stock selection. Read more here.",
+      "published_utc": "2025-05-11T16:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8da8af5dd59ec4a391f82f52f04fc463362fb0b42c3e978a812a88b87697e4ba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1390682333/image_1390682333.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134370892,
+      "datetime": 1746953700
+    },
+    {
+      "title": "Invesco Rising Dividends Fund Q1 2025 Commentary",
+      "description": "The fund outperformed the Russell 1000 Index due to strong stock selection and active sector allocations.",
+      "published_utc": "2025-05-11T15:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf955552c441d518d76e864185d0200258299f88dd804d57eba04e3a83d94f8c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2043764026/image_2043764026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134370670,
+      "datetime": 1746950100
+    },
+    {
+      "title": "3 Ideal Buys From 63 May Fortune 500 Industry Leaders",
+      "description": "The June/July 2024 Fortune Magazine revealed 500 biggest US companies by-revenue and profits. Check out three safer F500ILs emerged as safer buys for May.",
+      "published_utc": "2025-05-11T13:03:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f4a32a6c5c340b47b0a6caaa9d214a1b8fd2230eec8c69aa6c43d80424d19d4f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1385706512/image_1385706512.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369997,
+      "datetime": 1746939801
+    },
+    {
+      "title": "Invesco Charter Fund Q1 2025 Commentary",
+      "description": "Outperformance mainly resulted from stock selection in the consumer discretionary, health care and energy sectors.",
+      "published_utc": "2025-05-11T11:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=47c67780031ae9f1e8e62e138a47a2d4e20de28c34c16e13734a28f4ee43325b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442731840/image_1442731840.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369645,
+      "datetime": 1746935100
+    }
+  ]
+}

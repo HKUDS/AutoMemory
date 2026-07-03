@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Travelers Cos. Inc. stock remains steady Thursday, still outperforms market",
+      "description": "Travelers Cos. Inc. stock remains steady Thursday, still outperforms market",
+      "published_utc": "2025-01-03T00:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a00e90b0afea48fcd23567847adb5e4e1e3f95c299ae127e17364824b187e2a1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132329421,
+      "datetime": 1735836720
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:00:47.659247+00:00",
+    "cache_key": "news_31bcca23ff53db6d63965d218bfc518f",
+    "count": 1
+  }
+}

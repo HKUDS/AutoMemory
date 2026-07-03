@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Moody's Downgrade Of The U.S. To Aa1 And The Ripple Effect On Bond Ratings",
+      "description": "The Moodyâs downgrade of the US rating to Aa1 from Aaa had a ripple effect through the bond markets, in the form of downgraded credits.",
+      "published_utc": "2025-05-29T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e970feb8913abb1fdc45b220dde7046897685cc207d9587513b60b9b508a43c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1586267240/image_1586267240.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134769732,
+      "datetime": 1748463300
+    }
+  ]
+}

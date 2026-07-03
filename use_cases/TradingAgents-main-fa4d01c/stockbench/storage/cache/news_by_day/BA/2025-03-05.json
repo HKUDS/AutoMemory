@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "US Navy fighter competition ejects Lockheed, sources say",
+      "description": "The U.S. Navy will eliminate defense giant Lockheed Martin Corp from the competition to build its next-generation carrier-based stealth fighter - a key part of broader plans to confront China on its...",
+      "published_utc": "2025-03-05T01:33:51",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e757faaafe1db148243a899ec9ae517b3fb73d9b5d7401e59b3a32de40496b44",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132983005,
+      "datetime": 1741109631
+    },
+    {
+      "title": "Tariffs Weigh on Industrials -- Industrials Roundup",
+      "description": "Industrial stocks sank as new tariffs on Canada, Mexico and China threatened manufacturers' long supply chains. Aerospace companies like Boeing and Textron slumped. Builders FirstSource sank as...",
+      "published_utc": "2025-03-05T01:07:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f996f1bada99ae3f392e77088780300432c827391f6877ed55a572fcaa98d33d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132981065,
+      "datetime": 1741108031
+    },
+    {
+      "title": "$20 Billion Club: For The Largest Corporate DB Plans, Maximizing Returns Is Not The Goal",
+      "description": "Russell Investments expects the trend toward liability-hedging fixed income to persist as funded status inches upward. We also expect ongoing interest in alternative asset classes.",
+      "published_utc": "2025-03-05T00:24:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=468745bdb483d27c46aee362eedc06edc9b8f3deba0af40c14a83b479e7a1bb2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1210533728/image_1210533728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132980421,
+      "datetime": 1741105440
+    }
+  ]
+}

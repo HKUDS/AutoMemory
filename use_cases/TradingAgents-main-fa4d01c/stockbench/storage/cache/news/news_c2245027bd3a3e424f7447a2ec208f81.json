@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Why AstraZeneca May Be 2025's Most Underrated Pharma Stock",
+      "description": "",
+      "published_utc": "2025-05-25T12:50:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ae77ee2596df1d0d125ff1e02ad701f87d722a9c1ef919873f2517e3dbf4e812",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134692333,
+      "datetime": 1748148608
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:47:40.967155+00:00",
+    "cache_key": "news_c2245027bd3a3e424f7447a2ec208f81",
+    "count": 1
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "trace_id": "trace_id_fact_lifecycle_paraphrased_export_retention_forget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: paraphrased forget should deactivate a corrected customer export retention policy without topic-specific expansions.",
+  "turns": [
+    {
+      "role": "user",
+      "content": "Remember: customer export files must be retained for 18 months before purge.",
+      "used_for_evaluation": true,
+      "metadata": {
+        "session_id": "fact-export-retention"
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Stored export retention policy.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Remember: fraud review CSVs must include reviewer initials.",
+      "used_for_evaluation": true,
+      "metadata": {
+        "session_id": "fact-export-retention"
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Stored fraud CSV requirement.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "Noise from docs inspection.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Remember: correction, customer export files must be retained for 30 months before purge.",
+      "used_for_evaluation": true,
+      "metadata": {
+        "session_id": "fact-export-retention"
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Updated export retention policy.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush marker one",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Please forget the data retention rule for customer exports.",
+      "used_for_evaluation": true,
+      "metadata": {
+        "session_id": "fact-export-retention"
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Forgot the customer export retention rule.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Remember: billing dispute packets live under docs/billing/disputes.md.",
+      "used_for_evaluation": true,
+      "metadata": {
+        "session_id": "fact-export-retention"
+      }
+    },
+    {
+      "role": "agent",
+      "content": "Stored billing dispute location.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "tool",
+      "content": "formatter completed successfully.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "user",
+      "content": "Unrelated editor color preference chatter.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "agent",
+      "content": "No memory needed for editor chatter.",
+      "used_for_evaluation": false
+    },
+    {
+      "role": "system",
+      "content": "retention flush marker two",
+      "used_for_evaluation": false
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What active customer export retention rule remains?",
+      "expected_information": [
+        {
+          "value": "^(?![\\s\\S]*(?:customer export|30 months|18 months|retained for))[\\s\\S]*$",
+          "matcher": "regex",
+          "description": "The paraphrased forget should remove the corrected export retention fact."
+        }
+      ]
+    },
+    {
+      "query": "What should fraud review CSVs include?",
+      "expected_information": [
+        {
+          "value": "reviewer initials",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "Where do billing dispute packets live?",
+      "expected_information": [
+        {
+          "value": "docs/billing/disputes.md",
+          "matcher": "substring"
+        }
+      ]
+    },
+    {
+      "query": "Did editor color chatter create a memory?",
+      "expected_information": [
+        {
+          "value": "^(?![\\s\\S]*editor color preference)[\\s\\S]*$",
+          "matcher": "regex"
+        }
+      ]
+    },
+    {
+      "query": "Was the obsolete 18 month export rule removed?",
+      "expected_information": [
+        {
+          "value": "^(?![\\s\\S]*(?:18 months))[\\s\\S]*$",
+          "matcher": "regex"
+        }
+      ]
+    }
+  ]
+}

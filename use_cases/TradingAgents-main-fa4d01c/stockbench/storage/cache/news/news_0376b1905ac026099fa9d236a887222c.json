@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "A Quiet March Will Bring Annual Increases From Seven More Dividend Growth Companies",
+      "description": "",
+      "published_utc": "2025-03-04T00:42:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=63616287815d15e2f9fde5321354254da4df570562a4228a86e0a351545ebc30",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132968517,
+      "datetime": 1741020128
+    },
+    {
+      "title": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
+      "description": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-03-04T00:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d507855ee9fde99c191a90e6973f4ecc31faaabb4093ec3289ac273fb8376a76",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132985691,
+      "datetime": 1741020000
+    },
+    {
+      "title": "Gabelli Funds to Host 16th Annual Specialty Chemicals Symposium Thursday, March 20, 2025",
+      "description": "GREENWICH, Conn., March 03, 2025 (GLOBE NEWSWIRE) -- Gabelli Funds is hosting its 16th Annual Specialty Chemicals Symposium taking place at The Harvard Club in New York, NY on Thursday, March 20, 2025. The symposium will draw a variety of companies, with a focus on pricing power, margin recovery, interest rates, inventory stabilization, global trade policy, demand trends, and the M&A environment. Attendees will also have the opportunity to meet with managements in a one-on-one setting. Agenda: 8",
+      "published_utc": "2025-03-03T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=594f17af0d758aea78039de3f1854a5dd7d5d0959efe6ed6f3aca66f0c301bb9",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/globenewswire.com/5d0b1ba888a042c055f8be5cd20d9910",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133175708,
+      "datetime": 1741006800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:16.318004+00:00",
+    "cache_key": "news_0376b1905ac026099fa9d236a887222c",
+    "count": 3
+  }
+}

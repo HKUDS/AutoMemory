@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is The Home Depot, Inc. (HD) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength […]",
+      "published_utc": "2025-05-08T02:50:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d046e7b9b72b0c4c346446b2fb07a2d3a334d87c16631aa4faf1a43ccfd7c38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316715,
+      "datetime": 1746643812
+    },
+    {
+      "title": "Home Depot (NYSE:HD) Secures New US$7 Billion Credit Agreements For Business Flexibility",
+      "description": "On May 6, 2025, Home Depot (NYSE:HD) significantly restructured its debt strategy by terminating a $2 billion credit facility and securing new facilities totaling $7 billion. This move underscores the company's focus on enhancing its financial flexibility and liquidity. Over the past month, Home Depot's share price edged up by 2%, aligning with a broader market environment where the Dow Jones and S&P 500 have shown mixed results as investors are cautious about tariff developments and awaiting...",
+      "published_utc": "2025-05-08T01:51:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4722326a0d0046e349e8a57fe7c5af47ba6c3e8ed7cbe62aa0b265c1a11c8e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316716,
+      "datetime": 1746640287
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "TCW Artificial Intelligence ETF Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-06-09T07:28:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9d89b1d0177d48b8495bfb4fef4a76174ec44c938684a31e124c4068c8bd466",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135117336,
+      "datetime": 1749425280
+    },
+    {
+      "title": "Salesforce Beat Out IBM for $8 Billion Informatica Deal",
+      "description": "IBM held acquisition talks with Informatica before Salesforce closed the $8B deal",
+      "published_utc": "2025-06-08T17:53:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebb7680f277a80ab54d6fee3983c5fd88a5185db8f966e7d5db1b4de2092f0ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114490,
+      "datetime": 1749376431
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:37.525313+00:00",
+    "cache_key": "news_3a3a8497534ed231e308a771855477ee",
+    "count": 2
+  }
+}

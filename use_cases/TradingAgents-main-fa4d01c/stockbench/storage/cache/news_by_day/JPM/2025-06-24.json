@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Laps the Stock Market: Here's Why",
+      "description": "JPMorgan Chase & Co. (JPM) reached $278.27 at the closing of the latest trading day, reflecting a +1.19% change compared to its last close.",
+      "published_utc": "2025-06-24T05:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82235cbd503c79c4242469221a5cd936669481264ed629decf6f5b44d79d3cf8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492030,
+      "datetime": 1750715104
+    },
+    {
+      "title": "Big banks are close to getting one of biggest regulatory rollbacks since 2008",
+      "description": "US regulators this week are expected to weigh one of the most dramatic rollbacks of bank capital rules since the 2008 financial crisis, which would give a major victory to lenders seeking relief from the new Trump administration.",
+      "published_utc": "2025-06-24T03:05:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a83e761b22154b4ed0974565a037cf81ac0aa93c7863e5f6204604171b877903",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135492032,
+      "datetime": 1750705511
+    }
+  ]
+}

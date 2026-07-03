@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Investors in Johnson & Johnson (NYSE:JNJ) have unfortunately lost 8.8% over the last three years",
+      "description": "For many investors, the main point of stock picking is to generate higher returns than the overall market. But if you...",
+      "published_utc": "2024-12-31T21:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08dc8a23465e19442f65b6153f91e115a3a0e33b62dbbd85235fe97f88ba217b",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/2eedc463aef15274c4887c130e30e298",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132218407,
+      "datetime": 1735650013
+    }
+  ]
+}

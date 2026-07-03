@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "How The BLSH Portfolio Buys Low And Sells High, Consistently",
+      "description": "The BLSH strategy systematically buys blue-chip stocks at undervalued prices and sells partial positions at overvalued levels. Learn more about the strategy here.",
+      "published_utc": "2025-06-01T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da9f4c876d8f46ad218f622289f0a249ade8eac2f56f6ee313e2293c6632ad29",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/536134845/image_536134845.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927246,
+      "datetime": 1748766600
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Jamie Dimon sells about $31.5 million worth of JPMorgan shares",
+      "description": "Dimon had also offloaded some shares last year in his first such sale since taking over the top role in 2005.  JPMorgan, the largest U.S. lender, last week surpassed its first-quarter profit estimates on record equities trading and higher fees from debt underwriting and advising on mergers.  Dimon's 2024 pay package went up 8.3% to $39 million.",
+      "published_utc": "2025-04-15T06:06:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=275d9646914e7ef66b134da3d100d76fdd8f0de25307039a106a5fc7cf5e925a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917754,
+      "datetime": 1744668395
+    },
+    {
+      "title": "Bank Trading Desks Are Minting Money From Trump’s Tariff Chaos",
+      "description": "Bank Trading Desks Are Minting Money From Trump’s Tariff Chaos",
+      "published_utc": "2025-04-15T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=54df5f7d5183e1816a513b2be0247057413948a1f7dfe5d0a13a3ab40f5fb896",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133912029,
+      "datetime": 1744664400
+    },
+    {
+      "title": "Jim Cramer on JPMorgan (JPM): “These Companies Are Great – Why Didn’t I Pay $224?”",
+      "description": "We recently published a list of Jim Cramer Hints at a Bigger Agenda Behind Tariffs and Breaks Down These 7 Stocks. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other stocks that Jim Cramer discusses. In his latest appearance on CNBC’s Squawk on the Street, […]",
+      "published_utc": "2025-04-15T03:28:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab98ca0192053d5d81d0b258aa41cab92eccb5d224d11897f4a6276e10e3fde6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917755,
+      "datetime": 1744658913
+    },
+    {
+      "title": "JPMorgan Chase First Quarter 2025 Earnings: Beats Expectations",
+      "description": "JPMorgan Chase ( NYSE:JPM ) First Quarter 2025 Results Key Financial Results Revenue: US$42.0b (up 4.8% from 1Q 2024...",
+      "published_utc": "2025-04-15T02:43:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11375e6c29d42e651578cac4cab97d29522e8c7e933c3e3e550318681489e3c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917756,
+      "datetime": 1744656184
+    },
+    {
+      "title": "Factbox-JP Morgan cuts oil price forecasts on weak demand, higher output",
+      "description": "JP Morgan has revised its oil price forecasts downward for 2025 and 2026, citing increased production from the OPEC+ alliance and a projected decline in global demand, as per a note on Monday. The bank cut its 2025 Brent price forecast to $66 per barrel from $73 per barrel and 2026 target to $58 from $61. The following is a list of the latest brokerage forecasts for 2025 and 2026 average prices for Brent and WTI (in $ per barrel): Brokerage/Agency Brent WTI Forecasts as of 2025 2026 2025 2026 Goldman Sachs $69 $62 $66 $59 April 03, 2025 HSBC $73 $70 - - March 18, 2025 Barclays $74 - $70 - March 14, 2025 BofA $75 $73 - - February 24, 2025 Citi $67 $65 $63 $62 January 22, 2025 Deutsche Bank $7...",
+      "published_utc": "2025-04-15T02:23:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77dd91dfdc43990e04b6391277c5f12781a896816afbd2a3d9c1864b3c3a3c47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917757,
+      "datetime": 1744654996
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Inc. (CRM) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Salesforce.com (CRM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-04-07T21:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac0582e264cbcd4028f661d0166e817ed9d622ecf8c1b678579513bb82dc2e5c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741125,
+      "datetime": 1744030814
+    }
+  ]
+}

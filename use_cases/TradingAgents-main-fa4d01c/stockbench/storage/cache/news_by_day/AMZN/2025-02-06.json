@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Contrafund Q4 2024 Review",
+      "description": "For Q4 2024, the Fidelity Contrafund's Retail Class shares gained 3.56%, topping the 2.41% advance of the S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-02-06T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a0a5a73483fa9fd7e332d0b4cf17231696a722fb5cfb954e54a0be6eb6011ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952762622/image_952762622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569795,
+      "datetime": 1738794900
+    },
+    {
+      "title": "John Schulman leaves AI startup Anthropic",
+      "description": "John Schulman, an OpenAI co-founder who joined Anthropic last year, has left his role at the artificial intelligence startup, the company said late on Wednesday. We are sad to see John...",
+      "published_utc": "2025-02-06T06:03:36",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4d8a3a3ca7d67307967af9c6ab6d76731971b3a5e14e340485590059ad50f870",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569618,
+      "datetime": 1738793016
+    },
+    {
+      "title": "Palantir Q4: Sell Now To Avoid Pain Later (Rating Downgrade)",
+      "description": "Palantirâs Q4 revealed a 45% operating margin and 36% revenue growth, but its shares reflect over five yearsâ growth already. Read my analysis of PLTR here.",
+      "published_utc": "2025-02-06T03:36:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0504d679b920ebe34e0939fb295b35c7cc74118c78ce986338ccc5c48c3c1be6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2143503906/image_2143503906.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569076,
+      "datetime": 1738784161
+    },
+    {
+      "title": "Google Q4: Beaten Down Despite The Beat, Here's Why",
+      "description": "Alphabet Inc.'s expanding margins, resilience in Search, and potential payoffs from Other Bets like Waymo and TPUs make it a compelling investment. Click for my GOOG stock update.",
+      "published_utc": "2025-02-06T01:54:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=17f93242e22dd1c28a8161fc8b1fd7d7b25d2a9eff5ebad563fd59e01602ee81",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/83520901/image_83520901.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568694,
+      "datetime": 1738778060
+    },
+    {
+      "title": "Amazon's War on Worker Bloat",
+      "description": "Amazon's efforts to slash middle management workers is sending ripples across the company and impacting morale, while Wall Street sees it as a positive signal. Bloomberg's Spencer Soper joins...",
+      "published_utc": "2025-02-06T01:38:57",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0fe9c777bdb2d458a9ffd8842e3e591fb432fe1803c528d2c42e94840aff3a7c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568605,
+      "datetime": 1738777137
+    }
+  ]
+}

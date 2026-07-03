@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "CII: Looking Like A Tempting Opportunity",
+      "description": "CII has undergone a name change and policy update and received a significant distribution boost since our last update. Read why CII CEF is a Buy.",
+      "published_utc": "2025-04-06T07:33:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=461eee98ef8654f33cdee6754f76dd567cd6a3fed5c10d65144aaf0537e95a31",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1617704591/image_1617704591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729057,
+      "datetime": 1743896001
+    },
+    {
+      "title": "China Hit With 54% \"Reciprocal Tariff\" Rate Following Trump Address. 3 Things Pinduoduo Stock Investors Should Know",
+      "description": "Stocks plunged on Thursday in response to President Donald Trump's \"reciprocal tariffs.\"  While the president had telegraphed his desire for punitive tariffs to try to balance the trade deficit the U.S. has with much of the world, investors were taken aback by their size.  China has long served as a scapegoat for Trump so perhaps it's not a surprise that goods imported from China will now face a 54% tariff, which includes a 20% rate the president imposed earlier.",
+      "published_utc": "2025-04-06T06:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c3c0650bef4af69606522008652a8d679d2b76d410c1859d6902d6441159086",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729246,
+      "datetime": 1743893460
+    },
+    {
+      "title": "4 Growth Stocks Down 20% or More to Buy Right Now",
+      "description": "The recent market sell-off has opened the door for some good buying opportunities in growth stocks.  Down just over 20% from its highs, Amazon (NASDAQ: AMZN) is trading at one of its lowest valuations in its history with a trailing price-to-earnings ratio (P/E) of around 34.  The company's cloud computing business, Amazon Web Services (AWS), has been its biggest growth driver, as the company helps customers create and deploy their own artificial intelligence (AI) models and apps on its platform through the help of its Bedrock and SageMaker services.",
+      "published_utc": "2025-04-06T06:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=187e558498bca91cd493272f456e4adee07eed647dc15a00bc12274afc998435",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729247,
+      "datetime": 1743891240
+    },
+    {
+      "title": "3 Top Buffett Stocks to Buy and Hold for the Next 20 Years",
+      "description": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
+      "published_utc": "2025-04-06T06:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31a158b9dea50bb90d15f87422cd480464919a65e08375f0b09670dc1b9a720f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729240,
+      "datetime": 1743890580
+    },
+    {
+      "title": "Amazon.com (NasdaqGS:AMZN) Eyes TikTok Acquisition Amid Weekly Price Drop Of 11%",
+      "description": "Amazon.com (NasdaqGS:AMZN) recently captured headlines with a controversial bid to acquire TikTok amid heightened scrutiny from U.S. regulators, reflecting its push for strategic growth. Meanwhile, significant market turmoil marked by a 9% weekly plunge in the Nasdaq was influenced by a global trade war spurred by newly announced tariffs by the U.S. administration. The simultaneous bid and market instability provided a backdrop for Amazon's share price drop of 11% this past week, as investors...",
+      "published_utc": "2025-04-06T01:26:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0e4fcd1d98679438054da5fd5acfb94171d611df1964dfda8bb48f90d4aa3f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727170,
+      "datetime": 1743873971
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Family Fun Shrinks for Summer with Lil McDonald's",
+      "description": "For years, the Golden Arches' youngest fans have turned living rooms into drive-thrus and backyard playhouses into McDonald's kitchens, serving smiles with a side of imagination. This summer, we're bringing fans the make-believe magic they love with the Lil McDonald's Happy Meal®, available nationwide starting July 1.",
+      "published_utc": "2025-06-25T22:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d14923a3225f812175a1faf0778f839b3c3c4fa86ea4c4e408d97a26820519f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530435,
+      "datetime": 1750861560
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "The Best Warren Buffett Stock to Invest $500 in Right Now",
+      "description": "American Express is one of Berkshire Hathaway's largest holdings and has been a part of its portfolio for over three decades.  The credit card company has carved a niche by focusing on affluent consumers and operating a closed-loop payment system.  The consumer lending segment faces risks from economic fluctuations, which could affect American Express's transaction volumes and earnings.",
+      "published_utc": "2025-05-11T02:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6dc0698282e4338275499046908fe67377fdcf27109609837fb455ae447b530",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379391,
+      "datetime": 1746902460
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:33.457166+00:00",
+    "cache_key": "news_5b921db98887e1c9ddcbd67c54855e92",
+    "count": 1
+  }
+}

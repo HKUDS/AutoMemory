@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Treasuries Rally as Fed’s Powell Focuses on Price Stability",
+      "description": "(Bloomberg) -- US Treasuries rallied for a third day as Federal Reserve Chair Jerome Powell said the central bank will aim to prevent tariffs from leading to stickier inflation.Most Read from BloombergTrump Signs Executive Orders on Federal Purchasing, Office SpaceHow Did This Suburb Figure Out Mass Transit?Why the Best Bike Lanes Always Get BlamedDOGE Places Entire Staff of Federal Homelessness Agency on LeaveLA County Floats Leaner Budget Burdened by Fire and Legal CostsThe five-year note led",
+      "published_utc": "2025-04-17T04:00:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=456a1351a8d52dbd0f61ae02ef429e7bfbe397ee06d11e0d53d45dc92f7fe763",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942473,
+      "datetime": 1744833630
+    },
+    {
+      "title": "JPMorgan is going after even more customers who allegedly cashed in on the ‘infinite money glitch’ stemming from an ATM malfunction",
+      "description": "The bank has also sent letters to more than 1,000 Chase patrons since October asking for funds to be returned.",
+      "published_utc": "2025-04-17T01:32:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e99fd32d6efc8367c3bd2c784c2a540d24598a65608a4558c696aa38ec8a3c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942474,
+      "datetime": 1744824737
+    },
+    {
+      "title": "Credit markets aren’t flashing recession fears — but that could be the problem",
+      "description": "Credit markets aren’t flashing recession fears — but that could be the problem",
+      "published_utc": "2025-04-17T00:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4bda481876d4cd253eb0c9bf09b94b56eef4e85f00f6f8b02b63021a38f74ec7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133945406,
+      "datetime": 1744822620
+    }
+  ]
+}

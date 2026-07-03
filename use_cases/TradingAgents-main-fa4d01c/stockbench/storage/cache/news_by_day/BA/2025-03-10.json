@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "AerSale: Creating MRO Growth Opportunities After AerAware Disappointment",
+      "description": "AerSale shares surged 17% after the company posted fourth quarter results that exceeded expectations. Check out my updated price target for ASLE stock.",
+      "published_utc": "2025-03-10T20:10:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2b1149c996608ee33a2e6e15b110b12b991a06c9f3d294a8b54a0f3f93152eae",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1216858511/image_1216858511.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133121967,
+      "datetime": 1741608601
+    },
+    {
+      "title": "Boeing, Apple share losses lead Dow's 339-point drop",
+      "description": "Boeing, Apple share losses lead Dow's 339-point drop",
+      "published_utc": "2025-03-10T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3145ece812f5d8464ca7da84093e83750f24a1a710bd907b877cdb5eb3e939d7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133117850,
+      "datetime": 1741599900
+    },
+    {
+      "title": "Trump Tariffs: Boeing Stock Dives While Archrival Airbus Soars",
+      "description": "Trump Tariffs: Boeing Stock Dives While Archrival Airbus Soars",
+      "published_utc": "2025-03-10T17:28:33",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=cd9e793c9e248bb7d893ac04650eeb5cf30667e438599537df8db4af1ee9b284",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133121488,
+      "datetime": 1741598913
+    }
+  ]
+}

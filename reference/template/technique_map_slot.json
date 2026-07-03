@@ -1,0 +1,22 @@
+{
+  "id": "<source>-<short-name>",
+  "name": "<Technique name in plain English>",
+  "source": "<reference directory name, e.g. zep>",
+  "category": "<extraction | dedup_conflict | storage_organization | retrieval_ranking | lifecycle | architecture>",
+  "summary": "<One sentence: what it does and how>",
+  "tradeoffs": "<One sentence: cost vs. benefit>",
+  "when_to_use": "<One sentence: scenario where this technique shines>",
+  "philosophy": {
+    "weight": ["<lightweight | medium | heavy — one or more>"],
+    "logic": ["<rigorous | intelligent — one or more>"]
+  },
+  "detail_refs": [
+    {
+      "file": "<source>/details.md",
+      "lines": [0, 0]
+    }
+  ],
+  "prompt_refs": [
+    "<source>/prompts/<file>.md"
+  ]
+}

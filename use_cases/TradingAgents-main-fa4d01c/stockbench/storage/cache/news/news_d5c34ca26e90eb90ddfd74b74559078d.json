@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Chime prices IPO at $27 per share to raise $864 million",
+      "description": "* IPO values Chime at roughly $11.6 billion on fully dilutedbasis * Chime was valued at $25 billion during last major fundinground * Chine...",
+      "published_utc": "2025-06-12T03:21:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7e84682e1d37b2f7b5dde5b83461e299edcefd5c4ecf5fadceebcc811a8c8832",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135194944,
+      "datetime": 1749669669
+    },
+    {
+      "title": "Crypto Industry-Backed Stablecoin Bill Advances in US Senate",
+      "description": "(Bloomberg) -- The Senate advanced bipartisan stablecoin legislation supported by the crypto industry and President Donald Trump, with final passage of the measure likely next week. Most Read from BloombergTrump’s Military Parade Has Washington Bracing for Tanks and WeaponryShuttered NY College Has Alumni Fighting Over Its FutureNY Long Island Rail Service Resumes After Grand Central FireNYC Renters Brace for Price Hikes After Broker-Fee BanNYC Mayoral Candidates All Agree on Building More Housi",
+      "published_utc": "2025-06-12T02:45:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30557cdacbad22c917b628396591549e85b89414d304a522c16b4aeb13ef1cec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135193793,
+      "datetime": 1749667532
+    },
+    {
+      "title": "Visa (NYSE:V) Expands Payment Security With Worldpay and Launches Innovative Tap to Pay Gift Card",
+      "description": "Visa (NYSE:V) recently announced a partnership with Worldpay to enhance online transaction security through 3D Secure, and Blackhawk Network launched a secure Tap to Pay Visa Gift Card, bolstering Visa's innovation in secure payment solutions. These developments may have augmented investor confidence, evidenced by Visa's 11% share price increase last quarter, potentially bolstered by favorable market conditions and broader U.S. index gains. Additionally, Visa's financial performance,...",
+      "published_utc": "2025-06-12T01:52:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7491022b88335b81ab97bd7d09995165f0673d5f33e036f807b7a8c8d4a6542f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135192902,
+      "datetime": 1749664332
+    },
+    {
+      "title": "Visa Signs Football Phenom Lamine Yamal as a Global Ambassador for FIFA World Cup 26™",
+      "description": "SAN FRANCISCO, June 11, 2025--With exactly one year to go until the FIFA World Cup 26™ kicks off across Canada, Mexico and the United States, Visa (NYSE: V) — a global leader in digital payments and long-standing supporter of world football — today announced that Lamine Yamal, one of the game’s brightest rising stars, will serve as a global ambassador for the tournament.",
+      "published_utc": "2025-06-12T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8303f1728edfbb2eae4df5f50b8e8b87c0fb654562550e56d1dfdf68822884ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135192903,
+      "datetime": 1749657600
+    },
+    {
+      "title": "Visa refreshes Infinite card benefits across 18 Asia Pacific markets",
+      "description": "Visa, a global leader in digital payments, today announced refreshed card benefits for Visa Infinite in 18 markets[1] across Asia Pacific. Visa recognises that affluent consumers seek to enhance their life's moments. To meet their evolving preferences, Visa offers Infinite cardholders access to elevated experiences – from the everyday to the extraordinary.",
+      "published_utc": "2025-06-11T19:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cde47ef169716db8731ccaf8ff9da0dddd4d88b6400c72f20ad5dc5a6ef15828",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135179989,
+      "datetime": 1749639780
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:58.529377+00:00",
+    "cache_key": "news_d5c34ca26e90eb90ddfd74b74559078d",
+    "count": 5
+  }
+}

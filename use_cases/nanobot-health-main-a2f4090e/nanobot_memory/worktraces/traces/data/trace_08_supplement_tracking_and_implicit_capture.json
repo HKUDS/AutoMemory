@@ -1,0 +1,181 @@
+{
+  "trace_id": "trace_08_supplement_tracking_and_implicit_capture",
+  "description": "Tests (1) high-density health info in one turn: shellfish allergy + 3 supplements with doses (vitamin D, magnesium, fish oil) must all be captured; (2) medication discontinuation with specific reason preserved in recall; (3) implicit symptom mentions in non-health context: knee pain while discussing hiking, orthostatic dizziness while discussing coffee; (4) two symptoms reported in one turn (dizziness + foot tingling). Failure modes: only some supplements captured from a busy turn; implicit symptoms not extracted because the user frames them as non-issues; allergy noted only briefly gets dropped.",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "Can you recommend a good noise-canceling headphone under $200?"},
+        {"role": "assistant", "content": "Best value noise-canceling under $200: Sony WH-1000XM4 (often $250 but regularly dips to $180–200 on sale — best ANC in the price range), Anker Soundcore Q45 (~$70 budget pick — surprisingly good ANC), JBL Tune 770NC (~$100, lighter, good for workouts). If Spotify's audio quality matters, go Sony — it also has multipoint connection for switching between devices. For calls: Jabra Evolve2 55 if you can stretch the budget slightly. Bose QuietComfort 45 is slightly above budget but exceptional for long sessions."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good ways to improve my home's internet speed?"},
+        {"role": "assistant", "content": "Home internet speed improvements: (1) Router placement — center of home, elevated, away from microwaves and cordless phones. (2) Upgrade to Wi-Fi 6 (802.11ax) router if yours is 5+ years old. (3) Ethernet for stationary devices (gaming, streaming, desktop) — always faster than Wi-Fi. (4) Check your ISP plan — if you're getting near your plan cap, upgrade first. (5) Mesh network (Eero, Google Nest WiFi) for larger homes with dead zones. (6) 5GHz band for close devices (faster), 2.4GHz for far devices (longer range). Run a speed test from the router's Ethernet port first to rule out ISP issues."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Oh, before I forget — I should tell you a few health things so you can track them. I'm allergic to shellfish, by the way — found that out after a bad reaction to shrimp at a restaurant about 3 years ago, ended up needing an EpiPen, so it's serious. Also I've been taking aspirin 81mg every morning for heart health, my doctor started me on it about 2 years ago. And over the past month I've started adding some supplements: vitamin D 3000 IU daily, magnesium glycinate 400mg at bedtime, and fish oil 2000mg daily. Just wanted to get all that in the record."},
+        {"role": "assistant", "content": "Got all of that recorded in your health profile:\n\n**Allergy added:** Shellfish — anaphylactic reaction (required EpiPen) after shrimp exposure ~3 years ago. Severity: severe.\n\n**Medication:** Aspirin 81mg once daily (every morning) — started ~2 years ago, cardiovascular prevention.\n\n**Supplements added:**\n- Vitamin D 3000 IU daily\n- Magnesium glycinate 400mg at bedtime\n- Fish oil 2000mg daily\n\nEpiPen-requiring shellfish allergy is a critical safety note — this will be flagged whenever seafood-related topics come up. Is there a carry-around EpiPen in your current setup?"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are the best strategies for negotiating with a contractor for home renovation?"},
+        {"role": "assistant", "content": "Contractor negotiation tips: (1) Get 3+ quotes — creates competition and gives you market data. (2) Understand the scope fully before negotiating — vague scope creates change orders. (3) Negotiate on total value: material upgrades, warranty length, payment terms, timeline. (4) Pay schedule tied to milestones, not calendar — last payment (~10%) held until punch list complete. (5) Lump sum vs. time-and-materials: lump sum better for well-defined projects; T&M better for unknowns (like opening walls). (6) Written contract with specific material specs (not 'similar quality'). Never pay more than 30% upfront."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you explain the concept of opportunity cost?"},
+        {"role": "assistant", "content": "Opportunity cost is the value of the best alternative you give up when making a choice. It's not just money — it includes time, resources, and options. Classic examples: going to college costs tuition AND the income you'd have earned working. Choosing stock A means forgoing whatever stock B would have returned. It applies everywhere: watching Netflix instead of studying, keeping cash in a savings account vs. investing it. The key insight: every choice has a cost beyond the direct payment, and rational decision-making requires accounting for what you're giving up. Many personal finance mistakes come from ignoring opportunity cost (e.g., paying off a 3% mortgage instead of investing at expected 7% returns)."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I've been thinking about planning a road trip across the American Southwest. Any tips?"},
+        {"role": "assistant", "content": "Southwest road trip essentials: must-stops include Zion (best: Angels Landing and Narrows), Bryce Canyon (Navajo Loop + Queen's Garden), Arches (Delicate Arch at sunrise), Monument Valley (scenic drive), Grand Canyon (South Rim for first timers). Book accommodations 6+ months ahead — this corridor is extremely popular. Carry extra water in the car — desert heat is unforgiving and cell service is sparse. Best timing: spring (March–May) or fall (September–October) for temperature. Consider the Grand Circle route: Las Vegas → Zion → Bryce → Capitol Reef → Canyonlands → Arches → Monument Valley → Grand Canyon → Las Vegas."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I had a follow-up with my cardiologist last week. She reviewed the evidence again and said for someone my age and risk profile, the bleeding risk from daily aspirin actually outweighs the cardiac benefit — the guidelines changed a few years ago. So she told me to stop the aspirin 81mg. No replacement, just stopping it. She documented it in my chart."},
+        {"role": "assistant", "content": "Health record updated: Aspirin 81mg daily — discontinued as of this week. Reason: cardiologist recommendation — per updated guidelines, bleeding risk outweighs cardiovascular benefit for your current age and risk profile. No replacement medication. This reflects a real shift in cardiology guidelines over the past several years; the previous blanket recommendation for primary prevention has been scaled back significantly. I've noted the reason in your medication history so context is preserved."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's a good approach to learning music theory as an adult with no prior background?"},
+        {"role": "assistant", "content": "Adult music theory learning path: (1) Start with the basics — major scale construction and intervals (YouTube: Adam Neely, 12tone, or Musictheory.net is excellent and free). (2) Learn chord construction — major, minor, diminished, augmented triads and how they come from scales. (3) Pick an instrument alongside theory — piano is ideal for visualizing relationships; guitar works too. (4) Apply to songs you love — analyze the chord progression of a song you know. (5) Musictheory.net has structured lessons and exercises. Apps: Tenuto for ear training, Perfect Ear for interval recognition. Theory makes most sense when you hear it, not just read it — apply everything immediately."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I want to start hiking more. What gear should I prioritize as a beginner?"},
+        {"role": "assistant", "content": "Beginner hiking gear priority order: (1) Footwear — trail runners or low-cut hiking shoes (not boots for most trails). Brands: Salomon Speedcross, HOKA Speedgoat, Merrell Moab. Break them in before a long hike. (2) Moisture-wicking base layer — avoid cotton (kills in wet conditions). (3) Daypack 15–25L with hydration reservoir or water bottle holder. (4) Trekking poles for descents and joint protection — optional but worth it for 5+ mile hikes. (5) Navigation: download AllTrails offline before you go, carry a battery pack. Don't forget: sun protection (hat, sunscreen), blister care kit, and always more water than you think you need."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I want to do the Zion Narrows hike but my left knee has been giving me trouble on descents lately, especially stairs. Would that hike be a problem?"},
+        {"role": "assistant", "content": "I've noted the knee issue — left knee pain on descents and stairs is worth tracking as a symptom. For the Narrows specifically: the main concern would be uneven river bottom footing and stream crossings, not significant descents (the Narrows is mostly flat to gentle). However, your knees will be stressed by hours of wading over rocks. Trekking poles (or the Zion rental canyoneering sticks) are essential and will offload significant force from your knees. If the pain is recent and worsening, worth a check with an orthopedist before a long hike to rule out patellofemoral syndrome or meniscus issues."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any good podcast recommendations for learning about history?"},
+        {"role": "assistant", "content": "Best history podcasts: 'Hardcore History' by Dan Carlin — deeply researched, narrative-driven, episodes are 4–6 hours (so good, worth the length). 'Revolutions' by Mike Duncan — serious and chronological coverage of major revolutions. 'The British History Podcast' — incredibly detailed if you like Anglo-Saxon era forward. 'American History Tellers' — Wondery, accessible production. 'Fall of Civilizations' — short run but gorgeous production on collapsed societies. 'The Rest is History' — two Oxford historians riff through history topics, very entertaining. Start with Dan Carlin's 'Blueprint for Armageddon' (WWI) if you're not sure — it's extraordinary."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Something I've noticed in the mornings — I've started getting a bit dizzy when I stand up from bed or from a chair. Like a lightheaded rush for a second or two, then it passes. I also have this weird tingling or pins-and-needles sensation in my left foot, mostly in the toes — it's been happening for maybe 2 weeks now, usually after sitting for a while. I'm sure it's nothing serious — probably just need to stretch more or drink more water."},
+        {"role": "assistant", "content": "Logged both as symptoms worth tracking:\n\n**Symptom 1: Orthostatic dizziness** — brief lightheaded rush upon standing (bed or chair), lasts 1–2 seconds then resolves. This is orthostatic hypotension — a transient BP drop on position change. Worth monitoring; common causes include dehydration, some medications, and postural deconditioning. Mention to your doctor if it worsens, occurs with falls risk, or if you're on any new medications that could cause it.\n\n**Symptom 2: Left foot paresthesia** — pins-and-needles in left toes, 2 weeks duration, triggered or worsened by prolonged sitting. Could be mild nerve compression (peroneal or tibial) from sitting position. If it persists or spreads, or if you have any diabetes history, this is worth evaluating — peripheral neuropathy screening is a routine check."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I keep hearing about 'slow fashion' — what does it actually mean and is it worth it?"},
+        {"role": "assistant", "content": "Slow fashion is the counter-movement to fast fashion: buying fewer, higher-quality, longer-lasting garments rather than disposable trend items. The 'worth it' calculation: a $150 wool sweater worn 300 times costs $0.50 per wear vs. a $20 polyester sweater worn 15 times that costs $1.33 per wear. Environmental argument: fast fashion is the 2nd largest industrial water polluter. Practical approach: (1) Buy less, buy better — quality natural fibers (wool, cotton, linen) last longer. (2) Thrift and second-hand first. (3) Care for what you own (hand wash, line dry). Brands: Everlane (accessible), Patagonia (outdoor), Quince (affordable basics made in quality factories). You don't have to make it ideological — just buy less."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the most important thing to know about compound interest?"},
+        {"role": "assistant", "content": "The most important thing about compound interest: time is the dominant variable, not the rate. A 7% return over 40 years turns $10,000 into ~$150,000. The same money over 20 years only reaches $38,000. The difference is $112,000 from the extra 20 years, not a higher rate. Practical implications: (1) Start investing early — the opportunity cost of waiting in your 20s is catastrophic by retirement. (2) Don't interrupt compounding — taking money out resets the clock. (3) Fees eat compounding — a 1% management fee seems small but costs ~25% of your terminal value over 30 years. (4) Tax-advantaged accounts (401k, Roth IRA) protect compound growth from tax drag."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I know if I have good posture while sitting at a computer?"},
+        {"role": "assistant", "content": "Good seated posture checklist: (1) Monitor top at or slightly below eye level — no neck craning. (2) Arms at ~90° at elbows, shoulders relaxed (not shrugged), wrists neutral. (3) Lower back supported (lumbar support or rolled towel) with natural curve. (4) Feet flat on floor (or footrest) — hips slightly above knees. (5) Head directly over shoulders — 'ears over shoulders' rule — not jutting forward (text neck). Red flags: upper back rounding, monitor too low (forces neck down), wrists bent while typing. Most important: take micro-breaks every 30 minutes — even good posture causes strain if held for hours. Standing desk alternation is better than perfect seated posture alone."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's a good way to get into cooking if you've never cooked much beyond basics?"},
+        {"role": "assistant", "content": "Learning to cook from scratch: (1) Start with 5 foundational techniques, not recipes: sauté, roast, simmer, steam, braise. Once you understand these, you can cook almost anything. (2) Get one good knife (8-inch chef's knife, Victorinox Fibrox is excellent for $40) and learn to keep it sharp. (3) Use Salt Fat Acid Heat by Samin Nosrat — it teaches cooking principles, not just recipes. (4) Cook the same 5 dishes until they're automatic, then expand. Suggested starter repertoire: roasted chicken thighs, pasta with tomato sauce, sautéed vegetables, a grain salad, scrambled eggs done properly. (5) Mise en place — prep everything before you start cooking. It slows you down initially and speeds you up permanently."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I had a blood draw done last week — routine stuff my doctor ordered. Results came in: fasting glucose 98 mg/dL (normal range), cholesterol total 187 mg/dL, LDL 108, HDL 52, triglycerides 136, all in normal range. CBC was normal. Vitamin D level was 42 ng/mL which is good — my doctor says the supplementation is working. Kidney and liver function panels normal. She was happy with everything."},
+        {"role": "assistant", "content": "Lab results logged from recent blood draw:\n- Fasting glucose: 98 mg/dL — normal range\n- Total cholesterol: 187 mg/dL (normal)\n- LDL: 108 mg/dL (normal)\n- HDL: 52 mg/dL (good)\n- Triglycerides: 136 mg/dL (normal)\n- CBC: normal\n- Vitamin D: 42 ng/mL — adequate (supplementation effective at 3000 IU daily)\n- Kidney and liver function panels: normal\n\nSolid results across the board. The Vitamin D level confirms your 3000 IU daily supplementation is bringing you into the optimal range (30–50 ng/mL). I've recorded all values in your care timeline."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some of the most impressive things about octopuses?"},
+        {"role": "assistant", "content": "Octopuses are remarkable for several reasons: (1) Distributed nervous system — 2/3 of their neurons are in their arms, which act semi-independently. An arm can continue solving a maze even separated from the body. (2) Three hearts and blue blood (copper-based hemocyanin — more efficient in cold, low-oxygen water). (3) Color-changing despite being colorblind — uses photoreceptors in the skin itself, not just the eyes. (4) Tool use — certain species collect coconut shell halves and carry them as portable shelters. (5) Short lifespan (1–3 years) combined with complex cognition — suggests intelligence can evolve without longevity. (6) Each arm has chemical sensors — they literally taste everything they touch."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How does the US healthcare system differ from single-payer systems in other countries?"},
+        {"role": "assistant", "content": "Key differences between the US multi-payer system and single-payer (e.g., Canada, UK NHS, Taiwan): Financing: single-payer uses government-collected taxes to pay for all residents; US uses a mix of employer insurance, government programs (Medicare, Medicaid), and out-of-pocket. Access: single-payer provides universal coverage; ~25 million Americans are uninsured. Cost: the US spends ~17% of GDP on healthcare vs. 9–12% in comparable single-payer countries, with generally worse population health outcomes. Wait times: single-payer systems often have longer waits for non-urgent care but immediate access for emergencies. Provider autonomy: varies significantly — UK NHS employs doctors; Canada's doctors are independent contractors who bill the single payer."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any tips for reducing decision fatigue throughout the day?"},
+        {"role": "assistant", "content": "Decision fatigue reduction strategies: (1) Front-load decisions — schedule your most important choices in the morning before cognitive resources deplete. (2) Routinize trivial decisions — same breakfast options, same work start routine — reduces the cognitive cost of recurring choices. (3) Default rules — establish if-then rules in advance ('if restaurant, default to grilled fish') so you're not making fresh choices under pressure. (4) Time-boxing decisions — give yourself 10 minutes max for low-stakes choices. (5) Reduce option sets — too many choices is genuinely cognitively expensive. (6) Batch similar decisions — handle all emails at 10am and 3pm instead of continuously. (7) Take real breaks — even 10-minute recovery intervals restore executive function."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are the best ways to learn a new programming language if you already know one well?"},
+        {"role": "assistant", "content": "Fastest path to a second language once you already know one: (1) Skip the basics tutorial — find the 'X for Y programmers' guide (e.g., 'Rust for Python programmers'). You understand programming; you're learning syntax and idioms. (2) Build something you'd actually build in your primary language — reimplement a tool you've already built. (3) Learn the language's idiomatic patterns — every language has 'the right way' to do common tasks. For Python: list comprehensions; for Rust: ownership patterns; for Go: goroutines/channels. (4) Read existing codebases in the language — search GitHub for well-maintained projects in your domain. (5) Use the language's ecosystem: package manager, testing framework, formatter from day one — these cement habits."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "shellfish allergy",
+      "expected_information": [
+        "shellfish",
+        "/EpiPen|anaphyl|severe/"
+      ]
+    },
+    {
+      "query": "vitamin D supplement",
+      "expected_information": [
+        "/vitamin D|vitamin d/",
+        "/3000 IU|3000/"
+      ]
+    },
+    {
+      "query": "supplements",
+      "expected_information": [
+        "/magnesium|Mg/",
+        "/fish oil|omega/",
+        "/400mg|400 mg/"
+      ]
+    },
+    {
+      "query": "aspirin",
+      "expected_information": [
+        "aspirin",
+        "/discontinu|stopped|stop/"
+      ]
+    },
+    {
+      "query": "dizziness",
+      "expected_information": [
+        "/dizzi|lightheaded|orthostatic/",
+        "/stand|standing/"
+      ]
+    },
+    {
+      "query": "tingling foot",
+      "expected_information": [
+        "/tingle|tingling|pins.and.needles|paresthesia/",
+        "/foot|toe/"
+      ]
+    }
+  ]
+}

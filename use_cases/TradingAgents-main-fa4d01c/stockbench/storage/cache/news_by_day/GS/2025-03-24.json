@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow up 564 points on gains in NVIDIA Corp., Amazon.com Inc. stocks",
+      "description": "Dow up 564 points on gains in NVIDIA Corp., Amazon.com Inc. stocks",
+      "published_utc": "2025-03-24T23:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=62404e210a1d8f80f3295148bde9ca96f81d34cf495c874acf4ac29c35e82113",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360702,
+      "datetime": 1742828700
+    },
+    {
+      "title": "NVIDIA Corp., Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "description": "NVIDIA Corp., Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "published_utc": "2025-03-24T21:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=06d61a0b5a607cc8daa4d8455b0f14187d42b7e92953646db6becea0f1a2fcc2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360705,
+      "datetime": 1742821320
+    },
+    {
+      "title": "Ariel Focus Fund Q4 2024 Commentary",
+      "description": "In Q4 2024, Ariel Focus Fund outperformed the Russell 1000 Value Index, marginally falling -1.19% versus -1.98% for its primary benchmark. Click here to read the full commentary.",
+      "published_utc": "2025-03-24T19:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=38f1b68c56ac8f5e0813c91b79b6028bca37d7588198036b76d1e876e6bee0f4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445112461/image_1445112461.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133343264,
+      "datetime": 1742816400
+    }
+  ]
+}

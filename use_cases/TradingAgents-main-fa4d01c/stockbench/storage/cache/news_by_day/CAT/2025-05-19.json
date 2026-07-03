@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Top Corporate Board Directors",
+      "description": "The Top Corporate Board Directors",
+      "published_utc": "2025-05-19T04:31:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3a8da79ef0fea5374c3f6ca6012be9e16fbb63d9a0d64bd39aac240b57995d59",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581204,
+      "datetime": 1747600260
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Amgen: Reducing My Price Target, Reiterate Buy After A Solid Q1",
+      "description": "Amgen's fundamentals stay strong with rising EPS, dividend yield, and new drug momentum, despite technical pullbacks. See why AMGN stock is a buy.",
+      "published_utc": "2025-05-04T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b4f28c33cebdec26235dd5146715ebb154a8e16268551c369a198b992ac19b83",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1401241138/image_1401241138.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134238362,
+      "datetime": 1746354600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:24.214951+00:00",
+    "cache_key": "news_fbd8e5a0109af6b31cffbd70c579c9ce",
+    "count": 1
+  }
+}

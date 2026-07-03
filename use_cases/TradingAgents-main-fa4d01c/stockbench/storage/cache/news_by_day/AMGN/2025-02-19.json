@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Aristotle Global Equity Q4 2024 Commentary",
+      "description": "For Q4 2024, Aristotle Capitalâs Global Equity Composite posted a total return of -7.72% gross of fees (-7.80% net of fees). Click here to read more.",
+      "published_utc": "2025-02-19T11:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c0014d4bc8368d4fab1e7fbb5365a9e3aa0f99d91a921306589705534fa598ab",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193247114/image_2193247114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132782563,
+      "datetime": 1739934600
+    }
+  ]
+}

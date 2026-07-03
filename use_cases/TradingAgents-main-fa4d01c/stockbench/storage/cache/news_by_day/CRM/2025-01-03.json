@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Salesforce.com (CRM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "The latest trading day saw Salesforce.com (CRM) settling at $330.66, representing a -1.1% change from its previous close.",
+      "published_utc": "2025-01-03T06:45:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4fffe8622de045c32e2a792c798f52d2226f620fa06d0055835ac85a6023245",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/8442d24e11d454aa89061259a9714d43",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132244854,
+      "datetime": 1735857921
+    },
+    {
+      "title": "Software AI Stocks Start Off 2025: Palantir Falls, SoundHound Wavers, Snowflake Climbs",
+      "description": "Palantir stock and other software AI stocks turned in mixed results on the first day of 2025 trading. SoundHound stock wavered.",
+      "published_utc": "2025-01-03T01:08:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e6a5b8851a68ba02060a82a69a56376306ebf5c33c9daf0ee1b76ccc20ab8f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240464,
+      "datetime": 1735837693
+    },
+    {
+      "title": "Salesforce.com (CRM) Down 9.1% Since Last Earnings Report: Can It Rebound?",
+      "description": "Salesforce.com (CRM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "published_utc": "2025-01-03T00:30:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34524eb3b8e2cd1670b44f24ba5f3eccc47353982610490fb7bbc5df39313707",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/e8e4b0344809eaac6d73c9fd25fd180a",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240539,
+      "datetime": 1735835406
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Five Themes for Investors to Watch as Earnings Season Kicks Off",
+      "description": "(Bloomberg) -- In just three months, US stocks have swung from a dramatic April selloff to new heights. Now, traders are about to see if Corporate America’s report cards justify the optimism priced into equity markets.Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortWhy Did Cars Get So Hard to See Out Of?Can Americans Just Stop Building New Highways?How German Cities Are Rethinking Women’s Safety — With TaxisPhiladelphia Trash Piles Up as Garbage",
+      "published_utc": "2025-07-12T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bd89616a665902b5e12becfda849bdde22e43543ffee356c0afb0318f8b0a53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135898866,
+      "datetime": 1752325200
+    }
+  ]
+}

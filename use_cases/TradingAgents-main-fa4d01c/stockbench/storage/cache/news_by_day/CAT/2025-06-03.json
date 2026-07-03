@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Boeing share gains lead Dow's nearly 225-point climb",
+      "description": "NVIDIA Corp., Boeing share gains lead Dow's nearly 225-point climb",
+      "published_utc": "2025-06-03T21:07:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=24473bac17fd341097f3717b3bbb97d5174fd7aabb2936c43c02c167e37e5cef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134982145,
+      "datetime": 1748956020
+    },
+    {
+      "title": "NVIDIA Corp., Chevron share gains contribute to Dow's 112-point jump",
+      "description": "NVIDIA Corp., Chevron share gains contribute to Dow's 112-point jump",
+      "published_utc": "2025-06-03T19:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=648de00360276eeaeb3e2abafbba48bb2a66cbde7df936a6b4f949f2c2dd1c56",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134982146,
+      "datetime": 1748949900
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "This guy has 45 credit cards. Here’s what you can learn from his strategy.",
+      "description": "This guy has 45 credit cards. Here’s what you can learn from his strategy.",
+      "published_utc": "2025-06-28T17:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9e8d3a641a874851525f2d34504dd1aa6b98c01394cce89bfff16353230acc60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135622588,
+      "datetime": 1751103180
+    },
+    {
+      "title": "American Express Company Is Quietly Becoming a Dividend Pick",
+      "description": "American Express Company (NYSE:AXP) is one of the Best Stocks to Buy for Dividends. American Express Company (NYSE:AXP) is a leading financial company that earns revenue by processing payments and issuing its own credit cards. It collects fees from both transactions and cardholders. As of June 25, the stock offers a dividend yield of 1.06%, […]",
+      "published_utc": "2025-06-28T13:59:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73afb0f3865748116bbce2bf433fa4fb27f4c5123d937a1640a33a590485fa6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623848,
+      "datetime": 1751090371
+    },
+    {
+      "title": "American Express: Don't Chase The Rally",
+      "description": "",
+      "published_utc": "2025-06-28T09:08:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3d4a99941c3a0a83e0e6cdaa22ae4bbd35304e3d68d7deb7c681de4eafcfc027",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135602313,
+      "datetime": 1751072884
+    },
+    {
+      "title": "Warren Buffett donates record $6 billion Berkshire shares",
+      "description": "(Reuters) -Warren Buffett donated on Friday another $6 billion of Berkshire Hathaway stock to the Gates Foundation and four family charities, his biggest annual donation since he began giving away his fortune nearly two decades ago. The donation of about 12.36 million Berkshire Class B shares boosted Buffett's overall giving to the charities to well over $60 billion. He donated 9.43 million shares to the Gates Foundation; 943,384 shares to the Susan Thompson Buffett Foundation; and 660,366 shares to each of three charities led respectively by his children Howard, Susie, and Peter: the Howard G. Buffett Foundation, Sherwood Foundation and NoVo Foundation.",
+      "published_utc": "2025-06-28T08:49:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48de27e1e2d3b2572ac538a0289e7d48bb621888f51fbf7002b882504e24bac9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135599804,
+      "datetime": 1751071793
+    }
+  ]
+}

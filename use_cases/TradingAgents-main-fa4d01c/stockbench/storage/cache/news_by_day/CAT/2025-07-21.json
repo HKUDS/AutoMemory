@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM): It’s Good Because Of NVIDIA, Says Jim Cramer",
+      "description": "We recently published 10 Stocks Jim Cramer Discussed As He Shared Key Insights From Morgan Stanley’s CEO. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the stocks Jim Cramer recently discussed. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is the world’s largest semiconductor contract manufacturer. Its shares, traded as depository receipts, have gained 21% year-to-date. […]",
+      "published_utc": "2025-07-21T20:38:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67a1ef7f5901d6ad03b0e818ee5144bda1b4d943b779e9baee3da9aa73592f90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025246,
+      "datetime": 1753101511
+    },
+    {
+      "title": "Caterpillar Inc. (CAT): Trump’s Bill “Is Made” For Caterpillar, Says Jim Cramer",
+      "description": "We recently published 8 Stocks That Jim Cramer Recently Talked About. Caterpillar Inc. (NYSE:CAT) is one of the stocks Jim Cramer recently discussed. Caterpillar Inc. (NYSE:CAT) is a well-known construction and agricultural machinery company. Cramer has started to regularly discuss the firm after President Trump’s Big Beautiful Bill cleared the House and Senate and was […]",
+      "published_utc": "2025-07-21T20:34:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=894c8024a5b515944a68bc58f427f5c4b244d35348488d5eafa436c47bb72ff5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025526,
+      "datetime": 1753101281
+    },
+    {
+      "title": "Caterpillar: Risks Rise As Sentiment Makes A 180",
+      "description": "",
+      "published_utc": "2025-07-21T19:55:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d29b32f4c868ffb0f11403683b0b0d756c0c076aa5eb859095484baef80ed976",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136026078,
+      "datetime": 1753098956
+    },
+    {
+      "title": "Verizon, Nike share gains lead Dow's 125-point jump",
+      "description": "Verizon, Nike share gains lead Dow's 125-point jump",
+      "published_utc": "2025-07-21T17:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4235872878086f3d8986ea6ed070cf08060d4d8a829fed49f8a65fab62e64034",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136041326,
+      "datetime": 1753091760
+    }
+  ]
+}

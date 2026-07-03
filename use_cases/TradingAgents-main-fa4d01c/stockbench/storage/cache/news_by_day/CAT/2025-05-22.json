@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "description": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-05-22T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6a41cbf5accdefc94acaa3af5377872c189c35e4dc6227617b4b7732f167cdf0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134634567,
+      "datetime": 1747845300
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tracking Chris Hohn's TCI Fund Management 13F Portfolio - Q4 2024 Update",
+      "description": "Read here for key insights from TCI Fund Management's 13F portfolio, including top holdings, stake changes in MSFT and GE, and key investments.",
+      "published_utc": "2025-03-25T09:41:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=12238d27c8271af5c7de95d6eebbd074ee535e9ea8e4d4f1cbabd9544cc1ad93",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/629073396/image_629073396.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133361971,
+      "datetime": 1742866882
+    }
+  ]
+}

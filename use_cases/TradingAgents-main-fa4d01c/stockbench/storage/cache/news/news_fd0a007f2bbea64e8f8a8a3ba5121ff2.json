@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Alphabet May Become The Largest Company In The World, Here's How",
+      "description": "I believe that Alphabet (GOOGL) is moving more rapidly to grow a number of its divisions. See why I think it may become the largest company in the world.",
+      "published_utc": "2025-04-14T05:19:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b437efb93217ac04155848658e9974d3560f198ebeb0fddd8ceaa26ad44e1648",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186836579/image_186836579.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133902597,
+      "datetime": 1744579173
+    },
+    {
+      "title": "DJD: Dividend And Value In Mega Caps",
+      "description": "Discover how the Invesco DJD ETF compares to popular dividend ETFs with balanced sector exposure, strong value traits, and insights on yields and...",
+      "published_utc": "2025-04-13T22:12:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3814e8985460c1a7daafd9627c1aa365e76705ede58ad1cd79cffc47239cd0a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1854380206/image_1854380206.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901227,
+      "datetime": 1744553567
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:23.192473+00:00",
+    "cache_key": "news_fd0a007f2bbea64e8f8a8a3ba5121ff2",
+    "count": 2
+  }
+}

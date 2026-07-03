@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nice price target raised to $195 from $185 at DA Davidson",
+      "description": "DA Davidson raised the firm’s price target on Nice (NICE) to $195 from $185 and keeps a Buy rating on the shares, having attended the company’s Interactions 2025 event and also its announced enhanced strategic partnerships with AWS (AMZN) and Snowflake (SNOW) to help organizations implement AI for CX use cases. The firm is also boosting its FY25 EPS view by 6c to $12.40 and its FY26 view by 56c to $13.27 to reflect ramping contributions from recent enterprise deals and limited macro headwinds, t",
+      "published_utc": "2025-06-21T21:10:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dddf8deded90425902cf2c45abf1383a2c01f514de886c89a1382e9a42082d31",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454969,
+      "datetime": 1750511438
+    },
+    {
+      "title": "Is Visa Stock a Buy Now?",
+      "description": "Visa has a new challenger emerging to threaten its ecosystem.",
+      "published_utc": "2025-06-21T20:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d68d82cb1b1af1d210b32e6c8f9e120360513b11c775faf215041522d53a0d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135455601,
+      "datetime": 1750509900
+    },
+    {
+      "title": "3 Life-Changing Stocks to Buy Today",
+      "description": "Amazon is the leader in two huge growth industries.  MercadoLibre still has a lot of room for growth in both e-commerce and fintech.  Anyone who regularly saves and invests their money in the stock market can build wealth.",
+      "published_utc": "2025-06-21T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6496814445b1b281cbd3e3e98ee92f1be828e9455c7da392b9216ab9b55fe53d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456826,
+      "datetime": 1750507200
+    },
+    {
+      "title": "If I Could Buy Only 1 \"Magnificent 7\" Stock Over the Next Year, Alphabet Would Be It, but Here's the Key Reason",
+      "description": "Alphabet stock is lagging behind other Magnificent 7 stocks, but is that a buying opportunity?",
+      "published_utc": "2025-06-21T19:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96b720b0c9eefdad3cf32236d5f950d4254dc771f7335a29a1159d48b2629356",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454683,
+      "datetime": 1750506660
+    },
+    {
+      "title": "Nvidia Stock Prediction, From Someone Who Has Invested for Decades",
+      "description": "The big winner of the first phase of the artificial intelligence (AI) revolution has clearly been Nvidia.  As competition heats up in the AI chips market, cloud services providers could benefit.  In the span of only a few years, Nvidia (NASDAQ: NVDA) has become one of the largest stocks in the world.",
+      "published_utc": "2025-06-21T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34345eeea19c29d7110b34d52e65fce33400a91ed07c371fa0022cf2c23865f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454685,
+      "datetime": 1750503600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:44.211816+00:00",
+    "cache_key": "news_c965f38cc08ca08df16d1b20dd52b0d2",
+    "count": 5
+  }
+}

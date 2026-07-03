@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Southwest Airlines to cut 1,750 corporate positions in first nonvoluntary layoffs in its 53-year history",
+      "description": "Southwest Airlines to cut 1,750 corporate positions in first nonvoluntary layoffs in its 53-year history",
+      "published_utc": "2025-02-18T22:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4d6560a5f4a655a0e125dcdafba587932285b52960ec8bbaf59b76ee521ce9d4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132787619,
+      "datetime": 1739890680
+    },
+    {
+      "title": "Fire reported at aircraft fastener maker's factory in Pennsylvania, authorities say",
+      "description": "A large fire broke out at a Pennsylvania factory that makes fasteners for aircraft, but no injuries were reported, authorities said on Tuesday. The fire was reported at a commercial...",
+      "published_utc": "2025-02-18T22:30:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fe86c50eef9def441b21886597ff8c3baca339319874586c77705414ee0aefed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132779301,
+      "datetime": 1739889005
+    },
+    {
+      "title": "Bonds issued by defense contractors are being snapped up, as stocks fall on talk of spending cuts",
+      "description": "Bonds issued by defense contractors are being snapped up, as stocks fall on talk of spending cuts",
+      "published_utc": "2025-02-18T21:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cedbf3aa93530f534682c59aea4eba2dfa5b6e13e56e2ad12ac959a2123c8b3b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132786070,
+      "datetime": 1739885340
+    }
+  ]
+}

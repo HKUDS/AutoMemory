@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "description": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "published_utc": "2025-03-05T23:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=81e89f35d6261cbf1bf18f68f20315094b10be6b45e617a4a715b67f1db19283",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133052096,
+      "datetime": 1741187040
+    },
+    {
+      "title": "Wall Street Lunch: AI Agents For Sale",
+      "description": "OpenAI, the Microsoft (MSFT) backed maker of ChatGPT, could sell artificial intelligence agents that could cost as much as $20,000 a month.",
+      "published_utc": "2025-03-05T22:03:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b30c113a33fc8b3b0ec49d426ba32d7568cb9f9e008a57b9ddfa557c20edcf3b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1890221494/image_1890221494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133017348,
+      "datetime": 1741183380
+    },
+    {
+      "title": "Goldman Sachs names Dubner as COO global M&A-memo",
+      "description": "Goldman Sachs named David Dubner as chief operating officer of global mergers and acquisitions, according to a memo seen by Reuters on Wednesday, beefing up leadership in one of its most important...",
+      "published_utc": "2025-03-05T20:06:47",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5c36c452155bd49b76debf35a13bda675db5f0b1c4163fd30f9743ca9a9c5d12",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133015988,
+      "datetime": 1741176407
+    },
+    {
+      "title": "Goldman Sachs: The Biggest Dow Industrials Stock Is In Trouble",
+      "description": "Goldman Sachs is a market leader, and the biggest component of the Dow Jones Industrial Average. See why I rate GS stock a sell.",
+      "published_utc": "2025-03-05T19:01:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=65e90f88a08bc6bf28b416cdb417ab9c3d7a1e7dafc0d914ae06e92bd27ab0b6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1152898494/image_1152898494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133015709,
+      "datetime": 1741172480
+    },
+    {
+      "title": "BlackRock, Goldman Ace $19 Billion Purchase Of Panama Canal Ports",
+      "description": "BlackRock, Goldman Ace $19 Billion Purchase Of Panama Canal Ports",
+      "published_utc": "2025-03-05T18:12:39",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=261d71b4c890905de5fee6c59ff41c372ed6d855dbb8897f0d0b9813246a67c3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133018459,
+      "datetime": 1741169559
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:10.983747+00:00",
+    "cache_key": "news_9a49013e7300c1555b701354d0b2a2a0",
+    "count": 5
+  }
+}

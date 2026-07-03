@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "A Reckoning for the Magnificent Seven Tests the Market",
+      "description": "A Reckoning for the Magnificent Seven Tests the Market",
+      "published_utc": "2025-04-27T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d78fd119338fb90f20a8064840587a7090ab5f158c24169586a43d92f7aeb806",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126459,
+      "datetime": 1745701200
+    },
+    {
+      "title": "Tech Executives Are Starting to Talk Tariffs. What It May Mean for Apple, Amazon Earnings.",
+      "description": "Amazon, Apple, Meta, and Microsoft will need to address tariffs on earnings calls next week. Tech executives are sounding alarms.",
+      "published_utc": "2025-04-27T02:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd8d3f2d0cf04892de7ff792fd33ae6e9f036367f41c219b2b34278f3e3f1e4e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104319,
+      "datetime": 1745691240
+    }
+  ]
+}

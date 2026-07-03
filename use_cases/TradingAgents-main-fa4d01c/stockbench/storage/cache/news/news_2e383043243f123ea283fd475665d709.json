@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Hartford Quality Value ETF Q1 2025 Commentary",
+      "description": "Hartford Quality Value ETF outperformed the Russell 1000 Value Index during the quarter. Read more here.",
+      "published_utc": "2025-05-19T23:34:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=32d7f8e3fad37beafac16093e7991b97881be0f20a5ebc8c13eff3326c47e8ed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194081197/image_2194081197.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601056,
+      "datetime": 1747668840
+    },
+    {
+      "title": "Janus Henderson Balanced Fund Q1 2025 Commentary",
+      "description": "The Fund returned -2.05% and the S&P 500Â®Index returned -4.27%. The Bloomberg U.S. Aggregate Bond Index returned 2.78%. The Balanced Index returned -1.45%.",
+      "published_utc": "2025-05-19T18:46:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=afd2de04e75f146aa407e807b818159d04600d690b1f9426f93ceada4148ab74",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197655235/image_2197655235.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134580546,
+      "datetime": 1747651560
+    },
+    {
+      "title": "Amex offers virtual card to small businesses",
+      "description": "The company has long provided the service to corporate clients, but this month started letting small business owners pay suppliers who accept Amex without a physical card.",
+      "published_utc": "2025-05-19T17:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccf3ff49631db7f248cc06eb2a433e5c8798f6457150884163619f40bcdf0f90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601682,
+      "datetime": 1747645860
+    },
+    {
+      "title": "Capital One’s stock looks like a bargain following Discover acquisition",
+      "description": "Capital One’s stock looks like a bargain following Discover acquisition",
+      "published_utc": "2025-05-19T16:28:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=55d1783df774ae997e0c4d7972793b0a20185283188d0ab55a6e20d6a719435b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134581741,
+      "datetime": 1747643280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:23.476619+00:00",
+    "cache_key": "news_2e383043243f123ea283fd475665d709",
+    "count": 4
+  }
+}

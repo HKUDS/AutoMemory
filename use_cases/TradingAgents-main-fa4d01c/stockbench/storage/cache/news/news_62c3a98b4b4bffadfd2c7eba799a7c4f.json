@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce, Inc. (CRM) the Top Stock to Buy According to XN Exponent Advisors LLC?",
+      "description": "We recently published a list of Top 10 Stocks to Buy According to XN Exponent Advisors LLC. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other top stocks to buy according to XN Exponent Advisors LLC. Established in 2018 by Gaurav Kapadia, XN Exponent Advisors LLC is based […]",
+      "published_utc": "2025-03-26T05:52:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97944c1b2e7bf6cc7f1c83f18233461f9b5a2cbee25a7a2147ff2068172d4e9d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444870,
+      "datetime": 1742939576
+    },
+    {
+      "title": "Tracking Lone Pine Capital Portfolio - Q4 2024 Update",
+      "description": "Lone Pine Capital's 13F portfolio value increased slightly from $13.41B to $13.47B. Check out the new stakes and significant stake additions to the portfolio.",
+      "published_utc": "2025-03-26T04:59:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7b599a8cc87451e8f3c15fbf0e8c8056afc2603d09bb2b497796a664af570470",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1143979227/image_1143979227.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133428778,
+      "datetime": 1742936366
+    },
+    {
+      "title": "Salesforce (NYSE:CRM) Expands AI Capabilities With Deloitte Partnership, Shares Up 2%",
+      "description": "Deloitte and Salesforce (NYSE:CRM) have recently strengthened their strategic partnership to deliver innovative AI-driven solutions, which has positioned Salesforce to enhance its market presence significantly. This collaboration aligns with the broader market trends where mega-cap tech stocks are rising amidst a rebound rally, as seen in the slight gains of the S&P 500 and Nasdaq. Moreover, the integration of Salesforce’s Agentforce into Maximus's Total Experience Management solution...",
+      "published_utc": "2025-03-26T01:25:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6619c14fd84f735b92e8123f258000f617fe240000b7cf3737c39010ad01893",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444871,
+      "datetime": 1742923522
+    },
+    {
+      "title": "Why the Options Market Envisions Upside for Salesforce Stock (CRM)",
+      "description": "At first glance, enterprise software giant Salesforce (CRM) seems like a dubious investment. While there’s no denying its relevance, broader economic challenges have cast a dark shadow over the wider tech innovation space. Nevertheless, with Salesforce suffering a sizable drop over the past few months, the smart money appears to be moving in via astute options strategies. Therefore, I am bullish on CRM stock. CRM Stock Offers Relevance Despite Economic Turmoil Last year, investors couldn’t get e",
+      "published_utc": "2025-03-25T23:21:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9e6b353258e6f95f0d99a5418e8f9ece74ea813730a63272812b3d34af10656",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133444872,
+      "datetime": 1742916102
+    },
+    {
+      "title": "Salesforce, Inc. (CRM): Among the 10 Goldman Sachs Tech Stocks to Buy",
+      "description": "We recently published a list of Goldman Sachs Tech Stocks: 10 Stocks to Buy. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other top Goldman Sachs tech stocks to buy. The technology sector delivered a strong performance in 2024, driven by chip companies, which played a […]",
+      "published_utc": "2025-03-25T22:36:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f367e16f5de353c3be04e26627c0c8817b10844caacde92d9190122c48c73b5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133375599,
+      "datetime": 1742913405
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:29.934923+00:00",
+    "cache_key": "news_62c3a98b4b4bffadfd2c7eba799a7c4f",
+    "count": 5
+  }
+}

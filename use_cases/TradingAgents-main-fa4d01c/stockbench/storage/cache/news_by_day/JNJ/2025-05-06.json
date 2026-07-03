@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "MedTechs Adjust 2025 Outlook Amid Tariffs: What Investors Need to Know",
+      "description": "Most of the MedTech players have adjusted their 2025 forecasts in response to rising tariff pressure.",
+      "published_utc": "2025-05-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8eca391ed878559f19580d58c5c15add9e62bbf25f3ad831fb24fb413981660c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266282,
+      "datetime": 1746471600
+    },
+    {
+      "title": "Bristol Myers to invest $40 billion in the US over 5 years, CEO says",
+      "description": "Bristol Myers Squibb willspend $40 billion in the US over the next five years, CEOChristopher Boerner wrote in an opinion piece published by StatNews on Monday. Boerner said the money...",
+      "published_utc": "2025-05-06T01:29:53",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=981336b67f57a91f9e6627f928f0fe8decb33ef6321ca5e2ee511d7be2a770b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134251412,
+      "datetime": 1746466193
+    }
+  ]
+}

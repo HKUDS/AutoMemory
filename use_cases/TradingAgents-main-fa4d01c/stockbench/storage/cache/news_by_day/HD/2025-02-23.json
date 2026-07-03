@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Nvidia Earnings, Inflation Data, and More to Watch This Week",
+      "description": "Nvidia Earnings, Inflation Data, and More to Watch This Week",
+      "published_utc": "2025-02-23T22:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a5a295e29a58389c0b674584cb00512febdc65a228550b69a0b78442788d45a1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132882021,
+      "datetime": 1740319200
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Stay ahead this week with updates on Nvidia earnings, key inflation data, and GDP insights. Discover market trends and top earnings reports.",
+      "published_utc": "2025-02-23T15:07:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e74a6906f75d53957887fafe9ea14ddb083a1472ff03b4cd34df0d3b9188e225",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493247947/image_493247947.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132857197,
+      "datetime": 1740294458
+    }
+  ]
+}

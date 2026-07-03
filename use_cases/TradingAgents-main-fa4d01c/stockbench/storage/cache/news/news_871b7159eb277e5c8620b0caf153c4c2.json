@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Will more people ride out a trade war with Netflix? The streamer’s results will offer clues.",
+      "description": "Will more people ride out a trade war with Netflix? The streamer’s results will offer clues.",
+      "published_utc": "2025-04-15T01:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=45dc92ee46156ae15f334bde3e2418102fa747c0951bc5c381d0922456a83f78",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133912199,
+      "datetime": 1744650300
+    },
+    {
+      "title": "American Express Co. stock outperforms competitors on strong trading day",
+      "description": "American Express Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-04-15T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f84550d2c356e5e61264bf6ce4ed08b4ff2b68241e4e05301dd8f240eb4f3662",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133914124,
+      "datetime": 1744648440
+    },
+    {
+      "title": "Stay Ahead of the Game With American Express (AXP) Q1 Earnings: Wall Street's Insights on Key Metrics",
+      "description": "Besides Wall Street's top -and-bottom-line estimates for American Express (AXP), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended March 2025.",
+      "published_utc": "2025-04-14T21:15:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ac8e4dc89f9bc4386351567a906a9052e44e91dd85a4830590b664a64c49414",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908365,
+      "datetime": 1744636516
+    },
+    {
+      "title": "American Express Stock Jumps as BofA Calls It a Top Recession Play Despite Lowered Target",
+      "description": "Analysts cited the firm's high-income customer base as a buffer against recession-driven losses.",
+      "published_utc": "2025-04-14T20:54:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84cef02c0c0fccc0492ee9d5eeab59c13645e745d8cccd225ae456600e10db57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908366,
+      "datetime": 1744635247
+    },
+    {
+      "title": "Berkshire's Underappreciated Potential During Turmoil",
+      "description": "",
+      "published_utc": "2025-04-14T15:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5d2e96be40995d3475f4820a98d8579c1794abf30cd6d4c6e217ab8b2193ab53",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133906048,
+      "datetime": 1744614900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:44.025188+00:00",
+    "cache_key": "news_871b7159eb277e5c8620b0caf153c4c2",
+    "count": 5
+  }
+}

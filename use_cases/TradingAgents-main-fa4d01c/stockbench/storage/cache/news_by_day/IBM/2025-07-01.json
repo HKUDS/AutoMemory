@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Rises Higher Than Market: Key Facts",
+      "description": "In the closing of the recent trading day, IBM (IBM) stood at $294.78, denoting a +1.75% move from the preceding trading day.",
+      "published_utc": "2025-07-01T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72f169984efe725ab721e964556cde9f3f8f137364939671c7a141f86f29deaf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135679313,
+      "datetime": 1751319905
+    },
+    {
+      "title": "These 5 Stocks Will Replace Your Job",
+      "description": "Back in 1999, when I enlisted in the Marine Corps, my base pay started at less than $1,000 a month. Even after four years and a promotion to corporal, I was making just over $1,300 living paycheck to paycheck. In total, my entire enlistment earned me less than $55,000. Fast forward to today, and I […]",
+      "published_utc": "2025-07-01T00:22:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d25022ea41cc5ff4a04650dbd8cf9c46dd753324a4c959a2b077d40856a6cbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671147,
+      "datetime": 1751300555
+    }
+  ]
+}

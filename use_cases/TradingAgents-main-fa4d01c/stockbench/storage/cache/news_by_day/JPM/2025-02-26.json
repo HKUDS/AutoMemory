@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "This Chart Pattern Launched Amazon's Big Run; How To Spot It",
+      "description": "This Chart Pattern Launched Amazon's Big Run; How To Spot It",
+      "published_utc": "2025-02-26T16:00:44",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d13216aeb519390ddb93b40d6cccd9196c77f25e325537cb0f08fe26e0c6e290",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881240,
+      "datetime": 1740556844
+    }
+  ]
+}

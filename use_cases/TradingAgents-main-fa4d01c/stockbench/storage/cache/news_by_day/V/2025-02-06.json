@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Contrafund Q4 2024 Review",
+      "description": "For Q4 2024, the Fidelity Contrafund's Retail Class shares gained 3.56%, topping the 2.41% advance of the S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-02-06T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a0a5a73483fa9fd7e332d0b4cf17231696a722fb5cfb954e54a0be6eb6011ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952762622/image_952762622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569795,
+      "datetime": 1738794900
+    },
+    {
+      "title": "Tracking William Von Mueffling's Cantillon Capital Management Portfolio - Q4 2024 Update",
+      "description": "William von Muefflingâs 13F portfolio value increased to $16.55B. Check out the holdings of Cantillon Capital Management Portfolio here.",
+      "published_utc": "2025-02-06T06:03:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f88287dbff600d4f391176eda06fc5f40cd412496046d682f371465863c5ac0a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569658,
+      "datetime": 1738793028
+    },
+    {
+      "title": "Visa : Q1 2025 Visa Earnings Conference Call Transcript",
+      "description": "Corrected Transcript 30-Jan-2025 Visa, Inc. Q1 2025 Earnings Call ...",
+      "published_utc": "2025-02-06T02:50:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=def372ccfead17107bc4e0bb03dbde5affa28304881b14aad070c4c070b9c6cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568881,
+      "datetime": 1738781405
+    },
+    {
+      "title": "Visa Inc. Cl A stock outperforms competitors on strong trading day",
+      "description": "Visa Inc. Cl A stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-06T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=667131865f3b6ffd66cca2ff94d4eaf820f33e3ec48186c7a58f8b2ccb193fb7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573895,
+      "datetime": 1738773060
+    }
+  ]
+}

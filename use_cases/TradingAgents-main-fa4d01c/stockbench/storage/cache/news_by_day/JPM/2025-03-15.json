@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Q4 2024 Portman Ridge Finance Corp Earnings Call",
+      "description": "Q4 2024 Portman Ridge Finance Corp Earnings Call",
+      "published_utc": "2025-03-15T14:37:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1f8c7f98e8f236bec1ede88490bbb71f545087c16bd854d4f96254dbe7403e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184235,
+      "datetime": 1742020629
+    },
+    {
+      "title": "PNC Financial: A Smart Deposit After 21% Drop",
+      "description": "PNC dropped 20%+, offering a potential value buy. Read here for PNC stock's its strengths in corporate banking, deposit stability, and favorable valuation metrics.",
+      "published_utc": "2025-03-15T10:56:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=67437da1c55598225c71364bd1b23d09c59a7fad122ffe2583c9e1ed7662aaa7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1582976796/image_1582976796.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133176999,
+      "datetime": 1742007367
+    }
+  ]
+}

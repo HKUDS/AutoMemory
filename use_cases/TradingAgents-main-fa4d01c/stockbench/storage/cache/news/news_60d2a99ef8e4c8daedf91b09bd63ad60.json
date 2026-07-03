@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "TRV Outperforms Industry, Trades at Premium: How to Play the Stock",
+      "description": "Travelers' momentum in renewal rate improvements, high retention levels and increased new business are likely to sustain its earnings growth.",
+      "published_utc": "2025-06-18T22:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba4b19ec46917b907128d19b0b68f7136933af29ed7237bfe285e12de639475f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370949,
+      "datetime": 1750256760
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:57.367012+00:00",
+    "cache_key": "news_60d2a99ef8e4c8daedf91b09bd63ad60",
+    "count": 1
+  }
+}

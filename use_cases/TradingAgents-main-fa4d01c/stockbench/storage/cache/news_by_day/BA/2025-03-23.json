@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Lockheed Martin says ‘disappointed’ in outcome of Air Force contract decision",
+      "description": "Lockheed Martin (LMT) issued the following statement after Boeing (BA) was selected to build a new, next-generation U.S. Air Force fighter jet: “Lockheed Martin continues to work to advance critical technologies to outpace emerging threats and deliver true 21st Century Security solutions to our nation’s military forces. We are committed to advancing the state of the art in air dominance to ensure America has the most revolutionary systems to counter the rapidly evolving threat environment. While",
+      "published_utc": "2025-03-23T00:40:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b6a20a1388d5a411b5996cf3bbf2d0bcf6caf29b51c049b9d1d07b5aa0f1f17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325417,
+      "datetime": 1742661610
+    }
+  ]
+}

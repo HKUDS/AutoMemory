@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "John Hancock Disciplined Value Fund Q1 2025 Commentary",
+      "description": "The Russell 1000 Value Indexâthe fundâs benchmarkârecorded a gain of 2.14% in the first quarter. Read more here.",
+      "published_utc": "2025-05-27T20:22:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c42fd7704f46c785476f7b80ae46a7782023230483292439ca1d9cd559204576",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1085514446/image_1085514446.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709697,
+      "datetime": 1748348520
+    }
+  ]
+}

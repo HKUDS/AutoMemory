@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-23T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b2e45727983e71cc1af9537d61e3c39ad47e6f1057981507a359f164f6815894",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136043059,
+      "datetime": 1753202160
+    }
+  ]
+}

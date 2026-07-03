@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Got $3,000? 2 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
+      "description": "Nvidia provides AI computing solutions across several leading industries, helping it rake in billions of profits.  Microsoft is seeing incredibly strong demand for AI services in its cloud business.  The technology sector has produced some of the biggest winners in the stock market in recent decades, and artificial intelligence (AI) promises big rewards for investors who hold the right stocks.",
+      "published_utc": "2025-05-11T07:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=458567a82b629ba706947336c7411a8e3f7d07a1af97c57aa747e83dd3e712c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379056,
+      "datetime": 1746918900
+    },
+    {
+      "title": "3 Reasons to Buy This Artificial Intelligence (AI) Quantum Computing Stock on the Dip",
+      "description": "Several companies are making headlines in the quantum computing narrative, but one magnificent stock stands out among the pack.",
+      "published_utc": "2025-05-11T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f09cb52fee554b2944360fd45319488b9428491264199f819f21e66c64b861c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379057,
+      "datetime": 1746892800
+    }
+  ]
+}

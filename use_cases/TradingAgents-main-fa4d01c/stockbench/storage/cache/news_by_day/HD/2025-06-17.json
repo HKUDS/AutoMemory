@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dividend Investors Find Value in Home Depot’s Consistent Payouts",
+      "description": "The Home Depot, Inc. (NYSE:HD) is among the best next generation dividend aristocrat stocks. The company’s growth has eased in recent years due to several factors. The pandemic accelerated sales as consumers invested heavily in home improvement projects, but was followed by supply chain disruptions, inflation, and higher interest rates. For fiscal 2025, The Home […]",
+      "published_utc": "2025-06-17T12:11:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe1e6deffd1489642a3f9aff127cf7d6917e21b248150a663db78610c7936f73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135313591,
+      "datetime": 1750133493
+    }
+  ]
+}

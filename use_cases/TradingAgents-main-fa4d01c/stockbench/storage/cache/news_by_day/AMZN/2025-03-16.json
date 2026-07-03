@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Taiwan Semiconductor: Set To Capture Majority Of AI Profits",
+      "description": "Discover how Taiwan Semiconductor Manufacturing leads AI chip manufacturing with unmatched expertise, benefiting from rising demand.",
+      "published_utc": "2025-03-16T22:48:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e3da5830754ff0a7b55c9ff5bf2e7d179291d974a18c210fcfe0c39bc785857",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363604154/image_1363604154.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133188959,
+      "datetime": 1742136494
+    },
+    {
+      "title": "Credo: Finally, The Turning Point May Have Arrived",
+      "description": "The recent tech sell-off hammered Credo investors, but it could have bottomed out last week. Read why I maintain my buy rating on CRDO stock.",
+      "published_utc": "2025-03-16T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c2e59e1a550e170ab0c5ea290aae8da3c34d4ed689b39d9f1b32790cbdae0a51",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1410830085/image_1410830085.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183412,
+      "datetime": 1742124600
+    },
+    {
+      "title": "IYC: Consumer Discretionary Dashboard For March",
+      "description": "iShares US Consumer Discretionary ETF sees consumer services as top pick. Learn why IYC is a solid choice with lower volatility and 10 undervalued stocks.",
+      "published_utc": "2025-03-16T14:25:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92f0bb55e7a98a6c854a80b03c4e48791dea92e169baccabe175bbd55e768a10",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458697375/image_458697375.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133182322,
+      "datetime": 1742106337
+    },
+    {
+      "title": "Amazon: Epicenter Of The Historic AI Construction Boom",
+      "description": "Annapurna Labs, an Amazon division, is expected to release the Trainium3 AI chip by the end of 2025. Check out my recommendation for AMZN stock.",
+      "published_utc": "2025-03-16T11:43:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e7c5aab49310390f49c8d7258777e12360906cd7c5b10bdbb786df9fbc83b41e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1416468428/image_1416468428.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133181689,
+      "datetime": 1742096615
+    }
+  ]
+}

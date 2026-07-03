@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "INVISIBLE URBAN CHARGING, REDAPTIVE FORM FINANCING PARTNERSHIP FOR EV CHARGER DEPLOYMENT",
+      "description": "Invisible Urban Charging (IUC), a leading provider of Charging-as-a-Service (CaaS) solutions, today announced that it has entered into a financing agreement with Redaptive, a leader in Energy-as-a-Service (EaaS) installations for whole-building portfolios and the installation of energy-saving and generating solutions, to supply capital for the financing and refinancing of certain upcoming and existing portions of IUC's portfolio of contracted EV charger deployments at sites throughout the United",
+      "published_utc": "2025-07-01T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0adff9fd64df64380e59717544cb448bee1e1705304554419fc2162cacc3eb1d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694221,
+      "datetime": 1751374800
+    },
+    {
+      "title": "Honeywell International Inc. acquired Li-ion Tamer business of Nexceris from Nextech Materials, Ltd.",
+      "description": "Honeywell International Inc. acquired Li-ion Tamer business of Nexceris from Nextech Materials, Ltd. on July 1, 2025. Honeywell International Inc. completed the acquisition of Li-ion Tamer business...",
+      "published_utc": "2025-07-01T20:05:42",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fff628b70786bf3ea0dbba229ddd5f52e35a5ffcb032e3c59a573af2e2543906",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135693365,
+      "datetime": 1751371542
+    },
+    {
+      "title": "Honeywell Makes Strategic Tuck-in Acquisition of Li-ion Tamer to Bolster Fire Detection Technologies, Further Strengthening Building Automation Portfolio",
+      "description": "Honeywell (NASDAQ: HON) today announced that it has acquired from Nexceris its Li-ion Tamer business, a leading off-gas detection solution for lithium-ion (li-ion) batteries that detects thermal runaway events. The acquisition enhances Honeywell's portfolio of best-in-class fire life safety technologies within its Building Automation segment and emerged from a partnership with Nexceris over the past 5 years to strategically address lithium-ion battery system safety. The transaction is expected t",
+      "published_utc": "2025-07-01T19:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b848106f40ea9549adf5c27a264d3776e80825b9950ddbfd109bd7fbe5178fd9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694222,
+      "datetime": 1751370300
+    },
+    {
+      "title": "Dow rallies 150 points on gains in Nike, Apple stocks",
+      "description": "Dow rallies 150 points on gains in Nike, Apple stocks",
+      "published_utc": "2025-07-01T18:13:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f273395c0f202ab11527ffd0d9788a9e30d4ca64364fa281097da4341d394078",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135730089,
+      "datetime": 1751364780
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:13.516072+00:00",
+    "cache_key": "news_415c244ac00912d0ec25c28795867827",
+    "count": 4
+  }
+}

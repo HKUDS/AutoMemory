@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "These Are the 2 Worst-Performing Stocks in the Dow Jones Industrial Average So Far in 2025",
+      "description": "The DJIA is in positive territory thus far in 2025.  The Dow Jones Industrial Average (DJINDICES: ^DJI) is up nearly 5% so far this year, with many of its best performers rising in value by 20% to 30%.  Two well-known stocks in the DJIA have collapsed in value through the first six months of 2025.",
+      "published_utc": "2025-07-19T21:34:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de81601fda535761ae84dcb6a045d0f156f36f6dfae60ee7b86256200e7ad7f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019793,
+      "datetime": 1752932044
+    },
+    {
+      "title": "Salesforce (CRM) Wins Analyst Confidence With AI Advances and Price Hike Potential",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the Trending AI Stocks in Focus This Week. On July 16, Citizens JMP analyst Patrick Walravens reiterated a “Market Outperform” rating on the stock with a $430.00 price target. The firm came out optimistic on the stock following its chat with Richard Socher at the Citizens Technology Forum. The forum […]",
+      "published_utc": "2025-07-19T19:01:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5b7ce51accff5dc8939fe0e5ac9ebdb4ac94593304d985c8575e476a1fc0f49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019794,
+      "datetime": 1752922880
+    }
+  ]
+}

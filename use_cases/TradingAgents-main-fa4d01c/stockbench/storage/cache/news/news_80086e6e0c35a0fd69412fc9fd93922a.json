@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Select Consumer Staples Portfolio Q4 2024 Review",
+      "description": "For the quarter, the fund's Retail Class shares returned -6.25%, lagging the -2.64% result of the MSCI U.S. IMI Consumer Staples 25/50 Index. Read more here.",
+      "published_utc": "2025-03-12T06:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26d06565941cbaa9d88376cae132a01d7a504adde5c1aad2667070d1cd5a6855",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319625327/image_1319625327.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133140561,
+      "datetime": 1741732260
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-03-12T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=780e360df2fc144b67d1d6c8d8d55cac1bb8cbf8cc9f03c3562a3aff8b89d7e2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133150311,
+      "datetime": 1741710660
+    },
+    {
+      "title": "Procter & Gamble (PG): ‘Frantic Running and a Midday Drop? Bad Sign!’ Warns Jim Cramer",
+      "description": "We recently published a list of Jim Cramer Discusses These 11 Stocks & Says There’ll Be A “Good Reason To Buy Stocks” Soon. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other stocks that Jim Cramer discusses. In his recent appearance on CNBC’s […]",
+      "published_utc": "2025-03-11T22:43:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d52658ff7f28d4fd662a50e029114dd248cde92162ae0a535dcd609917db4b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184384,
+      "datetime": 1741704230
+    },
+    {
+      "title": "Is The Procter & Gamble Company (PG) the Best Low Risk Stock to Buy In 2025?",
+      "description": "We recently compiled a list of the 10 Best Low Risk Stocks To Buy in 2025. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against the other low risk stocks. Risk is a key consideration in investing and portfolio management, as investors generally aim to […]",
+      "published_utc": "2025-03-11T21:00:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da8ebc95401afaf886d0270a57b835c750dd51d7a35b6e7145293f175bf3ec42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184385,
+      "datetime": 1741698035
+    },
+    {
+      "title": "Henkel sees continued sales growth in 2025",
+      "description": "German consumer goods and adhesives maker Henkel said on Tuesday it expected up to 3.5% organic sales growth in 2025, citing the implementation of its growth agenda, after 2024 growth met market...",
+      "published_utc": "2025-03-11T10:39:50",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aa88466f87f8eec6c937c14e99e71046875f0b6dfd68b4e6aad8c9b22d1f7724",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133130001,
+      "datetime": 1741660790
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:48.257993+00:00",
+    "cache_key": "news_80086e6e0c35a0fd69412fc9fd93922a",
+    "count": 5
+  }
+}

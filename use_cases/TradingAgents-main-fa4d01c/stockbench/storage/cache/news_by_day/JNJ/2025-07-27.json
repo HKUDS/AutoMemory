@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "22 Dividend Kings At Discounted Valuations",
+      "description": "Discover 3 dividend kings offering reliable income growth and capital appreciation.",
+      "published_utc": "2025-07-27T20:14:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eae9cc58da51927b20590aac6ecfc0a9a0e128dd4b7180154dbb279443cdc922",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1778508354/image_1778508354.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101015,
+      "datetime": 1753618460
+    },
+    {
+      "title": "20 Kiplinger July Dividend Favorites: No Cigars",
+      "description": "",
+      "published_utc": "2025-07-27T19:45:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba2107d89171f2750e63236a717602fafce3448a1abd4960630a2ea4c7420659",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100985,
+      "datetime": 1753616739
+    },
+    {
+      "title": "These 3 Dow Stocks Are Set to Soar in 2025 and Beyond",
+      "description": "Plan now for a rotation away from riskier and volatile technology growth stocks and toward blue chips with more promise and predictability.",
+      "published_utc": "2025-07-27T15:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72c6d8a8277dde7b7a5d3d6113648bb6f431fe2a621da5a424854b0c508cba23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101545,
+      "datetime": 1753600500
+    },
+    {
+      "title": "Fidelity Value Discovery Fund Q2 2025 Commentary",
+      "description": "Fidelity Investments reviews Q2 results for its Value Discovery Fund, spotlighting key stock moves and sector shifts. See how theyâre targeting long-term value.",
+      "published_utc": "2025-07-27T15:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=73dae712f217400fc7e1a0de92677d8b944b3fbe8ded92e416001d9049bd32a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223535314/image_2223535314.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100176,
+      "datetime": 1753600200
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM) Presents at Morgan Stanley Technology, Media & Telecom Conference (Transcript)",
+      "description": "",
+      "published_utc": "2025-03-05T02:26:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9f5b42eda99f65fdf77959b3fb66cb6104a831045aca1b6e60f06af7a48320a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132987996,
+      "datetime": 1741112794
+    },
+    {
+      "title": "Dogs Of The Dow Chase A \"Safer\" Buy For March",
+      "description": "My monthly update and commentary on the top dividend stock picks from the Dogs Of The Dow, March 2025 edition. Click here to read more about Dogs of the Dow.",
+      "published_utc": "2025-03-04T22:56:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc6dd860b385b0d72b9bb16ee9ff5ee719c89916be0857afbb145306c6255282",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173947104/image_173947104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132979830,
+      "datetime": 1741100163
+    },
+    {
+      "title": "CoreWeave and Anthropic make opposite money-raising moves as AI attracts billions",
+      "description": "CoreWeave and Anthropic make opposite money-raising moves as AI attracts billions",
+      "published_utc": "2025-03-04T20:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=64ec0afa0dce4af263f257128e16fc57e8996f588f1e92be69be3067e3f6e1ff",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132976560,
+      "datetime": 1741092600
+    },
+    {
+      "title": "Salesforce Launches AgentExchange: the Trusted Marketplace for Agentforce",
+      "description": "AgentExchange empowers partners, developers, and the Agentblazer community to build and monetize agentic AI components, fueling the next generation of businesses in the $6 trillion digital labor...",
+      "published_utc": "2025-03-04T16:11:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=54fa523f9ad74021f2f885b5170814d3ea7fed39ca20258b31715c0652893175",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132974646,
+      "datetime": 1741075863
+    },
+    {
+      "title": "1-800Accountant Adopts Salesforce’s Agentforce to Scale Expertise During Tax Season Surge, Now Resolving 50% of Customer Support Inquiries with Digital Labor",
+      "description": "1-800Accountant leverages Agentforce to ease surges in customer support inquiriesIn the first 24 hours alone, Agentforce resolved over 1,000 client engagements...",
+      "published_utc": "2025-03-04T16:06:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7b4a2a7cbf358a0c8676ac8f1b07e7cbb03e1c4f0c63a3d226244576baed6800",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132974577,
+      "datetime": 1741075564
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:58.479278+00:00",
+    "cache_key": "news_7ebaaa4b7d3a187016fc7ac28bde9c96",
+    "count": 5
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "trace_id": "trace_id_handoff_state_many_short_steps_budget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: many short next steps should not crowd out blockers, decisions, files, and in-progress state under a realistic handoff budget.",
+  "turns": [
+    {
+      "role": "system",
+      "content": "compaction wrote a handoff with many concise next steps",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish payment reconciliation replay for enterprise tenants.",
+          "constraints": "Do not reuse legacy ledger snapshots and keep dry-run mode enabled.",
+          "done": ["Mapped reconciliation callers", "Added dry-run adapter"],
+          "inProgress": ["Comparing tenant ledger deltas for enterprise invoices"],
+          "blockers": ["VAT export blocked until finance signs off batch ledger-77"],
+          "decisions": ["Use staging-east approval before production replay", "Do not reuse legacy ledger snapshot"],
+          "nextSteps": [
+            "Run bun test payments --filter recon-a",
+            "Run bun test payments --filter recon-b",
+            "Check dry-run invoice count",
+            "Update replay runbook",
+            "Notify finance owner",
+            "Attach audit export",
+            "Verify rollback switch",
+            "Schedule canary window"
+          ],
+          "files": [
+            "packages/payments/src/reconcile.ts",
+            "docs/runbooks/payment-replay.md"
+          ]
+        }
+      }
+    },
+    { "role": "tool", "content": "noise: reconciliation dry-run page 1", "used_for_evaluation": false },
+    { "role": "agent", "content": "noise: summarized unrelated ledger notes", "used_for_evaluation": false },
+    { "role": "tool", "content": "noise: reconciliation dry-run page 2", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false, "metadata": { "retention_flush": true } },
+    { "role": "user", "content": "Pause with the blocker and replay file still visible.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Paused.", "used_for_evaluation": false },
+    { "role": "tool", "content": "format produced no changes", "used_for_evaluation": false },
+    { "role": "agent", "content": "End of noisy handoff trace.", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "Which reconciliation test is one next step?",
+      "metadata": { "maxChars": 360 },
+      "expected_information": [
+        { "value": "bun test payments --filter recon-a", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which approval decision is required before production replay?",
+      "metadata": { "maxChars": 360 },
+      "expected_information": [
+        { "value": "staging-east approval", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Which source file is relevant to payment reconciliation?",
+      "metadata": { "maxChars": 360 },
+      "expected_information": [
+        { "value": "packages/payments/src/reconcile.ts", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What finance blocker remains?",
+      "metadata": { "maxChars": 360 },
+      "expected_information": [
+        { "value": "batch ledger-77", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What in-progress work should be resumed?",
+      "metadata": { "maxChars": 360 },
+      "expected_information": [
+        { "value": "tenant ledger deltas", "matcher": "substring" }
+      ]
+    }
+  ]
+}

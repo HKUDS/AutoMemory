@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing, NVIDIA Corp. share gains lead Dow's 450-point rally",
+      "description": "Boeing, NVIDIA Corp. share gains lead Dow's 450-point rally",
+      "published_utc": "2025-03-19T23:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cefef8dc077d46f608ffc09738701323f57cc648f4d86614d1056857ca136ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264305,
+      "datetime": 1742396400
+    },
+    {
+      "title": "Boeing, NVIDIA Corp. share gains contribute to Dow's 100-point climb",
+      "description": "Boeing, NVIDIA Corp. share gains contribute to Dow's 100-point climb",
+      "published_utc": "2025-03-19T21:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b0d3e59936f61704c939df6406a329cc1c6f08b7eb7f7479806334dd82fc39eb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264307,
+      "datetime": 1742392740
+    },
+    {
+      "title": "IBM Extends NVIDIA Collaboration for AI Scalability: Stock to Gain?",
+      "description": "IBM and NVIDIA will help clients transform and govern end-to-end business processes with agentic AI applications and monetize AI for real business outcomes.",
+      "published_utc": "2025-03-19T20:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9068e6cfe3f3c155818335ca76626a369579022fa68a15c252a7e7c2adfb2147",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324774,
+      "datetime": 1742389140
+    }
+  ]
+}

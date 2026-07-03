@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "SiteOne Landscape: Landscape Distributor Trades At A Big Premium",
+      "description": "Discover why SiteOne Landscape Supply's high valuation and weak organic growth raise concerns.",
+      "published_utc": "2025-07-06T21:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=37d111457c89552d47f373a96fe48ad95cd5ff421f4592604e8e90de38728359",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332207151/image_1332207151.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135776515,
+      "datetime": 1751808600
+    }
+  ]
+}

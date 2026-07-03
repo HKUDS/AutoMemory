@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Here Are 5 Quality Stocks Nearing Multiple Year P/E Lows",
+      "description": "Read here for highlights on five stocks with strong fundamentals and are trading near P/E multiple lows like Nvidia, Amazon, Alphabet, Kinsale and Evolution.",
+      "published_utc": "2025-03-06T07:35:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ae5dff30bdd6846618f0380e4d05b07089226657e84ebd3fffba3812f9167e7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133049095,
+      "datetime": 1741217753
+    },
+    {
+      "title": "CDT Insider Sentiment February 2025: Tariff Paralysis",
+      "description": "President Trump promised a radical approach to trade policy during his campaign, and he has delivered.",
+      "published_utc": "2025-03-06T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69ff694d689b049731aa118c0b989ab7cde04b689c493e267b2c6c81a2b3bbd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189862167/image_2189862167.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133040442,
+      "datetime": 1741201200
+    },
+    {
+      "title": "Games Workshop: Set To Explode With Warhammer 40K",
+      "description": "Games Workshop currently holds one of the most promising IPs in the world with Warhammer. Click here to find out why GMWKF stock is a Buy.",
+      "published_utc": "2025-03-06T00:51:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6553a25077aae1aa2485cb2d9e6509658665aedc16a51c974126ce9323a842f0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458594301/image_458594301.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133030708,
+      "datetime": 1741193480
+    }
+  ]
+}

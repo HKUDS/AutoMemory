@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. (CAT) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Zacks.com users have recently been watching Caterpillar (CAT) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2025-06-04T21:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40dd387ccbdb09b02ed7ccfed8d4214718553bf62f2b0902d8d64baa54b743e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011341,
+      "datetime": 1749042015
+    },
+    {
+      "title": "Wall Street Lunch: Wedbush Launches AI-Focused ETF",
+      "description": "Wedbush star tech analyst Dan Ives, known for his bullish AI thesis, see his namesake exchange-traded-fund launch today.",
+      "published_utc": "2025-06-04T20:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ef0e109be84d4dc2ec1c115a5f2eab68f4a09e607f105f2f834b29bcdc8f568",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1862938026/image_1862938026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011919,
+      "datetime": 1749040140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:08.331801+00:00",
+    "cache_key": "news_29c3cbd52331fbd61cbfad2491acd2e9",
+    "count": 2
+  }
+}

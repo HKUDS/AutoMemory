@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Junkiest Junk Is Offering a Warning Sign for Debt",
+      "description": "(Bloomberg) -- For much of the year, money managers have embraced optimism and snatched up corporate bonds, sending valuations to ever more expensive levels. Now, Wall Street titans are saying it’s time to focus on how bad things can get. Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadChicago’s O’Hare Airport Seeks Up to $4.3 Billion of Muni DebtPacific C",
+      "published_utc": "2025-05-25T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c66a483a5203aebf3d348a6b31edbfabd993e7e7703cecd977e25a1662e294b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694247,
+      "datetime": 1748113200
+    }
+  ]
+}

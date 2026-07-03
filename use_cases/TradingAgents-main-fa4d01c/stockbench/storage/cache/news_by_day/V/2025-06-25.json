@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "GiveCard Collaborates with Visa to Modernize Disbursements in the Public Sector",
+      "description": "NEW YORK, June 25, 2025--GiveCard, a platform purpose-built to help nonprofits and government agencies disburse and manage funds over prepaid funds, today announced a strategic collaboration with Visa. GiveCard will be issuing virtual and physical prepaid cards to recipients, distributing them directly to recipients through various U.S. government agencies.",
+      "published_utc": "2025-06-25T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c23fda130b68ceb925b14736bf0f2046ef2e2021dd39ac5e1666d81812e12c5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533254,
+      "datetime": 1750856400
+    }
+  ]
+}

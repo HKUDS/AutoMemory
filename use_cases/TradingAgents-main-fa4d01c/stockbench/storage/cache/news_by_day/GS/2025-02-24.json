@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs: Investment Banking & Wealth Segments Signal Further Upside",
+      "description": "Discover why Goldman Sachs remains a top pick with strong ratings, impressive margins, and growth potential in M&A, equity markets, and wealth advisory.",
+      "published_utc": "2025-02-24T23:21:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=622db13af248a4eeecdfb736d5272da48c556ecebd68fa66c9cdff919d4536b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1152898494/image_1152898494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132865579,
+      "datetime": 1740410490
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW) Delivers 10x Total Return Since Launch of S&P Dividend Aristocrats Index",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) is included among the 11 Best Dividend Aristocrat Stocks to Invest in Now. Among the founding members of the S&P Dividend Aristocrats Index, The Sherwin-Williams Company (NYSE:SHW) has stood out as the strongest performer. The stock recorded the highest return between May 2, 2005, and May 2025, delivering a gain of […]",
+      "published_utc": "2025-07-01T05:05:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69afb625e857d5d4f0cc996a11ca94904ba4119bf776a03e63dc4375f5450160",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135683322,
+      "datetime": 1751317530
+    },
+    {
+      "title": "NYLI PineStone Global Equity Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-06-30T22:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=466367cde54de7c135dae1c7372cb7eefa15d685e303afcef294a79ae89b5f6c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135668342,
+      "datetime": 1751293500
+    },
+    {
+      "title": "Sherwin-Williams to Announce Second Quarter 2025 Financial Results on July 22, 2025",
+      "description": "The Sherwin-Williams Company (NYSE: SHW) will issue a press release announcing its financial results for the second quarter ended June 30, 2025, prior to market open on Tuesday, July 22, 2025. At that time, a copy of the press release and information regarding Sherwin-Williams' financial condition, reportable segment results and other information will be available by clicking on Sherwin-Williams Press Releases, then clicking on the reference to the July 22 release.",
+      "published_utc": "2025-06-30T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a310fb399134cf48b3c7b1c4c02d25ee0077d5960f4aba910c7d435ce4ea987",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671904,
+      "datetime": 1751284800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:23.237455+00:00",
+    "cache_key": "news_62336c998807e9730fa48f44f49fd4b0",
+    "count": 3
+  }
+}

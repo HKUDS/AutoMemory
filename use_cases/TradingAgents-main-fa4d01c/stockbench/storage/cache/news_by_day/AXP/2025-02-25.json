@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Buffett Blueprint - How I'm Building My Own Berkshire Hathaway",
+      "description": "Warren Buffett's recent Berkshire Hathaway letter highlights his disciplined, long-term approach. Find out what we can learn from Buffett's latest insights.",
+      "published_utc": "2025-02-25T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e24230bc78a5b5e4d9fbb8b25a175515b10d6ffa8a4df87be660f42ba99131a9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/518096704/image_518096704.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132870160,
+      "datetime": 1740468600
+    }
+  ]
+}

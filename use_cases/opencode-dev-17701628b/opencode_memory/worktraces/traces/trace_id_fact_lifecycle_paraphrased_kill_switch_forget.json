@@ -1,0 +1,58 @@
+{
+  "trace_id": "trace_id_fact_lifecycle_paraphrased_kill_switch_forget",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: a paraphrased forget request should deactivate a corrected beta rollout kill-switch fact without relying on topic-specific expansions.",
+  "turns": [
+    { "role": "user", "content": "Remember: feature flag must keep the remote kill-switch enabled for beta rollout.", "used_for_evaluation": true, "metadata": { "session_id": "fact-kill" } },
+    { "role": "agent", "content": "Noted the beta rollout safeguard.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: invoices export job should run with CSV_DELIMITER=pipe.", "used_for_evaluation": true, "metadata": { "session_id": "fact-kill" } },
+    { "role": "agent", "content": "Stored the invoice export delimiter.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: preview deployments only target staging-west.", "used_for_evaluation": true, "metadata": { "session_id": "fact-kill" } },
+    { "role": "tool", "content": "No memory-relevant tool output.", "used_for_evaluation": false },
+    { "role": "user", "content": "Correction: feature flag must keep the remote kill-switch enabled for GA beta rollout until launch day.", "used_for_evaluation": true, "metadata": { "session_id": "fact-kill" } },
+    { "role": "agent", "content": "Updated the rollout safeguard.", "used_for_evaluation": false },
+    { "role": "user", "content": "We also changed some copy in docs, no memory needed.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Continuing without adding memory.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker", "used_for_evaluation": false },
+    { "role": "user", "content": "Please forget the beta flag rollout kill switch.", "used_for_evaluation": true, "metadata": { "session_id": "fact-kill" } },
+    { "role": "agent", "content": "Forgot the requested rollout flag memory.", "used_for_evaluation": false },
+    { "role": "user", "content": "Remember: support escalations route through #sev-review.", "used_for_evaluation": true, "metadata": { "session_id": "fact-kill" } },
+    { "role": "agent", "content": "Stored support escalation routing.", "used_for_evaluation": false },
+    { "role": "tool", "content": "formatter completed successfully.", "used_for_evaluation": false },
+    { "role": "user", "content": "Noise about unrelated local settings.", "used_for_evaluation": false },
+    { "role": "agent", "content": "End of trace.", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What active beta rollout flag or kill-switch memory remains?",
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*(?:kill-switch|kill switch|GA beta rollout|feature flag))[\\s\\S]*$", "matcher": "regex", "description": "The paraphrased forget request should remove the corrected rollout kill-switch fact." }
+      ]
+    },
+    {
+      "query": "What delimiter does the invoice export job require?",
+      "expected_information": [
+        { "value": "CSV_DELIMITER=pipe", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Where do preview deployments target?",
+      "expected_information": [
+        { "value": "staging-west", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Where should support escalations route?",
+      "expected_information": [
+        { "value": "#sev-review", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "Did unrelated docs chatter create a docs memory?",
+      "expected_information": [
+        { "value": "^(?![\\s\\S]*changed some copy in docs)[\\s\\S]*$", "matcher": "regex" }
+      ]
+    }
+  ]
+}

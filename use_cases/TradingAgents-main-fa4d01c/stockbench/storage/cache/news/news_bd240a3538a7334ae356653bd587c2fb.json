@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Got $3,000? 2 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
+      "description": "Nvidia provides AI computing solutions across several leading industries, helping it rake in billions of profits.  Microsoft is seeing incredibly strong demand for AI services in its cloud business.  The technology sector has produced some of the biggest winners in the stock market in recent decades, and artificial intelligence (AI) promises big rewards for investors who hold the right stocks.",
+      "published_utc": "2025-05-11T07:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=458567a82b629ba706947336c7411a8e3f7d07a1af97c57aa747e83dd3e712c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379056,
+      "datetime": 1746918900
+    },
+    {
+      "title": "3 Reasons to Buy This Artificial Intelligence (AI) Quantum Computing Stock on the Dip",
+      "description": "Several companies are making headlines in the quantum computing narrative, but one magnificent stock stands out among the pack.",
+      "published_utc": "2025-05-11T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f09cb52fee554b2944360fd45319488b9428491264199f819f21e66c64b861c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379057,
+      "datetime": 1746892800
+    },
+    {
+      "title": "A lot changed this week at OpenAI. Elon Musk calls it a 'facade.'",
+      "description": "It's been a busy week for AI upstart OpenAI. Not only did the company abandon plans to convert itself into a for-profit enterprise, but it also appointed Instacart CEO Fidji Simo as its new head of applications.",
+      "published_utc": "2025-05-10T20:00:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84bf44de53698003b4f0bdd381427cb607304126a5bf101a2cfe26991cb3b54e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379058,
+      "datetime": 1746878408
+    },
+    {
+      "title": "Cisco, Walmart Set To Report Results As Markets Watch Out For Core CPI",
+      "description": "Retail giant Walmart is set to report earnings this week along with Cisco and Hertz Global. Read here for key stock market events this week.",
+      "published_utc": "2025-05-10T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=99a916114512ca2a291ba48e8e765d4bec9968253a80d9609644a286c1824d49",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134365947,
+      "datetime": 1746874800
+    },
+    {
+      "title": "MSFT, PLTR, and NVDA: Daniel Ives Picks the Best AI Stocks to Buy",
+      "description": "AI promises to transform nearly everything about our world, in ways possibly more profound than anything since the Industrial Revolution kicked off in the 1760s. The technology is already automating the mundane tasks of the digital world, speeding up data collection and analysis and making results available at the press of a button. AI-powered language matrices are facilitating communications, not just between people from different countries but between people and machines. With AI-capable inter",
+      "published_utc": "2025-05-10T18:20:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e62d515d9c2d76d9491655dcdb064ec040d33f3c20383ce411cec7c435f7f4cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378389,
+      "datetime": 1746872432
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:20.402610+00:00",
+    "cache_key": "news_bd240a3538a7334ae356653bd587c2fb",
+    "count": 5
+  }
+}

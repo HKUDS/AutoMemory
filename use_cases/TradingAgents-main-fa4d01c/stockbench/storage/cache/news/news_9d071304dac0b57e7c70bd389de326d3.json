@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JNJ Seeks FDA Approval for Oral Psoriasis Drug Icotrokinra",
+      "description": "Johnson & Johnson eyes FDA nod to icotrokinra after phase III studies show strong skin clearance and safety in plaque psoriasis.",
+      "published_utc": "2025-07-22T23:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46ee6b6845a8e85450cb3219d3a28ad1500ca2381313b6df1dc338009ba8806b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033330,
+      "datetime": 1753199460
+    },
+    {
+      "title": "AZN Commits USD50B to US Manufacturing Expansion Amid Tariff Pressures",
+      "description": "AstraZeneca unveils a $50 billion U.S. manufacturing expansion plan, anchored by a Virginia facility to boost drug output and counter tariff headwinds.",
+      "published_utc": "2025-07-22T23:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e741b154497c11aacd7734185112b38fb2b6547954a7fd022900bb864a4e989",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033300,
+      "datetime": 1753198980
+    },
+    {
+      "title": "Johnson & Johnson Stock Could Be Waking Up",
+      "description": "Johnson & Johnson's stock offers value with promising MedTech growth, raised guidance, strong dividends, and bullish technical momentum. Learn more on JNJ stock here.",
+      "published_utc": "2025-07-22T23:11:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f2ad56709b94b81c370098ebfe197a9a49480cada5a5cf287ca5f90d7d3b2d97",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1916635270/image_1916635270.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136034822,
+      "datetime": 1753197118
+    },
+    {
+      "title": "How Will AbbVie's Neuroscience Franchise Perform in Q2 Earnings?",
+      "description": "ABBV's neuroscience sales are projected to jump 15% in Q2, driven by Botox Therapeutic, Vraylar and oral migraine drug gains.",
+      "published_utc": "2025-07-22T21:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=575871e6183099e7c5c71408470fcd8398c2d2ef95611b986cab10f4aa861e38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033332,
+      "datetime": 1753191060
+    },
+    {
+      "title": "Is Trending Stock Johnson & Johnson (JNJ) a Buy Now?",
+      "description": "Recently, Zacks.com users have been paying close attention to Johnson & Johnson (JNJ). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-07-22T21:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=891f53950af149af5c1056a7468f4c94ee8ba62cded00f87a2503783c92b9878",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033333,
+      "datetime": 1753189204
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:11:07.297492+00:00",
+    "cache_key": "news_9d071304dac0b57e7c70bd389de326d3",
+    "count": 5
+  }
+}

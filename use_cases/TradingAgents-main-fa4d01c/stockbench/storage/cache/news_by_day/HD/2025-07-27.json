@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "'Haves and have-nots': The stock market thinks more consumers are reaching a breaking point",
+      "description": "Wall Street is growing wary of the consumer as disappointing earnings, weak sector flows, and tariff pressures expose cracks in household demand, particularly among lower-income Americans.",
+      "published_utc": "2025-07-27T23:00:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fd8e93f2cbf62917aa3e788ccc75f8070f90114aae1588e63df00a903c829f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101559,
+      "datetime": 1753628420
+    },
+    {
+      "title": "20 Kiplinger July Dividend Favorites: No Cigars",
+      "description": "",
+      "published_utc": "2025-07-27T19:45:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba2107d89171f2750e63236a717602fafce3448a1abd4960630a2ea4c7420659",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100985,
+      "datetime": 1753616739
+    },
+    {
+      "title": "Built To Last: My 16-Stock Dividend Pyramid Portfolio",
+      "description": "Discover how restructuring a dividend portfolio into Albanian real estate and applying the pyramid method enhances diversification, risk balance, and the future.",
+      "published_utc": "2025-07-27T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=697190a7c5371d89310b04e9119606d2589bc4161884023a5b31f57dcc8553d1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/820821400/image_820821400.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100237,
+      "datetime": 1753601400
+    }
+  ]
+}

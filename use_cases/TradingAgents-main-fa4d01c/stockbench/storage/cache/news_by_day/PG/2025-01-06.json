@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow's 100-point drop led by losses in shares of Procter & Gamble, Honeywell",
+      "description": "Dow's 100-point drop led by losses in shares of Procter & Gamble, Honeywell",
+      "published_utc": "2025-01-06T23:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2032db3d04f5bcee677bb858186704d69e9ed0690c087e16e44e3e8f9a6c4ea6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321908,
+      "datetime": 1736178480
+    }
+  ]
+}

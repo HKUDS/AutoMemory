@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "AstraZeneca, Amgen drug shows positive results in nasal polyps trials",
+      "description": "An asthma drug has shown positive results when used to treat nasal polyps, researchers have said.Tezepelumab was first approved for treating asthma in 2021, but new research led by a University of...",
+      "published_utc": "2025-03-02T11:18:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e8771c1ed53892f4831fae9aa46aa640f340d69cd78654717a84e4ce6f26b4dc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132941804,
+      "datetime": 1740885493
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:50.106573+00:00",
+    "cache_key": "news_9b0b02f27125d8924d2be8ac1df73bc7",
+    "count": 1
+  }
+}

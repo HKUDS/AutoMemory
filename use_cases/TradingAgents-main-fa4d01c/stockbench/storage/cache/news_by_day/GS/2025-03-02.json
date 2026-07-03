@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs : Third and Fourth Quarters 2024 Net Stable Funding Ratio Disclosure",
+      "description": "The Goldman Sachs Group, Inc. NET STABLE FUNDING RATIO DISCLOSURE For the quarters ended December 31, 2024 and September 30, 2024 ...",
+      "published_utc": "2025-03-02T22:54:40",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=93248c1535f6f15c08725d941c46dd5e84d4ad32513e70619bb1e191d65831f7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132944794,
+      "datetime": 1740927280
+    },
+    {
+      "title": "Goldman Sachs Bankand Subsidiaries 2024 Annual Repor : Goldman Sachs Bank USA and Subsidiaries - 2024 Annual Report",
+      "description": "Goldman Sachs Bank USA and Subsidiaries Annual Report December 31, 2024 GOLDMAN SACHS BANK USA AND SUBSIDIARIES ...",
+      "published_utc": "2025-03-02T22:54:37",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e9a1d49a186f1d1d217339af06d77084ac25464eaf26dcc1945ec5bc1446ffe2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132944804,
+      "datetime": 1740927277
+    },
+    {
+      "title": "Goldman Sachs : Fourth Quarter 2024 Liquidity Coverage Ratio Disclosure",
+      "description": "The Goldman Sachs Group, Inc. LIQUIDITY COVERAGE RATIO DISCLOSURE For the quarter ended December 31, 2024 THE GOLDMAN SACHS...",
+      "published_utc": "2025-03-02T22:34:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=db7bfb960b93802c0745a40520d1748c35da2e5f77b928bd244450807987f247",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132944680,
+      "datetime": 1740926058
+    },
+    {
+      "id": "12efcbbffb1980c7e0b906bf53d0fd3669564104cf64e74a3b534e7b58d2f484",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Goldman Sachs While It's Below $650?",
+      "author": "Neil Patel",
+      "published_utc": "2025-03-02T13:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/should-you-buy-goldman-sachs-below-650/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809001/meeting-coworkers-boardroom.jpg",
+      "description": "Goldman Sachs, a financial services powerhouse, is well-positioned for growth due to a favorable macroeconomic and regulatory backdrop. However, the stock's valuation remains stretched, making it less attractive for new investors.",
+      "keywords": [
+        "Goldman Sachs",
+        "financial services",
+        "valuation",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights Goldman Sachs' strong financial performance and growth prospects, but also notes that the stock's valuation is historically expensive, making it less attractive for new investors at the current price."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights Goldman Sachs' strong financial performance and growth prospects, but also notes that the stock's valuation is historically expensive, making it less attractive for new investors at the current price."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights Goldman Sachs' strong financial performance and growth prospects, but also notes that the stock's valuation is historically expensive, making it less attractive for new investors at the current price."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights Goldman Sachs' strong financial performance and growth prospects, but also notes that the stock's valuation is historically expensive, making it less attractive for new investors at the current price."
+        }
+      ]
+    }
+  ]
+}

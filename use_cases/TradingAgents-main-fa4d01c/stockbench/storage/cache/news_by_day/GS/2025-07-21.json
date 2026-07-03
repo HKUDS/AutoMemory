@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Citi joins Goldman in asking junior bankers to reveal if they accepted other jobs",
+      "description": "(Bloomberg) -- Citigroup Inc. is asking its new class of investment-banking analysts to disclose whether they’ve already accepted a job offer from another firm, in the latest step by banks to clamp down on aggressive recruitment by private equity firms.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build an AI CapitalFirst-year analysts will be required to complete an",
+      "published_utc": "2025-07-21T23:05:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bccd5178575d5fa75a2c66339f174122d4c92e4bcc87f4ca04d35d35957429f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025379,
+      "datetime": 1753110356
+    },
+    {
+      "title": "Yen Advances as Ishiba Holds On in Face of Election Setback",
+      "description": "(Bloomberg) -- The yen strengthened versus the dollar on Monday after Japan’s Prime Minister Shigeru Ishiba said he would carry on as leader even as the ruling coalition lost its majority in the upper house election. Japanese stock futures were little changed.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build an AI CapitalJapan’s currency, which had declined in the",
+      "published_utc": "2025-07-21T22:52:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e44cf6a73ac04953492445411fd5ed6636bda89f9cab4d807e1617a6b44cf05d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025505,
+      "datetime": 1753109552
+    }
+  ]
+}

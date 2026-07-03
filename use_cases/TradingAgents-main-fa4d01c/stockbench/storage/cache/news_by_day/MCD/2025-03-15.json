@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "What Stock Market Sell-Off? This Dow Jones Dividend Stock Just Hit an All-Time High.",
+      "description": "In fact, McDonald's is up over 10% YTD at the time of this writing, making it one of the best performers in the Dow this year.  Let's look at what's driving the run-up in McDonald's and whether the dividend stock is worth buying now.  McDonald's hit an all-time high on Friday after reports that it is implementing artificial intelligence (AI) solutions at over 40,000 locations to make ordering easier for customers and to take some of the pressure off employees.",
+      "published_utc": "2025-03-15T15:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e401445ed0d9cc88731920e825a1f6247a9f5a94c81b417675d3a2eeb0a48cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184783,
+      "datetime": 1742022840
+    }
+  ]
+}

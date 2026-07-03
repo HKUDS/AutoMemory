@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "For Exhausted Stock Market Pros the Choice Is Buy or Stay Home",
+      "description": "(Bloomberg) -- The stock market’s stunning rebound over the last month has largely been driven by Main Street investors buying the dip in everything in sight while professional money managers ditched US stocks, spooked by mounting fears of slowing economic growth and trade war disruptions.Most Read from BloombergAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsIs Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?A New Central Park Amenity, Tailored to Its East Harlem",
+      "published_utc": "2025-05-10T20:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb74dcd2e805241a826784cbfe470aace6c7e30185fa4c4b458603fd07222084",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378388,
+      "datetime": 1746878407
+    }
+  ]
+}

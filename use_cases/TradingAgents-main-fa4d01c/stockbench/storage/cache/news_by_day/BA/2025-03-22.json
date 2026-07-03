@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing’s double dose of good news: Fighter jets and cash",
+      "description": "A positive outlook on cash flow and a deal to build the U.S. Air Force's next-generation fighter jet were part of a strong week for aerospace giant Boeing.",
+      "published_utc": "2025-03-22T20:00:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac4aaecd1051a0deeed40bfa07c53ed39b2422f524083bf33430b0488fc7f205",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325418,
+      "datetime": 1742644847
+    },
+    {
+      "title": "What Moved Markets This Week",
+      "description": "The U.S. stocks snapped a four-week losing streak on Friday as the S&P 500 barely moved into positive territory. Read more about this week's major events on Wall Street.",
+      "published_utc": "2025-03-22T14:46:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5615eca363cc981a2aab1345ca4476f3b779e2451e0f52a8c7f33be31631712",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219496927/image_1219496927.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133318191,
+      "datetime": 1742625968
+    },
+    {
+      "title": "Three years after China Eastern plane crash, regulator has not released report",
+      "description": "China's aviationregulator has not released an expected update on itsinvestigation into a deadly China Eastern Airlinescrash three years ago, leaving relatives and the aviationindustry with no...",
+      "published_utc": "2025-03-22T13:59:39",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e201107149091b36d890f08540243198892373249fd2fc24661f453e7fb7dceb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133317998,
+      "datetime": 1742623179
+    }
+  ]
+}

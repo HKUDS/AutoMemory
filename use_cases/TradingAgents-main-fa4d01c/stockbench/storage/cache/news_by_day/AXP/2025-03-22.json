@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "3d7600deb39bb37f4bf27a1b7cfb43e8798d79671c99cb40a920c1ad76aa1b21",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Warren Buffett Stocks to Buy With $2,000 Right Now",
+      "author": "Chris Neiger",
+      "published_utc": "2025-03-22T20:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/22/the-best-warren-buffett-stocks-to-buy-with-2000/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811890/buffett.jpeg",
+      "description": "The article discusses two stocks from Warren Buffett's Berkshire Hathaway portfolio that could be good investments amid market volatility: Amazon and American Express.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Amazon",
+        "American Express",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong e-commerce business and growing cloud computing segment, which are expected to perform well even in a downturn."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that American Express has reported strong financial results, added new cardholders, and its stock is trading at a discount compared to a few months ago, making it an attractive investment option."
+        }
+      ]
+    }
+  ]
+}

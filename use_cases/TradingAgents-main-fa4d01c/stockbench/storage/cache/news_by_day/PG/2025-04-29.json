@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Bulls Look Optimistic About P&G (PG): Should You Buy?",
+      "description": "According to the average brokerage recommendation (ABR), one should invest in P&G (PG). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "published_utc": "2025-04-29T21:30:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89c1483b19ec9a0e744f84725849801103d315961899285ffa267dc4e973d21d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130959,
+      "datetime": 1745933409
+    },
+    {
+      "title": "Procter & Gamble Company (The) (PG) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Zacks.com users have recently been watching P&G (PG) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2025-04-29T21:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6fbf509cc582d33b125abf6255bd235b96edb6bdc1cdc72b1ee26b0b30ec206",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130960,
+      "datetime": 1745931610
+    },
+    {
+      "title": "Even This Elite Dividend King Stock Is Feeling the Effects of Tariff Turmoil. Is It a Buy Anyway?",
+      "description": "Procter & Gamble (NYSE: PG) has established a reputation for delivering steady results and dividend growth, regardless of the economic cycle.  In fact, P&G is so consistent that it has raised its dividend for 69 consecutive years, an extensive streak that puts it at the top of an elite list of companies known as Dividend Kings.  Let's dive into key takeaways from the report to see if the sell-off in P&G is justified, or if it's an excellent buy now.",
+      "published_utc": "2025-04-29T19:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08d6a4143dad353905bada5c2d02fbf38e3e050e95356d93e9534167f949bc57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130961,
+      "datetime": 1745924700
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow's 534-point drop led by losses in shares of Apple, Home Depot",
+      "description": "Dow's 534-point drop led by losses in shares of Apple, Home Depot",
+      "published_utc": "2025-04-07T23:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=743fc712d25efc65c46bb9a3fa6ac16ded687719ab069aae9126b30b6f7c0482",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133747059,
+      "datetime": 1744041060
+    },
+    {
+      "title": "Apple, Nike share losses contribute to Dow's nearly 300-point fall",
+      "description": "Apple, Nike share losses contribute to Dow's nearly 300-point fall",
+      "published_utc": "2025-04-07T22:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f68f28a69996116141d0d9c92d5cfbe1a9baa0712f88db6e2540b9196260f4f7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133744606,
+      "datetime": 1744037400
+    },
+    {
+      "title": "Dow down 187 points on losses in Nike, Apple stocks",
+      "description": "Dow down 187 points on losses in Nike, Apple stocks",
+      "published_utc": "2025-04-07T21:49:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6c6c6b6ace86d36865b0db904995c2aaa81f84c5e89cf00812d76186d0a8c885",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741231,
+      "datetime": 1744033740
+    },
+    {
+      "title": "Travelers Institute Celebrates 15th Anniversary by Ringing The Opening Bell® at The New York Stock Exchange",
+      "description": "HARTFORD, Conn., April 07, 2025--The Travelers Institute, the public policy division of The Travelers Companies, Inc. (NYSE: TRV), will celebrate its 15th anniversary today by ringing The Opening Bell® at the New York Stock Exchange (NYSE).",
+      "published_utc": "2025-04-07T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7ac89c5b6eab79627e3a04f9d1f36175c2586d1953b5e42fedafe07ed9ab748",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133739054,
+      "datetime": 1744030800
+    },
+    {
+      "title": "Nike, Apple share losses lead Dow's 975-point fall",
+      "description": "Nike, Apple share losses lead Dow's 975-point fall",
+      "published_utc": "2025-04-07T20:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ad3b5dc08e7575da5ddf7a1cc7c2caf745ad124b5393ddd34b31334e2ce9b1e7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741234,
+      "datetime": 1744030080
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Are Options Traders Betting on a Big Move in American Express (AXP) Stock?",
+      "description": "Investors need to pay close attention to American Express (AXP) stock based on the movements in the options market lately.",
+      "published_utc": "2025-05-13T04:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cbc7c0c624c9bb6248f67ebe1dacd320135cab30b9cea43dd6d2cfb2acb2a90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408951,
+      "datetime": 1747080360
+    },
+    {
+      "title": "American Express Co. stock outperforms competitors on strong trading day",
+      "description": "American Express Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-05-13T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7392b67e1755b88288bcff5387b4f00cd98e679a601e9411a888d5ac0d832dff",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134403830,
+      "datetime": 1747067520
+    },
+    {
+      "title": "2 No-Brainer Dividend Stocks to Buy With $2,000 Right Now",
+      "description": "American Express and Realty Income are both reliable blue-chip dividend stocks.",
+      "published_utc": "2025-05-12T16:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=321bb8ce577b9dacb1fd94ed99ac5e9524d0d9a66fb165ca0d187c440e7be52a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379390,
+      "datetime": 1747037400
+    },
+    {
+      "title": "GAB: Lack Of Tech Exposure Is A Plus, But This Fund Is Incredibly Expensive",
+      "description": "",
+      "published_utc": "2025-05-12T16:06:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb8ba87d013f965c4fe8326e5e1a8ae62a8a6a96b084ade4aa582687bd12f176",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378210,
+      "datetime": 1747037202
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:41.132970+00:00",
+    "cache_key": "news_f2e1cd79814bc930efee8e37f942a054",
+    "count": 4
+  }
+}

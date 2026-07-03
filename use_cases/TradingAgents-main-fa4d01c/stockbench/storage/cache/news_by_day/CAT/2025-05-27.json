@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 625-point rally led by gains in shares of Nike, NVIDIA Corp.",
+      "description": "Dow's nearly 625-point rally led by gains in shares of Nike, NVIDIA Corp.",
+      "published_utc": "2025-05-27T20:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2faf0b7018dc4a7eb1f7eed5e9d008f1fc7be69c24bec89179e41b916d5fdeb6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710410,
+      "datetime": 1748347320
+    },
+    {
+      "title": "Nike, NVIDIA Corp. share gains lead Dow's 500-point rally",
+      "description": "Nike, NVIDIA Corp. share gains lead Dow's 500-point rally",
+      "published_utc": "2025-05-27T18:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2ce249df4213adb6c260b82bd158ba7f8cf676bae1bed0888b3844102cba34ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710414,
+      "datetime": 1748342760
+    },
+    {
+      "title": "6 Dividend Increases Expected In June 2025",
+      "description": "Dividend growth is crucial for my financial freedom strategy, especially during inflationary times. See here for 6 blue-chip stocks poised for dividend increases in June 2025.",
+      "published_utc": "2025-05-27T12:29:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=89c6959fbc6cf2188590dae67c999dd4317b7b31c3ff05f339bc3669fc1d15b5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972341389/image_1972341389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134706668,
+      "datetime": 1748320147
+    }
+  ]
+}

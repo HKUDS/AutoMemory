@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Are Medical Stocks Lagging  Amgen (AMGN) This Year?",
+      "description": "Here is how Amgen (AMGN) and Aldeyra Therapeutics, Inc. (ALDX) have performed compared to their sector so far this year.",
+      "published_utc": "2025-07-15T21:40:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f269ff7e1dc4757dd474ae8cc434c20fc6682b55d4aea9f4e93a45bc75536ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965431,
+      "datetime": 1752586801
+    },
+    {
+      "title": "Amgen Inc. (AMGN) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "Amgen (AMGN) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "published_utc": "2025-07-15T21:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac22fbf4a974fbd7174372bc4cb63d031f30c657a39ace0a39aa4c694e8e8427",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965432,
+      "datetime": 1752584403
+    },
+    {
+      "title": "How To Buy Stocks Using Technical Analysis Of Past Winners To Spot Emerging Growth Stocks",
+      "description": "Knowing how to buy stocks for big gains starts with technical analysis of the best growthstocks of all time. These case studies show you how.",
+      "published_utc": "2025-07-15T20:39:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eee17c948c8542876a34191b9df5b976b2112df42188c0da8d6b56e3d8ae4ffe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135962143,
+      "datetime": 1752583175
+    }
+  ]
+}

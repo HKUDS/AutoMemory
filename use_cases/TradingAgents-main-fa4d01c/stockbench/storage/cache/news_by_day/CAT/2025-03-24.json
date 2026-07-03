@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "US business equipment borrowings down more than 7% y/y in February, ELFA says",
+      "description": "U.S. companies borrowed 7.4% lessto finance equipment investments in February compared with thesame period a year earlier, the Equipment Leasing and FinanceAssociation said on Monday. ...",
+      "published_utc": "2025-03-24T23:00:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=791bfcc6b55be71cece7a7a7ec724ee0b9a1f04ea4698519b209cd9e16afef87",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133355870,
+      "datetime": 1742828400
+    }
+  ]
+}

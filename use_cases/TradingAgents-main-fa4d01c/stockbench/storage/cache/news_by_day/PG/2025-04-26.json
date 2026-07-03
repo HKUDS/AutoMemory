@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Third Quarter 2025 Earnings: Revenues Disappoint",
+      "description": "Procter & Gamble ( NYSE:PG ) Third Quarter 2025 Results Key Financial Results Revenue: US$19.8b (down 2.1% from 3Q...",
+      "published_utc": "2025-04-26T20:46:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a11f709b27c0e87b8e6580a2e96fad33a8a1ee81f9ca2b6cc69a939aee74c13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104506,
+      "datetime": 1745671567
+    },
+    {
+      "title": "Consumers are so stressed by the economy they’re doing less laundry to save on detergent",
+      "description": "The maker of America’s best-selling detergent says the company is seeing fewer loads per week.",
+      "published_utc": "2025-04-26T19:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f7baaae386031f35ce596d47d61139650251ed589a2e4c46d26bac2ac2c5776",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104507,
+      "datetime": 1745666220
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on UnitedHealth Group (UNH): “I Have to Take a Pass”",
+      "description": "We recently published a list of Jim Cramer Had These 21 Stocks on His Radar. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that Jim Cramer discusses. A caller inquired if UnitedHealth Group Incorporated (NYSE:UNH) stock presents a buying opportunity or has it […]",
+      "published_utc": "2025-05-28T05:54:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=becfc4c7fa6f0ef2be29e8c903aecf4d2e1127439d764a038f99d07650c9c2c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134741984,
+      "datetime": 1748382848
+    }
+  ]
+}

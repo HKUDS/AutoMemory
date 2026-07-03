@@ -1,0 +1,98 @@
+{
+  "trace_id": "trace_id_observations_store_reordered_command_duplicate",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: semantically duplicate observations should dedupe even when the same command is written with equivalent reordered arguments.",
+  "checks": [
+    {
+      "description": "Initial API shard timeout lesson is stored.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "api shard vitest timeout fixed by serial pool",
+        "l0": "pnpm vitest --run packages/api timed out on the API shard.",
+        "l1": "Set VITEST_POOL=serial before rerunning the package API shard to avoid worker starvation.",
+        "commands": ["pnpm vitest --run packages/api"],
+        "tools": ["shell"],
+        "files": ["packages/api/vitest.config.ts"],
+        "errorFingerprint": "VITEST_API_TIMEOUT",
+        "evidence": { "sessionID": "obs-reorder-a" },
+        "evidenceHash": "obs-reorder-a"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "VITEST_POOL=serial", "matcher": "substring" }
+    },
+    {
+      "description": "Equivalent reordered command should be suppressed as the same lesson, not stored as a second card.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "duplicate api vitest timeout with reordered command",
+        "l0": "pnpm vitest packages/api --run hit the same API shard timeout.",
+        "l1": "The same fix is to set VITEST_POOL=serial before retrying the API shard.",
+        "commands": ["pnpm vitest packages/api --run"],
+        "tools": ["shell"],
+        "files": ["packages/api/vitest.config.ts"],
+        "errorFingerprint": "VITEST_API_TIMEOUT",
+        "evidence": { "sessionID": "obs-reorder-b" },
+        "evidenceHash": "obs-reorder-b"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "^(?![\\s\\S]*duplicate api vitest timeout with reordered command)[\\s\\S]*VITEST_POOL=serial[\\s\\S]*$", "matcher": "regex" }
+    },
+    {
+      "description": "A distinct remediation for the same command shape should still be retained.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "api shard schema cache timeout fixed by clearing tmp",
+        "l0": "pnpm vitest packages/api --run timed out while loading stale schema cache.",
+        "l1": "Clear packages/api/.tmp/schema-cache before rerunning when VITEST_API_TIMEOUT is paired with stale schema metadata.",
+        "commands": ["pnpm vitest packages/api --run"],
+        "tools": ["shell"],
+        "files": ["packages/api/vitest.config.ts"],
+        "errorFingerprint": "VITEST_API_TIMEOUT_SCHEMA_CACHE",
+        "evidence": { "sessionID": "obs-reorder-c" },
+        "evidenceHash": "obs-reorder-c"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "packages/api/.tmp/schema-cache", "matcher": "substring" }
+    },
+    {
+      "description": "Exact evidence hash replay should remain suppressed.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "exact replay of api shard schema cache timeout",
+        "l0": "Replay of the schema cache timeout lesson.",
+        "l1": "This exact hash should not append another observation.",
+        "commands": ["pnpm vitest packages/api --run"],
+        "tools": ["shell"],
+        "files": ["packages/api/vitest.config.ts"],
+        "errorFingerprint": "VITEST_API_TIMEOUT_SCHEMA_CACHE",
+        "evidence": { "sessionID": "obs-reorder-c2" },
+        "evidenceHash": "obs-reorder-c"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "^(?![\\s\\S]*exact replay of api shard schema cache timeout)[\\s\\S]*schema-cache[\\s\\S]*$", "matcher": "regex" }
+    },
+    {
+      "description": "Unrelated shell failure remains appendable after dedupe checks.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "playwright webkit download blocked by proxy",
+        "l0": "playwright install webkit failed behind the corporate proxy.",
+        "l1": "Set HTTPS_PROXY before running playwright install webkit on CI workers.",
+        "commands": ["playwright install webkit"],
+        "tools": ["shell"],
+        "files": ["playwright.config.ts"],
+        "errorFingerprint": "PLAYWRIGHT_PROXY_BLOCK",
+        "evidence": { "sessionID": "obs-reorder-d" },
+        "evidenceHash": "obs-reorder-d"
+      },
+      "read_input": { "limit": 20 },
+      "expected_output": { "value": "HTTPS_PROXY", "matcher": "substring" }
+    }
+  ]
+}

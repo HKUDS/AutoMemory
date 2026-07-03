@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Is Johnson & Johnson (JNJ) The Most Profitable Cheap Stock to Buy Now?",
+      "description": "We recently compiled a list of the 10 Most Profitable Cheap Stocks to Buy Now. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against the other most profitable cheap stocks to buy. US stocks rose on Friday, May 2, as the S&P 500, Dow Jones Industrial […]",
+      "published_utc": "2025-05-04T23:19:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bb9b0b48148dacbe8deeda21a0bd062d33a8c86bfe3041c8470dd6b633ae65c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246887,
+      "datetime": 1746371966
+    },
+    {
+      "title": "Is the Trump Administration About to Cause AbbVie, Eli Lilly, and Johnson & Johnson Stocks to Crash?",
+      "description": "President Trump recently warned big drugmakers that a pharmaceutical \"tariff wall\" is coming.  Investors often view Pharmaceutical stocks as safe havens during periods of market turbulence.  Indeed, shares of the three biggest pharmaceutical companies based on market cap -- AbbVie (NYSE: ABBV), Eli Lilly (NYSE: LLY), and Johnson & Johnson (NYSE: JNJ) -- have all delivered solid gains so far this year, while the major market indexes have fallen.",
+      "published_utc": "2025-05-04T16:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3070e8ec62bcbec16160413cc2ddbd8096bd07bb89adae9dc8e3f8fd66ae84f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246834,
+      "datetime": 1746348540
+    },
+    {
+      "title": "Franklin Small Cap Growth SMA Q1 2025 Commentary",
+      "description": "The fund underperformed the Russell 2000 Growth Index benchmark in the first quarter of 2025.",
+      "published_utc": "2025-05-04T14:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=63abaa14b789193014aeec3f501021c0fe805cbf1c18319284648212c18817d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1256967959/image_1256967959.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134237398,
+      "datetime": 1746340500
+    },
+    {
+      "title": "UnitedHealth’s Stock Is Ailing. A Bigger Business Hasn’t Helped.",
+      "description": "UnitedHealth’s Stock Is Ailing. A Bigger Business Hasn’t Helped.",
+      "published_utc": "2025-05-04T08:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=aaf32b83fb6289e9e87ac9fc251cf765c71e15213a7ae2cbaaecaa4175a9a318",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134254192,
+      "datetime": 1746317100
+    }
+  ]
+}

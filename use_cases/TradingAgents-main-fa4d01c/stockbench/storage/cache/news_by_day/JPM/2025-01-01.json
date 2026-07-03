@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "New to Investing? This 1 Finance Stock Could Be the Perfect Starting Point",
+      "description": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Focus List.",
+      "published_utc": "2025-01-01T22:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa8640627be06688232ee52875a863dd5faea2f74417d3346d21b6bcbef5a0f0",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/71afbbc0512eb3c471136d93f39079c9",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132229140,
+      "datetime": 1735741802
+    },
+    {
+      "title": "Is JPMorgan Diversified Return Emerging Markets Equity ETF (JPEM) a Strong ETF Right Now?",
+      "description": "Smart Beta ETF report for JPEM",
+      "published_utc": "2025-01-01T19:20:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cc8dc03155d1739a4d265a6908880d8c5713d72cd50a3c402bcef6bcf196997",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/432476d296d64c50172213c0415587c9",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132229142,
+      "datetime": 1735730407
+    },
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Is Due To Pay A Dividend Of $1.25",
+      "description": "The board of JPMorgan Chase & Co. ( NYSE:JPM ) has announced that it will pay a dividend on the 31st of January, with...",
+      "published_utc": "2025-01-01T02:13:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1d06a349de8aa66b8c766a4380ffc07f5a0c0dceec374446a72b9b585b3cb7a",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/393a21695c25a8a00f631cfd22c3f87a",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132217317,
+      "datetime": 1735668781
+    }
+  ]
+}

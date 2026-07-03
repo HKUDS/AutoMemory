@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says He’s “Not Going to Fight” Joby Aviation",
+      "description": "Joby Aviation, Inc. (NYSE:JOBY) is one of the 22 stocks Jim Cramer recently talked about. During the lightning round, a caller inquired about the company, and Cramer commented: “I’m going to do a twofer because I’m in the mood for the $9, $10 stocks. Archer and Joby, what can I say? I’m not going to […]",
+      "published_utc": "2025-07-05T22:44:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0f0d9011b4aedd1a773ac2cb6ac4b6b0d0754b81a5484ea55658a90da707950",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135767784,
+      "datetime": 1751726645
+    },
+    {
+      "title": "Joby Aviation, Inc. (JOBY): If Boeing Has An eVTOL, Then Why Joby? Wonders Jim Cramer",
+      "description": "We recently published 12 Stocks Jim Cramer Recently Talked About In His “Idea-Driven” Market.Joby Aviation, Inc. (NYSE:JOBY) is one of the stocks Jim Cramer recently discussed. Joby Aviation, Inc. (NYSE:JOBY) is one of the few pure-play electric vertical take-off and landing (eVTOL) aircraft designers in the world. The shares have gained 30% year-to-date on the […]",
+      "published_utc": "2025-07-05T18:20:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c94b0034724bd512f6ac07478aeb30839b02de13530f7a1b2d439967ff2b1ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135767785,
+      "datetime": 1751710803
+    },
+    {
+      "title": "The Boeing Company (BA) Is Part Of An “Idea-Driven” Market, Says Jim Cramer",
+      "description": "We recently published 12 Stocks Jim Cramer Recently Talked About In His “Idea-Driven” Market. The Boeing Company (NYSE:BA) is one of the stocks Jim Cramer recently discussed. The Boeing Company (NYSE:BA) has experienced a turnaround in its share price in 2025. The firm’s shares closed 2024 31% lower after its production suffered due to safety […]",
+      "published_utc": "2025-07-05T18:19:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5de9fa070fedfbc83c556387afcb1e745abe0f5edeb261bc805b32ed24843662",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135768093,
+      "datetime": 1751710789
+    },
+    {
+      "title": "How Equity Factors Dampened The April Tariff Tantrum",
+      "description": "The Russell 1000 Comprehensive Factor Index cut peak drawdown by 29% versus the benchmark during Aprilâs tariff volatility.",
+      "published_utc": "2025-07-05T13:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a7fd5558f6d238a72cd137ecf41bfd13680f9258c3516a639cbfbfd50aecfb90",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471576016/image_471576016.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135764361,
+      "datetime": 1751693400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:53.160472+00:00",
+    "cache_key": "news_78711d9da1fb8f845d075348f7a72844",
+    "count": 4
+  }
+}

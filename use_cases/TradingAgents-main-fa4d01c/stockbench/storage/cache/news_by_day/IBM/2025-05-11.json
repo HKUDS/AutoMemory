@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM Just Gave Nvidia Stock Investors Terrible News",
+      "description": "An IBM survey suggests that businesses are struggling to achieve acceptable ROIs from AI investments.  Cheaper AI is likely required to successfully scale up the technology.  The trend of affordable AI models running on cheaper hardware does Nvidia no favors.",
+      "published_utc": "2025-05-11T18:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4af01323936f169e8943329b60489aab2cd2497f4ce40a70be112d6f8e88ba1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379319,
+      "datetime": 1746958200
+    },
+    {
+      "title": "On This Day: IBM's Deep Blue beats chess legend Kasparov",
+      "description": "On this date in history:In 1858, Minnesota joined the United States as the 32nd state.In 1862, the Confederate navy destroyed its iron-clad vessel Merrimac to prevent it from falling into the hands...",
+      "published_utc": "2025-05-11T11:21:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aa7acec0a4c16e4052d1c01ce6328fcab8520132f32c75c98ed4225c13f57b15",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369445,
+      "datetime": 1746933665
+    }
+  ]
+}

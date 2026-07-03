@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon (AMZN) Commits $13B to AI Data Centers in Australia — Its Largest Tech Investment Yet",
+      "description": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the 12 AI Stocks Every Investor Should Be Watching. On June 14, the company disclosed in a blog post that it will invest A$20 billion ($12.97 billion) from 2025 to 2029 to expand, operate, and maintain its data center infrastructure in Australia to boost the nation’s artificial intelligence capabilities. The […]",
+      "published_utc": "2025-06-17T07:20:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12c5adda2d9da6ab993cf111eb05e19089a9b2200e467d795be830bb435f8ebd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311805,
+      "datetime": 1750116042
+    },
+    {
+      "title": "Amazon (AMZN) Rises Higher Than Market: Key Facts",
+      "description": "Amazon (AMZN) concluded the recent trading session at $216.10, signifying a +1.89% move from its prior day's close.",
+      "published_utc": "2025-06-17T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f7b917ccc2cdecd74aff9a33cfc54d128a0ec04d57e802cc8e426a9d8d2aede",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311806,
+      "datetime": 1750110305
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2025 Update",
+      "description": "AQR Capital's Q1'25 portfolio hits $97.07B, with top picks in AAPL, NVDA, & AMZN. Active portfolio adjustments show a quantitative, diversified approach. See more.",
+      "published_utc": "2025-06-17T05:09:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51b45bd42e92498ec52abd010edf461044394127b04a8428f9c402a3b43b4ef8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312158,
+      "datetime": 1750108183
+    },
+    {
+      "title": "Cathie Wood Stock Roku Surges On Amazon Deal",
+      "description": "Amazon.com and streaming video platform Roku announced a partnership in internet television advertising. Roku stock jumped on the news.",
+      "published_utc": "2025-06-17T04:34:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b51b58a4f7eab659a11479520dd7a3b2224a3a9db22b3d1f0a50260b5053dbbb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311807,
+      "datetime": 1750106083
+    },
+    {
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "description": "Tech stocks rose late Monday afternoon with the Technology Select Sector SPDR Fund (XLK) gaining 1.6",
+      "published_utc": "2025-06-17T03:46:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a21e42db3294bf4a6587b86ebc805b30013b6fc6ac329302aa29aa2d5017872",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311746,
+      "datetime": 1750103176
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:04.213499+00:00",
+    "cache_key": "news_8d9f2f801bc8c1d4aa8b81a7dcabd056",
+    "count": 5
+  }
+}

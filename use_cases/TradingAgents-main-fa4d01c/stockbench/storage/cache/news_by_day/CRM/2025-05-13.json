@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "A great week that adds to Salesforce, Inc.'s (NYSE:CRM) one-year returns, institutional investors who own 84% must be happy",
+      "description": "Key Insights Given the large stake in the stock by institutions, Salesforce's stock price might be vulnerable to their...",
+      "published_utc": "2025-05-13T19:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22dc137ebc0afd1327ce851c602ff7817dc77a0f60bd0287a99b3d9371b56706",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408651,
+      "datetime": 1747134018
+    }
+  ]
+}

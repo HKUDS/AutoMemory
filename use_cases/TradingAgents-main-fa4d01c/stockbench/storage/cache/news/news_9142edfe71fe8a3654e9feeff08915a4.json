@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The cracks in the OpenAI-Microsoft relationship are reportedly widening",
+      "description": "OpenAI and Microsoft have an increasingly strained relationship, according to a recent WSJ report.",
+      "published_utc": "2025-06-17T06:40:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a6eae8bfc53c71378d22fdd4a7774e6d94aba6c4d237eb46d53dd0191926f04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135313336,
+      "datetime": 1750113651
+    },
+    {
+      "title": "2 Unstoppable Dow Dividend Stocks to Buy and Hold Forever",
+      "description": "Microsoft has too many strengths, from AI to cloud computing, and a wide moat.  Coca-Cola's brand name grants it a significant advantage.  The iconic Dow Jones is the worst-performing of the three major U.S. indexes this year; it is slightly in the red as of this writing.",
+      "published_utc": "2025-06-17T06:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c33d4c680dd65594128db975346c8a08c568cb148479e6c294b4c37c0ca1540",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312149,
+      "datetime": 1750112100
+    },
+    {
+      "title": "OpenAI Seeks New Financial Concessions From Microsoft, A Top Shareholder- The Information",
+      "description": "June 16 - * OPENAI SEEKS NEW FINANCIAL CONCESSIONS FROM MICROSOFT, ATOPSHAREHOLDER- THE INFORMATION * OPENAI WANTS MICROSOFT TO HAVE A ROUGHLY 33% STAKE INRESHAPEDUNIT...",
+      "published_utc": "2025-06-17T06:05:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2a40efce6ae8e6cf5c1560f3b94b066f9983b80c8bd92c95431f8c7110892480",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312462,
+      "datetime": 1750111508
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2025 Update",
+      "description": "AQR Capital's Q1'25 portfolio hits $97.07B, with top picks in AAPL, NVDA, & AMZN. Active portfolio adjustments show a quantitative, diversified approach. See more.",
+      "published_utc": "2025-06-17T05:09:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51b45bd42e92498ec52abd010edf461044394127b04a8428f9c402a3b43b4ef8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312158,
+      "datetime": 1750108183
+    },
+    {
+      "title": "TikTok will go dark June 19 unless Trump gives it another lifeline",
+      "description": "TikTok will go offline on June 19 unless it can find a buyer or President Trump extends its sale deadline again.",
+      "published_utc": "2025-06-17T04:15:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=812481f7fd0d447834ae7d1b80445bd93b53575e0c8b723429cd6d2437755cbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312206,
+      "datetime": 1750104909
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:56:38.141010+00:00",
+    "cache_key": "news_9142edfe71fe8a3654e9feeff08915a4",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Will more people ride out a trade war with Netflix? The streamer’s results will offer clues.",
+      "description": "Will more people ride out a trade war with Netflix? The streamer’s results will offer clues.",
+      "published_utc": "2025-04-15T01:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=45dc92ee46156ae15f334bde3e2418102fa747c0951bc5c381d0922456a83f78",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133912199,
+      "datetime": 1744650300
+    },
+    {
+      "title": "What Makes UnitedHealth Group (UNH) a Strong Momentum Stock: Buy Now?",
+      "description": "Does UnitedHealth Group (UNH) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+      "published_utc": "2025-04-15T00:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15c8290f1c110eb0ac519d3261dcb55195687f1c069015b2412a101de7e82ad4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908193,
+      "datetime": 1744646403
+    },
+    {
+      "title": "“No China Exposure? Incredible!” – Jim Cramer Flags UnitedHealth Group (UNH) as a Safe Haven",
+      "description": "We recently published a list of Jim Cramer Discussed These 12 Stocks. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other stocks that Jim Cramer discussed. On Thursday, Jim Cramer, host of Mad Money, described the 145% duty on China as so extreme that it […]",
+      "published_utc": "2025-04-14T21:35:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=404100430d09445e61589b039fca7f0c0d2b8a7353e74a5bdc970dfc99aff350",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908194,
+      "datetime": 1744637712
+    },
+    {
+      "title": "These Were the 2 Top-Performing Stocks in the Dow Jones Industrial Average in March 2025",
+      "description": "Let's take a look at the two best-performing Dow Jones Industrial Average (DJINDICES: ^DJI) companies to see if they're worth buying today.  UnitedHealth Group (NYSE: UNH) is one of the most resilient stocks on the market.  There was no major company-specific news out on UnitedHealth in March, and investors seem to be returning to the stock after it tumbled following the assassination of one of its executives in December 2024.",
+      "published_utc": "2025-04-14T21:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec07b511dcf488eeed77be3a88bd730457016236b8529e6a163ff3fc21515e27",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908195,
+      "datetime": 1744636560
+    },
+    {
+      "title": "Gear Up for UnitedHealth (UNH) Q1 Earnings: Wall Street Estimates for Key Metrics",
+      "description": "Get a deeper insight into the potential performance of UnitedHealth (UNH) for the quarter ended March 2025 by going beyond Wall Street's top -and-bottom-line estimates and examining the estimates for some of its key metrics.",
+      "published_utc": "2025-04-14T21:15:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38ca50c2c53c5d15efb9d8a5e51e3f5f0b4316329648dbe4a3dbbbf864766865",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908196,
+      "datetime": 1744636518
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:42.461457+00:00",
+    "cache_key": "news_13df36c1be0ea385aa30e4fe7d65d3e6",
+    "count": 5
+  }
+}

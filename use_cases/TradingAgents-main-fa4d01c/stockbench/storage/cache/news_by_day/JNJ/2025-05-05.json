@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Was Jim Cramer Right About Johnson & Johnson (JNJ)?",
+      "description": "We recently published a list of Did Jim Cramer Hit or Miss On These 13 Stock Predictions? In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other stocks that Jim Cramer discussed during the episode of Mad Money on May 1st, 2024. During the Mad Money episode […]",
+      "published_utc": "2025-05-05T21:29:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25dd079a268ca6ccbb4f93b2dca6fcbc1576a0394ec303c604f07bb291031338",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246882,
+      "datetime": 1746451762
+    },
+    {
+      "title": "TREMFYA® (guselkumab) positioned to become the first and only IL-23 inhibitor to offer subcutaneous induction in ulcerative colitis as demonstrated in new data through 24 weeks",
+      "description": "Johnson & Johnson (NYSE: JNJ) today announced new data from the Phase 3 ASTRO study evaluating TREMFYA® (guselkumab) subcutaneous (SC) induction therapy in adults with moderately to severely active ulcerative colitis (UC). The ASTRO Week 24 data build on the Week 12 SC induction data that showed statistically significant and clinically meaningful improvements compared to placebo across all clinical and endoscopic measures consistent with the U.S. Food and Drug Administration (FDA)-approved intra",
+      "published_utc": "2025-05-05T20:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=096393cdd048cb6de09945dbe21f788135bc2b707a7f1b9dd0f3032f474e0589",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246884,
+      "datetime": 1746446700
+    },
+    {
+      "title": "TREMFYA® (guselkumab) delivers sustained clinical and endoscopic remission in ulcerative colitis through two years",
+      "description": "Johnson & Johnson (NYSE: JNJ) today announced new data from the TREMFYA® (guselkumab) Phase 3 QUASAR long-term extension (LTE) study in adults with moderately-to-severely active ulcerative colitis (UC). These data are among 24 abstracts highlighting the Company's research being presented at Digestive Disease Week (DDW) 2025.",
+      "published_utc": "2025-05-05T20:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24ee94a56750103d6524f3a6755b17db073a22807417ca40ca27423670ee4e5c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246883,
+      "datetime": 1746446700
+    }
+  ]
+}

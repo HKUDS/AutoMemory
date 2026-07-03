@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "SAP: Forget The 'F' Valuation, This Is A 'Buy'",
+      "description": "SAP SE is an underappreciated software giant whose successful cloud transformation is now generating explosive profitability. Click to read why SAP is a Buy.",
+      "published_utc": "2025-06-11T22:59:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4036c6334cb4c8483c542a329a44dd73df54e4323a40d8ce6dea3c1b46a70367",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180795715/image_2180795715.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135193200,
+      "datetime": 1749653947
+    },
+    {
+      "title": "Market Chatter: Salesforce Restricts Third-Party Software Firms' Access to Slack Data",
+      "description": "Salesforce (CRM) has restricted third-party software firms from storing or indexing customer Slack d",
+      "published_utc": "2025-06-11T21:42:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2dd4b50f03701389384bcae59cb58215032b990e6607a73a81be7d02ef9c381a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135188112,
+      "datetime": 1749649368
+    },
+    {
+      "title": "Indiana Fever, Pacers Sports & Entertainment Tap Salesforce to Scale Fan Engagement with Agentic AI",
+      "description": "SAN FRANCISCO, June 11, 2025--Salesforce (NYSE: CRM), the world’s #1 AI CRM, today announced that the Indiana Fever and its parent organization Pacers Sports & Entertainment (PS&E) are deploying Agentforce, Salesforce’s digital labor platform, to autonomously scale deeper, more personalized connections with their rapidly expanding fanbase and augment its marketing and sales teams with agentic AI.",
+      "published_utc": "2025-06-11T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9cdbf3af2b2ac6e61c4f63801e02c013a00ca57f0142f65a766001a06a4ab88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135180044,
+      "datetime": 1749643200
+    }
+  ]
+}

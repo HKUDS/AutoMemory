@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q1 2025 Update",
+      "description": "Appaloosaâs Q1 2025 portfolio value surged to $8.38B, with 39 holdings. Check out the major new bets and significant stake increases here.",
+      "published_utc": "2025-05-20T06:54:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=571b5fd48a654bb868cb2b6d859320d89d5a354aa0d0e9a754415714558138ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604514,
+      "datetime": 1747695282
+    },
+    {
+      "title": "A Microsoft Employee From Abroad Questions US Job Security Norms. 'How Can You Live Comfortably Knowing You Can Be Fired At Any Time?'",
+      "description": "A Reddit thread posted on the r/jobs forum has sparked a surge of frustration, empathy and truth-telling about the harsh reality of “at-will” employment in the U.S. It started with a straightforward question from a person, an employee based outside the U.S., reacting to news of sudden layoffs at Microsoft (NASDAQ:MSFT): “How can you live comfortably knowing that you can be fired at any time and for any reason?” they asked. “[In] the country where I'm based, you have to give a valid reason to fir",
+      "published_utc": "2025-05-20T04:31:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=726a442ff05e67c15ed579a546d9130709c2b40a3498792ca62ef10175ef8539",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608897,
+      "datetime": 1747686706
+    },
+    {
+      "title": "Elon Musk's AI Just Landed on Microsoft Azure -- And It Might Change Everything",
+      "description": "Grok 3 joins Microsoft's growing AI empire as the cloud wars heat up",
+      "published_utc": "2025-05-20T04:06:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b995e1de458c082e2214c59af3604735bfd8566e0ad7a94d5ded0fb4d00caf3c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608898,
+      "datetime": 1747685190
+    },
+    {
+      "title": "Elon Musk, who's suing Microsoft, is also software giant's special guest in new Grok AI partnership",
+      "description": "Elon Musk is in a legal fight with Microsoft but made a friendly virtual appearance at the software giant's annual technology showcase to reveal that his Grok artificial intelligence chatbot will now be hosted on Microsoft's data centers.  “It’s fantastic to have you at our developer conference,” Microsoft CEO Satya Nadella said to Musk in a pre-recorded video conversation broadcast Monday at Microsoft's Build conference in Seattle.  Musk last year sued Microsoft and its close business partner OpenAI in a dispute over Musk's foundational contributions to OpenAI, which Musk helped start.",
+      "published_utc": "2025-05-20T03:32:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2c1d10003cd2fc8e9907931968653d54b26c31246db3802bc0fa62b35a3d671",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601431,
+      "datetime": 1747683138
+    },
+    {
+      "title": "Tech Stocks Volatility After US Credit Downgrade",
+      "description": "ClearBridge Investments Senior Research Analyst Hilary Frisch says some of the pullback in tech may be profit-taking after first-quarter earnings showed resilience in core business lines. She speaks with Ed Ludlow on \"Bloomberg Technology.\"",
+      "published_utc": "2025-05-20T03:05:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6801dccd585087f6e8c6fee9943ea5576ff96e849f91195cc378e4d82517fa5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601432,
+      "datetime": 1747681506
+    }
+  ]
+}

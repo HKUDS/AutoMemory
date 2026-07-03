@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "EPU: Peru Isn't One Of My Top LatAm Picks Right Now",
+      "description": "Peru's political instability and upcoming elections present significant risks, particularly vs. other countries in the region. Read why EPU ETF is a Hold.",
+      "published_utc": "2025-07-27T09:03:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3f365a739b7a2271829d8c7123cf0bb3e9fd512711aac2528c62e0dff2359dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387126975/image_1387126975.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136099223,
+      "datetime": 1753578215
+    },
+    {
+      "title": "The Boeing Company (BA) Has A Huge Backlog, Says Jim Cramer",
+      "description": "We recently published 10 Stocks On Jim Cramer’s Mind As He Gives Up On Becoming Fed Chair. The Boeing Company (NYSE:BA) is one of the stocks Jim Cramer recently discussed. Cramer has discussed aerospace giant The Boeing Company (NYSE:BA) several times in his morning show this year. He has praised the firm’s turnaround and was […]",
+      "published_utc": "2025-07-27T07:48:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3587b052e22aa22eb66cb1d7cfc57e2d4523fb0bc9acca4b2a7faca776337f92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101836,
+      "datetime": 1753573681
+    },
+    {
+      "title": "Fidelity Large Cap Stock Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-27T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dabed13e4a285da09db3a5961cd1a6f4f26ff2adc0f4484530b23cbfe012b2e6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136098550,
+      "datetime": 1753569300
+    }
+  ]
+}

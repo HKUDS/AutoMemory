@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams (SHW): Buy, Sell, or Hold Post Q4 Earnings?",
+      "description": "Over the last six months, Sherwin-Williams’s shares have sunk to $338.99, producing a disappointing 10.3% loss while the S&P 500 was flat. This was partly due to its softer quarterly results and may have investors wondering how to approach the situation.",
+      "published_utc": "2025-03-17T17:02:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff7034d8ff3eaddebee4c7d9b227bbeba1d5314cf238462cc38eebfef5d8ea4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325838,
+      "datetime": 1742202178
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q4 2024 Update",
+      "description": "Viking Global's 13F stock portfolio increased from $27.44B to $30.90B, with holdings rising from 83 to 86. Read more to see the portfolio's Q4 2024 review.",
+      "published_utc": "2025-03-17T15:41:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4231b308425ecd6a3e209526e09eef1176bde00a59c04dad85e1b4110c15fc5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200502280/image_200502280.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133206548,
+      "datetime": 1742197295
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:44.037487+00:00",
+    "cache_key": "news_796f8dd6ec4d268e78a383e6013da5cb",
+    "count": 2
+  }
+}

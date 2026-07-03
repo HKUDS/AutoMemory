@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tariffs Stoke Fears That Hung Debt Will Return",
+      "description": "(Bloomberg) -- Deals in leveraged finance have stalled, and markets have been upended, raising the possibility that banks might once again get stuck with debt they’ve committed for acquisitions.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look Like?Hochul Says Trump’s Tariffs Are Already Hurting New York Eco",
+      "published_utc": "2025-04-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcdf8afa08c74dfb7bc324925a7e4269a01e0ba35515a963fc3095e192cb5781",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727253,
+      "datetime": 1743879600
+    },
+    {
+      "title": "Wall Street Gets Rude Shock as Bessent Plays Second Fiddle on Tariffs",
+      "description": "(Bloomberg) -- From the moment President Donald Trump unveiled his sweeping tariffs Wednesday through the ensuing market mayhem the following day, Treasury Secretary Scott Bessent’s phone lit up with text messages from executives tied to his former industry.Most Read from BloombergHousing Agency Aims to Relocate Its DC HeadquartersLocal Governments Vie for Fired Federal WorkersMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesWhat Would ‘Transportation Abundance’ Look L",
+      "published_utc": "2025-04-06T02:51:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19d2451c113c286241f388d38c7005a1e934414a58cedf10838ab78301e067e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727254,
+      "datetime": 1743879112
+    },
+    {
+      "title": "JPMorgan Chase (NYSE:JPM) Drops 13% Following Trade Tension Impact",
+      "description": "JPMorgan Chase (NYSE:JPM) recently experienced a 13% price decline amid a turbulent week for global markets. While initiatives such as launching the Money Smart Financial Coaching Program and appointing Carl Torrillo as Managing Director underline its strategic focus on expansion and leadership, the broader market's response to escalating trade tensions played a pivotal role in this downturn. With major indices like the S&P 500 and Nasdaq dropping significantly due to tariff concerns, JPM's...",
+      "published_utc": "2025-04-06T02:10:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=355a26cf3640b99d833a54aa41215e1e7857caca54b1e234f2bd7e7ffa8ee0e7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727255,
+      "datetime": 1743876632
+    },
+    {
+      "title": "Stock rout and dealmaking freeze raise stakes for start of Wall Street's earnings season",
+      "description": "A dealmaking freeze and the biggest rout in financial stocks since 2023 are raising the stakes for the start of Wall Street’s earnings season this coming week.",
+      "published_utc": "2025-04-05T19:55:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=277850d8c075dfebbb34ed6d031d71e3c3ad8f9bd86c9c6aa57527036b606051",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727256,
+      "datetime": 1743854143
+    },
+    {
+      "title": "Markets Watch Out For Core CPI With Big Banks Set To Report Earnings",
+      "description": "Stay ahead in financial markets with Seeking Alpha's Wall Street Week Ahead as big banks are set to report earnings this week.",
+      "published_utc": "2025-04-05T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=290a46b4ff94cd232215d799c4e0de45630fa5ec77b14abd0e5e194c09959460",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133726036,
+      "datetime": 1743850800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:15.790807+00:00",
+    "cache_key": "news_1747ba3172fd07fc92d32a530b9b323a",
+    "count": 5
+  }
+}

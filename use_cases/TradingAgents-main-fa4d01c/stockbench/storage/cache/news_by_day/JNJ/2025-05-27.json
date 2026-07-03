@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "How To Build A $100,000 Dividend Portfolio That Could Yield 10.75% In 15 Years",
+      "description": "The Dividend Income Accelerator Portfolio targets income growth and diversification across sectors and countries. Learn why it offers strong returns and low risk.",
+      "published_utc": "2025-05-27T00:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4bba80b64fd9b458cfb1fb516aebcdd2ca8aadeff95b4f1fe8fcb22ac8432e60",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134702503,
+      "datetime": 1748275200
+    }
+  ]
+}

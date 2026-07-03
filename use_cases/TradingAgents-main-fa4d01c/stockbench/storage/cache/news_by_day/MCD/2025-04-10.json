@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+      "description": "In the closing of the recent trading day, McDonald's (MCD) stood at $303.58, denoting a +1.25% change from the preceding trading day.",
+      "published_utc": "2025-04-10T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddf12ace199c65ff19319eb1c611cd90bd871890d6125f6b0efc8d523b2cd33f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844212,
+      "datetime": 1744235105
+    }
+  ]
+}

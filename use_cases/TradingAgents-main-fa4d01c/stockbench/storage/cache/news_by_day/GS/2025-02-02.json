@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "AI Is Wall Street’s Modern Gold Rush. Here’s How Investors Are Placing Their Bets.",
+      "description": "AI Is Wall Street’s Modern Gold Rush. Here’s How Investors Are Placing Their Bets.",
+      "published_utc": "2025-02-02T13:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=68f2df1096dfad182c85cb51687f9679e27a5bcca03dff42f22fd6f52a1b7ddb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132544074,
+      "datetime": 1738474200
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. (GS): Among the Large-Cap Stocks Insiders Are Buying Recently",
+      "description": "We recently compiled a list of the 10 Large-Cap Stocks Insiders Are Buying Recently. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against the other large-cap stocks. Investors should closely monitor insider trading activity as it can provide valuable insights into a company’s future prospects. […]",
+      "published_utc": "2025-02-02T11:15:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45ca0efdba758fa20317dd8c6bd9945057b8597f761361ec5e82d1fa979e2cac",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/qNsj2NjUj99g23KOXjQx2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/71989542b1f6aeabd94286d52a52bb12",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132513704,
+      "datetime": 1738466135
+    },
+    {
+      "title": "Northern Trust: Q4, Strong Growth In Revenue And AUM (Rating Upgrade)",
+      "description": "The new administration's tax policies are expected to benefit Northern Trust Corporation. Read why I rate NTRS stock a Buy for long-term investors.",
+      "published_utc": "2025-02-02T06:36:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1cf0aa6bceee1b7a4ce40b2e75783cc6dafb7033a6ff071d9ab2229139ae93f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/684152254/image_684152254.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132512945,
+      "datetime": 1738449376
+    }
+  ]
+}

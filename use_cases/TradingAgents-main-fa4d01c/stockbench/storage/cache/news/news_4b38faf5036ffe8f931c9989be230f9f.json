@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Stock Sinks As Market Gains: What You Should Know",
+      "description": "Procter & Gamble (PG) reached $153.76 at the closing of the latest trading day, reflecting a -2.09% change compared to its last close.",
+      "published_utc": "2025-07-15T05:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29ede42ca3081f349cc9762496dfa36e3311a96da732372dfcb3fd8d6f56749e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135935536,
+      "datetime": 1752529805
+    },
+    {
+      "title": "Procter & Rivian downgraded, Starbucks gets a new Sell rating",
+      "description": "Evercore ISI downgraded Procter & Gamble (PG) to In Line from Outperform and cut its price target to $170 from $190, citing growing competition from Amazon and slowing growth. Guggenheim cut Rivian (RIVN) to Neutral from Buy and removed its price target on the stock amid reduced confidence in demand and the impact of weaker electric vehicle (EV) incentives. Melius initiated coverage on Starbucks (SBUX) with a Sell rating, warning that the path to a full turnaround may take longer than expected. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-07-15T04:46:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd62e692c059bc2e0ef3d71926d480da40823cde087597e1a37ae4512ec47d9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135935538,
+      "datetime": 1752526009
+    },
+    {
+      "title": "Procter & Gamble (PG) Slides After Evercore Cuts Rating Ahead of Earnings",
+      "description": "Evercore Sees Sales Gap for P&G, Stock Slides on Channel Shift Fears",
+      "published_utc": "2025-07-15T03:51:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc5b9efb67c62790288c7c1495a6fe6b00d3b617ef7baadb0c3f15528f355c55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135935539,
+      "datetime": 1752522662
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Monday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-07-15T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0f6449ade24c7863abf1e6285d0626f409ab4262239626e2c0684fd435405c3a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135949252,
+      "datetime": 1752510660
+    },
+    {
+      "title": "Trump Unleashes New Tariffs Beginning August 1: What Changed?",
+      "description": "Markets shrug off U.S. tariffs, with focus on Treasury yields, the dollar, and economic data like CPI.",
+      "published_utc": "2025-07-15T00:00:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29f082f56e55c386c3c703a821897024a02942eae2c012b71d8d296a882c87ce",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/825332284/image_825332284.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135930526,
+      "datetime": 1752508815
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:56.851872+00:00",
+    "cache_key": "news_4b38faf5036ffe8f931c9989be230f9f",
+    "count": 5
+  }
+}

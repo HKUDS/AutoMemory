@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Tracking Al Gore's Generation Investment Management Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-05-26T04:57:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66d61360745bb728d22d61b6b819190b31bba7542f0e8de5128880a2d347259d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134696534,
+      "datetime": 1748206666
+    },
+    {
+      "title": "Alger Mid Cap Focus Fund Q1 2025 Commentary",
+      "description": "Class A shares of the Alger Mid Cap Focus Fund underperformed the Russell Midcap Growth Index during the first quarter of 2025. Read more here.",
+      "published_utc": "2025-05-26T00:04:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=41e96c34c1a430f61b809c52750693cc7f24ece4bf8c51647e45647f158fccba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1974862297/image_1974862297.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134695566,
+      "datetime": 1748189040
+    }
+  ]
+}

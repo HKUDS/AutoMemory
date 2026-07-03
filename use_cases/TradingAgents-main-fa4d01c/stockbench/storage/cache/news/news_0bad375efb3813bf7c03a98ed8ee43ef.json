@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Key analyst makes surprise call on IBM in AI software growth",
+      "description": "This is what could happen next to IBM shares.",
+      "published_utc": "2025-03-25T03:45:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d8e1397be50cb83c30284a29293ee985de6ab936d1178cfc4afda9444b4f2a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360263,
+      "datetime": 1742845523
+    },
+    {
+      "title": "Driving Innovation in Digital Lending: International Business Machines (IBM)’s Strategic Partnership with Finastra",
+      "description": "We recently compiled a list of the 10 AI Stocks You Need to Watch: News & Ratings. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against the other AI stocks. Nvidia’s annual software developer conference, GTC, is in full swing. With its latest announcements, the […]",
+      "published_utc": "2025-03-25T02:29:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccbaa60dbd460f340c7e30a09e41faeea10d7a145db4a0d8aa38a65cc27ccd3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360376,
+      "datetime": 1742840983
+    },
+    {
+      "title": "Which Stocks Benefit From AI Spending? Analyst Names IBM And More",
+      "description": "Wedbush analyst Daniel Ives discusses the benefits for software companies from the AI spending phase. In recent weeks, the analyst has been tracking enterprise AI spending in 2025, focusing on use cases and identifying leading vendors. AI now makes up about 12% of many IT budgets, up from 10% in January, with some CIOs accelerating their AI strategies. Nvidia Corp (NASDAQ:NVDA) chips and cloud providers are central to AI deployments, and for every $1 spent on Nvidia, there is an $8-$10 impact ac",
+      "published_utc": "2025-03-25T02:10:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef73cb409c1e3d10933af8f844674ff3dec1aefe53120804258d44681a127c14",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360377,
+      "datetime": 1742839815
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Partners With Datavault AI To Enhance AI Monetization",
+      "description": "In a robust quarter for International Business Machines (NYSE:IBM), the company's stock saw a notable on-market price increase of 9%. Alignments like the collaboration with Datavault AI Inc. in IBM's Partner Plus program and several key strategic partnerships, such as those with Finastra, NVIDIA, and the Basque Government, may have fueled investor confidence. Despite IBM's mixed earnings results, where revenue slightly increased but net income fell, its prospects for growth through...",
+      "published_utc": "2025-03-25T01:19:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2102ff51d21d3cf1e618cb403971ad65f46f56dfefe268cfc49fa4a3e56174dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360378,
+      "datetime": 1742836763
+    },
+    {
+      "title": "AI Budgets Are Still Rising. IBM Has a ‘Massive Opportunity.’",
+      "description": "Wall Street’s biggest optimist on technology companies said spending on artificial intelligence has risen over the past weeks even as the stock market has struggled, and that  IBM  has an enormous opportunity to benefit.  In a research note on Monday morning, Wedbush Securities’ managing director Daniel Ives estimated that AI spending now makes up roughly 12% of many IT budgets, and in some cases even 15%.  The numbers, up from his estimate of 10% for January, were based on checks conducted over the past few weeks monitoring dozens of large companies.",
+      "published_utc": "2025-03-24T21:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae99fd6c83773f41b4917e38aeda110b47797719b71dc3c27432ebef16f144fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133337854,
+      "datetime": 1742824080
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:01.775045+00:00",
+    "cache_key": "news_0bad375efb3813bf7c03a98ed8ee43ef",
+    "count": 5
+  }
+}

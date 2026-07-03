@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Travelers Companies' (NYSE:TRV) Upcoming Dividend Will Be Larger Than Last Year's",
+      "description": "The Travelers Companies, Inc. ( NYSE:TRV ) has announced that it will be increasing its dividend from last year's...",
+      "published_utc": "2025-05-22T02:53:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af3b5675d27d88f961fe39da4168291cb760db730129b0998b5c1a1a7ad16032",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628766,
+      "datetime": 1747853618
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:32.330213+00:00",
+    "cache_key": "news_b688c13d31766636fae7741f29c29b0b",
+    "count": 1
+  }
+}

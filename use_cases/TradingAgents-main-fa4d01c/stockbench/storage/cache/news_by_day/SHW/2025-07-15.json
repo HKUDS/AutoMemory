@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams (SHW) Reports Next Week: Wall Street Expects Earnings Growth",
+      "description": "Sherwin-Williams (SHW) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-07-15T22:00:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afe7a41d361fd61518467a2ef8efb219b17583a7e3c7042704eca9c26930e3d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135948123,
+      "datetime": 1752588008
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Who will win the battle of U.S. retail media?",
+      "description": "Investing.com -- Walmart (NYSE:WMT), Costco (NASDAQ:COST), and Target Corporation (NYSE:TGT) continue to race to capture a larger slice of the fast-growing U.S. retail media market, which could double to $100 billion by 2028 and account for nearly one-fifth of total media ad spend.",
+      "published_utc": "2025-07-05T18:35:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebe2bf9261010a1a9a7120aab1847a12d3cc03308c5bcd9dbe37849bbbeaf79b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135765987,
+      "datetime": 1751711702
+    },
+    {
+      "title": "How did the hyperscale clouds do in Q1 2025?",
+      "description": "Investing.com -- In a note to clients on Monday, Bernstein analysts said the hyperscale cloud market remains on a strong, long-term growth path, with generative AI now taking center stage as the primary revenue driver.",
+      "published_utc": "2025-07-05T18:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=507f0b2e97b070216439731c615764a85670d32bb6a917cbd267ca29b10fe17b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766463,
+      "datetime": 1751711403
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN): Jim Cramer Discusses Alexa Plus In Detail",
+      "description": "We recently published Jim Cramer Recently Discussed These 11 Stocks & Said The Robots Are Coming. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks Jim Cramer recently discussed. Amazon.com, Inc. (NASDAQ:AMZN) has appeared frequently on Cramer’s morning show recently. Most of the time, he has discussed the firm’s Alexa assistant and outlined that an Alexa […]",
+      "published_utc": "2025-07-05T18:12:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec59b5e7e0065bbda083550af2ecfe0314b31abfbde893b4d906b18a05d9fe39",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766464,
+      "datetime": 1751710323
+    }
+  ]
+}

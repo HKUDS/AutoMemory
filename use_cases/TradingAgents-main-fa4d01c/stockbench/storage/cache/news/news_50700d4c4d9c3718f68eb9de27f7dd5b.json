@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "3 Things to Know About Amazon Stock Before You Buy",
+      "description": "Despite its massive size, with 2024 sales of $638 billion, Amazon should be able to grow revenue at a healthy pace for the foreseeable future.  CEO Andy Jassy has focused on driving operational efficiencies, which are showing up on the bottom line.  Everyone knows about Amazon (NASDAQ: AMZN).",
+      "published_utc": "2025-06-01T06:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b230731919fad2488fdba7eb98229a7b3e15da268e1434a1f3bf051f551383a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134920447,
+      "datetime": 1748729220
+    },
+    {
+      "title": "Marvell price target raised to $70 from $60 at TD Cowen",
+      "description": "TD Cowen raised the firm’s price target on Marvell (MRVL) to $70 from $60 and keeps a Buy rating on the shares. The firm said an in-line print/guide with strong language on 3nm engagement with Amazon (AMZN), but “multiple paths” commentary is likely to continue to concern investors who will be hoping for more detail at the June AI webinar. Long-term momentum is there, but lack of “upside” in a strong spending environment, and inherent limited visibility in custom is likely to keep the stock a ba",
+      "published_utc": "2025-05-31T20:46:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83d357e8055f39856b3c1b834ca8416f6171ae7420b5b576e14a3f957617ae4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918715,
+      "datetime": 1748695617
+    },
+    {
+      "title": "Where the Stock Market Stands Now After a Wild Start to the Year",
+      "description": "(Bloomberg) -- The stock market’s crazy first five months of 2025 have left Wall Street pros in a bit of a pickle. Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaNYC Congestion Toll Brings In $216 Million in First Four MonthsThe Economic Benefits of Paying Workers to MoveWhere the Wild Children’s Museums AreComing off the best month for the S&P 500 Index in a year and a half and the b",
+      "published_utc": "2025-05-31T20:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=627480b3dc41e957bc55d7f2abf0d70d50f0344b5d440b54d36dc453a4484076",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918506,
+      "datetime": 1748692807
+    },
+    {
+      "title": "3 Soaring Stocks I'd Buy Now With No Hesitation",
+      "description": "Amazon is seeing strong revenue growth and efficiency gains coming from AI.  Dutch Bros has a two huge growth drivers in front of it.  Philip Morris' growth is being powered by its smokeless portfolio.",
+      "published_utc": "2025-05-31T17:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c5c153cfe0153fa4600275a9c3b7968e932140deb9e1623929a546e5e79e591",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134919115,
+      "datetime": 1748682120
+    },
+    {
+      "title": "PCE Inflation: Solid Developments That Are (Relatively) Immaterial",
+      "description": "The latest PCE data confirms cooling inflation, but tariff concerns and Fed caution dampen the impact. Check out where market opportunities may still emerge.",
+      "published_utc": "2025-05-31T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d414804d4ec782c6046b680328634d767eac3814004bf97a87f8dcfb3c089eb4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386010022/image_1386010022.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918042,
+      "datetime": 1748682000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:50:10.376220+00:00",
+    "cache_key": "news_50700d4c4d9c3718f68eb9de27f7dd5b",
+    "count": 5
+  }
+}

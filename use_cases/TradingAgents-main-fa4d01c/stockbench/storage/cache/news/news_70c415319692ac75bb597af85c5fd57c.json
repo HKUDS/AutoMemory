@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon Turns Prime Day Into Prime Week",
+      "description": "Amazon Turns Prime Day Into Prime Week",
+      "published_utc": "2025-07-08T07:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=b53d621a2368438fc8833b22e36523f2fdaa17e9de3ece9b0e7d3271d699bfc6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135858056,
+      "datetime": 1751929200
+    },
+    {
+      "title": "Prime Day to Shatter Records with $23.8 Billion in Sales",
+      "description": "Adobe forecasts 28% growth as shoppers flood mobile and AI channels",
+      "published_utc": "2025-07-08T06:33:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ee4e923f0646adb0798c625ed60212afccf63bd9f94b7d5780d6cc6d1336e69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135791094,
+      "datetime": 1751927606
+    },
+    {
+      "title": "IonQ Is Still ‘in the Early Innings.’ Why It’s Positioned to Become a Quantum Leader.",
+      "description": "By taking a “dual approach” to quantum computing and networking, the company can dominate the market, one analyst says.",
+      "published_utc": "2025-07-08T05:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d728307996880ee4dbd0d6e17ee479d98a06cb415c33a2f73f4bbe9b912791a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135790654,
+      "datetime": 1751922360
+    },
+    {
+      "title": "Amazon.com, Inc. (AMZN): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Amazon.com, Inc. on Disruptive Analytics’ Substack by Magnus Ofstad. In this article, we will summarize the bulls’ thesis on AMZN. Amazon.com, Inc.’s share was trading at $208.47 as of June 23rd. AMZN’s trailing and forward P/E were 33.95 and 32.26, respectively, according to Yahoo Finance. Amazon (AMZN) is a complex […]",
+      "published_utc": "2025-07-08T00:45:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b4036564be86057cda63599d37b8cc6dd9e539d2ceadcd2388d41ccb35847eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135791096,
+      "datetime": 1751906757
+    },
+    {
+      "title": "Amazon Is Breaking The Bank With AWS Each Quarter (Rating Downgrade)",
+      "description": "Amazon remains a top long-term pick, with AWS driving profitability and growth, despite recent market volatility and global trade risks. Read why AMZN is a Buy.",
+      "published_utc": "2025-07-08T00:27:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1972fbd1a5ce1f71f11984a29f207bec1192817c1adc6d853f69a496fc3b5035",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252468735/image_1252468735.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135788843,
+      "datetime": 1751905676
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:05:04.184317+00:00",
+    "cache_key": "news_70c415319692ac75bb597af85c5fd57c",
+    "count": 5
+  }
+}

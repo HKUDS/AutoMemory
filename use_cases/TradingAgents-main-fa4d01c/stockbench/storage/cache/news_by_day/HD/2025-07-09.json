@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "SpaceX Just Made Elon Musk $20 Billion Richer",
+      "description": "SpaceX has a new valuation, according to Bloomberg.  The $50 billion increase makes Musk about $20 billion richer, as he is thought to hold some 40% of SpaceX stock.  Musk’s total stake in SpaceX is worth about $160 billion.",
+      "published_utc": "2025-07-09T20:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=382b6f155a8ef8627be80bed73dcff26ee00e5a3b011cdc33e1714ae86927e18",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835662,
+      "datetime": 1752064800
+    },
+    {
+      "title": "Plug Power Extends Strategic Hydrogen Supply Agreement with Multi-Year Contract and Improved Economics with Key Hydrogen Supplier",
+      "description": "New Deal Strengthens Domestic Hydrogen Supply, Reduces Cost Structure and Supports Continued Growth of Plug ApplicationsSLINGERLANDS, N.Y., July 09, 2025 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in comprehensive hydrogen solutions, today announced a new multi-year enhanced supply agreement with a leading U.S.-based industrial gas company and longtime hydrogen partner through 2030. The agreement extends the companies’ current strategic relationship through 2030, securin",
+      "published_utc": "2025-07-09T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77df83f8f4547f03ca55e854c3918cc7aca7c2790fc9f0b70ec9db20019aff50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835707,
+      "datetime": 1752058800
+    },
+    {
+      "title": "Home Depot Inc. (HD) Acquiring GMS to Target Contractors and Home Professionals",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the 12 best consumer goods stocks billionaires are quietly buying. On June 30, the company announced it is buying building products distributor GMS. The company is paying $4.3 billion for the acquisition as it seeks to increase sales from contractors and home professionals. The acquisition, poised to […]",
+      "published_utc": "2025-07-09T13:18:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a141b59f32b99f17b65a55bf9aa417eda8495b5e2c19f154803a59841f8ad384",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829768,
+      "datetime": 1752038325
+    }
+  ]
+}

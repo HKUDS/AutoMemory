@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "UBS Upgraded Caterpillar Inc. (CAT) as Trade Outlook Brightens",
+      "description": "Caterpillar Inc. (NYSE:CAT) received a rating upgrade by UBS on 16th May 2025, from “Sell” to “Neutral”, at a price target of $357, previously $340. The bank highlighted a more contained downside scenario for the stock after recent progress in U.S.-China trade talks, though analysts warned the company is “not out of the macro woods.” UBS […]",
+      "published_utc": "2025-05-18T22:54:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=941184cf4fad711ab1641b983a5ab7e4646d2c94a48d300238181aadc7d1b8f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577326,
+      "datetime": 1747580060
+    },
+    {
+      "title": "Caterpillar: Golden Opportunity To Sell (Technical Analysis)",
+      "description": "",
+      "published_utc": "2025-05-18T20:05:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d67d07952d3d0c24d2ad12b971e2269a1d6f5c679db66a715e49133833f9fe68",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134570539,
+      "datetime": 1747569941
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Potentially Earn 12%-15% Income: Monthly Options Series (June 2025)",
+      "description": "Writing options does involve some learning curve and practice. Check out stocks suitable for writing options to generate consistent income for June.",
+      "published_utc": "2025-05-31T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e4df0496932fa1b73a504f99abf4c36a89c9f1abaeb0b2d97462707b4596d43",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/803420378/image_803420378.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134917918,
+      "datetime": 1748680200
+    },
+    {
+      "title": "Better Buffett Stock: American Express vs. Visa",
+      "description": "Which of Warren Buffett's credit card investments is a better buy right now?",
+      "published_utc": "2025-05-31T15:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ba707ef2394607f3f24e58f1277bd92e24302b9d6065a3caa2cca82d3c3957c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918427,
+      "datetime": 1748678100
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "Healthcare Hit Again: Molina Cuts Guidance, Echoing Centene and UNH",
+      "description": "MOH slashes 2025 EPS outlook by more than 10%, citing rising medical costs and echoing warnings from CNC and UnitedHealth.",
+      "published_utc": "2025-07-08T20:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04a140a05d015c4715d5a68e5ea3d6426d6a585c9a54c5619ca5307f009ba20b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135805835,
+      "datetime": 1751979540
+    },
+    {
+      "title": "UnitedHealth Group's Q2 2025 Earnings: What to Expect",
+      "description": "UnitedHealth is set to unveil its second-quarter results later this month, and analysts expect a significant drop in earnings.",
+      "published_utc": "2025-07-08T15:12:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c5c6acb8c7783a341898d41624e9d1104e96ed22aa021bf12e190d38db8b053",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135804786,
+      "datetime": 1751958751
+    },
+    {
+      "id": "120e0631eca4a3ab6650886134ea9c7ed7b35a8406dc74f3a7da60b260ad2108",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against UnitedHealth, Bitfarms, and Reddit and Encourages Investors to Contact the Firm",
+      "author": "Bragar Eagel & Squire, P.C.",
+      "published_utc": "2025-07-08T01:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/08/3111411/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-That-Class-Action-Lawsuits-Have-Been-Filed-Against-UnitedHealth-Bitfarms-and-Reddit-and-Encourages-Investors-to-Contact-the-Firm.html",
+      "tickers": [
+        "UNH",
+        "BITF",
+        "RDDT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+      "description": "Law firm Bragar Eagel & Squire announced class action lawsuits against UnitedHealth, Bitfarms, and Reddit, alleging false statements and misleading disclosures that impacted investor interests during specific time periods.",
+      "keywords": [
+        "class action",
+        "lawsuit",
+        "shareholder rights",
+        "securities",
+        "financial disclosure"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Accused of denying health coverage to boost profits, resulting in regulatory scrutiny and public outrage, potentially leading to a tragic incident involving Brian Thompson"
+        },
+        {
+          "ticker": "BITF",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alleged to have maintained deficient internal financial controls, misclassified financial proceeds, and potentially needed to restate financial statements"
+        },
+        {
+          "ticker": "RDDT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Experienced significant user traffic reduction due to Google Search AI changes, leading to stock downgrades and concerns about advertising revenue sustainability"
+        }
+      ]
+    }
+  ]
+}

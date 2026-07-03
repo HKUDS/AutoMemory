@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dow's 2125-point surge highlighted by gains for NVIDIA Corp., Boeing shares",
+      "description": "Dow's 2125-point surge highlighted by gains for NVIDIA Corp., Boeing shares",
+      "published_utc": "2025-04-09T23:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=172fe8639d681474d9bd919466e4a4b63700536fdd811a7ffffb3668b87b9395",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133843989,
+      "datetime": 1744210800
+    },
+    {
+      "title": "ClearBridge Value Strategy Sold its Holdings in The Goldman Sachs Group (GS) in Q1",
+      "description": "ClearBridge Investments, an investment management company, released its “ClearBridge Value Strategy” first quarter 2025 investor letter. A copy of the letter can be downloaded here. In the first quarter, the strategy underperformed its Russell 1000 Value benchmark, driven by detractors in the energy and financials, which overcame contributions from overweight to energy and underweight to […]",
+      "published_utc": "2025-04-09T21:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=076551f1dcec98e7b819f4aaaa85cb5ab6770eef5261232703e6ab0a935ca95b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828410,
+      "datetime": 1744203618
+    },
+    {
+      "title": "Oil’s Collapse Deepens Below $60 as China Hikes Tariffs on US",
+      "description": "(Bloomberg) -- Oil plunged to a four-year low as an intensifying trade war endangered energy demand, with a fresh wave of US and Chinese levies menacing the global economy.Brent futures tumbled below $60 a barrel for the first time since 2021 as natural gas, copper and other commodities also slid. Shares of BP Plc and Shell Plc slumped more than 5%.The declines echoed a wider plunge across global markets, with investors fleeing stocks and bonds around the world, after US President Donald Trump’s",
+      "published_utc": "2025-04-09T19:59:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7d568e04cf72de5559065850668db302f5684024442fc89ffe1e71313a50f98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828412,
+      "datetime": 1744199952
+    }
+  ]
+}

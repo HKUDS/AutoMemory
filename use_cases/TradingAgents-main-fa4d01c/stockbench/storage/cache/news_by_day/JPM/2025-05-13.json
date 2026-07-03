@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Infleqtion Unveils Open-Source Library for Quantum Error Correction Research",
+      "description": "A team of researchers at Infleqtion, working with JPMorgan Chase, announced the release of a new open-source research software library designed to dramatically accelerate research progress towards...",
+      "published_utc": "2025-05-13T08:00:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6ccb6554fda043c43346aa4b9e40174210388ae8a721b5803375a2e6ac13ee6a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134395099,
+      "datetime": 1747094400
+    },
+    {
+      "title": "JPMorganChase to Present at the Morgan Stanley U.S. Financials Conference",
+      "description": "NEW YORK, May 12, 2025--Jamie Dimon, Chairman and Chief Executive Officer of JPMorganChase, will present at the Morgan Stanley U.S. Financials Conference at the InterContinental Barclay Hotel in New York City on Tuesday, June 10, 2025, at 1:00 p.m. (Eastern).",
+      "published_utc": "2025-05-13T05:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71166cb9eb1e343b29f3d821984ff3da383645e4cca41bb75a27bc282b58b623",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408445,
+      "datetime": 1747083960
+    },
+    {
+      "title": "Campbell Global Announces Leadership Transition: Angie Davis to Succeed John Gilleland as CEO",
+      "description": "Campbell Global, a leader in forestland investing and management, and a vital part of J.P. Morgan Asset Management's $400 billion alternatives business, is pleased to announce a significant leadership transition. Angie Davis, currently serving as President of Campbell Global, will succeed John Gilleland as Chief Executive Officer, effective October 1.",
+      "published_utc": "2025-05-13T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80bcbf7668627c0da952dbbea69bb0a92aea8d2374f64df170c4c6c2581fba24",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408447,
+      "datetime": 1747076400
+    },
+    {
+      "title": "Jeff McElfresh To Update Shareholders At The 53Rd Annual J.P. Morgan Global Technology, Media And Communications Conference On May 13",
+      "description": "JPMorgan Chase & Co: * JEFF MCELFRESH TO UPDATE SHAREHOLDERS AT THE 53RD ANNUALJ.P.MORGAN GLOBAL TECHNOLOGY, MEDIA AND COMMUNICATIONS CONFERENCE ONMAY 13Source text:Further company...",
+      "published_utc": "2025-05-13T00:59:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b8ff761131e9cc5d7749148501e631ebeb609c6c91527e7bc2d4d4832163b503",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134391696,
+      "datetime": 1747069147
+    },
+    {
+      "title": "Campbell Global Announces Leadership Transition Angie Davis To Succeed John Gilleland As CEO",
+      "description": "May 12 - * CAMPBELL GLOBAL ANNOUNCES LEADERSHIP TRANSITION: ANGIEDAVIS TOSUCCEED JOHN GILLELAND AS CEOSource text: ...",
+      "published_utc": "2025-05-13T00:19:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0c3cffad4ef7b3d38a215d6a6e4e8db6b237e0c2dabcd14600cc312ef6fc9675",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134391330,
+      "datetime": 1747066754
+    }
+  ]
+}

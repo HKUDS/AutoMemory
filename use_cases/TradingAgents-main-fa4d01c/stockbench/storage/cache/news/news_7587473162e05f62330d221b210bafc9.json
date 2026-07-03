@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+      "description": "In the closing of the recent trading day, McDonald's (MCD) stood at $303.58, denoting a +1.25% change from the preceding trading day.",
+      "published_utc": "2025-04-10T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddf12ace199c65ff19319eb1c611cd90bd871890d6125f6b0efc8d523b2cd33f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844212,
+      "datetime": 1744235105
+    },
+    {
+      "title": "El Pollo Loco Stock Slips 24% in 6 Months: Should You Hold or Exit?",
+      "description": "LOCO's ability to manage costs, adapt to evolving consumer preferences, and maintain a differentiated brand identity should support growth.",
+      "published_utc": "2025-04-09T22:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a87157fa613395701295b222b72068eeb3da3bcd3639d8000fe4068ee5a1ae3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844214,
+      "datetime": 1744207440
+    },
+    {
+      "title": "Warner Bros.’ ‘A Minecraft Movie’ Smashes Box Office",
+      "description": "Warner Bros.’ ‘A Minecraft Movie’ Smashes Box Office",
+      "published_utc": "2025-04-09T21:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2108fef356858904938fe078842ed1df11f0f003d8287a52bab62fa392f98606",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147374,
+      "datetime": 1744204860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:48.933197+00:00",
+    "cache_key": "news_7587473162e05f62330d221b210bafc9",
+    "count": 3
+  }
+}

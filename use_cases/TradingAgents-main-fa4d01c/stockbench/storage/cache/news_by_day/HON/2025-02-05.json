@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Dow's 140-point fall led by losses for shares of UnitedHealth, Merck",
+      "description": "Dow's 140-point fall led by losses for shares of UnitedHealth, Merck",
+      "published_utc": "2025-02-05T18:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4324f4aab5bdee985d884c706306d687c634c2961275b19c4569ef331412e62c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564102,
+      "datetime": 1738749780
+    },
+    {
+      "id": "3418e03a3d0489a63f4b44ae93316b896d2d61faa4f3916eb3cd5dcb73e72a00",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Indonesia Access Control Solutions Market to Hit Valuation of US$ 540.8 Million by 2033 | Astute Analytica",
+      "author": "Astute Analytica",
+      "published_utc": "2025-02-05T08:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/05/3020939/0/en/Indonesia-Access-Control-Solutions-Market-to-Hit-Valuation-of-US-540-8-Million-by-2033-Astute-Analytica.html",
+      "tickers": [
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "description": "Indonesia's access control solutions market is projected to reach $540.8 million by 2033, driven by mobile technology adoption, smart infrastructure initiatives, and rising cybersecurity concerns. Key players like ZKTeco, Honeywell, and Bosch are capitalizing on the country's digital transformation momentum.",
+      "keywords": [
+        "access control solutions",
+        "Indonesia",
+        "mobile technology",
+        "smart infrastructure",
+        "cybersecurity",
+        "ZKTeco",
+        "Honeywell",
+        "Bosch"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is also highlighted as a key player in the Indonesia access control solutions market, delivering turnkey projects for high-rise buildings and showcasing its capabilities in the market."
+        }
+      ]
+    }
+  ]
+}

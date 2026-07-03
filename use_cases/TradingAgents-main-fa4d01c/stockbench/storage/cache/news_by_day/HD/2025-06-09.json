@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "3 Reasons to Buy Floor & Decor Stock Like There's No Tomorrow",
+      "description": "Floor & Decor's business model earned praise from an all-time great investor, and it has large expansion plans.  In 2017, home improvement retail chain Floor & Decor Holdings (NYSE: FND) went public.  Of course, that's just an expression -- there will be a tomorrow for Floor & Decor, and I believe it will be great for shareholders.",
+      "published_utc": "2025-06-09T03:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41152093923177283f3bf899dc727ed750dcd922e78f074b84ccc644a4e68c80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135117153,
+      "datetime": 1749410040
+    },
+    {
+      "title": "After tear gas and street fires, a Los Angeles community cleans up as National Guard troops arrive",
+      "description": "COMPTON, Calif. — Ernest Melendrez woke up early Sunday to shovel tear gas pellets and other charred and broken detritus from his neighborhood’s streets, the remnants of a battle between...",
+      "published_utc": "2025-06-09T02:46:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8435584114223d2b92bb9fbf28c056d6c24641f9e4a965422afd2de67a5c8fe8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116800,
+      "datetime": 1749408366
+    },
+    {
+      "title": "After tear gas and street fires, an Los Angeles community cleans up as National Guard troops arrive",
+      "description": "COMPTON, Calif. — Ernest Melendrez woke up early Sunday to shovel tear gas pellets and other charred and broken detritus from his neighborhood’s streets, the remnants of a battle between...",
+      "published_utc": "2025-06-09T02:46:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=28017e4008ac0e8f86614c6f1b947d233e134cb6fc63612ced4051aa8e66f1e6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135116589,
+      "datetime": 1749408366
+    }
+  ]
+}

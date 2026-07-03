@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple eyes using AI to design its chips, technology executive says",
+      "description": "SAN FRANCISCO (Reuters) -Apple is interested in tapping generative artificial intelligence to help speed up the design of the custom chips at the heart of its devices, its top hardware technology executive said in private remarks last month.  Johny Srouji, Apple's senior vice president of hardware technologies, made the remarks in a speech in Belgium, where he was receiving an award from Imec, an independent semiconductor research and development group that works closely with most of the world's biggest chipmakers.  In the speech, a recording of which was reviewed by Reuters, Srouji outlined Apple's development of custom chips from the first A4 chip in an iPhone in 2010 to the most recent chips that power Mac desktop computers and the Vision Pro headset.",
+      "published_utc": "2025-06-19T07:16:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35d31774fb34933b178a0f95b888af7c441a7bceb81e6907c8c16c2fc5efb205",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374836,
+      "datetime": 1750288583
+    },
+    {
+      "title": "Adobe vs. Apple: Which AI-Driven Tech Stock is a Better Buy Now?",
+      "description": "Both Adobe and Apple are infusing AI into their core offerings. However, which stock, AAPL or ADBE, is a better buy?",
+      "published_utc": "2025-06-19T01:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f068fba240a949bbb7762fde97c8c486f8c91ad52c3f67c6f33fe6ed825403c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374837,
+      "datetime": 1750267320
+    },
+    {
+      "title": "Apple Just Erased a $300 Million Problem--But a $500M One Still Lurks",
+      "description": "A surprise courtroom reversal gives Apple breathing room in its patent war with Optis--just as pressure builds overseas.",
+      "published_utc": "2025-06-19T00:53:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d086dc6d16c899dc3ce5d0391e53c78fe226c5078bea7bdc73a519df89a0d20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370638,
+      "datetime": 1750265613
+    },
+    {
+      "title": "Texas Instruments to invest more than $60 billion to make semiconductors in the US",
+      "description": "Texas Instruments will invest more than $60 billion to expand semiconductor manufacturing in the United States, the company announced on Wednesday, as President Donald Trump continues to pressure tech giants like Apple and Samsung to build their products in America.",
+      "published_utc": "2025-06-19T00:45:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=388d52af39930043194e6096dca389f799f2c7ba940b8bb8555bfb37382eaa97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135371218,
+      "datetime": 1750265108
+    },
+    {
+      "title": "Credit Card Annual Fees Are Going Up. What It Means for the Stocks.",
+      "description": "Credit card issuers are trying to attract more higher-end customers with the promise of more rewards.  Chase announced new perks for holders of its Sapphire Reserve credit cards on Tuesday, including a new points boost program, expanded access to airport lounges, and promotional spending credits with partners such as  Apple Lyft DoorDash  StubHub, and Peloton.  The question now, though, is how Chase competitors react to the news of the fee hike.",
+      "published_utc": "2025-06-19T00:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc26a4fa5551d474da9e7d609f6f5ce468bf1a1ada8de82648d86d7980c8e7f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370639,
+      "datetime": 1750265040
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:07.987564+00:00",
+    "cache_key": "news_9e16d5e2fa1e23a6507ac4bdbf855db1",
+    "count": 5
+  }
+}

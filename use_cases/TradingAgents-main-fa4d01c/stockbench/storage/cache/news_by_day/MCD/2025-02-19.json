@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Push UPs [Stocks] Vs Pull DOWNs [Retail Sales]",
+      "description": "This week's review and preview: The S&P 500 and Nasdaq showed bullish behavior, with the Dow Jones leading YTD gains at 4.7%, despite weak retail sales data. Read the full report here.",
+      "published_utc": "2025-02-19T00:59:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c31df8fe8b2fca463f42ecc3799b980a278e8518addeb12c05a3ccf4f73c16b1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/948513030/image_948513030.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132780121,
+      "datetime": 1739897952
+    }
+  ]
+}

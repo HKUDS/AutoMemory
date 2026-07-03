@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Can Protagonist Take On Eli Lilly's Next-Generation Obesity Treatment?",
+      "description": "Protagonist Therapeutics is taking aim directly at Eli Lilly's obesity treatment with a newly announced drug that uses the same mechanism.",
+      "published_utc": "2025-07-01T04:05:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a41fbce3a267d3584c748a0066f35e342597111b0424027dbc0697f9b825d867",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677313,
+      "datetime": 1751313901
+    },
+    {
+      "title": "Amgen Announces Positive Topline Phase 3 Results for Bemarituzumab in Fibroblast Growth Factory Receivetor 2B Positive First-Line Gastric",
+      "description": "Amgen announced the Phase 3 FORTITUDE-101 clinical trial evaluating first-line bemarituzumab plus chemotherapy met its primary endpoint of overall survival at a pre-specified interim analysis....",
+      "published_utc": "2025-06-30T23:20:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1efea5893ff0003044fd9c45abb7e408ebb396f91fdb5d21d26973498c387c1f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135672409,
+      "datetime": 1751296833
+    },
+    {
+      "title": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR BEMARITUZUMAB IN FIBROBLAST GROWTH FACTOR RECEPTOR 2b (FGFR2b) POSITIVE FIRST-LINE GASTRIC CANCER",
+      "description": "Amgen (NASDAQ:AMGN) today announced the Phase 3 FORTITUDE-101 clinical trial evaluating first-line bemarituzumab plus chemotherapy (mFOLFOX6) met its primary endpoint of overall survival (OS) at a pre-specified interim analysis.",
+      "published_utc": "2025-06-30T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e11366e1fa87e6ffe2a76ef8ba86b57b57bd547358ef103c56dff31d0c0f80f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671732,
+      "datetime": 1751288400
+    },
+    {
+      "title": "Amgen Meets Primary Endpoint in Phase 3 Trial of Gastric Cancer Treatment",
+      "description": "By Connor Hart Amgen said a Phase 3 trial of its gastric cancer treatment, bemarituzumab, met its primary endpoint of overall survival at a pre-specified interim analysis. The biotechnology...",
+      "published_utc": "2025-06-30T17:54:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9c1f2b249553b019fc2caa4ac950c33a152512fa270959ca79233705560abd62",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135652675,
+      "datetime": 1751277257
+    },
+    {
+      "title": "Amgen says gastric cancer drug meets main goal in late-stage trial",
+      "description": "Amgen said on Monday itsexperimental therapy helped patients with advanced gastriccancer live longer when combined with chemotherapy, according tointerim data from a late-stage study. ...",
+      "published_utc": "2025-06-30T17:25:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=af7d10b38f6edef71baaa570dd5a9bdf114bc72673ea2d773a6d7d26217b10ac",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135658061,
+      "datetime": 1751275510
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:30.510621+00:00",
+    "cache_key": "news_0000f827b62ad8052bf4678f3512bc0b",
+    "count": 5
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Dow's 534-point drop led by losses in shares of Apple, Home Depot",
+      "description": "Dow's 534-point drop led by losses in shares of Apple, Home Depot",
+      "published_utc": "2025-04-07T23:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=743fc712d25efc65c46bb9a3fa6ac16ded687719ab069aae9126b30b6f7c0482",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133747059,
+      "datetime": 1744041060
+    },
+    {
+      "title": "Apple, Nike share losses contribute to Dow's nearly 300-point fall",
+      "description": "Apple, Nike share losses contribute to Dow's nearly 300-point fall",
+      "published_utc": "2025-04-07T22:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f68f28a69996116141d0d9c92d5cfbe1a9baa0712f88db6e2540b9196260f4f7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133744606,
+      "datetime": 1744037400
+    },
+    {
+      "title": "Dow down 187 points on losses in Nike, Apple stocks",
+      "description": "Dow down 187 points on losses in Nike, Apple stocks",
+      "published_utc": "2025-04-07T21:49:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6c6c6b6ace86d36865b0db904995c2aaa81f84c5e89cf00812d76186d0a8c885",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741231,
+      "datetime": 1744033740
+    },
+    {
+      "title": "Want Better Returns? Don't Ignore These 2 Retail-Wholesale Stocks Set to Beat Earnings",
+      "description": "Finding stocks expected to beat quarterly earnings estimates becomes an easier task with our Zacks Earnings ESP.",
+      "published_utc": "2025-04-07T21:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6adf9fab5538c897fbfc68691ae51d382dc416636b2b8f4e0f6a0a54c3086e3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741119,
+      "datetime": 1744030813
+    }
+  ]
+}

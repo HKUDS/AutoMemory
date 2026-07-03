@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Healthcare Stocks Have Gotten a Boost. Now Comes the Hard Part.",
+      "description": "Healthcare Stocks Have Gotten a Boost. Now Comes the Hard Part.",
+      "published_utc": "2025-02-04T22:11:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fab37d0bd1113cb5eebf48e1b563167697f904fcf439e1bab0eb4a29107cb7ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564453,
+      "datetime": 1738678260
+    }
+  ]
+}

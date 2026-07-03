@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ce8ef53021ccf34663e5decb0a27dec0c8c982faf5eb40c698b6315e785ef015",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Trump Upholds Biden's Merger Guidelines: Here's What It Means for Goldman Sachs and Other Investment Banks",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-09T10:38:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/trump-upholds-bidens-merger-guidelines-heres-what/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "MS",
+        "MSpA",
+        "MSpE",
+        "MSpF",
+        "MSpI",
+        "MSpK",
+        "MSpL",
+        "MSpO",
+        "MSpP",
+        "MSpQ",
+        "C",
+        "CpN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810050/an-antitrust-book-with-a-gavel-getty.jpg",
+      "description": "The Trump administration will continue to enforce strict guidelines for mergers and acquisitions (M&A) established during the Biden presidency, maintaining a rigorous approach. This is a setback for investment banks like Goldman Sachs, which had hoped for a more relaxed regulatory environment to increase M&A activities and advisory revenue.",
+      "keywords": [
+        "mergers and acquisitions",
+        "antitrust",
+        "investment banks",
+        "dealmaking"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the Trump administration's continuation of the Biden-era strict merger guidelines is a setback for investment banks like Goldman Sachs, which had hoped for a more relaxed regulatory environment to boost M&A activities and advisory revenue."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the Trump administration's continuation of the Biden-era strict merger guidelines is a setback for investment banks like Goldman Sachs, which had hoped for a more relaxed regulatory environment to boost M&A activities and advisory revenue."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the Trump administration's continuation of the Biden-era strict merger guidelines is a setback for investment banks like Goldman Sachs, which had hoped for a more relaxed regulatory environment to boost M&A activities and advisory revenue."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the Trump administration's continuation of the Biden-era strict merger guidelines is a setback for investment banks like Goldman Sachs, which had hoped for a more relaxed regulatory environment to boost M&A activities and advisory revenue."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpF",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "MSpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Morgan Stanley trades at elevated price to tangible book values compared to the past decade and a half, and investors may want to consider taking some profits off the table on the news of the continued strict merger guidelines."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Citigroup as an advertising partner of Motley Fool Money, but does not provide any specific insights about the company's outlook or performance."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Citigroup as an advertising partner of Motley Fool Money, but does not provide any specific insights about the company's outlook or performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:38.089367+00:00",
+    "cache_key": "news_29b3c4319fc67dac78c78d0c56df0f17",
+    "count": 1
+  }
+}

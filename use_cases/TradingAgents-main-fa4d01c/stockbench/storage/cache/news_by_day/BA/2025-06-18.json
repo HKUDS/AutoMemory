@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Top Midday Stories: Markets Await Fed Decision on Rates; Nippon Steel Closes Acquisition of US Steel",
+      "description": "All three major US stock indexes were up in late-morning trading Wednesday as market participants aw",
+      "published_utc": "2025-06-18T23:35:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86dda8b79dbb7909a86704308ed31b3b16d87feb6c4235292d4e3266d17ac930",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135364494,
+      "datetime": 1750260907
+    },
+    {
+      "title": "NTSB wants action on CFM LEAP-1B engines over smoke entering cockpit",
+      "description": "WASHINGTON -The National Transportation Safety Board issued an urgent safety recommendation Wednesday to address the possibility of smoke entering the cockpit or cabin of Boeing or Airbus airplanes...",
+      "published_utc": "2025-06-18T23:02:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fd9fc35a3af556e0b4183f8c589eebe5d50c91b745085ccd2a40611478767fb3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135373246,
+      "datetime": 1750258934
+    }
+  ]
+}

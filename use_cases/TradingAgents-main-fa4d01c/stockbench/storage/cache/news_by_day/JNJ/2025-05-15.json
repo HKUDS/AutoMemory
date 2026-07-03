@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson to Participate in the Goldman Sachs 46th Annual Global Healthcare Conference",
+      "description": "Johnson & Johnson will participate in the Goldman Sachs 46th Annual Global Healthcare Conference on Wednesday, June 11th, 2025. Management will participate in a Fireside Chat at 3:20 p.m. Eastern...",
+      "published_utc": "2025-05-15T00:41:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7eef23a329d21324eb9cb4e3b3da4b7460de5a07779ce439a8db006c940c996a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134453777,
+      "datetime": 1747240864
+    }
+  ]
+}

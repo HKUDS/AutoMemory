@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "HONEYWELL ANNOUNCES QUARTERLY DIVIDEND",
+      "description": "Honeywell (NASDAQ: HON) today announced that its Board of Directors has declared a quarterly dividend payment of $1.13 per share on the Company's common stock. The dividend is payable on June 6, 2025, out of surplus to holders of record at the close of business on May 16, 2025.",
+      "published_utc": "2025-04-29T02:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54f2205a1ed1d11113ec0834bfe124d4ef265909c2e84d28c70e3c1cadfa752b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131228,
+      "datetime": 1745863260
+    },
+    {
+      "title": "Jim Cramer Says Honeywell International (HON) is ‘Dramatically Undervalued’",
+      "description": "We recently published a list of Top 10 Buzzing Stocks You Should Watch Today. In this article, we are going to take a look at where Honeywell International Inc (NASDAQ:HON) stands against other top buzzing stocks you should watch today. Jim Cramer in a recent program on CNBC expressed surprise that the Republican administration could […]",
+      "published_utc": "2025-04-28T23:15:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddc049c3369f64abe0a3cce9fd70084d4186b48ce91b90ebb385b23c49550711",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115309,
+      "datetime": 1745853351
+    },
+    {
+      "title": "Here’s Madison Dividend Income Fund’s Investment Thesis for Honeywell (HON)",
+      "description": "Madison Investments, an investment advisor, released its “Madison Dividend Income Fund” first-quarter 2025 investor letter. A copy of the letter can be downloaded here. In the first quarter, the fund (Class Y) returned +3.2% compared to the -4.3%, +2.1%, and +1.7% returns for the S&P 500 Index, Russell 1000 Value Index, and Lipper Equity Income […]",
+      "published_utc": "2025-04-28T20:27:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aece651b3d3f681e416e030ab7a835937bf5739b4fa0f8d6fd6fb7a3f7a2ccbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115310,
+      "datetime": 1745843241
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Honeywell, 3M, Carlisle and Griffon",
+      "description": "Honeywell, 3M, Carlisle and Griffon have been highlighted in this Industry Outlook article.",
+      "published_utc": "2025-04-28T18:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59c64f370ffed94100cb464636617ed004b998304103eac241767c780ae0d9d6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115311,
+      "datetime": 1745837520
+    },
+    {
+      "title": "XLI: The Pick If You Are Bullish On U.S. Manufacturing",
+      "description": "Discover how U.S. manufacturing rebound, government spending, and tariffs could boost industrials.",
+      "published_utc": "2025-04-28T18:23:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd6a1b140aff87954e8c59240f457d321c3ba456210a156e281f83ac7f401cc4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/485570676/image_485570676.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134114580,
+      "datetime": 1745835814
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:26.659501+00:00",
+    "cache_key": "news_2a52e194195216be47ce0d4884c1a9f6",
+    "count": 5
+  }
+}

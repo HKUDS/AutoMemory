@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Equity-Income Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-26T21:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98c8bd1248935d551b22de21306696be014013e3b30d997199056a14f1b42eab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136095888,
+      "datetime": 1753536000
+    },
+    {
+      "title": "Keep Calm And Keep Buying These Dividends",
+      "description": "Discover why giving up on dividend investing could be a costly mistake & explore top dividend investments to buy now for steady income & long-term growth. Read more here.",
+      "published_utc": "2025-07-26T19:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=439fd7b4116ca9a97e6d863ac92e485f5abc03e2ff7df1418b3d445e75a5cd45",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226592055/image_1226592055.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136095488,
+      "datetime": 1753529400
+    },
+    {
+      "title": "These Old Coins and Banknotes Are Selling For More Than Real Estate",
+      "description": "Some rare coins and banknotes have sold for more than homes in major U.S. cities. Here’s a look at where collectibles differ from traditional investments.",
+      "published_utc": "2025-07-26T17:04:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0ef26e852701d8efdeea77b39b7c5577d89d5290b589dd6d66b90470eb89f3c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101789,
+      "datetime": 1753520645
+    },
+    {
+      "title": "Swiggy and McDonald's Join Hands to Launch the revolutionary McDonald's Protein Plus Burgers exclusively on the Swiggy app",
+      "description": "Swiggy Limited (NSE: SWIGGY / BSE: 544285), India's leading on-demand convenience platform, today announced that it has partnered with McDonald's India (W&S), to launch its Protein Plus Range of Burgers available exclusively on the Swiggy app, from July 24 to August 11, 2025. Customers can order from this healthier range of their favorite burgers by visiting the 'High Protein' section of the Swiggy app. The range will be available to Swiggy users in 58 cities across Western and Southern India in",
+      "published_utc": "2025-07-26T16:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d42dfd67640440b69314a91bd8e211cf8897f4e61ff26b4d4d25f00697ea7499",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101790,
+      "datetime": 1753518600
+    }
+  ]
+}

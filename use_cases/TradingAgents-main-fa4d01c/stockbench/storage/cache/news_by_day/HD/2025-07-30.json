@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW) Struggled Due To DIY Sluggishness, Says Jim Cramer",
+      "description": "We recently published 11 Stocks That Jim Cramer Recently Talked About. The Sherwin-Williams Company (NYSE:SHW) is one of the stocks Jim Cramer recently discussed. The Sherwin-Williams Company (NYSE:SHW) is one of the biggest paint and chemicals companies in the US. Its shares are flat year-to-date on the back of several factors such as analyst downgrades […]",
+      "published_utc": "2025-07-30T04:16:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=074f266f0dc2827eaa5328aa6b84c9ee34a98a7b33885273a6c944bc1981442b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129727,
+      "datetime": 1753820180
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) Fell Because Of Sherwin-Williams, Says Jim Cramer",
+      "description": "We recently published 11 Stocks That Jim Cramer Recently Talked About. The Home Depot, Inc. (NYSE:HD) is one of the stocks Jim Cramer recently discussed. The Home Depot, Inc. (NYSE:HD) is one of the largest home improvement retailers in America. Its shares have lost 2.9% year-to-date due to persistent sluggishness in the housing market. In […]",
+      "published_utc": "2025-07-30T04:15:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=839f9f956c0ce4730996af336a18bad1e2edeef08d53deafc52830c139f4f429",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129728,
+      "datetime": 1753820128
+    },
+    {
+      "title": "SPAR Group Announces Relocation of Corporate Headquarters",
+      "description": "AUBURN HILLS, Mich., July 29, 2025--SPAR Group is proud to announce the relocation of its corporate headquarters to Charlotte, North Carolina.",
+      "published_utc": "2025-07-30T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cd9a0ddf403a2cd640514443ccb7c996cec44f69c59bb7b20a52f7b39d4df6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119145,
+      "datetime": 1753804800
+    }
+  ]
+}

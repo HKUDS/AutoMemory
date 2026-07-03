@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Equities Mostly Fall as Trump Plans 50% Tariffs on Copper Imports",
+      "description": "Wall Street's major equity indexes mostly fell Tuesday as President Donald Trump announced plans to",
+      "published_utc": "2025-07-09T05:01:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b12bbcf6db175a4b17c69ee4362b5ff9cd0c203c02b64b12b4ad757946ad9c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135827381,
+      "datetime": 1752008500
+    },
+    {
+      "title": "Boeing, Robinhood & EU, Datadog downgrade: Trending Tickers",
+      "description": "Boeing's (BA) second quarter jet deliveries marked the company's highest quarterly deliveries number since 2023. Robinhood's (HOOD) new tokenized US stocks and private company stakes face scrutiny in the European Union under Lithuania's banking regulations. Check out Yahoo Finance's interview with Robinhood CEO and chairman, Vlad Tenev, here. Datadog (DDOG) was downgraded by Guggenheim analysts to Sell from Neutral, citing concerns about the impact of OpenAI's (OPAI.PVT) shift away from the company. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-07-09T04:11:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9276b265e87de766c909efeb2ecbd8da4040a0e9cbc9e6058934ab58017efb4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135829911,
+      "datetime": 1752005486
+    },
+    {
+      "title": "Air India crash probe focuses on engine fuel control switches, The Air Current reports",
+      "description": "The investigation into the Air India flight 171 crash has zeroed in on the movement of the engine fuel control switches, following an analysis of the Boeing 787's flight and voice data recorders, the...",
+      "published_utc": "2025-07-09T04:01:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8a242af8cdcd3660f94954e60b5ecbaea705f25436bd93776cb437f73f585f81",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825884,
+      "datetime": 1752004869
+    },
+    {
+      "title": "Boeing Second-Quarter Deliveries, Orders Increase",
+      "description": "Boeing (BA) on Tuesday reported annual and sequential gains in both deliveries and orders for the se",
+      "published_utc": "2025-07-09T03:48:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74fa2ca6343fc278eff4029d3c519cc41258ad04f5389edf6b813fe16af1f493",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135825798,
+      "datetime": 1752004131
+    },
+    {
+      "title": "Air India jet's fuel switches in focus, as crash preliminary report nears",
+      "description": "A preliminary report into the deadlycrash of an Air India jetliner in June is expected to bereleased by Friday, three sources with knowledge of the mattersaid, with one adding the probe had...",
+      "published_utc": "2025-07-09T03:43:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=87c05a2386ffc40b27cf684b4de597f4789a891db5d627c40e48a55aa2cf99be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135826717,
+      "datetime": 1752003788
+    }
+  ]
+}

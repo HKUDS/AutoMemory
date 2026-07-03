@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "a35881154ffad5b77db9d433d8648a65f9e5fa921a205e208c8c3cdcf8d0d270",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Coffee Prices Soar Over 100%, Near Historic Rally As Inflation Percolates Through Supply Chain",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-04T19:11:20Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43474912/coffee-prices-soar-over-100-near-historic-rally-as-inflation-percolates-through-s",
+      "tickers": [
+        "MCD",
+        "SBUX",
+        "QSR"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/04/Roasters-Hand-Inspecting-Roasted-Coffee-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Coffee prices have surged to record highs, surpassing levels last seen in 1977, due to supply chain issues and climate change. This threatens to increase the cost of a cup of coffee significantly, impacting businesses across the industry.",
+      "keywords": [
+        "coffee",
+        "inflation",
+        "supply chain",
+        "Brazil",
+        "Vietnam",
+        "Colombia",
+        "tariffs"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "McDonald's core customer base is highly price-sensitive, and the company might have less flexibility to raise coffee prices without impacting sales."
+        },
+        {
+          "ticker": "SBUX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Starbucks has a loyal customer base and a premium brand, which might allow it to raise prices without losing customers, positioning it as a price setter in the coffee market."
+        },
+        {
+          "ticker": "QSR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The stock's performance suggests concerns over Restaurant Brands International's ability to manage higher input costs, as it owns the Tim Hortons coffee chain."
+        }
+      ]
+    }
+  ]
+}

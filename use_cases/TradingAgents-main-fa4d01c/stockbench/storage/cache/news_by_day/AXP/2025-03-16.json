@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "American Express (NYSE:AXP) Faces Shareholder Proposals On DEI And Civil Liberties",
+      "description": "American Express (NYSE:AXP) experienced a price move of 2.77% down last week, potentially influenced by a series of shareholder proposals focused on Diversity, Equity, and Inclusion, discrimination risks, and civil liberties in advertising. These proposals, which the company advised voting against, surfaced amid a broader market decline, with major indexes like the Dow Jones dropping 3.1% and the Nasdaq 2.4% due to economic concerns, such as tariff impacts and rising inflation fears. The...",
+      "published_utc": "2025-03-16T01:21:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7c35d823f24fc2e8c6a3b78a64b7b710cc7f56b6dd7876da9bcd01598a8d808",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185281,
+      "datetime": 1742059273
+    }
+  ]
+}

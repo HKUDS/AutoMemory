@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Tech Support: Apple’s MacBook Air is $100 cheaper and still among the best laptops you can buy",
+      "description": "Apple’s latest MacBook Air is here, bringing the company’s newest processor, the M4, to its bestselling line of laptops. The updated Air, available in both 13-inch and 15-inch models, also gets an extremely rare feature for a modern gadget: a $100 price cut.",
+      "published_utc": "2025-03-15T22:30:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b55a88c5246886371001f7ae2dfc006966c19ad0211f83f48d613217de74828a",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/sUpBPXCbxnzTfT9qn8VrNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/bbf07a90-f93f-11ef-bff7-8399db9a5ad4",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183952,
+      "datetime": 1742049011
+    },
+    {
+      "title": "Apple is quietly planning to add genius new feature to AirPods",
+      "description": "The tech giant is cooking up a major update that would give AirPods a competitive edge.",
+      "published_utc": "2025-03-15T21:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a83de9c552819761dd8fa6665f73d514fa45ae4014f881537cba51644dfebfc8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183953,
+      "datetime": 1742045580
+    }
+  ]
+}

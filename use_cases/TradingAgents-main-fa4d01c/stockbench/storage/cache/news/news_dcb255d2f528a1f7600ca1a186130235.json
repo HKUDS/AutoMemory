@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is Microsoft Corporation (NASDAQ:MSFT) The Best Extremely Profitable Stocks to Buy According to Analyst?",
+      "description": "We recently published a list of 11 Best Extremely Profitable Stocks to Buy According to Analysts. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best extremely profitable stocks to buy according to analysts. Fed’s Response to Inflation and Growth Challenges We recently covered 10 Best Stocks […]",
+      "published_utc": "2025-03-25T07:35:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b01256f88681053a4b8ede9a3c4198a98778afa48b802b67560890817dbb90de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360239,
+      "datetime": 1742859348
+    },
+    {
+      "title": "Mag 7 takes on 'growth as defensive' bias, strategist says",
+      "description": "Citi head of US equity strategy Scott Chronert joins Market Domination hosts Julie Hyman and Josh Lipton to discuss Monday's \"Magnificent Seven\" rally in the context of the recent tech trade decline. In particular, Chronert emphasizes a \"growth as defensive\" component coming into play for the Magnificent Seven. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-03-25T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd12e23b6aca358902eb70ce1be2d8e7ee30aa715835a26bf46f487d0e7ba34a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360224,
+      "datetime": 1742859000
+    },
+    {
+      "title": "The iShares S&P Total Stock Market ETF Vs. Vanguard's VTI: Virtually Identical In Many Ways",
+      "description": "Read here for a comparison of ITOT & VTI ETFs for broad market exposure and low fees. Learn why diversifying into tech with QQQ can boost returns.",
+      "published_utc": "2025-03-25T06:22:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7831932f4a7d70f45ce0507fe8f3906d6b0ecd86a4e030adca36d9904854d1b2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1289959626/image_1289959626.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133359522,
+      "datetime": 1742854973
+    },
+    {
+      "title": "Here's Why Microsoft (MSFT) Gained But Lagged the Market Today",
+      "description": "Microsoft (MSFT) concluded the recent trading session at $393.12, signifying a +0.48% move from its prior day's close.",
+      "published_utc": "2025-03-25T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de2de117b5eb1bb7bc2682cbe992b8454b73fd350abd63ce99026822931c278a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360241,
+      "datetime": 1742852716
+    },
+    {
+      "title": "Microsoft (MSFT): Among the Tech Stocks to Buy According to Goldman Sachs",
+      "description": "We recently published a list of Goldman Sachs Tech Stocks: 10 Stocks to Buy. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other top Goldman Sachs tech stocks to buy. The technology sector delivered a strong performance in 2024, driven by chip companies, which played a […]",
+      "published_utc": "2025-03-25T04:27:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5e24566f7012f4336292d2375f67c13313320165600a21e44ec070b61357b9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360242,
+      "datetime": 1742848036
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:21:42.394241+00:00",
+    "cache_key": "news_dcb255d2f528a1f7600ca1a186130235",
+    "count": 5
+  }
+}

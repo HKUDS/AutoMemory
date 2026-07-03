@@ -1,0 +1,133 @@
+{
+  "user_id": "user110_AT_demo",
+  "source_file": "profile.json",
+  "description": "Natural-language user turns generated from profile.json. The turns are written as casual user messages that a nanobot-style personal agent could receive in chat or interactive mode.",
+  "turns": [
+    {
+      "turn_id": "profile_turn_001",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I want to set up my basic health profile so you have some context about me going forward. I'm a 34-year-old male, married, living in an urban area. I work as a Sales Manager, and my education level is a Bachelor's degree."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_002",
+      "messages": [
+        {
+          "role": "user",
+          "content": "A bit more about my personality and day-to-day style: I thrive in a pretty fast-paced city rhythm and I come across as high-energy and outgoing, which fits my sales work. At the same time, I really try to protect my downtime and recharge through disciplined exercise and sleep. I'm fairly strategic and conscientious, maybe a bit Type A, and I prefer structured plans over just winging it. I'm warm with people, but I also have a competitive streak and I like constantly improving myself."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_003",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Overall my health is good. I don't have any active chronic conditions right now, and I'm mostly focused on prevention: keeping my weight stable, maintaining good sleep habits, staying physically fit, and making sure my long-term cardiovascular health stays on track. My job can be stressful, but I try to offset that with self-care routines."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_004",
+      "messages": [
+        {
+          "role": "user",
+          "content": "For measurements, I'm 178 cm tall and about 79 kg. I'm not coming in with acute symptoms; this is basically for annual preventive health screening. I am interested in optimizing my energy levels for work because my career demands a lot physically and mentally, and I see my health as a real asset for doing well professionally."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_005",
+      "messages": [
+        {
+          "role": "user",
+          "content": "My goals of care are pretty straightforward: maintain an optimal BMI, avoid occupational burnout, and protect long-term cardiovascular health through lifestyle management. I don't want to wait until something becomes a problem; I'd rather stay ahead of things."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_006",
+      "messages": [
+        {
+          "role": "user",
+          "content": "On mental health, I think I'm resilient and high-functioning. My job definitely brings significant stress, but I manage it proactively and I don't have signs of anxiety or depression. My main coping mechanisms are a rigorous gym schedule, strict adherence to sleep routines, and strategic planning and scheduling."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_007",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Family history: my father has hypertension that started around age 55, but it's controlled. My mother is healthy. There doesn't seem to be any obvious clustering of chronic diseases in my family history."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_008",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Past medical history: I had a laparoscopic appendectomy when I was 22 because of acute appendicitis. It was emergency surgery, but I fully recovered and had no complications afterward."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_009",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Allergies and intolerances: I have seasonal pollen allergy. No other allergies or adverse reactions come to mind right now."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_010",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Lifestyle-wise, I have never smoked. I drink socially, usually around 1 to 2 units per week, mostly at client dinners. For exercise, I'm highly active and usually go to the gym 4 days a week, mixing strength training with cardio intervals."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_011",
+      "messages": [
+        {
+          "role": "user",
+          "content": "For diet, I'm pretty conscious about food. I prioritize high-protein and whole foods, and I meal prep lunches so I don't end up snacking on unhealthy office food. I do occasionally indulge during business dinners, though."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_012",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Sleep is a big one for me. I try to strictly protect an 11:00 PM to 6:30 AM sleep schedule. I use blackout curtains and track sleep quality with my smartwatch."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_013",
+      "messages": [
+        {
+          "role": "user",
+          "content": "For stress management, the two things that help me most are regular physical exercise and disconnecting from work email on weekends. That weekend disconnect is important because otherwise work tends to bleed into everything."
+        }
+      ]
+    },
+    {
+      "turn_id": "profile_turn_014",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just to summarize the current picture: I'm a generally healthy 34-year-old male sales manager with no active chronic disease, seasonal pollen allergy, prior appendectomy at 22 with full recovery, a family history of controlled hypertension in my father, and a prevention-focused plan around weight, sleep, exercise, burnout prevention, and cardiovascular health."
+        }
+      ]
+    }
+  ]
+}

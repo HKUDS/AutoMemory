@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM) Is Competing With The Rise Of AI, Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. Salesforce, Inc. (NYSE:CRM) is one of the stocks Jim Cramer recently discussed. Salesforce, Inc. (NYSE:CRM) is a SaaS company that provides customer relationship management software. The firm has spent a large portion of 2025 locked in a fierce battle with Microsoft for […]",
+      "published_utc": "2025-07-13T02:42:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c24a4b98ddd756569163e70ceb930e4011f6fa11f381387a303ef41878d3d6a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135902598,
+      "datetime": 1752345732
+    }
+  ]
+}

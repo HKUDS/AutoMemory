@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Large Cap Focus Growth V.I. Fund Q4 2024 Commentary",
+      "description": "The fund posted a return of 6.12% (Class I shares) for the fourth quarter of 2024. The largest exposures were in the IT, consumer discretionary, and communication services sectors.",
+      "published_utc": "2025-03-19T05:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97cf50d37ed98fdb7cc4234b9fbfd82c53fdb3809751a6e52bfa678f67792145",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1367307622/image_1367307622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133236561,
+      "datetime": 1742333460
+    },
+    {
+      "title": "Amazon: Heads You Don't Win, Tails You Lose",
+      "description": "Amazon's stock is underperforming the market despite strong AWS growth and long-term strategy. Click here to find out why AMZN stock is a Hold.",
+      "published_utc": "2025-03-19T01:55:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=359309ad3c23f15ca6fb9ff6a52578dda001dc360d249e543666e8e9d89f6487",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/936371806/image_936371806.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133235755,
+      "datetime": 1742320533
+    },
+    {
+      "title": "Nvidia and Schneider Electric Team Up to Create More Efficient Data Centers",
+      "description": "Nvidia and Schneider Electric Team Up to Create More Efficient Data Centers",
+      "published_utc": "2025-03-19T00:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5f4c6e96fdccfd1f688cdcad44ee23db9a71b5a9ed58c3553a5f5fdf77e11c1f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133240137,
+      "datetime": 1742313600
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "54 Upcoming Dividend Increases, Including A King",
+      "description": "My strategy focuses on companies with consistent dividend growth and outperforming benchmarks. Check out this week's dividend increases.",
+      "published_utc": "2025-03-09T06:30:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fc2c9e965206c0e65b0f01aa41e357003589ddaa7bd6df2bde1eb08c97a01599",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490080093/image_1490080093.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133109576,
+      "datetime": 1741473035
+    }
+  ]
+}

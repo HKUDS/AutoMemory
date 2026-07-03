@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
+      "description": "Get a deeper insight into the potential performance of McDonald's (MCD) for the quarter ended March 2025 by going beyond Wall Street's top -and-bottom-line estimates and examining the estimates for some of its key metrics.",
+      "published_utc": "2025-04-28T21:15:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcc324b75654016ea850677fe1a43900b72eda2f8f75a8e74daac72162b87843",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115133,
+      "datetime": 1745846153
+    },
+    {
+      "title": "Why Investors Need to Take Advantage of These 2 Retail-Wholesale Stocks Now",
+      "description": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+      "published_utc": "2025-04-28T21:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=071bfce6ba0058f4ed061a0c8ca08b32e4fba84784dc28cc97cb365d024bf153",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115134,
+      "datetime": 1745845211
+    },
+    {
+      "title": "CPRL to invest $150m in 600 new McDonald’s in India by 2030",
+      "description": "The growth plan involves updating current stores and rolling out the \"experience of the future\" concept.",
+      "published_utc": "2025-04-28T17:27:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5b2cc3496f63e0dd2d4434291c5317cb46725a2dfa0b5332d2d00442c781727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115135,
+      "datetime": 1745832428
+    }
+  ]
+}

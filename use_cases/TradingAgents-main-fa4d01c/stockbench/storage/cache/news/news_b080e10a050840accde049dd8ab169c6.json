@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "ICBA Payments and Visa Renew Partnership Supporting Community Bank Payments",
+      "description": "WASHINGTON, July 16, 2025--ICBA Payments and Visa today announced the renewal of their four-decade relationship to support community banks with modern payment tools.",
+      "published_utc": "2025-07-17T01:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f928ab35a7a75d500b835e95274b0a3560d63553d66fc3063d2d0d5b8eae8e7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993045,
+      "datetime": 1752686100
+    },
+    {
+      "title": "More Transactions, Less Interest: Can Affirm Still Win BNPL?",
+      "description": "AFRM's transactions surge 46% in the third quarter of fiscal 2025 as it leans into 0% APR loans, aiming to offset thinner margins with higher volume.",
+      "published_utc": "2025-07-17T00:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b2c8a5575bf7fd6aae79cc579a33a1853f7eb50e52dcce24db7fcea6b662b84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993046,
+      "datetime": 1752684780
+    },
+    {
+      "title": "Why Do Merchants Trust Mastercard in a Risky Digital World?",
+      "description": "MA's AI-driven fraud tools, partnerships and cybersecurity investments help merchants stay secure in the digital world.",
+      "published_utc": "2025-07-17T00:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b3186befb960755e6f5c5193aed35d7c0e697873ee57faa9f0e7b7515f4c020",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993047,
+      "datetime": 1752682980
+    },
+    {
+      "title": "AffiniPay Named to CNBC’s 2025 List of the World’s Top Fintech Companies",
+      "description": "AUSTIN, Texas, July 16, 2025--AffiniPay, a leader in legal practice management software, integrated payments, and embedded fintech solutions for professionals, has been named to CNBC’s list of the World’s Top Fintech Companies of 2025. The company appears in the payments category alongside global leaders including Visa, Adyen, and Affirm.",
+      "published_utc": "2025-07-16T23:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b29aade1c49fb619c59c9866b5c70774324ac1f4749f65737e42e2beb6042998",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135969098,
+      "datetime": 1752679200
+    },
+    {
+      "title": "Johnson & Johnson, Amgen share gains lead Dow's 229-point jump",
+      "description": "Johnson & Johnson, Amgen share gains lead Dow's 229-point jump",
+      "published_utc": "2025-07-16T23:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d4782c7b39a8beb3653018a7c1d810e0f711de118ad25008a0c5294e6bc8e4ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135974786,
+      "datetime": 1752678060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:31.735494+00:00",
+    "cache_key": "news_b080e10a050840accde049dd8ab169c6",
+    "count": 5
+  }
+}

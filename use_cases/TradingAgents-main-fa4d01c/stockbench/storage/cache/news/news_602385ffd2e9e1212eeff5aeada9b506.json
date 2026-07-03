@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "5013fcb2bc064782ceb07ecd7f7f851972faa6fcb33ad3b463b93628e4bb1126",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Top Stocks Beaten Down Near 52-Week Lows That Look Like Bargains Now",
+      "author": "Cory Renauer",
+      "published_utc": "2025-03-02T09:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/2-top-stocks-beaten-down-near-52-week-lows-that-lo/?source=iedfolrf0000001",
+      "tickers": [
+        "PFE",
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808751/investor-looks-worried-at-computer-in-a-living-room-setting-getty.jpg",
+      "description": "Pfizer and UnitedHealth Group have seen their stock prices decline, but both companies have strategies to offset challenges. Pfizer's pipeline and UnitedHealth's physician employment model suggest they could be good long-term investments.",
+      "keywords": [
+        "Pfizer",
+        "UnitedHealth Group",
+        "dividend",
+        "patent cliff",
+        "medical expenses"
+      ],
+      "insights": [
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pfizer's stock price has declined due to patent cliffs and declining COVID-19 product sales, but the company has a productive development pipeline and can continue raising its dividend payout."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "UnitedHealth Group's stock price has declined due to rising medical expenses, but the company can offset this by raising premiums and leveraging its physician employment model to retain more of the premiums it receives."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:46.614445+00:00",
+    "cache_key": "news_602385ffd2e9e1212eeff5aeada9b506",
+    "count": 1
+  }
+}

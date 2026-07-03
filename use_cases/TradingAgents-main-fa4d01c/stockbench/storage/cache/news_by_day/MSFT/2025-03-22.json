@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "A Trump plan for TikTok is coming together — and Oracle may play a starring role",
+      "description": "Chinese tech giant ByteDance has roughly two weeks to save its video app TikTok from a renewed US ban — and there are signs cloud computing giant Oracle may play a prominent role.",
+      "published_utc": "2025-03-22T22:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f589150ef8affb0ea92b47ce7084d7833dee374c95909beddaf5a018781fe3ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324224,
+      "datetime": 1742653804
+    },
+    {
+      "title": "OpenAI, Meta in talks with Reliance for AI partnerships, The Information reports",
+      "description": "OpenAI and Meta Platformshave held separate discussions with India's Reliance Industriesover potential partnerships to expand their artificialintelligence offerings in the country, technology news...",
+      "published_utc": "2025-03-22T22:02:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=52d2fd1478bafa910cf6c94e3088816d8fc73759495a6e0b74b92769fe36a3e2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133320222,
+      "datetime": 1742652134
+    },
+    {
+      "title": "OpenAI And Meta Seek AI Alliance With India's Reliance - The Information",
+      "description": "March 22 - * OPENAI AND META SEEK AI ALLIANCE WITH INDIA’S RELIANCE -THEINFORMATION * OPENAI DISCUSSED CUTTING CHATGPT SUBSCRIPTION PRICEBETWEEN 75%AND 85% IN INDIA...",
+      "published_utc": "2025-03-22T20:21:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=33adea629835a48ca169fc353324dac127c31b497ccc9467a5657ca503761e52",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133319723,
+      "datetime": 1742646093
+    },
+    {
+      "title": "AvePoint: Its Solutions Might Be Imitated By Other Platform Companies",
+      "description": "AvePoint shows strong financials, expanding gross margins, and a large market opportunity, but faces significant competition, leading to a hold rating.",
+      "published_utc": "2025-03-22T17:30:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98a3d7bea39a6162d3d7af021afc5981344d6c37210c8ce68e4311aba7de39ec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1899531815/image_1899531815.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133318887,
+      "datetime": 1742635836
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "title": "Hartford Capital Appreciation Fund Q4 2024 Commentary",
+      "description": "Hartford Capital Appreciation Fund (I share) underperformed the Russell 3000 Index during the quarter. Read more here.",
+      "published_utc": "2025-02-25T05:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac1afa1887f0f6954a9345633a3b5326e2345cf0a4e41deabbb9825378b52de6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1089284390/image_1089284390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132867142,
+      "datetime": 1740432660
+    },
+    {
+      "id": "624bf299613edc91e432c6cba8e2b02fb59e75a9d27efc8023e0cca3ccd7e224",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Buying Honeywell Stock Today Will Set You Up for Life",
+      "author": "Lee Samaha",
+      "published_utc": "2025-02-24T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/24/prediction-buying-honeywell-stock-today-will-set-y/?source=iedfolrf0000001",
+      "tickers": [
+        "HON",
+        "GE",
+        "ROK",
+        "EMR",
+        "JCI",
+        "HXL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808282/gettyimages-912360406.jpg",
+      "description": "Honeywell is a good buy not for its current state, but for its potential after breaking up into three standalone companies. The breakup will enable the businesses to focus on their respective markets and make strategic investments, leading to earnings growth and potential valuation expansion.",
+      "keywords": [
+        "Honeywell",
+        "conglomerate",
+        "breakup",
+        "earnings growth",
+        "valuation expansion"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Honeywell stock is a good buy due to the potential for earnings growth and valuation expansion after the company breaks up into three standalone businesses. This will allow the individual businesses to focus on their respective markets and make strategic investments."
+        },
+        {
+          "ticker": "GE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that GE Aerospace has a dominant position in commercial airplane engines, which is stronger than Honeywell Aerospace's position in business jet engines, avionics, and other areas."
+        },
+        {
+          "ticker": "ROK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Honeywell Automation competes with focused industrial/process automation/software players like Rockwell Automation, suggesting that Rockwell Automation is a competitor to Honeywell's automation business."
+        },
+        {
+          "ticker": "EMR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Emerson Electric, a rival of Honeywell Automation, has re-engineered itself into a pure-play automation company with strong positions in adjacent markets like industrial software and test and measurement automation through acquisitions, suggesting that Emerson Electric is well-positioned in the automation industry."
+        },
+        {
+          "ticker": "JCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Johnson Controls has restructured its building automation segment to exploit the burgeoning growth in commercial and industrial building automation and software, indicating that the company is well-positioned in the building automation market."
+        },
+        {
+          "ticker": "HXL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Hexcel, an aerospace-focused advanced composite materials company, could be a good fit for Honeywell Aerospace and a potential acquisition target, indicating a positive sentiment towards Hexcel."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:15.058532+00:00",
+    "cache_key": "news_f080340c48afc361115c1617c871f6eb",
+    "count": 2
+  }
+}

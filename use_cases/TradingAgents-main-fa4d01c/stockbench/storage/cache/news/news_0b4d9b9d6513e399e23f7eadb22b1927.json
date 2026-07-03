@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Is Home Depot (HD) the Best Dividend Stock to Buy and Hold?",
+      "description": "We recently published a list of 15 Best Dividend Stocks To Buy and Hold. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other best dividend stocks to buy and hold. In recent years, many investors have shifted their focus from dividend-paying stocks to high-growth […]",
+      "published_utc": "2025-02-06T00:36:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f666d976702adc5fb95f537a91896c0ec3716557915983f1cf63684a6742a3f0",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/rD8ZojNQEK8kYIRgEiLjBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ee9fd964263f7a4a406585b4eccd7921",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132782841,
+      "datetime": 1738773413
+    },
+    {
+      "title": "New Grills and Smokers from Kamado Joe and Masterbuilt Dish Up Smart Home Tech with Old World Flavor",
+      "description": "ATLANTA - Popular outdoor grill brands, Kamado Joe and Masterbuilt, are launching new models just as grilling season warms up. The latest models build on advancements made in connected technology...",
+      "published_utc": "2025-02-05T15:44:19",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=24010d627d029910424abd426ac0ec2be9f5a14da6347322825e5005994ac7bf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132561354,
+      "datetime": 1738741459
+    },
+    {
+      "title": "Trump's New Tariffs: Top U.S.-Centric Stocks Amid Escalating Trade Tensions",
+      "description": "Explore US retail and service stocks as a hedge against tariffs and currency headwinds. Click for my top U.S. stock picks in a world of escalating trade tensions.",
+      "published_utc": "2025-02-04T20:52:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe4b3c441f303c40b724b0d4e570680fad12a804a0b0458656d9f4462b8a72c9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2149194584/image_2149194584.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132547809,
+      "datetime": 1738673531
+    },
+    {
+      "title": "11 Dividend Increases Expected In February 2025",
+      "description": "February 2025 will see 11 expected dividend increases from companies with a history of consistent annual dividend hikes. Read more to see a full review.",
+      "published_utc": "2025-02-04T16:29:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bd23e1cf7cefa0b52efb0fefabd01bf1d0ab283c37369dc93f9e6ede5b7129d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445810148/image_1445810148.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543039,
+      "datetime": 1738657775
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:52:05.380602+00:00",
+    "cache_key": "news_0b4d9b9d6513e399e23f7eadb22b1927",
+    "count": 4
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "trace_id": "trace_id_observations_store_basic_dedupe",
+  "eval_mode": "hit_rate",
+  "category": "normal",
+  "description": "Observation store should persist reusable agent observations and exact evidence-hash deduplication should not block unrelated records.",
+  "checks": [
+    {
+      "description": "Store a shell permission failure observation.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "Shell cache permission failure",
+        "l0": "Shell failed when opening the opencode cache.",
+        "l1": "When shell reports EACCES for /tmp/opencode-cache/index.json, fix directory ownership before retrying.",
+        "commands": ["chmod -R u+rw /tmp/opencode-cache"],
+        "tools": ["shell"],
+        "files": [],
+        "errorFingerprint": "EACCES /tmp/opencode-cache/index.json",
+        "evidence": { "sessionID": "obs-a" },
+        "evidenceHash": "obs-hash-001"
+      },
+      "read_input": {},
+      "expected_output": { "value": "EACCES /tmp/opencode-cache/index.json", "matcher": "substring" }
+    },
+    {
+      "description": "Store a migration procedure observation.",
+      "write_input": {
+        "owner": "agent",
+        "type": "procedure",
+        "title": "Run billing migrations in stub mode",
+        "l0": "Billing migrations need stubbed Stripe mode locally.",
+        "l1": "Before running billing integration tests, set TEST_STRIPE_MODE=stub and use bun test packages/billing.",
+        "commands": ["TEST_STRIPE_MODE=stub bun test packages/billing"],
+        "tools": ["shell"],
+        "files": ["packages/billing/test/retry.test.ts"],
+        "evidence": { "sessionID": "obs-a" },
+        "evidenceHash": "obs-hash-002"
+      },
+      "read_input": {},
+      "expected_output": { "value": "TEST_STRIPE_MODE=stub", "matcher": "substring" }
+    },
+    {
+      "description": "Store a repo decision observation.",
+      "write_input": {
+        "owner": "agent",
+        "type": "decision",
+        "title": "Keep legacy search aliases",
+        "l0": "Search rollout keeps legacy aliases during tenant migration.",
+        "l1": "Do not delete old index aliases until beta tenants finish migration; use the compatibility adapter instead.",
+        "commands": [],
+        "tools": ["read_file"],
+        "files": ["packages/search/src/compat-adapter.ts"],
+        "evidence": { "sessionID": "obs-a" },
+        "evidenceHash": "obs-hash-003"
+      },
+      "read_input": {},
+      "expected_output": { "value": "compatibility adapter", "matcher": "substring" }
+    },
+    {
+      "description": "Exact duplicate evidence hash should not create another row.",
+      "write_input": {
+        "owner": "agent",
+        "type": "failure",
+        "title": "Shell cache permission failure duplicate",
+        "l0": "Duplicate of shell EACCES failure.",
+        "l1": "Duplicate should be ignored by the evidence hash sidecar.",
+        "commands": ["chmod -R u+rw /tmp/opencode-cache"],
+        "tools": ["shell"],
+        "files": [],
+        "errorFingerprint": "EACCES /tmp/opencode-cache/index.json",
+        "evidence": { "sessionID": "obs-a" },
+        "evidenceHash": "obs-hash-001"
+      },
+      "read_input": {},
+      "expected_output": {
+        "value": "^(?![\\s\\S]*Shell cache permission failure duplicate)[\\s\\S]*Shell cache permission failure[\\s\\S]*$",
+        "matcher": "regex"
+      }
+    },
+    {
+      "description": "Store an environment quirk observation.",
+      "write_input": {
+        "owner": "agent",
+        "type": "environment_quirk",
+        "title": "Region-sensitive OpenRouter memory model",
+        "l0": "Memory LLM tests use minimax by default due regional availability.",
+        "l1": "Set OPENCODE_MEMORY_LLM_TEST_MODEL when OpenRouter region availability changes.",
+        "commands": [],
+        "tools": ["shell"],
+        "files": ["packages/opencode/test/preload.ts"],
+        "evidence": { "sessionID": "obs-a" },
+        "evidenceHash": "obs-hash-004"
+      },
+      "read_input": {},
+      "expected_output": { "value": "OPENCODE_MEMORY_LLM_TEST_MODEL", "matcher": "substring" }
+    }
+  ]
+}

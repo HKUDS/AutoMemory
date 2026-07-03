@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "This 1 New Move by Goldman Sachs Could Boost Bitcoin, Ethereum, and Maybe Even XRP",
+      "description": "The famous investment bank Goldman Sachs (NYSE: GS) just did something that crypto investors need to know about.  The bank's action has significant implications for the future prices of Bitcoin (CRYPTO: BTC), Ethereum (CRYPTO: ETH), and perhaps also XRP (CRYPTO: XRP) in the future, assuming they repeat the move with another digital asset.  Here's what Goldman Sachs did and why it matters.",
+      "published_utc": "2025-03-09T00:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8c400f8b4979b9c51123ea9dfbe9ad63ed42a3e6ddffeef3158e873bc74852f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185077,
+      "datetime": 1741452060
+    }
+  ]
+}

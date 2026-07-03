@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "title": "US FDA Votes in Favor of Benefit-Risk Profile of Johnson & Johnson’s DARZALEX FASPRO",
+      "description": "On May 20, Johnson & Johnson (NYSE:JNJ) announced that the FDA Oncologic Drugs Advisory Committee/ODAC voted 6-2 in favor of the benefit-risk profile of single-agent DARZALEX FASPRO (daratumumab and hyaluronidase-fihj) for treating adult patients with high-risk smoldering multiple myeloma (HR-SMM). This recommendation is a step towards potentially making DARZALEX FASPRO the first treatment to delay […]",
+      "published_utc": "2025-05-25T19:07:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ec8dc60d045d12a3f13358bf5ed9005dc816c52ad9e5fa742fa5c1dd2c57070",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694320,
+      "datetime": 1748171267
+    },
+    {
+      "id": "778b1f8fd82af712ea12661a5a40da467fb418cee3109da7a938e77c4c1c2512",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Investing for Passive Income? Here's What History Says About the Stability of Dividend King Stocks.",
+      "author": "Adria Cimino",
+      "published_utc": "2025-05-25T08:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/25/heres-what-history-says-dividend-kings/?source=iedfolrf0000001",
+      "tickers": [
+        "AWR",
+        "PG",
+        "JNJ",
+        "KO",
+        "TGT",
+        "PFE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/819344/gettyimages-1310896133.jpg",
+      "description": "Investing in Dividend King stocks, which have raised dividends for at least 50 consecutive years, can provide stable passive income and cushion portfolio performance during tough market times. History shows these stocks have delivered strong long-term returns, with dividends contributing significantly to overall gains.",
+      "keywords": [
+        "dividend stocks",
+        "passive income",
+        "Dividend Kings",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AWR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American States Water as a Dividend King that has raised its dividend for 70 consecutive years, demonstrating its commitment to rewarding shareholders."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Procter & Gamble is another Dividend King that has increased its dividend for 68 consecutive years, indicating its financial strength and focus on shareholder returns."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is a well-known Dividend King that has a long track record of paying and increasing dividends, which supports the idea of continued dividend growth and earnings strength."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is a Dividend King that is recognized for its commitment to rewarding shareholders through consistent dividend increases."
+        },
+        {
+          "ticker": "TGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Target as an example to show how Dividend Kings can protect investors from stock price declines, as the dividends received would have significantly boosted the overall returns."
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "While not a Dividend King, Pfizer is highlighted as a company with a high dividend yield that is focused on growing its dividend, making it a potential option for investors seeking passive income."
+        }
+      ]
+    }
+  ]
+}

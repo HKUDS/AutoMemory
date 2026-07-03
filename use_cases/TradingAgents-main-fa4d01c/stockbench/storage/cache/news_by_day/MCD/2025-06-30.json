@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald's: Fairly Valued Today, With Solid Upside On Execution",
+      "description": "Discover why McDonald's remains a strong long-term investment despite recent financial declines. Learn about its fair valuation & 2.5% dividend yield.",
+      "published_utc": "2025-06-30T03:24:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=06aae85e72a7f229eb8a18a00ea3686cc465fae9fe784181ec4c0766de79a574",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458546943/image_458546943.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135633690,
+      "datetime": 1751225094
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Rosen Law Firm Files Securities Fraud Class Action Lawsuit Against UnitedHealth Group Incorporated – UNH",
+      "description": "Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of securities of UnitedHealth Group Incorporated between December 3, 2024 and...",
+      "published_utc": "2025-05-07T21:45:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=165a0a9de5dca66306dcf462e1d242373687ad1974c7876d2ee9c6e2d75cdb91",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134297377,
+      "datetime": 1746625504
+    }
+  ]
+}

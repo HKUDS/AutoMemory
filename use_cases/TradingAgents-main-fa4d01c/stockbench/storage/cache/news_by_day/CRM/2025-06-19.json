@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Transcript : Salesforce, Inc. - Special Call",
+      "description": "Presenter SpeechPriya Kanjia Great. Good morning, everyone. Hello, and welcome to today's session. I am excited to talk to you through future-proofing your data strategies for management recovery",
+      "published_utc": "2025-06-19T05:55:16",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d656853feb39a94f714f3d469e4f1eb9d6d13856606c8db764db3651ec5d75f2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375532,
+      "datetime": 1750283716
+    },
+    {
+      "title": "Salesforce Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Salesforce Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-06-19T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f1de7c28b5414fc177a62be0b08e2b4c903d2c4b5d6d4fda0c755c3c674f1051",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135389950,
+      "datetime": 1750264320
+    }
+  ]
+}

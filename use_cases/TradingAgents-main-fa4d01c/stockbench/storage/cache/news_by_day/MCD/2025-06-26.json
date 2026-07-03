@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Stock Moves -2.03%: What You Should Know",
+      "description": "In the closing of the recent trading day, McDonald's (MCD) stood at $285.55, denoting a -2.03% move from the preceding trading day.",
+      "published_utc": "2025-06-26T05:50:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa75a21f7a0f5a8d12f4dbcd48205c13871c4bb3b266b5d65a2fd2f33c0a8000",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530431,
+      "datetime": 1750888203
+    },
+    {
+      "title": "7 Items From Your Millennial Childhood That Could Be Worth Decent Money",
+      "description": "If you're a millennial who bridged the unique blend of pre-digital and digital experiences, chances are every movie from your childhood is either getting a remake, a prequel or a sequel. Nostalgia is...",
+      "published_utc": "2025-06-26T03:05:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4e13c8056b1919839cf9e009b5788ac07de61960059993566802359fa1e9a6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530432,
+      "datetime": 1750878342
+    },
+    {
+      "title": "McDonald’s is launching a Happy Meal with miniature toys inspired by the brand",
+      "description": "The offering also includes the ability to unlock a ‘Drive Thru Dash’ digital game",
+      "published_utc": "2025-06-26T01:40:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7e639fbe871bb8ae8b4753728d175822732b54f1ff165ff8a88c57aab738e5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530433,
+      "datetime": 1750873240
+    },
+    {
+      "title": "McDonald’s Corporation (MCD): Those Who Downgrade The Stock Will Be “Wrong,” Says Jim Cramer",
+      "description": "McDonald’s Corporation (NYSE:MCD) is one of the Jim Cramer Reveals Potential US Rare Earth Trump Card & Discusses These 11 Stocks. McDonald’s Corporation (NYSE:MCD) is a frequent feature of Cramer’s morning show. The fast food giant’s shares have lost 1.7% year-to-date primarily due to 5% since mid-June. McDonald’s Corporation (NYSE:MCD), like other food companies, is […]",
+      "published_utc": "2025-06-26T00:22:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78443b6d47347c02a6b5fc661a5218d8c62af5d214053f313417f8dcb31219e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530434,
+      "datetime": 1750868547
+    }
+  ]
+}

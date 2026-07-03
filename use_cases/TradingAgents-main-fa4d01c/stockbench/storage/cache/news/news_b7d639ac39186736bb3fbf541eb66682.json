@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Visa Expands Click to Pay Across Asia Pacific Via Hong Kong's ZA Bank",
+      "description": "V rolls out Click to Pay with ZA Bank in Hong Kong, streamlining online checkouts and aiming to capture digital growth prospects in the Asia Pacific region with 11 more markets in sight for the solution launch.",
+      "published_utc": "2025-05-28T02:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=674cef27d3931e4dc4ebf4e515893c28a0f86ee68d171dfc19d691bac8743261",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715807,
+      "datetime": 1748369280
+    },
+    {
+      "title": "Visa and ZA Bank Bring Seamless Click to Pay to Hong Kong",
+      "description": "Visa Inc.’s (NYSE:V) bid to entrench itself as a global leader in digital payments has received a significant boost. On May 26, Hong Kong’s largest digital bank, ZA Bank, integrated its Click to Pay solution to enable client’s complete online transactions in seconds. ZA Bank has become the first card-issuing bank to enable Click to […]",
+      "published_utc": "2025-05-28T01:30:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=667b9ff3656737f4faa9c91c50c949c2e4302925275169fc4a3c1abcfc90c23f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715809,
+      "datetime": 1748367033
+    },
+    {
+      "title": "Visa Inc. Cl A stock rises Tuesday, still underperforms market",
+      "description": "Visa Inc. Cl A stock rises Tuesday, still underperforms market",
+      "published_utc": "2025-05-28T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=52ffab078e87ba865e59d23de23dee1515ad85bd9417d55447e5db36d0cee6bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716474,
+      "datetime": 1748363460
+    },
+    {
+      "title": "Mastercard: For Long-Term Growth",
+      "description": "Discover why Mastercard excels in global cashless trends, AI, and crypto payments. Click here for a full investment analysis of MA stock.",
+      "published_utc": "2025-05-27T20:51:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=72b82bef1f722eb8852542e2004333f54595d5fc3d5e402f77a3548bd7723529",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/520548260/image_520548260.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709856,
+      "datetime": 1748350296
+    },
+    {
+      "title": "3 Crypto-Centric Stocks in Focus as Bitcoin Resumes Its Rally",
+      "description": "Bitcoin hovers near $110K as crypto sentiment surges. V, PYPL, and CLSK emerge as top stock picks with rising earnings outlooks.",
+      "published_utc": "2025-05-27T20:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb0862f616d851ff2fbc67fc63fd7d5be30f314b800f0db531d195757f6f9525",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715811,
+      "datetime": 1748350140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:39.846445+00:00",
+    "cache_key": "news_b7d639ac39186736bb3fbf541eb66682",
+    "count": 5
+  }
+}

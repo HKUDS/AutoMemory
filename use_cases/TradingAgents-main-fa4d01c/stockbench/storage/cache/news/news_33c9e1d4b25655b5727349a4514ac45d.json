@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Boeing (BA) Gained But Lagged the Market Today",
+      "description": "Boeing (BA) concluded the recent trading session at $168.56, signifying a +0.23% move from its prior day's close.",
+      "published_utc": "2025-04-03T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80157dd6dc115f7fb1cbf55dd9eb4845a9743296316d690d7a926f753981f54d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695099,
+      "datetime": 1743630316
+    },
+    {
+      "title": "Boeing working with DOJ on revised plea deal in 737 MAX fraud case, CEO says",
+      "description": "Boeing  is in discussions with the U.S. Department of Justice to reach a revised plea agreement in a criminal fraud case stemming from the planemaker's alleged misrepresentations to regulators about a key system on the 737 MAX, company CEO Kelly Ortberg said on Wednesday.  Ortberg said at a Senate hearing Boeing is in discussions with the Justice Department to come up with an alternate agreement after the initial deal was not accepted by a judge.",
+      "published_utc": "2025-04-03T02:21:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d518e56c260d4bdceb4c5ed6c3237986ca8866c47f97b29879839daffbfa77e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669594,
+      "datetime": 1743618101
+    },
+    {
+      "title": "Boeing CEO Worries That Trade War Could Hurt Its Exports",
+      "description": "Boeing CEO Kelly Ortberg said he is concerned that new U.S. tariffs could cause trade war escalations that jeopardize the jet maker’s exports.  The aerospace giant exports about 80% of the commercial airplanes it builds.  “Free trade is very important to us,” Ortberg said Wednesday, when asked to address tariffs during a Senate hearing on safety.",
+      "published_utc": "2025-04-03T01:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d9c79a3aad6098aec63978444a3a59ab00006bba55b0dd8b652993686af3ae2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133675985,
+      "datetime": 1743615002
+    },
+    {
+      "title": "Don't Bet on a Boeing Stock Rebound Just Yet",
+      "description": "Boeing stock is one of the worst to own in April, historically",
+      "published_utc": "2025-04-03T01:17:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1485d8b59465142b27721cfdd790c5f83495e3b70defb5f7365e22aefa7b3ce9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669596,
+      "datetime": 1743614241
+    },
+    {
+      "title": "Ryanair Issues Impressive Traffic Numbers for March 2025",
+      "description": "RYAAY's March 2025 load factor of 93% remained flat on a year-over-year basis.",
+      "published_utc": "2025-04-03T00:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7d9395af60c6a0826e4efa80ae0e3815fb735ad35797e222dd12f08f858503f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133675987,
+      "datetime": 1743613140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:26:43.620046+00:00",
+    "cache_key": "news_33c9e1d4b25655b5727349a4514ac45d",
+    "count": 5
+  }
+}

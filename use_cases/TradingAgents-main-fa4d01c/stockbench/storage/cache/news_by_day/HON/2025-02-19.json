@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. stock outperforms competitors on strong trading day",
+      "description": "Honeywell International Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-02-19T00:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bdbf961ce5fdcd2e73c917968ead8ab0ec3045f124f599dec1518cfb8401c40e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132787909,
+      "datetime": 1739896620
+    }
+  ]
+}

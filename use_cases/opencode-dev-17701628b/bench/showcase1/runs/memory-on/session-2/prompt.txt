@@ -1,0 +1,42 @@
+Fix the following pytest issue:
+
+skipping: --runxfail breaks pytest.mark.skip location reporting
+pytest versions: 5.4.x, current master
+
+When `@pytest.mark.skip`/`skipif` marks are used to skip a test, for example
+
+```py
+import pytest
+@pytest.mark.skip
+def test_skip_location() -> None:
+    assert 0
+```
+
+the expected skip location reported should point to the item itself, and this is indeed what happens when running with `pytest -rs`:
+
+```
+SKIPPED [1] test_it.py:3: unconditional skip
+```
+
+However, adding `pytest -rs --runxfail` breaks this:
+
+```
+SKIPPED [1] src/_pytest/skipping.py:238: unconditional skip
+```
+
+The `--runxfail` is only about xfail and should not affect this at all.
+
+---
+
+Hint: the bug is in `src/_pytest/skipping.py`, the `pytest_runtest_makereport` hook.
+
+
+The repository is checked out at e6e300e729dd33956e5448d8be9a0b1540b4e53a. Generate a minimal patch to fix this issue.
+
+Environment rules:
+Do not install system packages.
+Do not modify Python/conda/venv environment.
+Do not run pip install unless explicitly required by the task.
+The repository environment is already prepared.
+When running Python or tests from a shell, use the prepared interpreter only: from the repo root run `./.bench-venv/bin/python` or `./.bench-venv/bin/python -m pytest` (never rely on bare `python`, `python3`, or `pytest` on PATH — conda or system Python may take precedence).
+Focus only on fixing the issue.

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Pomerantz Law Firm Investigates Claims On Behalf of Investors of The Boeing Company - BA",
+      "description": "NEW YORK, June 22, 2025 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of The Boeing Company  .  Such investors are advised to contact Danielle Peyton...",
+      "published_utc": "2025-06-22T18:01:44",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d117a8e1c0ab051732d8b533153b7cb6af75362a5cc4ac7edf1541ef2a9b4fe7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135465099,
+      "datetime": 1750586504
+    },
+    {
+      "title": "Boeing Deserves A Little More Love (Rating Upgrade)",
+      "description": "Boeing's financials are improving, with strong revenue growth, reduced losses, and a growing backlog. Read why BA stock is upgraded to Hold.",
+      "published_utc": "2025-06-22T08:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0777df82343e2df8fe1fd763118ce4c5987a24e0e64050443eb47e47817a652e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180096037/image_2180096037.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135458350,
+      "datetime": 1750551000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:59:17.597788+00:00",
+    "cache_key": "news_3ffb005c27001635c1c4520c512b7c52",
+    "count": 2
+  }
+}

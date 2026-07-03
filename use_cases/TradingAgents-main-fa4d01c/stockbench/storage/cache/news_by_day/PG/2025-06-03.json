@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Bert's May 2025 Dividend Income Summary",
+      "description": "May was a strange month for dividend income. Click to read.",
+      "published_utc": "2025-06-03T21:43:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5b48cec3baf8997dfb8483f8112b6c82e497d0280ed14153ba0cb4b17d652102",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2155849478/image_2155849478.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134981961,
+      "datetime": 1748958180
+    },
+    {
+      "title": "Procter & Gamble Company (The) (PG) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Recently, Zacks.com users have been paying close attention to P&G (PG). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-06-03T21:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28b860fa506aecbf40f69179981d4d3df82f42cf6135f2343fab87ec40f2f833",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134978077,
+      "datetime": 1748955611
+    },
+    {
+      "title": "IVE: Value Has Been Lagging For A Decade",
+      "description": "IVE is the largest and most liquid S&P 500 Value Index ETF, with sector exposure in tech, financials, and healthcare. Read the report on its performance and other metrics.",
+      "published_utc": "2025-06-03T20:20:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c9452fcd9a14edd8ad74b9d27fd08b705aef70389876a4bbca857e9b87c070c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1457055342/image_1457055342.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134980073,
+      "datetime": 1748953240
+    },
+    {
+      "title": "Gold: An HQLA In All But Name",
+      "description": "",
+      "published_utc": "2025-06-03T19:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=03bc9b3c1e841ea1bc5d019aef2c3a8af79c3c16c87a59cef3fe9f8f15204d33",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134978008,
+      "datetime": 1748949000
+    },
+    {
+      "title": "Procter & Gamble : MSCI Company Response (MSCI Company Response)",
+      "description": "PGG Responses to Certain MSCI ESG Controversies MSCI Controversy: Malaysia: Allegations of forced labor at joint venture palm oil plantation ...",
+      "published_utc": "2025-06-03T16:21:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6e4c86c2146794572200f720d79da578ed910532767447180a06434229d439d2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134976361,
+      "datetime": 1748938869
+    }
+  ]
+}

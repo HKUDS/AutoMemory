@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Amazon CEO Andy Jassy says company will cut jobs amid AI boom. It's already happening at Microsoft.",
+      "description": "Amazon CEO Andy Jassy said the company will reduce its workforce, and Microsoft is reportedly planning thousands of layoffs, just as the two companies invest billions in AI.",
+      "published_utc": "2025-06-19T05:38:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b4df4be36bacf5038d5bc6768a9101be078cb39caaaeeb5f7fc9c967378a727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375149,
+      "datetime": 1750282727
+    },
+    {
+      "title": "Stablecoin Legislation Will Juice Demand for Treasurys—to a Point",
+      "description": "Issuers of digital currencies need Treasury bills for their reserves, but analysts say the consequences are uncertain.",
+      "published_utc": "2025-06-19T05:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b29c5c6206f34ed53d1d547e057cfaedcde95018fff45d68bdd40a8ee88e8fb4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375150,
+      "datetime": 1750282680
+    },
+    {
+      "title": "Microsoft Stock Just Hit a Fresh High; Company Plans to Trim Thousands of Jobs, Report Says",
+      "description": "Microsoft is reportedly planning to trim thousands of jobs, particularly in sales, as the tech giant faces pressure to lower labor costs while it boosts spending on artificial intelligence.",
+      "published_utc": "2025-06-19T05:35:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e190a270efe576890bc97375dc508a4444b29974c047f97fd610ac52ada360b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375151,
+      "datetime": 1750282539
+    },
+    {
+      "title": "Microsoft Plans to Cut Thousands More Employees",
+      "description": "Microsoft  is planning to lay off several thousand employees in the next few weeks, looking to thin out its ranks while continuing its costly push into artificial intelligence.  The number of cuts isn’t yet final, and they are planned for around the beginning of Microsoft’s new fiscal year, which starts in July, they said.  On Tuesday, Amazon CEO  Andy Jassy  said the company planned to reduce its workforce in the coming years because increasing use of artificial intelligence will eliminate the need for certain roles.",
+      "published_utc": "2025-06-19T05:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7630ae7d6e4a1f2e2e44b7029ffa487b334e8a544431f9744bde0034dbbc8abe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375152,
+      "datetime": 1750281540
+    },
+    {
+      "title": "Stocks to Watch Recap: Hasbro, Circle, Amazon, Nintendo",
+      "description": "↗️ Hasbro (HAS): The toy maker laid off 3% of its workforce, amounting to about 150 employees, as part of a multi-year restructuring. The maker of Monopoly board games and Nerf blasters warned in April that tariffs could ultimately lead to layoffs.",
+      "published_utc": "2025-06-19T04:55:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=679fbf6d586a376bfce2b91b1fc8136f2f0405b258ae06dbb50976cc2aef2ac9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374802,
+      "datetime": 1750280153
+    }
+  ]
+}

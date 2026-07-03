@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Apple Inc. (AAPL) Maintains Overweight – Morgan Stanley Highlights “10-Year High Margins” and Services Growth",
+      "description": "We recently published a list of 10 AI Stocks in the News Today. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other AI stocks in the news today. The Trump administration may soon abandon the tiered approach to accessing advanced AI chips and replace it with […]",
+      "published_utc": "2025-05-06T06:16:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2762c33f26f9bf4d81f878fad67c2ea9df04cc4cd7c449acc4555c19d373da99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266073,
+      "datetime": 1746483376
+    },
+    {
+      "title": "AAPL Q1 Earnings Call: Growth Across Core Products, AI Integration, and Tariff Risks",
+      "description": "iPhone and iPad maker Apple (NASDAQ:AAPL) reported Q1 CY2025 results beating Wall Street’s revenue expectations, with sales up 5.1% year on year to $95.36 billion. Its non-GAAP profit of $1.65 per share was 1.7% above analysts’ consensus estimates.",
+      "published_utc": "2025-05-06T05:53:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e261b1aa5292fba50a2e7085b35f9f9e3ca8aea34d1d40a47a47809ebd402f65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266074,
+      "datetime": 1746482023
+    },
+    {
+      "title": "Private equity titan Robert Smith: Tech stocks are still the place to be",
+      "description": "Vista Equity Partners chairman, founder, and CEO Robert Smith makes the case to own tech stocks despite a more volatile economic backdrop.",
+      "published_utc": "2025-05-06T05:02:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8e2d98f605291b901886605803e6f38f6d44f160b5da3996ca8545d3c7aef47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266075,
+      "datetime": 1746478978
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Berkshire, Microsoft, Apple, Netflix, Palantir, On Semi, Tyson, Skechers, and More",
+      "description": "Berkshire Hathaway’s Class B shares fall after Warren Buffett says he’ll be stepping down as CEO at the end of the year, and Netflix declines as President Donald Trump says he authorized a 100% tariff on films produced overseas. Palantir Technologies, meanwhile, is scheduled to report quarterly earnings later Monday.",
+      "published_utc": "2025-05-06T04:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=299630ccfbc55f518ea23604ba34aa8297920dd358d967b7246db1ad7e2ad993",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266076,
+      "datetime": 1746476940
+    },
+    {
+      "title": "Buy, Sell, or Hold These Mag 7 Stocks After Earnings: AAPL, AMZN",
+      "description": "Markets haven't kept the momentum investors were hoping for after receiving much-anticipated quarterly results from Amazon (AMZN) and Apple (AAPL) last Thursday.",
+      "published_utc": "2025-05-06T04:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4829ee2005411ef6711755100de11e3dbff1654bdbdfb07b72ed68c9c142c04b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266077,
+      "datetime": 1746476280
+    }
+  ]
+}

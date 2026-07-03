@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "ICBA Payments and Visa Renew Partnership Supporting Community Bank Payments",
+      "description": "WASHINGTON, July 16, 2025--ICBA Payments and Visa today announced the renewal of their four-decade relationship to support community banks with modern payment tools.",
+      "published_utc": "2025-07-17T01:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f928ab35a7a75d500b835e95274b0a3560d63553d66fc3063d2d0d5b8eae8e7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993045,
+      "datetime": 1752686100
+    },
+    {
+      "title": "More Transactions, Less Interest: Can Affirm Still Win BNPL?",
+      "description": "AFRM's transactions surge 46% in the third quarter of fiscal 2025 as it leans into 0% APR loans, aiming to offset thinner margins with higher volume.",
+      "published_utc": "2025-07-17T00:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b2c8a5575bf7fd6aae79cc579a33a1853f7eb50e52dcce24db7fcea6b662b84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993046,
+      "datetime": 1752684780
+    },
+    {
+      "title": "Why Do Merchants Trust Mastercard in a Risky Digital World?",
+      "description": "MA's AI-driven fraud tools, partnerships and cybersecurity investments help merchants stay secure in the digital world.",
+      "published_utc": "2025-07-17T00:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b3186befb960755e6f5c5193aed35d7c0e697873ee57faa9f0e7b7515f4c020",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993047,
+      "datetime": 1752682980
+    }
+  ]
+}

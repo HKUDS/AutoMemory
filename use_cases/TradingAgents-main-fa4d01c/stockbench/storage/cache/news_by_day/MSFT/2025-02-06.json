@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Contrafund Q4 2024 Review",
+      "description": "For Q4 2024, the Fidelity Contrafund's Retail Class shares gained 3.56%, topping the 2.41% advance of the S&P 500Â® index. Click here to read the full commentary.",
+      "published_utc": "2025-02-06T06:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a0a5a73483fa9fd7e332d0b4cf17231696a722fb5cfb954e54a0be6eb6011ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952762622/image_952762622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569795,
+      "datetime": 1738794900
+    },
+    {
+      "title": "Tracking William Von Mueffling's Cantillon Capital Management Portfolio - Q4 2024 Update",
+      "description": "William von Muefflingâs 13F portfolio value increased to $16.55B. Check out the holdings of Cantillon Capital Management Portfolio here.",
+      "published_utc": "2025-02-06T06:03:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f88287dbff600d4f391176eda06fc5f40cd412496046d682f371465863c5ac0a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132569658,
+      "datetime": 1738793028
+    },
+    {
+      "title": "How DeepSeek could deliver another blow to the stock market",
+      "description": "How DeepSeek could deliver another blow to the stock market",
+      "published_utc": "2025-02-06T01:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5b6f3eceacdc8ccf2398a192cc64dfc45cd25533e6f22e11b8864ca1fd0d18a6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573405,
+      "datetime": 1738777020
+    },
+    {
+      "title": "Blizzard Entertainment® Raises Over $2 Million for CureDuchenne Through World of Warcraft ® Charity Pet Program, Funding Lifesaving Duchenne Muscular Dystrophy Research",
+      "description": "Inspired by The Remarkable Life of Ibelin documentary, Players Around the World Unite to Honor Mats Steen and Drive Groundbreaking Research and Vital CareNEWPORT BEACH, Calif., Feb. 5, 2025...",
+      "published_utc": "2025-02-06T01:23:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2d1a3b89430f0d5289e32126b1e8da4619d4bfe072182820ec32e8f7d93b8c59",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568512,
+      "datetime": 1738776185
+    },
+    {
+      "title": "AMD Faces a Double Threat for 2025",
+      "description": "AMD Faces a Double Threat for 2025",
+      "published_utc": "2025-02-06T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=048cbfb4b97710edfa38a13d2de04549f3002623764f2e06838960debde47d4b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132573443,
+      "datetime": 1738773240
+    }
+  ]
+}

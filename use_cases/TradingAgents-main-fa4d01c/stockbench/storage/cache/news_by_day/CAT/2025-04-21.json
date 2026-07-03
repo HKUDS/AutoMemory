@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "1 Cash-Producing Stock with Exciting Potential and 2 to Turn Down",
+      "description": "A company that generates cash isn’t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+      "published_utc": "2025-04-21T21:06:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a62a8caf1ff9c6166965d1aa4815351f224cf534227a9af6ad393d7c3570964",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022874,
+      "datetime": 1745240766
+    }
+  ]
+}

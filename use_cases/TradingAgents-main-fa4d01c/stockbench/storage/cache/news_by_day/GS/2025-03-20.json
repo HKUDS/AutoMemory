@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Core Bond Fund Q4 2024 Commentary",
+      "description": "BlackRock Core Bond Fund posted returns of -3.35% (Institutional shares) and -3.29% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-20T07:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=53fb7cdd8da23bc8448a85a5604a5138d977a13b616c28f8d46d983c8a95c4e6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1212426790/image_1212426790.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263850,
+      "datetime": 1742426700
+    },
+    {
+      "title": "Is Goldman Sachs Group (GS) Among The Best Bank Stocks To Buy According To Billionaires?",
+      "description": "We recently published a list of 15 Best Bank Stocks to Buy According to Billionaires. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against other best bank stocks to invest in. As 2025 kicks off, bank executives are facing a mix of optimism and […]",
+      "published_utc": "2025-03-20T03:09:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f1b9f993d24e9d823f744a67ed482ad9bef026beef87f34912a723381f8e001",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324967,
+      "datetime": 1742411382
+    },
+    {
+      "title": "Why Goldman Sachs’ CIO is taking a measured approach to rolling out AI across the business",
+      "description": "Half of the 46,000 employees at Goldman Sachs have access to AI, and CIO Marco Argenti expects more will tap into the technology this year.",
+      "published_utc": "2025-03-20T01:13:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcdfc94cba4001898affcdae7e098c69f882de4a8c5f90c52235d726fd84845f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324968,
+      "datetime": 1742404390
+    },
+    {
+      "title": "Goldman Sachs, Moody’s, and HKFMI collaborate together",
+      "description": "Major financial institutions back decentralised blockchain infrastructure.",
+      "published_utc": "2025-03-20T01:10:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57e92d1275594c5bda1460652f3f4e97f40a691dadee1249747e4eff6b56290f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324969,
+      "datetime": 1742404227
+    },
+    {
+      "title": "Oppenheimer Downgrades Goldman, Says M&A Rebound ‘Delayed or Cancelled’",
+      "description": "Oppenheimer called the expected M&A rebound under the Trump administration “delayed or cancelled” and downgraded to \"perform\" the ratings of three financial firms whose fortunes hinge on busy Wall Street activity.",
+      "published_utc": "2025-03-20T00:42:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=979ab4159bcf7c21d5defc22b8d4505fd17097f301a2f1fb1a5f4109cd8fdea7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324970,
+      "datetime": 1742402568
+    }
+  ]
+}

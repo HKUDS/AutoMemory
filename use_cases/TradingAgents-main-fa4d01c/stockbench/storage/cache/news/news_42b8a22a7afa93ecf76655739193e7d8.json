@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "NASA Astronauts Say They Feel Good After 285 Days in Space",
+      "description": "Boeing leaders are scheduled to meet with the astronauts, according to Barry Wilmore, who spent nine months in orbit with Sunita Williams for a mission that was supposed to last for about eight days.",
+      "published_utc": "2025-04-01T05:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37abf8db6c46cf41bfaffd9690f975a7d1ebb31ce14e7f21db8cd012199fbc39",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632154,
+      "datetime": 1743458340
+    },
+    {
+      "title": "Formerly stranded astronauts don’t blame Boeing for their extended stay in space",
+      "description": "Formerly stranded astronauts don’t blame Boeing for their extended stay in space",
+      "published_utc": "2025-04-01T04:43:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=48861eb8c196ac01b2465496c3b3758c904424631499751b7531fc5d08f608b2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133638494,
+      "datetime": 1743453780
+    },
+    {
+      "title": "NASA Astronauts Get Used to Life on Earth After Orbital Saga",
+      "description": "Barry Wilmore said that astronauts, NASA and Boeing need to spend time analyzing the Starliner mission to improve future flights.",
+      "published_utc": "2025-04-01T04:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f61f34b7fce94be0d091d2f99d750b92d8d7a4250b93df4667109d1498252e70",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632156,
+      "datetime": 1743453420
+    },
+    {
+      "title": "Boeing Gets $2.46B U.S. Air Force Pact Modification for C-17 Globemaster III Sustainment",
+      "description": "Boeing Gets $2.46B U.S. Air Force Pact Modification for C-17 Globemaster III Sustainment",
+      "published_utc": "2025-04-01T02:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1e707ca564a93f517dbea43edfaae3c3c491e34fbba223d85903de56aef1c1e9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133638495,
+      "datetime": 1743446520
+    },
+    {
+      "title": "Boeing Secures BOC Aviation Order For 50 737 Max Jets",
+      "description": "Boeing (BA) has received a firm order from BOC Aviation for 50 737-8 Max jets as the Singapore-based",
+      "published_utc": "2025-04-01T00:38:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5092db1c1fdd08af1e9eef36fd451b7d392ff5bd202bac8b0b37b288f16c1e6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627895,
+      "datetime": 1743439095
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:39.172196+00:00",
+    "cache_key": "news_42b8a22a7afa93ecf76655739193e7d8",
+    "count": 5
+  }
+}

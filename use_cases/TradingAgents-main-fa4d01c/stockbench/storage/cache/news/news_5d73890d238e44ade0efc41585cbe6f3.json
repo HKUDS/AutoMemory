@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Staying Tactical, Keep Buying The Dip, And Selling (Hedging) The Rip",
+      "description": "I expect the market to consolidate gains and move sideways. Read why I anticipate dip buyers will return soon, despite the intact downtrend.",
+      "published_utc": "2025-05-26T04:59:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8830eaabe2035faf0edc1d98dec8f735bad091e1fad31d8c3119311c239533cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1454729339/image_1454729339.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134696588,
+      "datetime": 1748206761
+    },
+    {
+      "title": "THW: Income Investors Likely To Face A Massive Distribution Cut",
+      "description": "",
+      "published_utc": "2025-05-25T17:22:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a3da899ef4a9d4e7d94a10749f922b80b4e7533ebde280775acd20c87ded1bb4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134693394,
+      "datetime": 1748164929
+    },
+    {
+      "title": "Street Call of the Week",
+      "description": "Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.",
+      "published_utc": "2025-05-25T16:51:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fa0bb160ab3bdffbee6072a821d5137378f2bd218b103d19f45e98e02246c32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694516,
+      "datetime": 1748163111
+    },
+    {
+      "title": "UnitedHealth's Sell-Off Is Exaggerated",
+      "description": "",
+      "published_utc": "2025-05-25T10:39:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=45a2a4ab43cd375f61eb24648bf712010953a958814b4829af03e5792057ad3f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134691812,
+      "datetime": 1748140769
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:47:36.866766+00:00",
+    "cache_key": "news_5d73890d238e44ade0efc41585cbe6f3",
+    "count": 4
+  }
+}

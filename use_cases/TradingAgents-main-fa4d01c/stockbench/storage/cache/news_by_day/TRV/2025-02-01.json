@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Startup Progressive Life Business Ramps Up And Branches Out",
+      "description": "Statutory data for Progressive Life indicates that the company's presence remains very limited in terms of both geographical breadth and depth of customer penetration.",
+      "published_utc": "2025-02-01T09:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8126a274a048ce61550f1ddde6e806fa7edc410b8d623d1626dcc303d5980fcd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1498904405/image_1498904405.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132508492,
+      "datetime": 1738374000
+    }
+  ]
+}

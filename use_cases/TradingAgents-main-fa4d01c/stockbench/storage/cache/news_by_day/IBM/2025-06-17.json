@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "This AI Pioneer Could Deliver $18 EPS by 2027 — Here’s Why Investors Are Buying IBM (IBM)",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the 12 AI Stocks Every Investor Should Be Watching. On June 16, Evercore ISI analyst Amit Daryanani raised the stock price target to $315 from $275 and kept an “Outperform” rating on the shares. According to the firm, IBM can sustain mid to high single-digit sales growth and […]",
+      "published_utc": "2025-06-17T07:07:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4488a1c2a1159aca042aa3fd1eae2bf4f02f97299f6287629a9908acb70142b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135315199,
+      "datetime": 1750115278
+    },
+    {
+      "title": "IBM (IBM) Exceeds Market Returns: Some Facts to Consider",
+      "description": "In the most recent trading session, IBM (IBM) closed at $281.83, indicating a +1.66% shift from the previous trading day.",
+      "published_utc": "2025-06-17T05:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14f1e6decc8d8300ba60196188bddaa99ce559b5971006f2eba3d45ba7778099",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135313120,
+      "datetime": 1750110304
+    },
+    {
+      "title": "IBM: Big Blue, Big Valuation, Big Bullish Momentum",
+      "description": "IBM leads as the top Dow performer in 2025 with 26% YTD gains. See more on its AI, software momentum, and why it's rated a buy despite stretched valuations.",
+      "published_utc": "2025-06-17T04:58:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e910a35f73a1aec635b86d2ae31f7b8cb9b2197b26711f9ef22fe73ddb87590f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1358108249/image_1358108249.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312094,
+      "datetime": 1750107507
+    },
+    {
+      "title": "Top Research Reports for Alphabet, IBM & RTX",
+      "description": "GOOGL, IBM and RTX lead today's Zacks research, with AI, cloud, and defense backlogs fueling strong long-term prospects.",
+      "published_utc": "2025-06-17T04:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7891c84208907699f488c6fe1adf090239630eb59141d8032d1e0dd4279f395",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311733,
+      "datetime": 1750105680
+    }
+  ]
+}

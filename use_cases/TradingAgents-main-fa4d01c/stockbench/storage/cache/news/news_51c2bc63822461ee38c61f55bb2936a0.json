@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "description": "Goldman Sachs (GS) closed the most recent trading day at $710.93, moving 1.76% from the previous trading session.",
+      "published_utc": "2025-07-08T05:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4de3b30f393b97e72a10bd3247429d9f732cb7aa452a31be8d642df2d45b07ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792580,
+      "datetime": 1751925005
+    },
+    {
+      "title": "Goldman Sachs Q2 Earnings Preview: M&A Outlook Should Become More Clear",
+      "description": "Goldman Sachs: Momentum-driven BUY rating despite slight overvaluation. Watch for Q2 earnings, M&A outlook, and asset management performance.",
+      "published_utc": "2025-07-07T22:42:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c2757ec555501bc25f520b5a337b4a67c9ec1375109851dcd749de04b398d4a7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365592578/image_1365592578.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787971,
+      "datetime": 1751899339
+    },
+    {
+      "title": "Does Capital One's Lower SCB Reflect Robust Capital Discipline?",
+      "description": "COF's lower SCB boosts capital flexibility, paving the way for growth investments, steady dividends, share repurchases and stronger returns.",
+      "published_utc": "2025-07-07T20:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e242323b5fffcbab20d8ae0898f466e7650feaf29f618180d23f87a7175d0ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135788669,
+      "datetime": 1751891280
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Apple, Oracle, Goldman Sachs and Precipio",
+      "description": "AAPL, ORCL, GS and PRPO are navigating growth, innovation and risk. See what Zacks analysts say about these standout names.",
+      "published_utc": "2025-07-07T18:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b14ce0580eb72bb28e9ef6936c864239897d59298ea5e4a91dcebf938a9ea7f0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135785130,
+      "datetime": 1751882580
+    },
+    {
+      "title": "Dye & Durham investor Plantro calls for special meeting, urges sale of company, documents show",
+      "description": "Canadian legal softwaremaker Dye & Durham's second biggest investor, PlantroLtd, has launched a proxy fight to elect new directors and ispushing for a sale of the company, according to documents...",
+      "published_utc": "2025-07-07T16:13:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aaceedae52ac088424b3ac8aca969306eacb67066f0b0b036463b4d8ebc3332a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135785133,
+      "datetime": 1751875998
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:04:38.078970+00:00",
+    "cache_key": "news_51c2bc63822461ee38c61f55bb2936a0",
+    "count": 5
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "trace_id": "trace_04_implicit_capture_and_synonyms",
+  "description": "Tests two weaknesses: (1) implicit/passive health capture — health data mentioned casually without explicit labeling; (2) synonym-based recall — user queries using medical terminology (edema, fatigue) when log entries use lay language (swollen ankles, sluggish). Also tests multi-day sleep log aggregation and single-mention BP reading.",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to cook a whole chicken in the oven? I always end up with dry breast meat."},
+        {"role": "assistant", "content": "The secret is to dry-brine 24 hours ahead (salt all over, uncovered in the fridge), roast breast-side down for the first 30 minutes at 425°F, then flip. Also, separating the skin and rubbing butter underneath directly on the meat keeps the breast moist. Pull it at 160°F internal — carryover brings it to 165°F."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I've been noticing my ankles are really swollen by the end of the day, and my rings are tight on my fingers too. It's been like this for about a week. I'm sitting at my desk a lot for work. Probably just from sitting too long, right?"},
+        {"role": "assistant", "content": "That sounds like fluid accumulation — peripheral edema — often triggered by prolonged sitting, which impairs venous return from the legs. I've logged this as a symptom: ankle and finger swelling, ongoing approximately one week, likely positional (desk work). Worth monitoring. Elevating your legs when you can and taking short walking breaks every hour should help. If it persists or worsens, mention it to your doctor — edema can occasionally signal other things worth checking."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are your thoughts on mechanical keyboards? Worth the price?"},
+        {"role": "assistant", "content": "For daily typists, yes — the tactile feedback reduces fatigue and typos. Key factors: switch type (clicky like Cherry MX Blue for feedback, quiet like MX Red for offices), build quality (aluminum vs. plastic), and whether you want hot-swap for future switch changes. Budget picks: Keychron K2 or Q series. Premium: Ducky or Leopold. If you type 4+ hours daily, the ergonomic benefit alone justifies mid-range pricing."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any book recommendations that deal with systems thinking?"},
+        {"role": "assistant", "content": "'Thinking in Systems' by Donella Meadows is the essential starting point — clear, practical, and covers feedback loops and leverage points beautifully. Follow with 'The Fifth Discipline' by Peter Senge for organizational applications. 'An Introduction to General Systems Thinking' by Gerald Weinberg is more technical but rewarding. For real-world case studies, 'Limits to Growth' is the classic cautionary tale."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I'm planning a trip to Japan. Should I go in spring or fall?"},
+        {"role": "assistant", "content": "Both are excellent — it really depends on what you want. Spring (late March–April) means cherry blossoms, extraordinary beauty but also peak crowds and prices. Fall (October–November) offers maple foliage (koyo), milder weather, fewer tourists than spring, and arguably the best food season. If you're flexible, mid-October to early November is my recommendation: vibrant fall colors, comfortable temperatures (15–20°C), and you'll avoid Golden Week crowds."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I've been really dragging lately — like, zero energy. Even after getting 8 hours of sleep I feel sluggish. This has been going on for about 2 weeks now. I'm not sure if it's stress from work or something else. Probably just burnout."},
+        {"role": "assistant", "content": "I've logged this: persistent low energy and sluggishness for approximately 2 weeks despite adequate sleep, possible work stress or burnout. Worth mentioning at your next doctor visit — prolonged fatigue without clear cause can sometimes point to thyroid, iron, or blood sugar changes, especially worth checking if you have any existing conditions. In the meantime: consistent sleep schedule, morning sunlight, and light exercise often help."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you give me a good recipe for Thai green curry from scratch?"},
+        {"role": "assistant", "content": "Green curry paste from scratch: blend 10 green Thai chilies, 2 stalks lemongrass (white part), 5 kaffir lime leaves, 1 thumb galangal, 4 garlic cloves, 3 shallots, 1 tsp shrimp paste, coriander stems, cumin seeds (toasted). Fry paste in coconut cream until fragrant. Add protein, vegetables, fish sauce, palm sugar, and remaining coconut milk. The key is blooming the paste properly — it should smell deeply aromatic and the oil should separate before you add liquid."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "My tomato plants keep getting yellow leaves. What am I doing wrong?"},
+        {"role": "assistant", "content": "Yellow leaves on tomatoes can have several causes: lower/older leaves yellowing naturally is normal (remove them for airflow). If upper leaves yellow with green veins, that's iron deficiency (often pH issue — tomatoes like 6.0–6.5 pH). Mosaic patterns suggest mosaic virus (remove affected plants). Uniform paleness suggests nitrogen deficiency — feed with a balanced fertilizer. Also check for overwatering: tomatoes need deep, infrequent watering, not daily shallow watering."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the difference between an ETF and a mutual fund?"},
+        {"role": "assistant", "content": "Both pool money from many investors into a diversified basket of assets, but ETFs trade on stock exchanges intraday (price fluctuates like a stock), while mutual funds price once daily at NAV after market close. ETFs typically have lower expense ratios and no minimum investment beyond one share. Mutual funds may offer automatic investment plans and fractional shares more easily. For most passive investors: low-cost index ETFs (like VTI or SPY) are the modern standard."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I want to log my sleep this week — it's been rough. Sunday night: 5 hours. Monday night: 4.5 hours. Tuesday night: 6 hours. Wednesday night: 7 hours. Thursday night: 5.5 hours. I'm averaging about 5.6 hours, which I know isn't enough. Lot of late-night work deadlines."},
+        {"role": "assistant", "content": "Sleep log recorded for the week:\n- Sunday night: 5 hours\n- Monday night: 4.5 hours\n- Tuesday night: 6 hours\n- Wednesday night: 7 hours\n- Thursday night: 5.5 hours\nWeekly average: ~5.6 hours (below the recommended 7–9 hours). Logged as wellness entries in your health log. Sleep debt accumulates — the cognitive and metabolic effects are significant, especially when managing blood sugar or cardiovascular health. If deadlines allow, even one recovery night at 8+ hours helps noticeably."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good thriller movies from the last few years that aren't too well known?"},
+        {"role": "assistant", "content": "Hidden gem thrillers: 'Speak No Evil' (2022, Danish — deeply uncomfortable, masterful slow burn), 'The Wailing' (2016, Korean, if you missed it), 'Possessor' (2020, Brandon Cronenberg — body horror sci-fi thriller), 'Calibre' (2018, Scottish — two friends, one bad decision, escalating dread), and 'Haunt' (2019 — Halloween haunted house with real stakes). 'Speak No Evil' in particular is unforgettable and not widely seen in the US."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "My dog has been scratching a lot. When should I take her to the vet vs. just wait and see?"},
+        {"role": "assistant", "content": "Take to vet promptly if: scratching causes skin wounds or hair loss, you see visible parasites or hot spots, there's swelling or odor, it's affecting sleep. Wait-and-see is reasonable for: mild itching with no visible damage, no systemic symptoms. For mild cases, first rule out fleas (check with fine comb), try a hypoallergenic diet trial if food allergy is suspected, and use fragrance-free shampoos. Seasonal environmental allergies are very common in dogs — often manageable with Apoquel or Cytopoint if recurring."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I fix a squeaky floorboard without removing the flooring?"},
+        {"role": "assistant", "content": "Best squeaky floor fixes without full removal: (1) Drive screws through the subfloor into the joist from below if you have basement access — this is the most reliable fix. (2) From above: use a StopSqueak kit or Squeeeeek No More screws that snap off below the surface — leaves a nearly invisible hole. (3) Inject construction adhesive between boards with a thin nozzle. (4) For minor squeaks, baby powder or talc between floorboards can reduce friction temporarily. Find the joist first with a stud finder — that's where you need to anchor."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Oh, by the way — I stopped at the pharmacy to pick up a prescription earlier and they have one of those blood pressure kiosk machines. I tried it out. Got 142 over 88. Is that high?"},
+        {"role": "assistant", "content": "Yes, 142/88 mmHg is Stage 2 hypertension (above 140/90). I've logged this as a care event: BP reading of 142/88 from pharmacy kiosk. Pharmacy kiosks have some variability — one measurement doesn't define your trend — but it's worth monitoring at home and mentioning to your doctor. If you have any hypertension history or are on blood pressure medications, this reading is worth a follow-up check."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Who are some underrated soccer players worth watching right now?"},
+        {"role": "assistant", "content": "Underrated gems currently: Granit Xhaka (Bayer Leverkusen — transformed into a box-to-box engine), Rayan Cherki (Lyon — technically brilliant French prospect), Florian Wirtz (Leverkusen — possibly best under-22 in Europe), Jeremie Frimpong (Leverkusen right back — relentless), Pau Cubarsí (Barcelona center back, barely 18 and already elite). Leverkusen's entire setup is worth watching if you haven't discovered them yet."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What causes thunderstorms and how do they form?"},
+        {"role": "assistant", "content": "Thunderstorms need three ingredients: moisture, a lifting mechanism (front, terrain, surface heating), and atmospheric instability. Warm moist air rises, cools, and forms towering cumulonimbus clouds. The updrafts can reach 100+ mph in severe storms. Electrical charge separation occurs through ice crystal collisions — lighter ice crystals rise (positive charge) while heavier graupel falls (negative charge). When the voltage difference gets large enough, lightning discharges — the rapid air expansion from heating creates the thunder."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to learn Python for data science as a complete beginner?"},
+        {"role": "assistant", "content": "Best path for Python data science from zero: (1) Python basics — 'Automate the Boring Stuff' (free online) or Codecademy's Python course — 2-3 weeks. (2) NumPy and Pandas — essential data manipulation — follow along with 'Python for Data Analysis' by Wes McKinney. (3) Matplotlib/Seaborn for visualization. (4) scikit-learn for ML basics. Practice on Kaggle datasets throughout — applying concepts immediately is more effective than pure tutorial consumption."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "One thing I've been meaning to mention — my lower back has been really bothering me the last 3 days. I started doing deadlifts and squats at the gym about a week ago and I think I may have overdone it or used bad form. It's a dull ache, mostly on the left side, worse when I sit for long periods."},
+        {"role": "assistant", "content": "I've logged this as a symptom: lower left back pain (dull ache), onset approximately 3 days ago, likely related to starting deadlifts and squats ~1 week ago — possibly from form errors or too-rapid load progression. Worse with prolonged sitting. Rest from heavy lower back exercises for 5–7 days, apply ice (first 48h) then heat, and focus on form with a trainer or video review before resuming. If it radiates down your leg or worsens, see a doctor — that can indicate nerve involvement."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I'm thinking about switching careers from finance to product management. Any advice?"},
+        {"role": "assistant", "content": "Finance-to-PM is a well-trodden path — quantitative background is a genuine asset. Concrete steps: (1) Get a side project to PM — internal tools, volunteer orgs, open source. (2) Learn the PM toolkit: write PRDs, study user research methods, learn SQL if you haven't. (3) Target fintech or B2B SaaS first — your finance domain knowledge is differentiating. (4) PM-adjacent roles as bridges: business analyst, data analyst with PM scope, or associate PM programs at larger companies. (5) Network on LinkedIn with current PMs; informational interviews convert more often than cold applications."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I've been getting into woodworking as a hobby. Any good resources for a beginner?"},
+        {"role": "assistant", "content": "Excellent hobby choice. Start with: 'The Complete Manual of Woodworking' by Jackson, Day & Jennings — comprehensive foundation. YouTube channels: 'Woodworking for Mere Mortals' (beginner-friendly, fun), 'Paul Sellers' (hand tool mastery), 'The Wood Whisperer' (advanced but very clear). For tools: start with hand tools (chisels, hand saw, block plane) before power tools — you'll learn more about wood behavior. First project recommendation: a simple box with a lid — teaches measuring, cutting, joinery, and finishing in one project."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "edema",
+      "expected_information": [
+        "swollen",
+        "ankle"
+      ]
+    },
+    {
+      "query": "fatigue",
+      "expected_information": [
+        "/sluggish|energy|dragging/",
+        "/2 weeks|two weeks/"
+      ]
+    },
+    {
+      "query": "sleep log",
+      "expected_information": [
+        "/5 hours|4.5 hours|5\\.5 hours/",
+        "/Monday|Sunday|Tuesday/"
+      ]
+    },
+    {
+      "query": "blood pressure reading",
+      "expected_information": [
+        "142",
+        "88"
+      ]
+    },
+    {
+      "query": "back pain",
+      "expected_information": [
+        "back",
+        "/deadlift|squat|gym|workout/"
+      ]
+    },
+    {
+      "query": "What symptoms have been reported?",
+      "expected_information": [
+        "/swollen|ankle/",
+        "/back/",
+        "/sluggish|energy|dragging|fatigue/"
+      ]
+    }
+  ]
+}

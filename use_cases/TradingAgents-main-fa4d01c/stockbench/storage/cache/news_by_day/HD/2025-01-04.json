@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Home Depot Insiders Sell US$13m Of Stock, Possibly Signalling Caution",
+      "description": "The fact that multiple The Home Depot, Inc. ( NYSE:HD ) insiders offloaded a considerable amount of shares over the...",
+      "published_utc": "2025-01-04T21:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd036b2db503511d4e324f46fda5e02908b49e5be8cd98517dbb1de8919f05f7",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/ceda0806849951473134226f1b4a3320",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132271671,
+      "datetime": 1735995613
+    },
+    {
+      "title": "He’s a Factory Owner and Friends With Trump. That Makes Tariffs Personal.",
+      "description": "Phil Ruffin is a casino billionaire, but he also owns a small factory that uses some parts from China to build its products.",
+      "published_utc": "2025-01-04T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4f5942e5c0a20bb8489464fc119f7a14fa71cf4db759445925947a13450467e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132267903,
+      "datetime": 1735986600
+    }
+  ]
+}

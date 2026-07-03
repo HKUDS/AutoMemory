@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "CLX's Productivity Drive: Likely to Aid Margins & Offset High Costs?",
+      "description": "Clorox sharpens its productivity edge with digital tools, empowered teams and a leaner operating model for agile growth.",
+      "published_utc": "2025-06-17T00:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5782c248f440a0112be840d9a9a834e90dcfd80de54e829fa053a1718f944456",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311933,
+      "datetime": 1750092360
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:08.505274+00:00",
+    "cache_key": "news_7b182bd4abd104407a9a62688c406c7d",
+    "count": 1
+  }
+}

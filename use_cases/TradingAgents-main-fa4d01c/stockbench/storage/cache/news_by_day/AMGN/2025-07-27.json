@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is Amgen Inc. (NASDAQ:AMGN) Trading At A 50% Discount?",
+      "description": "Key Insights Amgen's estimated fair value is US$609 based on 2 Stage Free Cash Flow to Equity Amgen is estimated to be...",
+      "published_utc": "2025-07-27T20:01:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8416df2e52ca12e34b2f06b6b04b9c6abbaf27ff315c780fe56f12672266126a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101874,
+      "datetime": 1753617682
+    }
+  ]
+}

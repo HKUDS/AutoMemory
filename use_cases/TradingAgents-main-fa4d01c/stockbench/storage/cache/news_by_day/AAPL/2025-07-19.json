@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Bumps Apple (AAPL) PT to $250, Keeps ‘Overweight’",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the AI Stocks on Wall Street’s Radar. On July 17, JPMorgan reiterated the stock as “Overweight” and raised its price target on Apple to $250 per share from $230. “We rate shares of Apple Overweight from the combination of AI and age of installed base led volume replacement cycle while […]",
+      "published_utc": "2025-07-19T23:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a900e3f7dab6cd45f866c079dd2021ae5d54a06c760cf2f2cbbfc71361d4097",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019604,
+      "datetime": 1752937680
+    },
+    {
+      "title": "Trump's antitrust cops are OK with new mergers. Old tech monopolies, not so much.",
+      "description": "President Trump's antitrust cops are so far friendlier about mergers than their predecessors, but they are refusing to let up on one prominent priority of the Biden administration: monopoly prosecutions of the nation's best-known tech giants.",
+      "published_utc": "2025-07-19T22:00:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6433e44fca973e3c64793dfab99432abe22405278aee051c3fcd5a9c35fd1d8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019594,
+      "datetime": 1752933638
+    },
+    {
+      "title": "Could Arm Holdings Stock Help You Become a Millionaire?",
+      "description": "Arm's market capitalization has already reached $160 billion, indicating significant growth in the stock.  Arm Holdings (NASDAQ: ARM) has long stood out in the semiconductor industry, particularly regarding its mobile phone processors.  Amid those gains, investors may wonder whether the stock will mint millionaires, or do its past gains make such a scenario unlikely?",
+      "published_utc": "2025-07-19T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=270ab45d04b6fe6cb9e07865a46d13b55a1a357adc894f4a18c586e0dece235e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019606,
+      "datetime": 1752930000
+    }
+  ]
+}

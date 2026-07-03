@@ -1,0 +1,296 @@
+{
+  "items": [
+    {
+      "title": "Core CPI In Focus With JPMorgan, Goldman, Netflix Set To Report Earnings",
+      "description": "This week witnesses earnings from banking giants like JPM, WFC, BAC, BLK. Investors may also look at Core CPI and Core PPI on Tuesday and Wednesday.",
+      "published_utc": "2025-07-12T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7751bce4c5a6b5b71cb3d90dda3e6c5737835e031f364e5f29d650ea3b819155",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135899272,
+      "datetime": 1752318000
+    },
+    {
+      "id": "99f9736e87edd6d2a6a0a3bf59f82db2006e77e64f0090e2c671aff91ccb3f2f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Motley Fool CEO Tom Gardner: S&P 500 (VOO) at 25× Earnings Is Stretching Valuations",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-07-12T10:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/12/motley-fool-ceo-tom-gardner-sp-500-voo-at-25-earni/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "XOM",
+        "PG",
+        "JNJ",
+        "NSRGY",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/823391/22_08_08-a-piggy-bank-with-stacks-of-money-and-a-hand-putting-water-on-them-showing-growth-_mf-dload.jpg",
+      "description": "Motley Fool CEO Tom Gardner suggests the S&P 500 is expensive at 26x earnings, but investors can find opportunities in value stocks, foreign stocks, and dividend stocks through strategic ETF investments.",
+      "keywords": [
+        "S&P 500",
+        "ETF",
+        "value stocks",
+        "dividend stocks",
+        "international stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "High valuation at 26x earnings, but still representing broad market performance"
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in value ETFs, considered a reliable investment"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in value ETFs, known for dividend reliability"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in value ETFs, considered a stable investment"
+        },
+        {
+          "ticker": "NSRGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in international dividend ETF"
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in dividend-focused ETF, part of recommended energy sector"
+        }
+      ]
+    },
+    {
+      "id": "2be03dac11ad0122ee80706c9139fd07c342df0defde65d327a97278cd5ba38e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
+      "author": "James Brumley",
+      "published_utc": "2025-07-12T09:04:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/12/the-smartest-vanguard-etf-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "VUG",
+        "VTV",
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "TSLA",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "XOM",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/824237/young-investor-sitting-at-desk.jpg",
+      "description": "The article suggests investors consider shifting some portfolio allocation from growth to value stocks, highlighting potential advantages of value stocks in the current market environment, particularly through ETFs like Vanguard Value ETF.",
+      "keywords": [
+        "value stocks",
+        "growth stocks",
+        "ETF",
+        "investment strategy",
+        "market outlook"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as a solid long-term investment option for investors"
+        },
+        {
+          "ticker": "VUG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Previously strong performer, but potentially facing challenges"
+        },
+        {
+          "ticker": "VTV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as potentially undervalued with attractive dividend yields"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down year-to-date, potentially facing market headwinds"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down year-to-date, potentially facing market challenges"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down year-to-date, potentially facing market challenges"
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down year-to-date, potentially facing market challenges"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market fluctuations"
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a strong value stock with potential stability"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a stable value stock potentially resilient to market challenges"
+        }
+      ]
+    },
+    {
+      "id": "4f2d2a76f44c34a58750c1be5cc9dc350ae4dc7c7a2f24b3b9e1f2cbf761a2bc",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Q2 Earnings Season Preview: Markets Lean on Tech Strength as Macro Cracks Appear",
+      "author": "Lance Roberts",
+      "published_utc": "2025-07-12T06:02:00Z",
+      "article_url": "https://www.investing.com/analysis/q2-earnings-season-preview-markets-lean-on-tech-strength-as-macro-cracks-appear-200663540",
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "PG",
+        "META",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "amp_url": "https://m.investing.com/analysis/q2-earnings-season-preview-markets-lean-on-tech-strength-as-macro-cracks-appear-200663540?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Q2 2025 earnings season begins with cautious expectations, as earnings estimates have been cut due to trade risks and economic slowdown. Technology and AI-focused companies are expected to provide strength, while consumer spending and energy sectors show weakness.",
+      "keywords": [
+        "earnings",
+        "Q2 2025",
+        "tech stocks",
+        "AI",
+        "economic slowdown",
+        "tariffs"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI investment, expected to report robust earnings and revenue growth"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AI heavyweight with forward earnings momentum and potential positive guidance"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of tech and communications sectors expected to buoy corporate earnings"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of tech and communications sectors expected to buoy corporate earnings"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recommended as a defensive, dividend-paying stock to provide portfolio stability"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of communications sector with potential for earnings surprises"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recommended as a defensive stock with potential for steady performance"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recommended as a defensive stock with potential for steady performance"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:06:49.781193+00:00",
+    "cache_key": "news_5689cc88e7ae03275b9c89717cba548c",
+    "count": 4
+  }
+}

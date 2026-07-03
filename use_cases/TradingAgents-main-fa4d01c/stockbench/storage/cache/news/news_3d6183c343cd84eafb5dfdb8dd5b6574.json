@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Should You Buy Roku Stock After Its Partnership With Amazon?",
+      "description": "Roku's recent partnership with Amazon makes the streaming specialist more attractive.  Although it still faces some headwinds, Roku's long-term prospects remain bright.  On June 16, Roku (NASDAQ: ROKU) announced a partnership with Amazon (NASDAQ: AMZN) that will allow advertisers access to the streaming specialist's ecosystem through Amazon's advertising platform.",
+      "published_utc": "2025-06-29T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3aac94083d64490e5f0c79c3a55f266177ec7e9470e4d4470a1b4a73912e1bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135624402,
+      "datetime": 1751141700
+    },
+    {
+      "title": "Photos of celebrities who attended Jeff Bezos wedding in Venice",
+      "description": "VENICE, Italy — The Venice wedding celebration of Amazon founder Jeff Bezos and Lauren Sánchez Bezos culminated on Saturday, marking the third and final day of festivities. Athletes,...",
+      "published_utc": "2025-06-29T02:21:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8070c12f515bd00b6ecb52d3c61cb26475d41f75d5dd50cc9c2344342d5e17aa",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623680,
+      "datetime": 1751134865
+    },
+    {
+      "title": "I Paid Off $30K in Credit Card Debt With a Side Gig at Amazon — and You Can Too",
+      "description": "GOBankingRates reached out to an Amazon picker, who will remain anonymous, who used their Amazon side gig to pay off about $30,000 in credit card debt.",
+      "published_utc": "2025-06-29T02:01:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38b6e967ec35afce028337ac89b9c60ad2833c50cd7c22a747ad74c29a00c685",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135624403,
+      "datetime": 1751133666
+    },
+    {
+      "title": "Would Investing $10K in the Magnificent 7 Stocks in 2023 Have Made You Rich?",
+      "description": "In a nutshell, if you had the foresight to invest in the Magnificent 7 stocks at the beginning of 2023, you would have done well. How well? Read on to find out.",
+      "published_utc": "2025-06-29T02:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d5e0471da985e208fcae75155835587e19b03f5b67c6df5116264d3d20188d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610604,
+      "datetime": 1751133660
+    },
+    {
+      "title": "$750 Amazon Gift Card Offer: Examining Credibility, Process, and User Experience – UpLevelRewards",
+      "description": "UpLevelRewards UpLevelRewards New York City, NY, June 28, 2025 (GLOBE NEWSWIRE) -- With increased visibility across social media and email marketing platforms, the Amazon $750 gift card has sparked public interest and scrutiny alike. Numerous websites, such as UpLevelRewards, present opportunities to earn a $750 Amazon gift card, prompting users to ask whether these programs are legitimate, misleading, or simply misunderstood. What Is the $750 Amazon Gift Card Offer? The 750 Amazon gift card off",
+      "published_utc": "2025-06-29T00:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6abe485b1efca002b0ee5820be46ad4ee1d3e44645e73afb763eef432592ebf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135624405,
+      "datetime": 1751129760
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:35.316334+00:00",
+    "cache_key": "news_3d6183c343cd84eafb5dfdb8dd5b6574",
+    "count": 5
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "trace_id": "trace_id_session_trajectory_archive_tail_outcome",
+  "eval_mode": "hit_rate",
+  "category": "adversarial",
+  "description": "Escalation: production trajectory archive should preserve the final outcome when an oversized final assistant message contains the important result near the tail.",
+  "checks": [
+    {
+      "description": "Oversized final assistant tail should still contribute its final outcome to the card.",
+      "write_input": {
+        "session": {
+          "id": "archive-tail-outcome",
+          "projectID": "proj-memory",
+          "title": "Fraud rules replay cutover",
+          "time": { "created": 1777271000000, "updated": 1777271400000 }
+        },
+        "messages": [
+          {
+            "role": "user",
+            "parts": [
+              { "type": "text", "text": "Please finish the fraud rules replay cutover and capture the final validation result." }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Started by checking the fraud replay scripts and queue worker." }
+            ]
+          },
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "The final response begins with operational context and repeated neutral review detail so the archive serializer must not only keep the first slice. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Review planning notes mention reviewer schedules, rollout windows, audit breadcrumbs, queue replay caveats, dashboard checks, and migration coordination. Final outcome: FRAUD_REPLAY_TAIL_VALIDATED and docs/fraud/replay-cutover.md updated after pnpm test packages/fraud passed." }
+            ]
+          }
+        ]
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "FRAUD_REPLAY_TAIL_VALIDATED", "matcher": "substring" }
+    },
+    {
+      "description": "Final validation command near the tail should remain visible.",
+      "write_input": {
+        "sessionID": "archive-tail-fixture",
+        "title": "Fixture card for tail query",
+        "goal": "Keep unrelated card present.",
+        "outcome": "Unrelated fixture outcome.",
+        "files": ["README.md"],
+        "commands": ["echo fixture"],
+        "concepts": ["fixture"],
+        "l0": "Fixture card for tail query.",
+        "l1": "Unrelated fixture outcome.",
+        "time": { "start": 1777271500000, "end": 1777271600000 }
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "pnpm test packages/fraud passed", "matcher": "substring" }
+    },
+    {
+      "description": "Final documentation file near the tail should remain visible.",
+      "write_input": {
+        "sessionID": "archive-tail-second-fixture",
+        "title": "Second tail fixture card",
+        "goal": "Ensure multiple cards do not mask the target card.",
+        "outcome": "Another unrelated fixture.",
+        "files": ["docs/other.md"],
+        "commands": ["echo other"],
+        "concepts": ["other"],
+        "l0": "Second tail fixture card.",
+        "l1": "Another unrelated fixture.",
+        "time": { "start": 1777271700000, "end": 1777271800000 }
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "docs/fraud/replay-cutover.md", "matcher": "substring" }
+    },
+    {
+      "description": "Ignored synthetic tail must not be archived.",
+      "write_input": {
+        "session": {
+          "id": "archive-tail-ignored",
+          "projectID": "proj-memory",
+          "title": "Ignored synthetic tail",
+          "time": { "created": 1777271900000, "updated": 1777272000000 }
+        },
+        "messages": [
+          {
+            "role": "assistant",
+            "parts": [
+              { "type": "text", "text": "Visible archived text for tail ignored control." },
+              { "type": "text", "text": "TAIL_SYNTHETIC_SHOULD_NOT_ARCHIVE", "synthetic": true }
+            ]
+          }
+        ]
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "^(?![\\s\\S]*TAIL_SYNTHETIC_SHOULD_NOT_ARCHIVE)[\\s\\S]*Visible archived text[\\s\\S]*$", "matcher": "regex" }
+    },
+    {
+      "description": "Same-session replacement should keep only the updated fixture card.",
+      "write_input": {
+        "sessionID": "archive-tail-second-fixture",
+        "title": "Second tail fixture card updated",
+        "goal": "Updated card replaces old fixture.",
+        "outcome": "Updated fixture outcome with TAIL_REPLACED_MARKER.",
+        "files": ["docs/replaced.md"],
+        "commands": ["echo replaced"],
+        "concepts": ["replaced"],
+        "l0": "Second tail fixture card updated.",
+        "l1": "Updated fixture outcome with TAIL_REPLACED_MARKER.",
+        "time": { "start": 1777271700000, "end": 1777271900000 }
+      },
+      "read_input": { "limit": 10 },
+      "expected_output": { "value": "^(?![\\s\\S]*Another unrelated fixture)[\\s\\S]*TAIL_REPLACED_MARKER[\\s\\S]*$", "matcher": "regex" }
+    }
+  ]
+}

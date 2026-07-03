@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "According to Jim Cramer The Home Depot (HD)’s Numbers Are Strong – Time to Rethink the Shorts!",
+      "description": "We recently published a list of Jim Cramer Talked About 7 Stocks & Stagflation Fears. In this article, we are going to take a look at where Home Depot, Inc. (NYSE:HD) stands against other stocks that Jim Cramer talked about. On Friday, Jim Cramer, the host of Mad Money, shared his thoughts on the events […]",
+      "published_utc": "2025-03-26T22:30:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=749b0fc55251a629fc728c78007b43cdf52001ace03d77609f3c2b285d9bc0b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133457215,
+      "datetime": 1742999433
+    }
+  ]
+}

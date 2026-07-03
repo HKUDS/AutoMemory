@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines (IBM): AI and Hybrid Cloud Strategy Drives $290 Price Target",
+      "description": "We recently published a list of 10 AI Stocks Making Moves This Week. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other AI stocks making moves this week. Is China finally gaining supremacy in the AI arms race? Not quite, but executives from some […]",
+      "published_utc": "2025-05-13T04:21:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7df8df347e50e4dc5d9ffd3838868bda2e53eab60d1f1601326754df923ffe3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408751,
+      "datetime": 1747081302
+    },
+    {
+      "title": "Don’t Miss Out: AI Agents Are Becoming Tech’s Next Battleground",
+      "description": "Hello, Reader. We’ve all been there – stuck on the phone in customer service purgatory. That moment when you’re yelling “agent!” into the phone… jabbing zero over and over… and still getting nowhere fast.InvestorPlace - Stock Market News, Stock Advice & Trading Tips You just want a real human. Ironically “agents” are exactly what Big Tech is racing to create — not helpful humans, but autonomous AI systems designed to replace them entirely. Now, we’re used to “generative” artificial intelligence.",
+      "published_utc": "2025-05-13T03:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7612f8b23102216932f04e26f5014981562a7bc4c33ee0d0d1ff37d73dfaeb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577267,
+      "datetime": 1747078200
+    }
+  ]
+}

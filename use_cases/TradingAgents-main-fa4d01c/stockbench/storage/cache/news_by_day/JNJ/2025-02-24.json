@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ): Among the Best Performing Dow Stocks So Far in 2025",
+      "description": "We recently published a list of 11 Best Performing Dow Stocks So Far in 2025. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best performing Dow stocks so far in 2025. The Dow is a renowned and significant stock market index that measures the […]",
+      "published_utc": "2025-02-24T04:02:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78e5047a3eeb3c5e0cb2b14144f4a41f482f8c8f29ed9c18d0981823d449f2a0",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DBFyZ0OZ_JyFkP8R8eQoiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9ccf3c88c7274582ef19e20143427c2",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132902112,
+      "datetime": 1740340924
+    }
+  ]
+}

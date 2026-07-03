@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Hartford Growth Opportunities Fund Q1 2025 Commentary",
+      "description": "The Hartford Growth Opportunities Fund (I Share) underperformed the Russell 3000 Growth Index during the quarter. Read more here.",
+      "published_utc": "2025-05-08T06:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b44bd256d23b79f849fd26897a02f4ddcc1e3a0037f6e7edba09e100f587ddc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2054524126/image_2054524126.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134314054,
+      "datetime": 1746658320
+    },
+    {
+      "title": "Apple asks US appeals court to pause ruling in Epic Games case",
+      "description": "Apple has asked a federalappeals court to temporarily pause key provisions in a U.S.judge’s ruling that ordered the tech company to immediately openits lucrative App Store to more competition. ...",
+      "published_utc": "2025-05-08T05:25:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9014b7c06a71d2648aa331e8a86fd04d563b59c0349c853f114b9d547e3c914c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134313704,
+      "datetime": 1746653109
+    },
+    {
+      "title": "AppLovin Stock Soars on Strong Earnings",
+      "description": "AppLovin  stock soared late Wednesday on strong first-quarter earnings results.  Earnings per share rose to $1.67 versus Wall Street’s consensus estimate of $1.44, according to FactSet, and up from 67 cents last year.  It was another quarter of exceeding expectations in AppLovin’s ad business.",
+      "published_utc": "2025-05-08T05:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2b05d8ffced4a58e3a79e712baa7a4752f0bd736a61413259e47578fcce1b7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316523,
+      "datetime": 1746653100
+    },
+    {
+      "title": "Apple’s Existential Crisis: Can It Build a Future Around AI?",
+      "description": "Apple’s Existential Crisis: Can It Build a Future Around AI?",
+      "published_utc": "2025-05-08T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=20b34b568838d15e94ba16e1de68b8e81d5c41273e4dad1e3e0e8ffee35c358d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134328290,
+      "datetime": 1746651600
+    },
+    {
+      "title": "Was Jim Cramer Right About Apple Inc. (AAPL)?",
+      "description": "We recently published a list of Jim Cramer Absolutely Nailed These 11 Stock Predictions. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against other stocks that Jim Cramer discussed. During a recent episode of Mad Money, which aired on Friday the 2nd of May, Jim Cramer discussed some […]",
+      "published_utc": "2025-05-08T04:33:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9221e09cc4ba0e5fa8da0b425d8832c03f902848b2d432e4a87bd65b78484d10",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316524,
+      "datetime": 1746650023
+    }
+  ]
+}

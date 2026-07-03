@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "title": "Is The Procter & Gamble Company (PG) the Best DRIP Stock to Own Now?",
+      "description": "We recently published a list of 10 Best DRIP Stocks To Own Now. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other best DRIP stocks to own now. Dividend investing is often regarded as a strategy that rewards patience, as it tends to […]",
+      "published_utc": "2025-02-25T22:41:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ef49683892731d888d0c3f08ad521926f545a23d0b0cea53c22c2feb486a0e1",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1ZohQ2YSKqgMoq3VoXxDpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/e67c69f89d80ec8ce4e58c9699e33b0e",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943349,
+      "datetime": 1740494490
+    },
+    {
+      "id": "3a6c00a595210a41a783de765c250201ad5759b9035914e771ccc941bc5001a4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the Walmart Sell-Off Warranted or Is the Dividend King Stock a Buy Now?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-25T09:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/25/buy-sell-off-dividend-king-stock-walmart/?source=iedfolrf0000001",
+      "tickers": [
+        "WMT",
+        "AMZN",
+        "NVDA",
+        "PG",
+        "KO",
+        "PEP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808525/man-late-30s-laptop_gettyimages-611904222-1201x801-d21b45d.jpg",
+      "description": "Walmart's stock fell 6.5% despite strong Q4 and full-year results, as investors were concerned about the company's guidance for fiscal 2026 showing a slowdown in growth. However, Walmart's investments in e-commerce, delivery, and other areas have been paying off, with the company's ROI reaching a high level since 2016.",
+      "keywords": [
+        "Walmart",
+        "e-commerce",
+        "dividend",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart's Q4 and full-year results were excellent, with the company investing heavily in e-commerce, delivery, and other areas that have been paying off. The company's ROI has reached a high level since 2016, and its e-commerce business is growing rapidly with high margins."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as a subsidiary of Whole Foods Market, but the article does not provide any direct commentary on Amazon's performance or outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as the best-performing stock in the Dow Jones Industrial Average in fiscal 2024, but the article does not provide any direct commentary on Nvidia's performance or outlook."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Procter & Gamble is mentioned as a Dividend King with a higher dividend yield than Walmart, but the article does not provide any direct commentary on Procter & Gamble's performance or outlook."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Coca-Cola is mentioned as a Dividend King with a higher dividend yield than Walmart, but the article does not provide any direct commentary on Coca-Cola's performance or outlook."
+        },
+        {
+          "ticker": "PEP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "PepsiCo is mentioned as a Dividend King with a higher dividend yield than Walmart, but the article does not provide any direct commentary on PepsiCo's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Trump Earned $57.7 Million From Crypto Venture, Disclosure Shows",
+      "description": "(Bloomberg) -- President Donald Trump earned $57.7 million from token sales by the crypto firm he and his sons helped launch last year, according to his required federal financial disclosure forms.Most Read from BloombergShuttered NY College Has Alumni Fighting Over Its FutureTrump’s Military Parade Has Washington Bracing for Tanks and WeaponryNYC Renters Brace for Price Hikes After Broker-Fee BanAs Part of a $45 Billion Push, ICE Prepares for a Vast Expansion of Detention SpaceDo World’s Fairs",
+      "published_utc": "2025-06-15T02:01:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d68d20078ad9dda4855ea6fb7acc75b84dacb0a7226e1da80447d95051575033",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135274434,
+      "datetime": 1749924111
+    },
+    {
+      "title": "Crypto Currents: Coinbase, Shopify partner for USDC payments",
+      "description": "As bitcoin, ethereum and other cryptocurrencies get increasing attention from investors, Wall Street and its traditional banks continue to adjust to the shift. Catch up on this week’s top stories highlighting the intersection of these old guard and new school areas of finance with this recap compiled by The Fly. COINBASE, SHOPIFY PARTNER FOR USDC PAYMENTS: On Thursday, Coinbase (COIN) announced a partnership with Shopify (SHOP). The company said, “We are working together to bring commerce onchai",
+      "published_utc": "2025-06-14T21:40:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e229755af42098c27e546d4c0cdd82d4488109ae22bf02c3a35e1e1d41517d55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271482,
+      "datetime": 1749908437
+    },
+    {
+      "title": "Morning Movers: Meta Platforms dips following big investment in Scale AI",
+      "description": "Stock market futures are pointing to a lower open after Israel carried out airstrikes on Iran’s nuclear program sites in a major escalation of tensions in the Middle East. The dollar has rallied, as investors rush back into the currency in their search for safe-haven assets, including gold, on rising Middle East tensions. Oil prices jumped to near multi-month highs on worries about disrupted crude supplies. In pre-market trading, S&P 500 futures fell 0.91%, Nasdaq futures fell 1.2% and Dow futur",
+      "published_utc": "2025-06-14T21:00:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61fbf231a82e9d6eb29b684525cb31878335c632ddc519734e40e10d3e398ac6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271341,
+      "datetime": 1749906021
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:42.045776+00:00",
+    "cache_key": "news_4623339d560191d9f6e1293373bcabff",
+    "count": 3
+  }
+}

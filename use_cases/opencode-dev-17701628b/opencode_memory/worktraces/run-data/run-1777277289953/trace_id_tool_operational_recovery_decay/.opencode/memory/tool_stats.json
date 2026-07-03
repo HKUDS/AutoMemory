@@ -1,0 +1,1 @@
+{"shell":{"tool":"shell","calls":10,"successes":7,"errors":3,"totalDurationMs":1130,"updatedAt":1777277289984,"lastErrorSample":"ETIMEDOUT connecting to local test server","errorSamples":{"ETIMEDOUT connecting to local test server":3}},"read_file":{"tool":"read_file","calls":1,"successes":1,"errors":0,"totalDurationMs":20,"updatedAt":1777277289984}}

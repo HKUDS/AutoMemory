@@ -1,0 +1,181 @@
+{
+  "trace_id": "trace_id_8_e2e_multi_path",
+  "memory_path": "e2e",
+  "eval_mode": "qa",
+  "focus": "Multi-path collaboration: DecisionsLog + KnowledgeCard + MacroNotes + UserContext seeded",
+  "turns": [
+    {
+      "component": "UserContext_seed",
+      "args": {
+        "portfolio": {
+          "cash_balance": 50000.0,
+          "positions": [
+            {"ticker": "NVDA", "qty": 100, "avg_cost": 155.50},
+            {"ticker": "AAPL", "qty": 200, "avg_cost": 220.00}
+          ]
+        },
+        "profile": "Risk tolerance: moderate. Investment horizon: 12 months. Focus: US large-cap technology. Avoid: leveraged products, penny stocks. Max single-position: 20% of NAV."
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2026-W03",
+        "bullets": ["Fed signaled two 2026 rate cuts contingent on inflation progress", "Global AI infrastructure spending up 60% YoY", "Tech sector outperforming broad market by 8% YTD"],
+        "trade_date": "2026-01-16"
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "NVDA",
+        "record": {"trade_date": "2026-01-16", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "AI infrastructure supercycle intact; data center revenue doubled YoY", "key_risks": ["export controls", "valuation stretched at 45x P/E"]}
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "NVDA",
+        "trade_date": "2026-01-16",
+        "state": {
+          "market_report": "NVDA at $175, breaking to new highs. 50-day MA $160. RSI 70 entering overbought territory. Volume 2x average on breakout.",
+          "fundamentals_report": "NVDA Q4: Revenue $35B (+122% YoY), Gross Margin 76%, EPS $19.20 (beat by $1.80). FY2026 guidance $140B raised from $120B. Data center $30B segment.",
+          "sentiment_report": "Extremely bullish. Institutional net buying. Options: heavy call volume at $200 strike.",
+          "news_report": "Jensen Huang at CES: next-gen Blackwell Ultra chip announced. Hyperscaler capex budgets doubled. NVDA becomes largest company by market cap.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Data center revenue growth structural. AI investment cycle early innings. Bear's valuation concern valid but misses the earnings power trajectory.",
+            "bear_history": "Bear: 45x P/E too rich. Any guidance miss sends stock down 20%. Export restrictions could cut $4B from revenue. Bear's export risk is concrete and unaddressed."
+          },
+          "risk_debate_state": {"history": "Moderate PM: Add 2% to position. Stop loss at $160. Noted export risk but did not quantify impact."},
+          "final_trade_decision": "Portfolio Manager rates NVDA: Strong Buy. Data center dominance + Blackwell cycle. Target $200. Key risk: export restrictions — decision lacks specific risk-mitigation plan."
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "AAPL",
+        "record": {"trade_date": "2026-01-16", "ticker": "AAPL", "rating": "Hold", "one_line_thesis": "Services revenue growth solid but iPhone supercycle not materializing", "key_risks": ["China market share loss", "Vision Pro adoption slow"]}
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2026-W04",
+        "bullets": ["CPI came in at 3.0% — in line with consensus", "FOMC: Fed held rates, signaled March cut possible", "AI data center demand driving semiconductor supply scarcity"],
+        "trade_date": "2026-01-23"
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "NVDA",
+        "record": {"trade_date": "2026-01-23", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "Slight trim after 15% gain; maintaining core position on Blackwell thesis", "key_risks": ["export control expansion", "earnings multiple compression"]}
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "NVDA",
+        "record": {"trade_date": "2026-01-28", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "Pre-earnings caution; reduce size ahead of results", "key_risks": ["revenue guidance risk", "tariff escalation"]}
+      }
+    },
+    {
+      "component": "MacroNotes",
+      "args": {
+        "iso_week": "2026-W05",
+        "bullets": ["NVDA earnings beat: $20.02 EPS vs $19.20 estimate", "Macro risk: tariff threats on semiconductor imports from Asia", "10-year Treasury yield fell to 4.2% on soft jobs data"],
+        "trade_date": "2026-01-30"
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "AAPL",
+        "record": {"trade_date": "2026-01-30", "ticker": "AAPL", "rating": "Buy", "one_line_thesis": "Services beat earnings; Vision Pro enterprise pipeline stronger than expected", "key_risks": ["AI competitive pressure from Google", "China regulatory risk"]}
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "user_context_portfolio_for_NVDA",
+      "component": "UserContext",
+      "args": {"ticker": "NVDA"},
+      "expected_information": [
+        {"type": "substring", "value": "100"},
+        {"type": "substring", "value": "155.50"},
+        {"type": "substring", "value": "Risk tolerance: moderate"},
+        {"type": "substring", "value": "US large-cap technology"}
+      ]
+    },
+    {
+      "label": "decisions_NVDA_last3_reflects_trajectory",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-16"},
+        {"type": "substring", "value": "2026-01-23"},
+        {"type": "substring", "value": "2026-01-28"}
+      ]
+    },
+    {
+      "label": "decisions_NVDA_last1_is_hold",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "Hold"},
+        {"type": "substring", "value": "2026-01-28"}
+      ]
+    },
+    {
+      "label": "knowledge_card_NVDA_populated",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "NVDA"},
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "## Identity"},
+        {"type": "substring", "value": "NVDA"},
+        {"type": "substring", "value": "## Recent PM Ratings"},
+        {"type": "regex", "value": "Blackwell|35B|data center", "case_sensitive": false}
+      ]
+    },
+    {
+      "label": "macro_recent_shows_latest_2_weeks",
+      "component": "MacroNotes",
+      "args": {"n_weeks": 2},
+      "expected_information": [
+        {"type": "substring", "value": "2026-W05"},
+        {"type": "substring", "value": "2026-W04"},
+        {"type": "not_substring", "value": "2026-W03"},
+        {"type": "non_empty"}
+      ]
+    },
+    {
+      "label": "decisions_AAPL_shows_both_entries",
+      "component": "DecisionsLog",
+      "args": {"ticker": "AAPL", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "Hold"},
+        {"type": "substring", "value": "Buy"},
+        {"type": "substring", "value": "Services"}
+      ]
+    },
+    {
+      "label": "user_context_AAPL_position_shown",
+      "component": "UserContext",
+      "args": {"ticker": "AAPL"},
+      "expected_information": [
+        {"type": "substring", "value": "200"},
+        {"type": "substring", "value": "220.00"}
+      ]
+    },
+    {
+      "label": "user_context_TSLA_no_position",
+      "component": "UserContext",
+      "args": {"ticker": "TSLA"},
+      "expected_information": [
+        {"type": "substring", "value": "No current position in TSLA"}
+      ]
+    }
+  ]
+}

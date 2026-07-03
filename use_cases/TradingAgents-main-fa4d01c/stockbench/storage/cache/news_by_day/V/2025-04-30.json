@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Compared to Estimates, Visa (V) Q2 Earnings: A Look at Key Metrics",
+      "description": "While the top- and bottom-line numbers for Visa (V) give a sense of how the business performed in the quarter ended March 2025, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+      "published_utc": "2025-04-30T07:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38bba92a5add92d7537be5611ccde6c428ae953827d04e4aa661d3c765c42e62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141575,
+      "datetime": 1745967611
+    },
+    {
+      "title": "Visa Maintains Outlook Amid ‘Resilient’ Consumer Spending. Revenue Climbs 9%.",
+      "description": "Visa  offered mixed financial results on Tuesday, as quarterly earnings that accounted for certain items slipped from a year ago and missed Wall Street forecasts.  Shares rose in response to the earnings report.  Visa  left its financial outlook for 2025 unchanged, a welcome sign for investors evaluating how companies are positioning themselves against an uncertain economic outlook.",
+      "published_utc": "2025-04-30T06:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97ca7deb5b4d2dc512976e4a7cae4ac5f8d843375a939afde4db61b6d495981a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141576,
+      "datetime": 1745966760
+    },
+    {
+      "title": "Visa (V) Surpasses Q2 Earnings and Revenue Estimates",
+      "description": "Visa (V) delivered earnings and revenue surprises of 2.99% and 0.34%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "published_utc": "2025-04-30T05:15:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ad7529d923336b9711d16fcd5c7607e9b4d186c29a7a95b3b3e34a0987f4158",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141577,
+      "datetime": 1745961309
+    },
+    {
+      "title": "Visa Stock: Dow Giant Clears Q2 Views, Lauds 'Resilient' Consumer Spending",
+      "description": "Visa stock rose in late trade Tuesday after the Dow Jones payments giant topped estimates for Q2 results, as spending volume rose.",
+      "published_utc": "2025-04-30T05:06:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9089508bdc1dd074832afc8f4766744d83ae52b15a82211b2e6c305c5232ce6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141579,
+      "datetime": 1745960779
+    },
+    {
+      "title": "Visa Reports Better-Than-Expected Earnings and Announces $30B Stock Buyback",
+      "description": "Visa reported fiscal second-quarter results that beat analysts’ expectations and announced a $30 billion stock buyback program.",
+      "published_utc": "2025-04-30T04:57:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9bb037f992d25e460ea5e4f750d7cbe7db09308858bc3aedf167dd16fba0116",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141580,
+      "datetime": 1745960222
+    }
+  ]
+}

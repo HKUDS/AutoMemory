@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (NYSE:JNJ) Unveils Promising Prostate Cancer Data With Pasritamig",
+      "description": "Johnson & Johnson (NYSE:JNJ) recently announced promising Phase 1 study results for Pasritamig, a novel antibody for advanced prostate cancer, which may have influenced its stock's 1.5% rise last week. The study highlights, including a favorable safety profile and potential efficacy in disease control, likely garnered positive investor sentiment. Nevertheless, the company's stock movement is congruent with broader market trends, as the market climbed 1.7% over the same period, likely...",
+      "published_utc": "2025-06-03T01:20:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d59436fdb5b748408129dff6b114f16279c1b9c0f1dd375f6cfa24f72ed9d25d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134952905,
+      "datetime": 1748884801
+    },
+    {
+      "title": "June's Top 10 High-Yield Stocks: Build A Path To A 10%+ Yield By 2035",
+      "description": "Discover the top 10 high-yield stocks for June 2025! Learn how to boost income with dividend growth, strong financials, and smart diversification...",
+      "published_utc": "2025-06-03T00:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a1690d0d6fa893c1191db6a53ce4c2ce65038e5023a9acbfc5ebed5211df28f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2156964801/image_2156964801.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134959783,
+      "datetime": 1748880000
+    },
+    {
+      "title": "ASCO25: Johnson & Johnson reports data from Phase I trial of prostate cancer drug",
+      "description": "The trial enrolled 174 subjects aged 36–89 years who had undergone an average of four previous therapies.",
+      "published_utc": "2025-06-02T22:42:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=540a5afccd313fae55ec21ddf5babf390939c774597cb3d508d5935698c53d87",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134952908,
+      "datetime": 1748875326
+    },
+    {
+      "title": "Lord Abbett Developing Growth Fund Q1 2025 Commentary",
+      "description": "The Fund returned -17.65%, reflecting performance at the net asset value of Class I shares with all distributions reinvested for the quarter ended March 31, 2025.",
+      "published_utc": "2025-06-02T20:53:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a63404a629040b3ee1dfbeb821589ec1ac714a5cd7b1b3f88d08123c42a9a6a6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2043764026/image_2043764026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134949695,
+      "datetime": 1748868780
+    },
+    {
+      "title": "COO Q2 Earnings Signal Growth and Caution: How to Play the Stock?",
+      "description": "Cooper Companies beats fiscal second-quarter estimates and raises guidance, but faces fertility headwinds and inventory pressures. Is COO still a long-term growth play?",
+      "published_utc": "2025-06-02T20:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d7a884c01e39a9cdc171c618cfaaceb69d93db18b5d7c6ee17f3da69b4b4c5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134952909,
+      "datetime": 1748868180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:24.915181+00:00",
+    "cache_key": "news_a4a90d16b719ab0676406ad60f2dd0fd",
+    "count": 5
+  }
+}

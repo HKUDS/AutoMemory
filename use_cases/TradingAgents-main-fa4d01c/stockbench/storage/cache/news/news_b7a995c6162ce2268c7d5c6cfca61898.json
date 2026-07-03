@@ -1,0 +1,343 @@
+{
+  "items": [
+    {
+      "id": "aba6e24392de31b803c25790889d05b575038805e7a88957a90ccd53025ccb5d",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "How The Smart Money Gets Rich When Markets Crash",
+      "author": "Tim Melvin",
+      "published_utc": "2025-03-19T18:53:57Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/03/44404185/how-the-smart-money-gets-rich-when-markets-crash",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/19/Bear-market.png?width=1200&height=800&fit=crop",
+      "description": "This article discusses how savvy investors can profit during market crashes by identifying undervalued companies and buying them at discounted prices. It highlights examples of investors like Warren Buffett and Richard Rainwater who have successfully executed this strategy.",
+      "keywords": [
+        "bear market",
+        "contrarian investing",
+        "market crash",
+        "value investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple's stock price fell to as low as $7 (split-adjusted) after the dot-com bubble burst, but investors who bought at those levels and held would have seen their investment grow by over 35,000% by today."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Warren Buffett's Berkshire Hathaway increased its American Express position during the financial crisis when shares dropped below $10 (from highs of $60+), and the stock has since returned to over $200."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that in 2011, when European debt concerns were creating a second wave of financial stress, Buffett invested $5 billion in Bank of America preferred stock with warrants, and that investment has since grown to be worth over $30 billion."
+        }
+      ]
+    },
+    {
+      "id": "9fd46739bd749a95ebdb435c7398fbb010379f94a4d967f5175b71bdf27a4e2b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is This Simple Index Fund a Millionaire Maker?",
+      "author": "Anders Bylund",
+      "published_utc": "2025-03-19T13:19:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/19/is-this-simple-index-fund-a-millionaire-maker/?source=iedfolrf0000001",
+      "tickers": [
+        "ASML",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811505/worried-investor-thinking-hard.jpg",
+      "description": "The Vanguard Developed Markets ETF offers exposure to international markets, but may not be the best long-term investment option compared to the Vanguard S&P 500 ETF. While it provides diversification and higher dividend yields, the international fund has underperformed the S&P 500 over the long run.",
+      "keywords": [
+        "Vanguard Developed Markets ETF",
+        "Vanguard S&P 500 ETF",
+        "portfolio diversification",
+        "dividend yields",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "VEA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents the Vanguard Developed Markets ETF as a diversification option, but notes that it may not be the best long-term investment compared to the Vanguard S&P 500 ETF. While it offers higher dividend yields, the international fund has underperformed the S&P 500 over the long run."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the Vanguard S&P 500 ETF may be a better long-term investment option compared to the Vanguard Developed Markets ETF, as it has outperformed the international fund over the long run."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions SAP as one of the largest holdings in the Vanguard Developed Markets ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "ASML",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions ASML Holdings as one of the largest holdings in the Vanguard Developed Markets ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Novo Nordisk as one of the largest holdings in the Vanguard Developed Markets ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the largest holdings in the Vanguard S&P 500 ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the largest holdings in the Vanguard S&P 500 ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the largest holdings in the Vanguard S&P 500 ETF, but does not provide any specific commentary on the company."
+        }
+      ]
+    },
+    {
+      "id": "134a792c940c6ad89e23a9940c66ed4e92bf0f4b06f5ecca75ff8be9d90c7155",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Buying This Vanguard ETF Today Will Set You Up for Life",
+      "author": "Keith Speights",
+      "published_utc": "2025-03-19T08:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/19/prediction-buying-this-vanguard-etf-today-will-set/?source=iedfolrf0000001",
+      "tickers": [
+        "VONG",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMZN",
+        "META",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811517/hands-behind-head-young-man.jpg",
+      "description": "The article discusses the Vanguard Russell 1000 Growth ETF (VONG) as a potential long-term investment opportunity, highlighting its strong historical performance and the growth prospects of its top holdings, including tech giants like Apple, Microsoft, and Alphabet.",
+      "keywords": [
+        "Vanguard",
+        "ETF",
+        "Russell 1000 Growth",
+        "growth stocks",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "VONG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents the Vanguard Russell 1000 Growth ETF as a promising long-term investment, citing its strong historical performance and the growth potential of its top holdings in the tech sector."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Meta Platforms (Facebook) as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet (Google) as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet (Google) as one of the top holdings of the Vanguard Russell 1000 Growth ETF, suggesting the company has strong growth prospects."
+        }
+      ]
+    },
+    {
+      "id": "06066e1a3ede6573a23bc130dc1732be40dc1ea73ab8208c248e606aec25ab22",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Tech ETF That Could Turn $500 Per Month Into $1 Million Within 30 Years",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-19T08:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/19/tech-etf-turn-500-per-month-million-30-years-igm/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AVGO",
+        "IGM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811389/a-person-looking-at-stock-charts-on-their-smartphone-with-a-laptop-sitting-on-a-table-in-the-background.jpg",
+      "description": "The article discusses the iShares Expanded Tech Sector ETF (IGM) and its potential to turn a $500 monthly investment into $1 million over 30 years, even if its annual return reverts to its long-term average of 10.8%. The ETF holds many leading AI stocks, including Meta Platforms, Apple, Microsoft, Nvidia, and Broadcom.",
+      "keywords": [
+        "tech ETF",
+        "AI",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Meta Platforms as the largest holding in the iShares ETF, and notes that the company has developed the world's most popular open-source family of large language models (LLMs), which are at the foundation of a growing list of AI software applications."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Apple's iPhones, iPads, and Mac computers could be where billions of consumers eventually access AI, thanks to the gradual rollout of the company's new Apple Intelligence software."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft operates the Azure cloud platform, which is where a growing number of businesses access the data center computing capacity and ready-made LLMs they need to create their own AI software. The company also developed an AI assistant called Copilot."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Nvidia as a leading supplier of AI data center hardware, specifically the industry's most powerful graphics processors (GPUs), which are the go-to choice for AI developers."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Broadcom makes AI accelerators, which customers can customize to suit their specific development needs, and the company also supplies some of the best data center networking equipment."
+        },
+        {
+          "ticker": "IGM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the iShares Expanded Tech Sector ETF could turn a $500 monthly investment into $1 million over 30 years, even if its annual return reverts to its long-term average of 10.8%, due to the potential of the AI industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:24.801215+00:00",
+    "cache_key": "news_b7a995c6162ce2268c7d5c6cfca61898",
+    "count": 4
+  }
+}

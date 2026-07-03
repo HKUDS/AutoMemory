@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says That Amgen’s Stock “Did Not Deserve to Get Hit This Hard”",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the 11 stocks Jim Cramer put under the microscope recently. Cramer highlighted Wall Street’s reaction to the company’s latest data announcement regarding MariTide, and said: “Unlike Mounjaro or Ozempic, which needed to be injected once a week, Amgen’s MariTide is one shot per month. I prefer monthly over weekly […]",
+      "published_utc": "2025-06-29T00:20:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=175ab65f09b422490528522adbdabe337f02e012a1c54ba55c0bfa7d49bad466",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610413,
+      "datetime": 1751127618
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:21.695293+00:00",
+    "cache_key": "news_6a52ac209931ecd83b8175fcc33b17df",
+    "count": 1
+  }
+}

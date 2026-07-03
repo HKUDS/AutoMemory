@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "AI Budgets Are Still Rising. IBM Has a ‘Massive Opportunity.’",
+      "description": "AI Budgets Are Still Rising. IBM Has a ‘Massive Opportunity.’",
+      "published_utc": "2025-03-24T17:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b681f16132d2446cafbe158c4edd98ab98d8940510566c90ec490a1d8dc9929c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134180163,
+      "datetime": 1742809680
+    }
+  ]
+}

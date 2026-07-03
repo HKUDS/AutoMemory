@@ -1,0 +1,500 @@
+[
+  {
+    "showcase": "showcase1",
+    "condition": "memory-off",
+    "session": 1,
+    "instanceID": "pytest-dev__pytest-5262",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 271999,
+    "tokensSent": 60816,
+    "tokensReceived": 2831,
+    "inputTokens": 60816,
+    "outputTokens": 2831,
+    "costTotal": 0.03414312,
+    "totalAssistantSteps": 18,
+    "toolCalls": {
+      "glob": 1,
+      "grep": 3,
+      "read": 5,
+      "edit": 1,
+      "bash": 7
+    },
+    "toolCallsCore": {
+      "bash": 7,
+      "grep": 3,
+      "read": 5,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 17,
+    "failedToolCalls": 2,
+    "stepsToFirstTouch": 2,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 595,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase1/runs/memory-off/session-1/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-off/session-1/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-off",
+    "session": 2,
+    "instanceID": "pytest-dev__pytest-7432",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 110633,
+    "tokensSent": 40733,
+    "tokensReceived": 5964,
+    "inputTokens": 40733,
+    "outputTokens": 5964,
+    "costTotal": 0.023212860000000002,
+    "totalAssistantSteps": 6,
+    "toolCalls": {
+      "read": 1,
+      "edit": 1,
+      "bash": 4
+    },
+    "toolCallsCore": {
+      "bash": 4,
+      "grep": 0,
+      "read": 1,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 6,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 835,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase1/runs/memory-off/session-2/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-off/session-2/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-off",
+    "session": 3,
+    "instanceID": "pytest-dev__pytest-8399",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 496205,
+    "tokensSent": 44721,
+    "tokensReceived": 3772,
+    "inputTokens": 44721,
+    "outputTokens": 3772,
+    "costTotal": 0.04480542,
+    "totalAssistantSteps": 28,
+    "toolCalls": {
+      "glob": 1,
+      "bash": 26,
+      "read": 1,
+      "edit": 1
+    },
+    "toolCallsCore": {
+      "bash": 26,
+      "grep": 0,
+      "read": 1,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 29,
+    "failedToolCalls": 5,
+    "stepsToFirstTouch": 2,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 549,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase1/runs/memory-off/session-3/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-off/session-3/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-off",
+    "session": 4,
+    "instanceID": "pytest-dev__pytest-10081",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 429958,
+    "tokensSent": 87037,
+    "tokensReceived": 4297,
+    "inputTokens": 87037,
+    "outputTokens": 4297,
+    "costTotal": 0.05158494000000001,
+    "totalAssistantSteps": 23,
+    "toolCalls": {
+      "task": 1,
+      "read": 6,
+      "edit": 1,
+      "bash": 15
+    },
+    "toolCallsCore": {
+      "bash": 15,
+      "grep": 0,
+      "read": 6,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 23,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 2,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 778,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase1/runs/memory-off/session-4/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-off/session-4/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-off",
+    "session": 5,
+    "instanceID": "pytest-dev__pytest-7571",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 576588,
+    "tokensSent": 42395,
+    "tokensReceived": 6833,
+    "inputTokens": 42395,
+    "outputTokens": 6833,
+    "costTotal": 0.05255970000000001,
+    "totalAssistantSteps": 21,
+    "toolCalls": {
+      "grep": 1,
+      "bash": 15,
+      "read": 2,
+      "edit": 3
+    },
+    "toolCallsCore": {
+      "bash": 15,
+      "grep": 1,
+      "read": 2,
+      "edit": 3,
+      "write": 0
+    },
+    "totalToolCalls": 21,
+    "failedToolCalls": 3,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 1261,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase1/runs/memory-off/session-5/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-off/session-5/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-off",
+    "session": 6,
+    "instanceID": "pytest-dev__pytest-10051",
+    "dryRun": false,
+    "resolved": false,
+    "resolvedSource": "swebench",
+    "tokenTotal": 201645,
+    "tokensSent": 13469,
+    "tokensReceived": 1936,
+    "inputTokens": 13469,
+    "outputTokens": 1936,
+    "costTotal": 0.0175383,
+    "totalAssistantSteps": 15,
+    "toolCalls": {
+      "read": 3,
+      "grep": 1,
+      "edit": 1,
+      "bash": 7,
+      "glob": 1,
+      "write": 1
+    },
+    "toolCallsCore": {
+      "bash": 7,
+      "grep": 1,
+      "read": 3,
+      "edit": 1,
+      "write": 1
+    },
+    "totalToolCalls": 14,
+    "failedToolCalls": 3,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": true,
+      "flake8": false
+    },
+    "patchBytes": 439,
+    "memoryToolStatsLines": null,
+    "memoryFactsLines": null,
+    "logPath": "showcase1/runs/memory-off/session-6/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-off/session-6/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-on",
+    "session": 1,
+    "instanceID": "pytest-dev__pytest-5262",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 157090,
+    "tokensSent": 133782,
+    "tokensReceived": 2156,
+    "inputTokens": 133782,
+    "outputTokens": 2156,
+    "costTotal": 0.043990919999999996,
+    "totalAssistantSteps": 11,
+    "toolCalls": {
+      "grep": 1,
+      "read": 1,
+      "edit": 1,
+      "bash": 7
+    },
+    "toolCallsCore": {
+      "bash": 7,
+      "grep": 1,
+      "read": 1,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 10,
+    "failedToolCalls": 1,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 570,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 11,
+    "logPath": "showcase1/runs/memory-on/session-1/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-on/session-1/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-on",
+    "session": 2,
+    "instanceID": "pytest-dev__pytest-7432",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 91528,
+    "tokensSent": 77124,
+    "tokensReceived": 3492,
+    "inputTokens": 77124,
+    "outputTokens": 3492,
+    "costTotal": 0.027982319999999998,
+    "totalAssistantSteps": 6,
+    "toolCalls": {
+      "read": 1,
+      "edit": 1,
+      "bash": 3
+    },
+    "toolCallsCore": {
+      "bash": 3,
+      "grep": 0,
+      "read": 1,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 5,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 1609,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 11,
+    "logPath": "showcase1/runs/memory-on/session-2/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-on/session-2/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-on",
+    "session": 3,
+    "instanceID": "pytest-dev__pytest-8399",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 115478,
+    "tokensSent": 96781,
+    "tokensReceived": 1289,
+    "inputTokens": 96781,
+    "outputTokens": 1289,
+    "costTotal": 0.03162558,
+    "totalAssistantSteps": 8,
+    "toolCalls": {
+      "grep": 2,
+      "glob": 1,
+      "read": 1,
+      "edit": 1,
+      "bash": 2
+    },
+    "toolCallsCore": {
+      "bash": 2,
+      "grep": 2,
+      "read": 1,
+      "edit": 1,
+      "write": 0
+    },
+    "totalToolCalls": 7,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 4,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 549,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 11,
+    "logPath": "showcase1/runs/memory-on/session-3/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-on/session-3/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-on",
+    "session": 4,
+    "instanceID": "pytest-dev__pytest-10081",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 147131,
+    "tokensSent": 123953,
+    "tokensReceived": 1610,
+    "inputTokens": 123953,
+    "outputTokens": 1610,
+    "costTotal": 0.04041197999999999,
+    "totalAssistantSteps": 10,
+    "toolCalls": {
+      "grep": 2,
+      "read": 3,
+      "edit": 1,
+      "write": 1,
+      "bash": 3
+    },
+    "toolCallsCore": {
+      "bash": 3,
+      "grep": 2,
+      "read": 3,
+      "edit": 1,
+      "write": 1
+    },
+    "totalToolCalls": 10,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 777,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 11,
+    "logPath": "showcase1/runs/memory-on/session-4/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-on/session-4/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-on",
+    "session": 5,
+    "instanceID": "pytest-dev__pytest-7571",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 236121,
+    "tokensSent": 205390,
+    "tokensReceived": 2667,
+    "inputTokens": 205390,
+    "outputTokens": 2667,
+    "costTotal": 0.06650123999999999,
+    "totalAssistantSteps": 15,
+    "toolCalls": {
+      "grep": 3,
+      "read": 3,
+      "edit": 3,
+      "bash": 5,
+      "glob": 1
+    },
+    "toolCallsCore": {
+      "bash": 5,
+      "grep": 3,
+      "read": 3,
+      "edit": 3,
+      "write": 0
+    },
+    "totalToolCalls": 15,
+    "failedToolCalls": 0,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": false,
+      "flake8": false
+    },
+    "patchBytes": 1294,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 11,
+    "logPath": "showcase1/runs/memory-on/session-5/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-on/session-5/patch.diff"
+  },
+  {
+    "showcase": "showcase1",
+    "condition": "memory-on",
+    "session": 6,
+    "instanceID": "pytest-dev__pytest-10051",
+    "dryRun": false,
+    "resolved": true,
+    "resolvedSource": "swebench",
+    "tokenTotal": 720951,
+    "tokensSent": 641564,
+    "tokensReceived": 15035,
+    "inputTokens": 641564,
+    "outputTokens": 15035,
+    "costTotal": 0.21437231999999998,
+    "totalAssistantSteps": 38,
+    "toolCalls": {
+      "read": 11,
+      "grep": 8,
+      "edit": 3,
+      "bash": 14,
+      "write": 1,
+      "glob": 1
+    },
+    "toolCallsCore": {
+      "bash": 14,
+      "grep": 8,
+      "read": 11,
+      "edit": 3,
+      "write": 1
+    },
+    "totalToolCalls": 38,
+    "failedToolCalls": 4,
+    "stepsToFirstTouch": 1,
+    "preference": {
+      "pytestXvs": true,
+      "flake8": false
+    },
+    "patchBytes": 568,
+    "memoryToolStatsLines": 6,
+    "memoryFactsLines": 11,
+    "logPath": "showcase1/runs/memory-on/session-6/session-log.jsonl",
+    "patchPath": "showcase1/runs/memory-on/session-6/patch.diff"
+  }
+]

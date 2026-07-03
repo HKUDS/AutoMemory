@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Jumps On Subtle Fed Policy Shift; Dow Up 383 Points, Aims To Retake Key Chart Level (Live Coverage)",
+      "description": "Stock Market Today: Nasdaq Jumps On Subtle Fed Policy Shift; Dow Up 383 Points, Aims To Retake Key Chart Level (Live Coverage)",
+      "published_utc": "2025-03-20T00:39:33",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e270d327e3cab83cfcf33a848c7162cbf52f74e3bf5fd1bdfb3f2ab0831576eb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264238,
+      "datetime": 1742402373
+    }
+  ]
+}

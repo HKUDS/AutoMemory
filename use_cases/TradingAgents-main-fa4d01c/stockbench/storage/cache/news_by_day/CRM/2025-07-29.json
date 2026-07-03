@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "DoD tests AI models that make it easy to switch from vendors like Palantir",
+      "description": "Investing.com -- The Department of Defense and other federal agencies have been testing AI models from Microsoft (NASDAQ:MSFT) and OpenAI specifically aimed at extracting data from analytics applications run by contractors like Palantir (NASDAQ:PLTR) and Lockheed Martin (NYSE:LMT), the Information reported on Monday.",
+      "published_utc": "2025-07-29T01:51:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20878e381f8f4f22c6d413502c690d2d76f992f52405c0c52eaaafab1f4682ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107776,
+      "datetime": 1753725063
+    }
+  ]
+}

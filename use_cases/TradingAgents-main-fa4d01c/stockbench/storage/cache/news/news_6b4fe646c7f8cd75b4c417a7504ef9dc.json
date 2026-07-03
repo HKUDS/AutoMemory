@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "title": "Insiders At International Business Machines Sold US$2.6m In Stock, Alluding To Potential Weakness",
+      "description": "In the last year, many International Business Machines Corporation ( NYSE:IBM ) insiders sold a substantial stake in...",
+      "published_utc": "2025-01-05T21:00:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2969f0c1c513eca24decf08ef7676cdf85125df79e36dd2167337a70f97a76de",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/294b4572de33b0ef6b8e6c2b0d8de76c",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132278098,
+      "datetime": 1736082030
+    },
+    {
+      "title": "3 Dividend-Paying Artificial Intelligence Stocks to Buy in 2025",
+      "description": "Artificial intelligence has been a hot market throughout 2024.  AI fueled the surge in share price for companies such as Nvidia, which saw its stock rise nearly 180% over the past year through Dec. 31.  A great way to capitalize on the AI boom is to invest in companies that are not only involved in artificial intelligence, but also pay a robust, dependable dividend.",
+      "published_utc": "2025-01-04T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=043ffb53cb5f2cbf71f9180660d7da6542d83b23b7751e6ef71a92c05a08cf36",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802287/ai_robot_watching_stocks_rise-gettyimages-1389207041-1201x800-9b9f185-1.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132268651,
+      "datetime": 1735992000
+    },
+    {
+      "title": "Why Quantum Computing Stocks Skyrocketed in December",
+      "description": "Why did quantum computing stocks continue to surge in December 2024? Here's what you need to know about the quantum computing industry's progress and challenges.",
+      "published_utc": "2025-01-04T19:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d349f0945b1ca8754817148e56f292b81fe706b1cb9f5d29d69aa1bf1cd384a",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802867/pink-rocket.jpg",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132271510,
+      "datetime": 1735988460
+    },
+    {
+      "id": "8f253da66eb8034defede1f6d48657a6762148b9d24d444007143bbe5a47d088",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Quantum Computing Will Be the Biggest Theme in Artificial Intelligence (AI) in 2025. But Does That Mean You Should Invest in It?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T13:31:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/quantum-computing-will-be-the-biggest-ai-theme/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "QUBT",
+        "RGTI",
+        "RGTIW",
+        "GOOG",
+        "GOOGL",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802570/coding-error-computing-error.jpg",
+      "description": "The article discusses the recent surge in quantum computing stocks like IonQ, Rigetti Computing, and Quantum Computing, and whether investors should consider investing in this emerging technology.",
+      "keywords": [
+        "quantum computing",
+        "artificial intelligence",
+        "investment",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the recent surge in IonQ's stock price is more speculative in nature, driven by online discussions, rather than being based on the company's actual progress and scalability in quantum computing."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the recent surge in IonQ's stock price is more speculative in nature, driven by online discussions, rather than being based on the company's actual progress and scalability in quantum computing."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the recent surge in Quantum Computing's stock price is more speculative in nature, driven by online discussions, rather than being based on the company's actual progress and scalability in quantum computing."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the recent surge in Rigetti Computing's stock price is more speculative in nature, driven by online discussions, rather than being based on the company's actual progress and scalability in quantum computing."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the recent surge in Rigetti Computing's stock price is more speculative in nature, driven by online discussions, rather than being based on the company's actual progress and scalability in quantum computing."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors interested in gaining exposure to quantum computing should consider investing in established companies like Alphabet, which are making progress in the field without relying on it as their primary growth driver."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors interested in gaining exposure to quantum computing should consider investing in established companies like Alphabet, which are making progress in the field without relying on it as their primary growth driver."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors interested in gaining exposure to quantum computing should consider investing in established companies like IBM, which are making progress in the field without relying on it as their primary growth driver."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:01:38.907792+00:00",
+    "cache_key": "news_6b4fe646c7f8cd75b4c417a7504ef9dc",
+    "count": 4
+  }
+}

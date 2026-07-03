@@ -1,0 +1,15 @@
+{
+  "showcase": "stockbench",
+  "condition": "memory-off",
+  "session": 1,
+  "seed": 42,
+  "symbols": [
+    "AAPL",
+    "AMZN",
+    "MSFT"
+  ],
+  "start_date": "2025-06-02",
+  "end_date": "2025-07-11",
+  "window_trading_days": 20,
+  "dry_run": false
+}

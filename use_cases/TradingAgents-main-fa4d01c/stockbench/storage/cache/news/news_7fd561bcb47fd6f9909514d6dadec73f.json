@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) is a Top-Ranked Growth Stock: Should You Buy?",
+      "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+      "published_utc": "2025-07-14T21:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4387b17620d4dd2a69e15c4537b176dc3bc0b942149b0427bc183439a2cd127",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135927706,
+      "datetime": 1752500702
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:40.979615+00:00",
+    "cache_key": "news_7fd561bcb47fd6f9909514d6dadec73f",
+    "count": 1
+  }
+}

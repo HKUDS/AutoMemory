@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Shares of big banks mostly higher after Barr plans to step down from regulatory role at Fed",
+      "description": "Shares of big banks mostly higher after Barr plans to step down from regulatory role at Fed",
+      "published_utc": "2025-01-06T23:46:50",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=890c95dce6d0b0391ca98fea519bf8ec871c6c66e02cfb1bac5d32ef94f8407d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321484,
+      "datetime": 1736178410
+    }
+  ]
+}

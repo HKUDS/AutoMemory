@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dogs of the Dow: Why Procter & Gamble (PG) is a Pillar of Dividend Stability",
+      "description": "The Procter & Gamble Company (NYSE:PG) is included among the 11 Dogs of the Dow Dividend Stocks to Buy Now. The Procter & Gamble Company (NYSE:PG) owns several leading consumer brands like Pampers and Tide— products that are considered essentials for many households. While there’s always a possibility that consumers could opt for cheaper, generic […]",
+      "published_utc": "2025-07-28T01:19:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3762cf31a5ddc69ace17afa1de30d9995b88100892a6c5690417b785eb85446d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101704,
+      "datetime": 1753636794
+    },
+    {
+      "title": "Tech Earnings, Tariff Deadline and Other Key Things to Watch this Week",
+      "description": "Markets face a pivotal week as the S&P 500 navigates a perfect storm of Federal Reserve policy decisions, mega-cap technology earnings, and critical trade developments.",
+      "published_utc": "2025-07-28T01:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dee95ba73588ccdcd202ad1320a2884b432bb335cfd907a68dcefad3512282f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101516,
+      "datetime": 1753635602
+    },
+    {
+      "title": "20 Kiplinger July Dividend Favorites: No Cigars",
+      "description": "",
+      "published_utc": "2025-07-27T19:45:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba2107d89171f2750e63236a717602fafce3448a1abd4960630a2ea4c7420659",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100985,
+      "datetime": 1753616739
+    },
+    {
+      "title": "Federal Reserve meeting, July jobs report, and Big Tech earnings: What to watch this week",
+      "description": "The stock market is at record highs as investors brace for what's expected to be the busiest week of the summer on Wall Street.",
+      "published_utc": "2025-07-27T19:37:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bf93a106db71e6d69c6f44ad5c19a5bbba0b26e66f32c58a2cfda3518507333",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101520,
+      "datetime": 1753616276
+    },
+    {
+      "title": "Wall Street Week Ahead (Update)",
+      "description": "",
+      "published_utc": "2025-07-27T17:53:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6d908604d4bb3aa1f7c598923d7d9fee81d97cae34684502fd2575006627ddfd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100655,
+      "datetime": 1753609980
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:13:11.117632+00:00",
+    "cache_key": "news_13bdf66dfe02b21870f4c382efc52991",
+    "count": 5
+  }
+}

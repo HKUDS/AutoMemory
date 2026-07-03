@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Bull Charges On, Question Is When It Meets the Bear",
+      "description": "(Bloomberg) -- The stock market is on a heater. After rising for nine straight sessions and gaining 10% in that time, the S&P 500 Index closed out the week on its longest winning streak in more than 20 years, recouping all of its losses since April 2, when President Donald Trump launched his global trade war. Most Read from BloombergThe Battle Over the Fate of Detroit’s Renaissance CenterNYC Lost $9 Billion of Income to Miami, Palm Beach in Five YearsNYC Real Estate Industry Asks Judge to Block",
+      "published_utc": "2025-05-03T21:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c17f4f99923512c21dd4a7adb47903c40dc0011d4edf59573198e879bc330001",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246737,
+      "datetime": 1746277207
+    },
+    {
+      "title": "Big Oil Isn’t Budging on Output as OPEC+ Supply Hike Looms",
+      "description": "(Bloomberg) -- The largest western oil producers are mostly sticking with their growth plans for now, despite a 16% decline in crude prices during April and a decision by OPEC+ to crank up output in June.Most Read from BloombergThe Battle Over the Fate of Detroit’s Renaissance CenterNYC Lost $9 Billion of Income to Miami, Palm Beach in Five YearsNYC Real Estate Industry Asks Judge to Block New Broker Fee LawNJ Transit Strike Would Be ‘Disaster’ for Region, Sherrill SaysNJ Transit Urges Commuters",
+      "published_utc": "2025-05-03T20:13:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d885a1621004bcf4360d02132344d99ff4a3c78b6c385b32140108a06d1ebd12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134240374,
+      "datetime": 1746274404
+    },
+    {
+      "title": "Dogs Of The Dow Chase May's 'Safer' Buy",
+      "description": "Discover the top Dow Dogs for potential gains of 21%-45% by 2026, with Verizon leading in dividends. Read more on the price gainers for 2026 based on 1-year target prices.",
+      "published_utc": "2025-05-03T17:46:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=350e7769b702ab011e6e05a8a775d6afbeec758c10f0e5378d06981688951dc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470996886/image_1470996886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134226264,
+      "datetime": 1746265597
+    },
+    {
+      "title": "Global Factories Struggle to Overcome Trump Tariffs, Uncertainty",
+      "description": "(Bloomberg) -- Supply Lines is a daily newsletter that tracks global trade. Sign up here.Most Read from BloombergThe Battle Over the Fate of Detroit’s Renaissance CenterNYC Lost $9 Billion of Income to Miami, Palm Beach in Five YearsNYC Real Estate Industry Asks Judge to Block New Broker Fee LawNJ Transit Urges Commuters to Work Remotely If Union StrikesNJ Transit Strike Would Be ‘Disaster’ for Region, Sherrill SaysMore signs emerged in a wave of reports this week that global manufacturing is bu",
+      "published_utc": "2025-05-03T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d7b93ba6fecb7863a080e3322b20a693a391fb93d4209f07266488b9e1c3dad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246828,
+      "datetime": 1746262800
+    }
+  ]
+}

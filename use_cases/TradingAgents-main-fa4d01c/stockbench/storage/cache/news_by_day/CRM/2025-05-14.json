@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM) – Agentforce and Sales Cloud to Drive CRM Growth Beyond 12%, Says BofA",
+      "description": "We recently published a list of 10 AI Stocks Surging on News and Ratings. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other AI stocks surging on news and ratings. According to Daniel Ives, global head of technology research at Wedbush Securities, the US- China agreement […]",
+      "published_utc": "2025-05-14T05:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01a12975fd98fac0078e5339e2583b43cb98565961b6f8bc063ef0993fbdee08",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460802,
+      "datetime": 1747173005
+    },
+    {
+      "title": "Salesforce.com (CRM) Gains But Lags Market: What You Should Know",
+      "description": "The latest trading day saw Salesforce.com (CRM) settling at $289.17, representing a +0.12% change from its previous close.",
+      "published_utc": "2025-05-14T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18148e9623a1fba63a90588427a388054564cc26635e1e8c590a4e8c0e911fed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460803,
+      "datetime": 1747172716
+    },
+    {
+      "title": "Trump and MBS Tout $1 Trillion Pledge as Details Remain Elusive",
+      "description": "(Bloomberg) -- President Donald Trump and Saudi Crown Prince Mohammed bin Salman touted a pledge for $1 trillion in commercial deals in Riyadh on Tuesday, a staggering figure that doesn’t quite stand up to scrutiny.Most Read from BloombergAs Coastline Erodes, One California City Considers ‘Retreat Now’A New Central Park Amenity, Tailored to Its East Harlem NeighborsWhat’s Behind the Rise in Serious Injuries on New York City’s Streets?NYC Warns of 17% Drop in Foreign Tourists Due to Trump Policie",
+      "published_utc": "2025-05-14T01:49:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc7f67037ed5fd23b0437e18bfd22910a691c5b80d1cb120516d6049a9a58da6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408230,
+      "datetime": 1747158542
+    },
+    {
+      "title": "Big Tech commits $80B, ESPN streaming, Microsoft layoffs",
+      "description": "Yahoo Finance host Brad Smith tracks today's top moving stocks and biggest market stories in this Market Minute, including funding commitments by tech giants Alphabet (GOOG, GOOGL), Oracle (ORCL), and Salesforce (CRM) to the US and Saudi Arabia; ESPN's standalone streaming service is set to launch this fall; and Microsoft (MSFT) is reportedly cutting 3% of its workforce. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-05-14T00:10:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71cecb1fbcbf0199f1ed7f58d840f6c834e15aaaaed17c4af165fa8b53f3ec50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408176,
+      "datetime": 1747152620
+    }
+  ]
+}

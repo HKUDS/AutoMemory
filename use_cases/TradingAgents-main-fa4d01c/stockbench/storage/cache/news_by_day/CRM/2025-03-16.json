@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Salesforce (CRM) Invests $1 Billion in Singapore to Boost AI-Powered Agentforce",
+      "description": "We recently published a list of 12 AI Stocks Poised for Massive Growth. In this article, we are going to take a look at where Salesforce Inc (NYSE:CRM) stands against other AI stocks poised for massive growth. With the AI arms race heating up every passing day, more businesses and countries are eager to stake […]",
+      "published_utc": "2025-03-16T04:24:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccc7ce8c753178ebdd632008f5f7ca9f7017e832355addcb92c779be9f9242bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184583,
+      "datetime": 1742070284
+    }
+  ]
+}

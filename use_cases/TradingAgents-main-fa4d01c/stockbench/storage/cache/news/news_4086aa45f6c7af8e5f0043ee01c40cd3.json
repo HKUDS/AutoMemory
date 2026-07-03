@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft Debuts ROG Xbox Ally Handhelds, Marking Entry into Portable Gaming",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the best Dow stocks to invest in. The company is entering the handheld gaming market for the first time with the upcoming launch of the ROG Xbox Ally devices. Created in partnership with ASUS, these handhelds are designed to deliver a full Xbox gaming experience in a portable format. […]",
+      "published_utc": "2025-06-12T05:38:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3532ba7f1d9c6aed9c0fa0ae14eeeb0fcc052f1e0ca7a95ef1115a3af540648",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135195360,
+      "datetime": 1749677911
+    },
+    {
+      "title": "Google Buyouts Could Point to More Tech Layoffs, as Sector Faces Heavy Job Losses",
+      "description": "Google extended buyout offers to more employees this week, marking the latest move by Big Tech firms to lower headcounts. It may not be the last, as companies face pressure to reduce spending amid an uncertain economic environment.",
+      "published_utc": "2025-06-12T05:30:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45c34204ca04a4d17d6032e8a0f55b7b2449b7445e77cfb7bd3b13518d476cff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135195361,
+      "datetime": 1749677457
+    },
+    {
+      "title": "OpenAI has discussed raising money from Saudi Arabia, Indian investors, The Information reports",
+      "description": "ChatGPT maker OpenAI has talked toSaudi's PIF, India's Reliance Industries and existingshareholder United Arab Emirates' MGX about its $40 billionfinancing, The Information reported on Wednesday. ...",
+      "published_utc": "2025-06-12T04:44:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=42f2200ed989c5a76790961bfa45fe03550bb8e5791ff1e5ca566024dbc8d355",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135195476,
+      "datetime": 1749674648
+    },
+    {
+      "title": "OpenAI Has Told Investors It Wants To Raise Another $17 Billion In 2027 - The Information",
+      "description": "June 11 - * OPENAI'S LEAD INVESTOR SOFTBANK HAS ALSO BEEN BUYINGEMPLOYEESHARES - THE INFORMATION * OPENAI HAS DISCUSSED RAISING MONEY FROM SAUDI ARABIA,INDIANINVESTORS...",
+      "published_utc": "2025-06-12T04:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=00c0a8eae17bedd4360bda479607031c842816cfc9f68f014c823226a7331c99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135194985,
+      "datetime": 1749672067
+    },
+    {
+      "title": "Investing in the AI Revolution with Dan Ives",
+      "description": "We talk about the AI boom and a new ETF aiming to ride the wave.",
+      "published_utc": "2025-06-12T03:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ba3c174385abbef18c9e0503497dd6227729b09f28e7c9832035d59d68ce0e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135195363,
+      "datetime": 1749669840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:55.714288+00:00",
+    "cache_key": "news_4086aa45f6c7af8e5f0043ee01c40cd3",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "OpenAI lists Google as cloud partner amid growing demand for computing capacity",
+      "description": "OpenAI has included Alphabet's Google Cloud among its suppliers to meet escalating demands for computing capacity, according to an updated list published on the ChatGPT maker's website. ...",
+      "published_utc": "2025-07-17T03:10:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=116f83297a6c247b8e7484d238da0c4a00ad36a8a098b79faf4d23d9991f2d24",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971970,
+      "datetime": 1752693008
+    },
+    {
+      "title": "Compelling Buys, Stellar Tech Moves With The Financial Prophet",
+      "description": "Victor Dergunov, The Financial Prophet, on very interestingÂ market dynamics and stellar tech moves.",
+      "published_utc": "2025-07-16T23:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98e01823cc13c171e9107ae5b41d0b7ea74d4029e8fd4066d37c233eed06d184",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148238868/image_2148238868.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135970483,
+      "datetime": 1752678600
+    },
+    {
+      "title": "How Meta’s CEO Is Pushing the AI Arms Race to Another Level",
+      "description": "How Meta’s CEO Is Pushing the AI Arms Race to Another Level",
+      "published_utc": "2025-07-16T22:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6c29ebcc4de8f1785e1871542305f96f3ea9d57ebebd08a90387b7374a8a2eeb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135974402,
+      "datetime": 1752674460
+    },
+    {
+      "title": "ASML: Why I Am Buying The Dip",
+      "description": "",
+      "published_utc": "2025-07-16T21:46:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2b10582701757a4e25c28afd31052107c27958d45e77cd2437c3206d5480e82d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135970051,
+      "datetime": 1752673614
+    },
+    {
+      "title": "Ashton Bentley by Kramer Display Mounting Systems are Now Approved for Express Install for Microsoft Teams Rooms",
+      "description": "Bringing enhanced productivity and ease of use to small-to-medium collaboration spaces, Ashton Bentley Display Mounting Systems from Kramer are now approved by Microsoft for deployment of Express Install for Microsoft Teams Rooms.",
+      "published_utc": "2025-07-16T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a74eb7ef40ae3d2463f1eb876e05a8a1ae3c590eb0bf309f5909c1428db3806",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135964652,
+      "datetime": 1752669000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:29.065182+00:00",
+    "cache_key": "news_d0d0d67840feb5314aaf23f0193e2624",
+    "count": 5
+  }
+}

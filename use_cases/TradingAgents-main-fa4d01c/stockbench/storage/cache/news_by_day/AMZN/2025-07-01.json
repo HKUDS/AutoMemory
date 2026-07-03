@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Best Stock to Buy Right Now: Apple vs. Amazon",
+      "description": "Apple and Amazon are two leading consumer stocks, but their distinct approaches to AI could be a deciding factor in their future success.  Apple is taking a conservative approach to AI capital expenditures by leveraging partnerships.  Amazon is willing to spend substantial sums on AI, with over $24 billion spent in the first quarter alone.",
+      "published_utc": "2025-07-01T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c987426133d45ddf5de90225c39aca2fc2e83e307e67f27210aed77d1487241",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677330,
+      "datetime": 1751328000
+    },
+    {
+      "title": "Amazon Founder Jeff Bezos Offloads 25 Million Shares on Wedding Day",
+      "description": "Amazon Rally Tested by Bezos's Massive Stock Dump",
+      "published_utc": "2025-07-01T06:35:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa04a96090380e5f8187828b3f6fef10539ce42959fefed84b5f5bfe4a609a9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676886,
+      "datetime": 1751322927
+    },
+    {
+      "title": "Dow Jones Futures: S&P 500 Hits Record High; Palantir Rebounds As Tesla Deliveries Loom",
+      "description": "Dow Jones Futures: S&P 500 Hits Record High; Palantir Rebounds As Tesla Deliveries Loom",
+      "published_utc": "2025-07-01T06:05:01",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=9539d4ef6905dfe78809f10258f5ea89ecc015efe7164e6fcde441d10a4904b7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135688449,
+      "datetime": 1751321101
+    },
+    {
+      "title": "Amazon (AMZN) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "Amazon (AMZN) closed the most recent trading day at $219.39, moving 1.75% from the previous trading session.",
+      "published_utc": "2025-07-01T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bab096986286f837860fa9f61430567a90413c4917d6f9c92506196d8e962db3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676888,
+      "datetime": 1751319903
+    },
+    {
+      "title": "Amazon Is on the Cusp of Using More Robots Than Humans in Its Warehouses",
+      "description": "Amazon Is on the Cusp of Using More Robots Than Humans in Its Warehouses",
+      "published_utc": "2025-07-01T05:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=26f125a1d1c297f89d469d78b445e62263d10d0f161c14f018842c53bbd6a670",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135688471,
+      "datetime": 1751319000
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Amgen (AMGN) is a Strong Value Stock",
+      "description": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+      "published_utc": "2025-06-25T21:40:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7c0a803f2cdf7af8ef6453672a141767647170ce84fe84ad7e08b28cc7e4379",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527634,
+      "datetime": 1750858801
+    },
+    {
+      "title": "In the wake of Amgen Inc.'s (NASDAQ:AMGN) latest US$6.5b market cap drop, institutional owners may be forced to take severe actions",
+      "description": "Key Insights Given the large stake in the stock by institutions, Amgen's stock price might be vulnerable to their...",
+      "published_utc": "2025-06-25T21:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=806919b3cc5d70a6699053412c317f5fd73c4e71186bfc89086d8e717a183e0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135527635,
+      "datetime": 1750856417
+    }
+  ]
+}

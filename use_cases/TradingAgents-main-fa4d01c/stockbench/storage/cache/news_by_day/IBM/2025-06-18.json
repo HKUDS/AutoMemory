@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IBM Targets Quantum Leadership Amid Transformation, BofA Says",
+      "description": "International Business Machines (IBM) is aiming to become the platform leader in quantum computing,",
+      "published_utc": "2025-06-18T23:32:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1caa6658c1412b833bb6bca89acc78365af9c54041e5a8d891adc642ab604416",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370847,
+      "datetime": 1750260741
+    },
+    {
+      "title": "Generative Artificial Intelligence (AI) in Digital Marketing Market Opportunities and Strategies Report 2025-2034: Top 10 Players Control Just 15.2%, with IBM Leading at 3.48% Share",
+      "description": "The global generative AI in digital marketing market will surge from $2.48 billion in 2024 to $35.12 billion in 2034, driven by demand for personalization and AI advancements. North America leads with a 33.66% share. Key growth sectors include mobile marketing and content generation. Major players like IBM and Google dominate, with evolving strategies focusing on AI-powered advertising and video tools. Key trends include automated content and creative advertising innovation, revolutionizing digi",
+      "published_utc": "2025-06-18T22:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=278f7173101b9b55bc76d14875c46fd9bea6ee057797f5883d3259ff915fac7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135361543,
+      "datetime": 1750257720
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "title": "Visa's Recent Surge Hasn't Changed My Mind",
+      "description": "Visa is a solid company with strong operational performance; its aggressive share buyback program has proven value accretive. See why I'm keeping V rated a hold.",
+      "published_utc": "2025-01-02T19:03:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2af18f0a3499b1f827203c09111372eb8aee21ab2b573bae2351ca2b69b8db04",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319488921/image_1319488921.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132239682,
+      "datetime": 1735815809
+    },
+    {
+      "id": "234b1d03c6eb78390477662718776cab890f122aaad9f63104987e9df88b24a8",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Why 2024 Was Great for Stocks—and Why 2025 Could Be Even Better",
+      "author": "Marketbeat.Com",
+      "published_utc": "2025-01-02T10:04:00Z",
+      "article_url": "https://www.investing.com/analysis/why-2024-was-great-for-stocksand-why-2025-could-be-even-better-200655793",
+      "tickers": [
+        "NVDA",
+        "PLTR",
+        "SOUN",
+        "SOUNW",
+        "NVO",
+        "LLY",
+        "WMT",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "AXP"
+      ],
+      "amp_url": "https://m.investing.com/analysis/why-2024-was-great-for-stocksand-why-2025-could-be-even-better-200655793?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The stock market had a strong performance in 2024, with the S&P 500 Index up approximately 23%. Analysts are forecasting an even better year in 2025, driven by factors like earnings growth, tax cuts, and potential regulatory changes.",
+      "keywords": [
+        "stocks",
+        "S&P 500",
+        "earnings growth",
+        "tax cuts",
+        "regulations"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NVIDIA, a company providing critical hardware for AI infrastructure, has seen strong gains in 2024."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir Technologies, a company in the AI space, is seen as a future leader in the field."
+        },
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SoundHound AI, another AI company, is also seen as a promising investment for the future."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SoundHound AI, another AI company, is also seen as a promising investment for the future."
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Novo Nordisk, a biopharmaceutical company, has seen its shares lifted by the GLP-1 craze."
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eli Lilly, another biopharmaceutical company, has also benefited from the GLP-1 trend."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart, a blue-chip company, has outperformed the S&P 500 in 2024."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase, another blue-chip company, has also outperformed the broader market."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express, a financial services company, has been a strong performer in 2024."
+        }
+      ]
+    }
+  ]
+}

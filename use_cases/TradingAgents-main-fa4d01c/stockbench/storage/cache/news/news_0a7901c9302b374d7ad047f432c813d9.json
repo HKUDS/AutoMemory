@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is McDonald’s Corporation (MCD) the Best Performing Dividend Stock to Buy Now?",
+      "description": "We recently compiled a list of the 14 Best Performing Dividend Stocks To Buy Now. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against the other dividend stocks. Dividend stocks have taken a backseat in the market as technology and AI-driven equities have soared to record highs. However, […]",
+      "published_utc": "2025-03-10T04:43:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3062ec40c54bd2addbd1e54219895c3584a149becb9288a5f75e026ad4bed2aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184801,
+      "datetime": 1741552988
+    },
+    {
+      "title": "Krispy Kreme: Sweet Growth, Bitter Cyber Setback",
+      "description": "Krispy Kreme aims for expansion with McDonald's partnership and 15,000 PoAs by 2026, but faces cyberattack losses and profitability challenges.",
+      "published_utc": "2025-03-10T02:56:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc4e3dfb02ff5e245945cbfdd8ec9d870d090ed563c1e6c42cccb91206ece86c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1153766759/image_1153766759.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133113762,
+      "datetime": 1741546619
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:15:27.394844+00:00",
+    "cache_key": "news_0a7901c9302b374d7ad047f432c813d9",
+    "count": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as earnings flood in, jobs data on deck",
+      "description": "Wall Street prepared for major earnings and economic data ahead of a blockbuster week that could shake markets.",
+      "published_utc": "2025-07-29T07:37:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b557fdb2657f5992a5214e733fe13e0add42bfeeacbb47a38ebc67edde9199a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136116835,
+      "datetime": 1753745840
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb ahead of week poised to shake markets",
+      "description": "US stock futures traded flat as Wall Street prepared for major earnings and economic data ahead of a blockbuster week that could shake markets.",
+      "published_utc": "2025-07-29T07:37:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da4975e4c6bad2486535417cb14a94aca7e0f6ef527599db5d08bae390ae7deb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113275,
+      "datetime": 1753745840
+    },
+    {
+      "title": "MSFT, META, AAPL, AMZN: One Chart Stands Above the Others",
+      "description": "4 Magnificent 7 stocks are reporting earnings this week. They aren't all equal.",
+      "published_utc": "2025-07-29T06:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=415c6c026fad7b4d1501337ae0e538aeb6ec93bd04e13257af8b43eddb64c44e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113276,
+      "datetime": 1753743240
+    },
+    {
+      "title": "August: Time to Unplug from Markets?",
+      "description": "While stocks continue to print fresh all-time highs, the 'sell the news' phenomenon, August post-election seasonality, and 'The Warren Buffett Indicator,' suggest that August may be a good time for active investors to take their foot off the gas pedal.",
+      "published_utc": "2025-07-29T06:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d4b1dea0953058233e17e9b2b1ae4c7bdf1f2377e74e8f9d1ad2cd0958f3d9c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113277,
+      "datetime": 1753742820
+    },
+    {
+      "title": "UPS’s Earnings Are Here. Growth Is Still Missing.",
+      "description": "Investors in United Parcel Service will be watching, and hoping, for signs growth may return when the logistics company reports what is expected to be another decline in earnings and revenue on Tuesday.  Wall Street is looking for earnings per share of $1.56 from sales of $20.9 billion, according to Bloomberg.  Sales and earnings are expected to drop about 6% and 19%, respectively.",
+      "published_utc": "2025-07-29T05:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4992cd8ce32464cfe88dff4d2e7e5860583f0de84627230f50f2b4f128f442b3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113317,
+      "datetime": 1753738980
+    }
+  ]
+}

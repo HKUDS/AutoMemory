@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "title": "Amgen Q4 Earnings: Strong Pipeline And Label Expansions Justify Buy Rating",
+      "description": "Amgen's Q4 earnings beat expectations, showcasing robust performance for the company's growth strategy. Click here to read why AMGN stock is a Buy.",
+      "published_utc": "2025-02-05T23:08:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=875a53d3d17f3991b2caeb7e5a5814b08dfee064061d5f713a2aa9203a132a48",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412046220/image_1412046220.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132565449,
+      "datetime": 1738768125
+    },
+    {
+      "title": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "description": "Dow up 264 points on gains for Amgen, NVIDIA Corp. shares",
+      "published_utc": "2025-02-05T22:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=14522b0ead6971c45a7d15acc074a34c685995d64c40e7b4752770b363481809",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564061,
+      "datetime": 1738764480
+    },
+    {
+      "title": "Regeneron Is Playing Defense With Capital Allocation",
+      "description": "Regeneron's 2025 outlook includes defensive capital allocation, competitive pressure on Eylea, et cetera. Click here to read why I rate REGN a Buy.",
+      "published_utc": "2025-02-05T21:10:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9a0c9b25731d76b789ce893a51dade7a12e0b641dc763a1ebb21f152d7bed54c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2129856936/image_2129856936.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132563616,
+      "datetime": 1738761030
+    },
+    {
+      "title": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "description": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-02-05T19:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cd443e114c79cbc979e50a14141aa0503528955326bdd3ab0714973ab0a7ecc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564063,
+      "datetime": 1738756320
+    },
+    {
+      "title": "Amgen Shrugs Off A Surprise Setback For One Of Its Obesity Drugs",
+      "description": "Amgen Shrugs Off A Surprise Setback For One Of Its Obesity Drugs",
+      "published_utc": "2025-02-05T18:04:41",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c12b4071d5b7cee405b563bd5a1519bec9dd57d2cabc2b8829e32cee10af15e9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132566414,
+      "datetime": 1738749881
+    },
+    {
+      "title": "Amgen Inc. 2024 Q4 - Results - Earnings Call Presentation",
+      "description": "The following slide deck was published by Amgen Inc.",
+      "published_utc": "2025-02-05T04:33:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f839ce2777d24bcf0d39a821b22b7d79e93899a8c5fe659c56de82b5a56e32f7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132558945,
+      "datetime": 1738701214
+    },
+    {
+      "title": "Amgen, Inc. (AMGN) Q4 2024 Earnings Call Transcript",
+      "description": "Amgen, Inc. (NASDAQ:AMGN) Q4 2024 Earnings Conference Call February 4, 2025 4:30 PM ETCompany ParticipantsJustin Claeys - VP, IRRobert Bradway - Chairman,...",
+      "published_utc": "2025-02-05T04:32:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aea226cb234b780918e8f21df5dae8eb12b3d5142f6842d31f3a607385a8a4bf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132558946,
+      "datetime": 1738701152
+    },
+    {
+      "title": "Amgen 4Q Sales Up 11% as Ten Products Post Double-Digit Gains",
+      "description": "Amgen 4Q Sales Up 11% as Ten Products Post Double-Digit Gains",
+      "published_utc": "2025-02-05T00:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=44757ec0ef8f6cd61334b966809982fb11711e78844d466bb908c35d3238209d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132566436,
+      "datetime": 1738685640
+    }
+  ]
+}

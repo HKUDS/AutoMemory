@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Big Retailers’ Hardball Tariff Playbook: Haggle, Diversify, Raise Prices",
+      "description": "Walmart, Home Depot, Target and others are asking China-sourced suppliers to share costs. “A lot of those negotiations are going on,” one executive said.",
+      "published_utc": "2025-03-16T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffab5fd17fb299ae1a538a0aab519f0fe3574ab1ab64538745aae3ab8782f31a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184503,
+      "datetime": 1742117400
+    },
+    {
+      "title": "IYC: Consumer Discretionary Dashboard For March",
+      "description": "iShares US Consumer Discretionary ETF sees consumer services as top pick. Learn why IYC is a solid choice with lower volatility and 10 undervalued stocks.",
+      "published_utc": "2025-03-16T14:25:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92f0bb55e7a98a6c854a80b03c4e48791dea92e169baccabe175bbd55e768a10",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458697375/image_458697375.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133182322,
+      "datetime": 1742106337
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:08.811492+00:00",
+    "cache_key": "news_a883a113e6be702c0c629fefded6afac",
+    "count": 2
+  }
+}

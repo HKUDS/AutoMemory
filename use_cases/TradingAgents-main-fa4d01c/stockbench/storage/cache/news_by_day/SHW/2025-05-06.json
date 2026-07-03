@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Merck, Amgen share losses lead Dow's nearly 275-point drop",
+      "description": "Merck, Amgen share losses lead Dow's nearly 275-point drop",
+      "published_utc": "2025-05-06T22:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=495fcf3805f4833a3e4d02525ff82f3f6cc4393b3480cf518cd7916d3d9674be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270546,
+      "datetime": 1746543480
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 375-point drop",
+      "description": "Merck, Amgen share losses contribute to Dow's 375-point drop",
+      "published_utc": "2025-05-06T21:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5300f2e1b5925f69dcee7e28e0d138178f9f13c36832e5eb690b5b2a3a58678c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270547,
+      "datetime": 1746538800
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 238-point drop",
+      "description": "Merck, Amgen share losses contribute to Dow's 238-point drop",
+      "published_utc": "2025-05-06T19:54:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1fd7a03c7f059de9209b18aff39cf159793ab5976e9310e77387d276b5a4eb0d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270548,
+      "datetime": 1746532440
+    },
+    {
+      "title": "Is The Sherwin-Williams Company (SHW) the Best Monopoly Stock to Buy Now?",
+      "description": "We recently compiled a list of the 10 Best Monopoly Stocks to Buy. In this article, we are going to take a look at where The Sherwin-Williams Company (NYSE:SHW) stands against the other monopoly stocks. Morgan Stanley believes the bull market might not be finished, and the S&P 500 might close the year with single-digit gains. There […]",
+      "published_utc": "2025-05-06T17:52:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a04d55b76c9c080ce50498ee1aaccef4d95a0aa01c02d3a4b6a7cc74355cfb20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266640,
+      "datetime": 1746525163
+    },
+    {
+      "title": "Fidelity Magellan Fund Q1 2025  Commentary",
+      "description": "For Q1 2025, Fidelity Magellan Fund returned -5.87%, trailing the -4.27% advance of the benchmark S&P 500 index. Click here to read the full commentary.",
+      "published_utc": "2025-05-06T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=72e19f4390cc40e1198016795e03466b348a86564e42bb44ac70096c885a9773",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175399977/image_175399977.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134261066,
+      "datetime": 1746518700
+    }
+  ]
+}

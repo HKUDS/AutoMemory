@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Julie R. Smith Named Metiri Group CEO",
+      "description": "Metiri Group, a leading expert and partner in environmental testing solutions, today announced the appointment of Julie R. Smith as Chief Executive Officer, effective immediately. Smith has served as interim CEO since October 2024. She takes over from Cabot Earle, who now serves as Metiri Group's Founder & Chief Strategy Officer, leading the company's M&A strategy.",
+      "published_utc": "2025-06-09T22:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68ce32ee346216c3e4ef3bbedf34bdf9eab26074c20160fdb01ba97208d08a61",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139599,
+      "datetime": 1749477600
+    },
+    {
+      "title": "Morgan Stanley, Goldman See Resilient Economy Supporting Stocks",
+      "description": "(Bloomberg) -- Wall Street strategists are growing optimistic about US stocks, with forecasters at Morgan Stanley and Goldman Sachs Group Inc. the latest to suggest resilient economic growth would limit any pullback over the summer.Most Read from BloombergNext Stop: Rancho Cucamonga!Where Public Transit Systems Are Bouncing Back Around the WorldTrump Said He Fired the National Portrait Gallery Director. She’s Still There.US Housing Agency Vulnerable to Fraud After DOGE Cuts, Documents WarnSenato",
+      "published_utc": "2025-06-09T16:30:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93395dfb95a29615eae0b332defea2e0f96576c829b926a3f7480179ab789b12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135123407,
+      "datetime": 1749457805
+    },
+    {
+      "title": "Activist Retail Investors Take On Korea’s Corporate Laggards",
+      "description": "(Bloomberg) -- South Korea’s small investors are trying to shake up the country’s creaky corporate landscape.Most Read from BloombergNext Stop: Rancho Cucamonga!Where Public Transit Systems Are Bouncing Back Around the WorldTrump Said He Fired the National Portrait Gallery Director. She’s Still There.ICE Moves to DNA-Test Families Targeted for Deportation with New ContractUS Housing Agency Vulnerable to Fraud After DOGE Cuts, Documents WarnAmateur stock-pickers across the country are gathering o",
+      "published_utc": "2025-06-09T09:23:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3c91c50be4b7912b0eab7fe5c360262b6ca31a231ace9aeef72e5d873761ecd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135123408,
+      "datetime": 1749432234
+    }
+  ]
+}

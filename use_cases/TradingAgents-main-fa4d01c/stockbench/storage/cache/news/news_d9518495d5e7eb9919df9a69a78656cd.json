@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks Fade as Expectations are Trimmed for Fed Rate Cut in September",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed down -0.40%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed down -0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.13%. September E-mini S&P futures (ESU25 ) fell -0.50%, and September E-mini Nasdaq futures...",
+      "published_utc": "2025-07-16T05:02:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3d3a897fc35ccb05bb9b69b8236d5c3e42c5fb14f705df714455c95274dbade",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135957930,
+      "datetime": 1752613361
+    },
+    {
+      "title": "American Express Company (AXP): A Bull Case Theory",
+      "description": "We came across a bullish thesis on American Express Company on Rijnberk InvestInsights’s Substack by Daan | InvestInsights. In this article, we will summarize the bulls’ thesis on AXP. American Express Company’s share was trading at $320.92 as of July 14th. AXP’s trailing and forward P/E were 22.31 and 21.10 respectively according to Yahoo Finance. American Express […]",
+      "published_utc": "2025-07-16T04:06:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5414feb9a835d0b133f916a378634942708b00064d7778524f94f4d9801aa298",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135957931,
+      "datetime": 1752609971
+    },
+    {
+      "title": "AmEx downgraded to Neutral at Monness as valuation seen capping further upside",
+      "description": "Investing.com -- Monness, Crespi, Hardt downgraded American Express (NYSE:AXP) to Neutral from Buy, saying the stock’s 45% rally this year has fully priced in near-term positives and left little room for multiple expansion without a sharp pickup in spending or earnings growth.",
+      "published_utc": "2025-07-16T02:29:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad1f0e0e47ab2b137d24f65fded556eed2737e40071fe9901ac77ee441fab525",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135957932,
+      "datetime": 1752604177
+    },
+    {
+      "title": "Stocks Mixed as T-Note Yields Rise",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) is unchanged, the Dow Jones Industrials Index ($DOWI ) (DIA ) is down -0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.51%. September E-mini S&P futures (ESU25 ) are up +0.02%, and September E-mini Nasdaq futures (NQU25 )...",
+      "published_utc": "2025-07-16T00:09:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6ce9e29fca5a77a256bd2dce80d18a8325e37ee1884bf4e4c969bbd0009c3ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135957491,
+      "datetime": 1752595793
+    },
+    {
+      "title": "Community Financial System (CBU) Earnings Expected to Grow: Should You Buy?",
+      "description": "Community Financial (CBU) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-07-15T22:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d93c4c572a5e7761e06fdc0b177352e4a005f1f4dec18470a37366d0faeda6ea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135948431,
+      "datetime": 1752588004
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:12.111551+00:00",
+    "cache_key": "news_d9518495d5e7eb9919df9a69a78656cd",
+    "count": 5
+  }
+}

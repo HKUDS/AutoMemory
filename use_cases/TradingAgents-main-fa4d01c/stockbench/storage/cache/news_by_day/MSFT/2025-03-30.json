@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Microsoft (MSFT): The Best Gaming Stock to Invest In According to Billionaires",
+      "description": "We recently compiled a list of the 10 Best Gaming Stocks to Invest In According to Billionaires. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against the other gaming stocks. The gaming industry has experienced significant changes over the past few years. During the COVID-19 pandemic, the […]",
+      "published_utc": "2025-03-30T06:25:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=456029fee614d9d8bfb89677f94e0aa97d5854148cf3d6bac78978df542938f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133596478,
+      "datetime": 1743287127
+    },
+    {
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "description": "While known for its Google search engine, Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) has a strong collection of businesses.  Google is still its prized possession and for good reason.  While there are a number of AI-powered competitors looking to make inroads, none have the scale of users or network of advertisers that Google has.",
+      "published_utc": "2025-03-30T06:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa0800a80e1b3ec28101038357a285b7f59b1032e9aca5f6e0a62c4df087ee5c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133573997,
+      "datetime": 1743286680
+    },
+    {
+      "title": "2 \"Magnificent Seven\" AI Stocks to Buy on the Dip",
+      "description": "According to Amazon CEO Andy Jassy, \"Generative AI may be the largest technology transformation since the cloud (which itself, is still in the early stages), and perhaps since the internet.\"  Wall Street has taken notice: Many AI, or AI-adjacent companies, have been on fire for the past two years, but they recently collectively took a bit of a dive due to industry-specific issues.  Earlier this year, a China-based company called DeepSeek developed an AI chatbot with far less money and resources than some of the leaders in the field, which rocked the industry.",
+      "published_utc": "2025-03-30T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9693adef5a80fe6dd824eba4eff89bf927c853c586d571c4c70c1c08964bb0b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133596481,
+      "datetime": 1743278400
+    }
+  ]
+}

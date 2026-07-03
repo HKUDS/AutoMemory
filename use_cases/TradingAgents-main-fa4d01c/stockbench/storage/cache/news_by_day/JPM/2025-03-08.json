@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Trump Tariff Slump Continues Despite 'Solid' Powell; What To Do Now",
+      "description": "Dow Jones Futures: Trump Tariff Slump Continues Despite 'Solid' Powell; What To Do Now",
+      "published_utc": "2025-03-08T15:16:34",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=d804c1cb078485502f547eb2ef3bda15cbf5409ebc39765b03c68a4bf0bb42b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133103559,
+      "datetime": 1741418194
+    },
+    {
+      "title": "BDC Weekly Review: JPMorgan Muscling In On Private Credit Turf",
+      "description": "BDCs stayed flat as TCPC underperformed, while JPMorgan's direct lending initiative may increase competition. Read why market vulnerability remains a concern.",
+      "published_utc": "2025-03-08T13:56:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b23678bfeb716b5ec5327283e5e051a6477ed4f557ff0dfcfbbf9f3b5233acf0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972371962/image_1972371962.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133103263,
+      "datetime": 1741413412
+    }
+  ]
+}

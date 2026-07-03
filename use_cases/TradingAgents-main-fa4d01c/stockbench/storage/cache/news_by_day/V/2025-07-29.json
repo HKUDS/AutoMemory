@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Starbucks earnings, consumer confidence, JOLTS: What to Watch",
+      "description": "Market Domination Overtime host Josh Lipton takes a look at the top stories for investors to watch on Tuesday, July 29. In the morning, UnitedHealth (UNH), Boeing (BA), Spotify (SPOT), and Royal Caribbean (RCL) all report earnings. Visa (V) and Starbucks (SBUX) will post results after the markets close. Consumer confidence data for July will be posted in the morning, with economists expecting an uptick from June. Job Openings and Labor Turnover Survey (JOLTS) data for June will be released in the morning. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-07-29T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=caf4ed2766e47ca92681940397023d9fa292b6113b008fc42ed58e89bb3573cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113392,
+      "datetime": 1753743600
+    },
+    {
+      "title": "S&P 500 & Nasdaq Notch New All-Time Closing Highs",
+      "description": "Markets lost a bit of steam mid-session this Monday, but a late surge into the close brought the S&P 500 and the Nasdaq indexes to new record closing highs.",
+      "published_utc": "2025-07-29T06:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31a3a9c01f70d195c671774043f9f79dd1f74c3d14acecd56ba613bffec26833",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113393,
+      "datetime": 1753740060
+    },
+    {
+      "title": "Equities Mixed Intraday as Focus Shifts From EU Deal to Earnings, Fed Decision",
+      "description": "US benchmark equity indexes were mixed after midday Monday as traders weighed a trade deal with the",
+      "published_utc": "2025-07-29T02:18:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=780e59c1cdb02ed4387450b3f6792dbb0439eb41a781412c4dce5b925f139814",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107773,
+      "datetime": 1753726705
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "XLF Has Big Downside Risk",
+      "description": "XLF faces risks from inflation, interest rates, and potential recession. Click to read more about alternative strategies like small-cap stocks.",
+      "published_utc": "2025-06-04T00:10:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=170da5e5ad87e9be9dcfc485a63cb94d7d4c32ac519469e9cd891476a0ef863a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187312612/image_2187312612.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134991927,
+      "datetime": 1748967009
+    }
+  ]
+}

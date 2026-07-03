@@ -1,0 +1,189 @@
+{
+  "trace_id": "trace_07_medication_escalation_and_wellness_dates",
+  "description": "Tests (1) multi-step medication dose escalation: Metformin 500mg → 1000mg → 1500mg across three turns — the final 1500mg dose must survive as the current dose; (2) date-specific wellness log retrieval: explicit food and exercise details logged on March 15, March 17, March 20 — retrieved by date with specific items; (3) implicit symptom cross-reference: persistent dry cough appears after lisinopril is added, user minimizes it as 'probably allergies' — cough must be captured AND lisinopril must remain in context. Failure modes: LLM accumulates all three Metformin doses ambiguously; specific wellness details (wine, salmon, oatmeal) generalized away; cough not captured because user downplays it.",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "What's the most useful thing to know about Python's itertools module?"},
+        {"role": "assistant", "content": "The killer utilities in itertools: chain() for flattening iterables without copying, islice() for lazy slicing of generators, groupby() for SQL-style GROUP BY on sorted data, product() for Cartesian products (replaces nested loops), and combinations()/permutations() for combinatorics. The key insight is that all itertools functions are lazy — they produce items one at a time, so they work on infinite sequences and never materialize the whole collection in memory. combinations('ABCD', 2) paired with islice() lets you process huge combination spaces without blowing memory."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "So I got some health news this week. My doctor diagnosed me with type 2 diabetes — my fasting glucose has been consistently over 140 and my most recent A1C was 8.2%. He's starting me on Metformin 500mg once daily for the first two weeks as a low-dose introduction to minimize GI side effects, then we'll titrate up. My weight right now is 228 lbs and he wants me targeting 200 lbs. I'm 48 years old. Going to have to make some real lifestyle changes."},
+        {"role": "assistant", "content": "I've recorded this in your health profile: Type 2 diabetes, diagnosed recently. Fasting glucose >140, A1C 8.2%. Starting Metformin 500mg once daily (titration phase — low-dose introduction). Current weight: 228 lbs, target 200 lbs. Age: 48. Your doctor is using the standard Metformin titration approach — gradual dose increases minimize GI side effects like nausea. Lifestyle changes (diet, exercise) work synergistically with Metformin. I'll track progress as you update me."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What camera should I get for landscape photography as a hobbyist?"},
+        {"role": "assistant", "content": "For landscape photography, sensor size matters most — full-frame gives better dynamic range and low-light performance. Entry point: Sony a7C or a7 III (excellent value used), Nikon Z6 III, or Canon R6 Mark II. If budget is tighter, APS-C options like Fujifilm X-T5 (26MP, exceptional color science) or Sony a6700 are excellent. More important than the body: invest in quality wide-angle lenses. For Sony, the Tamron 17–28mm f/2.8 is a fantastic value. Most hobbyists are best served by one good lens over upgrading bodies."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I want to start logging my wellness. Today is March 15th. I went for a 45-minute brisk walk this morning — first real exercise in months. For food: oatmeal with blueberries for breakfast, a big salad with grilled chicken for lunch, and baked salmon with roasted broccoli for dinner. No alcohol today. Slept about 7.5 hours last night. Trying to keep it clean with the diabetes diagnosis."},
+        {"role": "assistant", "content": "Wellness entry logged for March 15:\n- Exercise: 45-minute brisk walk (first exercise in months — great start)\n- Breakfast: oatmeal with blueberries\n- Lunch: salad with grilled chicken\n- Dinner: baked salmon with roasted broccoli\n- Alcohol: none\n- Sleep: 7.5 hours\n\nThis is a strong day for someone managing T2 diabetes — low-glycemic meals, no alcohol, solid sleep, and aerobic exercise all contribute to better insulin sensitivity and glucose control. Keep it up."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you explain the difference between index funds and actively managed funds?"},
+        {"role": "assistant", "content": "Index funds passively track a market index (S&P 500, total market) — low fees (~0.03–0.10% expense ratio), broad diversification, minimal turnover. Actively managed funds have portfolio managers making buy/sell decisions to try to beat the market — higher fees (1–2%), most underperform their benchmark over 10+ years after fees (S&P SPIVA data: ~85–90% of active funds underperform over 15 years). For most long-term investors: low-cost index ETFs (VTI, VOO, SPY) are the evidence-based choice. Active funds can outperform in niche markets or short timeframes, but consistency is rare."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good movies for a date night that aren't too heavy?"},
+        {"role": "assistant", "content": "Great date-night picks that are fun without being exhausting: 'About Time' (2013, time travel romance, charming and warm), 'Crazy Rich Asians' (glamorous and fun), 'The Proposal' (classic romantic comedy), 'La La Land' (visually stunning, bittersweet), 'Knives Out' (whodunit thriller, playful and smart), 'Everything Everywhere All at Once' (weird and wonderful — great if you want something ambitious). For a lighter-still option: 'Paddington 2' — I'm serious, it's genuinely delightful for adults."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I want to log today too — March 17th. Rest day from exercise because my knees were a bit achy. Food-wise: Greek yogurt and fruit for breakfast, chicken rice bowl for lunch, leftover pasta for dinner. I had one glass of red wine in the evening. About 6 hours sleep, which isn't great. I've been stressed about work."},
+        {"role": "assistant", "content": "Wellness entry logged for March 17:\n- Exercise: rest day (knee ache)\n- Breakfast: Greek yogurt with fruit\n- Lunch: chicken rice bowl\n- Dinner: leftover pasta\n- Alcohol: 1 glass red wine\n- Sleep: 6 hours (below target)\n\nKnee ache on a rest day after starting a new exercise routine is common — delayed onset is normal for muscles and connective tissue that haven't been stressed in a while. If it persists, a shorter, lower-impact option like swimming or cycling is gentler. 6 hours of sleep affects insulin sensitivity — if work stress is keeping you up, that's worth addressing as part of diabetes management."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I properly season a cast iron skillet?"},
+        {"role": "assistant", "content": "Cast iron seasoning: (1) Wash with soap and water (it's fine for initial clean), dry completely on the stove over low heat. (2) Apply a very thin layer of neutral high-smoke-point oil (flaxseed, Crisco, or Crisbee) — thin is key; too much creates a sticky, uneven layer. (3) Wipe off any excess until it looks almost dry. (4) Bake upside-down at 450°F for 1 hour; let cool in oven. (5) Repeat 2–3 times for a good initial season. For maintenance: cook fatty foods (bacon, steak) regularly; avoid acidic foods long-term; never soak or use soap for regular cleaning — just hot water and a stiff brush."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Checked in with my doctor again. It's been about two weeks on Metformin 500mg once daily and my fasting glucose is down to 162 — better but still elevated. He wants to increase the dose now. New instructions: Metformin 1000mg daily, split as 500mg in the morning and 500mg with dinner. Same titration plan — he says we'll reassess again in 3–4 weeks."},
+        {"role": "assistant", "content": "Health record updated: Metformin dose increased to 1000mg daily (500mg twice daily — morning and with dinner), effective now. Initial 500mg once daily phase discontinued. Fasting glucose improving: 140+ → 162 (still elevated but trending down). Follow-up in 3–4 weeks to reassess. This dose escalation is standard — most patients end up at 1000–2000mg daily for T2D management. The twice-daily split with meals minimizes GI side effects."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the difference between TypeScript and JavaScript, and when should I use TypeScript?"},
+        {"role": "assistant", "content": "TypeScript is a typed superset of JavaScript — all valid JS is valid TS. TypeScript adds static type annotations, interfaces, enums, and compile-time error checking. Use TypeScript when: (1) working in a team (types are documentation and prevent integration bugs); (2) building large codebases (refactoring is much safer); (3) building APIs or shared libraries (types enforce contracts); (4) you value IDE autocomplete and catch errors before runtime. Use plain JavaScript for: small scripts, quick prototypes, or when you want minimal build tooling. Modern projects default to TypeScript — the tooling overhead is worth it at any moderate scale."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "My bathroom faucet has been dripping — how do I fix it?"},
+        {"role": "assistant", "content": "Dripping faucet fix depends on faucet type: (1) Ball faucet (single rotating handle): replace the ball, springs, seats, and o-rings — Danco and Delta sell full repair kits for $10–15. (2) Cartridge faucet (single or double handle): pull the cartridge and take it to a hardware store to match it, replace with identical. (3) Ceramic disc faucet: clean the ceramic disc with white vinegar (mineral deposits), replace only if cracked. (4) Compression faucet (two handles, older): replace the rubber washer at the bottom of the stem. Turn off supply valves under the sink first. Most drip fixes take under 30 minutes with basic tools."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "One more wellness log — March 20th. I did 30 minutes of yoga this morning (following a YouTube video). Breakfast was scrambled eggs and avocado. Lunch was a veggie burrito from a restaurant. Dinner was pasta with marinara. Had one glass of red wine with dinner. Slept 8 hours last night — finally catching up."},
+        {"role": "assistant", "content": "Wellness entry logged for March 20:\n- Exercise: 30 minutes yoga (YouTube, morning)\n- Breakfast: scrambled eggs with avocado\n- Lunch: veggie burrito (restaurant)\n- Dinner: pasta with marinara\n- Alcohol: 1 glass red wine\n- Sleep: 8 hours (good recovery)\n\nYoga is excellent for stress management and flexibility — both beneficial for T2D. One note: the pasta and veggie burrito both have significant refined carbs; consider whole grain pasta or a grain bowl with more protein next time if you're targeting glucose control. The 8 hours of sleep is a meaningful improvement from the 6-hour night."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any book recommendations for someone interested in behavioral economics?"},
+        {"role": "assistant", "content": "Essential behavioral economics reading: 'Thinking, Fast and Slow' by Kahneman (the foundational text — System 1 vs System 2 thinking, heuristics and biases). 'Predictably Irrational' by Dan Ariely (accessible, counterintuitive insights). 'Nudge' by Thaler and Sunstein (how choice architecture shapes decisions — highly practical). 'Misbehaving' by Richard Thaler (his Nobel memoir, excellent narrative). 'The Undoing Project' by Michael Lewis (Kahneman-Tversky story, reads like a thriller). Start with 'Thinking, Fast and Slow' — it's dense but rewarding and the others build on it."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Is a mechanical keyboard actually worth it for productivity?"},
+        {"role": "assistant", "content": "For daily heavy typists, yes — tactile feedback reduces typos and typing fatigue. Key factors: switch type (clicky MX Blue for feedback, quiet MX Red or Brown for offices), build quality (aluminum frame vs. plastic), and hot-swap sockets for future switch changes. Good entry points: Keychron K2 or Q series. Premium: Ducky or Leopold. If you type 4+ hours daily, the ergonomic and accuracy benefit justifies mid-range pricing ($80–150). The improvement is noticeable but not transformative — your output won't double, but it makes long sessions more comfortable."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Had a doctor appointment today, March 22nd, with Dr. Jamie Kim at Eastside Clinic. She's my new endocrinologist. My A1C came back at 7.4% — still elevated but down from 8.2%. She revised my goal: target A1C 6.8% by September 2025. She also decided to escalate the Metformin again — now 1500mg daily, which means 500mg three times daily, with each meal. And she added a new medication: lisinopril 5mg once daily for blood pressure management. My BP today was 142 over 90. She wants me to monitor it at home."},
+        {"role": "assistant", "content": "Health record updated from March 22 appointment, Dr. Jamie Kim, Eastside Clinic:\n\n**Labs:** A1C 7.4% (down from 8.2% — progress, but target is 6.8% by September 2025)\n\n**Medications updated:**\n- Metformin 1000mg twice daily → discontinued\n- Metformin 1500mg daily (500mg three times daily, with each meal) — now current\n- Lisinopril 5mg once daily — added for blood pressure\n\n**Blood pressure:** 142/90 — Stage 1 hypertension. Home monitoring recommended.\n\n**Goal revised:** A1C target 6.8% by September 2025 (previously unstated specific target)\n\nTwo medications now. Lisinopril has good evidence for both hypertension AND kidney protection in T2D patients — so it's doing double duty here."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the basics of sourdough baking? I want to try it for the first time."},
+        {"role": "assistant", "content": "Sourdough basics: (1) Build a starter — mix equal weights flour and water, feed daily for 7–10 days until it doubles consistently within 4–8 hours. Use unbleached bread flour for reliability. (2) Autolyse — mix flour and water, rest 30 min before adding starter. (3) Bulk fermentation with stretch-and-fold (4 sets, every 30 min). (4) Shape and cold retard overnight in fridge. (5) Score and bake in Dutch oven: 450°F, lid on 20 min, uncovered 25 min. Starter activity is the most critical variable — discard and refeed if yours smells like nail polish remover."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I want to start composting at home. How do I set it up?"},
+        {"role": "assistant", "content": "Home composting setup: (1) Container — outdoor tumbling composter (fastest, least pest risk) or a simple wire bin. (2) Location — partial shade, accessible year-round. (3) The ratio — 3 parts 'brown' (cardboard, dried leaves, newspaper) to 1 part 'green' (food scraps, grass clippings). (4) Add: vegetable scraps, coffee grounds, eggshells, cardboard, dried leaves. Don't add: meat, dairy, oils (attract pests), pet waste, diseased plants. (5) Turn every 1–2 weeks and maintain moisture (damp sponge texture). Ready in 2–4 months. Tumbling composters speed this up significantly."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I've had this persistent dry cough for about the past week or so. It's not a bad cough — no congestion, no fever, I feel fine otherwise. It's just this irritating dry tickle in my throat, especially in the evenings. I figured it's probably just dry air from the heating system, or maybe a mild allergy flare-up. Nothing to worry about, I think, just a bit annoying."},
+        {"role": "assistant", "content": "I've logged this as a symptom: persistent dry cough for approximately one week — evening-predominant, no congestion or fever, attributed by you to dry air or mild allergy. Worth flagging: a persistent dry cough is actually a well-known side effect of ACE inhibitor medications like lisinopril, which you recently started. The mechanism is bradykinin accumulation. It affects 10–15% of patients and can appear 1–4 weeks after starting. I'd recommend mentioning this to Dr. Kim — if it's lisinopril-related, switching to an ARB (like losartan) eliminates the cough while maintaining the BP benefit. Would you like me to note it as a potential medication side effect?"}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's a practical budgeting approach for someone who finds strict budgets too restrictive?"},
+        {"role": "assistant", "content": "For people who hate strict budgets, try the 'pay yourself first' approach: automate transfers to savings and investments on payday (before discretionary spending), then spend the remainder freely without tracking. Set: emergency fund auto-transfer (3–6 months of expenses target), retirement contribution (max 401k match at minimum), then optional mid-term goals (travel fund, car fund). What's left is truly discretionary. This reverses the usual approach — instead of budgeting what you save, you save first and budget what you spend. Pair with a monthly net-worth check (not spending audit) to see if you're on track."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any sleep optimization tips that are actually backed by evidence?"},
+        {"role": "assistant", "content": "Evidence-backed sleep improvements: (1) Consistent wake time (most important) — same time every day, even weekends, anchors your circadian rhythm. (2) Bright light within 30 min of waking — sets circadian timing. (3) No caffeine after 2pm (half-life ~5–7 hours). (4) Cool bedroom — 65–68°F is optimal. (5) No screens 30–60 min before bed (or blue-light glasses). (6) Avoid alcohol — it fragments sleep architecture even if it helps you fall asleep faster. (7) Cognitive behavioral therapy for insomnia (CBT-I) is more effective than sleep medication long-term for chronic insomnia."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are the most important software engineering practices for writing maintainable code?"},
+        {"role": "assistant", "content": "Practices with the highest maintainability ROI: (1) Meaningful names — variables, functions, and classes that explain intent, not mechanism. (2) Small functions with single responsibility — if you can't describe a function's purpose in one sentence, it probably does too much. (3) Tests — especially unit tests for pure logic functions; they make refactoring safe. (4) Don't repeat yourself (DRY) — but don't over-abstract early. (5) Comments that explain why, not what. (6) Consistent code style (enforced by a linter). (7) Version control discipline — atomic commits with meaningful messages. The biggest win for most teams: naming and small, focused functions."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are the essential things to pack for a one-week international trip to minimize luggage?"},
+        {"role": "assistant", "content": "One-week carry-on packing list: (1) 3–4 versatile tops (neutrals, mix and match), 2 bottoms, 1 dress or smart casual option. (2) Merino wool base layers — antibacterial, re-wearable, compressible. (3) One outer layer — packable down jacket or rain shell. (4) 2 pairs of shoes max: comfortable walking shoe that looks reasonably smart + casual option. (5) Toiletries: solids (shampoo bar, conditioner bar) save liquid allowance. (6) Electronics: laptop/tablet, charger, universal adapter, portable battery. (7) Key documents: passport, copies of insurance, emergency contacts. Packing cubes are the single biggest space-efficiency upgrade."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "current Metformin dose",
+      "expected_information": [
+        "1500mg",
+        "/three times|three.*daily|TID|500mg.*three|500.*meals/"
+      ]
+    },
+    {
+      "query": "A1C goal target",
+      "expected_information": [
+        "6.8",
+        "/September|2025-09/"
+      ]
+    },
+    {
+      "query": "March 15 wellness",
+      "expected_information": [
+        "/March 15|2025-03-15/",
+        "/walk|exercise/",
+        "/oatmeal|salmon/"
+      ]
+    },
+    {
+      "query": "March 17 wellness",
+      "expected_information": [
+        "/March 17|2025-03-17/",
+        "/wine|alcohol/"
+      ]
+    },
+    {
+      "query": "lisinopril",
+      "expected_information": [
+        "lisinopril",
+        "5mg",
+        "/blood pressure|BP|hypertension/"
+      ]
+    },
+    {
+      "query": "cough",
+      "expected_information": [
+        "/cough|dry cough/",
+        "lisinopril"
+      ]
+    }
+  ]
+}

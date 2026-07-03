@@ -1,0 +1,87 @@
+{
+  "trace_id": "trace_id_16_decisions_log_n_exceeds_total",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "DecisionsLog: read_last_n(n) when n exceeds total record count returns all records in ascending date order without error; also tests n=total (exact) and n<total windowing",
+  "turns": [
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-03", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "N01-early-momentum-signal-breakout-watch", "key_risks": ["sector rotation"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-05", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "N02-confirmation-of-trend-volume-surge", "key_risks": ["tariff risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-07", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "N03-holding-above-support-consolidation", "key_risks": ["macro uncertainty"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-08", "ticker": "MSFT", "rating": "Buy", "one_line_thesis": "M01-azure-growth-intact-cloud-momentum", "key_risks": ["OpenAI dependency"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-09", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "N04-breakout-watch-institutional-demand", "key_risks": ["valuation"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-11", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "N05-volume-surge-signal-new-52w-high", "key_risks": ["short squeeze risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-13", "ticker": "NVDA", "rating": "Hold", "one_line_thesis": "N06-consolidation-near-highs-pause", "key_risks": ["elevated RSI"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-15", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "N07-institutional-accumulation-confirmed", "key_risks": ["earnings guidance risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-17", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "N08-pre-earnings-position-setup", "key_risks": ["guidance miss"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-19", "ticker": "NVDA", "rating": "Strong Buy", "one_line_thesis": "N09-earnings-beat-reaction-raised-target", "key_risks": ["valuation stretched"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "NVDA", "record": {"trade_date": "2026-01-21", "ticker": "NVDA", "rating": "Buy", "one_line_thesis": "N10-post-earnings-follow-through-intact", "key_risks": ["profit taking"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "MSFT", "record": {"trade_date": "2026-01-16", "ticker": "MSFT", "rating": "Strong Buy", "one_line_thesis": "M02-copilot-adoption-pickup-accelerating", "key_risks": ["competition from Google"]}}}
+  ],
+  "recall_queries": [
+    {
+      "label": "NVDA_n15_exceeds_total_returns_all_10",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 15},
+      "expected_information": [
+        {"type": "substring", "value": "N01-early-momentum"},
+        {"type": "substring", "value": "N05-volume-surge"},
+        {"type": "substring", "value": "N10-post-earnings-follow-through"},
+        {"type": "substring", "value": "2026-01-03"},
+        {"type": "substring", "value": "2026-01-21"}
+      ]
+    },
+    {
+      "label": "NVDA_n10_exact_returns_all_10",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 10},
+      "expected_information": [
+        {"type": "substring", "value": "N01-early-momentum"},
+        {"type": "substring", "value": "N10-post-earnings-follow-through"},
+        {"type": "substring", "value": "2026-01-03"},
+        {"type": "substring", "value": "2026-01-21"}
+      ]
+    },
+    {
+      "label": "NVDA_n3_returns_last3_jan17_jan19_jan21",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "N08-pre-earnings"},
+        {"type": "substring", "value": "N09-earnings-beat"},
+        {"type": "substring", "value": "N10-post-earnings"},
+        {"type": "not_substring", "value": "N01-early-momentum"},
+        {"type": "not_substring", "value": "N06-consolidation"}
+      ]
+    },
+    {
+      "label": "NVDA_n1_returns_only_jan21",
+      "component": "DecisionsLog",
+      "args": {"ticker": "NVDA", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "N10-post-earnings-follow-through"},
+        {"type": "not_substring", "value": "N09-earnings-beat"},
+        {"type": "not_substring", "value": "N08-pre-earnings"}
+      ]
+    },
+    {
+      "label": "MSFT_n5_exceeds_total_returns_both",
+      "component": "DecisionsLog",
+      "args": {"ticker": "MSFT", "n": 5},
+      "expected_information": [
+        {"type": "substring", "value": "M01-azure-growth-intact"},
+        {"type": "substring", "value": "M02-copilot-adoption-pickup"},
+        {"type": "not_substring", "value": "NVDA"},
+        {"type": "not_substring", "value": "N0"}
+      ]
+    },
+    {
+      "label": "MSFT_n1_returns_only_jan16",
+      "component": "DecisionsLog",
+      "args": {"ticker": "MSFT", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "M02-copilot-adoption-pickup"},
+        {"type": "not_substring", "value": "M01-azure-growth-intact"}
+      ]
+    }
+  ]
+}

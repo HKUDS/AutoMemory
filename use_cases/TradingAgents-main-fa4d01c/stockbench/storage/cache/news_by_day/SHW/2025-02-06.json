@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Consumer Cos Down After Mixed Earnings - Consumer Roundup",
+      "description": "Consumer Cos Down After Mixed Earnings - Consumer Roundup",
+      "published_utc": "2025-02-06T01:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dd585f2e2bd71039e32f7dcf7782d847bce2d082a61aed408f799f80a095e76d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132578314,
+      "datetime": 1738775400
+    }
+  ]
+}

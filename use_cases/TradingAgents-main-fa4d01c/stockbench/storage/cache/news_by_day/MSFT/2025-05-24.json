@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "FTC Ends Legal Challenge to Microsoft Corporation (MSFT)’s Activision Acquisition",
+      "description": "On May 22, 2025, the U.S. Federal Trade Commission (FTC) withdrew its administrative case opposing Microsoft Corporation (NASDAQ:MSFT)’s $69 billion acquisition of Activision Blizzard. The decision arrived nearly two years after the transaction was finalized, turning the acquisition into the largest in the video game industry’s history. Microsoft Corporation (NASDAQ:MSFT), the global technology giant, acquired […]",
+      "published_utc": "2025-05-24T23:06:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31f3080454197b629b957d51ab4701138f3124d877d4511432ea72cd8571e47b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694179,
+      "datetime": 1748099189
+    },
+    {
+      "title": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Chip Stock to Buy Hand Over Fist Right This Instant (Hint: It's Not Nvidia)",
+      "description": "Advanced Micro Devices is experiencing robust growth in its data center business, but investors don't seem to be impressed.",
+      "published_utc": "2025-05-24T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6318500f7a896ec519ccf40089d6290c8805d9755d469371d81dfe3df2ed4565",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694180,
+      "datetime": 1748091600
+    },
+    {
+      "title": "Sam Altman's $150M AI Chip Bet Crashes: Rain AI Faces Sale As OpenAI, Nvidia, And Microsoft Circle The Wreckage",
+      "description": "Rain AI, a San Francisco-based chip startup backed by OpenAI CEO Sam Altman, is exploring a sale after its ambitious $150 million Series B funding round failed to secure investors. Despite early backing from Altman in a $25 million seed round in 2022, Rain AI has struggled to convert technical ambition into scalable business outcomes. The company, which aimed to rival industry giants like Nvidia (NASDAQ:NVDA) with its energy-efficient chips, is now in discussions with potential buyers, including",
+      "published_utc": "2025-05-24T20:31:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2766f0ce5c3aebe974d1e139a43e7c51aed4e6bb97610c854ccbcf011b52f7e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694181,
+      "datetime": 1748089866
+    },
+    {
+      "title": "OpenAI looks to ship 100M AI ‘companion’ devices for everyday life, WSJ reports",
+      "description": "Sam Altman told his staff that Microsoft (MSFT)-backed OpenAI aims to ship 100M AI “companion” devices meant for everyday life, and to release the first by late 2026, The Wall Street Journal’s Berber Jin reports. The AI device, not a phone or glasses, will be pocket-size, screen-free and contextually aware, Jin writes. Sam Altman and Jony Ive envision a “family of devices” integrating hardware and software, according to the report. Published first on TheFly – the ultimate source for real-time, m",
+      "published_utc": "2025-05-24T17:45:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8c71632e14663c0240a67883c18bcd55ab552110f683c7f4d921c272514a4d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694182,
+      "datetime": 1748079951
+    },
+    {
+      "title": "FTC drops case over Microsoft’s $69B deal for Activision, Reuters reports",
+      "description": "The FTC has dropped a case that sought to block Microsoft’s (MSFT) $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest, Reuters reports. FTC Chairman Andrew Ferguson is seeking to use the agency’s resources for cases that fit with President Donald Trump’s agenda, such as a probe related to whether advertisers colluded to spend less on X, according to the report. Published first on TheFly – the ultimate source for real-time, market-moving breaking fi",
+      "published_utc": "2025-05-24T17:45:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54200fca09e0adb9fcc564c51cde29789fa662fc735c0dceb84eacae69a7b480",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694183,
+      "datetime": 1748079931
+    }
+  ]
+}

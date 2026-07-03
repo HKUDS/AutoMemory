@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPM, BAC, and MS: How U.S. Bank Stocks Line Up in the Trump Era",
+      "description": "The banking world feels like a high-stakes poker game. The chips are flying, the players are tense, and the dealer (i.e., the global economy) keeps throwing wild cards. Tariffs are spiking, markets are swinging, and whispers of a recession are growing louder. Yet, JPMorgan Chase (JPM), Bank of America (BAC), and Morgan Stanley (MS) are still at the table, brushing off market anxiety like seasoned risk takers. The three banking giants are navigating a landscape where intense trade wars, interest",
+      "published_utc": "2025-05-21T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a58e76094d641f0dd6f1a4a5862ed695b67b2bfdb2b312d9e91ed6da10d92b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628135,
+      "datetime": 1747767600
+    },
+    {
+      "title": "Jim Cramer on JPMorgan (JPM) Chase’s Analyst Meetings: “It Moves Stocks”",
+      "description": "We recently published a list of 15 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where JPMorgan Chase & Co. (NYSE:JPM) stands against other stocks on Jim Cramer’s radar On Friday’s episode of Mad Money, Jim Cramer reflected on this week’s market performance, with attention to upcoming […]",
+      "published_utc": "2025-05-21T02:53:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dc58e4df70cf7ed392055407b8c66204659acec8f07e94f56e2757f4afb505e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628136,
+      "datetime": 1747767224
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "description": "Financial Services Roundup: Market Talk",
+      "published_utc": "2025-05-21T01:34:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=567587082092dd253a67aaeeb33adabe7a74b6a83258dfe3982fb05825c7ce90",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134632672,
+      "datetime": 1747762440
+    },
+    {
+      "title": "Time to Capitalize on Market Moves With Momentum ETFs?",
+      "description": "Momentum investing is likely to be a winning strategy for those seeking higher returns in a short spell.",
+      "published_utc": "2025-05-20T22:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4340cac186980a238561843e43acbf27174b43e669380e6f95947f4b79ed5ff9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628137,
+      "datetime": 1747752000
+    },
+    {
+      "title": "Stock market, Home Depot earnings, stablecoin bill: 3 Things",
+      "description": "US stock futures (ES=F, NQ=F, YM=F) slip into the red Tuesday morning as Wall Street wonders if the latest market rally has already stalled out. JPMorgan Chase & Co. (JPM) CEO Jamie Dimon warned of an \"extraordinary amount of complacency\" in markets the bank's annual investor day on Monday. Home Depot (HD) saw slightly mixed first quarter earnings results — just barely missing estimates on adjusted earnings per share — while same-store sales declined more than expected. The GENIUS Act — a bill outlining the regulation of stablecoins — has passed a major hurdle in the Senate as it moves to be debated by lawmakers on the floor of the US Senate. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+      "published_utc": "2025-05-20T21:11:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9540ea36856f9f0ec0b28a736b87541a2bb212d9059a46e7d3f8800479e7cc19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609001,
+      "datetime": 1747746680
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:02.034393+00:00",
+    "cache_key": "news_08ddb124899c39727f1c5f0993cc0eeb",
+    "count": 5
+  }
+}

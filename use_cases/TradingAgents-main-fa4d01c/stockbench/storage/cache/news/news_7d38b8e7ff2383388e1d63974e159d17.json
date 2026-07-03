@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "SPLG: S&P 500 Dashboard For April",
+      "description": "Discover insights on S&P 500 sectors, ETFs, and stock valuations. Explore undervalued picks, quality scores, and sector performance trends. Click for more on SPLG.",
+      "published_utc": "2025-03-31T22:44:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7f31ec4ddc3480a6449926fe1a334a4a2858c72b03820fb2cb32ff50f51a37d9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154830395/image_2154830395.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133628985,
+      "datetime": 1743432280
+    },
+    {
+      "title": "CAT's Off-Highway Trucks to Use LiDAR Tech in Quarry & Aggregate Sites",
+      "description": "Caterpillar teams up with Luminar to add its cutting-edge LiDAR technology to heavy machinery to boost automation, safety and efficiency.",
+      "published_utc": "2025-03-31T21:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a23cb4ff27f1e517456eb1263e8751e1dbd0aae1bf655471ce425d4f8cc4f6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627864,
+      "datetime": 1743428100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:22.486780+00:00",
+    "cache_key": "news_7d38b8e7ff2383388e1d63974e159d17",
+    "count": 2
+  }
+}

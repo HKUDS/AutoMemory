@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "title": "NASA May Cancel Boeing's Big $82 Billion Space Opportunity",
+      "description": "The aerospace giant's loss may be other companies' gain, with SpaceX and Blue Origin among the prime potential beneficiaries.",
+      "published_utc": "2025-02-23T20:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e23b87ef8c96d74eb9d3fb22462cdaacbb0b0cf2067228e9782051c4325f449",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/807897/artists-conception-of-a-space-launch-system-launch.jpg",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878306,
+      "datetime": 1740312420
+    },
+    {
+      "title": "Boeing Surprise: More Airplane Deliveries Compared To Airbus",
+      "description": "Boeing & Airbus report rising orders & deliveries in Jan.",
+      "published_utc": "2025-02-23T19:16:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0522d567c6cb8095f423d6600c6cf81f602f9107ae45bfffa87b83f226317c96",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1452681471/image_1452681471.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132858070,
+      "datetime": 1740309374
+    },
+    {
+      "id": "55c771ac61c5790c8b69e3d72b514d01de6c13e96cb3ec34313f8dcd41310650",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "President Trump Has a Rare Chance to Cut the $1 Trillion Defense Budget: Which Stocks Are Most at Risk?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-23T15:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/23/president-trump-has-a-rare-chance-to-cut-the-1-tri/?source=iedfolrf0000001",
+      "tickers": [
+        "TXT",
+        "LMT",
+        "RTX",
+        "BA",
+        "BApA",
+        "KTOS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808401/military-silhouettes-of-tanks-warships-and-military-aircraft.jpg",
+      "description": "President Trump plans to cut the defense budget by 8% annually over the next 5 years, which could impact revenue streams of some defense contractors but benefit others focused on emerging technologies like drones and unmanned vehicles.",
+      "keywords": [
+        "defense budget",
+        "defense stocks",
+        "military spending",
+        "drones",
+        "unmanned vehicles"
+      ],
+      "insights": [
+        {
+          "ticker": "TXT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Textron stock has declined since Trump hinted at defense budget cuts."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests the F-35 fighter jet program may be at risk due to Trump's and Elon Musk's criticism."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests missile technology-focused defense stocks like RTX could be neutral or even positive if budget cuts free up funds for programs like missile defense."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests Boeing, maker of the Navy's MQ-25 Stingray drone, could benefit from a shift towards unmanned aerial vehicles."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests Boeing, maker of the Navy's MQ-25 Stingray drone, could benefit from a shift towards unmanned aerial vehicles."
+        },
+        {
+          "ticker": "KTOS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests investors may have made a mistake selling off drone specialist Kratos Defense, which could benefit from a shift towards unmanned systems."
+        }
+      ]
+    },
+    {
+      "title": "Here's What Boeing's Big News Means for Investors",
+      "description": "There has been some interesting and mixed news flow around  Boeing (NYSE: BA) recently.  A Reuters article cited a White House official who stated that deliveries of the two Boeing VC-25B planes that will serve as the next \"Air Force One\" could be delayed until 2029, after Boeing's previous delays pushed the delivery dates into 2027 or 2028.  A Bloomberg article claimed that key airline customer Emirates now expects that deliveries of the 205 Boeing 777X widebody jets it ordered won't begin to take place any sooner than the second quarter of 2027, and possibly won't start until 2028.",
+      "published_utc": "2025-02-23T00:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=666cd0f62ba0b17056d6397eb7c93a4fa3d3a6c6842b736bad2980cf1e4eb028",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/808110/successful-investor.jpg",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878307,
+      "datetime": 1740241260
+    }
+  ]
+}

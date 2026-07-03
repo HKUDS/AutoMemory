@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Buy Microsoft Stock Now, or Wait for a Pullback?",
+      "description": "The tech stock has soared recently. What should investors do?",
+      "published_utc": "2025-07-20T06:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c955c09c694697d44f5a4e291fccf170c961b4f2748d95a985badf261512f91",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019588,
+      "datetime": 1752963300
+    },
+    {
+      "title": "Microsoft says it will no longer use engineers in China for Department of Defense work",
+      "description": "Following a Pro Publica report that Microsoft was using engineers in China to help maintain cloud computing systems for the U.S. Department of Defense, the company said it’s made changes to ensure this will no longer happen.",
+      "published_utc": "2025-07-20T05:20:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3fb00281c930e76c2378f62554868d4696de8142845a23e349783e0354159da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019589,
+      "datetime": 1752960053
+    },
+    {
+      "title": "\"We Don't Have Millions To Spend On 'Call Her Daddy' Ads, But We Do Have Ourselves\": How Phoebe Gates And Sophia Kianni Built Phia Via A Podcast",
+      "description": "Sophia Kianni and Phoebe Gates met as Stanford roommates who bonded over fashion, climate advocacy, and secondhand shopping. Kianni had already gone viral during the pandemic by founding Climate Cardinals, a nonprofit that translated climate resources into over 100 languages. Gates, daughter of Microsoft co-founder Bill Gates and Melinda French Gates, had interned at British Vogue and was passionate about sustainable fashion, Forbes says. Their original concept was a browser extension that made",
+      "published_utc": "2025-07-20T02:01:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eec1227e2064a3cf4dd5573635135689a02667b68fd4b6c2e09cf40fc52fa3da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019590,
+      "datetime": 1752948100
+    },
+    {
+      "title": "After Plummeting Over $1 Trillion in Value, This Super Artificial Intelligence (AI) Stock Is Mounting a Major Comeback, With Analysts Predicting Gains of Up to 400%",
+      "description": "Earlier this year, Nvidia lost more than $1 trillion in market capitalization. Now, it's the most valuable company in the world.",
+      "published_utc": "2025-07-20T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9505f4405edc0cfe52e13e168d688dda87aec0101bf41fbc89e5fc66d88ee1f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019581,
+      "datetime": 1752940800
+    }
+  ]
+}

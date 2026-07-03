@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock, Goldman Scale Up Tax Trades in $3 Trillion SMA Boom",
+      "description": "(Bloomberg) -- This year’s stock market turbulence has punished ordinary investors. But for the wealthy, it’s opened up fresh opportunities to convert equity swings into tax breaks — fueling a growing Wall Street business that turns volatility into a financial advantage. Most Read from BloombergTrump Said He Fired the National Portrait Gallery Director. She’s Still There.NYC Mayoral Candidates All Agree on Building More Housing. But Where?Senator Calls for Closing Troubled ICE Detention Facility",
+      "published_utc": "2025-06-10T22:19:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecd1e0b373602260e726a678dd112d260da3adeeb7132b6ce3d6fe0963fe23de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135156418,
+      "datetime": 1749565193
+    },
+    {
+      "title": "6 Things to Know About the ‘Neobank’ Chime Before Its IPO",
+      "description": "6 Things to Know About the ‘Neobank’ Chime Before Its IPO",
+      "published_utc": "2025-06-10T18:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=11978a38a26a5a6aac94c2d2462c5bf9805d7d7a69237af5269598722e156532",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135152715,
+      "datetime": 1749551340
+    },
+    {
+      "title": "Should Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF (GSLC) Be on Your Investing Radar?",
+      "description": "Style Box ETF report for GSLC",
+      "published_utc": "2025-06-10T18:20:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=305856fb553ef0ab1b84fba8103355a41dd368e22893c45ad48a40df3b4353d6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135147757,
+      "datetime": 1749550805
+    },
+    {
+      "title": "Morgan Stanley, American Funds Earn Top Rankings From Financial Advisors",
+      "description": "Fees and returns are important to advisors, but so are branding and customer service.",
+      "published_utc": "2025-06-10T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef3e2ad1deeb99e313a0060791a7fe7c2699c38337ae999b5b9cffd8480bb7c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135148950,
+      "datetime": 1749549900
+    },
+    {
+      "title": "Financial Stocks Have Topped the Charts for the Past Year",
+      "description": "The financial services sector has gained 24% in the year to date",
+      "published_utc": "2025-06-10T18:01:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09e4133d119541a3885725dd4a477b044bbc6f787d358c2dbdc4bdcab37e6665",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135147758,
+      "datetime": 1749549710
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:22.170382+00:00",
+    "cache_key": "news_3ef465a0d7f904de99dae3e9554494f1",
+    "count": 5
+  }
+}

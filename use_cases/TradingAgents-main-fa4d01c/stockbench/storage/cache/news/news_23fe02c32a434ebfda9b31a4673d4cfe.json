@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Is Salesforce (CRM) the Best Software Stock to Buy According to Billionaires?",
+      "description": "We recently published a list of 10 Best Software Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other best software stocks to buy according to billionaires. The software industry has firmly established itself as one of the most resilient and […]",
+      "published_utc": "2025-03-18T01:44:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bac0b16ab1bce3f68da2e20e43bfd3a42f13b25131ccf61b7c2b40148573d0cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324693,
+      "datetime": 1742233455
+    },
+    {
+      "title": "Market Sell-Off: 3 Tech Stocks You Can Buy and Hold for the Next Decade",
+      "description": "With the recent market sell-off, a number of high-quality technology stocks are well off their recent highs.  While market corrections aren't fun to experience, they also create opportunities for long-term investors.  Let's look at three tech stocks that investors can buy on this correction and hold for the next decade.",
+      "published_utc": "2025-03-17T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d7cbca632ff5d424b79c4e9ecc6049d58888c85e46a1b433ae94742c9db37d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324694,
+      "datetime": 1742206500
+    },
+    {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q4 2024 Update",
+      "description": "Viking Global's 13F stock portfolio increased from $27.44B to $30.90B, with holdings rising from 83 to 86. Read more to see the portfolio's Q4 2024 review.",
+      "published_utc": "2025-03-17T15:41:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4231b308425ecd6a3e209526e09eef1176bde00a59c04dad85e1b4110c15fc5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/200502280/image_200502280.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133206548,
+      "datetime": 1742197295
+    },
+    {
+      "title": "Salesforce, Inc. (CRM): Among Top Stock Picks From Ken Fisher’s Portfolio",
+      "description": "We recently published a list of Ken Fisher Stock Portfolio: Top 10 Stock Picks. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stock picks from Ken Fisher’s portfolio. Ken Fisher is an American billionaire investment analyst and founder of Fisher Investments, a renowned money management firm […]",
+      "published_utc": "2025-03-17T10:18:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb5887599f8f8a39198dd14d28b134834bab3f3f0f56e338490d21f53850e5ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324696,
+      "datetime": 1742177901
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:56.431081+00:00",
+    "cache_key": "news_23fe02c32a434ebfda9b31a4673d4cfe",
+    "count": 4
+  }
+}

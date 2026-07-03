@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "‘How to Train Your Dragon’ tops box office again, while ‘Elio’ is a flop for Pixar",
+      "description": "‘How to Train Your Dragon’ tops box office again, while ‘Elio’ is a flop for Pixar",
+      "published_utc": "2025-06-22T23:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f75e761043d4a5406af23832d8cb650c647cebf047c1f67a3e95bab317b1d2f2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135475364,
+      "datetime": 1750606200
+    },
+    {
+      "title": "Nvidia: How the chipmaker evolved from a gaming startup to an AI giant",
+      "description": "Here’s a look at Nvidia’s path to where it is today, from creating hardware for the gaming industry to designing the chips that power AI.",
+      "published_utc": "2025-06-22T22:01:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=928afad118e8c8ffa7cf9e825e07c1fe504cbc767ce7fa0b832b92d1bfd5b1db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135465804,
+      "datetime": 1750600900
+    }
+  ]
+}

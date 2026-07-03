@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Pomerantz Law Firm Reminds Investors with Losses on their Investment in UnitedHealth Group Incorporated of Class Action Lawsuit and Upcoming Deadlines - UNH",
+      "description": "NEW YORK, May 12, 2025 /PRNewswire/ -- Pomerantz LLP announces that a class action lawsuit has been filed against UnitedHealth Group Incorporated  .   Such investors are advised to contact Danielle...",
+      "published_utc": "2025-05-12T22:01:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7c5286a56d3a7aa3d7f9a55580fad30d91d72b82026268074cca5c19d7f896fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134390127,
+      "datetime": 1747058466
+    },
+    {
+      "title": "Medicaid Work Requirements Sought to Fund Trump Tax Cuts",
+      "description": "(Bloomberg) -- House Republicans want to impose work requirements on some Medicaid recipients up to 64 years old and impose more costs on some beneficiaries to help pay for President Donald Trump’s planned sweeping tax package.Most Read from BloombergA New Central Park Amenity, Tailored to Its East Harlem NeighborsAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsWhat’s Behind the Rise in Serious Injuries on New York City’s Streets?Is Trump’s Plan to Reopen the Notorious Alcatraz",
+      "published_utc": "2025-05-12T20:55:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f712330b678b533db7dd4b27085cb664ee9b987db805984c33611cd5fb9dd8a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379275,
+      "datetime": 1747054521
+    },
+    {
+      "title": "Trump Declares War On Pharma Drug Pricing, But The Stocks Aren't Tanking - Yet",
+      "description": "Trump aims to cut US drug prices by 30-80% via Executive Order. Check out how pharma companies could be affected and how this may play out in the future.",
+      "published_utc": "2025-05-12T20:30:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3bdfb278b3d923fb7ecd9a0eb0a6ca51ad748153503c12329641a35d2d60c57",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1756275584/image_1756275584.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134386076,
+      "datetime": 1747053003
+    }
+  ]
+}

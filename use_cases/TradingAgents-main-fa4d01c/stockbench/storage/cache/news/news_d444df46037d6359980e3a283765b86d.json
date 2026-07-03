@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Worried About Inflation? Old Republic Offers Protection Through Growth And Dividends",
+      "description": "Old Republicâs strong underwriting, niche focus, and resilient title business offer steady returns and inflation protection. See why ORI stock is a buy.",
+      "published_utc": "2025-07-26T17:14:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c2d530b577f01e4b8d27864d2b7525d09927598d952eee15148574417cb5a2fc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1065985458/image_1065985458.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136094999,
+      "datetime": 1753521249
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:12:27.613052+00:00",
+    "cache_key": "news_d444df46037d6359980e3a283765b86d",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "A Trump plan for TikTok is coming together — and Oracle may play a starring role",
+      "description": "Chinese tech giant ByteDance has roughly two weeks to save its video app TikTok from a renewed US ban — and there are signs cloud computing giant Oracle may play a prominent role.",
+      "published_utc": "2025-03-22T22:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f589150ef8affb0ea92b47ce7084d7833dee374c95909beddaf5a018781fe3ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324224,
+      "datetime": 1742653804
+    },
+    {
+      "title": "Solana’s Memecoin Cabals Take Shine Off Hottest Crypto Frontier",
+      "description": "(Bloomberg) -- Rug pulls. Sniping. Trading “cabals.” The niche world of memecoins on the Solana blockchain is rife with danger for those unfamiliar with the machinations that cause token prices to suddenly surge and then crash.Most Read from BloombergChicago Transit Faces ‘Doomsday Scenario,’ Regional Agency SaysThey Built a Secret Apartment in a Mall. Now the Mall Is Dying.New York Subway Ditches MetroCard After 32 Years for Tap-And-GoLA Faces $1 Billion Budget Hole, Warns of Thousands of Layof",
+      "published_utc": "2025-03-22T21:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fb1d991921417b1cc277583a8391feac1abeaa8b00a4f6ae31db2e97c4bdd9a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324225,
+      "datetime": 1742650200
+    },
+    {
+      "title": "The Retiree's Taxable Dividend February 2025 Portfolio Review - Declining Interest Rates Impact Income Generated",
+      "description": "Discover strategies to optimize income and portfolio growth for FY-2025 with sustainable yields, special dividends, and smart rebalancing. Click here to read.",
+      "published_utc": "2025-03-22T20:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a7bff6b0b23128d18b47d0236348a25df9b82509f5786ca6f7bae9796b2c5f8e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2173183083/image_2173183083.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133319661,
+      "datetime": 1742644800
+    }
+  ]
+}

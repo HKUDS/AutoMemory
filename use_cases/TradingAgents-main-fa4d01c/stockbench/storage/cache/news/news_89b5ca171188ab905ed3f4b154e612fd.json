@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "'Dividends Are Facts' - 2 Stocks That Pay 'No Matter What'",
+      "description": "Dividend stocks offer stability and outperformance. The payouts provide steady income, unlike volatile stock prices. Read more on 2 stocks with strong fundamentals.",
+      "published_utc": "2025-04-26T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1833925b67ee89ec3e0bde67a0cf103ac060f8909799fb7807d580eb302c37b9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/827422252/image_827422252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099330,
+      "datetime": 1745652600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:35:56.781304+00:00",
+    "cache_key": "news_89b5ca171188ab905ed3f4b154e612fd",
+    "count": 1
+  }
+}

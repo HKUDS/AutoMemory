@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase & Co. stock outperforms market despite losses on the day",
+      "description": "JPMorgan Chase & Co. stock outperforms market despite losses on the day",
+      "published_utc": "2025-03-12T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=df6fe7143ae6a7ed2497d00777a6fd8eab2f28e6b2df5dc6bcb4aad0d73e3f07",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133150041,
+      "datetime": 1741710660
+    },
+    {
+      "title": "Wall Street Lunch: Nuclear Energy To Fuel Google's AI Growth",
+      "description": "Alphabet is looking to lower the cost of building new nuclear reactors by deploying smaller ones through its deal with Kairos Power.",
+      "published_utc": "2025-03-11T19:11:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fabb81f24d37d2c80a71c3d60182ace6b77f4fa4402c2bd56637258b169f1c18",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1163973538/image_1163973538.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133135335,
+      "datetime": 1741691460
+    },
+    {
+      "title": "Invesco Charter Fund Q4 2024 Commentary",
+      "description": "",
+      "published_utc": "2025-03-11T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=95c0176b47e7774f20184f6f2a105120cd484938174680e245d9781e4ecb23ba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133135154,
+      "datetime": 1741689000
+    },
+    {
+      "title": "The Dominican Republic: A Safe Investment Destination",
+      "description": "In a global context of high volatility and liquidity restrictions, the Dominican Republic has maintained the lowest country risk indicator in Latin America, standing out as a safe investment...",
+      "published_utc": "2025-03-11T16:10:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c691e4b9907440a23d2a0c98a93a82ec66e519a1f6abdff7fcd2ed8126838ad4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133131792,
+      "datetime": 1741680610
+    },
+    {
+      "title": "JPMorganChase Brings Software Developer Conference DEVUP to India",
+      "description": "JPMorganChase today kicked off DEVUP, its firmwide software engineering conference, for the first time in India. Taking place from March 11-13 at its Global Technology Centre in Hyderabad, DEVUP is a...",
+      "published_utc": "2025-03-11T08:01:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3fe7457c13eb809b5a4b3f6c37959f241e8befe0b4f1fbb03d67ab9de9465aa4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133129385,
+      "datetime": 1741651263
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:40.439663+00:00",
+    "cache_key": "news_c2d710ee2bbbebab5fc263882d492f47",
+    "count": 5
+  }
+}

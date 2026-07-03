@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Dillard's Q1 Earnings Preview: What Mixed Trends Mean for Investors?",
+      "description": "DDS's Q1 results are expected to reflect the benefits of growth opportunities in brick-and-mortar and e-commerce businesses amid a tough retail environment and cautious buying behavior.",
+      "published_utc": "2025-05-13T01:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7248dc8a6f1d5f86fec31d0f56e6bbf560c6fb638e07b6b1fe7ab975e96f076a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408566,
+      "datetime": 1747070160
+    },
+    {
+      "title": "US-China tariff pause may save the year for retailers",
+      "description": "Retailers can sigh a bit of relief as Chinese tariffs are paused, at least until August.",
+      "published_utc": "2025-05-13T00:46:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d488a32d29d3429c3ed85ce893d2fa690bb7efb871e40eb006e682e8d56f38cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408534,
+      "datetime": 1747068412
+    },
+    {
+      "title": "Home Depot Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Home Depot Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-05-13T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e356992a61fbebe787bc3a0e50192e105bce36eb57ffe327b39288ed8e766823",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134402263,
+      "datetime": 1747067460
+    },
+    {
+      "title": "SCHD: There Are Better Flight To Safety Plays Out There",
+      "description": "SCHD has been seeing renewed popularity amid this yearâs turbulent market. Read why SCHD ETF is not quite the safe haven it appears to be.",
+      "published_utc": "2025-05-12T08:39:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6142a0948cebc7e4289153424982ac5bdbbea3166a97fad3e32fcb2cea38a44b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190227175/image_2190227175.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134374697,
+      "datetime": 1747010391
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:31.097236+00:00",
+    "cache_key": "news_48c26c045ec3e788f808ce381987555b",
+    "count": 4
+  }
+}

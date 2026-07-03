@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "IndiGo co-founder sells $1.36 billion of airline's shares, term sheet shows",
+      "description": "SYDNEY -The co-founder of Indian airline IndiGo, Rakesh Gangwal, sold a 5.7% stake in the low-cost carrier through a block deal worth about $1.36 billion, a term sheet showed on Tuesday. ...",
+      "published_utc": "2025-05-27T06:54:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0b4256c2d205c1b14c199d385591e885df0be2cad5d2227b86f657ef88763885",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134705557,
+      "datetime": 1748300049
+    },
+    {
+      "title": "The Campaign Goldman’s CEO Waged to Silence Powerful Internal Critics",
+      "description": "The Campaign Goldman’s CEO Waged to Silence Powerful Internal Critics",
+      "published_utc": "2025-05-27T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3d198f495c4a3f1376dd176e29aa64887c826a4b2bbfe85b414d3d14cc8b5b36",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134712573,
+      "datetime": 1748293200
+    }
+  ]
+}

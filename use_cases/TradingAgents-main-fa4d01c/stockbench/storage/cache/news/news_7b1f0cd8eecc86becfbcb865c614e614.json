@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "What Moved Markets This Week",
+      "description": "",
+      "published_utc": "2025-04-19T15:44:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=08c44b8ae67341e26dd2423b7c1a73e23d1bf8f72ed4602deb28cdbabca685b9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133971140,
+      "datetime": 1745048680
+    },
+    {
+      "title": "3 Never-Sell Dividend Gems I Expect To Easily Beat The Market",
+      "description": "",
+      "published_utc": "2025-04-19T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cee95cee21ff1c609ba83cb2f242bdaa201c757fe41dd7d89b9eb03ac23371e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133971043,
+      "datetime": 1745047800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:33:13.354037+00:00",
+    "cache_key": "news_7b1f0cd8eecc86becfbcb865c614e614",
+    "count": 2
+  }
+}

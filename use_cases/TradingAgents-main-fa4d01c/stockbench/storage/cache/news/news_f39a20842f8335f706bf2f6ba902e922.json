@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Cincinnati Financial's quarterly profit more than doubles on higher premiums, interest income",
+      "description": "Property and casualty insurer Cincinnati Financial reported on Monday that its second-quarter profit more than doubled, reflecting higher premiums and investment income. The results reflect the stability of insurance firms, even as trade tensions disrupt other businesses. As consumers and companies grow accustomed to economic uncertainty, spending on policies has remained steady.",
+      "published_utc": "2025-07-29T04:44:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85b69cfbd11b3abb008f8e3bcb73274bc31c489d0c786b217ba96b2018b8fec1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113603,
+      "datetime": 1753735496
+    },
+    {
+      "title": "Stock Market Today: Dow Dips Even As EU Deal Boosts Boeing; Cathie Wood Loads Up On This Stock Amid 47% Plunge (Live Coverage)",
+      "description": "The Dow Jones index dipped on the stock market today. President Trump spoke on tariffs. Tesla popped after Elon Musk touted an AI deal. Cathie Wood bought a diving stock.",
+      "published_utc": "2025-07-29T03:19:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af57981bc9b3de40a834aa0980ecae19cc6d9bc8a8739f6f421f6026600c0176",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107751,
+      "datetime": 1753730397
+    },
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "description": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-07-29T00:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=20ec0721a8e90954ca7216d13445bd2227d9a655b7472139bdc91449da8a0e32",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136139582,
+      "datetime": 1753721280
+    },
+    {
+      "title": "The Inner Circle acknowledges, Lawrence Steven Cosentino as a Pinnacle Professional Member",
+      "description": "Prominently featured in The Inner Circle, Lawrence Steven Cosentino is acknowledged as a Pinnacle Professional Member Inner Circle of Excellence for his contributions to Quality Assurance and Risk Control.",
+      "published_utc": "2025-07-29T00:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29d4c952144d6418ba37b3150e164538fdc632636bfb519e77dde13eefc40693",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108643,
+      "datetime": 1753721040
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:13:31.493195+00:00",
+    "cache_key": "news_f39a20842f8335f706bf2f6ba902e922",
+    "count": 4
+  }
+}

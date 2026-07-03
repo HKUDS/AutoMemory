@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Bank Trading Desks Are Minting Money From Trump’s Tariff Chaos",
+      "description": "Bank Trading Desks Are Minting Money From Trump’s Tariff Chaos",
+      "published_utc": "2025-04-15T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=54df5f7d5183e1816a513b2be0247057413948a1f7dfe5d0a13a3ab40f5fb896",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133912029,
+      "datetime": 1744664400
+    },
+    {
+      "title": "Goldman Sachs’ Profit Rises 15% and Tops Expectations as Trading Surges",
+      "description": "Goldman Sachs  on Monday reported first-quarter profit that beat analyst expectations as tumultuous markets proved a double-edged sword.  The bank’s trading business boomed, benefiting from market swings, while revenue from investment bankers’ advisory work declined.  Goldman’s stock and bond traders took advantage of volatile markets, which can create opportunities for making big bets.",
+      "published_utc": "2025-04-15T03:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dd0350bb5e1335208caab002bc9901a1e710ae11a2c87da0af9f3346d3157d0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917813,
+      "datetime": 1744658220
+    },
+    {
+      "title": "KBW Analyst on Goldman Sachs' Record Quarter",
+      "description": "Goldman Sachs Group Inc.'s stock traders posted their highest quarterly revenue haul on record, riding a wave of volatility triggered by an emerging global trade war that's roiled financial markets. KBW Analyst of Large Cap Banks David Konrad has more on the story.",
+      "published_utc": "2025-04-15T02:03:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3717d1154b904cbe632d17b6204b8844b1a4705afaf1cee5f88666e1300c8c1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917782,
+      "datetime": 1744653822
+    },
+    {
+      "title": "Oil Falls as Progress on Iran Talks Undercuts Tariff Reprieve",
+      "description": "(Bloomberg) -- Oil slipped as the prospect of looser restrictions on Iranian crude undercut the benefit of the US’s temporary reprieve on some tariffs. Most Read from BloombergThe Secret Formula for Faster TrainsNYC Tourist Helicopter Crashes in Hudson River, Killing SixEven Oslo Has an Air Quality ProblemHow Did This Suburb Figure Out Mass Transit?Lisbon Mayor Wants Companies to Help Fix City’s Housing ShortageWest Texas Intermediate slid below $61 a barrel, and Brent dipped to near $64. While",
+      "published_utc": "2025-04-15T01:37:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=804fe0ac05bfcfa1564d283164ef2096c323058e94c239768cad0e87fc35dfb5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908168,
+      "datetime": 1744652245
+    },
+    {
+      "title": "Goldman Sachs Shares Climb as Bank Posts Best-Ever Trading Quarter",
+      "description": "Goldman Sachs Hits $4.74B Profit, Stock Trading Revenue Soars 27%",
+      "published_utc": "2025-04-15T01:34:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae18c43f69ab535afa2290a7d8f6aadd7ac9ea93323d200b209d92329d036f5a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908318,
+      "datetime": 1744652060
+    }
+  ]
+}

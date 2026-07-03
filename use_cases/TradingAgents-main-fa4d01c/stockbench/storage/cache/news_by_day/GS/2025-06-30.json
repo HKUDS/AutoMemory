@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "What Traders Have Gotten Wrong in 2025",
+      "description": "(Bloomberg) -- Six months since Wall Street laid out its predictions for 2025, world conflicts and President Donald Trump’s turbulent policy making have shattered assumptions about the strength and preeminence of US assets and the economy — leaving market favorites in tatters and conjuring unexpected winners.Most Read from BloombergPhiladelphia Transit System Votes to Cut Service by 45%, Hike FaresSqueezed by Crowds, the Roads of Central Park Are Being ReimaginedSao Paulo Pushes Out Favela Resid",
+      "published_utc": "2025-06-30T03:00:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6e1b03a4d27315bf5af1eed22447911cb536a5a76a6d49dff3f1ae0e7659fc2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135645060,
+      "datetime": 1751223627
+    }
+  ]
+}

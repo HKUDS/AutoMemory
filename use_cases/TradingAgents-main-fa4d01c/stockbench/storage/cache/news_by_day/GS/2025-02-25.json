@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
+      "description": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
+      "published_utc": "2025-02-25T18:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5d8df69001a368cc7564e41276706e3c6f14d30e3f24dff7a91759150b66c268",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881259,
+      "datetime": 1740478860
+    },
+    {
+      "title": "Artisan Value Fund Q4 2024 Commentary",
+      "description": "Following strong gains in Q3, the Russell 1000 Value Index finished slightly lower in Q4, declining -1.98%.",
+      "published_utc": "2025-02-25T14:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3492aefeb004179d79d9eb6b27a892c9c5e906e9648e0a08c0eb7bce1fe638f6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1795167728/image_1795167728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132869550,
+      "datetime": 1740463200
+    }
+  ]
+}

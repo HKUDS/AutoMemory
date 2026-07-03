@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Global Dividend Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-05-15T07:58:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d526f87541281a884c932ed34b6dc5a0d7b026999f6c93abaf32c7dbd653434e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134458311,
+      "datetime": 1747267080
+    },
+    {
+      "title": "Should I Buy UnitedHealth Stock Now That it's Half-Off?",
+      "description": "UnitedHealth has been in serious trouble as of late. With the stock cut in half, is now the time to buy?",
+      "published_utc": "2025-05-15T07:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8ac00d24bfe04e73252989b74494be57711c4f9c5cf87c0dbf7bd38351cdcfe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460761,
+      "datetime": 1747264920
+    },
+    {
+      "title": "UnitedHealth under criminal probe for possible Medicare fraud, WSJ reports",
+      "description": "UnitedHealth said it had not been notified by the DOJ about the \"supposed criminal investigation reported,\" and the company stood by \"the integrity of our Medicare Advantage program.\"  The health insurer has been under pressure for months.",
+      "published_utc": "2025-05-15T07:17:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e1ca89f2fa0b9c017b01c867b412f842bcbaf1e6f501ae6e45159984a170810",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134465678,
+      "datetime": 1747264649
+    },
+    {
+      "title": "UnitedHealth Says Not Been Notified By US DOJ Of \"Supposed Criminal Investigation Reported\" In The WSJ",
+      "description": "UnitedHealth Group Inc: * NOT BEEN NOTIFIED BY DEPARTMENT OF JUSTICE OF SUPPOSEDCRIMINALINVESTIGATION REPORTED, WITHOUT OFFICIAL ATTRIBUTION, IN THE WSJTODAY * WE STAND...",
+      "published_utc": "2025-05-15T06:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=fcbe147624b57bbad5c89138ef7892b04facbdf116211b5e2934586361215727",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134456151,
+      "datetime": 1747260067
+    },
+    {
+      "title": "UnitedHealth sees a longtime bull throw in the towel after stock’s plunge",
+      "description": "UnitedHealth sees a longtime bull throw in the towel after stock’s plunge",
+      "published_utc": "2025-05-15T05:49:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f1494a4467919bc9443ddf099e858345f2dd99c46d2b25ddae195f982dafdffd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134469031,
+      "datetime": 1747259340
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:41.037236+00:00",
+    "cache_key": "news_a508eb62a314001f22c0b2a0c3c995e5",
+    "count": 5
+  }
+}

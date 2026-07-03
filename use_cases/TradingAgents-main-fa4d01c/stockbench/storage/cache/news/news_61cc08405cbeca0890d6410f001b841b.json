@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Ballistic Ventures Welcomes David Schellhase as Entrepreneur in Residence",
+      "description": "Ballistic Ventures, the venture capital firm dedicated exclusively to funding and incubating entrepreneurs and innovations in cybersecurity, today announced that David Schellhase has joined the firm as an Entrepreneur in Residence (EIR).",
+      "published_utc": "2025-07-23T00:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd2792562b5b19dbc1e01807d1e736069dbd64db4d13d87090e45fc5cd6a973e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033440,
+      "datetime": 1753200000
+    },
+    {
+      "title": "Is Alibaba Cloud's Growing Partner Base a Catalyst for Future Returns?",
+      "description": "BABA expands Alibaba Cloud's global partner base, fueling AI adoption and revenue growth amid fierce tech competition.",
+      "published_utc": "2025-07-22T22:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c435c0ed72739bfc01ad461e608fa20f76d4c26799cbbc4e6ce4ede7ba40edf9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033194,
+      "datetime": 1753193220
+    },
+    {
+      "title": "Oakmark U.S. Large Value Strategy Q2 2025 Commentary",
+      "description": "Oakmark U.S. Large Value Strategy's return was 4.48% (net) for the reporting period vs. Russell 1000 Value Index that returned 3.79% for the same period.",
+      "published_utc": "2025-07-22T20:51:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ea6cd02417692e4b25e90b0ded4aa686f29368673279a84286c0ea3aa2e5fd6d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332441104/image_1332441104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136032888,
+      "datetime": 1753188660
+    },
+    {
+      "title": "Oakmark U.S. Concentrated Strategy Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-22T20:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4ee024e79694d768d4512b66aeda71115ba0774c11400d04cd9daf7430d603f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136032760,
+      "datetime": 1753186800
+    },
+    {
+      "title": "Like Minded Labs Appoints Matthew Brooks as Vice President of Sales",
+      "description": "Like Minded Labs, a human-centered technology company redefining how people collaborate and connect with each other, has appointed Matthew Brooks as its new Vice President of Sales. In this role, Brooks will lead the company's commercial operations and drive revenue growth.",
+      "published_utc": "2025-07-22T20:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc01f183c169d7eec61b86f4c676e5c60c6aa13bcee9d6930d8acacf3cd8653e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031052,
+      "datetime": 1753186440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:55.643523+00:00",
+    "cache_key": "news_61cc08405cbeca0890d6410f001b841b",
+    "count": 5
+  }
+}

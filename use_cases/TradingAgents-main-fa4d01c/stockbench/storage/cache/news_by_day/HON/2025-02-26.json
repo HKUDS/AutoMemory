@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "dbd868ee4be78b1aa23be8c685c8b298c2a1b394fc241e9cd1484a1dc8185517",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Aircraft Sensors Market is Forecasted to Reach US$ 2.2 Billion in 2028, Says Stratview Research",
+      "author": "N/A",
+      "published_utc": "2025-02-26T20:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/26/3033282/0/en/Aircraft-Sensors-Market-is-Forecasted-to-Reach-US-2-2-Billion-in-2028-Says-Stratview-Research.html",
+      "tickers": [
+        "TEL",
+        "HON",
+        "SAFRY",
+        "CW",
+        "AME",
+        "TDG",
+        "WWD",
+        "ST"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0b13b3bb-ce12-4d7e-b698-1d1a9fe7f607",
+      "description": "The global aircraft sensors market is projected to grow at a CAGR of 10.5% from 2023 to 2028, reaching a size of $2.2 billion by 2028. The growth is driven by increasing aircraft production, rising fleet size, and advancements in sensor technology.",
+      "keywords": [
+        "aircraft sensors",
+        "market growth",
+        "sensor technology"
+      ],
+      "insights": [
+        {
+          "ticker": "TEL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "TE Connectivity is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "SAFRY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Safran S.A. is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "CW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Curtiss-Wright's Corporation is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "AME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ametek Inc. is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "TDG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Transdigm Group, Inc. (Auxitrol Weston) is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "WWD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Woodward Inc. is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "ST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sensata Technologies Inc. is identified as one of the top players in the aircraft sensors market, indicating its strong position and potential to benefit from the market growth."
+        }
+      ]
+    },
+    {
+      "title": "Honeywell: The Wait Is Over, It Is Time To Buy",
+      "description": "Honeywell's planned business split simplifies valuation, potentially unlocking significant shareholder value. Learn why HON stock is a Buy.",
+      "published_utc": "2025-02-26T13:39:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c290c3bf5cb59ca60433b5d90fb9c5d2597c22be9e2c36e3f5d8502d7acbe671",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303252631/image_1303252631.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132876997,
+      "datetime": 1740548370
+    }
+  ]
+}

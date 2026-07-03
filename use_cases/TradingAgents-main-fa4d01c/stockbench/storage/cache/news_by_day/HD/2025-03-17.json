@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-03-17T21:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06a8d31ce4e2968e654a55844b1dcb109b4c910a5a2f1fafaf57e55da0f6a0cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324614,
+      "datetime": 1742216415
+    }
+  ]
+}

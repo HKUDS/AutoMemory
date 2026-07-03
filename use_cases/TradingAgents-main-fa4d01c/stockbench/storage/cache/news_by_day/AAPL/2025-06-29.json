@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Veteran fund manager who predicted Nvidia stock rally makes surprising move",
+      "description": "Here’s what could be next for Nvidia stock.",
+      "published_utc": "2025-06-29T02:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a9f5e9822e11b8c79d0f3e6715b76685fc0579e969b83c313a871764bcf8f3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623704,
+      "datetime": 1751135580
+    },
+    {
+      "title": "Would Investing $10K in the Magnificent 7 Stocks in 2023 Have Made You Rich?",
+      "description": "In a nutshell, if you had the foresight to invest in the Magnificent 7 stocks at the beginning of 2023, you would have done well. How well? Read on to find out.",
+      "published_utc": "2025-06-29T02:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d5e0471da985e208fcae75155835587e19b03f5b67c6df5116264d3d20188d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610604,
+      "datetime": 1751133660
+    },
+    {
+      "title": "Week in Review:  Meta’s AI recruiting blitz",
+      "description": "Welcome back to Week in Review! Lots of news for you this week, including Travis Kalanick's possible return, CoreWeave's CEO is now worth $10 billion, Apple users aren't happy with how the company is promoting its new F1 movie, and much more.",
+      "published_utc": "2025-06-29T01:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e74cb4326e903c4bdc80b33be55db444c246869f485519b31a39b0bfab4b9cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623707,
+      "datetime": 1751130300
+    }
+  ]
+}

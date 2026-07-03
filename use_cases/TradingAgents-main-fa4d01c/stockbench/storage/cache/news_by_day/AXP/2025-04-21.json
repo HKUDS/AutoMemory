@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Magnificent-7. What Stock Should We Add To Make It The Excellent-8?",
+      "description": "",
+      "published_utc": "2025-04-21T05:53:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7ae577a83fb0f095ca70fc698fe61c0199e3714fe710fd95798ebdbc000ae9a8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134008980,
+      "datetime": 1745186011
+    }
+  ]
+}

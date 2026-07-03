@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "title": "How To Build A $100,000 Dividend Portfolio That Could Yield 10.75% In 15 Years",
+      "description": "The Dividend Income Accelerator Portfolio targets income growth and diversification across sectors and countries. Learn why it offers strong returns and low risk.",
+      "published_utc": "2025-05-27T00:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4bba80b64fd9b458cfb1fb516aebcdd2ca8aadeff95b4f1fe8fcb22ac8432e60",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134702503,
+      "datetime": 1748275200
+    },
+    {
+      "title": "Gilead Sciences' Best Days May Be Ahead - Here's Why",
+      "description": "",
+      "published_utc": "2025-05-26T18:32:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4dc5c6c5ff94597181eb823c3d6e672dd445702ca8558a3b0817a52051744a8c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134700373,
+      "datetime": 1748255556
+    },
+    {
+      "title": "No Rolex For Me - I'm Buying Dividends That Pay For Life",
+      "description": "Dividend growth stocks offer reliable long-term returns. Find out how strong-yielding dividend stocks have consistently outperformed the market with lower risk.",
+      "published_utc": "2025-05-26T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=905cbdc8621173b6cf1ee83bd44a6bef34513918faff0cba72f542059dc35da1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/495185620/image_495185620.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134699373,
+      "datetime": 1748244600
+    },
+    {
+      "id": "d1d47c2acfe442ef555e1aaa22aed0fb5332b1c42e9e0f51e51f3e2f6193c4e3",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "U.S. Ophthalmic Photocoagulator Growth Trends and Forecasts 2025-2032 - Market Expands Amid Surge in Diabetic Retinopathy Cases",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-05-26T14:56:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/26/3088176/28124/en/U-S-Ophthalmic-Photocoagulator-Growth-Trends-and-Forecasts-2025-2032-Market-Expands-Amid-Surge-in-Diabetic-Retinopathy-Cases.html",
+      "tickers": [
+        "ALC",
+        "JNJ",
+        "CZMWY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The U.S. ophthalmic photocoagulator market is expected to grow from $52.62 million in 2025 to $74.3 million by 2032, driven by the increasing prevalence of eye conditions like diabetic retinopathy. Adoption of advanced multicolor laser technologies and the shift towards outpatient treatments are key trends, while reimbursement issues and competition from alternative therapies pose challenges.",
+      "keywords": [
+        "ophthalmic photocoagulator",
+        "diabetic retinopathy",
+        "multicolor laser",
+        "outpatient treatments",
+        "reimbursement",
+        "alternative therapies"
+      ],
+      "insights": [
+        {
+          "ticker": "ALC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alcon Inc. is listed as one of the key players in the market, but no specific details are provided about their performance or outlook."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Johnson & Johnson Vision Care, Inc. is mentioned as a key player, but no specific information is given about their market position or performance."
+        },
+        {
+          "ticker": "CZMWY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Zeiss is listed as one of the companies in the market, but no additional details are provided about their position or contribution."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:33.562437+00:00",
+    "cache_key": "news_777201d937087350d7991f771ef45225",
+    "count": 4
+  }
+}

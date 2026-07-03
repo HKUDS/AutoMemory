@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs CEO says Trump tariffs are part of a plan to 'level the playing field'",
+      "description": "U.S. President Donald Trump's decision to impose tariffs is part of a plan to level the playing field that he views as unfair, but the end result remains uncertain, Goldman Sachs chair and CEO David...",
+      "published_utc": "2025-03-04T03:42:36",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=43f6b147ae48bb1efeb7d0ef96436aab785e23f17bdcec8f6c0797d3f89cd412",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132970104,
+      "datetime": 1741030956
+    }
+  ]
+}

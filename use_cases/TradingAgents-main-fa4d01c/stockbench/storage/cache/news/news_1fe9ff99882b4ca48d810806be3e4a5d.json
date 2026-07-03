@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Alphabet: Cloud Growth Uncertainty And Declining Management Sentiment Concern, But It's Still Attractive",
+      "description": "Alphabet's Q4 results highlight mixed performance: EPS beat, revenue missed. Read here for growth challenges, $75B capex concerns, and shifting market sentiment.",
+      "published_utc": "2025-02-26T03:21:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=371db8bd37926b11cc769cc77821ddee8f8fe3a80410d604d931465cf164cd6e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451451810/image_1451451810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132874045,
+      "datetime": 1740511277
+    },
+    {
+      "title": "Auto & Transport Roundup: Market Talk",
+      "description": "Auto & Transport Roundup: Market Talk",
+      "published_utc": "2025-02-26T01:11:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=b7cdb6fa4c44cbad36b90fa11d151395d99dee22683df7f61c9063f8c009f9e1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881241,
+      "datetime": 1740503460
+    },
+    {
+      "title": "Wall Street Lunch: A Crisis Of Confidence",
+      "description": "The Conference Boardâs February measure of consumer confidence saw the largest drop since August 2021",
+      "published_utc": "2025-02-25T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=53f956a4263a6493502ea3532e6df6657f532464e0cb2eacd3e910a9033e323c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2098517840/image_2098517840.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132872393,
+      "datetime": 1740492000
+    },
+    {
+      "title": "BigCommerce Holdings Q4 Results: A Solid E-Commerce Growth Play (Upgrade)",
+      "description": "",
+      "published_utc": "2025-02-25T19:41:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26e71794e0f6d1bd33efe1c55cd2423851fbbe1f570f4850be9ab1851aa16ea3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132871699,
+      "datetime": 1740483689
+    },
+    {
+      "title": "The 'Magnificent Seven' heads for correction territory",
+      "description": "The 'Magnificent Seven' heads for correction territory",
+      "published_utc": "2025-02-25T19:39:14",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ba14bb8d32943ce0e746c08cdc7fe7f91eb4c60fa631c2fcaeaf9ea71d010690",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881143,
+      "datetime": 1740483554
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:11:50.388041+00:00",
+    "cache_key": "news_1fe9ff99882b4ca48d810806be3e4a5d",
+    "count": 5
+  }
+}

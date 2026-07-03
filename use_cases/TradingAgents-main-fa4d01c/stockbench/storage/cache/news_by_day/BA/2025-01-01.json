@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "The Ultimate Guide to Investing in Boeing for Maximum Returns",
+      "description": "Despite the company's difficulties, it closed the year with a major order from Pegasus Airlines  that reiterates the underlying demand for Boeing airplanes.  To maximize returns for investors, Boeing needs to execute better starting in 2025.  Turkey-based Pegasus Airlines' firm order for 100 Boeing 737 MAX airplanes, with the option to order a further 100, highlights the strength of ongoing demand and Boeing's backlog.",
+      "published_utc": "2025-01-01T22:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3090814d840b83c72fbc107372cc7fad104c4c934bc53bb480135240ff93b429",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802388/best-stocks-to-buy.jpg",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132230807,
+      "datetime": 1735740720
+    },
+    {
+      "title": "The 5 worst-performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "The Dow's biggest losers include companies in the aerospace, biopharma, and sports apparel sectors.",
+      "published_utc": "2025-01-01T20:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf7f3a696e0e56a3cd01b865ec5627e3b730f312cc93b2897bf9e4b8f3312dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226604,
+      "datetime": 1735732980
+    },
+    {
+      "title": "China steps up drive to break Boeing and Airbus grip on plane market",
+      "description": "China is stepping up its push to break the grip of Boeing and Airbus on the aircraft market, as the state-run maker of the country’s first homegrown...",
+      "published_utc": "2025-01-01T10:38:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b269c5d29b82d72df617450280f2a3717ec0e767c3e6c0cc6efb30d53521eef",
+      "category": "company",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132221670,
+      "datetime": 1735699082
+    },
+    {
+      "title": "South Korea crash investigation ramps up as funeral procedures begin",
+      "description": "The investigation into the crash of a South Korea passenger jet gathered pace on Wednesday as bereaved families began to prepare funerals after authorities finished formally identifying the 179...",
+      "published_utc": "2025-01-01T08:16:31",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9a302c003da813d9e34d0f675bfb21e5210c8e5151805211a803f449667b12a7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132222509,
+      "datetime": 1735690591
+    },
+    {
+      "title": "Boeing (BA) Ascends While Market Falls: Some Facts to Note",
+      "description": "Boeing (BA) closed the most recent trading day at $177, moving +0.25% from the previous trading session.",
+      "published_utc": "2025-01-01T06:45:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bfef52a6accce94f8bdbef7445c6986f8e662b3debb7307c6dbeec5943275ee",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/e8e4b0344809eaac6d73c9fd25fd180a",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132221777,
+      "datetime": 1735685121
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce.com (CRM) Exceeds Market Returns: Some Facts to Consider",
+      "description": "The latest trading day saw Salesforce.com (CRM) settling at $278.23, representing a +1.78% change from its previous close.",
+      "published_utc": "2025-05-08T05:45:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de580a9b13fa1e5c2599fc92586c14fd98473d44d2211109d7f57a01212931e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316730,
+      "datetime": 1746654311
+    },
+    {
+      "title": "Salesforce, Inc. (CRM): Among Stocks That Will Make You Rich In 3 Years",
+      "description": "We recently published a list of 10 Stocks That Will Make You Rich In 3 Years. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other stocks that will make you rich in 3 years. Is the Bull Market Over? The stock market has been facing volatility […]",
+      "published_utc": "2025-05-08T04:21:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53100115a83a29f22e56a1655dc1a9689449211b3e4ab22e64c4c4831aa18ebd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316731,
+      "datetime": 1746649304
+    },
+    {
+      "title": "Salesforce Announces Timing of its First Quarter Fiscal 2026 Results Conference Call",
+      "description": "SAN FRANCISCO, May 07, 2025--Salesforce Announces Timing of its First Quarter Fiscal 2026 Results Conference Call",
+      "published_utc": "2025-05-08T04:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a5c8b6fe1b87f36e5da0dd5a8e3d0880b5c178ababc331320fc6510f3ddedc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316732,
+      "datetime": 1746648300
+    },
+    {
+      "title": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "description": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-05-08T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73d82e44ec6a01b70d7138523f6db98acda682d27ea69b99f0a9032e5b303a8f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134329406,
+      "datetime": 1746635520
+    },
+    {
+      "title": "Davidson Downgrades Salesforce, Inc. (CRM) to Sell: Jim Cramer Says ‘It Was Very Funny’",
+      "description": "We recently published an article titled Jim Cramer Says AI Is Back & Discusses These 10 Stocks. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other stocks. In a recent appearance on CNBC’s Squawk on the Street, Jim Cramer commented on how market sentiment towards AI […]",
+      "published_utc": "2025-05-07T23:42:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfacbb658c8740d3a86e6d2c536736452423f5686850de78a3563f1589794a85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316733,
+      "datetime": 1746632522
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:04.670638+00:00",
+    "cache_key": "news_be6afaabe06e8336a52ed7b4eecf1b38",
+    "count": 5
+  }
+}

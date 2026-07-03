@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "What Investors Should Expect From The April CPI Report",
+      "description": "Stay updated on April's CPI report, Fed's rate decisions, and stock trends. Click to learn why investors should consider stocks in advanced vehicle technologies and oil firms.",
+      "published_utc": "2025-05-10T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=59e7a4b4b7feeac2a78f350906dbd520840f61fe2b0c600e2dccc607c25cc1a8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1870152198/image_1870152198.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134365222,
+      "datetime": 1746865800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:37.234030+00:00",
+    "cache_key": "news_da9f3ff055faeef49e29f75ad3c686a4",
+    "count": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Mexican banks face cascading consequences following US sanctions",
+      "description": "Three Mexican financial institutions sanctioned by the Trump administration last week have felt a cascade of economic consequences following the allegations that they helped launder millions of dollars for drug cartels.  The U.S. Treasury Department announced that it was blocking transactions between U.S. banks and Mexican branches of CIBanco and Intercam Banco, as well as the brokering firm Vector Casa de Bolsa.  Mexico's President Claudia Sheinbaum accused U.S. officials of providing no evidence to back their allegations, though the sanctions announcement made specific accusations on how money was transferred through the companies.",
+      "published_utc": "2025-07-02T02:59:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1d7f49bbd8d601483bf78f5ada926135e66b4e107e5c790f4fcb25219ce5513",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697961,
+      "datetime": 1751396399
+    },
+    {
+      "title": "Uplinq Co-Founder Pat Reily Joins Tearsheet Podcast to Discuss AI and SMB Lending",
+      "description": "Leading innovator for AI in financial services explores the role AI is playing in reshaping small business lending for financial institutions TORONTO, ON / ACCESS Newswire / July 1, 2025 / Pat Reily, co-founder ofUplinq , the first global credit decisioning ...",
+      "published_utc": "2025-07-02T01:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02d9ab9b1faa902fc6fb9332305d3a35992d8c25bb7beebc588cc8d8181e3db4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697962,
+      "datetime": 1751392200
+    },
+    {
+      "title": "Attempts to kill DEI have inadvertently made corporate diversity stronger",
+      "description": "C-suites and boardrooms have been forced to articulate why diversity is essential to financial performance.",
+      "published_utc": "2025-07-02T00:26:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a37185153d7fe767e34fba8a69812f60504f4e18147824f90dde134d51e2ecca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697894,
+      "datetime": 1751387214
+    },
+    {
+      "title": "First-Half 2025 Stock Review And Second-Half Picks",
+      "description": "S&P 500 surges in H1 2025; explore AI leaders & ETFs for H2. Click to learn more about stocks to avoid and tips to navigate market volatility.",
+      "published_utc": "2025-07-02T00:15:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25ae8977030b098604071367398a9f6470c502adba3406fc606785f04c4091c7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2156603572/image_2156603572.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697541,
+      "datetime": 1751386538
+    },
+    {
+      "title": "Visa and Mastercard's $253B Nightmare: The Crypto Threat That's Skipping the Swipe",
+      "description": "Stablecoins are coming for their fees--and the card giants are scrambling to stay in the game.",
+      "published_utc": "2025-07-02T00:09:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cce4b9e92a888ea203f561f9621aebb9b42988f9e338d98140f7ff62a90e44d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135693892,
+      "datetime": 1751386192
+    }
+  ]
+}

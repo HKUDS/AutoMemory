@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Best Stock to Buy Right Now: Costco vs. Home Depot",
+      "description": "Costco is humming along, with solid improvement in same-store sales, membership, and new store openings.  Recently, Home Depot has dealt with a demand slowdown, but some factors could start to work in its favor.  When it comes to massive retailers, perhaps two of the businesses that immediately come to mind are Costco Wholesale (NASDAQ: COST) and Home Depot (NYSE: HD).",
+      "published_utc": "2025-06-08T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f00fe4b6ffe4f63c65a3ba758d870041fcfd7c5e6896cfd155fd944cf91dcb15",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114732,
+      "datetime": 1749377700
+    },
+    {
+      "title": "First Eagle Rising Dividend Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-06-08T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3e8dea22ed4ef5d8a4d5b125f9f3f3cd44f6b174deb71df1dcb4cf0bad1c923",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114505,
+      "datetime": 1749375300
+    }
+  ]
+}

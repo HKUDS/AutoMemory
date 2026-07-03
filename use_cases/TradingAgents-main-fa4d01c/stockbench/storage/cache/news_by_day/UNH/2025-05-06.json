@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Providers upset by UnitedHealth’s move to end cyberattack loan, NYT reports",
+      "description": "UnitedHealth (UNH) lent roughly $9B to practices affected by a major cyberattack on its payment systems last year, but medical practices are now suing the health care company, saying it is pressuring them to repay funds, The New York Times’ Benjamin Ryan reports. Odom Health & Wellness, a sports medicine and rehabilitation company, and the Dillman Clinic & Lab, a family medicine practice, are suing United in U.S. District Court in Minneapolis, accusing the corporation of negligence related to th",
+      "published_utc": "2025-05-06T23:56:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82c8798e5bd1fb52b04000d5ab5fe8ddad8690d26f26622321a2eadf99f51594",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290161,
+      "datetime": 1746546962
+    },
+    {
+      "title": "Is UnitedHealth Group Incorporated (UNH) One of the Best Falling Stocks to Buy According to Analysts?",
+      "description": "We recently published a list of 11 Best Falling Stocks to Buy According to Analysts. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best falling stocks to buy according to analysts. Over the past two years, bulls have been in control, pushing US markets […]",
+      "published_utc": "2025-05-06T23:31:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78848c8558bd5ee7e5b401e144c962f08e659f0caa60e3999d24df41a620388a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266283,
+      "datetime": 1746545478
+    },
+    {
+      "title": "Merck, Amgen share losses lead Dow's nearly 275-point drop",
+      "description": "Merck, Amgen share losses lead Dow's nearly 275-point drop",
+      "published_utc": "2025-05-06T22:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=495fcf3805f4833a3e4d02525ff82f3f6cc4393b3480cf518cd7916d3d9674be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270546,
+      "datetime": 1746543480
+    },
+    {
+      "title": "Merck, Amgen share losses contribute to Dow's 375-point drop",
+      "description": "Merck, Amgen share losses contribute to Dow's 375-point drop",
+      "published_utc": "2025-05-06T21:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5300f2e1b5925f69dcee7e28e0d138178f9f13c36832e5eb690b5b2a3a58678c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134270547,
+      "datetime": 1746538800
+    },
+    {
+      "title": "Could The Market Be Wrong About UnitedHealth Group Incorporated (NYSE:UNH) Given Its Attractive Financial Prospects?",
+      "description": "With its stock down 26% over the past three months, it is easy to disregard UnitedHealth Group (NYSE:UNH). However, a...",
+      "published_utc": "2025-05-06T21:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2c1970cc0e7f117ad2f877176e3c470e4c3cae0a9f7ea4d670661863f2a35db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266285,
+      "datetime": 1746536409
+    }
+  ]
+}

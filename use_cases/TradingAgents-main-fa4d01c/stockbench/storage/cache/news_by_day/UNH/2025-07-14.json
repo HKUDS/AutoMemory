@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Trump's spending bill will likely boost costs for insurers, shrink Medicaid coverage",
+      "description": "NEW YORK (Reuters) -President Donald Trump's spending bill is set to raise administrative costs and make managing costs more difficult for insurers like UnitedHealthcare and CVS Health's Aetna that operate Medicaid health plans, experts say.  As a result, those insurers will likely pull back their Medicaid coverage and invest more in existing markets to retain their healthier members, experts said.",
+      "published_utc": "2025-07-14T18:02:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fae0a215e88393c23bdf93a0b18aee5dce8cb5fc5c4ef2886d0f30d26cb16a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135921329,
+      "datetime": 1752487360
+    }
+  ]
+}

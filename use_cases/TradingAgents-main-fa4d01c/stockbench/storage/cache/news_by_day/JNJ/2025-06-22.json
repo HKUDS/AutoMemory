@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Mark Cuban Corrects Elizabeth Warren As She Slams JNJ, PFE For Higher Prices And Zero Taxes On Big Pharma: 'PBMs Corrupt Healthcare'",
+      "description": "A heated debate over the U.S. healthcare system erupted on X, pitting billionaire entrepreneur Mark Cuban against Sen. Elizabeth Warren (D-Mass) over the root causes of soaring drug prices. What Happened: The clash, unfolding as of Friday, has ...",
+      "published_utc": "2025-06-22T02:01:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=229a704315850195cad9b613efdfd2c00caa7a80abc512d9eee73eec7b626963",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135457509,
+      "datetime": 1750528886
+    }
+  ]
+}

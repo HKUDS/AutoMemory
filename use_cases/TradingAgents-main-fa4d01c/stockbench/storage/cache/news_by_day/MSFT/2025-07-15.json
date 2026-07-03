@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nuclear's Moment: Securing US AI Supremacy",
+      "description": "The race for AI supremacy is intrinsically linked to energy production capabilities. If the US wants to win the AI race, it will have to embrace nuclear in a big way.",
+      "published_utc": "2025-07-15T06:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a21a73bbb80f40f891f047fc33ee49b2b07580ae97081953a0e1ec1afac8671f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931873,
+      "datetime": 1752530640
+    },
+    {
+      "title": "Microsoft: Next Stop $600 or Has the Growth Stock Run Up Too Far, Too Fast?",
+      "description": "Microsoft is knocking on the door of a $4 trillion market cap.  Microsoft’s valuation is stretched, but the company is arguably the best it has ever been.  Microsoft (NASDAQ: MSFT) is over $500 a share and up 19.1% year to date at the time of this writing -- handily outperforming the S&P 500's 6.8% gain.",
+      "published_utc": "2025-07-15T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16db92c8c016129117da775a9a3f4b0c2dd4dfcfe96fdcd1a3bdd3d776d2eaeb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936604,
+      "datetime": 1752530400
+    },
+    {
+      "title": "Recovery.com Announces New Advertiser Certification Partnership with LegitScript",
+      "description": "Recovery.com, a leading platform connecting individuals with trusted addiction treatment resources, today announced a new partnership with LegitScript, an independent certification organization. This partnership expands Recovery.com's existing advertiser verification processes to require LegitScript certification for certain advertisers, aligning its standards with those enforced by major platforms, including Google, Meta, and Microsoft.",
+      "published_utc": "2025-07-15T05:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b06e5a7f6424e6191e6e7898686bb3d68bae74c1204569519ed3edb2c4bc6a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936605,
+      "datetime": 1752530100
+    },
+    {
+      "title": "ETFs to Play on AI's Growing Momentum",
+      "description": "NVDA's surge past a $4T market cap spotlights AI's explosive growth and the ETFs riding this tech-fueled momentum.",
+      "published_utc": "2025-07-15T05:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af811e698365a9b7a504e576e1305543549160cf01bf76c93cb6acecbab0c41f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931562,
+      "datetime": 1752527640
+    },
+    {
+      "title": "Microsoft Stock Gets Price-Target Hike On Cloud, AI Businesses",
+      "description": "An analyst raised his price target on Microsoft stock, saying the software giant will benefit as AI drives more cloud infrastructure usage.",
+      "published_utc": "2025-07-15T04:45:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba674d68c1d8240fb8e7810c8a09b021d67be9e38774dd1e73c15ff02350c68d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936608,
+      "datetime": 1752525921
+    }
+  ]
+}

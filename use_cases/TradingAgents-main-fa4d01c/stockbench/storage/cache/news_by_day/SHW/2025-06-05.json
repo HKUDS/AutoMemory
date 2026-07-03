@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Tracking Chase Coleman's Tiger Global Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-06-05T02:16:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8217a9dbdb18eab5bb49b18cb25b3d9333ec2d370d12cfc46ea85bde2345c119",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135024549,
+      "datetime": 1749060979
+    },
+    {
+      "title": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "description": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-05T00:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5dd63917ab3824b45bb0e7b4318bfd002ce77b1582ac6d40957435f2ea606a7c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135019213,
+      "datetime": 1749055320
+    }
+  ]
+}

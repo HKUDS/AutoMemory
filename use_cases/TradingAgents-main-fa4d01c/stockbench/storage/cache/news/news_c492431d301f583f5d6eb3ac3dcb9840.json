@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Best Dividend Aristocrats For May 2025",
+      "description": "Dividend Aristocrats lag behind the S&P 500 in April, but 25 are undervalued with 10% returns potential. Click to read about promising Aristocrats.",
+      "published_utc": "2025-04-30T04:07:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f464ee9b58092cefa3cc5defb8d523f2a517a541963eb0ee91228b354b0a2cd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168720864/image_2168720864.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134137634,
+      "datetime": 1745957242
+    },
+    {
+      "title": "Royal Caribbean outlook, UPS job cuts, Sherwin-Williams earnings",
+      "description": "Yahoo Finance host Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute, including Royal Caribbean's (RCL) latest full-year outlook figures, United Parcel Service (UPS) plans to cut 20,000 jobs in this year as part of a cost-cutting initiative, and Sherwin-Williams (SHW) posting a first quarter earnings beat. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-04-30T01:05:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f160f41f4c12c68986ecdcb3e988ea396f530c6f94e21bb48cf7a2094650295",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141888,
+      "datetime": 1745946358
+    },
+    {
+      "title": "PPG 1Q Earnings, Revenue Fall; Maintains Full-Year Adjusted EPS Outlook",
+      "description": "By Josée Rose PPG reported lower first-quarter results but maintained its adjusted full-year earnings outlook. The Pittsburgh paint and coatings company reported first-quarter net income of...",
+      "published_utc": "2025-04-30T00:47:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9b117e1f3c12986560a855440a8c0e9bac806174a5dd3dfda3f9b57a7e436b60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134136552,
+      "datetime": 1745945233
+    },
+    {
+      "title": "Top Stock Movers Now: Honeywell, Sherwin-Williams, Regeneron, and More",
+      "description": "Major U.S. stock indexes were higher at midday as markets awaited more information about potential White House tariff deals.",
+      "published_utc": "2025-04-29T23:53:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6ddea9c4d6f44545b91618bccb6817c4fbca10f2037e87c9d5747cd3df871b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131214,
+      "datetime": 1745942037
+    },
+    {
+      "title": "Sherwin-Williams Stock Rises as Firm Benefits From Higher Prices, Lower Costs",
+      "description": "Sherwin-Williams exceeded earnings expectations on higher prices and lower costs, although revenue missed estimates.",
+      "published_utc": "2025-04-29T23:04:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbcceae49d652c0f130a3be0d1cef175bea6a226d81af88212792474964680fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131410,
+      "datetime": 1745939060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:42.335056+00:00",
+    "cache_key": "news_c492431d301f583f5d6eb3ac3dcb9840",
+    "count": 5
+  }
+}

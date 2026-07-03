@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Slide Late Afternoon",
+      "description": "Financial stocks were lower in late Tuesday afternoon trading, with the NYSE Financial Index down 0.",
+      "published_utc": "2025-06-18T03:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07872baff485354592e2aab91f4f5361f20174bcbf0056390980c2c7d26e431a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135342008,
+      "datetime": 1750189440
+    },
+    {
+      "title": "You have to spend a year’s salary to really get the most out of the new Chase Sapphire Reserve card",
+      "description": "You have to spend a year’s salary to really get the most out of the new Chase Sapphire Reserve card",
+      "published_utc": "2025-06-18T02:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=10cfa32229392c90bca960492b7e6361fdf86ca2e0cbd49411b151ca498382c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135354280,
+      "datetime": 1750186380
+    },
+    {
+      "title": "Sector Update: Financial Stocks Decline Tuesday Afternoon",
+      "description": "Financial stocks were lower in Tuesday afternoon trading, with the NYSE Financial Index down 0.6% an",
+      "published_utc": "2025-06-18T01:46:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c43249aeddaeb50827a6aaaee628f57a27f64639f2c19ccf73eb15d9f75094f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135337913,
+      "datetime": 1750182379
+    }
+  ]
+}

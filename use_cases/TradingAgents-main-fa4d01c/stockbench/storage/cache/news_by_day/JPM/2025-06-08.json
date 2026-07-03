@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Corporate Cash Levels Are Starting to Fall",
+      "description": "(Bloomberg) -- The latest earnings period brought what might be an early warning sign about credit quality for high-grade US companies. Most Read from BloombergNext Stop: Rancho Cucamonga!Where Public Transit Systems Are Bouncing Back Around the WorldICE Moves to DNA-Test Families Targeted for Deportation with New ContractUS Housing Agency Vulnerable to Fraud After DOGE Cuts, Documents WarnTrump Said He Fired the National Portrait Gallery Director. She’s Still There.Cash levels at blue-chip comp",
+      "published_utc": "2025-06-08T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=836b9324dea6dd861cc6ffb6fdedfa3ab519494a300a7b47171b398b85588b3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114216,
+      "datetime": 1749322800
+    }
+  ]
+}

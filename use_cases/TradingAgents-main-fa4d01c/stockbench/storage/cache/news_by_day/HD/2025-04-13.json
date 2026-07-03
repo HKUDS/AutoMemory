@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "DJD: Dividend And Value In Mega Caps",
+      "description": "Discover how the Invesco DJD ETF compares to popular dividend ETFs with balanced sector exposure, strong value traits, and insights on yields and...",
+      "published_utc": "2025-04-13T22:12:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3814e8985460c1a7daafd9627c1aa365e76705ede58ad1cd79cffc47239cd0a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1854380206/image_1854380206.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901227,
+      "datetime": 1744553567
+    },
+    {
+      "title": "SCHD's Portfolio Shake-Up: What It Means For Investors (Rating Downgrade)",
+      "description": "",
+      "published_utc": "2025-04-13T17:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c263ba91fd2f5f97e2245d7d6f38efdbee4b461a2189aef3eb9e8358f6ec77e0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133900317,
+      "datetime": 1744535700
+    },
+    {
+      "title": "Navigating Today's Volatile Market: A Stress-Free Approach",
+      "description": "The stock market faces volatility and uncertainty due to tariff unpredictability, inflation, and economic fluctuations. Our investment strategy lets you sleep well at night. Read more here.",
+      "published_utc": "2025-04-13T16:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f550b61b366c64e835b4cb13ccf6ac34159c26dff6938ed36481c05c9cfa4ca3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/88621226/image_88621226.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133900017,
+      "datetime": 1744531260
+    }
+  ]
+}

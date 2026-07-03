@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Visa Strengthens Fraud Prevention With New Scam Disruption Initiative",
+      "description": "V's Scam Disruption initiative leverages AI and expertise to prevent fraud, protect consumers and enhance its leadership in secure digital payments.",
+      "published_utc": "2025-03-12T23:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbf7f17e53f48bd9a713208bbe2df0fb3a7a0527239b4aaaebb93cee6d946c88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184299,
+      "datetime": 1741794240
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Visa, Mastercard, American Express and Discover Financial Services",
+      "description": "Visa, Mastercard, American Express and Discover Financial Services are part of the Zacks top Analyst Blog.",
+      "published_utc": "2025-03-12T21:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c0feca98431820ea620d39aacd758c3ef40967ac61f809c8de59691000f7cb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184301,
+      "datetime": 1741786260
+    },
+    {
+      "title": "5 Financial Transaction Stocks in Focus Despite High Tech Expenses",
+      "description": "The Financial Transaction Services industry gains from strong cross-border volumes and active M&A endeavors. However, elevated technology expenses and inflationary pressures remain concerns. Companies like V, MA, FI, FIS and WU are likely to navigate industry storms.",
+      "published_utc": "2025-03-12T21:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddbb8d7631b54c7429cf38f31bcc1d4cdd1f664807e8d552759f70052cb71dc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184302,
+      "datetime": 1741785360
+    },
+    {
+      "title": "Visa (V) Continues to Capitalize on Digital Payments, Expands into High-Growth Areas",
+      "description": "Meridian Funds, managed by ArrowMark Partners, released its “Meridian Hedged Equity Fund” fourth quarter 2024 investor letter. A copy of the letter can be downloaded here. The direction of interest rates, inflation, and the outcome of the US election all had a significant impact on the markets throughout the quarter. In the quarter, the fund […]",
+      "published_utc": "2025-03-12T20:21:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f28323bc51f1b190ff23e114008e2c9b68d291cf1249541c6577178527d6de6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184304,
+      "datetime": 1741782072
+    }
+  ]
+}

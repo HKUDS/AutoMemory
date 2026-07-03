@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Exceeds Market Returns: Some Facts to Consider",
+      "description": "The latest trading day saw Procter & Gamble (PG) settling at $161.03, representing a +1.23% change from its previous close.",
+      "published_utc": "2025-06-24T06:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88b68a056eb6b2ecf5486247f83ca4b983d20bba1d1bdedc14d66d94f43a7ac3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135487704,
+      "datetime": 1750716004
+    },
+    {
+      "title": "Can Procter & Gamble's Pricing Power Keep Earnings Buoyant in 2025?",
+      "description": "PG leverages value-based pricing and innovation to enhance consumer value, profits and market share.",
+      "published_utc": "2025-06-24T01:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1a2f37190861611ce3cf936992cf87849630202ecb97c09574adfa3fd187578",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135489816,
+      "datetime": 1750698120
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-06-24T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=58369ad2f8495e84f026f64a824eeb9ecaf0436edc26055020f6b15f122e5dbe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135498883,
+      "datetime": 1750696260
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing jet returns to US from China, a victim of Trump's tariff war",
+      "description": "A Boeing jet intended for use by a Chinese airline landed back at the planemaker's U.S. production hub on Sunday, a victim of the tit-for-tat bilateral tariffs launched by President Donald Trump in...",
+      "published_utc": "2025-04-20T07:13:48",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c070eb469b565a104b908ac0febb2a2100aa6a5589e7d96e223dcd50a1e8f97d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133976662,
+      "datetime": 1745104428
+    },
+    {
+      "title": "Boeing Investors: Here's What the Latest Big News From Delta Air Lines Means for You",
+      "description": "Delta Air Lines (NYSE: DAL) was the first major company to report results since the tariff war kicked off in early April.  What its management said had significant implications for the aerospace sector, particularly for Boeing (NYSE: BA).  Here's what happened and why it matters so much for Boeing investors.",
+      "published_utc": "2025-04-20T02:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02bf16f8779ea978b3d5ac49b79d7aaa528211eb07e7f9dc844ced36fac77e1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133988459,
+      "datetime": 1745087520
+    },
+    {
+      "title": "Tesla, Alphabet To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b2c2a5f5718be682da2c64513ae55db4091dff2a45ccb87cd78f309460c3b80",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133973236,
+      "datetime": 1745060400
+    },
+    {
+      "title": "Tesla, Google To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4e734181f72f20824c12732588a34fe750eb12ceb4ae4a5574c9745da3ff1fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133973173,
+      "datetime": 1745060400
+    },
+    {
+      "title": "Tesla, Amazon To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9036e6d1a12f4396d163545683e97983a5269f3e7f92fc863f14c5422010d3f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972169,
+      "datetime": 1745060400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:33:31.243596+00:00",
+    "cache_key": "news_cee859d8dabfc6aedb61b76d65c6bdf0",
+    "count": 5
+  }
+}

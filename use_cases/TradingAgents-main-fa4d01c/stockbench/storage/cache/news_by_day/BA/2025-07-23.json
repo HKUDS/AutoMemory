@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Trump strikes tariff deal with Japan, auto stocks surge",
+      "description": "WASHINGTON/TOKYO (Reuters) -U.S. President Donald Trump struck a trade deal with Japan that lowers tariffs on auto imports and spares Tokyo from punishing new levies on other goods in exchange for a $550 billion package of U.S.-bound investment and loans.  It is the most significant of a clutch of agreements that Trump has bagged since unveiling sweeping global levies in April though, like other deals, exact details remained unclear.  As part of the deal, Japan will buy 100 Boeing planes and hike defense spending with U.S. firms to $17 billion annually, from $14 billion, a White House official said.",
+      "published_utc": "2025-07-23T07:23:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f33cce6914dd75a2dcca5e14ba1c2304af04331cc062123294a2c287436b576f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062361,
+      "datetime": 1753226607
+    },
+    {
+      "title": "Boeing sends contract offer to union members",
+      "description": "Local union leaders are recommending that the more than 3,200 members of the International Association of Machinists and Aerospace Workers District 837 approve the contract when they vote on Sunday, the day it expires.  Boeing's defense division is expanding manufacturing facilities in the St. Louis area for the new U.S. Air Force fighter, the F-47, after it won the contract earlier this year.",
+      "published_utc": "2025-07-23T06:53:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fae3616c096852fe18f48f2f7016369f35e107d1100bcffaaf695b57f0513f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136036941,
+      "datetime": 1753224791
+    },
+    {
+      "title": "S&P 500 Notches New Record, Nasdaq Snaps 6-Day Winning Streak",
+      "description": "The S&P 500 advanced to a new high at close on Tuesday, while the Nasdaq Composite registered its fi",
+      "published_utc": "2025-07-23T04:59:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e65ce83373e2209b133772424c2578d112da55b9623ed8493453db8c2d20332",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136036942,
+      "datetime": 1753217988
+    },
+    {
+      "title": "Defense sector earnings: How to play the sector",
+      "description": "Lockheed Martin (LMT) and Northrop Grumman (NOC) both announced second quarter results on Tuesday, but Lockheed is plummeting while Northrop surges. Seaport Research Partners senior analyst for aerospace and defense Richard Safran joins Market Domination with Josh Lipton to explain why he still sees upside for Lockheed, Boeing (BA), and others amid rising defense spending. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-07-23T04:42:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d8a1d31f800b88ef793dcaa4c50adf9338b2d7edb3c2c56f8c780ff0bfa162f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136036943,
+      "datetime": 1753216967
+    },
+    {
+      "title": "Trump Revises Trade Terms With Indonesia, Philippines. Critical Mineral Access Added.",
+      "description": "The tariff rate for imports from Indonesia will remain at the 19% rate announced last week, but the Southeast Asia nation has now agreed to sell critical minerals and purchase  Boeing  planes, farm products, and energy from the U.S., President Donald Trump announced in a post on social media Tuesday afternoon.  As part of the framework for negotiating an agreement on reciprocal trade, Indonesia would purchase $3.2 billion of aircraft, $4.5 billion of soybeans, wheat, cotton, and other agricultural products, and $15 billion of oil and gas from the U.S.  While Trump didn’t specify which critical minerals Indonesia would supply, it is one of the largest producers of nickel—a critical component in electric vehicle batteries—in the world, according to the International Trade Administration.",
+      "published_utc": "2025-07-23T04:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e6f23bf2f40d7f9ac7acfc94936ff3c3e00f056bd5cd8f6a52eae6d9df02bda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136036945,
+      "datetime": 1753215900
+    }
+  ]
+}

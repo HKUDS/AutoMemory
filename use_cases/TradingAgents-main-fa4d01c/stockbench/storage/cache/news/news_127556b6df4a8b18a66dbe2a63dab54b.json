@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "2a66ac4e8eea286044a345ddcb51afee23ef4a3d6908b0a5fb0652feb8723b45",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Europe Data Center Market Growth Trends, and Forecasts Report 2025-2032: Germany and the UK Lead in Investment and Innovation, Sustainable Energy Solutions at the Forefront of Growth",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-05-26T14:49:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/26/3088171/28124/en/Europe-Data-Center-Market-Growth-Trends-and-Forecasts-Report-2025-2032-Germany-and-the-UK-Lead-in-Investment-and-Innovation-Sustainable-Energy-Solutions-at-the-Forefront-of-Growth.html",
+      "tickers": [
+        "IBM",
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The Europe data center market is projected to grow to US$ 189.3 billion by 2032, driven by digital transformation, cloud adoption, AI, and 5G. Key regions like Germany and the UK lead investments, while players like Google and IBM drive advancements. Sustainability is a focus, with renewable energy initiatives shaping the market.",
+      "keywords": [
+        "data center",
+        "Europe",
+        "digital transformation",
+        "cloud computing",
+        "AI",
+        "5G",
+        "sustainability",
+        "renewable energy"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as one of the key players driving advancements in the Europe data center market."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's $33.7 billion investment in Sweden is cited as a testament to the region's digital potential."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:22.230051+00:00",
+    "cache_key": "news_127556b6df4a8b18a66dbe2a63dab54b",
+    "count": 1
+  }
+}

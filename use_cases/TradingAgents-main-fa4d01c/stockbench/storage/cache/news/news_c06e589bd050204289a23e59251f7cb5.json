@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Should Investors Buy Capital One Stock After Crushing Q2 EPS Expectations?",
+      "description": "While Capital One wasn't able to raise its full-year guidance after crushing Q2 EPS expectations, reconfirming its outlook was still a meaningful sign that the acquisition of Discover Financial Services is paying off.",
+      "published_utc": "2025-07-24T07:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc75c46338b735dc8a873d118956eb349fd8eae4b90de5e25eaa0ea86712f061",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062056,
+      "datetime": 1753312860
+    },
+    {
+      "title": "Mastercard credit card benefits: What is the difference between each tier?",
+      "description": "Learn about each Mastercard credit card tier’s benefits and perks.",
+      "published_utc": "2025-07-24T03:40:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07e77b6920a947c10bd6829d5e531b08fa4fff85e55a4183f688ed71c7e5b773",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062111,
+      "datetime": 1753299608
+    },
+    {
+      "title": "Visa opens first Africa data centre in Johannesburg",
+      "description": "JOHANNESBURG (Reuters) -Visa Inc launched its first data centre in Africa on Wednesday, capitalising on the emerging economy's rapid growth in digital payments, company executives said.  Speaking at the launch, Michael Berner, Visa's head of Southern and East Africa, said the facility was part of a 1 billion rand ($57 million) investment in South Africa over the next three years.",
+      "published_utc": "2025-07-23T23:42:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25649bd77130af7f74a35fae5d98deea21d8900c9be96e0e5589c356f70d0844",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062112,
+      "datetime": 1753285373
+    },
+    {
+      "title": "Visa Swiping Toward a Beat: Should You Buy Before Q3 Earnings?",
+      "description": "V is likely positioned for another earnings beat as digital payments surge and volumes rise in fiscal Q3.",
+      "published_utc": "2025-07-23T21:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=948943a565a40f7a9b8cc66e30a7b662f707f5cd71b84f6eeaba999ee25b2a92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062113,
+      "datetime": 1753278480
+    },
+    {
+      "title": "3 Crypto-Centric Stocks to Grab on the Ongoing Bitcoin Rally",
+      "description": "HOOD, V and IBKR are riding the Bitcoin wave, with strong growth prospects and rising earnings estimates for 2025.",
+      "published_utc": "2025-07-23T20:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e512b0b51d5bbb06a8888e7a7198777b3b906c2d0a84a0889b9a1622e5690253",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062114,
+      "datetime": 1753275420
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:11:14.700974+00:00",
+    "cache_key": "news_c06e589bd050204289a23e59251f7cb5",
+    "count": 5
+  }
+}

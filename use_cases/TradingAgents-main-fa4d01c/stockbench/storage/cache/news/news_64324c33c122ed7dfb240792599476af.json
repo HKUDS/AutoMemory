@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corporation (IBM): Jim Cramer Still Likes It — Even After the Selloff",
+      "description": "We recently published a list of Jim Cramer Says The Day “Everything’s A Lot More Expensive” Is Coming & Discusses These 10 Stocks. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other stocks that Jim Cramer recently discussed. In his appearance on CNBC’s Squawk […]",
+      "published_utc": "2025-05-01T04:07:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99c200bc4fbd393acad5d94dc18cc199e3ffe902ddef858481c60d2bd8c19fa8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165994,
+      "datetime": 1746043635
+    },
+    {
+      "title": "RTX, IBM In Race for Contract to Upgrade US Air Traffic Control System, Trump Says",
+      "description": "RTX (RTX) and IBM (IBM) are among a group of four or five companies vying to win a new, multi-billio",
+      "published_utc": "2025-05-01T03:30:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2912dd455faa8da8524a61b34b266d297139e667077df3e5d510cd3a3a8f307",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165995,
+      "datetime": 1746041420
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Expands AI And Cloud Partnerships With New Initiatives",
+      "description": "International Business Machines (NYSE:IBM) announced several developments, including the establishment of a Microsoft Practice and a partnership with Box on April 29, 2025, alongside a dividend increase to $1.68 per share, reflecting its strategic focus on enhancing AI and cloud solutions. Over the last quarter, IBM's stock rose 5% in alignment with broader market trends, which gained 5.2%. Though the company's initiatives were significant, they added to existing upward market movements amid...",
+      "published_utc": "2025-05-01T01:28:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fff17e60992879db5e809b320d7e36ad1fd0ec443d986a1264e0a14198a0a473",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165996,
+      "datetime": 1746034109
+    },
+    {
+      "title": "Trump says IBM, Raytheon may get US contract to modernize air traffic control system",
+      "description": "WASHINGTON (Reuters) -President Donald Trump said on Wednesday that Raytheon Technologies and IBM may get the contract to modernize the U.S. air traffic control system.  \"We have very obsolete equipment for air traffic control,\" Trump during a cabinet meeting at the White House, adding there are five companies who could do the work.  \"We want to put a brand new air traffic control system in.\"",
+      "published_utc": "2025-05-01T00:11:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ca532d0f84d0b2696e269001cd6d11e8c845127d04261c97e837d0ded1c68be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134165997,
+      "datetime": 1746029461
+    },
+    {
+      "title": "Trump says IBM and Raytheon might get contract to modernize air traffic controller system",
+      "description": "President Donald Trump said on Wednesday that the companies Raytheon Technologies and IBM may get the contract to modernize the nation's air traffic controller system. Trump added there...",
+      "published_utc": "2025-04-30T20:11:01",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=49ae382761b90c10b73e9dfc4c67b902c370adc5ccce41bfe167ce0478236e10",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147181,
+      "datetime": 1746015061
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:23.594926+00:00",
+    "cache_key": "news_64324c33c122ed7dfb240792599476af",
+    "count": 5
+  }
+}

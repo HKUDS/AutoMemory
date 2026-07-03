@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Microsoft, Apple Set To Report Earnings As Markets Watch Out For Core PCE Price Index",
+      "description": "Tech giants MSFT, AAPL, META & AMZN are set to report earnings this week. Investors also look out for major economic indicators due on Friday. See an update here.",
+      "published_utc": "2025-04-26T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d78c26e18c68b7705191062a2c17e2e55a608a8277fc05a553bb1186f0311979",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134100310,
+      "datetime": 1745665200
+    },
+    {
+      "title": "Visa Q2 Preview: Short-Term Upside Likely Limited, Long-Term Upside Makes Them A Buy",
+      "description": "",
+      "published_utc": "2025-04-26T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b279afe7190b448a8fbe24239cb62fba521a2d18bdd238482887f80fe8a940a5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099329,
+      "datetime": 1745652600
+    }
+  ]
+}

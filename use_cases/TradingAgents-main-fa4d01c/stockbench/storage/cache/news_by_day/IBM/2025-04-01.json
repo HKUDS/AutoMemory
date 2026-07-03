@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "IBM Soars 32% in the Past Year: Should the Stock Be in Your Portfolio?",
+      "description": "With solid fundamentals and healthy revenue-generating potential driven by robust demand trends, IBM appears to be a solid investment proposition.",
+      "published_utc": "2025-04-01T21:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a4d2580804414d1e2f1f7ae4cd1e53eb040c0ba8f9c25bc6d83d276be3f768b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645063,
+      "datetime": 1743513900
+    },
+    {
+      "title": "Dogs Of The Dow Chase April's 'Safer' Buy",
+      "description": "",
+      "published_utc": "2025-04-01T20:05:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feed9044f044f2d4cb8422e3537e5db1ce869843f4c4367a375d4fa0a997d66",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133646857,
+      "datetime": 1743509147
+    },
+    {
+      "title": "Nvidia, Other Techs Hurt Dow Jones, But These Names Outperformed In Q1",
+      "description": "The overseers of the Dow Jones Industrial Average might regret adding Nvidia to the index.  Since it joined the Dow industrials on Nov. 7, Nvidia stock is down nearly 30%.  Nvidia stock is on track for its worst month since September 2022, when it lost nearly 20%, according to Dow Jones Market Data.",
+      "published_utc": "2025-04-01T19:44:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97e400b522bf5e518c45d955870c9c3706affed7b7ff749600e31a67ec75a38d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645081,
+      "datetime": 1743507861
+    }
+  ]
+}

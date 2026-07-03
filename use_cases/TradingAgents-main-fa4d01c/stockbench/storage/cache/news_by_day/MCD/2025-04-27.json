@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer ‘Loves’ McDonald’s (MCD) Amid ‘Ironclad Story’ and ‘No Tariff’ Impact",
+      "description": "We recently published a list of Top 10 Stocks to Watch Ahead of May. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against other top stocks to watch ahead of May. Aswath Damodaran from NYU Stern School of Business said in a latest interview with CNBC that […]",
+      "published_utc": "2025-04-27T05:07:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a41c619f97a6aedd8ebe449650b6aa09ab9d418df82edc9f94e1a0cd23c6fd3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104535,
+      "datetime": 1745701645
+    },
+    {
+      "title": "McDonald's (NYSE:MCD) Enhances Lobbying Disclosures Following Shareholder Feedback",
+      "description": "McDonald's (NYSE:MCD) recently enhanced its lobbying-related disclosures following shareholder feedback, reinforcing its commitment to investor engagement. A 10% price increase in the last quarter aligns closely with the market's upward momentum. During this period, the announcement of a new share repurchase program contributed additional weight to McDonald's positive performance, providing reassurance amid broader market trends. Although the company reported lower Q4 earnings compared to the...",
+      "published_utc": "2025-04-27T01:18:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6eb145018b7a1b0db989980ec02b834fdd8a5a6cd78b6818e8bbe7ec9f447bdf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104536,
+      "datetime": 1745687935
+    }
+  ]
+}

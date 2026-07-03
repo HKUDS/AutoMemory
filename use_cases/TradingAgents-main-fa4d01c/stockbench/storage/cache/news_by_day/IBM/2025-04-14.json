@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Nike, Apple share gains lead Dow's 515-point rally",
+      "description": "Nike, Apple share gains lead Dow's 515-point rally",
+      "published_utc": "2025-04-14T18:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2c31eb7f586cc851c8986fccbf4c64766bbbe609a4101a94087a0934ade19e52",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133911638,
+      "datetime": 1744627800
+    },
+    {
+      "title": "AIPI: Not Convinced Of The Fund's Strategy",
+      "description": "",
+      "published_utc": "2025-04-14T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7cd69dab1a03726fd5f3c724ae9ecbdcfc451e3938bb5c585768db33b94f00cc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133907110,
+      "datetime": 1744626600
+    },
+    {
+      "title": "Unpacking Q4 Earnings: IBM (NYSE:IBM) In The Context Of Other IT Services & Consulting Stocks",
+      "description": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let’s take a look at how IBM (NYSE:IBM) and the rest of the it services & consulting stocks fared in Q4.",
+      "published_utc": "2025-04-14T17:02:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3840ffa069f854312d3a03939f8569ac9bf66c31d0e16a2354ef8c03ed7924e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908265,
+      "datetime": 1744621371
+    },
+    {
+      "title": "Is International Business Machines Corporation (IBM) the Best Technology Dividend Stock to Invest in?",
+      "description": "We recently published a list of the 13 Best Technology Dividend Stocks to Invest in. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other best technology dividend stocks. There was a time when tech stocks drew investor interest purely for their growth potential. But […]",
+      "published_utc": "2025-04-14T08:53:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=818e28209c4e1b30d45a6b7b194c391e0817b89ad0c19f153acf565076bb23dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908266,
+      "datetime": 1744592006
+    }
+  ]
+}

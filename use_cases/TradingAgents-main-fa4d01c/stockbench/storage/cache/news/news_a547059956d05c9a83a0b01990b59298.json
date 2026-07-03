@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "A Salesforce board member bought $1 million in stock near recent lows. He has a good track record.",
+      "description": "A Salesforce board member bought $1 million in stock near recent lows. He has a good track record.",
+      "published_utc": "2025-04-08T02:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ea9a1481eff7a4cd60a6bd2ed2b39e005cea5ed9869a7088848ac8100023f907",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133772669,
+      "datetime": 1744050000
+    },
+    {
+      "title": "Salesforce Director Bought $1 Million of Stock After Tariff Tumble",
+      "description": "Salesforce Director Bought $1 Million of Stock After Tariff Tumble",
+      "published_utc": "2025-04-08T00:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f78b35b7e01656ba494de69dcf931f815493bc6c27480930cb150c3680b56df8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147187,
+      "datetime": 1744043880
+    },
+    {
+      "title": "Salesforce Inc. (CRM) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Salesforce.com (CRM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-04-07T21:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac0582e264cbcd4028f661d0166e817ed9d622ecf8c1b678579513bb82dc2e5c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741125,
+      "datetime": 1744030814
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:20.189387+00:00",
+    "cache_key": "news_a547059956d05c9a83a0b01990b59298",
+    "count": 3
+  }
+}

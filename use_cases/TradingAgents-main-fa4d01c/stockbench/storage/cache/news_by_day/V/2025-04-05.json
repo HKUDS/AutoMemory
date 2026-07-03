@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (April 2025)",
+      "description": "We discuss five discounted, large-cap dividend stocks for stable growth and income. Read here for our filtering process for top DGI picks.",
+      "published_utc": "2025-04-05T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a6d9de19c396701d482892fc3ddcb18bd7765e7a83f5a8f9f7304c93cdc7cd9a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133725403,
+      "datetime": 1743840000
+    },
+    {
+      "id": "87d8d35ef5d3f7946e72e792c0dfba9c5350b865f563dd561b1999719cdea253",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should Growth Stock Investors Buy Visa Stock Instead of Mastercard Stock?",
+      "author": "N/A",
+      "published_utc": "2025-04-05T08:54:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/05/should-growth-stock-investors-buy-visa-stock-inste/?source=iedfolrf0000001",
+      "tickers": [
+        "MA",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/813764/gettyimages-1330995556.jpg",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance, market analysis, personal finance education, top-rated podcasts, and non-profit foundation.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "education",
+        "podcasts",
+        "non-profit"
+      ],
+      "insights": [
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Mastercard, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Visa, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "94e04cb9f0a3e90c7d6949c3817a3ee652006186692f332563a59f9e19f97ae3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Reasons to Buy American Express Stock Like There's No Tomorrow",
+      "author": "Leo Sun",
+      "published_utc": "2025-04-05T08:40:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/05/5-reasons-to-buy-american-express-stock-like-there/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "V",
+        "MA",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/813383/woman-uses-a-credit-card-on-a-phone.jpg",
+      "description": "American Express is a financial services company that has outperformed the S&P 500 over the past three years. The article highlights five reasons why the stock is a buy, including its strong credit quality, interest rate flexibility, and attractive valuation.",
+      "keywords": [
+        "American Express",
+        "Visa",
+        "Mastercard",
+        "S&P 500",
+        "Berkshire Hathaway"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents five reasons why American Express is a 'screaming buy' right now, including its strong credit quality, interest rate flexibility, attractive valuation, and continued growth potential."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares American Express to Visa and Mastercard, noting that American Express has a different business model that may be more advantageous in the current market environment."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares American Express to Visa and Mastercard, noting that American Express has a different business model that may be more advantageous in the current market environment."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Warren Buffett's Berkshire Hathaway holds a $41 billion stake in American Express, which accounts for 14.3% of Berkshire's portfolio, indicating Buffett's confidence in the company."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Warren Buffett's Berkshire Hathaway holds a $41 billion stake in American Express, which accounts for 14.3% of Berkshire's portfolio, indicating Buffett's confidence in the company."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "United jet suffered navigation parts failure before jolts injured passengers",
+      "description": "Investigators foundthat two key navigation parts failed on a United Airlinesflight from Lagos to Washington on January 24, causingthe plane to lurch suddenly and injure several passengers. ...",
+      "published_utc": "2025-03-19T01:54:49",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4b8e75c085a56eadd8ae72f635cdadbc5222df976445977f71ce0d8f01c4ff86",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133235699,
+      "datetime": 1742320489
+    }
+  ]
+}

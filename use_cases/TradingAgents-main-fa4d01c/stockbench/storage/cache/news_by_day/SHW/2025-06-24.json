@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Carrier Global and 28 More Stocks That Benefit From Heat Waves and Other Extreme Weather",
+      "description": "Carrier Global and 28 More Stocks That Benefit From Heat Waves and Other Extreme Weather",
+      "published_utc": "2025-06-24T15:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=16799295a88978b3107be2c48cbb7fcbb9451eadc03bde05c063e54c94f9ffc8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135500628,
+      "datetime": 1750750800
+    }
+  ]
+}

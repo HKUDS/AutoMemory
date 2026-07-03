@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Top Analyst Reports for Procter & Gamble, Novo Nordisk & PepsiCo",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including The Procter & Gamble Company (PG), Novo Nordisk A/S (NVO) and PepsiCo, Inc. (PEP), as well as two micro-cap stocks Genie Energy Ltd. (GNE) and Canterbury Park Holding Corporation (CPHC).",
+      "published_utc": "2025-04-10T04:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97e165415ac8d55699860aefff04e2d06bd459a2fb76da0fbc209209651d5401",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841332,
+      "datetime": 1744231860
+    },
+    {
+      "title": "Procter & Gamble (NYSE:PG) Announces Increased Dividends for Common and Preferred Shares",
+      "description": "Procter & Gamble (NYSE:PG) recently announced an increase in its quarterly dividends for both common and preferred stocks to $1.0568 per share, indicating a focus on shareholder returns. Despite this positive move, the company's share price declined by 2.29% over the last quarter. During this period, the broader market saw significant volatility primarily due to tariff uncertainties, with major indices like the S&P 500 experiencing a 12% drop. The company's dividend enhancements might have...",
+      "published_utc": "2025-04-10T01:57:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c900ee9a519a9f63570a0f9c91cdeb33ed47c1201680de0538240907bb1e2f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133841333,
+      "datetime": 1744221454
+    },
+    {
+      "title": "Procter & Gamble Co. stock rises Wednesday, still underperforms market",
+      "description": "Procter & Gamble Co. stock rises Wednesday, still underperforms market",
+      "published_utc": "2025-04-10T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b18b013330ad2fb2d7c7dfa090a08714711d12c7d6454e4e67009863487f01af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133845211,
+      "datetime": 1744216260
+    }
+  ]
+}

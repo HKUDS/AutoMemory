@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Company (PG): Among the Best Dividend Monarchs to Invest in Now",
+      "description": "We recently published a list of the 10 Best Dividend Monarchs to Invest in Now. In this article, we are going to take a look at where Procter & Gamble Company (NYSE:PG) stands against other best dividend monarchs. Dividend-focused investors are generally well-acquainted with terms like Dividend Aristocrats and Dividend Kings, but many may not […]",
+      "published_utc": "2025-04-16T23:08:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9de26c7a5bcf3e5a1bd5328a86109de21da39dd3b924222ed2915788254a8fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935632,
+      "datetime": 1744816135
+    },
+    {
+      "title": "XLP: The Winner Of The Market Rotation",
+      "description": "The market is experiencing a sector rotation from consumer discretionary to consumer staples stocks. See why I'm bullish on XLP ETF.",
+      "published_utc": "2025-04-16T14:58:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ebb1a4d5e3f9457a4a13d639660b7ebe1fd24dc9d7304921b9d4b7c359dc489f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/155428355/image_155428355.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133933553,
+      "datetime": 1744786685
+    },
+    {
+      "title": "Meet the Tariff-Resistant Dow Jones Dividend King Stock That Continues to Crush the S&P 500 in 2025",
+      "description": "The maker of Tide detergent and Dawn dish soap, among other products, has increased its dividend for over 50 years -- earning P&G a coveted spot on the list of Dividend Kings.  Here's why P&G could be a rock-solid stock to buy now, especially for investors worried about an escalating trade war.  At first glance, P&G seems like a high-risk company for trade tensions and currency volatility.",
+      "published_utc": "2025-04-16T09:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e270b4392488350b80e360cc5f73ea1008e986be8b43aa77143fd1a55c900386",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133932741,
+      "datetime": 1744767480
+    }
+  ]
+}

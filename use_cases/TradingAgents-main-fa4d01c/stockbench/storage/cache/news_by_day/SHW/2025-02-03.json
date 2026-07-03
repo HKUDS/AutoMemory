@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "PepsiCo, Cisco Among 19 Companies To Announce Dividend Increases In First Half Of February",
+      "description": "Get ready for a busy February with 19 dividend increase announcements expected, including 10%+ increases from Sherwin-Williams and Genuine Parts Co. Click to read.",
+      "published_utc": "2025-02-03T22:10:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8b49f19af62e0e07b6a52d48be0a886bc8a0766ba13b4d866f4324be24dc1a5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1998426556/image_1998426556.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132538752,
+      "datetime": 1738591824
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "items": [
+    {
+      "id": "378dbbd2aa9e6070aa76be010317d50dddebec8f8bd1ede8141e7586d1baf160",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Business Intelligence Market to Reach USD 68.72 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-19T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028896/0/en/Business-Intelligence-Market-to-Reach-USD-68-72-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "MSFT",
+        "CRM",
+        "IBM",
+        "SAP",
+        "ORCL",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSTR",
+        "STRK",
+        "TDC",
+        "DOMO",
+        "HTHIY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Business Intelligence market is projected to grow at a CAGR of 10.09% from 2024 to 2032, driven by the adoption of AI, analytics, and cloud solutions, as well as rising demand for security, real-time insights, and automation.",
+      "keywords": [
+        "Business Intelligence",
+        "AI",
+        "Analytics",
+        "Cloud",
+        "Security",
+        "Real-time insights",
+        "Automation"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a major player in the Business Intelligence market, offering solutions like Power BI and Azure Synapse Analytics, which are contributing to the market's growth."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tableau Software, a Salesforce company, is a leading provider of Business Intelligence solutions like Tableau Desktop and Tableau Server, which are driving the market's expansion."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM offers Cognos Analytics and Watson Studio, which are key Business Intelligence products contributing to the market's growth."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP's BusinessObjects and Analytics Cloud offerings are driving the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's Analytics Cloud and OBIEE solutions are contributing to the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon Web Services' QuickSight and Glue offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's Tableau and Einstein Analytics are key players in the Business Intelligence market."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "STRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "TDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teradata's Vantage and Data Lab offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "DOMO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DOMO's BI and Data Science solutions are driving the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi Vantara's Pentaho and Lumada solutions are part of the Business Intelligence market's expansion."
+        }
+      ]
+    },
+    {
+      "id": "d7f21bd86d3c5bd6dbd6128fe0ec32023ba9dc8211e47baf276dc30223126952",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Blockchain Market Size to Surpass USD 988.83 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-19T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028897/0/en/Blockchain-Market-Size-to-Surpass-USD-988-83-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "ORCL",
+        "IBM",
+        "ACN",
+        "GOOG",
+        "GOOGL",
+        "BABA",
+        "MSFT",
+        "SAP",
+        "HPE",
+        "HPEpC",
+        "TCEHY",
+        "WIT",
+        "INFY",
+        "LUMN",
+        "DOCN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Blockchain market is growing rapidly, driven by the demand for secure transactions, decentralized finance, and better data integrity. Public blockchain dominates the market, while hybrid blockchain sees rapid growth. The market is expected to reach $988.83 billion by 2032, growing at a CAGR of 64.4% from 2024 to 2032.",
+      "keywords": [
+        "blockchain",
+        "decentralized finance",
+        "data integrity",
+        "public blockchain",
+        "hybrid blockchain"
+      ],
+      "insights": [
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is listed as a major player in the blockchain market, offering the Oracle Blockchain Platform and Oracle Intelligent Track and Trace, showcasing their participation in the blockchain ecosystem."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as a major player in the blockchain market, offering the IBM Blockchain Platform and IBM Food Trust, demonstrating their leadership and expertise in the blockchain space."
+        },
+        {
+          "ticker": "ACN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Accenture is mentioned as a major player in the blockchain market, offering the Accenture Blockchain for Contracts and Accenture Blockchain for Supply Chain, showcasing their expertise and solutions in the blockchain domain."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is mentioned as a major player in the blockchain market, offering the Google Cloud Blockchain Node Engine and Google Cloud Confidential Computing, demonstrating their participation and investment in the blockchain technology."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is mentioned as a major player in the blockchain market, offering the Google Cloud Blockchain Node Engine and Google Cloud Confidential Computing, demonstrating their participation and investment in the blockchain technology."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alibaba is listed as a major player in the blockchain market, offering the Alibaba Cloud Blockchain as a Service (BaaS) and AntChain, showcasing their involvement and offerings in the blockchain ecosystem."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as a major player in the blockchain market, offering the Azure Blockchain Workbench and Azure Confidential Ledger, indicating their participation and investment in the growing blockchain technology."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP is mentioned as a major player in the blockchain market, offering the SAP Leonardo Blockchain and SAP Information Collaboration Hub for Life Sciences, indicating their participation and solutions in the blockchain ecosystem."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE is listed as a major player in the blockchain market, offering the HPE Mission Critical Distributed Ledger Technology (DLT) and HPE Blockchain Solutions, showcasing their involvement and offerings in the blockchain space."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE is listed as a major player in the blockchain market, offering the HPE Mission Critical Distributed Ledger Technology (DLT) and HPE Blockchain Solutions, showcasing their involvement and offerings in the blockchain space."
+        },
+        {
+          "ticker": "TCEHY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tencent is mentioned as a major player in the blockchain market, offering the Tencent Cloud Blockchain Service (TBaaS) and Tencent TrustSQL, indicating their participation and investment in the growing blockchain technology."
+        },
+        {
+          "ticker": "WIT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wipro is listed as a major player in the blockchain market, offering the Wipro Blockchain Innovation Lab and Wipro Blockchain Trade Finance, showcasing their involvement and solutions in the blockchain ecosystem."
+        },
+        {
+          "ticker": "INFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Infosys is mentioned as a major player in the blockchain market, offering the Infosys Blockchain PaaS and Infosys Finacle Trade Connect, indicating their participation and offerings in the blockchain space."
+        },
+        {
+          "ticker": "LUMN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lumen Technologies is listed as a major player in the blockchain market, offering the Lumen Edge Bare Metal Blockchain Solutions and Lumen Secure Blockchain Solutions, showcasing their involvement and solutions in the blockchain ecosystem."
+        },
+        {
+          "ticker": "DOCN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DigitalOcean is mentioned as a major player in the blockchain market, offering the DigitalOcean Blockchain Hosting and DigitalOcean Developer Cloud for Web3, indicating their participation and offerings in the blockchain space."
+        }
+      ]
+    },
+    {
+      "id": "ab8bac10aa83092dfd1c20f625c4b14007d33b6c6af199399506b3c4fabc64ff",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Tech Stocks to Buy Hand Over Fist",
+      "author": "Timothy Green",
+      "published_utc": "2025-02-19T11:55:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/2-tech-stocks-to-buy-hand-over-fist/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "T",
+        "TBB",
+        "TpA",
+        "TpC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808108/gettyimages-470286250-1.jpg",
+      "description": "The article discusses two tech stocks, IBM and AT&T, that offer stability and safety for investors. IBM is focused on efficient AI solutions, while AT&T has refocused on its core telecom business, leading to improved financial performance.",
+      "keywords": [
+        "IBM",
+        "AT&T",
+        "AI",
+        "Telecom",
+        "Stability"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IBM's focus on efficient AI solutions, which are well-positioned to benefit from the changing AI industry landscape. IBM's Watsonx AI platform and Granite AI models are seen as a winning strategy that can drive growth and profitability."
+        },
+        {
+          "ticker": "T",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that AT&T has managed to put its past poor decisions behind it, focusing on its core telecom business. The company's strong performance in wireless and fiber internet, along with cost-cutting efforts, are expected to drive consistent free cash flow growth, making the stock an attractive long-term investment."
+        },
+        {
+          "ticker": "TBB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that AT&T has managed to put its past poor decisions behind it, focusing on its core telecom business. The company's strong performance in wireless and fiber internet, along with cost-cutting efforts, are expected to drive consistent free cash flow growth, making the stock an attractive long-term investment."
+        },
+        {
+          "ticker": "TpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that AT&T has managed to put its past poor decisions behind it, focusing on its core telecom business. The company's strong performance in wireless and fiber internet, along with cost-cutting efforts, are expected to drive consistent free cash flow growth, making the stock an attractive long-term investment."
+        },
+        {
+          "ticker": "TpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that AT&T has managed to put its past poor decisions behind it, focusing on its core telecom business. The company's strong performance in wireless and fiber internet, along with cost-cutting efforts, are expected to drive consistent free cash flow growth, making the stock an attractive long-term investment."
+        }
+      ]
+    },
+    {
+      "title": "International Business Machines (IBM) Price Target Increased by 15.79% to 258.10",
+      "description": "",
+      "published_utc": "2025-02-19T09:15:42",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=f9c8cc2fcb484d383855dd4e167514b2be11814930ccfe8d4c5f5478ade7c3af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781247,
+      "datetime": 1739927742
+    }
+  ]
+}

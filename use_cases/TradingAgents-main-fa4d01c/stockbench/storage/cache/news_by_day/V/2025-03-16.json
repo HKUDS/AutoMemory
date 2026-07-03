@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer: “Visa (V) and Mastercard – They Overcome, You See a Rally!”",
+      "description": "We recently published a list of Jim Cramer Discusses These 10 Stocks & Says President Trump Should Be Like Steve McQueen. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other stocks that Jim Cramer discusses. In a recent appearance on CNBC’s Squawk on the Street, Jim […]",
+      "published_utc": "2025-03-16T20:21:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=936ec3459364a0a84b4d958368f9bdc4f740f63165c238476a4847cbab022970",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184284,
+      "datetime": 1742127716
+    },
+    {
+      "title": "3 Monster Stocks to Hold for the Next 10 Years",
+      "description": "Buying and holding these multibagger stocks could fetch you massive returns over the next 10 years.",
+      "published_utc": "2025-03-16T16:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f9ff04cc871e25b15d870d8a8de8902b066aa51a37618e67ca81acddd902b0c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184286,
+      "datetime": 1742113860
+    },
+    {
+      "id": "edae051afb26920559a5b8948f0379a3e9fbffe86846ac9eca1efc9917749b60",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Low-Cost ETFs That Could Be Good Buys Even Amid Rising Costs and Tariffs",
+      "author": "David Jagielski",
+      "published_utc": "2025-03-16T09:04:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/16/2-low-cost-etfs-that-could-be-good-buys-even-amid/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "XLF",
+        "AVGO",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "V",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810498/a-couple-smiling-and-talking-with-an-advisor.jpg",
+      "description": "The article discusses two low-cost ETFs that can be good investments even in the current economic climate - the Vanguard High Dividend Yield Index Fund ETF (VYM) and the Financial Select Sector SPDR Fund (XLF). The Vanguard ETF offers an attractive dividend yield and low fees, while the Financial ETF provides exposure to top financial stocks with a solid yield and low expense ratio.",
+      "keywords": [
+        "ETFs",
+        "investing",
+        "dividends",
+        "fees",
+        "financial stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's attractive dividend yield of 2.6%, which is higher than the S&P 500 average, and its low expense ratio of 0.06%, making it a good long-term investment option."
+        },
+        {
+          "ticker": "XLF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that the ETF provides exposure to top financial stocks like Berkshire Hathaway, Visa, and Bank of America, with a low expense ratio of 0.08% and a solid yield of 1.3%, making it a safe long-term investment."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is mentioned as one of the top three holdings in the Vanguard High Dividend Yield Index Fund ETF, but the article does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in both the Vanguard High Dividend Yield Index Fund ETF and the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa is listed as one of the top 10 holdings in the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is one of the top 10 holdings in the Financial Select Sector SPDR Fund, suggesting the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is mentioned as one of the top 10 holdings in the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is mentioned as one of the top 10 holdings in the Financial Select Sector SPDR Fund, indicating the article views the company positively as a strong financial stock."
+        }
+      ]
+    }
+  ]
+}

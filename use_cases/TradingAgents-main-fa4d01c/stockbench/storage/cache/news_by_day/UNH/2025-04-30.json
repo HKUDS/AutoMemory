@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is UnitedHealth Group (UNH) the Most Profitable Blue Chip Stock to Buy Now?",
+      "description": "We recently published a list of 10 Most Profitable Blue Chip Stocks to Buy Now. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other most profitable blue chip stocks to buy now. Blue chip stocks are large, financially stable companies with strong market presence, consistent profitability, […]",
+      "published_utc": "2025-04-30T04:43:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57a78dfca7c6b51f18a0174cc9a49ac18785da89435ae299f11dc3238edc78fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141606,
+      "datetime": 1745959390
+    },
+    {
+      "title": "UnitedHealth names insider Patrick Conway as Optum CEO",
+      "description": "Conway is currently the chief executive officer of Optum Rx, the company's pharmacy benefit management unit.  Conway joined Optum in February 2020 and has held senior leadership roles at Optum Rx and Optum Health.",
+      "published_utc": "2025-04-30T04:17:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cdcee8a002487078f8b2ce4edaf9af0c9340f35df648f4226604810b768772e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141607,
+      "datetime": 1745957867
+    },
+    {
+      "title": "UnitedHealth names Patrick Conway to lead healthcare services business",
+      "description": "UnitedHealth said on Tuesday Patrick Conway, the chief executive of its pharmacy benefit management unit, will take on the top job at Optum, its health services segment, replacing Heather...",
+      "published_utc": "2025-04-30T00:17:47",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e70b3e16c03af79f6d9dab039068dd2264810709b5a073a7b8486c8b35ea1e7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134136185,
+      "datetime": 1745943467
+    }
+  ]
+}

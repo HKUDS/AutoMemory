@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Ulta Names Steelman CEO, Kimbell to Retire",
+      "description": "Ulta Beauty has named Kecia Steelman as its chief executive, succeeding David Kimbell, as the company aims to reaccelerate its growth amid a global slowdown in the beauty market.",
+      "published_utc": "2025-01-07T06:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44a48173c7ba1ac1290c415aa3598eebcd92c88f216c0ca245b5efaeb93eee12",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292718,
+      "datetime": 1736201460
+    },
+    {
+      "title": "Home Depot Inc. stock rises Monday, still underperforms market",
+      "description": "Home Depot Inc. stock rises Monday, still underperforms market",
+      "published_utc": "2025-01-07T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0fa4bdc694d7d1dfa6e56ecd99ae8245056dc4f3dc1b4257a00d48f536eface1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321870,
+      "datetime": 1736181240
+    }
+  ]
+}

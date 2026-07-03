@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s Snack Wrap is likely driving repeat visits",
+      "description": "New data from Numerator also shows that consumers will eat less at other chains now that the item is available at the Golden Arches",
+      "published_utc": "2025-07-29T01:26:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=257706d6fe087230ab5d618cd3eeacd57721d79c72b37dc664622a517624a588",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108164,
+      "datetime": 1753723588
+    },
+    {
+      "title": "McDonald's Q2 Same-Store Sales Trends Likely to Have Improved, UBS Says",
+      "description": "McDonald's (MCD) same-store sales trends are likely to have improved in Q2 despite lingering macroec",
+      "published_utc": "2025-07-29T00:16:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf7d5f689814054ede43e2fcf85755ae5e8b3fa0108136a0a2e0090e939a9670",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108165,
+      "datetime": 1753719382
+    }
+  ]
+}

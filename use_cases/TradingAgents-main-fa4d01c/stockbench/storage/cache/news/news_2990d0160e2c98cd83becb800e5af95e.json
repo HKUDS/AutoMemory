@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Trump's New Tariffs: Top U.S.-Centric Stocks Amid Escalating Trade Tensions",
+      "description": "Explore US retail and service stocks as a hedge against tariffs and currency headwinds. Click for my top U.S. stock picks in a world of escalating trade tensions.",
+      "published_utc": "2025-02-04T20:52:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe4b3c441f303c40b724b0d4e570680fad12a804a0b0458656d9f4462b8a72c9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2149194584/image_2149194584.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132547809,
+      "datetime": 1738673531
+    },
+    {
+      "title": "11 Dividend Increases Expected In February 2025",
+      "description": "February 2025 will see 11 expected dividend increases from companies with a history of consistent annual dividend hikes. Read more to see a full review.",
+      "published_utc": "2025-02-04T16:29:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bd23e1cf7cefa0b52efb0fefabd01bf1d0ab283c37369dc93f9e6ede5b7129d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445810148/image_1445810148.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543039,
+      "datetime": 1738657775
+    },
+    {
+      "title": "Duopoly Discount: Lowe's Is A Better Deal Than Home Depot For DCA Investors",
+      "description": "Lowe's faces short-term sales challenges but offers strong long-term prospects.",
+      "published_utc": "2025-02-03T18:32:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ef96113c19c0b743a4c0aa84cd4a59e437db315b8303f1b478e82a6b753e4afe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297703501/image_1297703501.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132525509,
+      "datetime": 1738578743
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:50:54.550179+00:00",
+    "cache_key": "news_2990d0160e2c98cd83becb800e5af95e",
+    "count": 3
+  }
+}

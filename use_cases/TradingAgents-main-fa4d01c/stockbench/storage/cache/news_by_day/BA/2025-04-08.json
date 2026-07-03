@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Boeing: Trade War Hurts 737 MAX In China",
+      "description": "Boeing continues to eye 737 MAX deliveries to China, but tariffs pose significant risks. Click here to find out why BA stock is a Buy.",
+      "published_utc": "2025-04-08T00:35:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=49cd969afe39c55df1d3b07910432cc95181fb6695cd1ea9af761252209c2511",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1438906752/image_1438906752.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133748858,
+      "datetime": 1744043759
+    },
+    {
+      "title": "Northrop's Arm Wins Contract to Support E-2C & D Hawkeye Jets",
+      "description": "NOC secures a $24.1 million modification contract to provide continued sustainment and technical support for the E-2C and E-2D aircraft as well as common and unique requirements.",
+      "published_utc": "2025-04-08T00:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63e164bb8189c39a587055cdbae5342c74202bc16b4b3effddee4e4d7aa5200e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741205,
+      "datetime": 1744042080
+    }
+  ]
+}

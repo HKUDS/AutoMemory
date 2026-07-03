@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "These Were the 2 Worst-Performing Stocks in the Dow Jones Industrial Average in May 2025",
+      "description": "The Dow Jones index could have fared better in May if not for these two stocks.",
+      "published_utc": "2025-06-14T20:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ce197511b6bb0196bbc82bbcfb16262fc81a2f4bbb5231418a8cf63b1c0f1c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272149,
+      "datetime": 1749902520
+    },
+    {
+      "title": "Investors Watch Out For Core Retail Sales, With Accenture And Kroger Set To Report Earnings",
+      "description": "Wall Street's major averages opened lower on Thursday. Investors will keep an eye out for tariff announcements in the coming weeks. See more updates here.",
+      "published_utc": "2025-06-14T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f34a699a6efc1ce64888fd8f2e2d363efd376640484137677c98e8bbb8600ffb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271817,
+      "datetime": 1749898800
+    },
+    {
+      "id": "f3a98034dcfe1daa59a29071f9f87b391ba7f3059e31d44ec3f41103784ec1f8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Undervalued Dividend Stocks You Can Buy Now and Hold Long-Term",
+      "author": "N/A",
+      "published_utc": "2025-06-14T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/14/5-undervalued-dividend-stocks-you-can-buy-now-and/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "CVS",
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/821711/person-at-big-city-office-window-with-multiple-screens.jpg",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance, market analysis, personal finance education, top-rated podcasts, and non-profit foundation.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "education",
+        "podcasts",
+        "non-profit"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Visa, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends CVS Health, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends UnitedHealth Group, indicating a positive sentiment towards the company."
+        }
+      ]
+    }
+  ]
+}

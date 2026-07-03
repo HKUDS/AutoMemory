@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Trump names Bowman as Fed's top bank cop, signaling shift in regulatory stance",
+      "description": "Michelle Bowman would likely take oversight of the nation’s largest banks in a new direction as the Trump administration makes it clear it wants to lift constraints on lenders and revisit a regulatory framework put in place after the 2008 financial crisis.",
+      "published_utc": "2025-03-18T05:16:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6b44d68efe79c5199da58c850fec808344cf4d1efa38450fb682ce76eb8689e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324977,
+      "datetime": 1742246176
+    }
+  ]
+}

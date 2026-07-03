@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Boeing No. 2 executive's role narrowed to focus on fixing commercial plane unit",
+      "description": "Boeing commercial airplanes head Stephanie Pope will focus on the recovery of the company's crucial and challenged plane-making unit under a reorganization that ends her role as the company's chief operating officer but leaves her as the No. 2 executive.  Boeing does not plan to fill the chief operating officer position, according to a person familiar with the matter who was not authorized to comment publicly.  Boeing shares were barely changed in after-hours trade.",
+      "published_utc": "2025-02-26T06:49:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18c6fea9c0ccdc0d1fb173a2a24b56a122e84fc1a6eb7ffc954055ef127dbdfb",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/reuters.com/dc5dab2f2903896fae71e5da9238bce3",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878298,
+      "datetime": 1740523785
+    },
+    {
+      "title": "Boeing’s Stephanie Pope, once on CEO shortlist, is out as COO",
+      "description": "Boeing’s Stephanie Pope, once on CEO shortlist, is out as COO",
+      "published_utc": "2025-02-26T04:28:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e79f1665ba16b453e643670764f6db5f6d687790a509fea5fe9bf0d14c096409",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132883459,
+      "datetime": 1740515280
+    },
+    {
+      "title": "Live Q&A: Safety in the Skies—Our Reporters Answered Your Questions",
+      "description": "WSJ subscribers asked our reporters questions about airline safety, the impact of federal layoffs, Boeing, best practices when flying and more.",
+      "published_utc": "2025-02-26T03:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbaaa4ad3bed9adb974226be0232145245e5571ab1007353bba1d4ae58ba0988",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878299,
+      "datetime": 1740511680
+    },
+    {
+      "title": "Boeing says Stephanie Pope is no longer its chief operating officer",
+      "description": "Boeing said on Tuesday Stephanie Pope is no longer the chief operating officer at the planemaker. ...",
+      "published_utc": "2025-02-26T01:49:45",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=25b41dcb395f6552afd62fada2e74c685198ff10338126ecdeb7ecb03ea48a5b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132873678,
+      "datetime": 1740505785
+    },
+    {
+      "title": "Boeing's Stephanie Pope Loses Operating Chief Title",
+      "description": "By Connor Hart Stephanie Pope is no longer serving as Boeing's chief operating officer. She will continue to serve as president and chief executive of Boeing Commercial Airplanes, the jet...",
+      "published_utc": "2025-02-26T01:47:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=90b881f561ff8cf25ad99a022a66bbbd6d222a18b1814d9731949a373452efa0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132873672,
+      "datetime": 1740505627
+    }
+  ]
+}

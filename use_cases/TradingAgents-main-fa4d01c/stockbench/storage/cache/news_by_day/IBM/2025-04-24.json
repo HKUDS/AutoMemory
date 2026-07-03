@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Fall Amid Trump Tariff News; ServiceNow, IBM Lead Earnings Movers Late",
+      "description": "Dow Jones Futures Fall Amid Trump Tariff News; ServiceNow, IBM Lead Earnings Movers Late",
+      "published_utc": "2025-04-24T07:03:03",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=1073253adc49875071c49ab230c7ea7d6c9cb24204d668ba5fd38759e496790a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052682,
+      "datetime": 1745449383
+    },
+    {
+      "title": "Markets in Green 2nd Straight Day; Q1 Reports for CMG, IBM & More",
+      "description": "While Chipotle and Whirlpool missed estimates after the close, IBM, ServiceNow, Texas Instruments and Newmont Resources all posted beats.",
+      "published_utc": "2025-04-24T06:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=891102f36eb7b0a651d63fdbc13abc6bad7115e12d09a03e58ba204854b1e822",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059352,
+      "datetime": 1745448240
+    },
+    {
+      "title": "IBM (IBM) Reports Q1 Earnings: What Key Metrics Have to Say",
+      "description": "While the top- and bottom-line numbers for IBM (IBM) give a sense of how the business performed in the quarter ended March 2025, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+      "published_utc": "2025-04-24T06:30:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=766328d0417d6d3a84e0b923999786cb8b600a529f670b8c024c441cb7e318db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059353,
+      "datetime": 1745447410
+    },
+    {
+      "title": "Is International Business Machines Corporation (IBM) the Best Stock to Buy and Hold for 20 Years?",
+      "description": "We recently published a list of 10 Best Stocks to Buy and Hold for 20 Years. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other best stocks to buy and hold for 20 years. As per Ameriprise Financials, the initial months of 2025 were tough for […]",
+      "published_utc": "2025-04-24T06:22:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=518ea17e631b0a991f42899afb792364376091574484b00ee5799c4f5986ed1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059354,
+      "datetime": 1745446940
+    },
+    {
+      "title": "IBM (IBM) Tops Q1 Earnings and Revenue Estimates",
+      "description": "IBM (IBM) delivered earnings and revenue surprises of 12.68% and 0.66%, respectively, for the quarter ended March 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "published_utc": "2025-04-24T05:15:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75f86d0a56c3cd9aa8ea273a01776184c129657a246c5ad0620b695047a40a33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059355,
+      "datetime": 1745442907
+    }
+  ]
+}

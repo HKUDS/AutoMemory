@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Robinhood, Home Depot, and More Stocks for the ‘Silver Tsunami’ of Older Shoppers",
+      "description": "Winners and losers are set to emerge from the “Silver Tsunami” as an aging population triggers profound changes across multiple sectors,  Mizuho  analysts say.  People who are 75 and older will compose 10% of the total population in the U.S. by 2030, representing a 7.5% increase from current numbers.  Based on Mizuho’s analysis, total spending among this age group could surge from $900 billion in 2023 to $1.6 trillion to 2030.",
+      "published_utc": "2025-03-18T01:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89ff61954455491c4363b5da10fd653e9014b77a755fc212cc4b413eb8994f19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324613,
+      "datetime": 1742232360
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-03-17T21:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06a8d31ce4e2968e654a55844b1dcb109b4c910a5a2f1fafaf57e55da0f6a0cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324614,
+      "datetime": 1742216415
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:40.769655+00:00",
+    "cache_key": "news_35403bcf2c6eef196bd57844a8cefe94",
+    "count": 2
+  }
+}

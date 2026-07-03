@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Analyst Reports for Oracle, IBM & Merck",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Oracle Corp. (ORCL), IBM Corp. (IBM) and Merck & Co., Inc. (MRK), as well as a micro-cap stock Earth Science Tech, Inc. (ETST).",
+      "published_utc": "2025-05-15T06:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=882b4e053434270817ebf1b7ce91068db1d9e80b811b01a1230462102be9f907",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460809,
+      "datetime": 1747262640
+    },
+    {
+      "title": "Is International Business Machines (IBM) the Best Quantum Computing Stock to Invest in Now?",
+      "description": "We recently published a list of 12 Best Quantum Computing Stocks to Invest in Now. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other best quantum computing stocks to invest in now. When AI first gained widespread attention a few years ago, much of […]",
+      "published_utc": "2025-05-15T00:17:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d76ca3cbb867494495bcd87accfa43116fc515b1ced70330e1ebeca5c4d445a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460872,
+      "datetime": 1747239423
+    },
+    {
+      "title": "Finanz Informatik and IBM extend and expand collaboration",
+      "description": "Finanz Informatik (FI) – the central IT service provider and digitalization partner of the Sparkassen-Finanzgruppe – and IBM (NYSE: IBM) have extended their successful collaboration with the signing of a new contract.",
+      "published_utc": "2025-05-14T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e2cfb429d0ee2ddb8df9e42d9174ace7601613851a2d5df3a0e8e96d2b4569d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460873,
+      "datetime": 1747232100
+    },
+    {
+      "title": "How Our High-Yield Portfolio Beats The S&P 500",
+      "description": "It is possible to build a high-yield equity portfolio that outperforms the S&P 500 with dividend-focused strategies. Read more about how to create such a high-yield portfolio.",
+      "published_utc": "2025-05-14T16:04:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bd500286602ea8738ab30e113e7701f6f3468f1ce19b2f09b24c3e8dd4463d6b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1377760359/image_1377760359.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134435285,
+      "datetime": 1747209856
+    },
+    {
+      "title": "You can see AI everywhere — except in Big Tech’s profits",
+      "description": "You can see AI everywhere — except in Big Tech’s profits",
+      "published_utc": "2025-05-14T15:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=35b4863ee15ff30d207af029b91899babce08ae17b396d856c5cd346e57dab03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134437014,
+      "datetime": 1747209000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:43:50.970823+00:00",
+    "cache_key": "news_464f6eb6942dc9ad828f2a9235aab200",
+    "count": 5
+  }
+}

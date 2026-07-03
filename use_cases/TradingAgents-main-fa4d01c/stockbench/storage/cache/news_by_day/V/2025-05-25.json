@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "id": "6ff2385b65ff0af36dfe2b14c35234829b75a58ca838f29e2bbf1de6fccd3c60",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Vanguard Dividend Appreciation ETF the Smartest Investment You Can Make Today?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-05-25T10:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/25/is-vanguard-dividend-appreciation-etf-the-smartest/?source=iedfolrf0000001",
+      "tickers": [
+        "VIG",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "AAPL",
+        "MSFT",
+        "AVGO",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/819141/cash-in-wallet-2023.jpg",
+      "description": "The article discusses the Vanguard Dividend Appreciation ETF (VIG) as a great choice for long-term investors, despite its relatively low yield. The ETF focuses on dividend growth and has a high concentration in technology stocks, providing both income and growth potential.",
+      "keywords": [
+        "Vanguard Dividend Appreciation ETF",
+        "dividend growth",
+        "long-term investing",
+        "income investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VIG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's focus on dividend growth, low expense ratio, and excellent total return potential, making it a great choice for long-term investors who care more about building a future income stream than current yield."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as an advertising partner of Motley Fool Money, but does not provide any further analysis or commentary on the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Apple as one of the top holdings of the Vanguard Dividend Appreciation ETF, indicating its potential for dividend growth and total return."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Microsoft as one of the top holdings of the Vanguard Dividend Appreciation ETF, indicating its potential for dividend growth and total return."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Broadcom as one of the top holdings of the Vanguard Dividend Appreciation ETF, indicating its potential for dividend growth and total return."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Visa as one of the top holdings of the Vanguard Dividend Appreciation ETF, indicating its potential for dividend growth and total return."
+        }
+      ]
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of May 25",
+      "description": "",
+      "published_utc": "2025-05-25T10:00:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6cfeee67c0b989629a091e09a9db5c66c443017f3e7f77411cf38831e1a74e18",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134691666,
+      "datetime": 1748138423
+    }
+  ]
+}

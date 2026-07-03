@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Hartford Growth Opportunities Fund Q1 2025 Commentary",
+      "description": "The Hartford Growth Opportunities Fund (I Share) underperformed the Russell 3000 Growth Index during the quarter. Read more here.",
+      "published_utc": "2025-05-08T06:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b44bd256d23b79f849fd26897a02f4ddcc1e3a0037f6e7edba09e100f587ddc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2054524126/image_2054524126.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134314054,
+      "datetime": 1746658320
+    },
+    {
+      "title": "Is Visa Inc. (V) the Best Dow Stock?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other Dow stocks. The Dow Jones Industrial Average is a benchmark index of the top 30 companies in the US. It represents the strength of the […]",
+      "published_utc": "2025-05-08T02:54:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a14e70d669eef999227251f4067ed6a8489eebc4cc0115ad4fb0e12f3884bbf7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316670,
+      "datetime": 1746644050
+    },
+    {
+      "title": "Visa (NYSE:V) Collaborates With Webull For Rapid Fund Transfers Via Visa Direct",
+      "description": "Visa (NYSE:V) recently announced a collaboration with Webull to integrate Visa Direct on their platform, aiming to facilitate faster financial transactions. This news comes amidst Visa's reported 11% price increase over the past month, a notable movement in conjunction with the company's other strategic announcements, such as its robust share buyback program and a new partnership with Rain for stablecoin settlements. While the market waited on the Fed's interest rate decision, Visa's price...",
+      "published_utc": "2025-05-08T02:12:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50734fa18af47b7e5ad69b7c3231aec1d93d44f2b3051f001569ef7bf0f3b0ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316671,
+      "datetime": 1746641545
+    }
+  ]
+}

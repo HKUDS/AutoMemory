@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Stock Moves -0.14%: What You Should Know",
+      "description": "Home Depot (HD) closed at $388.46 in the latest trading session, marking a -0.14% move from the prior day.",
+      "published_utc": "2025-01-03T06:45:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef48f36439c358da375fc97ec305323152f0fc29fb792cc61eae9ec7904a6e98",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/48ad4265c55e3ba7a1fb9148d6e717d9",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132245062,
+      "datetime": 1735857918
+    },
+    {
+      "title": "Top Research Reports for Berkshire Hathaway, Home Depot & Pfizer",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Berkshire Hathaway Inc. (BRK.B), The Home Depot, Inc. (HD) and Pfizer Inc. (PFE), as well as a micro-cap stock AMREP Corporation (AXR).",
+      "published_utc": "2025-01-03T01:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d844a97d32aff8d223d9d87f1fd25711c051d75ddfc64de863ba370953750d6",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/27b751fe16e94ffd400c2d3bfbbbeec2",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132242203,
+      "datetime": 1735838760
+    },
+    {
+      "title": "Home Depot Inc. stock underperforms Thursday when compared to competitors",
+      "description": "Home Depot Inc. stock underperforms Thursday when compared to competitors",
+      "published_utc": "2025-01-03T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fe50aec29e651b7779138d771042ce1a6ce1bebec4748891618e2413ec06d34c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321872,
+      "datetime": 1735835640
+    },
+    {
+      "title": "4 Retail Home Furnishing Stocks to Watch in a Thriving Industry",
+      "description": "A focus on digitization, e-commerce, product innovation and new marketing techniques is encouraging for the Zacks Retail-Home Furnishing industry players like HD, WSM, FND and TPX.",
+      "published_utc": "2025-01-02T23:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=114a63d46dc7bf9488d40b1415fdc07cab30fdcb82eea9b0a549b9de1536def9",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/4e5cb64741d41a8cc390b997aca02560",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132240642,
+      "datetime": 1735831920
+    },
+    {
+      "title": "3 Market Predictions For January",
+      "description": "What is ahead for investors as we open 2025? We share three market predictions for the month of January. Click here to read the full analysis.",
+      "published_utc": "2025-01-02T23:19:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac1f4102ca834cf02ce43d447cca19a1fb6fbe39788fd06a0c3bee9666ba2b32",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/136802589/image_136802589.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132241946,
+      "datetime": 1735831146
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:00:44.054825+00:00",
+    "cache_key": "news_3d8f8490fe807823ffd2435b8925a1ab",
+    "count": 5
+  }
+}

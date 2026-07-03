@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tariff-Driven Dollar Woes Help Brighten First-Quarter Earnings",
+      "description": "(Bloomberg) -- Tariffs unexpectedly devaluing the US dollar — and in turn boosting corporate earnings — was one of the few bright spots of the first-quarter earnings season in North America. Most Read from BloombergAmerica, ‘Nation of Porches’NJ Transit Train Engineers Strike, Disrupting Travel to NYCNJ Transit Makes Deal With Engineers, Ending Three-Day StrikeContrary to what analysts and executives had expected at the beginning of the year, a Bloomberg gauge of the dollar has collapsed in rece",
+      "published_utc": "2025-05-20T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be5762e94995a93f581ef53fe649117041668eb320f0ce05ed933bcc1ef1867d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608890,
+      "datetime": 1747742400
+    },
+    {
+      "id": "69c7c3ec49ef672e563ba966a3838ad8aca515c33ea38a8c96e8deeefcd5e8e1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Up 97% in 2 years, Is Walmart a No-Brainer Dividend King Stock to Buy Now?",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-05-20T08:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/20/up-big-buy-walmart-dividend-king-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "WMT",
+        "MSFT",
+        "PG",
+        "KO",
+        "PEP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818708/a-person-smiles-while-pushing-a-shopping-cart-through-a-store-and-holding-a-mobile-phone.jpg",
+      "description": "Walmart's business model has improved, but it faces challenges from tariffs and slowing growth. While a Dividend King, its valuation is high, and investors may find better opportunities in other stocks.",
+      "keywords": [
+        "Walmart",
+        "Dividend King",
+        "Tariffs",
+        "Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Walmart's business model has improved, but it faces headwinds from tariffs and slowing growth, and its valuation is high compared to historical levels and other Dividend Kings."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has a less expensive valuation than Walmart, is still growing at a solid rate, is tariff-resistant, and has a 0.7% yield, making it a better investment option than Walmart."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Procter & Gamble, a Dividend King, yields 2.6%, which is higher than Walmart's 1% yield."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola, a Dividend King, yields 2.8%, which is higher than Walmart's 1% yield."
+        },
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "PepsiCo, a Dividend King, yields an all-time high of 4.4%, which is significantly higher than Walmart's 1% yield."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:12.290150+00:00",
+    "cache_key": "news_07aa3303b4aa971ba8c2faf174e6f5bc",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Down 48%, Should You Buy the Dip on Rigetti Computing?",
+      "description": "Rigetti Computing shares are down big in 2025. Should investors see opportunity or warning signs blinking around this quantum computing stock?",
+      "published_utc": "2025-06-29T01:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5906e344c92d5dbad2629f8bc1e390e18839f9cb5fc3239016d409cacbb9a8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610607,
+      "datetime": 1751130660
+    }
+  ]
+}

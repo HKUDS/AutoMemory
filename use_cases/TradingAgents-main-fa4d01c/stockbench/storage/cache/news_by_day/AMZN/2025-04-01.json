@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Amazon (AMZN) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "In the closing of the recent trading day, Amazon (AMZN) stood at $190.26, denoting a -1.28% change from the preceding trading day.",
+      "published_utc": "2025-04-01T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4da2a6e6dd082a30d906f3f5230e5d51496e5248207bfe7e428cd255dbf8367c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632890,
+      "datetime": 1743457517
+    },
+    {
+      "title": "Amazon, Nvidia, Microsoft, Tesla under pressure amid sell-off",
+      "description": "Several \"Magnificent Seven\" stocks are facing pressure, including Amazon (AMZN), Nvidia (NVDA), Microsoft (MSFT), and Tesla (TSLA), amid a sell-off in the market. Market Domination host Josh Lipton and Wall Street Horizon head of corporate event research Christine Short discuss the stock moves and shifts in investor sentiment. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-01T04:16:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6f694bf1971a57a35de2267c91d3f34f98609a4ddd75ecb60f16ce19179e194",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632868,
+      "datetime": 1743452164
+    },
+    {
+      "title": "New GBP20 million funding to help launch drones and flying taxis",
+      "description": "More than GBP20 million of new funding will help make the use of commercial drones and even flying taxi services a reality, the UK government has said.Ministers said the money will be used to help...",
+      "published_utc": "2025-04-01T03:58:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9dbbf5a1d4e7f26c75304b1a806f2780e84f94c1d30e2dc9c286015095346bd1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133630180,
+      "datetime": 1743451097
+    },
+    {
+      "title": "Amazon's Secret Weapon? This AI Agent Just Crushed OpenAI in Key Benchmarks",
+      "description": "Nova Act is fast, cheap, and already powering the next-gen Alexa. Amazon's AGI ambitions just got real.",
+      "published_utc": "2025-04-01T03:24:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83a094a4cb2a55bd32904e98cfbdd853f7e66acf2c50a434f7d6c8a505486c0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632892,
+      "datetime": 1743449048
+    },
+    {
+      "title": "Here’s what’s worth streaming in April 2025 on Netflix, Max, Hulu, Disney+ and more",
+      "description": "Here’s what’s worth streaming in April 2025 on Netflix, Max, Hulu, Disney+ and more",
+      "published_utc": "2025-04-01T02:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c82df666f3ab7ff39feef3ba39aca58ad8c958997436cf03523594c62a2c1578",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133635300,
+      "datetime": 1743444600
+    }
+  ]
+}

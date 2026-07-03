@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Street Calls of the Week",
+      "description": "Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.",
+      "published_utc": "2025-04-20T18:43:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5478b76e686b1a812736c308450a712f5bddf4f7cd340ca341b320ecd59e0766",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133981959,
+      "datetime": 1745145800
+    },
+    {
+      "title": "2 Semiconductor Stocks That Could Help Make You a Fortune",
+      "description": "Trade tensions have pushed some promising chip stocks to bargain prices. These two chipmakers could deliver impressive returns for patient investors.",
+      "published_utc": "2025-04-20T18:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=546e84e5ec05dd20da5182dbbbf42e4ece3cc9c4c13d186d88a0d8cbeab446a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133997864,
+      "datetime": 1745145420
+    },
+    {
+      "title": "Invest In 6 Funds For A Potential $5,000 Monthly Income",
+      "description": "",
+      "published_utc": "2025-04-20T17:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19d78225aaa1a3a8abc48990b856c01e944b0efbb03b9d6b9bc1bc40bef81d64",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133978193,
+      "datetime": 1745141400
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Boeing Secures Strategic Satellite Deal, Cementing Role in U.S. Space Defense Infrastructure",
+      "description": "Boeing (NYSE:BA) is one of the best space stocks to buy according to hedge funds. On July 3, 2025, Boeing secured a significant $2.8 billion contract with the U.S. Space Force to develop and produce the first two, and potentially up to four, Evolved Strategic Satellite Communications (ESS) vehicles, integral to the nation’s next-generation nuclear command, […]",
+      "published_utc": "2025-07-19T12:55:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3afaf69bdf65a79e6b24787b2a3754724145cca992223cf4591a567eb7e6c86",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136011932,
+      "datetime": 1752900952
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:09:27.167582+00:00",
+    "cache_key": "news_c9a854c37fd9c3412787bc32922598cc",
+    "count": 1
+  }
+}

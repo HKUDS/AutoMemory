@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "AmEx Stock Trails S&P 500, Declines 21% YTD: Time to Buy or Cash Out?",
+      "description": "AXP's clients typically have higher incomes and strong credit scores, which helps minimize credit risks.",
+      "published_utc": "2025-04-07T23:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d2419263607916f6ee4d7488e456e47aabe8b1134032df010756d1c09605e1f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741090,
+      "datetime": 1744041180
+    },
+    {
+      "title": "IX or AXP: Which Is the Better Value Stock Right Now?",
+      "description": "IX vs. AXP: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-04-07T23:40:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98cc65b5777ee884ea6161db5daee17ea4af0160518de8f3b53f9655c680c0c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741174,
+      "datetime": 1744040406
+    },
+    {
+      "title": "1 Top Warren Buffett Stock Down 28% That Could Double Your Money in 5 Years",
+      "description": "In the past 40 years, Berkshire Hathaway has compounded shareholder capital to the tune of 40,000%.  The conglomerate has done this under the direction of Warren Buffett, arguably the greatest capital allocator ever who knows how to pick winners.  There's one top holding for Berkshire, representing 13.8% of the portfolio, that might interest average investors right now: American Express (NYSE: AXP).",
+      "published_utc": "2025-04-07T20:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a3e6713b41b65a3d87d60bb8ea7f0706b9e164156080848674ac022d9328465",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738812,
+      "datetime": 1744028100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:14.514569+00:00",
+    "cache_key": "news_0ccf26e97a5441424500abba9d3522c4",
+    "count": 3
+  }
+}

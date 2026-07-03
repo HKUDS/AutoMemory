@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "The Procter & Gamble Company (PG): Jim Cramer’s Defensive Darling – Will P&G Lead the Flight to Safety?",
+      "description": "We recently published a list of Jim Cramer Reveals What’s Next After Tariffs & Discusses These 10 Stocks. In this article, we are going to take a look at where The Procter & Gamble Company (NYSE:PG) stands against other stocks that Jim Cramer discusses. In his appearance on CNBC’s Squawk on the Street on Thursday, […]",
+      "published_utc": "2025-04-06T05:19:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ce86cafec4e4ba9907ff5ea61991cb69d2a9727f33f6d2aa9ba2da271c6fd8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729253,
+      "datetime": 1743887978
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (April 2025)",
+      "description": "We discuss five discounted, large-cap dividend stocks for stable growth and income. Read here for our filtering process for top DGI picks.",
+      "published_utc": "2025-04-05T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a6d9de19c396701d482892fc3ddcb18bd7765e7a83f5a8f9f7304c93cdc7cd9a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133725403,
+      "datetime": 1743840000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:27:26.778060+00:00",
+    "cache_key": "news_9704930e7fe7e5dbce4897967e1a4a6a",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "PJM Appoints Deena O'Brien as Senior Director of Communications",
+      "description": "PJM Interconnection has appointed Deena O'Brien as senior director of corporate communications with responsibility for external and internal communications, creative services, PJM's online presence, and service delivery for external and internal conferences and meetings.",
+      "published_utc": "2025-07-01T01:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f680a1c5636ca8a1404c7c8d6ca2e815c5647805c0e8754e3ddd7417659acc9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671395,
+      "datetime": 1751304420
+    }
+  ]
+}

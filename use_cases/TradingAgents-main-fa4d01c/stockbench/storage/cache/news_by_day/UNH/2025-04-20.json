@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "One Of The Worst Days In The UnitedHealth History, But That Can Be An Opportunity",
+      "description": "",
+      "published_utc": "2025-04-20T07:11:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bcf553bdcd1b79096e8cc228b4fd6b65872dda42e504b0d661704c66293ce97a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133975384,
+      "datetime": 1745104291
+    },
+    {
+      "title": "UnitedHealth Group (UNH): One of the Best Long Term Stocks to Buy According to Billionaires",
+      "description": "We recently published a list of the 10 Best Long Term Stocks to Buy According to Billionaires. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against other best long term stocks. Dividend-paying stocks have traditionally been seen as a solid foundation for investment portfolios, offering steady income […]",
+      "published_utc": "2025-04-20T05:16:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=088e2e51f6f2fc726cf9d59b7aa1ffd0d4c2da7b6a11387a50e237090056ccd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022734,
+      "datetime": 1745097366
+    }
+  ]
+}

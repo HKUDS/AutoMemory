@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "MCD Q1 Earnings Call: Consumer Pressure, Menu Innovation, and Value Initiatives Shape Outlook",
+      "description": "Fast-food chain McDonald’s (NYSE:MCD) missed Wall Street’s revenue expectations in Q1 CY2025, with sales falling 3.5% year on year to $5.96 billion. Its non-GAAP profit of $2.67 per share was in line with analysts’ consensus estimates.",
+      "published_utc": "2025-05-06T05:50:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27f00e8c63a8091d48711fceacaa217bd0880c01280d2c5da562267c24c538bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266393,
+      "datetime": 1746481822
+    },
+    {
+      "title": "Podcast: The Corporate Playbook for Navigating Lower Consumer Spending",
+      "description": "Consumers feel shaky. That’s creating new challenges for big food and beverage companies. McDonald’s reported its worst sales since the pandemic for established U.S. restaurants. The CEO of Kraft Heinz, Carlos Abrams-Rivera, meanwhile, said that consumer sentiment had reached one of its lowest points in 70 years.",
+      "published_utc": "2025-05-06T00:08:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6df38bc5e84268634075fa3ccef92413f3e0180b7dc93415246ff885d55ba07b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266319,
+      "datetime": 1746461304
+    }
+  ]
+}

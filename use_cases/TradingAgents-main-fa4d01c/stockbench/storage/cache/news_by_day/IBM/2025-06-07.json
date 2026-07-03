@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "1063dbc5ebfa75754507bdb71d4f87f415ea31b51c5c8a089cf3cbbb18f8d373",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is CoreWeave Stock a Buy Now?",
+      "author": "Robert Izquierdo",
+      "published_utc": "2025-06-07T20:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/06/07/is-coreweave-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "CRWV",
+        "MSFT",
+        "IBM",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/820596/cloud_computing-technician_in_data_center-gettyimages-1336251060.jpg",
+      "description": "CoreWeave, a cloud computing infrastructure provider for AI systems, has seen its revenue soar over 400% year-over-year in Q1 2023. However, the company is operating at a loss and has a significant debt load, raising concerns about its long-term financial stability.",
+      "keywords": [
+        "CoreWeave",
+        "AI",
+        "cloud computing",
+        "financial risks"
+      ],
+      "insights": [
+        {
+          "ticker": "CRWV",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights CoreWeave's financial risks, including operating at a loss and having a significant debt load, which could negatively impact the company's long-term prospects."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of CoreWeave's customers, but the article does not provide any specific insights about Microsoft's financial performance or outlook."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IBM is mentioned as one of CoreWeave's customers, but the article does not provide any specific insights about IBM's financial performance or outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as a comparison for CoreWeave's stock valuation, but the article does not provide any specific insights about Nvidia's financial performance or outlook."
+        }
+      ]
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 8",
+      "description": "Read here for weekly updates on Dividend Champions, Contenders & Challengers. Learn about dividend changes, ex-dividend dates and pay dates.",
+      "published_utc": "2025-06-07T11:48:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f0d276997367d8e5a85ff57e6f273999e08fe1a450ecb8eeb1e6d5e78c4711b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135094829,
+      "datetime": 1749268088
+    }
+  ]
+}

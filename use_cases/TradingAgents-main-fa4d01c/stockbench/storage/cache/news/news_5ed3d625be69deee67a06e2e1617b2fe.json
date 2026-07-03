@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "IBM, Parker-Hannifin Among 10 Companies To Announce Dividend Increases In Second Half Of April",
+      "description": "Discover upcoming dividend increases from companies like Procter & Gamble, Johnson & Johnson, Ameriprise Financial, and Parker-Hannifin.",
+      "published_utc": "2025-04-20T23:14:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2114261c46464da83a17d4505ad4e0858fb89e87bf95411cd9c2c80f8af10337",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322147027/image_1322147027.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133985780,
+      "datetime": 1745162052
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) the Best Low Volatility Stock to Buy Now?",
+      "description": "We recently published a list of 10 Best Low Volatility Stocks to Buy Now. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best low volatility stocks to buy now. The US stock market experienced a turbulent first quarter of 2025, marked by increased volatility […]",
+      "published_utc": "2025-04-20T21:20:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2065c4ce3fe305a4125c1b9f0e7de8c23ada8b60ad391f24839dc9666175815a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134001557,
+      "datetime": 1745155207
+    },
+    {
+      "title": "2 Recession-Proof Stocks to Buy With a Better Credit Rating Than the U.S. Government",
+      "description": "In 2011, following the difficulty caused by the Great Recession, S&P Global Ratings (formerly Standard & Poor's) downgraded the long-term credit outlook of the United States from its highest designation of AAA to AA+, citing budgetary issues.  High credit ratings are not just handed out.  In fact, only two U.S.-based companies maintain the coveted AAA rating from S&P.  They may be a good place for investors to park cash as President Donald Trump attempts to shake up the global trade order with sweeping tariffs -- a situation that could turn into a long-lasting trade war if negotiations are not soon reached.",
+      "published_utc": "2025-04-20T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c95a6e9cdd34dca3b53ad3f79cc028de03ea438eae638a186de3bf5d515b24b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134001558,
+      "datetime": 1745148600
+    },
+    {
+      "title": "From $50 A Month To $1M Portfolio — Investor Shares Top 10 Holdings, Says 'Finally Reached $1M!' Thanks To Relentless Discipline",
+      "description": "Building wealth through dividends isn’t an overnight success, but rather work that requires relentless discipline, patience, consistency, and the power of compounding. While many chase quick gains, the real magic happens when investors commit to a long-term strategy, reinvesting dividends and steadily growing their portfolios over decades. One investor’s recent milestone proves just that: a $1 million portfolio generating $4,000 a month in passive income, all starting from humble beginnings of j",
+      "published_utc": "2025-04-20T09:01:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=587fed29336b07c65d3ea85c085ed3c8647ed1c70768bc812668dd20ec7aaf71",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134001560,
+      "datetime": 1745110919
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:13.722284+00:00",
+    "cache_key": "news_5ed3d625be69deee67a06e2e1617b2fe",
+    "count": 4
+  }
+}

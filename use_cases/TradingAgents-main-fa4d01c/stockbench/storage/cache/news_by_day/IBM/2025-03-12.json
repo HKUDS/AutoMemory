@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "BofA: Apple, IBM Offer Stability in IT Hardware Amid Market Uncertainty",
+      "description": "Apple's earnings resilience and IBM's strategic shift position them as safe bets amid tech market volatility, BofA says",
+      "published_utc": "2025-03-12T23:02:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76137df602c2150a0b0f8217e252901f3131efbe5f26c3130252e37914a15b94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184732,
+      "datetime": 1741791763
+    },
+    {
+      "title": "International Business Machines Corporation (IBM): Among Dobermans of the Dow to Buy",
+      "description": "We recently published a list of Dobermans of the Dow: 10 Stocks to Consider. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other Dobermans of the Dow to buy. The Dobermans of the Dow strategy serves as an alternative to the well-known Dogs of […]",
+      "published_utc": "2025-03-12T21:51:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb43925a8a55fddea8081e9b80775d026b5486d8c152dab6fe7ecf193d4b20b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133184733,
+      "datetime": 1741787503
+    }
+  ]
+}

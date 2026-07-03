@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "'In shock': British Indians mourn crash victims at London vigil",
+      "description": "Dozens of members ofBritain's Indian community gathered at a Hindu temple in Londonon Saturday for a vigil mourning the victims of this week's AirIndia crash, many of whom had personal connections...",
+      "published_utc": "2025-06-14T21:20:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=db9fe0a3ebe1bda2d0cc909ce7cf66ea6867c6d6754fb18fb8a0ba5959383ad9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135272380,
+      "datetime": 1749907209
+    },
+    {
+      "title": "Boeing Engineers Turn Startup Arc Into Marine Powerhouse With New $168K Electric Boat That Outpaces Gas Competitors",
+      "description": "Arc, a California-based startup founded in 2021 by former Boeing (NYSE:BA) engineers Mitch Lee and Ryan Cook, announced on May 15 its third all-electric boat model, the Arc Coast, priced at $168,000. The new 24-foot vessel follows the sold-out Arc One and the still-available Arc Sport, originally priced at $300,000 and $268,000, respectively, and offers a more affordable entry point for recreational boaters. According to Electrek, this new model is aimed at broader recreational markets, offering",
+      "published_utc": "2025-06-14T20:31:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c671870e1d592970c50d93ed6e37b1a56aef66daca29693fed1be5ac0b5188d0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271695,
+      "datetime": 1749904317
+    },
+    {
+      "title": "Inspections of Boeing 787 Jets in India Under Way After Crash",
+      "description": "Indian authorities have ordered what they called “extended surveillance” of all Boeing 787 aircraft in the country’s fleet while they investigate the cause of the Air India crash.",
+      "published_utc": "2025-06-14T19:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a3a4f03b42daba3689016481c19fc54ed5a30f98080a6b4526effb24ff69a7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271696,
+      "datetime": 1749900300
+    }
+  ]
+}

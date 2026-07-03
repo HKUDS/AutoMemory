@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "CrowdStrike and McDonald’s downgraded: Wall Street’s top analyst calls",
+      "description": "The most talked about and market moving research calls around Wall Street are now in one place. Here are today’s research calls that investors need to know, as compiled by The Fly. Top 5 Upgrades: Melius Research upgraded Deere (DE) to Buy from Hold with a $750 price target. The firm believes Deere’s “leading position” in agriculture technology will deliver “transformational value” to farmers. Jefferies upgraded Urban Outfitters (URBN) to Hold from Underperform with a price target of $70, up fro",
+      "published_utc": "2025-06-07T21:40:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a636ea83c8e3bc446f5f56aca4e93bc64847604a01576e063b0f1b81532e0e1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106167,
+      "datetime": 1749303641
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 8",
+      "description": "Read here for weekly updates on Dividend Champions, Contenders & Challengers. Learn about dividend changes, ex-dividend dates and pay dates.",
+      "published_utc": "2025-06-07T11:48:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f0d276997367d8e5a85ff57e6f273999e08fe1a450ecb8eeb1e6d5e78c4711b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135094829,
+      "datetime": 1749268088
+    },
+    {
+      "title": "Loop Capital Downgrades McDonald's (MCD)",
+      "description": "",
+      "published_utc": "2025-06-07T08:02:55",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=52373c76285b5183aab6f90eac31d02bb8759a95b8c2c2879b0ec66696c2a79f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135082974,
+      "datetime": 1749254575
+    }
+  ]
+}

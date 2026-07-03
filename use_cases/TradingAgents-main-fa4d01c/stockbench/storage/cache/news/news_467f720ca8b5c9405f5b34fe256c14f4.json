@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Home Depot (HD): ‘If It Drops, BUY, BUY, BUY!’",
+      "description": "We recently published a list of 9 Stocks on Jim Cramer’s Radar. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other stocks on Jim Cramer’s radar. Jim Cramer, the host of Mad Money, shared his concerns on Thursday, describing the current stock market environment […]",
+      "published_utc": "2025-03-25T07:49:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5bf887316a5d591823588e8926caf821590fcbbc764829d02ddad96f2e972e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360362,
+      "datetime": 1742860170
+    },
+    {
+      "title": "Dow up 564 points on gains in NVIDIA Corp., Amazon.com Inc. stocks",
+      "description": "Dow up 564 points on gains in NVIDIA Corp., Amazon.com Inc. stocks",
+      "published_utc": "2025-03-24T23:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=62404e210a1d8f80f3295148bde9ca96f81d34cf495c874acf4ac29c35e82113",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360702,
+      "datetime": 1742828700
+    },
+    {
+      "title": "NVIDIA Corp., Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "description": "NVIDIA Corp., Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "published_utc": "2025-03-24T21:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=06d61a0b5a607cc8daa4d8455b0f14187d42b7e92953646db6becea0f1a2fcc2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133360705,
+      "datetime": 1742821320
+    },
+    {
+      "title": "Dow's 561-point rally highlighted by gains in shares of NVIDIA Corp., Home Depot",
+      "description": "Dow's 561-point rally highlighted by gains in shares of NVIDIA Corp., Home Depot",
+      "published_utc": "2025-03-24T19:08:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=84fd77c63b161899e26436b234d0fc391842c801bb9ea8c394819536930e56f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133340622,
+      "datetime": 1742814480
+    },
+    {
+      "title": "Home Depot, Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "description": "Home Depot, Amazon.com Inc. share gains contribute to Dow's 450-point rally",
+      "published_utc": "2025-03-24T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e4cad1359df1f93d056a8aba6e7a6134e30ffd5f99d445c186e7cfef3cb49096",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133338679,
+      "datetime": 1742809500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:21:43.956496+00:00",
+    "cache_key": "news_467f720ca8b5c9405f5b34fe256c14f4",
+    "count": 5
+  }
+}

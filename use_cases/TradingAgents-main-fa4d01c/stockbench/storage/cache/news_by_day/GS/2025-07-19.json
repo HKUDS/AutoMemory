@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "After Stock Market’s Torrid Run, Earnings Misses Face Punishment",
+      "description": "(Bloomberg) -- The second-quarter earnings season is off to a ripping start, with consumer strength powering resilient corporate profits. In the stock market, however, the reaction has been fairly quiet, an ominous sign that much of the good news is priced in — and investors are punishing disappointments.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionThe Dutch Intersection Is Coming to Save Your LifeMilan Corruption Probe Casts Shadow Over Property BoomMu",
+      "published_utc": "2025-07-19T20:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a0e31e7129a2807dbd973a8f66cbfd5229e79503649c60526f93fe2a1ed8cd0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019655,
+      "datetime": 1752926407
+    },
+    {
+      "title": "Goldman Sachs: 33% Dividend Increase Amidst Uncertainty Signals Financial Strength, Further Upside Potential",
+      "description": "Goldman Sachs posted strong Q2 results, raised dividends 33%, and sees AI-driven growth ahead, despite valuation risks after a big run. See why GS stock is a buy.",
+      "published_utc": "2025-07-19T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=944b0a6b0349449788bc4451d72b20d56bb4624caa20be2966a88dc852b8b10b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1874242649/image_1874242649.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136013325,
+      "datetime": 1752913800
+    }
+  ]
+}

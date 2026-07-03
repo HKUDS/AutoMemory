@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Visa : 2025 Annual Meeting of Shareholders Answers to Questions Received",
+      "description": "VISA 2025 ANNUAL SHAREHOLDERS MEETING Answers to Questions Received Below is a list of questions and answers that we were not able to cover at the annual...",
+      "published_utc": "2025-02-19T05:24:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a799bfabfafbf780fac87847a3acc44b66034d220692b0bd264fb1fdf06e40c2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781188,
+      "datetime": 1739913845
+    },
+    {
+      "title": "Tracking Akre Capital Management Portfolio - Q4 2024 Update",
+      "description": "",
+      "published_utc": "2025-02-19T03:24:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6840c2ab4850ba4cdf99978a06dc0a552925d3b2035b465b63ecbaa624c8196",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132780793,
+      "datetime": 1739906646
+    }
+  ]
+}

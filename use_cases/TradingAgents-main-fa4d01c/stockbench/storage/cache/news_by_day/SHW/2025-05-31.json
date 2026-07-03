@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams (NYSE:SHW) Is Very Good At Capital Allocation",
+      "description": "If we want to find a potential multi-bagger, often there are underlying trends that can provide clues. In a perfect...",
+      "published_utc": "2025-05-31T20:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=611093066cdb6bdf748359710a919a17700e2ca514a5fb191713ad9a5adb62d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134918037,
+      "datetime": 1748692817
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of June 1",
+      "description": "",
+      "published_utc": "2025-05-31T09:12:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42b9a4d439225ecc47d5249cd8fe37b2557654876c54a9c9167fbc95d81a1d41",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134912242,
+      "datetime": 1748653941
+    }
+  ]
+}

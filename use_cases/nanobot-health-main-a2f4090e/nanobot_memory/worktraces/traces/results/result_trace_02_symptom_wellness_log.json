@@ -1,0 +1,114 @@
+{
+  "trace_id": "trace_02_symptom_wellness_log",
+  "description": "Tests temporal health log: symptom episodes with onset/triggers/resolution, daily wellness entries, care timeline events with lab values. Critical: exact lab values must be preserved, symptom-to-medication cross-reference noted, health_log.jsonl keyword retrieval must work.",
+  "n_turns": 21,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "headache",
+      "expected_information": [
+        "headache",
+        "/throbbing|right.?side|severe/",
+        "Tylenol",
+        "April 15"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 Diabetes \u2014 diagnosed [per 2026-04-10 labs], status: active, HbA1c 7.2% (above target of <7%)\n- Elevated cardiovascular risk \u2014 LDL 138 mg/dL (target <100 for diabetics), triglycerides 165 mg/dL\n- Hypertension \u2014 status: active, managed with Amlodipine (Lisinopril discontinued prior to 2026-04-12)\n\n## Medications\n- Metformin 1000mg \u2014 started [dose increase 2026-04-08], for Type 2 Diabetes\n-"
+    },
+    {
+      "query": "What were the lab results from the April 10 visit?",
+      "expected_information": [
+        "/fasting glucose|glucose/",
+        "142",
+        "HbA1c",
+        "7.2",
+        "/LDL|cholesterol/",
+        "138"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 Diabetes \u2014 diagnosed [per 2026-04-10 labs], status: active, HbA1c 7.2% (above target of <7%)\n- Elevated cardiovascular risk \u2014 LDL 138 mg/dL (target <100 for diabetics), triglycerides 165 mg/dL\n- Hypertension \u2014 status: active, managed with Amlodipine (Lisinopril discontinued prior to 2026-04-12)\n\n## Medications\n- Metformin 1000mg \u2014 started [dose increase 2026-04-08], for Type 2 Diabetes\n-"
+    },
+    {
+      "query": "nausea",
+      "expected_information": [
+        "nausea",
+        "Metformin",
+        "/April 14|April 15|April 16/"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 Diabetes \u2014 diagnosed [per 2026-04-10 labs], status: active, HbA1c 7.2% (above target of <7%)\n- Elevated cardiovascular risk \u2014 LDL 138 mg/dL (target <100 for diabetics), triglycerides 165 mg/dL\n- Hypertension \u2014 status: active, managed with Amlodipine (Lisinopril discontinued prior to 2026-04-12)\n\n## Medications\n- Metformin 1000mg \u2014 started [dose increase 2026-04-08], for Type 2 Diabetes\n-"
+    },
+    {
+      "query": "flu shot",
+      "expected_information": [
+        "/flu shot|influenza|immunization/",
+        "April 16"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 Diabetes \u2014 diagnosed [per 2026-04-10 labs], status: active, HbA1c 7.2% (above target of <7%)\n- Elevated cardiovascular risk \u2014 LDL 138 mg/dL (target <100 for diabetics), triglycerides 165 mg/dL\n- Hypertension \u2014 status: active, managed with Amlodipine (Lisinopril discontinued prior to 2026-04-12)\n\n## Medications\n- Metformin 1000mg \u2014 started [dose increase 2026-04-08], for Type 2 Diabetes\n-"
+    },
+    {
+      "query": "What doctor visits or care events have been logged?",
+      "expected_information": [
+        "Dr. Sarah Martinez",
+        "April 10",
+        "Dr. James Chen",
+        "April 12"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 Diabetes \u2014 diagnosed [per 2026-04-10 labs], status: active, HbA1c 7.2% (above target of <7%)\n- Elevated cardiovascular risk \u2014 LDL 138 mg/dL (target <100 for diabetics), triglycerides 165 mg/dL\n- Hypertension \u2014 status: active, managed with Amlodipine (Lisinopril discontinued prior to 2026-04-12)\n\n## Medications\n- Metformin 1000mg \u2014 started [dose increase 2026-04-08], for Type 2 Diabetes\n-"
+    },
+    {
+      "query": "wellness exercise",
+      "expected_information": [
+        "/jog|hike|exercise/",
+        "/April 15|April 16/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 Diabetes \u2014 diagnosed [per 2026-04-10 labs], status: active, HbA1c 7.2% (above target of <7%)\n- Elevated cardiovascular risk \u2014 LDL 138 mg/dL (target <100 for diabetics), triglycerides 165 mg/dL\n- Hypertension \u2014 status: active, managed with Amlodipine (Lisinopril discontinued prior to 2026-04-12)\n\n## Medications\n- Metformin 1000mg \u2014 started [dose increase 2026-04-08], for Type 2 Diabetes\n-"
+    }
+  ]
+}

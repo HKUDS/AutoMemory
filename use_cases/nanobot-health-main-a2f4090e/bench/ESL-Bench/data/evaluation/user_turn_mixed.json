@@ -1,0 +1,686 @@
+{
+  "user_id": "user110_AT_demo",
+  "description": "Mixed user turns: profile and timeline interleaved at random (seed 42), with all timeline days in strict chronological order.",
+  "sources": {
+    "profile": "user_turn_profile.json",
+    "timeline": "user_turn_timeline.json"
+  },
+  "mixing": {
+    "random_seed": 42,
+    "timeline_order": "chronological_by_date",
+    "profile_turns_shuffled": true,
+    "profile_insert_slots": "uniform_integer_inclusive_0_M_per_turn_M_is_timeline_day_count"
+  },
+  "turns": [
+    {
+      "date": "2026-01-01",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 76.8609 mmHg, from BP monitor\n24 Hour Average Systolic BP: 117.095 mmHg, from BP monitor\nActive Calories: 302.2576 kcal, from smart watch\nAverage Heart Rate During Exercise: 137.2382 bpm, from smart watch\nBasal Body Temperature: 36.4469 °C, from thermometer\nBody Battery: 50.0176 %, from smart watch\nBody Fat Percentage: 17.2757 %, from smart scale\nBody Mass Index: 24.7496 kg/m², from smart scale\nBody Weight: 77.7753 kg, from smart scale\nCardiorespiratory Fitness: 49.1695, from smart watch\nDaily Average METs: 1.5794 METs, from smart watch\nDaily Distance: 7267.6102 meters, from smart watch\nDaily Exercise Duration: 19.583 minutes, from smart watch\nDaily Step Count: 5517 steps, from smart watch\nDaily Stress Score: 42.6029, from smart watch\nDeep Sleep Duration: 100.4898 minutes, from smart watch\nFasting Blood Glucose: 4.7134 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 28.3198 bpm, from smart watch\nHeart Rate Variability: 68.2418 ms, from smart watch\nLight Activity Time: 200.1811 minutes, from smart watch\nLight Sleep Duration: 217.2383 minutes, from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: 470.1427 minutes, from smart watch\nMaximum Heart Rate During Exercise: 173.9851 bpm, from smart watch\nMean Glucose: 5.2561 mmol/L, from CGM\nMean Sp O2: 97.9719 %, from smart watch\nModerate Activity Time: 49.0289 minutes, from smart watch\nModerate Exercise Minutes: (no reading), from smart watch\nMuscle Mass: 61.8326 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 99.7793 minutes, from smart watch\nRecovery Time: 36.4794 hours, from smart watch\nResting Heart Rate: 52.9412 bpm, from smart watch\nSedentary Time: 797.5147 minutes, from smart watch\nSleep Efficiency: 89.7308 %, from smart watch\nSleep Latency: 4.8066 minutes, from smart watch\nSleep Recovery Score: 50.6416, from smart watch\nStanding Time: 119.7401 minutes, from smart watch\nTotal Daily Energy Expenditure: 3105.1341 kcal/day, from smart watch\nTotal Sleep Time: 423.5903 minutes, from smart watch\nTraining Load: 90.4296, from smart watch\nTraining Readiness: 40.1284, from smart watch\nVO2 Max Estimated: 50.2061 mL/kg/min, from smart watch\nVigorous Activity Time: 25.4811 minutes, from smart watch\nVigorous Exercise Minutes: 21.726 minutes, from smart watch\nVisceral Fat Level: 6.5703 level, from smart scale\nWake After Sleep Onset: 31.299 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_013",
+      "messages": [
+        {
+          "role": "user",
+          "content": "For stress management, the two things that help me most are regular physical exercise and disconnecting from work email on weekends. That weekend disconnect is important because otherwise work tends to bleed into everything."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "turn_id": "profile_turn_003",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Overall my health is good. I don't have any active chronic conditions right now, and I'm mostly focused on prevention: keeping my weight stable, maintaining good sleep habits, staying physically fit, and making sure my long-term cardiovascular health stays on track. My job can be stressful, but I try to offset that with self-care routines."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-01-02",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 75.7881 mmHg, from BP monitor\n24 Hour Average Systolic BP: 115.8114 mmHg, from BP monitor\nActive Calories: 888.113 kcal, from smart watch\nAverage Heart Rate During Exercise: 138.2955 bpm, from smart watch\nBasal Body Temperature: 36.5904 °C, from thermometer\nBody Battery: 79.4186 %, from smart watch\nBody Fat Percentage: 17.4945 %, from smart scale\nBody Mass Index: 24.6874 kg/m², from smart scale\nBody Weight: 77.9674 kg, from smart scale\nCardiorespiratory Fitness: 48.8782, from smart watch\nDaily Average METs: 1.6378 METs, from smart watch\nDaily Distance: 7278.6441 meters, from smart watch\nDaily Exercise Duration: 60.3986 minutes, from smart watch\nDaily Step Count: 9866 steps, from smart watch\nDaily Stress Score: 37.1254, from smart watch\nDeep Sleep Duration: 101.9604 minutes, from smart watch\nFasting Blood Glucose: 4.8117 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.2656 bpm, from smart watch\nHeart Rate Variability: 67.3334 ms, from smart watch\nLight Activity Time: 219.618 minutes, from smart watch\nLight Sleep Duration: 229.5004 minutes, from smart watch\nLowest Sp O2: 91.7092 %, from smart watch\nLying Time: (no reading), from smart watch\nMaximum Heart Rate During Exercise: 175.5542 bpm, from smart watch\nMean Glucose: 5.1718 mmol/L, from CGM\nMean Sp O2: 98.2359 %, from smart watch\nModerate Activity Time: 46.2467 minutes, from smart watch\nModerate Exercise Minutes: 25.5099 minutes, from smart watch\nMuscle Mass: 61.7474 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 103.0359 minutes, from smart watch\nRecovery Time: 25.5155 hours, from smart watch\nResting Heart Rate: 52.9533 bpm, from smart watch\nSedentary Time: 624.3947 minutes, from smart watch\nSleep Efficiency: 91.6532 %, from smart watch\nSleep Latency: 6.4365 minutes, from smart watch\nSleep Recovery Score: 75.0432, from smart watch\nStanding Time: 130.1271 minutes, from smart watch\nTotal Daily Energy Expenditure: 3188.0475 kcal/day, from smart watch\nTotal Sleep Time: 426.0342 minutes, from smart watch\nTraining Load: 82.9766, from smart watch\nTraining Readiness: 63.4816, from smart watch\nVO2 Max Estimated: 50.7447 mL/kg/min, from smart watch\nVigorous Activity Time: 25.4469 minutes, from smart watch\nVigorous Exercise Minutes: (no reading), from smart watch\nVisceral Fat Level: 6.7204 level, from smart scale\nWake After Sleep Onset: 20.6407 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_009",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Allergies and intolerances: I have seasonal pollen allergy. No other allergies or adverse reactions come to mind right now."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-01-03",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 73.9776 mmHg, from BP monitor\n24 Hour Average Systolic BP: 114.093 mmHg, from BP monitor\nActive Calories: 1009.4093 kcal, from smart watch\nAverage Heart Rate During Exercise: 143.3447 bpm, from smart watch\nBasal Body Temperature: 36.2044 °C, from thermometer\nBody Battery: 76.8216 %, from smart watch\nBody Fat Percentage: 17.3685 %, from smart scale\nBody Mass Index: 24.6793 kg/m², from smart scale\nBody Weight: 78.1374 kg, from smart scale\nCardiorespiratory Fitness: 50.6747, from smart watch\nDaily Average METs: 1.6401 METs, from smart watch\nDaily Distance: 7505.0056 meters, from smart watch\nDaily Exercise Duration: 66.0346 minutes, from smart watch\nDaily Step Count: 11098 steps, from smart watch\nDaily Stress Score: 39.248, from smart watch\nDeep Sleep Duration: 112.105 minutes, from smart watch\nFasting Blood Glucose: 4.74 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 38.8678 bpm, from smart watch\nHeart Rate Variability: 69.3648 ms, from smart watch\nLight Activity Time: 211.8709 minutes, from smart watch\nLight Sleep Duration: 236.5626 minutes, from smart watch\nLowest Sp O2: 91.585 %, from smart watch\nLying Time: 502.3709 minutes, from smart watch\nMaximum Heart Rate During Exercise: 182.7068 bpm, from smart watch\nMean Glucose: 4.9835 mmol/L, from CGM\nMean Sp O2: 97.9832 %, from smart watch\nModerate Activity Time: 48.9495 minutes, from smart watch\nModerate Exercise Minutes: 27.0795 minutes, from smart watch\nMuscle Mass: 61.73 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 130.0178 minutes, from smart watch\nRecovery Time: 24.9615 hours, from smart watch\nResting Heart Rate: 52.2799 bpm, from smart watch\nSedentary Time: 609.1471 minutes, from smart watch\nSleep Efficiency: 96.933 %, from smart watch\nSleep Latency: 6.359 minutes, from smart watch\nSleep Recovery Score: 91.3446, from smart watch\nStanding Time: 120.3462 minutes, from smart watch\nTotal Daily Energy Expenditure: 3049.6792 kcal/day, from smart watch\nTotal Sleep Time: 440.221 minutes, from smart watch\nTraining Load: 93.5553, from smart watch\nTraining Readiness: 75.461, from smart watch\nVO2 Max Estimated: 52.1485 mL/kg/min, from smart watch\nVigorous Activity Time: 20.707 minutes, from smart watch\nVigorous Exercise Minutes: 21.7682 minutes, from smart watch\nVisceral Fat Level: 6.7393 level, from smart scale\nWake After Sleep Onset: 17.8302 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-04",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 71.8224 mmHg, from BP monitor\n24 Hour Average Systolic BP: 113.2259 mmHg, from BP monitor\nActive Calories: 1025.5587 kcal, from smart watch\nAverage Heart Rate During Exercise: 146.3192 bpm, from smart watch\nBasal Body Temperature: 35.8512 °C, from thermometer\nBody Battery: 90.4983 %, from smart watch\nBody Fat Percentage: 17.1629 %, from smart scale\nBody Mass Index: 24.6156 kg/m², from smart scale\nBody Weight: 77.9814 kg, from smart scale\nCardiorespiratory Fitness: 51.4666, from smart watch\nDaily Average METs: 1.692 METs, from smart watch\nDaily Distance: 7910.5445 meters, from smart watch\nDaily Exercise Duration: 70.5706 minutes, from smart watch\nDaily Step Count: 12436 steps, from smart watch\nDaily Stress Score: 44.4725, from smart watch\nDeep Sleep Duration: 114.0165 minutes, from smart watch\nFasting Blood Glucose: 4.6697 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 39.2684 bpm, from smart watch\nHeart Rate Variability: 70.8635 ms, from smart watch\nLight Activity Time: 245.6887 minutes, from smart watch\nLight Sleep Duration: 256.0686 minutes, from smart watch\nLowest Sp O2: 91.9003 %, from smart watch\nLying Time: 513.1539 minutes, from smart watch\nMaximum Heart Rate During Exercise: 183.2498 bpm, from smart watch\nMean Glucose: 5.1488 mmol/L, from CGM\nMean Sp O2: 98.1531 %, from smart watch\nModerate Activity Time: 47.6798 minutes, from smart watch\nModerate Exercise Minutes: 27.6399 minutes, from smart watch\nMuscle Mass: 61.7234 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 138.8371 minutes, from smart watch\nRecovery Time: 28.6656 hours, from smart watch\nResting Heart Rate: 50.2003 bpm, from smart watch\nSedentary Time: 641.025 minutes, from smart watch\nSleep Efficiency: 98.4079 %, from smart watch\nSleep Latency: 6.9213 minutes, from smart watch\nSleep Recovery Score: 96.0354, from smart watch\nStanding Time: 129.1236 minutes, from smart watch\nTotal Daily Energy Expenditure: 2958.6058 kcal/day, from smart watch\nTotal Sleep Time: 462.5252 minutes, from smart watch\nTraining Load: 100.5586, from smart watch\nTraining Readiness: 76.982, from smart watch\nVO2 Max Estimated: 53.301 mL/kg/min, from smart watch\nVigorous Activity Time: 19.1629 minutes, from smart watch\nVigorous Exercise Minutes: 18.2815 minutes, from smart watch\nVisceral Fat Level: 6.3973 level, from smart scale\nWake After Sleep Onset: 10.2893 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-05",
+      "source_row_count": 48,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 71.7906 mmHg, from BP monitor\n24 Hour Average Systolic BP: 112.2527 mmHg, from BP monitor\nActive Calories: 1039.6094 kcal, from smart watch\nAverage Heart Rate During Exercise: 140.2031 bpm, from smart watch\nBasal Body Temperature: 36.0492 °C, from thermometer\nBody Battery: 92.3353 %, from smart watch\nBody Fat Percentage: 17.0083 %, from smart scale\nBody Mass Index: 24.6103 kg/m², from smart scale\nBody Weight: 78.2853 kg, from smart scale\nCardiorespiratory Fitness: 49.7926, from smart watch\nDaily Average METs: 1.6485 METs, from smart watch\nDaily Distance: 7518.2787 meters, from smart watch\nDaily Exercise Duration: 67.7399 minutes, from smart watch\nDaily Step Count: 11376 steps, from smart watch\nDaily Stress Score: 35.9781, from smart watch\nDeep Sleep Duration: 106.7603 minutes, from smart watch\nFasting Blood Glucose: 4.5727 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 40.0527 bpm, from smart watch\nHeart Rate Variability: 71.044 ms, from smart watch\nLight Activity Time: 209.1451 minutes, from smart watch\nLight Sleep Duration: 239.694 minutes, from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: 481.8234 minutes, from smart watch\nMaximum Heart Rate During Exercise: 177.3103 bpm, from smart watch\nMean Glucose: 5.0613 mmol/L, from CGM\nMean Sp O2: 98.2315 %, from smart watch\nModerate Activity Time: 42.8202 minutes, from smart watch\nModerate Exercise Minutes: 31.8523 minutes, from smart watch\nMuscle Mass: 61.8365 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 143.3061 minutes, from smart watch\nRecovery Time: 23.0576 hours, from smart watch\nResting Heart Rate: 51.9367 bpm, from smart watch\nSedentary Time: 605.1973 minutes, from smart watch\nSleep Efficiency: 97.674 %, from smart watch\nSleep Latency: 7.7037 minutes, from smart watch\nSleep Recovery Score: 96.948, from smart watch\nStanding Time: 120.4592 minutes, from smart watch\nTotal Daily Energy Expenditure: 3018.5318 kcal/day, from smart watch\nTotal Sleep Time: 466.7549 minutes, from smart watch\nTraining Load: 85.4666, from smart watch\nTraining Readiness: 82.5981, from smart watch\nVO2 Max Estimated: 51.8879 mL/kg/min, from smart watch\nVigorous Activity Time: 30.491 minutes, from smart watch\nVigorous Exercise Minutes: 18.2112 minutes, from smart watch\nVisceral Fat Level: 6.5593 level, from smart scale\nWake After Sleep Onset: 15.3348 minutes, from smart watch"
+        },
+        {
+          "role": "user",
+          "content": "I started the \"Restore Maintenance Nutrition Plan\" today. It's a 28-day habit, so I'll be following it for the next few weeks."
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_008",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Past medical history: I had a laparoscopic appendectomy when I was 22 because of acute appendicitis. It was emergency surgery, but I fully recovered and had no complications afterward."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-01-06",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 75.6533 mmHg, from BP monitor\n24 Hour Average Systolic BP: 113.7064 mmHg, from BP monitor\nActive Calories: 1016.2663 kcal, from smart watch\nAverage Heart Rate During Exercise: 138.8325 bpm, from smart watch\nBasal Body Temperature: 36.3528 °C, from thermometer\nBody Battery: 89.9519 %, from smart watch\nBody Fat Percentage: 17.3742 %, from smart scale\nBody Mass Index: 24.6863 kg/m², from smart scale\nBody Weight: 78.6068 kg, from smart scale\nCardiorespiratory Fitness: 49.0905, from smart watch\nDaily Average METs: 1.6306 METs, from smart watch\nDaily Distance: 8466.486 meters, from smart watch\nDaily Exercise Duration: 65.745 minutes, from smart watch\nDaily Step Count: 12556 steps, from smart watch\nDaily Stress Score: 45.3104, from smart watch\nDeep Sleep Duration: 105.152 minutes, from smart watch\nFasting Blood Glucose: 4.6835 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 41.0272 bpm, from smart watch\nHeart Rate Variability: 76.8491 ms, from smart watch\nLight Activity Time: 223.0995 minutes, from smart watch\nLight Sleep Duration: (no reading), from smart watch\nLowest Sp O2: 93.2007 %, from smart watch\nLying Time: 486.6698 minutes, from smart watch\nMaximum Heart Rate During Exercise: 176.9394 bpm, from smart watch\nMean Glucose: 5.1405 mmol/L, from CGM\nMean Sp O2: 98.2256 %, from smart watch\nModerate Activity Time: 47.3604 minutes, from smart watch\nModerate Exercise Minutes: 32.2027 minutes, from smart watch\nMuscle Mass: 61.9907 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 141.3347 minutes, from smart watch\nRecovery Time: 21.9761 hours, from smart watch\nResting Heart Rate: 52.2536 bpm, from smart watch\nSedentary Time: 599.6167 minutes, from smart watch\nSleep Efficiency: 97.9713 %, from smart watch\nSleep Latency: 12.8653 minutes, from smart watch\nSleep Recovery Score: 96.5159, from smart watch\nStanding Time: 117.9034 minutes, from smart watch\nTotal Daily Energy Expenditure: 3115.0999 kcal/day, from smart watch\nTotal Sleep Time: 460.691 minutes, from smart watch\nTraining Load: 84.1534, from smart watch\nTraining Readiness: 79.8427, from smart watch\nVO2 Max Estimated: 50.8771 mL/kg/min, from smart watch\nVigorous Activity Time: 30.6001 minutes, from smart watch\nVigorous Exercise Minutes: 21.5427 minutes, from smart watch\nVisceral Fat Level: 6.5456 level, from smart scale\nWake After Sleep Onset: 13.6347 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-07",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.1305 mmHg, from BP monitor\n24 Hour Average Systolic BP: 113.0927 mmHg, from BP monitor\nActive Calories: 1024.9025 kcal, from smart watch\nAverage Heart Rate During Exercise: 138.5587 bpm, from smart watch\nBasal Body Temperature: 36.4128 °C, from thermometer\nBody Battery: 88.3455 %, from smart watch\nBody Fat Percentage: 17.426 %, from smart scale\nBody Mass Index: 24.7208 kg/m², from smart scale\nBody Weight: 78.3907 kg, from smart scale\nCardiorespiratory Fitness: 49.1627, from smart watch\nDaily Average METs: 1.6399 METs, from smart watch\nDaily Distance: 7912.2178 meters, from smart watch\nDaily Exercise Duration: 69.8296 minutes, from smart watch\nDaily Step Count: 12382 steps, from smart watch\nDaily Stress Score: 41.3971, from smart watch\nDeep Sleep Duration: 107.4804 minutes, from smart watch\nFasting Blood Glucose: 4.5486 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 40.8915 bpm, from smart watch\nHeart Rate Variability: 75.7859 ms, from smart watch\nLight Activity Time: 216.9139 minutes, from smart watch\nLight Sleep Duration: 223.102 minutes, from smart watch\nLowest Sp O2: 93.0063 %, from smart watch\nLying Time: 505.2733 minutes, from smart watch\nMaximum Heart Rate During Exercise: 176.2613 bpm, from smart watch\nMean Glucose: 4.9869 mmol/L, from CGM\nMean Sp O2: 98.0886 %, from smart watch\nModerate Activity Time: 42.5911 minutes, from smart watch\nModerate Exercise Minutes: 31.2824 minutes, from smart watch\nMuscle Mass: 62.1135 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 123.4392 minutes, from smart watch\nRecovery Time: 21.6 hours, from smart watch\nResting Heart Rate: 52.4289 bpm, from smart watch\nSedentary Time: 600.8154 minutes, from smart watch\nSleep Efficiency: 98.2855 %, from smart watch\nSleep Latency: 12.5406 minutes, from smart watch\nSleep Recovery Score: 96.1085, from smart watch\nStanding Time: 126.6216 minutes, from smart watch\nTotal Daily Energy Expenditure: 3116.6469 kcal/day, from smart watch\nTotal Sleep Time: 458.602 minutes, from smart watch\nTraining Load: 79.0812, from smart watch\nTraining Readiness: 78.8461, from smart watch\nVO2 Max Estimated: 50.8704 mL/kg/min, from smart watch\nVigorous Activity Time: 27.7749 minutes, from smart watch\nVigorous Exercise Minutes: 22.1731 minutes, from smart watch\nVisceral Fat Level: 6.6249 level, from smart scale\nWake After Sleep Onset: 9.1461 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-08",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: (no reading), from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 940.4636 kcal, from smart watch\nAverage Heart Rate During Exercise: 135.8147 bpm, from smart watch\nBasal Body Temperature: 36.3883 °C, from thermometer\nBody Battery: 83.8691 %, from smart watch\nBody Fat Percentage: 17.4579 %, from smart scale\nBody Mass Index: 24.6384 kg/m², from smart scale\nBody Weight: 78.2404 kg, from smart scale\nCardiorespiratory Fitness: 49.0988, from smart watch\nDaily Average METs: 1.6094 METs, from smart watch\nDaily Distance: 7202.5835 meters, from smart watch\nDaily Exercise Duration: 60.4964 minutes, from smart watch\nDaily Step Count: 10144 steps, from smart watch\nDaily Stress Score: 43.7324, from smart watch\nDeep Sleep Duration: 108.263 minutes, from smart watch\nFasting Blood Glucose: 4.5919 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 41.6594 bpm, from smart watch\nHeart Rate Variability: 75.7458 ms, from smart watch\nLight Activity Time: 204.8779 minutes, from smart watch\nLight Sleep Duration: 222.506 minutes, from smart watch\nLowest Sp O2: 92.9701 %, from smart watch\nLying Time: 472.1592 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.3612 bpm, from smart watch\nMean Glucose: 5.0184 mmol/L, from CGM\nMean Sp O2: 98.1936 %, from smart watch\nModerate Activity Time: 45.0823 minutes, from smart watch\nModerate Exercise Minutes: 29.3731 minutes, from smart watch\nMuscle Mass: 62.1699 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 127.279 minutes, from smart watch\nRecovery Time: 20.5752 hours, from smart watch\nResting Heart Rate: 51.3508 bpm, from smart watch\nSedentary Time: 580.3071 minutes, from smart watch\nSleep Efficiency: 97.3826 %, from smart watch\nSleep Latency: 12.317 minutes, from smart watch\nSleep Recovery Score: 96.4564, from smart watch\nStanding Time: 122.2885 minutes, from smart watch\nTotal Daily Energy Expenditure: 3134.7712 kcal/day, from smart watch\nTotal Sleep Time: 440.2826 minutes, from smart watch\nTraining Load: 81.8865, from smart watch\nTraining Readiness: 75.1865, from smart watch\nVO2 Max Estimated: 50.652 mL/kg/min, from smart watch\nVigorous Activity Time: 25.5588 minutes, from smart watch\nVigorous Exercise Minutes: 22.4228 minutes, from smart watch\nVisceral Fat Level: 6.7726 level, from smart scale\nWake After Sleep Onset: 8.8328 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-09",
+      "source_row_count": 48,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: (no reading), from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 691.2785 kcal, from smart watch\nAverage Heart Rate During Exercise: 138.5554 bpm, from smart watch\nBasal Body Temperature: 36.3974 °C, from thermometer\nBody Battery: 71.7761 %, from smart watch\nBody Fat Percentage: 17.2261 %, from smart scale\nBody Mass Index: 24.65 kg/m², from smart scale\nBody Weight: 78.2004 kg, from smart scale\nCardiorespiratory Fitness: (no reading), from smart watch\nDaily Average METs: 1.5686 METs, from smart watch\nDaily Distance: 7307.3274 meters, from smart watch\nDaily Exercise Duration: 29.9375 minutes, from smart watch\nDaily Step Count: 7936 steps, from smart watch\nDaily Stress Score: 39.9575, from smart watch\nDeep Sleep Duration: 102.2457 minutes, from smart watch\nFasting Blood Glucose: 4.5646 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 42.214 bpm, from smart watch\nHeart Rate Variability: 71.1158 ms, from smart watch\nLight Activity Time: 214.1925 minutes, from smart watch\nLight Sleep Duration: 213.372 minutes, from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: 481.5478 minutes, from smart watch\nMaximum Heart Rate During Exercise: 175.8204 bpm, from smart watch\nMean Glucose: 4.95 mmol/L, from CGM\nMean Sp O2: 98.167 %, from smart watch\nModerate Activity Time: 45.6486 minutes, from smart watch\nModerate Exercise Minutes: 32.1659 minutes, from smart watch\nMuscle Mass: 62.1019 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 121.1989 minutes, from smart watch\nRecovery Time: 35.1113 hours, from smart watch\nResting Heart Rate: 51.2763 bpm, from smart watch\nSedentary Time: 681.4526 minutes, from smart watch\nSleep Efficiency: 92.5511 %, from smart watch\nSleep Latency: 5.7474 minutes, from smart watch\nSleep Recovery Score: 74.4012, from smart watch\nStanding Time: 123.4752 minutes, from smart watch\nTotal Daily Energy Expenditure: 3086.3312 kcal/day, from smart watch\nTotal Sleep Time: 408.9772 minutes, from smart watch\nTraining Load: 81.0712, from smart watch\nTraining Readiness: 54.2623, from smart watch\nVO2 Max Estimated: 50.5345 mL/kg/min, from smart watch\nVigorous Activity Time: 19.6529 minutes, from smart watch\nVigorous Exercise Minutes: 25.4412 minutes, from smart watch\nVisceral Fat Level: 6.5111 level, from smart scale\nWake After Sleep Onset: 21.0232 minutes, from smart watch"
+        },
+        {
+          "role": "user",
+          "content": "I have a sales team kickoff dinner tonight from 12 AM to 12 AM tomorrow. It's a special event, so I'll be out later than usual."
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-10",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: (no reading), from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 663.4803 kcal, from smart watch\nAverage Heart Rate During Exercise: 145.3515 bpm, from smart watch\nBasal Body Temperature: 36.0175 °C, from thermometer\nBody Battery: 66.7462 %, from smart watch\nBody Fat Percentage: (no reading), from smart scale\nBody Mass Index: (no reading), from smart scale\nBody Weight: (no reading), from smart scale\nCardiorespiratory Fitness: 50.7724, from smart watch\nDaily Average METs: 1.708 METs, from smart watch\nDaily Distance: 7378.0419 meters, from smart watch\nDaily Exercise Duration: 17.8308 minutes, from smart watch\nDaily Step Count: 9292 steps, from smart watch\nDaily Stress Score: 32.4921, from smart watch\nDeep Sleep Duration: 116.9405 minutes, from smart watch\nFasting Blood Glucose: 4.601 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 43.5023 bpm, from smart watch\nHeart Rate Variability: 72.8465 ms, from smart watch\nLight Activity Time: 217.8721 minutes, from smart watch\nLight Sleep Duration: 237.6929 minutes, from smart watch\nLowest Sp O2: 93.148 %, from smart watch\nLying Time: 507.3756 minutes, from smart watch\nMaximum Heart Rate During Exercise: 182.6087 bpm, from smart watch\nMean Glucose: 4.9324 mmol/L, from CGM\nMean Sp O2: 98.0198 %, from smart watch\nModerate Activity Time: 42.2236 minutes, from smart watch\nModerate Exercise Minutes: 35.8747 minutes, from smart watch\nMuscle Mass: (no reading), from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 120.4476 minutes, from smart watch\nRecovery Time: 35.9616 hours, from smart watch\nResting Heart Rate: 49.4381 bpm, from smart watch\nSedentary Time: 733.1278 minutes, from smart watch\nSleep Efficiency: 95.8039 %, from smart watch\nSleep Latency: 5.8391 minutes, from smart watch\nSleep Recovery Score: 74.1298, from smart watch\nStanding Time: 122.21 minutes, from smart watch\nTotal Daily Energy Expenditure: 2898.6512 kcal/day, from smart watch\nTotal Sleep Time: 418.7561 minutes, from smart watch\nTraining Load: 89.6365, from smart watch\nTraining Readiness: 48.1295, from smart watch\nVO2 Max Estimated: 51.9645 mL/kg/min, from smart watch\nVigorous Activity Time: 14.9375 minutes, from smart watch\nVigorous Exercise Minutes: 21.1222 minutes, from smart watch\nVisceral Fat Level: (no reading), from smart scale\nWake After Sleep Onset: 28.6552 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-11",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 69.2776 mmHg, from BP monitor\n24 Hour Average Systolic BP: 107.7033 mmHg, from BP monitor\nActive Calories: 941.2816 kcal, from smart watch\nAverage Heart Rate During Exercise: 143.6564 bpm, from smart watch\nBasal Body Temperature: 35.81 °C, from thermometer\nBody Battery: 87.601 %, from smart watch\nBody Fat Percentage: 16.9784 %, from smart scale\nBody Mass Index: 24.6345 kg/m², from smart scale\nBody Weight: 77.9611 kg, from smart scale\nCardiorespiratory Fitness: 51.5332, from smart watch\nDaily Average METs: 1.7098 METs, from smart watch\nDaily Distance: 7551.8151 meters, from smart watch\nDaily Exercise Duration: 64.2145 minutes, from smart watch\nDaily Step Count: 9983 steps, from smart watch\nDaily Stress Score: 33.3098, from smart watch\nDeep Sleep Duration: 110.2787 minutes, from smart watch\nFasting Blood Glucose: 4.4864 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 43.0129 bpm, from smart watch\nHeart Rate Variability: 72.8842 ms, from smart watch\nLight Activity Time: 221.5014 minutes, from smart watch\nLight Sleep Duration: 225.2469 minutes, from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: 495.8741 minutes, from smart watch\nMaximum Heart Rate During Exercise: 183.8524 bpm, from smart watch\nMean Glucose: 4.7386 mmol/L, from CGM\nMean Sp O2: 98.2112 %, from smart watch\nModerate Activity Time: 48.4634 minutes, from smart watch\nModerate Exercise Minutes: 29.4242 minutes, from smart watch\nMuscle Mass: 62.0842 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 137.3188 minutes, from smart watch\nRecovery Time: 24.2443 hours, from smart watch\nResting Heart Rate: 48.5854 bpm, from smart watch\nSedentary Time: 608.2197 minutes, from smart watch\nSleep Efficiency: 97.855 %, from smart watch\nSleep Latency: 7.7855 minutes, from smart watch\nSleep Recovery Score: 93.6324, from smart watch\nStanding Time: 111.7018 minutes, from smart watch\nTotal Daily Energy Expenditure: 2924.6155 kcal/day, from smart watch\nTotal Sleep Time: 437.3503 minutes, from smart watch\nTraining Load: 92.9389, from smart watch\nTraining Readiness: 73.1, from smart watch\nVO2 Max Estimated: 52.9944 mL/kg/min, from smart watch\nVigorous Activity Time: 28.2483 minutes, from smart watch\nVigorous Exercise Minutes: 22.3178 minutes, from smart watch\nVisceral Fat Level: 6.2241 level, from smart scale\nWake After Sleep Onset: 16.0817 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-12",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 72.793 mmHg, from BP monitor\n24 Hour Average Systolic BP: 107.9248 mmHg, from BP monitor\nActive Calories: 1004.0157 kcal, from smart watch\nAverage Heart Rate During Exercise: 139.8843 bpm, from smart watch\nBasal Body Temperature: 36.083 °C, from thermometer\nBody Battery: 85.581 %, from smart watch\nBody Fat Percentage: 17.3424 %, from smart scale\nBody Mass Index: 24.6453 kg/m², from smart scale\nBody Weight: 78.3117 kg, from smart scale\nCardiorespiratory Fitness: 49.7753, from smart watch\nDaily Average METs: 1.6053 METs, from smart watch\nDaily Distance: 7369.7499 meters, from smart watch\nDaily Exercise Duration: 68.6451 minutes, from smart watch\nDaily Step Count: 11741 steps, from smart watch\nDaily Stress Score: 30.3396, from smart watch\nDeep Sleep Duration: 100.7625 minutes, from smart watch\nFasting Blood Glucose: 4.4227 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 41.4054 bpm, from smart watch\nHeart Rate Variability: 75.3386 ms, from smart watch\nLight Activity Time: 220.1179 minutes, from smart watch\nLight Sleep Duration: 233.4391 minutes, from smart watch\nLowest Sp O2: 93.586 %, from smart watch\nLying Time: 486.3073 minutes, from smart watch\nMaximum Heart Rate During Exercise: 177.8621 bpm, from smart watch\nMean Glucose: 4.6328 mmol/L, from CGM\nMean Sp O2: 98.0274 %, from smart watch\nModerate Activity Time: 43.3107 minutes, from smart watch\nModerate Exercise Minutes: 28.7055 minutes, from smart watch\nMuscle Mass: 62.213 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 130.496 minutes, from smart watch\nRecovery Time: (no reading), from smart watch\nResting Heart Rate: 48.9863 bpm, from smart watch\nSedentary Time: 582.2743 minutes, from smart watch\nSleep Efficiency: 97.4 %, from smart watch\nSleep Latency: 8.1978 minutes, from smart watch\nSleep Recovery Score: 96.161, from smart watch\nStanding Time: 128.8343 minutes, from smart watch\nTotal Daily Energy Expenditure: 2917.9961 kcal/day, from smart watch\nTotal Sleep Time: 438.3376 minutes, from smart watch\nTraining Load: 84.7415, from smart watch\nTraining Readiness: 80.3476, from smart watch\nVO2 Max Estimated: 51.5869 mL/kg/min, from smart watch\nVigorous Activity Time: 23.2259 minutes, from smart watch\nVigorous Exercise Minutes: 18.1781 minutes, from smart watch\nVisceral Fat Level: 6.24 level, from smart scale\nWake After Sleep Onset: 10.0289 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_004",
+      "messages": [
+        {
+          "role": "user",
+          "content": "For measurements, I'm 178 cm tall and about 79 kg. I'm not coming in with acute symptoms; this is basically for annual preventive health screening. I am interested in optimizing my energy levels for work because my career demands a lot physically and mentally, and I see my health as a real asset for doing well professionally."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-01-13",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 73.7005 mmHg, from BP monitor\n24 Hour Average Systolic BP: 108.4179 mmHg, from BP monitor\nActive Calories: 1074.3286 kcal, from smart watch\nAverage Heart Rate During Exercise: 139.7545 bpm, from smart watch\nBasal Body Temperature: 36.268 °C, from thermometer\nBody Battery: 82.951 %, from smart watch\nBody Fat Percentage: 17.274 %, from smart scale\nBody Mass Index: 24.6493 kg/m², from smart scale\nBody Weight: 78.5461 kg, from smart scale\nCardiorespiratory Fitness: 49.201, from smart watch\nDaily Average METs: 1.5507 METs, from smart watch\nDaily Distance: 7814.1491 meters, from smart watch\nDaily Exercise Duration: 74.2422 minutes, from smart watch\nDaily Step Count: 11694 steps, from smart watch\nDaily Stress Score: 35.982, from smart watch\nDeep Sleep Duration: 102.4094 minutes, from smart watch\nFasting Blood Glucose: 4.4677 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 39.7061 bpm, from smart watch\nHeart Rate Variability: 81.5865 ms, from smart watch\nLight Activity Time: 215.0038 minutes, from smart watch\nLight Sleep Duration: 223.4676 minutes, from smart watch\nLowest Sp O2: 93.3433 %, from smart watch\nLying Time: 493.5032 minutes, from smart watch\nMaximum Heart Rate During Exercise: 175.6932 bpm, from smart watch\nMean Glucose: 4.6473 mmol/L, from CGM\nMean Sp O2: 97.6886 %, from smart watch\nModerate Activity Time: 51.2108 minutes, from smart watch\nModerate Exercise Minutes: 31.463 minutes, from smart watch\nMuscle Mass: 62.106 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 134.2925 minutes, from smart watch\nRecovery Time: 22.29 hours, from smart watch\nResting Heart Rate: 51.0005 bpm, from smart watch\nSedentary Time: 549.9772 minutes, from smart watch\nSleep Efficiency: 97.2207 %, from smart watch\nSleep Latency: 10.3625 minutes, from smart watch\nSleep Recovery Score: 97.0592, from smart watch\nStanding Time: 131.211 minutes, from smart watch\nTotal Daily Energy Expenditure: 2940.2865 kcal/day, from smart watch\nTotal Sleep Time: 435.4968 minutes, from smart watch\nTraining Load: 84.0823, from smart watch\nTraining Readiness: 77.7982, from smart watch\nVO2 Max Estimated: 50.7052 mL/kg/min, from smart watch\nVigorous Activity Time: 32.3076 minutes, from smart watch\nVigorous Exercise Minutes: 19.1397 minutes, from smart watch\nVisceral Fat Level: 6.5636 level, from smart scale\nWake After Sleep Onset: 11.8594 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_007",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Family history: my father has hypertension that started around age 55, but it's controlled. My mother is healthy. There doesn't seem to be any obvious clustering of chronic diseases in my family history."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-01-14",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.3509 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.2352 mmHg, from BP monitor\nActive Calories: 990.1779 kcal, from smart watch\nAverage Heart Rate During Exercise: 135.5737 bpm, from smart watch\nBasal Body Temperature: 36.3031 °C, from thermometer\nBody Battery: 80.7082 %, from smart watch\nBody Fat Percentage: 16.9464 %, from smart scale\nBody Mass Index: 24.6418 kg/m², from smart scale\nBody Weight: 78.4069 kg, from smart scale\nCardiorespiratory Fitness: 48.7199, from smart watch\nDaily Average METs: (no reading), from smart watch\nDaily Distance: 7679.4244 meters, from smart watch\nDaily Exercise Duration: 64.9277 minutes, from smart watch\nDaily Step Count: 10335 steps, from smart watch\nDaily Stress Score: 31.1634, from smart watch\nDeep Sleep Duration: 105.426 minutes, from smart watch\nFasting Blood Glucose: 4.4624 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 42.0945 bpm, from smart watch\nHeart Rate Variability: 80.2501 ms, from smart watch\nLight Activity Time: 212.1279 minutes, from smart watch\nLight Sleep Duration: 225.4211 minutes, from smart watch\nLowest Sp O2: 93.3662 %, from smart watch\nLying Time: 467.5926 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.2582 bpm, from smart watch\nMean Glucose: 4.5816 mmol/L, from CGM\nMean Sp O2: 97.6431 %, from smart watch\nModerate Activity Time: 41.1794 minutes, from smart watch\nModerate Exercise Minutes: 27.6063 minutes, from smart watch\nMuscle Mass: 62.3366 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 130.4589 minutes, from smart watch\nRecovery Time: 21.6276 hours, from smart watch\nResting Heart Rate: 51.1283 bpm, from smart watch\nSedentary Time: 557.7992 minutes, from smart watch\nSleep Efficiency: 95.7486 %, from smart watch\nSleep Latency: 8.5953 minutes, from smart watch\nSleep Recovery Score: 95.3987, from smart watch\nStanding Time: 117.4569 minutes, from smart watch\nTotal Daily Energy Expenditure: 3082.0067 kcal/day, from smart watch\nTotal Sleep Time: 442.5285 minutes, from smart watch\nTraining Load: 92.0125, from smart watch\nTraining Readiness: 77.2707, from smart watch\nVO2 Max Estimated: 50.5451 mL/kg/min, from smart watch\nVigorous Activity Time: 28.1896 minutes, from smart watch\nVigorous Exercise Minutes: 13.9497 minutes, from smart watch\nVisceral Fat Level: 6.567 level, from smart scale\nWake After Sleep Onset: 6.0503 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_014",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just to summarize the current picture: I'm a generally healthy 34-year-old male sales manager with no active chronic disease, seasonal pollen allergy, prior appendectomy at 22 with full recovery, a family history of controlled hypertension in my father, and a prevention-focused plan around weight, sleep, exercise, burnout prevention, and cardiovascular health."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-01-15",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.3709 mmHg, from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 922.1819 kcal, from smart watch\nAverage Heart Rate During Exercise: 136.5635 bpm, from smart watch\nBasal Body Temperature: 36.4052 °C, from thermometer\nBody Battery: 81.0374 %, from smart watch\nBody Fat Percentage: 16.628 %, from smart scale\nBody Mass Index: 24.5895 kg/m², from smart scale\nBody Weight: 78.4195 kg, from smart scale\nCardiorespiratory Fitness: 48.8818, from smart watch\nDaily Average METs: 1.5371 METs, from smart watch\nDaily Distance: 6347.3192 meters, from smart watch\nDaily Exercise Duration: 58.6803 minutes, from smart watch\nDaily Step Count: 11270 steps, from smart watch\nDaily Stress Score: 33.6035, from smart watch\nDeep Sleep Duration: 103.4138 minutes, from smart watch\nFasting Blood Glucose: 4.4 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 40.3318 bpm, from smart watch\nHeart Rate Variability: 79.7003 ms, from smart watch\nLight Activity Time: 214.5148 minutes, from smart watch\nLight Sleep Duration: 215.9621 minutes, from smart watch\nLowest Sp O2: 91.9849 %, from smart watch\nLying Time: 476.3368 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.2708 bpm, from smart watch\nMean Glucose: 4.5846 mmol/L, from CGM\nMean Sp O2: 97.4671 %, from smart watch\nModerate Activity Time: 40.1788 minutes, from smart watch\nModerate Exercise Minutes: 20.8906 minutes, from smart watch\nMuscle Mass: 62.0943 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 126.6158 minutes, from smart watch\nRecovery Time: 17.7527 hours, from smart watch\nResting Heart Rate: 51.3044 bpm, from smart watch\nSedentary Time: 561.1647 minutes, from smart watch\nSleep Efficiency: 96.0388 %, from smart watch\nSleep Latency: 9.2781 minutes, from smart watch\nSleep Recovery Score: 95.8921, from smart watch\nStanding Time: 110.5286 minutes, from smart watch\nTotal Daily Energy Expenditure: (no reading), from smart watch\nTotal Sleep Time: 438.4674 minutes, from smart watch\nTraining Load: 79.3013, from smart watch\nTraining Readiness: 78.1825, from smart watch\nVO2 Max Estimated: 50.6378 mL/kg/min, from smart watch\nVigorous Activity Time: 24.5356 minutes, from smart watch\nVigorous Exercise Minutes: 20.6628 minutes, from smart watch\nVisceral Fat Level: 6.3496 level, from smart scale\nWake After Sleep Onset: 4.9139 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-16",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 73.1733 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.6358 mmHg, from BP monitor\nActive Calories: (no reading), from smart watch\nAverage Heart Rate During Exercise: (no reading), from smart watch\nBasal Body Temperature: 36.4818 °C, from thermometer\nBody Battery: (no reading), from smart watch\nBody Fat Percentage: 16.8038 %, from smart scale\nBody Mass Index: 24.6077 kg/m², from smart scale\nBody Weight: 78.2146 kg, from smart scale\nCardiorespiratory Fitness: (no reading), from smart watch\nDaily Average METs: (no reading), from smart watch\nDaily Distance: (no reading), from smart watch\nDaily Exercise Duration: (no reading), from smart watch\nDaily Step Count: (no reading), from smart watch\nDaily Stress Score: (no reading), from smart watch\nDeep Sleep Duration: (no reading), from smart watch\nFasting Blood Glucose: 4.3843 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: (no reading), from smart watch\nHeart Rate Variability: (no reading), from smart watch\nLight Activity Time: (no reading), from smart watch\nLight Sleep Duration: (no reading), from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: (no reading), from smart watch\nMaximum Heart Rate During Exercise: (no reading), from smart watch\nMean Glucose: 4.637 mmol/L, from CGM\nMean Sp O2: (no reading), from smart watch\nModerate Activity Time: (no reading), from smart watch\nModerate Exercise Minutes: (no reading), from smart watch\nMuscle Mass: 62.1938 kg, from smart scale\nNumberof Awakenings: (no reading), from smart watch\nREMDuration: (no reading), from smart watch\nRecovery Time: (no reading), from smart watch\nResting Heart Rate: (no reading), from smart watch\nSedentary Time: (no reading), from smart watch\nSleep Efficiency: (no reading), from smart watch\nSleep Latency: (no reading), from smart watch\nSleep Recovery Score: (no reading), from smart watch\nStanding Time: (no reading), from smart watch\nTotal Daily Energy Expenditure: (no reading), from smart watch\nTotal Sleep Time: (no reading), from smart watch\nTraining Load: (no reading), from smart watch\nTraining Readiness: (no reading), from smart watch\nVO2 Max Estimated: (no reading), from smart watch\nVigorous Activity Time: (no reading), from smart watch\nVigorous Exercise Minutes: (no reading), from smart watch\nVisceral Fat Level: 6.5841 level, from smart scale\nWake After Sleep Onset: (no reading), from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-17",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 70.5099 mmHg, from BP monitor\n24 Hour Average Systolic BP: 106.6698 mmHg, from BP monitor\nActive Calories: 986.3432 kcal, from smart watch\nAverage Heart Rate During Exercise: 143.0339 bpm, from smart watch\nBasal Body Temperature: 36.0902 °C, from thermometer\nBody Battery: 82.4491 %, from smart watch\nBody Fat Percentage: 16.6966 %, from smart scale\nBody Mass Index: 24.5125 kg/m², from smart scale\nBody Weight: 77.7839 kg, from smart scale\nCardiorespiratory Fitness: 50.6392, from smart watch\nDaily Average METs: 1.6097 METs, from smart watch\nDaily Distance: 6591.3473 meters, from smart watch\nDaily Exercise Duration: 65.7084 minutes, from smart watch\nDaily Step Count: 10275 steps, from smart watch\nDaily Stress Score: 23.6429, from smart watch\nDeep Sleep Duration: 102.2398 minutes, from smart watch\nFasting Blood Glucose: 4.4914 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 41.6544 bpm, from smart watch\nHeart Rate Variability: 76.383 ms, from smart watch\nLight Activity Time: 222.0456 minutes, from smart watch\nLight Sleep Duration: 221.9938 minutes, from smart watch\nLowest Sp O2: 92.8705 %, from smart watch\nLying Time: 478.5976 minutes, from smart watch\nMaximum Heart Rate During Exercise: 180.5208 bpm, from smart watch\nMean Glucose: 4.5038 mmol/L, from CGM\nMean Sp O2: 97.8816 %, from smart watch\nModerate Activity Time: 42.2442 minutes, from smart watch\nModerate Exercise Minutes: 26.9086 minutes, from smart watch\nMuscle Mass: 62.0362 kg, from smart scale\nNumberof Awakenings: (no reading), from smart watch\nREMDuration: 123.7944 minutes, from smart watch\nRecovery Time: 19.4987 hours, from smart watch\nResting Heart Rate: 46.8399 bpm, from smart watch\nSedentary Time: 608.0329 minutes, from smart watch\nSleep Efficiency: 98.3434 %, from smart watch\nSleep Latency: 8.5695 minutes, from smart watch\nSleep Recovery Score: 96.7992, from smart watch\nStanding Time: 114.2434 minutes, from smart watch\nTotal Daily Energy Expenditure: 2944.0793 kcal/day, from smart watch\nTotal Sleep Time: 460.0636 minutes, from smart watch\nTraining Load: 91.844, from smart watch\nTraining Readiness: 79.0694, from smart watch\nVO2 Max Estimated: 52.0825 mL/kg/min, from smart watch\nVigorous Activity Time: 25.6667 minutes, from smart watch\nVigorous Exercise Minutes: 14.582 minutes, from smart watch\nVisceral Fat Level: 6.203 level, from smart scale\nWake After Sleep Onset: 3.8018 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-18",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 68.2199 mmHg, from BP monitor\n24 Hour Average Systolic BP: 106.5365 mmHg, from BP monitor\nActive Calories: 1020.1772 kcal, from smart watch\nAverage Heart Rate During Exercise: 143.8948 bpm, from smart watch\nBasal Body Temperature: 35.8088 °C, from thermometer\nBody Battery: 80.702 %, from smart watch\nBody Fat Percentage: (no reading), from smart scale\nBody Mass Index: (no reading), from smart scale\nBody Weight: (no reading), from smart scale\nCardiorespiratory Fitness: 51.4122, from smart watch\nDaily Average METs: 1.6997 METs, from smart watch\nDaily Distance: 6774.5921 meters, from smart watch\nDaily Exercise Duration: 69.4297 minutes, from smart watch\nDaily Step Count: 11397 steps, from smart watch\nDaily Stress Score: 29.4032, from smart watch\nDeep Sleep Duration: 104.0944 minutes, from smart watch\nFasting Blood Glucose: 4.3874 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 42.2933 bpm, from smart watch\nHeart Rate Variability: 74.9148 ms, from smart watch\nLight Activity Time: 219.3384 minutes, from smart watch\nLight Sleep Duration: 227.4661 minutes, from smart watch\nLowest Sp O2: 92.9865 %, from smart watch\nLying Time: 496.902 minutes, from smart watch\nMaximum Heart Rate During Exercise: 183.1111 bpm, from smart watch\nMean Glucose: 4.4891 mmol/L, from CGM\nMean Sp O2: 97.9427 %, from smart watch\nModerate Activity Time: 46.2805 minutes, from smart watch\nModerate Exercise Minutes: 27.6296 minutes, from smart watch\nMuscle Mass: (no reading), from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 121.8158 minutes, from smart watch\nRecovery Time: 23.6751 hours, from smart watch\nResting Heart Rate: 46.9042 bpm, from smart watch\nSedentary Time: 592.7644 minutes, from smart watch\nSleep Efficiency: 98.6301 %, from smart watch\nSleep Latency: 9.924 minutes, from smart watch\nSleep Recovery Score: 95.9127, from smart watch\nStanding Time: 128.0992 minutes, from smart watch\nTotal Daily Energy Expenditure: 2969.4222 kcal/day, from smart watch\nTotal Sleep Time: 473.4714 minutes, from smart watch\nTraining Load: 85.8394, from smart watch\nTraining Readiness: 80.842, from smart watch\nVO2 Max Estimated: 53.1342 mL/kg/min, from smart watch\nVigorous Activity Time: 24.2985 minutes, from smart watch\nVigorous Exercise Minutes: 22.6103 minutes, from smart watch\nVisceral Fat Level: (no reading), from smart scale\nWake After Sleep Onset: 3.7545 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-19",
+      "source_row_count": 48,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 71.7085 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.715 mmHg, from BP monitor\nActive Calories: 492.2313 kcal, from smart watch\nAverage Heart Rate During Exercise: 129.0925 bpm, from smart watch\nBasal Body Temperature: 36.1176 °C, from thermometer\nBody Battery: 75.8179 %, from smart watch\nBody Fat Percentage: (no reading), from smart scale\nBody Mass Index: (no reading), from smart scale\nBody Weight: (no reading), from smart scale\nCardiorespiratory Fitness: 49.7269, from smart watch\nDaily Average METs: 1.2892 METs, from smart watch\nDaily Distance: 7279.3149 meters, from smart watch\nDaily Exercise Duration: 31.9808 minutes, from smart watch\nDaily Step Count: 5648 steps, from smart watch\nDaily Stress Score: 40.2668, from smart watch\nDeep Sleep Duration: 91.874 minutes, from smart watch\nFasting Blood Glucose: 4.5523 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 40.7114 bpm, from smart watch\nHeart Rate Variability: 74.7438 ms, from smart watch\nLight Activity Time: 223.0399 minutes, from smart watch\nLight Sleep Duration: 227.045 minutes, from smart watch\nLowest Sp O2: 93.8113 %, from smart watch\nLying Time: 490.1355 minutes, from smart watch\nMaximum Heart Rate During Exercise: 176.2737 bpm, from smart watch\nMean Glucose: 4.615 mmol/L, from CGM\nMean Sp O2: 97.907 %, from smart watch\nModerate Activity Time: 49.2862 minutes, from smart watch\nModerate Exercise Minutes: 32.94 minutes, from smart watch\nMuscle Mass: (no reading), from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 111.7658 minutes, from smart watch\nRecovery Time: 19.543 hours, from smart watch\nResting Heart Rate: 50.9056 bpm, from smart watch\nSedentary Time: 758.9129 minutes, from smart watch\nSleep Efficiency: 95.3534 %, from smart watch\nSleep Latency: 16.6955 minutes, from smart watch\nSleep Recovery Score: 80.7566, from smart watch\nStanding Time: 115.5587 minutes, from smart watch\nTotal Daily Energy Expenditure: 2800.5501 kcal/day, from smart watch\nTotal Sleep Time: 435.3602 minutes, from smart watch\nTraining Load: 31.233, from smart watch\nTraining Readiness: 52.8376, from smart watch\nVO2 Max Estimated: 51.7227 mL/kg/min, from smart watch\nVigorous Activity Time: 10.6973 minutes, from smart watch\nVigorous Exercise Minutes: (no reading), from smart watch\nVisceral Fat Level: (no reading), from smart scale\nWake After Sleep Onset: 16.2603 minutes, from smart watch"
+        },
+        {
+          "role": "user",
+          "content": "I woke up with an acute lumbar strain today, and it's going to last for the next five days. Hopefully, I can manage it with some rest and maybe some treatment."
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-20",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 72.7662 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.2758 mmHg, from BP monitor\nActive Calories: 290.0112 kcal, from smart watch\nAverage Heart Rate During Exercise: 114.6818 bpm, from smart watch\nBasal Body Temperature: 36.2259 °C, from thermometer\nBody Battery: 60.3418 %, from smart watch\nBody Fat Percentage: (no reading), from smart scale\nBody Mass Index: 24.4512 kg/m², from smart scale\nBody Weight: (no reading), from smart scale\nCardiorespiratory Fitness: 49.2034, from smart watch\nDaily Average METs: 1.239 METs, from smart watch\nDaily Distance: 7067.3395 meters, from smart watch\nDaily Exercise Duration: 15.0144 minutes, from smart watch\nDaily Step Count: 3911 steps, from smart watch\nDaily Stress Score: 39.8263, from smart watch\nDeep Sleep Duration: 92.9723 minutes, from smart watch\nFasting Blood Glucose: 4.682 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 34.9164 bpm, from smart watch\nHeart Rate Variability: 71.0304 ms, from smart watch\nLight Activity Time: 220.4523 minutes, from smart watch\nLight Sleep Duration: 225.077 minutes, from smart watch\nLowest Sp O2: 93.2037 %, from smart watch\nLying Time: 464.7636 minutes, from smart watch\nMaximum Heart Rate During Exercise: 173.1886 bpm, from smart watch\nMean Glucose: 4.8179 mmol/L, from CGM\nMean Sp O2: 98.1042 %, from smart watch\nModerate Activity Time: 43.9059 minutes, from smart watch\nModerate Exercise Minutes: 25.4977 minutes, from smart watch\nMuscle Mass: 62.0908 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 111.5426 minutes, from smart watch\nRecovery Time: 19.8036 hours, from smart watch\nResting Heart Rate: 49.4422 bpm, from smart watch\nSedentary Time: 817.5976 minutes, from smart watch\nSleep Efficiency: 90.4379 %, from smart watch\nSleep Latency: 22.8165 minutes, from smart watch\nSleep Recovery Score: 71.8603, from smart watch\nStanding Time: 108.8723 minutes, from smart watch\nTotal Daily Energy Expenditure: 2561.7975 kcal/day, from smart watch\nTotal Sleep Time: 400.495 minutes, from smart watch\nTraining Load: 17.1531, from smart watch\nTraining Readiness: 47.3091, from smart watch\nVO2 Max Estimated: 50.2895 mL/kg/min, from smart watch\nVigorous Activity Time: (no reading), from smart watch\nVigorous Exercise Minutes: 14.1082 minutes, from smart watch\nVisceral Fat Level: 6.6206 level, from smart scale\nWake After Sleep Onset: 24.2715 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-21",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 75.0148 mmHg, from BP monitor\n24 Hour Average Systolic BP: 113.9766 mmHg, from BP monitor\nActive Calories: 286.985 kcal, from smart watch\nAverage Heart Rate During Exercise: 104.5543 bpm, from smart watch\nBasal Body Temperature: 36.2776 °C, from thermometer\nBody Battery: 63.8935 %, from smart watch\nBody Fat Percentage: (no reading), from smart scale\nBody Mass Index: (no reading), from smart scale\nBody Weight: (no reading), from smart scale\nCardiorespiratory Fitness: 49.0263, from smart watch\nDaily Average METs: 1.2973 METs, from smart watch\nDaily Distance: 6910.0423 meters, from smart watch\nDaily Exercise Duration: 14.1511 minutes, from smart watch\nDaily Step Count: 4168 steps, from smart watch\nDaily Stress Score: 38.4328, from smart watch\nDeep Sleep Duration: 85.7255 minutes, from smart watch\nFasting Blood Glucose: 4.8385 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 37.0824 bpm, from smart watch\nHeart Rate Variability: 64.2097 ms, from smart watch\nLight Activity Time: 213.075 minutes, from smart watch\nLight Sleep Duration: 208.9756 minutes, from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: 484.13 minutes, from smart watch\nMaximum Heart Rate During Exercise: 175.3628 bpm, from smart watch\nMean Glucose: 4.8646 mmol/L, from CGM\nMean Sp O2: 98.3788 %, from smart watch\nModerate Activity Time: 47.6041 minutes, from smart watch\nModerate Exercise Minutes: 30.0379 minutes, from smart watch\nMuscle Mass: (no reading), from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 108.7289 minutes, from smart watch\nRecovery Time: 21.0185 hours, from smart watch\nResting Heart Rate: 52.317 bpm, from smart watch\nSedentary Time: 832.0415 minutes, from smart watch\nSleep Efficiency: 87.6463 %, from smart watch\nSleep Latency: (no reading), from smart watch\nSleep Recovery Score: 74.9201, from smart watch\nStanding Time: 118.8614 minutes, from smart watch\nTotal Daily Energy Expenditure: 2373.8823 kcal/day, from smart watch\nTotal Sleep Time: 398.7064 minutes, from smart watch\nTraining Load: 26.8545, from smart watch\nTraining Readiness: 49.8587, from smart watch\nVO2 Max Estimated: 49.2131 mL/kg/min, from smart watch\nVigorous Activity Time: 7.7893 minutes, from smart watch\nVigorous Exercise Minutes: 16.4946 minutes, from smart watch\nVisceral Fat Level: (no reading), from smart scale\nWake After Sleep Onset: 27.2303 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-22",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.8303 mmHg, from BP monitor\n24 Hour Average Systolic BP: 115.5357 mmHg, from BP monitor\nActive Calories: 277.5814 kcal, from smart watch\nAverage Heart Rate During Exercise: 100.8757 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 60.0395 %, from smart watch\nBody Fat Percentage: 16.4942 %, from smart scale\nBody Mass Index: 24.3892 kg/m², from smart scale\nBody Weight: 77.1691 kg, from smart scale\nCardiorespiratory Fitness: 48.9434, from smart watch\nDaily Average METs: 1.2185 METs, from smart watch\nDaily Distance: 7281.1391 meters, from smart watch\nDaily Exercise Duration: 10.144 minutes, from smart watch\nDaily Step Count: 3988 steps, from smart watch\nDaily Stress Score: 42.7551, from smart watch\nDeep Sleep Duration: 77.1589 minutes, from smart watch\nFasting Blood Glucose: 4.8844 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 35.9411 bpm, from smart watch\nHeart Rate Variability: 62.5682 ms, from smart watch\nLight Activity Time: 216.6468 minutes, from smart watch\nLight Sleep Duration: 205.0475 minutes, from smart watch\nLowest Sp O2: 93.6125 %, from smart watch\nLying Time: 488.8617 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.8549 bpm, from smart watch\nMean Glucose: 4.9735 mmol/L, from CGM\nMean Sp O2: 98.0607 %, from smart watch\nModerate Activity Time: 45.7114 minutes, from smart watch\nModerate Exercise Minutes: 30.5102 minutes, from smart watch\nMuscle Mass: 62.2187 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 103.1262 minutes, from smart watch\nRecovery Time: 20.4267 hours, from smart watch\nResting Heart Rate: 54.175 bpm, from smart watch\nSedentary Time: 846.1398 minutes, from smart watch\nSleep Efficiency: 85.8509 %, from smart watch\nSleep Latency: 30.29 minutes, from smart watch\nSleep Recovery Score: 74.1923, from smart watch\nStanding Time: 132.5453 minutes, from smart watch\nTotal Daily Energy Expenditure: 2364.9118 kcal/day, from smart watch\nTotal Sleep Time: 399.9993 minutes, from smart watch\nTraining Load: 24.2322, from smart watch\nTraining Readiness: 51.1939, from smart watch\nVO2 Max Estimated: 48.9918 mL/kg/min, from smart watch\nVigorous Activity Time: 6.6245 minutes, from smart watch\nVigorous Exercise Minutes: 16.4896 minutes, from smart watch\nVisceral Fat Level: 6.4962 level, from smart scale\nWake After Sleep Onset: 40.6681 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-23",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 77.5297 mmHg, from BP monitor\n24 Hour Average Systolic BP: 115.0384 mmHg, from BP monitor\nActive Calories: (no reading), from smart watch\nAverage Heart Rate During Exercise: (no reading), from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: (no reading), from smart watch\nBody Fat Percentage: 16.5662 %, from smart scale\nBody Mass Index: 24.4068 kg/m², from smart scale\nBody Weight: 77.0699 kg, from smart scale\nCardiorespiratory Fitness: (no reading), from smart watch\nDaily Average METs: (no reading), from smart watch\nDaily Distance: (no reading), from smart watch\nDaily Exercise Duration: (no reading), from smart watch\nDaily Step Count: (no reading), from smart watch\nDaily Stress Score: (no reading), from smart watch\nDeep Sleep Duration: (no reading), from smart watch\nFasting Blood Glucose: 4.934 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: (no reading), from smart watch\nHeart Rate Variability: (no reading), from smart watch\nLight Activity Time: (no reading), from smart watch\nLight Sleep Duration: (no reading), from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: (no reading), from smart watch\nMaximum Heart Rate During Exercise: (no reading), from smart watch\nMean Glucose: 5.1556 mmol/L, from CGM\nMean Sp O2: (no reading), from smart watch\nModerate Activity Time: (no reading), from smart watch\nModerate Exercise Minutes: (no reading), from smart watch\nMuscle Mass: 62.2679 kg, from smart scale\nNumberof Awakenings: (no reading), from smart watch\nREMDuration: (no reading), from smart watch\nRecovery Time: (no reading), from smart watch\nResting Heart Rate: (no reading), from smart watch\nSedentary Time: (no reading), from smart watch\nSleep Efficiency: (no reading), from smart watch\nSleep Latency: (no reading), from smart watch\nSleep Recovery Score: (no reading), from smart watch\nStanding Time: (no reading), from smart watch\nTotal Daily Energy Expenditure: (no reading), from smart watch\nTotal Sleep Time: (no reading), from smart watch\nTraining Load: (no reading), from smart watch\nTraining Readiness: (no reading), from smart watch\nVO2 Max Estimated: (no reading), from smart watch\nVigorous Activity Time: (no reading), from smart watch\nVigorous Exercise Minutes: (no reading), from smart watch\nVisceral Fat Level: 6.5846 level, from smart scale\nWake After Sleep Onset: (no reading), from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-24",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 75.4336 mmHg, from BP monitor\n24 Hour Average Systolic BP: 114.8306 mmHg, from BP monitor\nActive Calories: 306.5795 kcal, from smart watch\nAverage Heart Rate During Exercise: 109.77 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 64.9743 %, from smart watch\nBody Fat Percentage: 16.4481 %, from smart scale\nBody Mass Index: 24.3535 kg/m², from smart scale\nBody Weight: 76.9943 kg, from smart scale\nCardiorespiratory Fitness: 50.8382, from smart watch\nDaily Average METs: 1.2868 METs, from smart watch\nDaily Distance: 7625.2727 meters, from smart watch\nDaily Exercise Duration: 10.4957 minutes, from smart watch\nDaily Step Count: 4193 steps, from smart watch\nDaily Stress Score: 55.2621, from smart watch\nDeep Sleep Duration: 74.9015 minutes, from smart watch\nFasting Blood Glucose: 5.0976 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 38.3552 bpm, from smart watch\nHeart Rate Variability: 65.1828 ms, from smart watch\nLight Activity Time: 226.2627 minutes, from smart watch\nLight Sleep Duration: 235.1275 minutes, from smart watch\nLowest Sp O2: 93.3492 %, from smart watch\nLying Time: 510.6786 minutes, from smart watch\nMaximum Heart Rate During Exercise: 182.916 bpm, from smart watch\nMean Glucose: 5.2311 mmol/L, from CGM\nMean Sp O2: 97.8218 %, from smart watch\nModerate Activity Time: 42.1344 minutes, from smart watch\nModerate Exercise Minutes: 34.3771 minutes, from smart watch\nMuscle Mass: 62.3434 kg, from smart scale\nNumberof Awakenings: 4 count, from smart watch\nREMDuration: 119.8601 minutes, from smart watch\nRecovery Time: 24.1811 hours, from smart watch\nResting Heart Rate: 54.0459 bpm, from smart watch\nSedentary Time: 878.4533 minutes, from smart watch\nSleep Efficiency: 92.1215 %, from smart watch\nSleep Latency: 31.2263 minutes, from smart watch\nSleep Recovery Score: 80.4513, from smart watch\nStanding Time: 126.5864 minutes, from smart watch\nTotal Daily Energy Expenditure: 2385.5436 kcal/day, from smart watch\nTotal Sleep Time: 420.3055 minutes, from smart watch\nTraining Load: 20.0448, from smart watch\nTraining Readiness: 52.8472, from smart watch\nVO2 Max Estimated: 50.6808 mL/kg/min, from smart watch\nVigorous Activity Time: 5.0152 minutes, from smart watch\nVigorous Exercise Minutes: 23.0728 minutes, from smart watch\nVisceral Fat Level: 6.4601 level, from smart scale\nWake After Sleep Onset: 45.1153 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-25",
+      "source_row_count": 48,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.5848 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.8622 mmHg, from BP monitor\nActive Calories: 635.8077 kcal, from smart watch\nAverage Heart Rate During Exercise: 123.7201 bpm, from smart watch\nBasal Body Temperature: 35.8047 °C, from thermometer\nBody Battery: 69.7756 %, from smart watch\nBody Fat Percentage: 16.5092 %, from smart scale\nBody Mass Index: 24.302 kg/m², from smart scale\nBody Weight: 76.934 kg, from smart scale\nCardiorespiratory Fitness: 51.1737, from smart watch\nDaily Average METs: 1.6656 METs, from smart watch\nDaily Distance: 6594.5475 meters, from smart watch\nDaily Exercise Duration: 39.1311 minutes, from smart watch\nDaily Step Count: 8017 steps, from smart watch\nDaily Stress Score: 48.1811, from smart watch\nDeep Sleep Duration: 73.2109 minutes, from smart watch\nFasting Blood Glucose: 4.9444 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 37.7564 bpm, from smart watch\nHeart Rate Variability: 66.9164 ms, from smart watch\nLight Activity Time: 204.4888 minutes, from smart watch\nLight Sleep Duration: 245.6941 minutes, from smart watch\nLowest Sp O2: 93.3124 %, from smart watch\nLying Time: 495.0666 minutes, from smart watch\nMaximum Heart Rate During Exercise: 173.3062 bpm, from smart watch\nMean Glucose: 4.941 mmol/L, from CGM\nMean Sp O2: 97.6915 %, from smart watch\nModerate Activity Time: 50.2157 minutes, from smart watch\nModerate Exercise Minutes: 43.7411 minutes, from smart watch\nMuscle Mass: 62.2834 kg, from smart scale\nNumberof Awakenings: 3 count, from smart watch\nREMDuration: 113.9334 minutes, from smart watch\nRecovery Time: 22.6371 hours, from smart watch\nResting Heart Rate: 52.4874 bpm, from smart watch\nSedentary Time: 687.8784 minutes, from smart watch\nSleep Efficiency: 96.4893 %, from smart watch\nSleep Latency: 23.7731 minutes, from smart watch\nSleep Recovery Score: 93.8875, from smart watch\nStanding Time: 118.4227 minutes, from smart watch\nTotal Daily Energy Expenditure: 2314.0541 kcal/day, from smart watch\nTotal Sleep Time: 427.5906 minutes, from smart watch\nTraining Load: 49.3254, from smart watch\nTraining Readiness: 68.1632, from smart watch\nVO2 Max Estimated: 51.4112 mL/kg/min, from smart watch\nVigorous Activity Time: 13.0493 minutes, from smart watch\nVigorous Exercise Minutes: 11.1592 minutes, from smart watch\nVisceral Fat Level: 6.5214 level, from smart scale\nWake After Sleep Onset: 33.9663 minutes, from smart watch"
+        },
+        {
+          "role": "user",
+          "content": "I started a new long-term habit today to resume my modified gym routine. It's supposed to last 21 days, but it got interrupted on February 1st."
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-26",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 76.1388 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.6311 mmHg, from BP monitor\nActive Calories: 646.2234 kcal, from smart watch\nAverage Heart Rate During Exercise: 125.9797 bpm, from smart watch\nBasal Body Temperature: 36.0459 °C, from thermometer\nBody Battery: 60.4987 %, from smart watch\nBody Fat Percentage: 16.3336 %, from smart scale\nBody Mass Index: 24.281 kg/m², from smart scale\nBody Weight: 76.7534 kg, from smart scale\nCardiorespiratory Fitness: 49.5921, from smart watch\nDaily Average METs: 1.6102 METs, from smart watch\nDaily Distance: 7070.6416 meters, from smart watch\nDaily Exercise Duration: 45.6816 minutes, from smart watch\nDaily Step Count: 7860 steps, from smart watch\nDaily Stress Score: 46.4211, from smart watch\nDeep Sleep Duration: 76.0014 minutes, from smart watch\nFasting Blood Glucose: (no reading), from CGM\nHeart Rate Recovery 1 Minute: 38.3152 bpm, from smart watch\nHeart Rate Variability: 68.5432 ms, from smart watch\nLight Activity Time: 207.133 minutes, from smart watch\nLight Sleep Duration: 223.9333 minutes, from smart watch\nLowest Sp O2: 93.3383 %, from smart watch\nLying Time: 472.483 minutes, from smart watch\nMaximum Heart Rate During Exercise: 163.8103 bpm, from smart watch\nMean Glucose: 4.745 mmol/L, from CGM\nMean Sp O2: 97.4257 %, from smart watch\nModerate Activity Time: 42.4506 minutes, from smart watch\nModerate Exercise Minutes: 47.8671 minutes, from smart watch\nMuscle Mass: 62.01 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 110.282 minutes, from smart watch\nRecovery Time: 20.3368 hours, from smart watch\nResting Heart Rate: 53.7085 bpm, from smart watch\nSedentary Time: 596.2924 minutes, from smart watch\nSleep Efficiency: 95.1128 %, from smart watch\nSleep Latency: 18.9653 minutes, from smart watch\nSleep Recovery Score: 90.6148, from smart watch\nStanding Time: 119.1597 minutes, from smart watch\nTotal Daily Energy Expenditure: 2339.4538 kcal/day, from smart watch\nTotal Sleep Time: 395.4414 minutes, from smart watch\nTraining Load: 58.5787, from smart watch\nTraining Readiness: 66.8579, from smart watch\nVO2 Max Estimated: (no reading), from smart watch\nVigorous Activity Time: 24.0646 minutes, from smart watch\nVigorous Exercise Minutes: 8.3214 minutes, from smart watch\nVisceral Fat Level: 6.7013 level, from smart scale\nWake After Sleep Onset: 25.8804 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-27",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 77.8928 mmHg, from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 714.1242 kcal, from smart watch\nAverage Heart Rate During Exercise: 125.835 bpm, from smart watch\nBasal Body Temperature: 36.2426 °C, from thermometer\nBody Battery: 66.8581 %, from smart watch\nBody Fat Percentage: 16.3499 %, from smart scale\nBody Mass Index: 24.2933 kg/m², from smart scale\nBody Weight: 76.7865 kg, from smart scale\nCardiorespiratory Fitness: 48.9739, from smart watch\nDaily Average METs: 1.6553 METs, from smart watch\nDaily Distance: 7060.4379 meters, from smart watch\nDaily Exercise Duration: 51.7963 minutes, from smart watch\nDaily Step Count: 7343 steps, from smart watch\nDaily Stress Score: 44.7362, from smart watch\nDeep Sleep Duration: 80.6736 minutes, from smart watch\nFasting Blood Glucose: 4.8462 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.662 bpm, from smart watch\nHeart Rate Variability: 73.012 ms, from smart watch\nLight Activity Time: 207.3522 minutes, from smart watch\nLight Sleep Duration: 227.599 minutes, from smart watch\nLowest Sp O2: 93.527 %, from smart watch\nLying Time: 502.1174 minutes, from smart watch\nMaximum Heart Rate During Exercise: 157.2231 bpm, from smart watch\nMean Glucose: 4.9577 mmol/L, from CGM\nMean Sp O2: 97.4627 %, from smart watch\nModerate Activity Time: 48.7646 minutes, from smart watch\nModerate Exercise Minutes: 47.9155 minutes, from smart watch\nMuscle Mass: 62.1543 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 112.7118 minutes, from smart watch\nRecovery Time: 23.6456 hours, from smart watch\nResting Heart Rate: 55.4362 bpm, from smart watch\nSedentary Time: 595.325 minutes, from smart watch\nSleep Efficiency: 95.9294 %, from smart watch\nSleep Latency: 15.5326 minutes, from smart watch\nSleep Recovery Score: 90.8015, from smart watch\nStanding Time: 132.295 minutes, from smart watch\nTotal Daily Energy Expenditure: 2589.0019 kcal/day, from smart watch\nTotal Sleep Time: 415.8035 minutes, from smart watch\nTraining Load: 68.9607, from smart watch\nTraining Readiness: 68.3869, from smart watch\nVO2 Max Estimated: 49.1747 mL/kg/min, from smart watch\nVigorous Activity Time: 28.1065 minutes, from smart watch\nVigorous Exercise Minutes: 12.6155 minutes, from smart watch\nVisceral Fat Level: 6.8188 level, from smart scale\nWake After Sleep Onset: 23.0603 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-28",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 76.2068 mmHg, from BP monitor\n24 Hour Average Systolic BP: 111.2138 mmHg, from BP monitor\nActive Calories: 655.3725 kcal, from smart watch\nAverage Heart Rate During Exercise: 128.9677 bpm, from smart watch\nBasal Body Temperature: 36.3756 °C, from thermometer\nBody Battery: 61.4314 %, from smart watch\nBody Fat Percentage: 16.3875 %, from smart scale\nBody Mass Index: 24.2007 kg/m², from smart scale\nBody Weight: 76.9028 kg, from smart scale\nCardiorespiratory Fitness: 48.9777, from smart watch\nDaily Average METs: 1.6052 METs, from smart watch\nDaily Distance: 7662.8186 meters, from smart watch\nDaily Exercise Duration: 56.4276 minutes, from smart watch\nDaily Step Count: 8430 steps, from smart watch\nDaily Stress Score: 45.338, from smart watch\nDeep Sleep Duration: 83.2835 minutes, from smart watch\nFasting Blood Glucose: 4.8512 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.6428 bpm, from smart watch\nHeart Rate Variability: 69.5961 ms, from smart watch\nLight Activity Time: 213.3047 minutes, from smart watch\nLight Sleep Duration: 215.209 minutes, from smart watch\nLowest Sp O2: 94.0092 %, from smart watch\nLying Time: 464.0244 minutes, from smart watch\nMaximum Heart Rate During Exercise: 154.292 bpm, from smart watch\nMean Glucose: 5.0929 mmol/L, from CGM\nMean Sp O2: 97.4391 %, from smart watch\nModerate Activity Time: 45.4869 minutes, from smart watch\nModerate Exercise Minutes: 47.7426 minutes, from smart watch\nMuscle Mass: 61.8864 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 112.1475 minutes, from smart watch\nRecovery Time: 18.9029 hours, from smart watch\nResting Heart Rate: 53.3087 bpm, from smart watch\nSedentary Time: 588.8677 minutes, from smart watch\nSleep Efficiency: 95.1863 %, from smart watch\nSleep Latency: 12.086 minutes, from smart watch\nSleep Recovery Score: 94.1516, from smart watch\nStanding Time: 123.8752 minutes, from smart watch\nTotal Daily Energy Expenditure: 2641.5259 kcal/day, from smart watch\nTotal Sleep Time: 432.042 minutes, from smart watch\nTraining Load: 50.2209, from smart watch\nTraining Readiness: 68.3291, from smart watch\nVO2 Max Estimated: 49.2361 mL/kg/min, from smart watch\nVigorous Activity Time: 20.7321 minutes, from smart watch\nVigorous Exercise Minutes: 8.0136 minutes, from smart watch\nVisceral Fat Level: 6.4641 level, from smart scale\nWake After Sleep Onset: 13.4461 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-29",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.4034 mmHg, from BP monitor\n24 Hour Average Systolic BP: 111.09 mmHg, from BP monitor\nActive Calories: 679.8643 kcal, from smart watch\nAverage Heart Rate During Exercise: 125.1014 bpm, from smart watch\nBasal Body Temperature: 36.4033 °C, from thermometer\nBody Battery: 63.8954 %, from smart watch\nBody Fat Percentage: 16.6251 %, from smart scale\nBody Mass Index: 24.3139 kg/m², from smart scale\nBody Weight: 77.0778 kg, from smart scale\nCardiorespiratory Fitness: 49.0922, from smart watch\nDaily Average METs: 1.5972 METs, from smart watch\nDaily Distance: 7280.3824 meters, from smart watch\nDaily Exercise Duration: 58.7045 minutes, from smart watch\nDaily Step Count: 8290 steps, from smart watch\nDaily Stress Score: 37.8487, from smart watch\nDeep Sleep Duration: 83.4613 minutes, from smart watch\nFasting Blood Glucose: 4.8808 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 33.9444 bpm, from smart watch\nHeart Rate Variability: 69.2659 ms, from smart watch\nLight Activity Time: 198.3646 minutes, from smart watch\nLight Sleep Duration: 217.8416 minutes, from smart watch\nLowest Sp O2: 92.9321 %, from smart watch\nLying Time: 483.0542 minutes, from smart watch\nMaximum Heart Rate During Exercise: 153.9612 bpm, from smart watch\nMean Glucose: 4.8913 mmol/L, from CGM\nMean Sp O2: (no reading), from smart watch\nModerate Activity Time: 46.7442 minutes, from smart watch\nModerate Exercise Minutes: 46.016 minutes, from smart watch\nMuscle Mass: 62.0579 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 115.5713 minutes, from smart watch\nRecovery Time: 19.7223 hours, from smart watch\nResting Heart Rate: 54.7537 bpm, from smart watch\nSedentary Time: 572.7892 minutes, from smart watch\nSleep Efficiency: 95.2826 %, from smart watch\nSleep Latency: 12.0211 minutes, from smart watch\nSleep Recovery Score: 92.4653, from smart watch\nStanding Time: 111.6623 minutes, from smart watch\nTotal Daily Energy Expenditure: 2708.2924 kcal/day, from smart watch\nTotal Sleep Time: 424.9296 minutes, from smart watch\nTraining Load: 59.586, from smart watch\nTraining Readiness: 66.7006, from smart watch\nVO2 Max Estimated: 49.0215 mL/kg/min, from smart watch\nVigorous Activity Time: 15.9747 minutes, from smart watch\nVigorous Exercise Minutes: 9.9269 minutes, from smart watch\nVisceral Fat Level: 6.3832 level, from smart scale\nWake After Sleep Onset: 7.528 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-30",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 76.1695 mmHg, from BP monitor\n24 Hour Average Systolic BP: 111.0968 mmHg, from BP monitor\nActive Calories: 607.6912 kcal, from smart watch\nAverage Heart Rate During Exercise: 126.5791 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 70.553 %, from smart watch\nBody Fat Percentage: 16.5092 %, from smart scale\nBody Mass Index: 24.29 kg/m², from smart scale\nBody Weight: 77.1158 kg, from smart scale\nCardiorespiratory Fitness: 48.8989, from smart watch\nDaily Average METs: 1.5685 METs, from smart watch\nDaily Distance: 6276.3174 meters, from smart watch\nDaily Exercise Duration: 46.9209 minutes, from smart watch\nDaily Step Count: 9128 steps, from smart watch\nDaily Stress Score: 44.071, from smart watch\nDeep Sleep Duration: 85.3417 minutes, from smart watch\nFasting Blood Glucose: 4.731 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.2281 bpm, from smart watch\nHeart Rate Variability: 72.3635 ms, from smart watch\nLight Activity Time: 206.1776 minutes, from smart watch\nLight Sleep Duration: 217.4723 minutes, from smart watch\nLowest Sp O2: 93.8225 %, from smart watch\nLying Time: 489.3048 minutes, from smart watch\nMaximum Heart Rate During Exercise: 153.3825 bpm, from smart watch\nMean Glucose: 4.7946 mmol/L, from CGM\nMean Sp O2: 97.6875 %, from smart watch\nModerate Activity Time: 41.7047 minutes, from smart watch\nModerate Exercise Minutes: 43.7259 minutes, from smart watch\nMuscle Mass: 62.0401 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 117.51 minutes, from smart watch\nRecovery Time: 22.8331 hours, from smart watch\nResting Heart Rate: 55.846 bpm, from smart watch\nSedentary Time: 600.8196 minutes, from smart watch\nSleep Efficiency: 94.6179 %, from smart watch\nSleep Latency: 12.4812 minutes, from smart watch\nSleep Recovery Score: 92.3528, from smart watch\nStanding Time: 126.5208 minutes, from smart watch\nTotal Daily Energy Expenditure: 2722.8423 kcal/day, from smart watch\nTotal Sleep Time: 428.2595 minutes, from smart watch\nTraining Load: 46.0941, from smart watch\nTraining Readiness: 67.6443, from smart watch\nVO2 Max Estimated: 48.8716 mL/kg/min, from smart watch\nVigorous Activity Time: 20.3779 minutes, from smart watch\nVigorous Exercise Minutes: 6.829 minutes, from smart watch\nVisceral Fat Level: 6.3338 level, from smart scale\nWake After Sleep Onset: 8.6543 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-01-31",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 73.0945 mmHg, from BP monitor\n24 Hour Average Systolic BP: 107.1218 mmHg, from BP monitor\nActive Calories: 634.2969 kcal, from smart watch\nAverage Heart Rate During Exercise: 133.0767 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 59.7228 %, from smart watch\nBody Fat Percentage: 16.5823 %, from smart scale\nBody Mass Index: 24.3842 kg/m², from smart scale\nBody Weight: 76.9033 kg, from smart scale\nCardiorespiratory Fitness: 50.7206, from smart watch\nDaily Average METs: 1.6479 METs, from smart watch\nDaily Distance: (no reading), from smart watch\nDaily Exercise Duration: 52.5313 minutes, from smart watch\nDaily Step Count: 7832 steps, from smart watch\nDaily Stress Score: 35.554, from smart watch\nDeep Sleep Duration: 76.9579 minutes, from smart watch\nFasting Blood Glucose: 4.8617 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.4276 bpm, from smart watch\nHeart Rate Variability: 67.4006 ms, from smart watch\nLight Activity Time: 204.2635 minutes, from smart watch\nLight Sleep Duration: 215.915 minutes, from smart watch\nLowest Sp O2: 93.9604 %, from smart watch\nLying Time: 498.1441 minutes, from smart watch\nMaximum Heart Rate During Exercise: 161.1383 bpm, from smart watch\nMean Glucose: 4.5916 mmol/L, from CGM\nMean Sp O2: 97.5985 %, from smart watch\nModerate Activity Time: 46.282 minutes, from smart watch\nModerate Exercise Minutes: 46.2662 minutes, from smart watch\nMuscle Mass: 61.7669 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 114.927 minutes, from smart watch\nRecovery Time: 21.7606 hours, from smart watch\nResting Heart Rate: 53.4442 bpm, from smart watch\nSedentary Time: 610.4483 minutes, from smart watch\nSleep Efficiency: 98.34 %, from smart watch\nSleep Latency: 10.1501 minutes, from smart watch\nSleep Recovery Score: 91.177, from smart watch\nStanding Time: 113.2613 minutes, from smart watch\nTotal Daily Energy Expenditure: 2854.7336 kcal/day, from smart watch\nTotal Sleep Time: 444.2728 minutes, from smart watch\nTraining Load: 58.6934, from smart watch\nTraining Readiness: 66.1899, from smart watch\nVO2 Max Estimated: 50.3054 mL/kg/min, from smart watch\nVigorous Activity Time: 27.8179 minutes, from smart watch\nVigorous Exercise Minutes: 5.0843 minutes, from smart watch\nVisceral Fat Level: 6.1903 level, from smart scale\nWake After Sleep Onset: 4.4939 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-01",
+      "source_row_count": 48,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 73.3552 mmHg, from BP monitor\n24 Hour Average Systolic BP: 106.5305 mmHg, from BP monitor\nActive Calories: 887.4133 kcal, from smart watch\nAverage Heart Rate During Exercise: 141.1382 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 56.363 %, from smart watch\nBody Fat Percentage: 16.5991 %, from smart scale\nBody Mass Index: 24.4186 kg/m², from smart scale\nBody Weight: 77.1683 kg, from smart scale\nCardiorespiratory Fitness: 51.636, from smart watch\nDaily Average METs: 1.6369 METs, from smart watch\nDaily Distance: 6945.9764 meters, from smart watch\nDaily Exercise Duration: 65.9304 minutes, from smart watch\nDaily Step Count: 8396 steps, from smart watch\nDaily Stress Score: 39.1759, from smart watch\nDeep Sleep Duration: 95.0312 minutes, from smart watch\nFasting Blood Glucose: 4.9496 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 41.1204 bpm, from smart watch\nHeart Rate Variability: 65.8908 ms, from smart watch\nLight Activity Time: 209.2831 minutes, from smart watch\nLight Sleep Duration: 221.809 minutes, from smart watch\nLowest Sp O2: (no reading), from smart watch\nLying Time: 509.4075 minutes, from smart watch\nMaximum Heart Rate During Exercise: 163.7859 bpm, from smart watch\nMean Glucose: 4.7457 mmol/L, from CGM\nMean Sp O2: 97.6671 %, from smart watch\nModerate Activity Time: 43.2135 minutes, from smart watch\nModerate Exercise Minutes: 41.499 minutes, from smart watch\nMuscle Mass: 61.7896 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 130.0573 minutes, from smart watch\nRecovery Time: 34.4276 hours, from smart watch\nResting Heart Rate: 52.9775 bpm, from smart watch\nSedentary Time: 613.0847 minutes, from smart watch\nSleep Efficiency: 98.7356 %, from smart watch\nSleep Latency: 9.6019 minutes, from smart watch\nSleep Recovery Score: 94.7065, from smart watch\nStanding Time: 130.5744 minutes, from smart watch\nTotal Daily Energy Expenditure: 3040.2292 kcal/day, from smart watch\nTotal Sleep Time: 468.6213 minutes, from smart watch\nTraining Load: 92.4897, from smart watch\nTraining Readiness: 56.1162, from smart watch\nVO2 Max Estimated: 51.7205 mL/kg/min, from smart watch\nVigorous Activity Time: 28.9862 minutes, from smart watch\nVigorous Exercise Minutes: (no reading), from smart watch\nVisceral Fat Level: 6.2127 level, from smart scale\nWake After Sleep Onset: 13.122 minutes, from smart watch"
+        },
+        {
+          "role": "user",
+          "content": "Started the Q1 Strength Reintegration Phase today. It's a 15-day habit that I'm committed to following through."
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_012",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Sleep is a big one for me. I try to strictly protect an 11:00 PM to 6:30 AM sleep schedule. I use blackout curtains and track sleep quality with my smartwatch."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-02",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.7481 mmHg, from BP monitor\n24 Hour Average Systolic BP: 109.3167 mmHg, from BP monitor\nActive Calories: 1060.6294 kcal, from smart watch\nAverage Heart Rate During Exercise: (no reading), from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 80.0832 %, from smart watch\nBody Fat Percentage: 16.7416 %, from smart scale\nBody Mass Index: 24.3875 kg/m², from smart scale\nBody Weight: 77.1732 kg, from smart scale\nCardiorespiratory Fitness: 49.928, from smart watch\nDaily Average METs: 1.6479 METs, from smart watch\nDaily Distance: 6487.8999 meters, from smart watch\nDaily Exercise Duration: 70.7719 minutes, from smart watch\nDaily Step Count: 10344 steps, from smart watch\nDaily Stress Score: 43.8415, from smart watch\nDeep Sleep Duration: 94.7847 minutes, from smart watch\nFasting Blood Glucose: 4.9521 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 40.2032 bpm, from smart watch\nHeart Rate Variability: 72.9547 ms, from smart watch\nLight Activity Time: 221.3107 minutes, from smart watch\nLight Sleep Duration: 220.6265 minutes, from smart watch\nLowest Sp O2: 93.389 %, from smart watch\nLying Time: 483.709 minutes, from smart watch\nMaximum Heart Rate During Exercise: 172.1703 bpm, from smart watch\nMean Glucose: 4.7934 mmol/L, from CGM\nMean Sp O2: 97.2828 %, from smart watch\nModerate Activity Time: 53.5306 minutes, from smart watch\nModerate Exercise Minutes: 31.8041 minutes, from smart watch\nMuscle Mass: 61.9466 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 121.6905 minutes, from smart watch\nRecovery Time: 34.9603 hours, from smart watch\nResting Heart Rate: 53.7693 bpm, from smart watch\nSedentary Time: 584.3901 minutes, from smart watch\nSleep Efficiency: (no reading), from smart watch\nSleep Latency: 12.4174 minutes, from smart watch\nSleep Recovery Score: 92.08, from smart watch\nStanding Time: 123.0866 minutes, from smart watch\nTotal Daily Energy Expenditure: 3115.3809 kcal/day, from smart watch\nTotal Sleep Time: (no reading), from smart watch\nTraining Load: 136.9669, from smart watch\nTraining Readiness: 76.837, from smart watch\nVO2 Max Estimated: 50.4386 mL/kg/min, from smart watch\nVigorous Activity Time: 29.4007 minutes, from smart watch\nVigorous Exercise Minutes: 51.5994 minutes, from smart watch\nVisceral Fat Level: 6.3329 level, from smart scale\nWake After Sleep Onset: 12.2307 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-03",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 77.2967 mmHg, from BP monitor\n24 Hour Average Systolic BP: 112.1751 mmHg, from BP monitor\nActive Calories: 1007.0176 kcal, from smart watch\nAverage Heart Rate During Exercise: 144.8259 bpm, from smart watch\nBasal Body Temperature: 36.2662 °C, from thermometer\nBody Battery: 73.3564 %, from smart watch\nBody Fat Percentage: (no reading), from smart scale\nBody Mass Index: 24.4497 kg/m², from smart scale\nBody Weight: 77.4129 kg, from smart scale\nCardiorespiratory Fitness: 49.0091, from smart watch\nDaily Average METs: 1.6338 METs, from smart watch\nDaily Distance: 7380.5265 meters, from smart watch\nDaily Exercise Duration: 69.5779 minutes, from smart watch\nDaily Step Count: 9824 steps, from smart watch\nDaily Stress Score: 47.1928, from smart watch\nDeep Sleep Duration: 100.657 minutes, from smart watch\nFasting Blood Glucose: 4.786 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 35.9782 bpm, from smart watch\nHeart Rate Variability: 70.7906 ms, from smart watch\nLight Activity Time: 207.2239 minutes, from smart watch\nLight Sleep Duration: 240.985 minutes, from smart watch\nLowest Sp O2: 93.0022 %, from smart watch\nLying Time: 491.2846 minutes, from smart watch\nMaximum Heart Rate During Exercise: 173.7384 bpm, from smart watch\nMean Glucose: (no reading), from CGM\nMean Sp O2: 97.307 %, from smart watch\nModerate Activity Time: 52.0381 minutes, from smart watch\nModerate Exercise Minutes: 35.7121 minutes, from smart watch\nMuscle Mass: 62.1835 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 127.5081 minutes, from smart watch\nRecovery Time: 37.0495 hours, from smart watch\nResting Heart Rate: 54.7747 bpm, from smart watch\nSedentary Time: 587.7769 minutes, from smart watch\nSleep Efficiency: 96.9028 %, from smart watch\nSleep Latency: 11.9923 minutes, from smart watch\nSleep Recovery Score: 88.9918, from smart watch\nStanding Time: 119.2419 minutes, from smart watch\nTotal Daily Energy Expenditure: 3108.3892 kcal/day, from smart watch\nTotal Sleep Time: 443.7126 minutes, from smart watch\nTraining Load: 141.9876, from smart watch\nTraining Readiness: 74.0001, from smart watch\nVO2 Max Estimated: 50.3587 mL/kg/min, from smart watch\nVigorous Activity Time: (no reading), from smart watch\nVigorous Exercise Minutes: 51.0488 minutes, from smart watch\nVisceral Fat Level: 6.5562 level, from smart scale\nWake After Sleep Onset: 15.0249 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_011",
+      "messages": [
+        {
+          "role": "user",
+          "content": "For diet, I'm pretty conscious about food. I prioritize high-protein and whole foods, and I meal prep lunches so I don't end up snacking on unhealthy office food. I do occasionally indulge during business dinners, though."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-04",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 77.2758 mmHg, from BP monitor\n24 Hour Average Systolic BP: 115.3656 mmHg, from BP monitor\nActive Calories: 958.324 kcal, from smart watch\nAverage Heart Rate During Exercise: 143.9005 bpm, from smart watch\nBasal Body Temperature: 36.3475 °C, from thermometer\nBody Battery: 65.79 %, from smart watch\nBody Fat Percentage: 16.8583 %, from smart scale\nBody Mass Index: 24.5351 kg/m², from smart scale\nBody Weight: 77.7114 kg, from smart scale\nCardiorespiratory Fitness: 48.8532, from smart watch\nDaily Average METs: (no reading), from smart watch\nDaily Distance: 6499.7964 meters, from smart watch\nDaily Exercise Duration: 55.8444 minutes, from smart watch\nDaily Step Count: 8832 steps, from smart watch\nDaily Stress Score: 45.4585, from smart watch\nDeep Sleep Duration: 102.5699 minutes, from smart watch\nFasting Blood Glucose: 4.7397 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 34.6439 bpm, from smart watch\nHeart Rate Variability: (no reading), from smart watch\nLight Activity Time: 181.035 minutes, from smart watch\nLight Sleep Duration: 219.1855 minutes, from smart watch\nLowest Sp O2: 92.2836 %, from smart watch\nLying Time: 462.3528 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.4959 bpm, from smart watch\nMean Glucose: 4.8331 mmol/L, from CGM\nMean Sp O2: 97.1442 %, from smart watch\nModerate Activity Time: 48.9401 minutes, from smart watch\nModerate Exercise Minutes: 34.7542 minutes, from smart watch\nMuscle Mass: 62.2201 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 113.4312 minutes, from smart watch\nRecovery Time: 36.0761 hours, from smart watch\nResting Heart Rate: 53.5876 bpm, from smart watch\nSedentary Time: 575.9611 minutes, from smart watch\nSleep Efficiency: 96.4616 %, from smart watch\nSleep Latency: 9.3778 minutes, from smart watch\nSleep Recovery Score: 89.8232, from smart watch\nStanding Time: 110.4728 minutes, from smart watch\nTotal Daily Energy Expenditure: 3082.1227 kcal/day, from smart watch\nTotal Sleep Time: 433.4063 minutes, from smart watch\nTraining Load: 125.1174, from smart watch\nTraining Readiness: 69.1555, from smart watch\nVO2 Max Estimated: 49.4294 mL/kg/min, from smart watch\nVigorous Activity Time: 18.5095 minutes, from smart watch\nVigorous Exercise Minutes: 40.1806 minutes, from smart watch\nVisceral Fat Level: 6.3397 level, from smart scale\nWake After Sleep Onset: 19.2143 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_010",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Lifestyle-wise, I have never smoked. I drink socially, usually around 1 to 2 units per week, mostly at client dinners. For exercise, I'm highly active and usually go to the gym 4 days a week, mixing strength training with cardio intervals."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-05",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 75.6887 mmHg, from BP monitor\n24 Hour Average Systolic BP: 115.7898 mmHg, from BP monitor\nActive Calories: 956.7371 kcal, from smart watch\nAverage Heart Rate During Exercise: 144.274 bpm, from smart watch\nBasal Body Temperature: 36.3805 °C, from thermometer\nBody Battery: 66.6322 %, from smart watch\nBody Fat Percentage: 17.0555 %, from smart scale\nBody Mass Index: 24.6332 kg/m², from smart scale\nBody Weight: 77.6013 kg, from smart scale\nCardiorespiratory Fitness: 48.8632, from smart watch\nDaily Average METs: 1.6102 METs, from smart watch\nDaily Distance: 7219.6539 meters, from smart watch\nDaily Exercise Duration: 66.8957 minutes, from smart watch\nDaily Step Count: 8579 steps, from smart watch\nDaily Stress Score: 54.0786, from smart watch\nDeep Sleep Duration: 94.2457 minutes, from smart watch\nFasting Blood Glucose: 4.7053 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 35.5934 bpm, from smart watch\nHeart Rate Variability: 69.0658 ms, from smart watch\nLight Activity Time: 190.7771 minutes, from smart watch\nLight Sleep Duration: 212.0224 minutes, from smart watch\nLowest Sp O2: 91.7192 %, from smart watch\nLying Time: 472.0742 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.3492 bpm, from smart watch\nMean Glucose: 4.8035 mmol/L, from CGM\nMean Sp O2: 97.3713 %, from smart watch\nModerate Activity Time: 47.4629 minutes, from smart watch\nModerate Exercise Minutes: 36.9903 minutes, from smart watch\nMuscle Mass: 62.3727 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 109.0799 minutes, from smart watch\nRecovery Time: 34.9672 hours, from smart watch\nResting Heart Rate: 53.8526 bpm, from smart watch\nSedentary Time: (no reading), from smart watch\nSleep Efficiency: 94.215 %, from smart watch\nSleep Latency: 7.8954 minutes, from smart watch\nSleep Recovery Score: 82.2845, from smart watch\nStanding Time: 111.7918 minutes, from smart watch\nTotal Daily Energy Expenditure: 2997.2649 kcal/day, from smart watch\nTotal Sleep Time: 401.5078 minutes, from smart watch\nTraining Load: 128.8358, from smart watch\nTraining Readiness: 69.9226, from smart watch\nVO2 Max Estimated: 49.6963 mL/kg/min, from smart watch\nVigorous Activity Time: 25.383 minutes, from smart watch\nVigorous Exercise Minutes: 44.277 minutes, from smart watch\nVisceral Fat Level: 6.4148 level, from smart scale\nWake After Sleep Onset: 13.7656 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-06",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.805 mmHg, from BP monitor\n24 Hour Average Systolic BP: 116.4199 mmHg, from BP monitor\nActive Calories: 976.7644 kcal, from smart watch\nAverage Heart Rate During Exercise: 144.1429 bpm, from smart watch\nBasal Body Temperature: 36.4591 °C, from thermometer\nBody Battery: 58.4987 %, from smart watch\nBody Fat Percentage: 16.8172 %, from smart scale\nBody Mass Index: 24.6404 kg/m², from smart scale\nBody Weight: 77.8573 kg, from smart scale\nCardiorespiratory Fitness: 48.8733, from smart watch\nDaily Average METs: 1.6143 METs, from smart watch\nDaily Distance: 6572.9313 meters, from smart watch\nDaily Exercise Duration: 53.5925 minutes, from smart watch\nDaily Step Count: 10517 steps, from smart watch\nDaily Stress Score: 51.5105, from smart watch\nDeep Sleep Duration: 92.2491 minutes, from smart watch\nFasting Blood Glucose: (no reading), from CGM\nHeart Rate Recovery 1 Minute: 35.1208 bpm, from smart watch\nHeart Rate Variability: 69.5861 ms, from smart watch\nLight Activity Time: 217.0543 minutes, from smart watch\nLight Sleep Duration: 227.3409 minutes, from smart watch\nLowest Sp O2: 91.3846 %, from smart watch\nLying Time: 480.3814 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.439 bpm, from smart watch\nMean Glucose: (no reading), from CGM\nMean Sp O2: 97.5078 %, from smart watch\nModerate Activity Time: 44.4751 minutes, from smart watch\nModerate Exercise Minutes: 29.711 minutes, from smart watch\nMuscle Mass: 62.1907 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 97.8371 minutes, from smart watch\nRecovery Time: 36.0532 hours, from smart watch\nResting Heart Rate: 54.7111 bpm, from smart watch\nSedentary Time: 574.0163 minutes, from smart watch\nSleep Efficiency: 94.0732 %, from smart watch\nSleep Latency: 7.5941 minutes, from smart watch\nSleep Recovery Score: 84.8049, from smart watch\nStanding Time: 112.865 minutes, from smart watch\nTotal Daily Energy Expenditure: 2931.9081 kcal/day, from smart watch\nTotal Sleep Time: 393.8949 minutes, from smart watch\nTraining Load: 133.6899, from smart watch\nTraining Readiness: 70.5006, from smart watch\nVO2 Max Estimated: 49.7071 mL/kg/min, from smart watch\nVigorous Activity Time: 21.1849 minutes, from smart watch\nVigorous Exercise Minutes: 38.7476 minutes, from smart watch\nVisceral Fat Level: 6.6296 level, from smart scale\nWake After Sleep Onset: 16.9833 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-07",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 73.717 mmHg, from BP monitor\n24 Hour Average Systolic BP: 113.4281 mmHg, from BP monitor\nActive Calories: 1048.9457 kcal, from smart watch\nAverage Heart Rate During Exercise: 151.4704 bpm, from smart watch\nBasal Body Temperature: 36.0777 °C, from thermometer\nBody Battery: 69.8432 %, from smart watch\nBody Fat Percentage: 16.7246 %, from smart scale\nBody Mass Index: 24.6829 kg/m², from smart scale\nBody Weight: 77.8961 kg, from smart scale\nCardiorespiratory Fitness: 50.6493, from smart watch\nDaily Average METs: 1.6458 METs, from smart watch\nDaily Distance: 7120.4206 meters, from smart watch\nDaily Exercise Duration: 71.4469 minutes, from smart watch\nDaily Step Count: 9714 steps, from smart watch\nDaily Stress Score: 49.4875, from smart watch\nDeep Sleep Duration: 98.2912 minutes, from smart watch\nFasting Blood Glucose: (no reading), from CGM\nHeart Rate Recovery 1 Minute: 37.3648 bpm, from smart watch\nHeart Rate Variability: 67.0254 ms, from smart watch\nLight Activity Time: 205.6119 minutes, from smart watch\nLight Sleep Duration: 229.4185 minutes, from smart watch\nLowest Sp O2: 91.486 %, from smart watch\nLying Time: 494.6075 minutes, from smart watch\nMaximum Heart Rate During Exercise: (no reading), from smart watch\nMean Glucose: (no reading), from CGM\nMean Sp O2: (no reading), from smart watch\nModerate Activity Time: 49.8344 minutes, from smart watch\nModerate Exercise Minutes: 31.5369 minutes, from smart watch\nMuscle Mass: 62.1381 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 101.3192 minutes, from smart watch\nRecovery Time: 36.6326 hours, from smart watch\nResting Heart Rate: 55.0307 bpm, from smart watch\nSedentary Time: 586.798 minutes, from smart watch\nSleep Efficiency: 97.2151 %, from smart watch\nSleep Latency: 11.0696 minutes, from smart watch\nSleep Recovery Score: 92.6079, from smart watch\nStanding Time: 121.7201 minutes, from smart watch\nTotal Daily Energy Expenditure: 2834.301 kcal/day, from smart watch\nTotal Sleep Time: 434.7611 minutes, from smart watch\nTraining Load: 123.8384, from smart watch\nTraining Readiness: 67.7836, from smart watch\nVO2 Max Estimated: 51.1446 mL/kg/min, from smart watch\nVigorous Activity Time: 21.8358 minutes, from smart watch\nVigorous Exercise Minutes: 51.4357 minutes, from smart watch\nVisceral Fat Level: 6.5574 level, from smart scale\nWake After Sleep Onset: 16.7797 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_006",
+      "messages": [
+        {
+          "role": "user",
+          "content": "On mental health, I think I'm resilient and high-functioning. My job definitely brings significant stress, but I manage it proactively and I don't have signs of anxiety or depression. My main coping mechanisms are a rigorous gym schedule, strict adherence to sleep routines, and strategic planning and scheduling."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-08",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.2745 mmHg, from BP monitor\n24 Hour Average Systolic BP: 111.0749 mmHg, from BP monitor\nActive Calories: 974.3553 kcal, from smart watch\nAverage Heart Rate During Exercise: 154.855 bpm, from smart watch\nBasal Body Temperature: 35.8146 °C, from thermometer\nBody Battery: 75.3427 %, from smart watch\nBody Fat Percentage: 16.4885 %, from smart scale\nBody Mass Index: 24.7295 kg/m², from smart scale\nBody Weight: 77.987 kg, from smart scale\nCardiorespiratory Fitness: 51.6242, from smart watch\nDaily Average METs: 1.7729 METs, from smart watch\nDaily Distance: 7789.3864 meters, from smart watch\nDaily Exercise Duration: (no reading), from smart watch\nDaily Step Count: 9833 steps, from smart watch\nDaily Stress Score: 51.0111, from smart watch\nDeep Sleep Duration: (no reading), from smart watch\nFasting Blood Glucose: (no reading), from CGM\nHeart Rate Recovery 1 Minute: 37.9856 bpm, from smart watch\nHeart Rate Variability: 68.2006 ms, from smart watch\nLight Activity Time: 237.4767 minutes, from smart watch\nLight Sleep Duration: (no reading), from smart watch\nLowest Sp O2: 91.968 %, from smart watch\nLying Time: 511.7838 minutes, from smart watch\nMaximum Heart Rate During Exercise: 186.2987 bpm, from smart watch\nMean Glucose: 4.7885 mmol/L, from CGM\nMean Sp O2: 97.4415 %, from smart watch\nModerate Activity Time: 47.1672 minutes, from smart watch\nModerate Exercise Minutes: 32.2093 minutes, from smart watch\nMuscle Mass: 62.0785 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 118.5069 minutes, from smart watch\nRecovery Time: 35.7455 hours, from smart watch\nResting Heart Rate: 53.7196 bpm, from smart watch\nSedentary Time: 624.9006 minutes, from smart watch\nSleep Efficiency: 98.4077 %, from smart watch\nSleep Latency: 13.0298 minutes, from smart watch\nSleep Recovery Score: 96.8043, from smart watch\nStanding Time: 133.0358 minutes, from smart watch\nTotal Daily Energy Expenditure: 2973.4361 kcal/day, from smart watch\nTotal Sleep Time: 453.6442 minutes, from smart watch\nTraining Load: 145.7018, from smart watch\nTraining Readiness: 76.1991, from smart watch\nVO2 Max Estimated: 52.3839 mL/kg/min, from smart watch\nVigorous Activity Time: 24.1177 minutes, from smart watch\nVigorous Exercise Minutes: 51.1666 minutes, from smart watch\nVisceral Fat Level: 6.5398 level, from smart scale\nWake After Sleep Onset: 21.237 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-09",
+      "source_row_count": 48,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.2884 mmHg, from BP monitor\n24 Hour Average Systolic BP: 110.6612 mmHg, from BP monitor\nActive Calories: 637.2212 kcal, from smart watch\nAverage Heart Rate During Exercise: 147.8117 bpm, from smart watch\nBasal Body Temperature: 36.1293 °C, from thermometer\nBody Battery: 42.1449 %, from smart watch\nBody Fat Percentage: 16.8263 %, from smart scale\nBody Mass Index: 24.6706 kg/m², from smart scale\nBody Weight: 77.8511 kg, from smart scale\nCardiorespiratory Fitness: 49.8441, from smart watch\nDaily Average METs: 1.5696 METs, from smart watch\nDaily Distance: 6654.2731 meters, from smart watch\nDaily Exercise Duration: 64.8537 minutes, from smart watch\nDaily Step Count: 6738 steps, from smart watch\nDaily Stress Score: 52.3726, from smart watch\nDeep Sleep Duration: 95.6937 minutes, from smart watch\nFasting Blood Glucose: 4.5655 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 31.922 bpm, from smart watch\nHeart Rate Variability: 62.3203 ms, from smart watch\nLight Activity Time: 200.5555 minutes, from smart watch\nLight Sleep Duration: 232.7225 minutes, from smart watch\nLowest Sp O2: 92.0381 %, from smart watch\nLying Time: 428.9601 minutes, from smart watch\nMaximum Heart Rate During Exercise: 177.745 bpm, from smart watch\nMean Glucose: 4.5957 mmol/L, from CGM\nMean Sp O2: 97.7329 %, from smart watch\nModerate Activity Time: 43.53 minutes, from smart watch\nModerate Exercise Minutes: 24.4218 minutes, from smart watch\nMuscle Mass: 62.0954 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 93.225 minutes, from smart watch\nRecovery Time: 39.2592 hours, from smart watch\nResting Heart Rate: 54.6934 bpm, from smart watch\nSedentary Time: 715.6596 minutes, from smart watch\nSleep Efficiency: 92.7545 %, from smart watch\nSleep Latency: 9.8438 minutes, from smart watch\nSleep Recovery Score: 72.6839, from smart watch\nStanding Time: 119.9745 minutes, from smart watch\nTotal Daily Energy Expenditure: 2869.551 kcal/day, from smart watch\nTotal Sleep Time: 407.7364 minutes, from smart watch\nTraining Load: 123.8948, from smart watch\nTraining Readiness: 49.2438, from smart watch\nVO2 Max Estimated: 50.9706 mL/kg/min, from smart watch\nVigorous Activity Time: 23.0558 minutes, from smart watch\nVigorous Exercise Minutes: 22.0639 minutes, from smart watch\nVisceral Fat Level: 6.7772 level, from smart scale\nWake After Sleep Onset: 28.3907 minutes, from smart watch"
+        },
+        {
+          "role": "user",
+          "content": "I have a client business dinner tonight from 12 AM to 12 AM tomorrow. It's a dinner event, so I'll be out late."
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-10",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.5455 mmHg, from BP monitor\n24 Hour Average Systolic BP: 114.4411 mmHg, from BP monitor\nActive Calories: 639.0241 kcal, from smart watch\nAverage Heart Rate During Exercise: 144.9638 bpm, from smart watch\nBasal Body Temperature: 36.3561 °C, from thermometer\nBody Battery: 40.2489 %, from smart watch\nBody Fat Percentage: 16.8912 %, from smart scale\nBody Mass Index: 24.7183 kg/m², from smart scale\nBody Weight: 77.9436 kg, from smart scale\nCardiorespiratory Fitness: 49.0879, from smart watch\nDaily Average METs: 1.5639 METs, from smart watch\nDaily Distance: 6811.1521 meters, from smart watch\nDaily Exercise Duration: 56.4249 minutes, from smart watch\nDaily Step Count: 6230 steps, from smart watch\nDaily Stress Score: 58.6054, from smart watch\nDeep Sleep Duration: 95.7154 minutes, from smart watch\nFasting Blood Glucose: 4.6744 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 32.3963 bpm, from smart watch\nHeart Rate Variability: 65.2021 ms, from smart watch\nLight Activity Time: 211.2748 minutes, from smart watch\nLight Sleep Duration: 233.0036 minutes, from smart watch\nLowest Sp O2: 92.149 %, from smart watch\nLying Time: 439.4527 minutes, from smart watch\nMaximum Heart Rate During Exercise: 174.1108 bpm, from smart watch\nMean Glucose: 4.815 mmol/L, from CGM\nMean Sp O2: (no reading), from smart watch\nModerate Activity Time: 40.2978 minutes, from smart watch\nModerate Exercise Minutes: 23.9632 minutes, from smart watch\nMuscle Mass: 62.0425 kg, from smart scale\nNumberof Awakenings: 3 count, from smart watch\nREMDuration: 92.7892 minutes, from smart watch\nRecovery Time: 43.5766 hours, from smart watch\nResting Heart Rate: 56.0566 bpm, from smart watch\nSedentary Time: 742.9234 minutes, from smart watch\nSleep Efficiency: 89.9153 %, from smart watch\nSleep Latency: 5.9994 minutes, from smart watch\nSleep Recovery Score: 62.0786, from smart watch\nStanding Time: 117.7474 minutes, from smart watch\nTotal Daily Energy Expenditure: 2941.7205 kcal/day, from smart watch\nTotal Sleep Time: 405.9539 minutes, from smart watch\nTraining Load: 133.4818, from smart watch\nTraining Readiness: 43.8927, from smart watch\nVO2 Max Estimated: 49.9983 mL/kg/min, from smart watch\nVigorous Activity Time: 27.9679 minutes, from smart watch\nVigorous Exercise Minutes: 21.4201 minutes, from smart watch\nVisceral Fat Level: 6.8474 level, from smart scale\nWake After Sleep Onset: 35.6102 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_001",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I want to set up my basic health profile so you have some context about me going forward. I'm a 34-year-old male, married, living in an urban area. I work as a Sales Manager, and my education level is a Bachelor's degree."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-11",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 74.8836 mmHg, from BP monitor\n24 Hour Average Systolic BP: 117.5208 mmHg, from BP monitor\nActive Calories: 908.3863 kcal, from smart watch\nAverage Heart Rate During Exercise: 148.1079 bpm, from smart watch\nBasal Body Temperature: 36.4344 °C, from thermometer\nBody Battery: 63.6701 %, from smart watch\nBody Fat Percentage: 16.9181 %, from smart scale\nBody Mass Index: 24.6457 kg/m², from smart scale\nBody Weight: 78.0289 kg, from smart scale\nCardiorespiratory Fitness: 48.8752, from smart watch\nDaily Average METs: 1.5891 METs, from smart watch\nDaily Distance: 7139.7504 meters, from smart watch\nDaily Exercise Duration: 51.8976 minutes, from smart watch\nDaily Step Count: 9146 steps, from smart watch\nDaily Stress Score: 58.3701, from smart watch\nDeep Sleep Duration: 93.5022 minutes, from smart watch\nFasting Blood Glucose: 4.5963 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 33.1543 bpm, from smart watch\nHeart Rate Variability: 65.4029 ms, from smart watch\nLight Activity Time: 198.5799 minutes, from smart watch\nLight Sleep Duration: 224.2809 minutes, from smart watch\nLowest Sp O2: 92.1606 %, from smart watch\nLying Time: 477.2892 minutes, from smart watch\nMaximum Heart Rate During Exercise: 173.6802 bpm, from smart watch\nMean Glucose: 5.0578 mmol/L, from CGM\nMean Sp O2: 98.023 %, from smart watch\nModerate Activity Time: 49.7272 minutes, from smart watch\nModerate Exercise Minutes: 24.4992 minutes, from smart watch\nMuscle Mass: 61.9125 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 96.0417 minutes, from smart watch\nRecovery Time: 35.3155 hours, from smart watch\nResting Heart Rate: 56.3925 bpm, from smart watch\nSedentary Time: 638.6879 minutes, from smart watch\nSleep Efficiency: 91.7057 %, from smart watch\nSleep Latency: 9.4033 minutes, from smart watch\nSleep Recovery Score: 82.0701, from smart watch\nStanding Time: 107.1335 minutes, from smart watch\nTotal Daily Energy Expenditure: 2906.1688 kcal/day, from smart watch\nTotal Sleep Time: 429.6502 minutes, from smart watch\nTraining Load: 131.9244, from smart watch\nTraining Readiness: 65.5294, from smart watch\nVO2 Max Estimated: 49.7628 mL/kg/min, from smart watch\nVigorous Activity Time: 28.7666 minutes, from smart watch\nVigorous Exercise Minutes: 43.4286 minutes, from smart watch\nVisceral Fat Level: 6.7094 level, from smart scale\nWake After Sleep Onset: 30.1336 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-12",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: (no reading), from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 965.0318 kcal, from smart watch\nAverage Heart Rate During Exercise: 145.7294 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 66.6083 %, from smart watch\nBody Fat Percentage: 17.0331 %, from smart scale\nBody Mass Index: 24.8035 kg/m², from smart scale\nBody Weight: (no reading), from smart scale\nCardiorespiratory Fitness: 48.9792, from smart watch\nDaily Average METs: 1.6335 METs, from smart watch\nDaily Distance: 7185.0201 meters, from smart watch\nDaily Exercise Duration: 55.6674 minutes, from smart watch\nDaily Step Count: 10148 steps, from smart watch\nDaily Stress Score: 68.5409, from smart watch\nDeep Sleep Duration: 100.3845 minutes, from smart watch\nFasting Blood Glucose: 4.644 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 35.1027 bpm, from smart watch\nHeart Rate Variability: 73.1558 ms, from smart watch\nLight Activity Time: 208.402 minutes, from smart watch\nLight Sleep Duration: 238.6535 minutes, from smart watch\nLowest Sp O2: 91.9794 %, from smart watch\nLying Time: 511.3648 minutes, from smart watch\nMaximum Heart Rate During Exercise: 175.5309 bpm, from smart watch\nMean Glucose: 5.1528 mmol/L, from CGM\nMean Sp O2: 98.082 %, from smart watch\nModerate Activity Time: 48.8746 minutes, from smart watch\nModerate Exercise Minutes: 33.5598 minutes, from smart watch\nMuscle Mass: 61.9656 kg, from smart scale\nNumberof Awakenings: 2 count, from smart watch\nREMDuration: 107.9999 minutes, from smart watch\nRecovery Time: 38.9492 hours, from smart watch\nResting Heart Rate: 55.1569 bpm, from smart watch\nSedentary Time: 640.9884 minutes, from smart watch\nSleep Efficiency: 94.3685 %, from smart watch\nSleep Latency: 10.314 minutes, from smart watch\nSleep Recovery Score: 90.426, from smart watch\nStanding Time: 121.5811 minutes, from smart watch\nTotal Daily Energy Expenditure: 3148.2862 kcal/day, from smart watch\nTotal Sleep Time: 438.4349 minutes, from smart watch\nTraining Load: 139.9593, from smart watch\nTraining Readiness: 68.6786, from smart watch\nVO2 Max Estimated: 50.0496 mL/kg/min, from smart watch\nVigorous Activity Time: 29.2372 minutes, from smart watch\nVigorous Exercise Minutes: 49.9635 minutes, from smart watch\nVisceral Fat Level: 6.9581 level, from smart scale\nWake After Sleep Onset: 28.7224 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "date": "2026-02-13",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: (no reading), from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 955.3574 kcal, from smart watch\nAverage Heart Rate During Exercise: 144.4589 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 72.9898 %, from smart watch\nBody Fat Percentage: 16.928 %, from smart scale\nBody Mass Index: 24.7592 kg/m², from smart scale\nBody Weight: 78.6618 kg, from smart scale\nCardiorespiratory Fitness: 49.1672, from smart watch\nDaily Average METs: 1.6202 METs, from smart watch\nDaily Distance: 7648.0554 meters, from smart watch\nDaily Exercise Duration: 63.1428 minutes, from smart watch\nDaily Step Count: 8899 steps, from smart watch\nDaily Stress Score: 66.8034, from smart watch\nDeep Sleep Duration: 102.003 minutes, from smart watch\nFasting Blood Glucose: 4.5504 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.402 bpm, from smart watch\nHeart Rate Variability: 67.2345 ms, from smart watch\nLight Activity Time: 229.0956 minutes, from smart watch\nLight Sleep Duration: 232.424 minutes, from smart watch\nLowest Sp O2: 92.4451 %, from smart watch\nLying Time: 483.2114 minutes, from smart watch\nMaximum Heart Rate During Exercise: 175.0832 bpm, from smart watch\nMean Glucose: 5.0879 mmol/L, from CGM\nMean Sp O2: 97.9829 %, from smart watch\nModerate Activity Time: 44.059 minutes, from smart watch\nModerate Exercise Minutes: 25.3185 minutes, from smart watch\nMuscle Mass: 61.8188 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 108.2748 minutes, from smart watch\nRecovery Time: 34.726 hours, from smart watch\nResting Heart Rate: 53.9068 bpm, from smart watch\nSedentary Time: 592.2705 minutes, from smart watch\nSleep Efficiency: 92.6449 %, from smart watch\nSleep Latency: 7.7151 minutes, from smart watch\nSleep Recovery Score: 89.661, from smart watch\nStanding Time: 129.4677 minutes, from smart watch\nTotal Daily Energy Expenditure: 3192.4475 kcal/day, from smart watch\nTotal Sleep Time: 435.1961 minutes, from smart watch\nTraining Load: 141.3301, from smart watch\nTraining Readiness: 72.5096, from smart watch\nVO2 Max Estimated: 49.6072 mL/kg/min, from smart watch\nVigorous Activity Time: 27.3756 minutes, from smart watch\nVigorous Exercise Minutes: 47.9169 minutes, from smart watch\nVisceral Fat Level: 7.0365 level, from smart scale\nWake After Sleep Onset: 23.7451 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_002",
+      "messages": [
+        {
+          "role": "user",
+          "content": "A bit more about my personality and day-to-day style: I thrive in a pretty fast-paced city rhythm and I come across as high-energy and outgoing, which fits my sales work. At the same time, I really try to protect my downtime and recharge through disciplined exercise and sleep. I'm fairly strategic and conscientious, maybe a bit Type A, and I prefer structured plans over just winging it. I'm warm with people, but I also have a competitive streak and I like constantly improving myself."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-14",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: (no reading), from BP monitor\n24 Hour Average Systolic BP: (no reading), from BP monitor\nActive Calories: 1029.7148 kcal, from smart watch\nAverage Heart Rate During Exercise: 151.5087 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 74.7368 %, from smart watch\nBody Fat Percentage: 16.8856 %, from smart scale\nBody Mass Index: 24.8047 kg/m², from smart scale\nBody Weight: 78.5512 kg, from smart scale\nCardiorespiratory Fitness: 50.8958, from smart watch\nDaily Average METs: 1.6809 METs, from smart watch\nDaily Distance: 8091.8633 meters, from smart watch\nDaily Exercise Duration: 69.4251 minutes, from smart watch\nDaily Step Count: 9736 steps, from smart watch\nDaily Stress Score: 63.5433, from smart watch\nDeep Sleep Duration: 90.4537 minutes, from smart watch\nFasting Blood Glucose: 4.6647 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.3866 bpm, from smart watch\nHeart Rate Variability: 64.0842 ms, from smart watch\nLight Activity Time: 222.0807 minutes, from smart watch\nLight Sleep Duration: (no reading), from smart watch\nLowest Sp O2: 91.4004 %, from smart watch\nLying Time: 512.31 minutes, from smart watch\nMaximum Heart Rate During Exercise: 182.6346 bpm, from smart watch\nMean Glucose: 4.9312 mmol/L, from CGM\nMean Sp O2: 97.8365 %, from smart watch\nModerate Activity Time: 44.2174 minutes, from smart watch\nModerate Exercise Minutes: 34.2872 minutes, from smart watch\nMuscle Mass: 61.8122 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 96.1242 minutes, from smart watch\nRecovery Time: 40.8653 hours, from smart watch\nResting Heart Rate: 52.1752 bpm, from smart watch\nSedentary Time: 646.5858 minutes, from smart watch\nSleep Efficiency: 95.8704 %, from smart watch\nSleep Latency: 6.2409 minutes, from smart watch\nSleep Recovery Score: 94.725, from smart watch\nStanding Time: 123.4568 minutes, from smart watch\nTotal Daily Energy Expenditure: 3258.6861 kcal/day, from smart watch\nTotal Sleep Time: 456.8892 minutes, from smart watch\nTraining Load: 140.1384, from smart watch\nTraining Readiness: 74.0495, from smart watch\nVO2 Max Estimated: 51.0498 mL/kg/min, from smart watch\nVigorous Activity Time: 32.6878 minutes, from smart watch\nVigorous Exercise Minutes: 46.7063 minutes, from smart watch\nVisceral Fat Level: 7.0168 level, from smart scale\nWake After Sleep Onset: 16.6251 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    },
+    {
+      "turn_id": "profile_turn_005",
+      "messages": [
+        {
+          "role": "user",
+          "content": "My goals of care are pretty straightforward: maintain an optimal BMI, avoid occupational burnout, and protect long-term cardiovascular health through lifestyle management. I don't want to wait until something becomes a problem; I'd rather stay ahead of things."
+        }
+      ],
+      "turn_kind": "profile"
+    },
+    {
+      "date": "2026-02-15",
+      "source_row_count": 47,
+      "messages": [
+        {
+          "role": "user",
+          "content": "AutoSender: Today's record\n24 Hour Average Diastolic BP: 72.3284 mmHg, from BP monitor\n24 Hour Average Systolic BP: 114.4624 mmHg, from BP monitor\nActive Calories: 1048.0597 kcal, from smart watch\nAverage Heart Rate During Exercise: 155.5308 bpm, from smart watch\nBasal Body Temperature: (no reading), from thermometer\nBody Battery: 71.8735 %, from smart watch\nBody Fat Percentage: 16.9766 %, from smart scale\nBody Mass Index: 24.8988 kg/m², from smart scale\nBody Weight: 78.4448 kg, from smart scale\nCardiorespiratory Fitness: 51.4371, from smart watch\nDaily Average METs: 1.6725 METs, from smart watch\nDaily Distance: 7707.6859 meters, from smart watch\nDaily Exercise Duration: 57.3553 minutes, from smart watch\nDaily Step Count: 9910 steps, from smart watch\nDaily Stress Score: 64.4901, from smart watch\nDeep Sleep Duration: 91.6875 minutes, from smart watch\nFasting Blood Glucose: 4.6175 mmol/L, from CGM\nHeart Rate Recovery 1 Minute: 36.7726 bpm, from smart watch\nHeart Rate Variability: 60.5108 ms, from smart watch\nLight Activity Time: 222.1069 minutes, from smart watch\nLight Sleep Duration: 237.4698 minutes, from smart watch\nLowest Sp O2: 92.253 %, from smart watch\nLying Time: 518.5869 minutes, from smart watch\nMaximum Heart Rate During Exercise: 185.1077 bpm, from smart watch\nMean Glucose: 5.153 mmol/L, from CGM\nMean Sp O2: 97.5967 %, from smart watch\nModerate Activity Time: 52.9001 minutes, from smart watch\nModerate Exercise Minutes: 33.1268 minutes, from smart watch\nMuscle Mass: 61.828 kg, from smart scale\nNumberof Awakenings: 1 count, from smart watch\nREMDuration: 103.7075 minutes, from smart watch\nRecovery Time: 39.6135 hours, from smart watch\nResting Heart Rate: 51.5052 bpm, from smart watch\nSedentary Time: 657.0014 minutes, from smart watch\nSleep Efficiency: 98.0981 %, from smart watch\nSleep Latency: 5.6423 minutes, from smart watch\nSleep Recovery Score: 93.7797, from smart watch\nStanding Time: 125.2778 minutes, from smart watch\nTotal Daily Energy Expenditure: 3266.404 kcal/day, from smart watch\nTotal Sleep Time: 452.4027 minutes, from smart watch\nTraining Load: 140.9265, from smart watch\nTraining Readiness: 74.5676, from smart watch\nVO2 Max Estimated: 52.2318 mL/kg/min, from smart watch\nVigorous Activity Time: 25.3738 minutes, from smart watch\nVigorous Exercise Minutes: 44.6445 minutes, from smart watch\nVisceral Fat Level: 7.169 level, from smart scale\nWake After Sleep Onset: 14.7208 minutes, from smart watch"
+        }
+      ],
+      "turn_kind": "timeline"
+    }
+  ]
+}

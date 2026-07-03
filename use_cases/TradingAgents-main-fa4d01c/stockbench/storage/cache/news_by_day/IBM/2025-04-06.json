@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "title": "Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence (AI) Giant IBM",
+      "description": "The mostly forgotten former technology titan may quietly be sitting on the next big thing in AI's ongoing evolution.",
+      "published_utc": "2025-04-06T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d6fe573b02f836f5ec80cb131f1d6d3b02487586fd99cfcf81a0f66f429542d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133738380,
+      "datetime": 1743944400
+    },
+    {
+      "id": "eabe8c442addabfd56736d3f3aa32b321a318e405c494b9ac9e41827999a4c28",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is This Artificial Intelligence IPO a Buy?",
+      "author": "Robert Izquierdo",
+      "published_utc": "2025-04-06T13:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/06/is-this-artificial-intelligence-ipo-stock-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "AMD",
+        "CRWV",
+        "NVDA",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "META",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/813350/ai-android-black-robot-head.jpg",
+      "description": "Despite recent stock market volatility, the AI sector remains compelling due to its transformative potential. However, the newly public CoreWeave faces significant risks, including heavy debt, customer concentration, and competition from larger players like Amazon and Google.",
+      "keywords": [
+        "artificial intelligence",
+        "AI",
+        "CoreWeave",
+        "cloud computing",
+        "semiconductor chips",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the CEO's statement that AI is a 'once-in-a-generation transition' that will reshape the computing market, indicating the company's positive outlook on the AI sector."
+        },
+        {
+          "ticker": "CRWV",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article outlines several significant risks for CoreWeave, including heavy debt, customer concentration, and competition from larger players, making it a risky investment at the moment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia was among the companies that bought shares in CoreWeave, but does not provide a clear sentiment on Nvidia itself."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Amazon's cloud computing service, Amazon Web Services, competes with CoreWeave, but does not provide a clear sentiment on Amazon."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Google Cloud, owned by Alphabet, also supports AI and competes with CoreWeave, but does not provide a clear sentiment on Alphabet."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Google Cloud, owned by Alphabet, also supports AI and competes with CoreWeave, but does not provide a clear sentiment on Alphabet."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Microsoft is a key customer of CoreWeave, accounting for 62% of its revenue, but also notes that this customer concentration poses a risk for CoreWeave."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Meta Platforms (Facebook's parent company) is a customer of CoreWeave, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that IBM is a customer of CoreWeave, but does not provide a clear sentiment on the company."
+        }
+      ]
+    }
+  ]
+}

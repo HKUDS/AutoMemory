@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "4 Insurance Stocks That Have Outperformed the S&P 500 in a Year",
+      "description": "Insurance Stocks HCI, HRTG, HMN and TRV outperform the industry, the sector and the S&P 500 composite, and look poised to retain the rally.",
+      "published_utc": "2025-06-03T22:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb354a0dd354d71fa9edd3636a92befdbc70d4f69db6a95b8a942e42b865b8e7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134979258,
+      "datetime": 1748961360
+    },
+    {
+      "title": "Travelers Releases 2025 Injury Impact Report",
+      "description": "HARTFORD, Conn., June 03, 2025--The Travelers Companies, Inc. (NYSE: TRV), one of the country’s largest workers compensation insurers, today published its 2025 Injury Impact Report, which compared workers compensation data from the five years leading up to the COVID-19 pandemic with the next five years. The analysis of more than 2.6 million claims submitted during that time found that while the number of workplace injuries overall continues to decline, the costs associated with them are climbing",
+      "published_utc": "2025-06-03T21:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27c0278412ead49e97e26d99e61fcfa291568a380f633d69fce28a1f3f39f33b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134979259,
+      "datetime": 1748955720
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:43.651969+00:00",
+    "cache_key": "news_ce0843de5f41c73e01c0d93834d201cd",
+    "count": 2
+  }
+}

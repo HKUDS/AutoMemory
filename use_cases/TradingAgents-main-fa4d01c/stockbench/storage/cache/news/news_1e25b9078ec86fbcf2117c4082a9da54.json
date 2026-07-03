@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking George Soros's 13F Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-06-12T06:35:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4d50f4b3984e229ed6848177b77b6b022f08f0c646bbc944640289071aa804d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199218,
+      "datetime": 1749681323
+    },
+    {
+      "title": "Goldman Sachs (GS) Gains As Market Dips: What You Should Know",
+      "description": "The latest trading day saw Goldman Sachs (GS) settling at $624.17, representing a +1.51% change from its previous close.",
+      "published_utc": "2025-06-12T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51aebc7bc9d356122bdf7e7902eefd0d07caeb35f0d658cb94f915ccf2b7cb2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135201176,
+      "datetime": 1749678303
+    },
+    {
+      "title": "Goldman’s CIO Service Gains Traction in Japan After a Decade",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the best Dow stocks to invest in. After more than ten years of effort, the company secured its first institutional asset management client in Japan last year. A second pension fund followed in early 2025, and roughly 10 more potential clients are now in the pipeline, […]",
+      "published_utc": "2025-06-12T04:27:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7823ccf5ef0944fe0301c81eb556bbf7d7c9d3fd447d20324564a40764914e99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135201177,
+      "datetime": 1749673627
+    },
+    {
+      "title": "Switzerland faces deflation and threat of negative interest rates",
+      "description": "Copyright © BusinessAMBE 2023Key takeawaysConsumer prices in Switzerland fell 0.1 percent in May from a year earlier.The Swiss National Bank is under pressure to respond to this deflationary...",
+      "published_utc": "2025-06-11T23:01:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=5e972052e7ab9dae5796d76ea9b8b5a8ac38cb9ec55cd0728350cf318db5179d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135193148,
+      "datetime": 1749654067
+    },
+    {
+      "title": "Dow up 231 points on gains for shares of Goldman Sachs, 3M",
+      "description": "Dow up 231 points on gains for shares of Goldman Sachs, 3M",
+      "published_utc": "2025-06-11T21:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=671facf985b90cea700e0ed4dbdfce9c9aa3e2c257783c5e34d0bf065e69b384",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135214890,
+      "datetime": 1749648300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:53.917068+00:00",
+    "cache_key": "news_1e25b9078ec86fbcf2117c4082a9da54",
+    "count": 5
+  }
+}

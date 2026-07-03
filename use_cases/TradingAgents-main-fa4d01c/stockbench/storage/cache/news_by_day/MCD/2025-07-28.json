@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s India launches plant-based Protein Plus range",
+      "description": "The Protein Slice is prepared using vegetarian components, such as soy and pea.",
+      "published_utc": "2025-07-28T19:31:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe46535bb9758a22cdb3989ad3b9a469090d4fd66cd74e01f16131f30a597165",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108166,
+      "datetime": 1753702293
+    },
+    {
+      "title": "Asia-Pacific Fast Food Market Forecast and Company Analysis Report 2025-2033 Featuring McDonald's, Yum!, Domino's, Wendy's, Jack in the Box, Starbucks, Papa John's, KFC, Corteva Agriscience",
+      "description": "The Asia-Pacific fast food market, valued at USD 270.22 billion in 2024, is projected to reach USD 465.12 billion by 2033, growing at a CAGR of 6.22%. Key drivers include urbanization, a growing youth population, and demand for affordable dining. Increasing digital participation and international chain expansion in countries like China, India, Japan, and South Korea fuel growth. The market faces challenges such as growing health consciousness and supply chain disruptions. Trends highlight a rise",
+      "published_utc": "2025-07-28T19:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b00bf35363204097cdb9b4048af9ecf7f2162d8ff7d33c425d7ac281b4106ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108167,
+      "datetime": 1753702140
+    },
+    {
+      "title": "McDonald’s (MCD) Stock Backed by Innovation Pipeline, Says KeyBanc",
+      "description": "McDonald’s Corporation (NYSE:MCD) ranks among the best low volatility stocks to buy according to analysts. KeyBanc reaffirmed its Overweight rating and $325 price target for McDonald’s Corporation (NYSE:MCD) on July 15. Despite falling short of original projections, the firm expects McDonald’s to report “respectable” same-store sales growth of about 2% in the US for the […]",
+      "published_utc": "2025-07-28T13:42:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b0069bf625454ea28d506567307d630d277445b96e9f04709d3aaaed50f1c8b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108168,
+      "datetime": 1753681339
+    }
+  ]
+}

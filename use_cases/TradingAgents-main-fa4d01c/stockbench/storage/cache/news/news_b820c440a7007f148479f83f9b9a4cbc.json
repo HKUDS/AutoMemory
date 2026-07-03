@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "The Home Depot, Inc. (HD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-05-26T21:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a1c00ebb5ee6e7cede756571b4f630413071a1d884dff5fa9d4bba86ff4f602",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715920,
+      "datetime": 1748264413
+    },
+    {
+      "title": "3 Must-Know Facts About Home Depot Before You Buy the Stock",
+      "description": "Home Depot generates a sizable chunk of its sales from professional customers, which helps boost the company’s financial metrics.  With $163 billion in trailing-12-month sales, Home Depot (NYSE: HD) is not only the clear leader in the home improvement industry, but it's undoubtedly one of the biggest retailers in the world.  Here are three facts you should know about Home Depot before buying this top retail stock.",
+      "published_utc": "2025-05-26T20:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b684b2efe961f40eefd632bb0afd2fdc9b859564bdea2b6b07b010dbaca2ba3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715922,
+      "datetime": 1748261700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:02.569041+00:00",
+    "cache_key": "news_b820c440a7007f148479f83f9b9a4cbc",
+    "count": 2
+  }
+}

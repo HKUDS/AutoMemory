@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Miss the Tech Rally? Buy These 8 AI-Related Stocks.",
+      "description": "Miss the Tech Rally? Buy These 8 AI-Related Stocks.",
+      "published_utc": "2025-01-06T21:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9381f14eb89c4ffc01de98e44d2c57c90212605a9535ff7ab521574df245b454",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321600,
+      "datetime": 1736170560
+    },
+    {
+      "title": "4 Crypto-Focused Stocks to Track as Bitcoin Rally Continues in 2025",
+      "description": "After a stellar 2024, this year also holds promise for cryptocurrencies, which is likely to help stocks like HOOD, NVDA, V and SHOP.",
+      "published_utc": "2025-01-06T21:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=912f470cdef4756ae4895e2616e82a3dbd91dd61e4eaae996c4f284f5e8bd6fd",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/17d922258454daf5d9799afd3632e66c",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132287801,
+      "datetime": 1736169300
+    }
+  ]
+}

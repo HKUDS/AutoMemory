@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (NYSE:CAT) Names Christy Pambianchi as Chief Human Resources Officer Amid 13% Stock Dip Last Week",
+      "description": "Caterpillar (NYSE:CAT) recently announced the appointment of Christy Pambianchi as the new Chief Human Resources Officer, which aims to strengthen its leadership team. Despite this development, Caterpillar's stock experienced a 13% decline over the last week. This dip coincides with a tumultuous period in the broader market, marked by a severe downturn due to escalating global trade tensions, including tariffs imposed on U.S. products by China. The broader market turmoil resulted in...",
+      "published_utc": "2025-04-06T01:47:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7828d47d9b81ac00064da4e9970ada244bd844532e8e4e46914f164a0aab5803",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727373,
+      "datetime": 1743875258
+    }
+  ]
+}

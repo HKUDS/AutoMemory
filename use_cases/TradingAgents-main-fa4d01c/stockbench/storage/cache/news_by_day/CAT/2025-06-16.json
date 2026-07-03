@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Will CAT's Dividend Hike Revive Investor Confidence in Uncertain Times?",
+      "description": "Caterpillar lifts its quarterly dividend by 7% to $1.51, marking 31 straight years of hikes despite recent revenue softness.",
+      "published_utc": "2025-06-16T23:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ca0075dadafec4f6ddb2d6fd004e38ea3643b10668ff9bee8c968bc27b76172",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135309557,
+      "datetime": 1750086900
+    }
+  ]
+}

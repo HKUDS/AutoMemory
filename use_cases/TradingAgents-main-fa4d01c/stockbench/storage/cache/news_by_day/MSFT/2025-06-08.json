@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Why Intel’s (INTC) Comeback Might Happen Sooner Than Expected",
+      "description": "As an investor who’s watched Intel’s (INTC) challenges unfold over the past few years, I’m genuinely excited about Lip-Bu Tan stepping in as CEO. Tan’s approach is both bold and strategic—the exact combination Intel desperately needs. He’s already making aggressive moves to restructure the company, ramp up investments in manufacturing and AI, and put the foundry business at the forefront. Despite the plethora of both internal and external turmoil, INTC stock has managed to post a flat first six",
+      "published_utc": "2025-06-08T07:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f6c09f54fb09b1a412c8acefeea324ecb4436834dff51d958b3eaf2fbf024bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139676,
+      "datetime": 1749338460
+    },
+    {
+      "title": "Is CoreWeave Stock a Buy Now?",
+      "description": "New AI stock CoreWeave had its initial public offering in March 2025.  The company anticipates sustained revenue growth, but CoreWeave faces financial risks, including operating at a loss.  Investing in today's stock market can be tricky given the volatile macroeconomic climate, fueled by the Trump administration's ever-shifting tariff policies.",
+      "published_utc": "2025-06-08T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05f9484d17f830e09627ad3db0d5bcf18ce30f9667015c1d3e6823626b7aa512",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135108549,
+      "datetime": 1749328200
+    },
+    {
+      "title": "Corporate Cash Levels Are Starting to Fall",
+      "description": "(Bloomberg) -- The latest earnings period brought what might be an early warning sign about credit quality for high-grade US companies. Most Read from BloombergNext Stop: Rancho Cucamonga!Where Public Transit Systems Are Bouncing Back Around the WorldICE Moves to DNA-Test Families Targeted for Deportation with New ContractUS Housing Agency Vulnerable to Fraud After DOGE Cuts, Documents WarnTrump Said He Fired the National Portrait Gallery Director. She’s Still There.Cash levels at blue-chip comp",
+      "published_utc": "2025-06-08T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=836b9324dea6dd861cc6ffb6fdedfa3ab519494a300a7b47171b398b85588b3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114216,
+      "datetime": 1749322800
+    }
+  ]
+}

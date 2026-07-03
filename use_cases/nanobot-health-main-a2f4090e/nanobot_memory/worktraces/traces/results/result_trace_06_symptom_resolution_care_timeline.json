@@ -1,0 +1,110 @@
+{
+  "trace_id": "trace_06_symptom_resolution_care_timeline",
+  "description": "Tests (1) symptom resolution tracking: migraine reported then explicitly resolved, resolution must appear alongside original symptom in recall; (2) care timeline precision: doctor visit, lab results with exact numbers (HbA1c 7.1%, cholesterol 224, LDL 148), follow-up appointment with date; (3) flu vaccine capture; (4) casual weight mention captured. Failure modes: resolution event not linked to original symptom keyword; exact lab numbers lost to paraphrase; care dates dropped.",
+  "n_turns": 21,
+  "n_queries": 7,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "migraine",
+      "expected_information": [
+        "migraine",
+        "/resolv|sumatriptan|cleared|March 10|2025-03-10/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    },
+    {
+      "query": "HbA1c",
+      "expected_information": [
+        "7.1",
+        "/A1C|HbA1c/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    },
+    {
+      "query": "cholesterol results",
+      "expected_information": [
+        "224",
+        "148"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    },
+    {
+      "query": "Dr. Patel visit",
+      "expected_information": [
+        "/Patel|Riverside/",
+        "/March 10|2025-03-10/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    },
+    {
+      "query": "flu shot",
+      "expected_information": [
+        "/flu|influenza|Fluzone/",
+        "/March 14|2025-03-14/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    },
+    {
+      "query": "follow-up appointment",
+      "expected_information": [
+        "/March 28|2025-03-28/",
+        "/Patel|Riverside/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    },
+    {
+      "query": "weight",
+      "expected_information": [
+        "192",
+        "/lbs|pounds|weight/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Migraine \u2014 status: resolved (resolved 2024-03-10), treated with sumatriptan 50mg at urgent care; complete relief within ~2 hours; considered worst episode in years prior to resolution\n- Type 2 Diabetes (early) \u2014 diagnosed 2024-03-14, status: active; HbA1c 7.1%, fasting glucose 118 mg/dL; requires follow-up and management plan\n- Hyperlipidemia \u2014 diagnosed 2024-03-14, status: active; total choles"
+    }
+  ]
+}

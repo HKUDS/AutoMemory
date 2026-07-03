@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express Upgrades Quarterly Dividend 17%",
+      "description": "By Sabela Ojea American Express is raising its quarterly dividend by 17% to 82 cents a share. The credit card giant on Monday said that its board of directors authorized increasing its...",
+      "published_utc": "2025-03-04T01:41:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7aba869221430585f7785165c12555af5ec46cf6875ba6311502877e3404e599",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132969560,
+      "datetime": 1741023667
+    },
+    {
+      "title": "American Express Ups Quarterly Dividend 17%",
+      "description": "American Express Ups Quarterly Dividend 17%",
+      "published_utc": "2025-03-04T01:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bf46d1de34b28941cf74d6c9efc811757343ba6eb7f97afaac2284f13111e08e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132978816,
+      "datetime": 1741022700
+    },
+    {
+      "title": "Berkshire Hathaway: Buffett Sells Banks, Buys Beer And Pizza As Economic Indicators Worsen",
+      "description": "Warren Buffett has sold record amounts of stock over the past 18 months but hasn't given the public much information as to why. Read more on the inflation-resistant picks made by Berkshire.",
+      "published_utc": "2025-03-04T00:48:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5c36dadbf3c9c1f9f431d5a66fd49eddf98b7c1b95ac4f6f894ec8dd5fd7ff6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/505663330/image_505663330.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132969359,
+      "datetime": 1741020524
+    },
+    {
+      "title": "American Express Elects Michael J. Angelakis to Board of Directors",
+      "description": "American Express Company today announced that Michael J. Angelakis has been elected to its Board of Directors, effective March 3, 2025. Mr. Angelakis is the Chairman and Chief Executive Officer of...",
+      "published_utc": "2025-03-04T00:39:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3bddd1ab48965e3a421b7caad5c0d550fce2a0361e9449f81e4b628820c6ee68",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132967899,
+      "datetime": 1741019943
+    },
+    {
+      "title": "American Express Board Authorizes 17 Percent Dividend Increase",
+      "description": "The Board of Directors of American Express Company has approved a $0.12, or 17 percent, increase in the quarterly dividend on the company’s common stock, consistent with the planned increase...",
+      "published_utc": "2025-03-04T00:38:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=640ea29814a38b5b3a1bf8053ffead936d3cedb0e8726a19e3c65a500882ef72",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132967827,
+      "datetime": 1741019883
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:22.905865+00:00",
+    "cache_key": "news_44d99c1a2ca0cffa3c9e56b5e4be420a",
+    "count": 5
+  }
+}

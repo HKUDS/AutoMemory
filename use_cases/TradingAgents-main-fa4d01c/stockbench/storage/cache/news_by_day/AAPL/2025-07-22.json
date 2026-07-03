@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Bessent Says Review of Fed’s Building Renovations Is Needed",
+      "description": "(Bloomberg) -- Treasury Secretary Scott Bessent said in a social media post Monday that there should be a review of the decision to renovate parts of the Federal Reserve headquarters in Washington.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionSalt Lake City Turns Winter Olympic Bid Into Statewide Bond BoomMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build an AI Capital“While I have no knowledge or opinion on th",
+      "published_utc": "2025-07-22T07:21:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bac80c897403af9a3562e4ab43dfe24449b0c75777b69539237d6b300d7cc5a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031090,
+      "datetime": 1753140097
+    },
+    {
+      "title": "Polen Global Growth Portfolio Q2 2025 Commentary",
+      "description": "During the quarter, Polen Global Growth Portfolio returned 8.16% gross of fees (7.87% net of fees) compared to 11.53% for the Index. Read more here.",
+      "published_utc": "2025-07-22T06:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d175bc3623a511df6d3a413812fe88e9b9482ca9237a7d237886ed448b026549",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1148772285/image_1148772285.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028939,
+      "datetime": 1753135800
+    },
+    {
+      "title": "Taiwan Semiconductor Manufacturing Shares Rise on Strong Outlook. Is It Too Late to Buy the Stock?",
+      "description": "TSMC posted strong Q2 growth, as demand for artificial intelligence (AI) chips continues to surge.  While tariff uncertainty remains, the company upped its guidance, given the strong demand for AI chips it is seeing.  The company remains one of the best-positioned companies to benefit from the ongoing AI data center build-out.",
+      "published_utc": "2025-07-22T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76c78ce01882e7a2bd2d1504e550aa7e6a9bb96852a2a2c3c4e4611251b0feec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031091,
+      "datetime": 1753135200
+    },
+    {
+      "title": "Pixalate’s June 2025 Delisted Mobile Apps Reports: 46,331 Apps Delisted from Google Play Store & 45,685 from Apple App Store",
+      "description": "Pixalate research finds 12,790 apps delisted from the United States (U.S.) Google Play Store were ad-enabled (e.g., had an app-ads.txt file), while 3,789 apps delisted from the Apple App Store were ad-enabledLondon, July 21, 2025 (GLOBE NEWSWIRE) -- Pixalate, the leading ad fraud protection, privacy, and compliance analytics platform, today released the June 2025 Delisted Mobile Apps Reports for the United States (U.S.) Apple App Store and Google Play Store. The reports analyze apps delisted in",
+      "published_utc": "2025-07-22T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=73585af93db23323df2d765610d62718344cb8854d7dc8f24867f4b61a57dba2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031092,
+      "datetime": 1753133400
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation, July 2025",
+      "description": "Build a high-performing portfolio with over 20 expert-recommended stocks. Focused on capital growth, beat the S&P 500 using institutional-grade picks. See more.",
+      "published_utc": "2025-07-22T05:23:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1c798100ae494d89b0ad8561f66cf75a2e7da04aa6e2ba800c19a315d605d20",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028779,
+      "datetime": 1753133004
+    }
+  ]
+}

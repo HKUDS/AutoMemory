@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "6e18e1bb16b8c91d8a265dc4e8b56ffed2cdb9933a0f182b63a84221ff98990c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Johnson & Johnson Stock a Buy?",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-02-02T17:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/is-johnson-johnson-stock-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "ISRG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805201/nurse-holding-patients-hands.jpg",
+      "description": "Johnson & Johnson is a healthcare giant with a diverse portfolio of pharmaceutical products and medical devices. While it has faced legal and regulatory headwinds, the company's financial results remain solid, and it has growth opportunities in areas like robotic-assisted surgery. The stock may be a good choice for long-term, income-seeking investors, despite some challenges.",
+      "keywords": [
+        "Johnson & Johnson",
+        "healthcare",
+        "pharmaceutical",
+        "medical devices",
+        "legal issues",
+        "regulatory changes",
+        "dividend",
+        "income investing"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Johnson & Johnson's strengths, including its diverse portfolio, steady financial performance, and growth opportunities in areas like robotic-assisted surgery. While it faces some headwinds, the company is expected to navigate these challenges and remain a reliable investment option, especially for income-seeking investors."
+        },
+        {
+          "ticker": "ISRG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Intuitive Surgical as the dominant player in the robotic-assisted surgery market, which Johnson & Johnson is trying to enter with its Ottava system. The article does not provide a clear sentiment on Intuitive Surgical, as it focuses more on Johnson & Johnson's potential in this market."
+        }
+      ]
+    },
+    {
+      "title": "ORIC Pharmaceuticals: Too Early To Commit, Despite Some Good Early Data",
+      "description": "ORIC's ORIC-533 was promising but failed in trials, leaving ORIC-114 and ORIC-944 as key pipeline assets. Read why I am neutral on ORIC stock.",
+      "published_utc": "2025-02-02T13:05:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8adc832885d57ebc67b473c3828e685bd6413a80d2eedee4116d146c10d33b7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132514154,
+      "datetime": 1738472729
+    }
+  ]
+}

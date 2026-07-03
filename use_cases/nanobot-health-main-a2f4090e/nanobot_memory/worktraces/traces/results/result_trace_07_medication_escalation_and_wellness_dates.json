@@ -1,0 +1,100 @@
+{
+  "trace_id": "trace_07_medication_escalation_and_wellness_dates",
+  "description": "Tests (1) multi-step medication dose escalation: Metformin 500mg \u2192 1000mg \u2192 1500mg across three turns \u2014 the final 1500mg dose must survive as the current dose; (2) date-specific wellness log retrieval: explicit food and exercise details logged on March 15, March 17, March 20 \u2014 retrieved by date with specific items; (3) implicit symptom cross-reference: persistent dry cough appears after lisinopril is added, user minimizes it as 'probably allergies' \u2014 cough must be captured AND lisinopril must remain in context. Failure modes: LLM accumulates all three Metformin doses ambiguously; specific wellness details (wine, salmon, oatmeal) generalized away; cough not captured because user downplays it.",
+  "n_turns": 22,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "current Metformin dose",
+      "expected_information": [
+        "1500mg",
+        "/three times|three.*daily|TID|500mg.*three|500.*meals/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2025-01-23, status: active, A1C 7.4% (improved from 8.2%), fasting glucose 162 mg/dL\n- Hypertension (Stage 1) \u2014 diagnosed 2025-03-22, status: active, BP 142/90\n\n## Medications\n- Metformin 500mg once daily \u2014 started 2025-01-23, for type 2 diabetes (discontinued 2025-02-06)\n- Metformin 1000mg daily (500mg twice daily \u2014 morning and dinner) \u2014 started 2025-02-06, for type"
+    },
+    {
+      "query": "A1C goal target",
+      "expected_information": [
+        "6.8",
+        "/September|2025-09/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2025-01-23, status: active, A1C 7.4% (improved from 8.2%), fasting glucose 162 mg/dL\n- Hypertension (Stage 1) \u2014 diagnosed 2025-03-22, status: active, BP 142/90\n\n## Medications\n- Metformin 500mg once daily \u2014 started 2025-01-23, for type 2 diabetes (discontinued 2025-02-06)\n- Metformin 1000mg daily (500mg twice daily \u2014 morning and dinner) \u2014 started 2025-02-06, for type"
+    },
+    {
+      "query": "March 15 wellness",
+      "expected_information": [
+        "/March 15|2025-03-15/",
+        "/walk|exercise/",
+        "/oatmeal|salmon/"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2025-01-23, status: active, A1C 7.4% (improved from 8.2%), fasting glucose 162 mg/dL\n- Hypertension (Stage 1) \u2014 diagnosed 2025-03-22, status: active, BP 142/90\n\n## Medications\n- Metformin 500mg once daily \u2014 started 2025-01-23, for type 2 diabetes (discontinued 2025-02-06)\n- Metformin 1000mg daily (500mg twice daily \u2014 morning and dinner) \u2014 started 2025-02-06, for type"
+    },
+    {
+      "query": "March 17 wellness",
+      "expected_information": [
+        "/March 17|2025-03-17/",
+        "/wine|alcohol/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2025-01-23, status: active, A1C 7.4% (improved from 8.2%), fasting glucose 162 mg/dL\n- Hypertension (Stage 1) \u2014 diagnosed 2025-03-22, status: active, BP 142/90\n\n## Medications\n- Metformin 500mg once daily \u2014 started 2025-01-23, for type 2 diabetes (discontinued 2025-02-06)\n- Metformin 1000mg daily (500mg twice daily \u2014 morning and dinner) \u2014 started 2025-02-06, for type"
+    },
+    {
+      "query": "lisinopril",
+      "expected_information": [
+        "lisinopril",
+        "5mg",
+        "/blood pressure|BP|hypertension/"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2025-01-23, status: active, A1C 7.4% (improved from 8.2%), fasting glucose 162 mg/dL\n- Hypertension (Stage 1) \u2014 diagnosed 2025-03-22, status: active, BP 142/90\n\n## Medications\n- Metformin 500mg once daily \u2014 started 2025-01-23, for type 2 diabetes (discontinued 2025-02-06)\n- Metformin 1000mg daily (500mg twice daily \u2014 morning and dinner) \u2014 started 2025-02-06, for type"
+    },
+    {
+      "query": "cough",
+      "expected_information": [
+        "/cough|dry cough/",
+        "lisinopril"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed 2025-01-23, status: active, A1C 7.4% (improved from 8.2%), fasting glucose 162 mg/dL\n- Hypertension (Stage 1) \u2014 diagnosed 2025-03-22, status: active, BP 142/90\n\n## Medications\n- Metformin 500mg once daily \u2014 started 2025-01-23, for type 2 diabetes (discontinued 2025-02-06)\n- Metformin 1000mg daily (500mg twice daily \u2014 morning and dinner) \u2014 started 2025-02-06, for type"
+    }
+  ]
+}

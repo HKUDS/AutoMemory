@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "XRT: Retail Sector Earnings Roundup, Analyzing The Winners And Losers",
+      "description": "As the reporting season concludes, today is an opportune time to round up the major retailers. See which retailers are best positioned to thrive in todayâs market.",
+      "published_utc": "2025-06-16T21:51:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5908caf2f7ceaec6a8966635f9138f3995777ea4ef7778e19dbfea6f2d9100b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170048981/image_2170048981.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135309608,
+      "datetime": 1750081896
+    },
+    {
+      "title": "Factbox-CEO moves between industries",
+      "description": "Gucci owner Kering is set to hire Renault Chief Executive Luca de Meo, five sources told Reuters on Monday, in a move that will see de Meo pivot from the automotive to the luxury sector. Below are examples of other CEOs who switched industries, along with the stories of how they fared: ANGELA AHRENDTS To: Apple (Technology) From: Burberry (Luxury fashion) Ahrendts became Senior Vice President of Retail at Apple in 2014 after previously holding the CEO position at luxury fashion retailer Burberry. Ahrendts became one of Apple's top-paid executives and led a redesign of the company's retail stores before leaving Apple in 2019.",
+      "published_utc": "2025-06-16T20:59:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ae2b55631fea907169106ce1db8cfc9e27179291f8b5ab6acfa58a9c48a6df2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300901,
+      "datetime": 1750078792
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Home Depot, Lowe's, Williams-Sonoma and The Lovesac",
+      "description": "Home Depot, Lowe's, Williams-Sonoma and Lovesac ride housing recovery, digital tools and product innovation in a shifting retail market.",
+      "published_utc": "2025-06-16T19:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa1377c8cc2a6726a7223b36903c7cd4fce57ae1e1a49494c50179da6518e0ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135302899,
+      "datetime": 1750073940
+    },
+    {
+      "title": "A Look Back at Home Furnishing and Improvement Retail Stocks’ Q1 Earnings: Lowe's (NYSE:LOW) Vs The Rest Of The Pack",
+      "description": "As the Q1 earnings season comes to a close, it’s time to take stock of this quarter’s best and worst performers in the home furnishing and improvement retail industry, including Lowe's (NYSE:LOW) and its peers.",
+      "published_utc": "2025-06-16T11:36:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f47e7000e103b4f1d54f97c3ef4d204cfd9eacd157824afe27cdc13047c0fb1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300159,
+      "datetime": 1750044982
+    },
+    {
+      "title": "IYC: Consumer Discretionary Dashboard For June",
+      "description": "IYC offers broader exposure than XLY with lower volatility, but historically underperformed it. Check out the analysis of the consumer discretionary sector.",
+      "published_utc": "2025-06-16T08:26:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4c030714f13d7454f0665e666f4442ff8b0ecd99cda89f7fadb4deb08aec1fe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190631673/image_2190631673.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135288961,
+      "datetime": 1750033560
+    }
+  ]
+}

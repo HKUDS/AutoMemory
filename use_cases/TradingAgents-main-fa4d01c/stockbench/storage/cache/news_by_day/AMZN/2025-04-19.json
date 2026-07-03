@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why Amazon.com (AMZN) Is the Best Blue Chip Stock to Buy According to Billionaires",
+      "description": "We recently published a list of 15 Best Blue Chip Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other best blue chip stocks to buy according to billionaires. Is A Potential Trade War on the Horizon? The US stock market […]",
+      "published_utc": "2025-04-19T23:15:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bc5eacce203688cdbfbc1e2b319af2997a8f0d05574082f2b8cc2c020635007",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134016169,
+      "datetime": 1745075727
+    },
+    {
+      "title": "Prediction: 1 Stock That Will Be Worth More Than Nvidia 5 Years From Now",
+      "description": "Nvidia (NASDAQ: NVDA) has been one of the hottest stocks on the market in the past five years, delivering remarkable gains of 1,300% to investors during this period and significantly outpacing the tech-laden Nasdaq Composite's returns of about 100%.  Nvidia's market capitalization of $2.5 trillion makes it the third-largest company globally.  The good part is that Nvidia could deliver more gains in the future thanks to a sizable addressable market that could allow it to sustain healthy revenue and earnings growth for years to come.",
+      "published_utc": "2025-04-19T20:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f69ad97c0e50731dbb4ee801650d7a01ca3d9cca50f3a30fbd77ea3cc058837c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134016170,
+      "datetime": 1745066700
+    },
+    {
+      "title": "GAM: Tech Exposure Could Mean Short-Term Pain",
+      "description": "",
+      "published_utc": "2025-04-19T19:38:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b1fd8ecc8bbc14cd467d1415a08b3dde2dc248c22111fd11ca84fd64fa880d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972389,
+      "datetime": 1745062693
+    },
+    {
+      "title": "Tesla, Google To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4e734181f72f20824c12732588a34fe750eb12ceb4ae4a5574c9745da3ff1fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133973173,
+      "datetime": 1745060400
+    },
+    {
+      "title": "Tesla, Amazon To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9036e6d1a12f4396d163545683e97983a5269f3e7f92fc863f14c5422010d3f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972169,
+      "datetime": 1745060400
+    }
+  ]
+}

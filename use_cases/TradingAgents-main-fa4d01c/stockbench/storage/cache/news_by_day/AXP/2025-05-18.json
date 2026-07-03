@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $500 Right Now",
+      "description": "Apple and American Express are two of Berkshire Hathaway's largest investments.  Apple's push into services, in addition to Apple Intelligence, should lead to profitable growth for investors.  American Express is a resilient credit card brand that continues to adapt its offering to win over a new generation of consumers.",
+      "published_utc": "2025-05-18T06:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a30e73cf5f4a389c820df1ff0c28a558addba241614336799c3407f0947fb9a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567646,
+      "datetime": 1747520040
+    },
+    {
+      "title": "Warren Buffett Remains Optimistic About America. Here Are Top American Companies Worth Investing In.",
+      "description": "Warren Buffett has guided Berkshire Hathaway through U.S. stock market investing for 59 years.  Buffett’s investing has spanned all market environments.  The top investor continues to believe in the future of American companies -- and their stock performance.",
+      "published_utc": "2025-05-18T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d02e6ec6c1b22b4d1b4fb69c05f295ff1d671bd7c3781771f7129707f5d2ec35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567806,
+      "datetime": 1747519800
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Home Depot's Inventory Playbook: Is It Delivering Results in FY25?",
+      "description": "HD's fiscal 2025 inventory strategy, bolstered by SRS and smart seasonal planning, is driving stronger product availability and fulfillment.",
+      "published_utc": "2025-07-23T22:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1380d26665cc8cb233190cb7084a435c7e8a637f8aeb9489a545ebab5a820e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062150,
+      "datetime": 1753281960
+    },
+    {
+      "title": "Home Depot: I Know It's Overvalued, But Core Strengths And Technicals Are So Tempting That I Want To Add More (Rating Upgrade)",
+      "description": "Discover why Home Depot is a resilient investment despite market challenges.",
+      "published_utc": "2025-07-23T16:52:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=acb0be24acc11325eef86f33753e084932e1d871842cd1d222803fade59ae5c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2176557061/image_2176557061.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136041068,
+      "datetime": 1753260755
+    },
+    {
+      "title": "2 Magnificent S&P 500 Dividend Stocks Down 2% and 16% to Buy and Hold Forever",
+      "description": "Home Depot and PepsiCo have seen results affected by larger economic forces.  Home Depot will undoubtedly see sales growth accelerate when people take on major renovations.  PepsiCo has a stable of well-known brands.",
+      "published_utc": "2025-07-23T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ada2a5f0af5bc77ad874c7589b0731fb66317741ca298b13c1b7476f9c79f7c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038216,
+      "datetime": 1753228800
+    }
+  ]
+}

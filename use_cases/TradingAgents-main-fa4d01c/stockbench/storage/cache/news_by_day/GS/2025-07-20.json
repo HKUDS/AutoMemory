@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "title": "‘Priced for Perfection’: Tariffs Loom Over Richly Valued Stocks",
+      "description": "(Bloomberg) -- The conventional wisdom on Wall Street appears to be that the US stock market’s latest march to records has been unabated because, when it comes to tariff threats, President Donald Trump talks loudly but carries a small stick.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomMumbai Facelift Is Inspired by 200-Year-Old New York BlueprintHow San Jose’s Mayor Is Working to Build an AI CapitalY",
+      "published_utc": "2025-07-20T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=076da6e0c2909b75b36777667a11f2a75104e3a46a6228b0e49867ab5d62feec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019799,
+      "datetime": 1753016400
+    },
+    {
+      "title": "Dollar Rethink Is Pushing Emerging World to Sell More Euro Debt",
+      "description": "(Bloomberg) -- Emerging-market borrowers are tapping the euro bond market at the fastest pace in over a decade, capitalizing on the rising demand for diversification away from the US dollar. Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomMumbai Facelift Is Inspired by 200-Year-Old New York BlueprintHow San Jose’s Mayor Is Working to Build an AI CapitalThe surge is being fueled by robust demand for deve",
+      "published_utc": "2025-07-20T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad46bd71484701dbd4305dd5754c6e79bfaad692d14d633c9e65ff3c18a9e030",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019684,
+      "datetime": 1753014600
+    },
+    {
+      "title": "Goldman Sachs BDC: Huge Discount Doesn't Justify A Buy Rating",
+      "description": "Goldman Sachs BDC struggles with declining earnings and NAV. Learn why I recommend holding despite yield and discount. Click for my GSBD stock update.",
+      "published_utc": "2025-07-20T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=33452f7583bd7b9a7bc436e308eb78445cf20e2861d66ad267cacbb8f2394fe2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164212327/image_2164212327.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136018279,
+      "datetime": 1752998400
+    },
+    {
+      "id": "fa9e930b02e118ea6970d6ad40cf6fcd337708b506f553ffc9fbaae95f90e2e4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "\"As Bitcoin Surpasses $123,000, ABQuant Users' Daily Earnings Rise to $12,900\"",
+      "author": "Na",
+      "published_utc": "2025-07-20T07:58:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/20/3118305/0/en/As-Bitcoin-Surpasses-123-000-ABQuant-Users-Daily-Earnings-Rise-to-12-900.html",
+      "tickers": [
+        "BLK",
+        "DIVB",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/de360a84-afb5-4689-a19f-b51091c537e3",
+      "description": "Bitcoin experienced significant growth between 2020-2023, transitioning from a speculative investment to a mainstream financial asset. Major investors and institutions are increasingly embracing cryptocurrencies, with platforms like AB Quant offering accessible digital asset investment strategies.",
+      "keywords": [
+        "Bitcoin",
+        "cryptocurrency",
+        "digital assets",
+        "quantitative trading",
+        "cloud mining"
+      ],
+      "insights": [
+        {
+          "ticker": "BLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Publicly embracing cryptocurrencies, signaling institutional confidence in digital assets"
+        },
+        {
+          "ticker": "DIVB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Publicly embracing cryptocurrencies, signaling institutional confidence in digital assets"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Publicly embracing cryptocurrencies, signaling institutional confidence in digital assets"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Publicly embracing cryptocurrencies, signaling institutional confidence in digital assets"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Publicly embracing cryptocurrencies, signaling institutional confidence in digital assets"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Publicly embracing cryptocurrencies, signaling institutional confidence in digital assets"
+        }
+      ]
+    }
+  ]
+}

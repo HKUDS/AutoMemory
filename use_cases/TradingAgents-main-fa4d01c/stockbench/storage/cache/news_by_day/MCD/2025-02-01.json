@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "bd964a204cfbea60bdb2a43053cdc60b3d2e71fd8d64f0599a15dc70a050687f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Dividend Stocks: McDonald's vs. Domino's",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-02-01T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/best-dividend-stocks-mcdonalds-vs-dominos/?source=iedfolrf0000001",
+      "tickers": [
+        "DPZ",
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806096/woman-checking-stocks-analyst.jpg",
+      "description": "Passive income investors have an excellent choice between Domino's Pizza and McDonald's, two leading companies in the food industry. The article provides a comparative analysis of these two options, highlighting their potential for generating passive income.",
+      "keywords": [
+        "passive income",
+        "Domino's Pizza",
+        "McDonald's",
+        "food industry"
+      ],
+      "insights": [
+        {
+          "ticker": "DPZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents Domino's Pizza as a viable option for passive income investors, suggesting it is an excellent choice."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents McDonald's as a viable option for passive income investors, suggesting it is an excellent choice."
+        }
+      ]
+    }
+  ]
+}

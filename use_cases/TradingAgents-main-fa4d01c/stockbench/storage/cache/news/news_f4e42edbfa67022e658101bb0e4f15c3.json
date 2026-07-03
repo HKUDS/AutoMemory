@@ -1,0 +1,179 @@
+{
+  "items": [
+    {
+      "title": "Ulta Beauty: Getting More Attractive With Each Visit, Just Like Its Customers",
+      "description": "Ulta Beauty's consistent profitability and strong customer loyalty position it for growth. See why ULTA stock offers substantial value with a low valuation.",
+      "published_utc": "2025-03-02T18:14:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c3865ec0fa9f92a3fd21b1dcaf552f0cf1568384bdf179c20bd24873c70549a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2032185601/image_2032185601.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132943368,
+      "datetime": 1740910498
+    },
+    {
+      "title": "This AI Trend Will Be the Hot Topic at World’s Biggest Smartphone Event",
+      "description": "This AI Trend Will Be the Hot Topic at World’s Biggest Smartphone Event",
+      "published_utc": "2025-03-02T11:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=225cdc2ad48c0dc575b60b10b737165235fd567fe9c8cb00475e1ee5a0e2f463",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955684,
+      "datetime": 1740886200
+    },
+    {
+      "id": "208c119b6b8defe2b07b6f544f0cb61c07c14e6122b3a8c21da546c52377581d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Microsoft's Major Quantum Breakthrough: Is the Stock a Buy?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T23:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/microsofts-major-quantum-breakthrough-is-the-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809007/ai-brain.jpg",
+      "description": "Microsoft has announced a breakthrough in quantum computing with its Majorana 1 chip, which could revolutionize cloud computing and enable advanced technologies like AI and autonomous vehicles. However, the technology is still years away from commercialization, and the company's stock is currently in a drawdown due to concerns about an oversupply of AI data centers.",
+      "keywords": [
+        "quantum computing",
+        "Microsoft",
+        "AI",
+        "cloud computing",
+        "data centers"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has made a significant breakthrough in quantum computing with its Majorana 1 chip, which could lead to a step change in growth for the quantum computer market and enable more cost-efficient computing for advanced technologies like AI and autonomous vehicles."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's self-driving car commercialization efforts as an example of innovation from big tech companies, but does not provide any specific insights about the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's self-driving car commercialization efforts as an example of innovation from big tech companies, but does not provide any specific insights about the company's performance or outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon's robot-controlled warehouses as an example of innovation from big tech companies, but does not provide any specific insights about the company's performance or outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Meta Platforms' (formerly Facebook) hand-controlled augmented reality glasses as an example of innovation from big tech companies, but does not provide any specific insights about the company's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "f38be26442e1805d7783ea45fc3479b5cc0d50fb9b575d5552ca46d7639a486c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia's Earnings Roared Higher to Record Levels. So, Why Isn't the Stock Soaring?",
+      "author": "Adria Cimino",
+      "published_utc": "2025-03-02T23:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/nvidias-earnings-soar-why-didnt-stock-follow/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809558/gettyimages-1213513544.jpg",
+      "description": "Nvidia reported strong Q4 and fiscal 2025 results, with record revenue and net income. However, the stock did not surge after the earnings report. This is likely due to the stock's significant gains over the past 5 years, leading investors to lock in some profits. Despite the short-term stock performance, Nvidia's long-term prospects remain bright, with its leadership in the AI chip market and a strong product pipeline.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "Earnings",
+        "Stock Performance"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia reported strong financial results, with record revenue and net income. The company is the leader in the AI chip market and has a strong product pipeline, including the new Blackwell architecture, which is expected to drive further growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as a potential large cloud service provider that is a customer of Nvidia, but the article does not provide any specific information about Amazon's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is also mentioned as a potential large cloud service provider that is a customer of Nvidia, but the article does not provide any specific information about Microsoft's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "6ceae2ef31af20ec2a776a004e74c19770f38c5358993b376bb156a5ae61ec0d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Agentic AI Be Able to Power Salesforce's Stock Higher in 2025?",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-03-02T23:18:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/will-agentic-ai-be-able-to-power-salesforces-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809318/gettyimages-1432457969.jpg",
+      "description": "Salesforce reported solid Q4 2025 results and issued conservative guidance for fiscal 2026. The company is focusing on its Agentforce offering, an agentic AI solution, as a key growth driver. Agentforce has seen quick uptake among customers, with the company closing 5,000 deals, including 3,000 paid deals, as of the end of the quarter.",
+      "keywords": [
+        "Salesforce",
+        "Agentforce",
+        "agentic AI",
+        "Q4 results",
+        "guidance"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce reported solid Q4 results, with revenue and earnings growth, and is seeing strong adoption of its Agentforce agentic AI solution. The company's guidance also appears conservative, suggesting potential for upside."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Gemini is mentioned as a partner for Salesforce's Agentforce, but no further details are provided."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Gemini is mentioned as a partner for Salesforce's Agentforce, but no further details are provided."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as helping Salesforce close a number of large deals, but no further details are provided."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:02.470706+00:00",
+    "cache_key": "news_f4e42edbfa67022e658101bb0e4f15c3",
+    "count": 5
+  }
+}

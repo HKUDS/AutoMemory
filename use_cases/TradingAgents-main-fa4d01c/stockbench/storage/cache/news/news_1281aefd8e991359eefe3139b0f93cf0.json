@@ -1,0 +1,120 @@
+{
+  "items": [
+    {
+      "title": "Eaton's Latest Acquisition To Modernize EV Charging Infrastructure",
+      "description": "Eaton Corp. (NYSE:ETN) on Wednesday announced it is strengthening its foothold in the energy transition space by acquiring Resilient Power Systems Inc., a U.S.-based firm known for cutting-edge solid-state transformer technology used in high-power direct current (DC) systems. The deal, expected to close in the third quarter of 2025, will give Eaton access to Resilient's specialized solutions designed to modernize EV charging infrastructure and support power distribution in data centers and batte",
+      "published_utc": "2025-07-16T22:53:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e9912b5d213ed987e8f2f3ac839b8955e41ce9e9861474b68f71d006996e83c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993640,
+      "datetime": 1752677631
+    },
+    {
+      "title": "Physical Security Market worth $151.50 billion by 2030 | MarketsandMarkets",
+      "description": "According to MarketsandMarkets™, the global Physical Security Market is projected to grow from USD 120.79 billion in 2025 to USD 151.50 billion by 2030, at a Compound Annual Growth Rate (CAGR) of 4.6% during the forecast period.",
+      "published_utc": "2025-07-16T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92ab322222d0f5a8d8d19115c95929ad5f17699e002844aab17607b214a2329c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993248,
+      "datetime": 1752675300
+    },
+    {
+      "title": "Honeywell Selected to Increase Fire Alarm Automation at Phoenix Airport; Comprehensive upgrade replaces thousands of devices to improve the terminal's fire safety and protection",
+      "description": "ATLANTA - Honeywell has been selected by Phoenix Sky Harbor International Airport to complete a comprehensive fire alarm system upgrade at its Terminal 4, which houses more than 80 airline gates...",
+      "published_utc": "2025-07-16T19:46:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7f67fcaaf13045057d0c1fadbb60acf08ad362e25d1f583a674fae67da6fe41a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135969377,
+      "datetime": 1752666374
+    },
+    {
+      "title": "Home Depot, Amazon.com Inc. share losses contribute to Dow's 129-point fall",
+      "description": "Home Depot, Amazon.com Inc. share losses contribute to Dow's 129-point fall",
+      "published_utc": "2025-07-16T19:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=df6963eb3e84fdaf7ffc1c81ae04485901aac8b5a7febdad1a78def1d2781b9a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135975105,
+      "datetime": 1752664800
+    },
+    {
+      "id": "d6f350070fd6df823a10319183980d985e18695966290de47114fc0f5fbb2000",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Sensors Technology and Global Markets Report 2025 | Revenue Data for 2024, Estimates for 2025, Forecast for 2027, and Projected CAGRs Through 2030",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-07-16T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/16/3116632/28124/en/Sensors-Technology-and-Global-Markets-Report-2025-Revenue-Data-for-2024-Estimates-for-2025-Forecast-for-2027-and-Projected-CAGRs-Through-2030.html",
+      "tickers": [
+        "IFNNY",
+        "HON",
+        "TEL",
+        "APH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "Global sensor technologies market projected to grow from $212.5 billion in 2025 to $323.3 billion by 2030, with an 8.7% CAGR, driven by increasing demand in automotive, consumer electronics, and IoT applications.",
+      "keywords": [
+        "sensors",
+        "technology",
+        "market forecast",
+        "IoT",
+        "AI integration",
+        "5G networks"
+      ],
+      "insights": [
+        {
+          "ticker": "IFNNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a key player in the sensor market with strong potential for growth in emerging technologies"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a major company in the sensor market with diverse industry applications"
+        },
+        {
+          "ticker": "TEL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a significant participant in the global sensor market with potential for expansion"
+        },
+        {
+          "ticker": "APH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among key players in the sensor technology market with growth opportunities"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:08:49.104337+00:00",
+    "cache_key": "news_1281aefd8e991359eefe3139b0f93cf0",
+    "count": 5
+  }
+}

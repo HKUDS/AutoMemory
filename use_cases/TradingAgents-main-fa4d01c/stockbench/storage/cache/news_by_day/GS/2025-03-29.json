@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs price target lowered to $680 from $720 at Wells Fargo",
+      "description": "Wells Fargo lowered the firm’s price target on Goldman Sachs (GS) to $680 from $720 and keeps an Overweight rating on the shares as part of a Q1 earnings preview for the large-cap banks. The firm is bullish on the sector on a one-year view citing the “biggest deregulation in three decades,” but note that Q1 outlooks “may be tricky” given policy uncertainties. Wells reduced estimates by 4% for Q1 and 2% through 2027. The key reason is a “degree of paralysis” from policy uncertainty that makes Wel",
+      "published_utc": "2025-03-29T22:25:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbaab190ee85653a3ee1a654ce4455e45df44b161e54324cfb95365942a17cc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622712,
+      "datetime": 1743258355
+    },
+    {
+      "title": "Glass Lewis recommends voting against CEO pay at Goldman Sachs",
+      "description": "Proxy adviser Glass Lewisrecommended investors cast advisory votes against the pay of topGoldman Sachs executives, citing the Wall Street bank'scontinued inability to align pay with performance...",
+      "published_utc": "2025-03-29T22:05:39",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=28176e1beef2898f9d6a8dff92ea8b4983f67e5591b116a3ded45142636252fb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133545847,
+      "datetime": 1743257139
+    },
+    {
+      "title": "Glass Lewis recommends votes \"against\" CEO pay at Goldman Sachs",
+      "description": "Proxy adviser Glass Lewis recommended investors cast advisory votes against the pay of top Goldman Sachs executives, citing the Wall Street bank's continued inability to align pay with performance and...",
+      "published_utc": "2025-03-29T18:10:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7ae8ca06826619431c7c54d10e46cf85ff5cdd31e601a5afdc3e9798b97357f8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133532528,
+      "datetime": 1743243000
+    },
+    {
+      "title": "PGIM Jennison Focused Value Fund Q4 2024 Commentary",
+      "description": "",
+      "published_utc": "2025-03-29T08:06:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=366e6cf744a8cddb0af116bc4d3af12181226e5a34a179a0f5babf04c1f1f565",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133526446,
+      "datetime": 1743206760
+    }
+  ]
+}

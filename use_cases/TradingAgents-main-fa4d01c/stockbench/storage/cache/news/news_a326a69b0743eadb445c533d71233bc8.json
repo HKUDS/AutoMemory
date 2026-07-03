@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Franklin Equity Income Fund Q4 2024 Commentary",
+      "description": "US stocks collectively rose in the fourth quarter of 2024, with the S&P 500 Index, Dow Jones Industrial Average and NASDAQ Composite Index reaching new record highs.",
+      "published_utc": "2025-02-06T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25b7b106bd1d4f960396261f4e862f4eaef85ff6d434c5a38ef819dc38060499",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2095584352/image_2095584352.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132572898,
+      "datetime": 1738834500
+    },
+    {
+      "title": "My Top 5 Dividend-Paying Buy-And-Hold Stocks For 2025",
+      "description": "",
+      "published_utc": "2025-02-05T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f8f13118066cadce89bb93501f0f27ac64c345d4dc3fab2a5a3a7bb192ea2010",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132563781,
+      "datetime": 1738764000
+    },
+    {
+      "title": "Starboard Launches Proxy Fight at Kenvue",
+      "description": "Starboard Launches Proxy Fight at Kenvue",
+      "published_utc": "2025-02-05T17:06:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=00debe2b196ab1a85b18a1ad6dc01332ebf9a51f8c4651508b02ed522d13b7c3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564845,
+      "datetime": 1738746360
+    },
+    {
+      "title": "Franklin Income SMA Q4 2024 Commentary",
+      "description": "US stocks collectively rose in the fourth quarter of 2024 despite retreating in December. Read more here.",
+      "published_utc": "2025-02-05T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f027c554676430d7d151c524dfdac6397a4fd1493ee08f271ada9ccaec5809af",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403196687/image_1403196687.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132562057,
+      "datetime": 1738743300
+    },
+    {
+      "title": "J.P. Morgan Healthcare Conference 2025: Healthcare's Roadmap For The Year Ahead",
+      "description": "Major deals, including Johnson & Johnsonâs $14.6B Intra-Cellular acquisition, signal renewed dealmaking, supported by nearly $1T in industry financial capacity. Read more here.",
+      "published_utc": "2025-02-05T09:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=219da7f2b4534954405d56142bfd8fa2b7e3bf9f3d5cf0ec4011110a20f106f1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/956800254/image_956800254.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132559368,
+      "datetime": 1738720500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T16:37:40.390097+00:00",
+    "cache_key": "news_a326a69b0743eadb445c533d71233bc8",
+    "count": 5
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "DIVZ: Active Dividend ETF With Low-Risk Profile",
+      "description": "",
+      "published_utc": "2025-07-19T10:29:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1441327e1afd4b778a197ee3ab9881b6424d03fe659c5f0545602c447e25df60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136011236,
+      "datetime": 1752892164
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:09:12.442290+00:00",
+    "cache_key": "news_b7f0baa900dc00e36125a9c3ecd00178",
+    "count": 1
+  }
+}

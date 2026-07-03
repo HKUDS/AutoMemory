@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Focuses on 'Sanctions-Driven Frictions' for Iranian, Russian Oil -- OPIS",
+      "description": "Goldman Sachs commodity analysts on Wednesday offered their take on what tougher U.S. sanctions on Russia and President Trump's Tuesday decision to restore maximum pressure on Iran could mean for...",
+      "published_utc": "2025-02-06T02:12:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2e08611dd01a055322f7a37fb3a7c97fc1f862f69aabab31aa4747859b2fca95",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568904,
+      "datetime": 1738779129
+    },
+    {
+      "title": "Goldman Sachs : Announces Redemption of 0.855% Fixed/Floating Rate Notes due February 12, 2026",
+      "description": "NEW YORK, NY, February 5, 2025 - The Goldman Sachs Group, Inc. today announced that it will redeem all of the issued and outstanding 0.855% Fixed/Floating Rate Notes due February 12, 2026 on...",
+      "published_utc": "2025-02-06T01:08:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ac956a4580bc33332f66523e07a5753419220423b71992fc4e70c3df931aa5ef",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132568418,
+      "datetime": 1738775291
+    },
+    {
+      "title": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "description": "Amgen, NVIDIA Corp. share gains contribute to Dow's nearly 150-point climb",
+      "published_utc": "2025-02-05T19:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4cd443e114c79cbc979e50a14141aa0503528955326bdd3ab0714973ab0a7ecc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132564063,
+      "datetime": 1738756320
+    },
+    {
+      "title": "Bank of America: Pay Attention To What Buffett Does Next",
+      "description": "Warren Buffett has sold approximately $325 billion worth of stock, including Apple and Bank of America. See how investors may want to look at the BAC stock sale.",
+      "published_utc": "2025-02-04T23:00:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=df801878a27f42e6d3fcf876669584530cdd5d4190ba5847d6115cd5f4be7d8d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458692491/image_458692491.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132554532,
+      "datetime": 1738681217
+    },
+    {
+      "title": "GridStor Announces Acquisition of Texas Battery Energy Storage Project From Balanced Rock Power",
+      "description": "PORTLAND, Ore. - GridStor, a developer and operator of utility-scale battery energy storage systems, announced today that it has acquired a 150 MW / 300 MWh battery storage project in Texas from...",
+      "published_utc": "2025-02-04T14:47:44",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=d35fe78820b0765f70968b8fb9b25bd5181a472f1628c5e80faa228294d564df",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132542262,
+      "datetime": 1738651664
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:23:15.420703+00:00",
+    "cache_key": "news_982fa5939ded527936c473917e81af53",
+    "count": 5
+  }
+}

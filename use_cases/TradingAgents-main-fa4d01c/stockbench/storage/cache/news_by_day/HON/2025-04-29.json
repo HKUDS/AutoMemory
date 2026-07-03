@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "HONEYWELL ANNOUNCES QUARTERLY DIVIDEND",
+      "description": "Honeywell (NASDAQ: HON) today announced that its Board of Directors has declared a quarterly dividend payment of $1.13 per share on the Company's common stock. The dividend is payable on June 6, 2025, out of surplus to holders of record at the close of business on May 16, 2025.",
+      "published_utc": "2025-04-29T02:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54f2205a1ed1d11113ec0834bfe124d4ef265909c2e84d28c70e3c1cadfa752b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134131228,
+      "datetime": 1745863260
+    }
+  ]
+}

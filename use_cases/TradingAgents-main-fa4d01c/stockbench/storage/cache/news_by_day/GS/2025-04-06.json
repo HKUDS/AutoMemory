@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Group (NYSE:GS) Sees 13% Drop Last Week Amid COO Appointment",
+      "description": "Goldman Sachs Group (NYSE:GS) experienced significant stock volatility last week, marked by a 13% decline. This downturn coincided with the company's announcement of David Dubner's appointment as COO of Global Mergers and Acquisitions, a move aimed at bolstering their executive team. Additionally, Goldman Sachs communicated the early redemption of a substantial debt issuance, indicating effective balance sheet management. However, broader market dynamics, including a 5% drop in major indices...",
+      "published_utc": "2025-04-06T02:02:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7388fee274a2e18c58e28e14f28beeb35e764a205ba525f5be9d42baeaad876b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727350,
+      "datetime": 1743876168
+    }
+  ]
+}

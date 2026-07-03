@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tracking Lone Pine Capital Portfolio - Q4 2024 Update",
+      "description": "Lone Pine Capital's 13F portfolio value increased slightly from $13.41B to $13.47B. Check out the new stakes and significant stake additions to the portfolio.",
+      "published_utc": "2025-03-26T04:59:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7b599a8cc87451e8f3c15fbf0e8c8056afc2603d09bb2b497796a664af570470",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1143979227/image_1143979227.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133428778,
+      "datetime": 1742936366
+    }
+  ]
+}

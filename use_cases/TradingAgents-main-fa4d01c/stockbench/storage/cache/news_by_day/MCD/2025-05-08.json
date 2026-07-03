@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on McDonald’s Corporation (MCD): ‘Market Worries Overblown — Time to Buy’",
+      "description": "We recently published a list of Jim Cramer Reveals Trump’s Potential Secret Weapon In China Trade Talks & Discusses These 10 Stocks. In this article, we are going to take a look at where McDonald’s Corporation (NYSE:MCD) stands against other stocks that Jim Cramer recently discussed. In a recent appearance on CNBC’s Squawk on the […]",
+      "published_utc": "2025-05-08T01:13:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3ca69f22fdf6341d409b497360753da8870255b20e5b1fac6645c461ea80a2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316783,
+      "datetime": 1746638006
+    }
+  ]
+}

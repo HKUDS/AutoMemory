@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Veteran fund manager who predicted Nvidia stock rally makes surprising move",
+      "description": "Here’s what could be next for Nvidia stock.",
+      "published_utc": "2025-06-29T02:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a9f5e9822e11b8c79d0f3e6715b76685fc0579e969b83c313a871764bcf8f3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623704,
+      "datetime": 1751135580
+    },
+    {
+      "title": "Would Investing $10K in the Magnificent 7 Stocks in 2023 Have Made You Rich?",
+      "description": "In a nutshell, if you had the foresight to invest in the Magnificent 7 stocks at the beginning of 2023, you would have done well. How well? Read on to find out.",
+      "published_utc": "2025-06-29T02:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d5e0471da985e208fcae75155835587e19b03f5b67c6df5116264d3d20188d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610604,
+      "datetime": 1751133660
+    },
+    {
+      "title": "Week in Review:  Meta’s AI recruiting blitz",
+      "description": "Welcome back to Week in Review! Lots of news for you this week, including Travis Kalanick's possible return, CoreWeave's CEO is now worth $10 billion, Apple users aren't happy with how the company is promoting its new F1 movie, and much more.",
+      "published_utc": "2025-06-29T01:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e74cb4326e903c4bdc80b33be55db444c246869f485519b31a39b0bfab4b9cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623707,
+      "datetime": 1751130300
+    },
+    {
+      "title": "Why Are Meta Platforms, Microsoft, and Nvidia Outperforming the \"Magnificent Seven\" and the S&P 500?",
+      "description": "Meta Platforms, Microsoft, and Nvidia are turning AI investments into concrete results.  Artificial intelligence has helped these companies grow their profit margins.  Meta Platforms (NASDAQ: META), Microsoft (NASDAQ: MSFT), and Nvidia (NASDAQ: NVDA) are knocking on the door of all-time highs, whereas the other four \"Magnificent Seven\" stocks -- Amazon, Alphabet, Tesla, and Apple -- are down year to date.",
+      "published_utc": "2025-06-28T21:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a018f9c6834fee91921d9b801cba67ee12add116db1dd6210d74ee2d538d4c8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609938,
+      "datetime": 1751118300
+    },
+    {
+      "title": "Why Are Tesla, Apple, and Alphabet Underperforming the \"Magnificent Seven\" and the S&P 500?",
+      "description": "Tesla, Apple, and Alphabet could be coiled springs for long-term growth.  Tesla needs its big bets to pay off.  Many mega-cap tech-focused companies have posted sizable gains -- including \"Magnificent Seven\" members Meta Platforms (NASDAQ: META), Microsoft (NASDAQ: MSFT), and Nvidia (NASDAQ: NVDA).",
+      "published_utc": "2025-06-28T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2b30e47b221f75e0879428989ea66fbe22bb32787b61f99970b340a1640a78a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135609941,
+      "datetime": 1751105700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:37.033485+00:00",
+    "cache_key": "news_2083607abfb987e3f92cc8fd29c968d0",
+    "count": 5
+  }
+}

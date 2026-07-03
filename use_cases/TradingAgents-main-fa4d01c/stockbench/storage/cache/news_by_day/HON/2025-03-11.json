@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International (NasdaqGS:HON) Partners With Taiyo Oil For Sustainable Aviation Fuel Expansion In Japan",
+      "description": "Honeywell International (NasdaqGS:HON) recently announced a partnership with Taiyo Oil Co. Ltd. for the production of sustainable aviation fuel (SAF) in Japan using its UOP Ethanol to Jet (ETJ) technology. This significant development aligns with global environmental goals and may have supported Honeywell's 4% share price increase over the past month. Additionally, the company declared a quarterly dividend of $1.13 per share and continued its share buyback program, which could also have...",
+      "published_utc": "2025-03-11T01:19:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d75fd391f83360703b0ea4994821352f8a711fecaa18efd010c25884a1316d04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185417,
+      "datetime": 1741627171
+    }
+  ]
+}

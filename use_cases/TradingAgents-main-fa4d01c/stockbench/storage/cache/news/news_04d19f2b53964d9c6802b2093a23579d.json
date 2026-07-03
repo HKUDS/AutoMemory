@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Possible Bearish Signals With Sherwin-Williams Insiders Disposing Stock",
+      "description": "The fact that multiple The Sherwin-Williams Company ( NYSE:SHW ) insiders offloaded a considerable amount of shares...",
+      "published_utc": "2025-05-17T22:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d12bfa5fce1b2d982ee92aca32e6a1de93e2ba630ee296e26c9a2f9e56ea52a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567944,
+      "datetime": 1747490414
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:44:09.880456+00:00",
+    "cache_key": "news_04d19f2b53964d9c6802b2093a23579d",
+    "count": 1
+  }
+}

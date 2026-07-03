@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Mastercard: For Long-Term Growth",
+      "description": "Discover why Mastercard excels in global cashless trends, AI, and crypto payments. Click here for a full investment analysis of MA stock.",
+      "published_utc": "2025-05-27T20:51:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=72b82bef1f722eb8852542e2004333f54595d5fc3d5e402f77a3548bd7723529",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/520548260/image_520548260.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709856,
+      "datetime": 1748350296
+    },
+    {
+      "title": "3 Crypto-Centric Stocks in Focus as Bitcoin Resumes Its Rally",
+      "description": "Bitcoin hovers near $110K as crypto sentiment surges. V, PYPL, and CLSK emerge as top stock picks with rising earnings outlooks.",
+      "published_utc": "2025-05-27T20:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb0862f616d851ff2fbc67fc63fd7d5be30f314b800f0db531d195757f6f9525",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715811,
+      "datetime": 1748350140
+    }
+  ]
+}

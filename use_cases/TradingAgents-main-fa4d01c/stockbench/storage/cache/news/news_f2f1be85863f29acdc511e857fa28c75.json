@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IBM CEO sees AI reshaping workforce and enterprise strategy",
+      "description": "Investing.com -- International Business Machines (NYSE:IBM) CEO Arvind Krishna said this week that artificial intelligence has already replaced several hundred jobs in human resources at the company, even as AI deployment fuels headcount growth in other areas. “Our total employment has actually gone up,” Krishna told The Wall Street Journal, as AI investments free up resources for higher-value roles.",
+      "published_utc": "2025-05-07T04:15:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4529220264aab647a8c18143c3616762b053964ee201c0755436769a26e4ecf0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316772,
+      "datetime": 1746562510
+    },
+    {
+      "title": "IBM CEO urges the Trump administration to increase — not cut — federal AI R&D funding",
+      "description": "Like many leaders in tech, Arvind Krishna, the CEO of IBM, thinks federal R&D funding for AI and related technologies should be increased — not the other way around. \"We have been an extremely strong advocate — and this is both the company and me personally — on that federally funded R&D should be increased,\" Krishna said in an interview with TechCrunch. \"That's the position, which is unequivocal, and we strongly believe in that.\" President Donald Trump and his cabinet have sought to make deep c",
+      "published_utc": "2025-05-07T04:14:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b1f2a472ce0cc9293b22f13f9bab5f9044b513e134eaac699b9f158bd022d7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290193,
+      "datetime": 1746562487
+    },
+    {
+      "title": "IBM (IBM) Expands AI Push With Launch of watsonx Orchestrate for Enterprise Agents",
+      "description": "Platform enables businesses to deploy autonomous agents across HR, sales, and procurement workflows",
+      "published_utc": "2025-05-07T03:25:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d8b5c2b6248c726926e0327fbac94e0a70412dc369d0d75af7226f187614e50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290194,
+      "datetime": 1746559526
+    },
+    {
+      "title": "International Business Machines (NYSE:IBM) Expands AI Innovations With Lumen And Oracle Collaborations",
+      "description": "International Business Machines (NYSE:IBM) saw its shares rise by 10% over the past month, buoyed by strategic collaborations with Lumen Technologies and Oracle, which promise advancements in AI and cloud infrastructure. These partnerships aim to enhance enterprise productivity and real-time AI capabilities, aligning with global trends prioritizing technological innovation. Although the broader market experienced a slight dip as investors assessed economic implications of potential tariff...",
+      "published_utc": "2025-05-07T01:36:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d9763f13afb1b94e5944844cfb27356cc8981fa584df25c0749c9e1e456aecb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290195,
+      "datetime": 1746553010
+    },
+    {
+      "title": "IBM CEO Says AI Has Replaced Hundreds of Workers But Created New Programming, Sales Jobs",
+      "description": "The tech company promises higher total employment as it reinvests resources toward roles like software development.",
+      "published_utc": "2025-05-07T01:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e37001a8e45d9e68356257115b7e13a97b6fc65cd27bbb32facd07f88dab989",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134290196,
+      "datetime": 1746552840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:35.151826+00:00",
+    "cache_key": "news_f2f1be85863f29acdc511e857fa28c75",
+    "count": 5
+  }
+}

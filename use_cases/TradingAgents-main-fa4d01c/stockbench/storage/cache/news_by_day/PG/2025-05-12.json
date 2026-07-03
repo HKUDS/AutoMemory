@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Investors Heavily Search Procter & Gamble Company (The) (PG): Here is What You Need to Know",
+      "description": "P&G (PG) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "published_utc": "2025-05-12T21:00:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=887fc25ec157f5120dfd3c0a99453e769adc8ac10aa67a6ff1b2cbf9c63e1552",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408559,
+      "datetime": 1747054812
+    },
+    {
+      "title": "PG Q1 Earnings Call: Management Cites Consumer Volatility and Tariff Pressures, Lowers EPS Outlook",
+      "description": "Consumer products behemoth Proctor & Gamble (NYSE:PG) fell short of the market’s revenue expectations in Q1 CY2025, with sales falling 2.1% year on year to $19.78 billion. Its non-GAAP profit of $1.54 per share was 0.9% above analysts’ consensus estimates.",
+      "published_utc": "2025-05-12T18:08:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed1696f76c4991b87c117ab39adde1147780eb6fa818950d22dfdc801f14c5b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379273,
+      "datetime": 1747044528
+    },
+    {
+      "title": "High-Quality Dividend Growth Stocks Near 52-Week Lows: Alphabet Is Astounding",
+      "description": "A list of high-quality dividend-growth stocks trading near 52-week lows is evaluated. Read what makes GOOG stock is a compelling investment.",
+      "published_utc": "2025-05-12T09:27:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=271defdcaa1d7c4f740989245dac0be0fae96377b5585e7fe2fa2cba60148ce3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1400200369/image_1400200369.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134374993,
+      "datetime": 1747013223
+    }
+  ]
+}

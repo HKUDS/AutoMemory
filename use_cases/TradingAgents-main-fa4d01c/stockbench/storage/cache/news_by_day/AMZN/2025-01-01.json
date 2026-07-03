@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "The 5 best performing stocks on the Dow Jones Industrial Average in 2024",
+      "description": "From artificial intelligence to retail, these Dow stocks delivered the biggest gains in 2024.",
+      "published_utc": "2025-01-01T21:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=487a03abb7224c7bee2055d5524b55f2f0d0ee9e856b2d6bf6b7348de19b8776",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132227359,
+      "datetime": 1735736580
+    },
+    {
+      "title": "Is Hims & Hers Health a Millionaire Maker?",
+      "description": "Arguments are piling up for why the company might fail, but the business continues to deliver strong results.",
+      "published_utc": "2025-01-01T18:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2633506cbcbc4cf05d66c3f8fbae58ccc5167f0b3599d7123ac1f9f3406808f",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802312/telehealth-weightloss-drug.jpg",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132228125,
+      "datetime": 1735728960
+    },
+    {
+      "title": "Best Stock to Buy Now: Amazon vs. Home Depot",
+      "description": "E-commerce leader Amazon (NASDAQ: AMZN) trounced the market in 2024, with its share price climbing 45% compared to the S&P 500's (SNPINDEX: ^GSPC) 24% gains (as of this writing).  Meanwhile, Home Depot's (NYSE: HD) shares struggled, gaining just 12.4% for the year amid a slowdown in DIY home improvement spending.  Both of these consumer goods companies are leaders in their respective markets and, while their current share price gains don't compare, either could be great long-term investments.",
+      "published_utc": "2025-01-01T18:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a72646d4e8797ec0d771b8eb4667ec415fda2e87117e98a66998874e3ce30746",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802498/gettyimages-2148805157.jpg",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132225794,
+      "datetime": 1735728300
+    },
+    {
+      "title": "The Visas Dividing MAGA World Help Power the U.S. Tech Industry",
+      "description": "The H-1B program lets companies fill roles for software developers, engineers and other technology jobs.",
+      "published_utc": "2025-01-01T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12b0af4d28e0cf3d27790ed9fca0612792f3980e37797d21b9802e7b926de78c",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226730,
+      "datetime": 1735727400
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "8 March Raises From Duke's 0.5% To Broadcom At 11.3%",
+      "description": "",
+      "published_utc": "2025-04-14T05:51:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aad2e6a77de0e5842318e13d271638505c337a03c1b0b4a01eea27365555d2c6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133902759,
+      "datetime": 1744581073
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "The stock market now is clearly overbought — but overbought does not mean ‘sell’",
+      "description": "The stock market now is clearly overbought — but overbought does not mean ‘sell’",
+      "published_utc": "2025-07-12T23:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=07b661f06ebf14cca09163778edc6b8cbc39d64e5507789bfbfcd4fbbe4094ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135950369,
+      "datetime": 1752332400
+    },
+    {
+      "title": "Five Themes for Investors to Watch as Earnings Season Kicks Off",
+      "description": "(Bloomberg) -- In just three months, US stocks have swung from a dramatic April selloff to new heights. Now, traders are about to see if Corporate America’s report cards justify the optimism priced into equity markets.Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortWhy Did Cars Get So Hard to See Out Of?Can Americans Just Stop Building New Highways?How German Cities Are Rethinking Women’s Safety — With TaxisPhiladelphia Trash Piles Up as Garbage",
+      "published_utc": "2025-07-12T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bd89616a665902b5e12becfda849bdde22e43543ffee356c0afb0318f8b0a53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135898866,
+      "datetime": 1752325200
+    },
+    {
+      "title": "Core CPI In Focus With JPMorgan, Goldman, Netflix Set To Report Earnings",
+      "description": "This week witnesses earnings from banking giants like JPM, WFC, BAC, BLK. Investors may also look at Core CPI and Core PPI on Tuesday and Wednesday.",
+      "published_utc": "2025-07-12T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7751bce4c5a6b5b71cb3d90dda3e6c5737835e031f364e5f29d650ea3b819155",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135899272,
+      "datetime": 1752318000
+    }
+  ]
+}

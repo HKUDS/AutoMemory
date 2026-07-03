@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "description": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-04-22T00:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4d64b7faab1b5081251f46831128ca74bf6887a1ff8120c31f346d21bbb3bfd9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134077536,
+      "datetime": 1745253840
+    }
+  ]
+}

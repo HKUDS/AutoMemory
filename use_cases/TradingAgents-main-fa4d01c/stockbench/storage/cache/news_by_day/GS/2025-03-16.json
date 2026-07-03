@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "f051d01c33716281b7fd2ec0f46554b768bf9a695e4ac488e60e1398a6701a36",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Trump’s ‘Tariff Man’ Stance Isn’t Just Rhetoric - And That’s a Big Market Risk",
+      "author": "Investing.Com",
+      "published_utc": "2025-03-16T09:40:00Z",
+      "article_url": "https://www.investing.com/analysis/trumps-tariff-man-stance-isnt-just-rhetoric--and-thats-a-big-market-risk-200658341",
+      "tickers": [
+        "DJT",
+        "DJTWW",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "amp_url": "https://m.investing.com/analysis/trumps-tariff-man-stance-isnt-just-rhetoric--and-thats-a-big-market-risk-200658341?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses how President Trump's stance on tariffs is not just rhetoric, but a real risk to the market. It analyzes the potential impact of tariffs on government revenues and the broader economy, warning of the dangers of a trade war.",
+      "keywords": [
+        "tariffs",
+        "trade war",
+        "economy",
+        "market risk"
+      ],
+      "insights": [
+        {
+          "ticker": "DJT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Trump's love for tariffs and his plan to replace tax revenues with tariffs is dangerous and delusional, posing a significant risk to the market and the broader economy."
+        },
+        {
+          "ticker": "DJTWW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Trump's love for tariffs and his plan to replace tax revenues with tariffs is dangerous and delusional, posing a significant risk to the market and the broader economy."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Goldman Sachs has cut its real GDP growth projection and lowered its year-end S&P 500 target in response to Trump's tariffs, reflecting the potential negative impact on the economy and markets."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Goldman Sachs has cut its real GDP growth projection and lowered its year-end S&P 500 target in response to Trump's tariffs, reflecting the potential negative impact on the economy and markets."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Goldman Sachs has cut its real GDP growth projection and lowered its year-end S&P 500 target in response to Trump's tariffs, reflecting the potential negative impact on the economy and markets."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Goldman Sachs has cut its real GDP growth projection and lowered its year-end S&P 500 target in response to Trump's tariffs, reflecting the potential negative impact on the economy and markets."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of February 23",
+      "description": "Stay updated with weekly dividend changes for Dividend Champions, Contenders & Challengers. Explore ex-dividend dates, pay dates and more.",
+      "published_utc": "2025-02-22T09:07:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a8c82c4cd9278367d42979b1bea036d6603660a218b35afe735a39f1681bed8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132831811,
+      "datetime": 1740186430
+    },
+    {
+      "id": "82c9a00fc55a969a8ae68c97dc8cbd8cfdbbcfa7c45a92fe6fcfb56cd5a1fff4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is It Time to Avoid McDonald's Stock?",
+      "author": "David Butler",
+      "published_utc": "2025-02-22T09:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/is-it-time-to-avoid-mcdonalds/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD",
+        "CMG",
+        "CAVA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808166/mcdonalds.jpg",
+      "description": "McDonald's, the largest restaurant chain in the world, has underperformed the S&P 500 by 20% over the last five years. The company has faced challenges, including an E. Coli outbreak and declining global comparable sales. While McDonald's is trying to spur sales through value options and new items, analysts believe the company's performance may not make it a strong investment compared to its competitors.",
+      "keywords": [
+        "McDonald's",
+        "fast food",
+        "stock performance",
+        "competitors"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights that McDonald's has underperformed the broader market, with declining global comparable sales and struggles to keep up with newer, faster-growing competitors like Chipotle and Cava. The company's recent financial results and forward guidance also suggest a lack of strong growth potential."
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Chipotle is outpacing McDonald's and seems more primed to continue growing, with double-digit annual revenue gains, in contrast to the sluggish performance of the larger, more established McDonald's."
+        },
+        {
+          "ticker": "CAVA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Chipotle, the article suggests that Cava is outpacing McDonald's and appears better positioned for growth, which explains the lower valuation of McDonald's compared to these newer, faster-growing competitors."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:26.565271+00:00",
+    "cache_key": "news_63056821445a5b97be8dd5f3e0da8840",
+    "count": 2
+  }
+}

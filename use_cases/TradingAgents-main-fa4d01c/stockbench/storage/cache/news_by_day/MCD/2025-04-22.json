@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s named top Q1 earnings idea at Wells Fargo",
+      "description": "Investing.com -- Wells Fargo said McDonald’s (NYSE:MCD) is its top Q1 restaurant earnings idea, citing defensive qualities, favorable near-term setup, and signs of improving sentiment despite soft traffic trends and weak comparable sales.",
+      "published_utc": "2025-04-22T21:03:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=643622bdcfa50928bf019959fec6cc43c2e62fb49080897054a0395a9ff2770e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038836,
+      "datetime": 1745326992
+    },
+    {
+      "title": "CAVA Stock Trades 53% Below Its 52-Week High: Should You Buy the Dip?",
+      "description": "CAVA's recent stock plunge reflects mounting external pressures like tariffs, rising input costs and slowing consumer demand in a challenging macro environment.",
+      "published_utc": "2025-04-22T20:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56547e7c05cd1757ec13238b2810034a94d56e0533c12b595276133d8212acda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038838,
+      "datetime": 1745324040
+    },
+    {
+      "title": "Dow's 917-point surge led by gains for shares of 3M, Travelers",
+      "description": "Dow's 917-point surge led by gains for shares of 3M, Travelers",
+      "published_utc": "2025-04-22T19:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3c532cece32ca5153cae1723c73ff041b4555c0fd8a0278af2cd74f6d25e9e9f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052377,
+      "datetime": 1745323140
+    },
+    {
+      "title": "Wendy's: Not Quite Appetizing Enough To Buy But Worth Keeping An Eye On",
+      "description": "",
+      "published_utc": "2025-04-22T16:19:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e59a9c694d35fdaabe602a7f2a4a0a616985fc20197bc0bd4c63250a8bcf707",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134032627,
+      "datetime": 1745309975
+    }
+  ]
+}

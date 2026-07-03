@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Stanley Druckenmiller Sold Palantir and Amazon and Is Piling Into This Artificial Intelligence (AI) Stock Instead",
+      "description": "He just quintupled his stake to make it one of the biggest holdings in his portfolio.",
+      "published_utc": "2025-06-05T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01fed29ec525687e8c2d4bd8cdc4a36d7e51f8e8dbe3796452e77cbf5faac054",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135033676,
+      "datetime": 1749076200
+    },
+    {
+      "title": "Reddit Sues Anthropic Over AI Training Breach",
+      "description": "Reddit files suit against Anthropic, claiming its user data was used to train AI models without a licensing deal",
+      "published_utc": "2025-06-05T05:08:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09ae18e2848430f9da398e523f3c030d890bd54890ee152fad4e88316f071e77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035948,
+      "datetime": 1749071339
+    },
+    {
+      "title": "Amazon prepares to test humanoid robots for deliveries, The Information reports",
+      "description": "Amazon is developingsoftware for humanoid robots that could eventually take the jobsof delivery workers, The Information reported on Wednesday,citing a person familiar with the matter. ...",
+      "published_utc": "2025-06-05T05:05:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=b6b32cd6e6bc0e3d04cbf9bcd2e360940c093a0fe663ce3cd57c845469773988",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135034696,
+      "datetime": 1749071117
+    },
+    {
+      "title": "Amazon prepares to test humanoid robots for package deliveries, The Information reports",
+      "description": "Amazon is developing software for humanoid robots that could eventually take the jobs of delivery workers, The Information reported on Wednesday. Reuters could not immediately confirm...",
+      "published_utc": "2025-06-05T04:52:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0ff773385b318436c03466e0c9c54577d24f0155604f3c2e31e9bf614e10d134",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135033818,
+      "datetime": 1749070327
+    },
+    {
+      "title": "Amazon Prepares To Test Humanoid Robots For Delivering Packages- The Information",
+      "description": "June 4 - * AMAZON PREPARES TO TEST HUMANOID ROBOTS FOR DELIVERINGPACKAGES-THE INFORMATIONSource text: https://tinyurl.com/wr6nxyptFurther company coverage: ...",
+      "published_utc": "2025-06-05T04:51:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1f73876b4bf3d6aa5ecd045918bb4265f8cb5941c1ff26128cda9c77a075b996",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135033745,
+      "datetime": 1749070267
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:26.247512+00:00",
+    "cache_key": "news_1b1660cf589731f2bfbe6939cc06e6fe",
+    "count": 5
+  }
+}

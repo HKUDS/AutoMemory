@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar To Lead Dividend Increases In June As Lowe's Boosted Payout At End Of May",
+      "description": "Dividend growth remains robust for select companies, with Caseyâs, Oil-Dri, and Matson poised for double-digit increases. Check out the other stocks in the list.",
+      "published_utc": "2025-06-02T05:31:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c1ab6b327d3994fa4b7b05dcd1a7ea2e9a3f2cf0a8aba0636d7ceef5114ab46",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1813618448/image_1813618448.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930193,
+      "datetime": 1748813475
+    }
+  ]
+}

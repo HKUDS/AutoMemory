@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "Here are three of Berkshire Hathaway's favorite stocks.",
+      "published_utc": "2025-04-19T16:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc7858b830839595798648d85a86262abb6ff697b7b410dd451065bd680e2c47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133969921,
+      "datetime": 1745051400
+    }
+  ]
+}

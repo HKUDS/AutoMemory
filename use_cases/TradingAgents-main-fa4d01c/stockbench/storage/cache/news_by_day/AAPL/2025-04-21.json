@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Apple: Falling Sales In China; Downgrade To Sell",
+      "description": "",
+      "published_utc": "2025-04-21T07:01:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8ea6b878bc84b137079a4e2da91d44e49448530d707c6e5509fa201a02f5171",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134013287,
+      "datetime": 1745190109
+    },
+    {
+      "title": "Magnificent-7. What Stock Should We Add To Make It The Excellent-8?",
+      "description": "",
+      "published_utc": "2025-04-21T05:53:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7ae577a83fb0f095ca70fc698fe61c0199e3714fe710fd95798ebdbc000ae9a8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134008980,
+      "datetime": 1745186011
+    }
+  ]
+}

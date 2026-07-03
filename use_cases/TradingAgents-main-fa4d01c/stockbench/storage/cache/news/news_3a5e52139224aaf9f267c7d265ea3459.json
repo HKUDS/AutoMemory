@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Procter & Gamble Company (PG) One of 24 Original Dividend Aristocrats Still in the Index",
+      "description": "The Procter & Gamble Company (NYSE:PG) is included among the 11 Best Dividend Aristocrat Stocks to Invest in Now. The initial version of the S&P Dividend Aristocrats list was introduced in January 2003, highlighting the S&P companies that had maintained consistent dividend payments for 25 consecutive years. The list gained attention, especially after Microsoft declared […]",
+      "published_utc": "2025-07-01T05:15:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b580cea42a190a8d868d0f13b64e2ff382907b1b8f988d86b99ee57b72044a36",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677028,
+      "datetime": 1751318142
+    },
+    {
+      "title": "Is Procter & Gamble Set to Shield Earnings From Global Volatility?",
+      "description": "PG leans on pricing, cost efficiency, productivity and brand strength to protect margins as global volatility clouds earnings outlook.",
+      "published_utc": "2025-06-30T23:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c308438a825b09b58c2f3126d794a9edf9d2833972d7f46360fe77c2a71121b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671390,
+      "datetime": 1751296080
+    },
+    {
+      "title": "Investors Heavily Search Procter & Gamble Company (The) (PG): Here is What You Need to Know",
+      "description": "Zacks.com users have recently been watching P&G (PG) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2025-06-30T21:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4996e4d4f4144572a3b50644d12eca0f9b3b5195b667644825e7290a052f8665",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671391,
+      "datetime": 1751288403
+    },
+    {
+      "title": "5 Revealing Analyst Questions From Procter & Gamble’s Q1 Earnings Call",
+      "description": "Procter & Gamble’s first quarter results drew a negative market response, as consumer and retail volatility led to a year-on-year sales decline and a modest miss against Wall Street’s revenue expectations. Management attributed this outcome to lower consumption levels in both the U.S. and Europe, driven by consumer caution, shifting shopping patterns, and inventory reductions at major retailers. CFO Andre Schulten described the environment as “a logical response from the consumer to pause,” high",
+      "published_utc": "2025-06-30T19:15:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=492afa41f673b83a3926f30b835ce32facc74886d2ac9e541b5305b9ca559183",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671392,
+      "datetime": 1751282142
+    },
+    {
+      "title": "Procter & Gamble: Despite The Slowing Growth And The Macro Uncertainty, We Maintain Our Buy Rating",
+      "description": "",
+      "published_utc": "2025-06-30T17:42:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42822f4d5fe4ef9dce141078128c314c885edd50888842e094a7979dd5c3bd7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135652591,
+      "datetime": 1751276560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:46.687256+00:00",
+    "cache_key": "news_3a5e52139224aaf9f267c7d265ea3459",
+    "count": 5
+  }
+}

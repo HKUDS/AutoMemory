@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Time to Capitalize on Market Moves With Momentum ETFs?",
+      "description": "Momentum investing is likely to be a winning strategy for those seeking higher returns in a short spell.",
+      "published_utc": "2025-05-20T22:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4340cac186980a238561843e43acbf27174b43e669380e6f95947f4b79ed5ff9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134628137,
+      "datetime": 1747752000
+    },
+    {
+      "title": "Stock market, Home Depot earnings, stablecoin bill: 3 Things",
+      "description": "US stock futures (ES=F, NQ=F, YM=F) slip into the red Tuesday morning as Wall Street wonders if the latest market rally has already stalled out. JPMorgan Chase & Co. (JPM) CEO Jamie Dimon warned of an \"extraordinary amount of complacency\" in markets the bank's annual investor day on Monday. Home Depot (HD) saw slightly mixed first quarter earnings results — just barely missing estimates on adjusted earnings per share — while same-store sales declined more than expected. The GENIUS Act — a bill outlining the regulation of stablecoins — has passed a major hurdle in the Senate as it moves to be debated by lawmakers on the floor of the US Senate. To watch more expert insights and analysis on the latest market action, check out more Morning Brief here.",
+      "published_utc": "2025-05-20T21:11:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9540ea36856f9f0ec0b28a736b87541a2bb212d9059a46e7d3f8800479e7cc19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609001,
+      "datetime": 1747746680
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "S&P 500's breakout May was largely a result of Mag 7 gains",
+      "description": "The S&P 500 (^GSPC) clocked its best month of trading in May since 1990, and the majority of the Magnificent Seven — comprised of tech stocks Meta Platforms (META), Microsoft (MSFT), Alphabet (GOOGL, GOOG), Amazon (AMZN), Apple (AAPL), Nvidia (NVDA), Tesla (TSLA) — may be deserving of some of the credit. Yahoo Finance host Julie Hyman recaps the Mag 7 stock gains and how it contributed to the S&P 500's breakout May. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-06-03T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6590fcf7d3a80e62e72db1b7855f8457693929ba5793bc2183bc01a15df7b7e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967177,
+      "datetime": 1748899800
+    },
+    {
+      "title": "Microsoft Bing gets a free Sora-powered AI video generator",
+      "description": "Microsoft Bing announced Monday that it is introducing the Bing Video Creator to its app, which uses OpenAI's Sora model to let users generate videos from text prompts. OpenAI, which has a long-standing partnership with Microsoft, has locked down access to Sora's video generation for paying customers only. Its integration in Microsoft Bing represents the first time that it will be available for free. Image Credits:Microsoft Bing At launch, Bing Video Creator is not yet available on desktop, and",
+      "published_utc": "2025-06-03T04:16:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5907fbe35933bc53ec8c8dac89be5236abd8fd989c28f51fccad4361c4daeab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968192,
+      "datetime": 1748895415
+    },
+    {
+      "title": "Nvidia Can’t Afford to Get Walled Off From China — Heard on the Street",
+      "description": "Microsoft still generates nearly twice Nvidia’s annual revenue, but Nvidia is growing at a much faster rate.  Wall Street expects Nvidia’s revenue to average 32% annual growth over the next three fiscal years compared with the 15% growth Microsoft is expected to average in that time, according to FactSet estimates.",
+      "published_utc": "2025-06-03T02:33:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=055f344b78e22246bff7922c0b296afb55c02aa71c80ea648986a7a185279a80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968194,
+      "datetime": 1748889184
+    },
+    {
+      "title": "Microsoft, CrowdStrike, other cyber firms collaborate on threat actor taxonomy",
+      "description": "After years of confusion, leading threat-intelligence companies will streamline how they name threat groups.",
+      "published_utc": "2025-06-03T01:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=200b26d37b299c3b30019a876c42b765bb17b634e8c40a28b9fcdc13ddd236b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967126,
+      "datetime": 1748887140
+    },
+    {
+      "title": "GARP: Growth ETF With A Solid Track Record",
+      "description": "iShares MSCI USA Quality GARP ETF holds 135 growth stocks weighted based on value and quality. Read the full ETF analysis and more like it here on Seeking Alpha.",
+      "published_utc": "2025-06-03T01:20:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=effd3783a0b241fa2ff614b4a6737f5f25dd55a40fa870fdf54248400d4f340f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/182410275/image_182410275.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134965105,
+      "datetime": 1748884827
+    }
+  ]
+}

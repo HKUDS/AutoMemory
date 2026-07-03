@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Hackers abuse modified Salesforce app to steal data, extort companies, Google says",
+      "description": "(Reuters) -Hackers are tricking employees at companies in Europe and the Americas into installing a modified version of a Salesforce-related app, allowing the hackers to steal reams of data, gain access to other corporate cloud services and extort those companies, Google said on Wednesday.  The hackers – tracked by the Google Threat Intelligence Group as UNC6040 – have “proven particularly effective at tricking employees” into installing a modified version of Salesforce’s Data Loader, a proprietary tool used to bulk import data into Salesforce environments, the researchers said.  The hackers use voice calls to trick employees into visiting a purported Salesforce connected app setup page to approve the unauthorized, modified version of the app, created by the hackers to emulate Data Loader.",
+      "published_utc": "2025-06-04T22:13:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20a228ad1ed5d743770c99dae3bcca6d6a5b37b942c670b22f05b5cad66e2fc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011279,
+      "datetime": 1749046410
+    },
+    {
+      "title": "First Eagle U.S. Value Fund Q1 2025 Commentary",
+      "description": "U.S. Fund A Shares (without sales charge*) posted a return of 4.06% in first quarter 2025. Read more here.",
+      "published_utc": "2025-06-04T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d61feddee971dc4678d5c6138e84ad1adc61ec75f562ab4edb0636d1d2c7e577",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1478156131/image_1478156131.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135013400,
+      "datetime": 1749045600
+    },
+    {
+      "title": "First Eagle Global Fund Q1 2025 Commentary",
+      "description": "Global Fund A Shares (without sales charge*) posted a return of 6.92% in first quarter 2025. Developed Europe and North America were the leading contributors.",
+      "published_utc": "2025-06-04T19:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19ba91e2cb2c80159226ce411b60b9f5bb237ddbf05e53d6c7932073491e3b93",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349695390/image_1349695390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010808,
+      "datetime": 1749037800
+    }
+  ]
+}

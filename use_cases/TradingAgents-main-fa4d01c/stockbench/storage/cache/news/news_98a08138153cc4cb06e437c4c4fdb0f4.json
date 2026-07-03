@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says Visa Sellers Are Wrong",
+      "description": "Visa Inc. (NYSE:V) is one of the 12 stocks on Jim Cramer’s radar recently. During the episode, a caller asked about the company, and Cramer replied: “Alright, well, look, let me just go over this Visa situation. There have been many, many times in my career that people have challenged Visa. Many times that people […]",
+      "published_utc": "2025-06-26T04:59:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fce2095b1de1eceb836782f791c162f7f0fa8a3069606c3de73007514c23256c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533251,
+      "datetime": 1750885162
+    },
+    {
+      "title": "Tracking Chris Hohn's TCI Fund Management 13F Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-06-26T04:44:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b037ac7dd042f2f1b78f9437c488029aabc669c32a5d6df1c660b6610bb3c450",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530850,
+      "datetime": 1750884299
+    },
+    {
+      "title": "Is Coinbase (COIN) Stock Poised for Higher Highs?",
+      "description": "Many positive catalysts have pushed Coinbase (COIN) stock higher, which hit a new 52-week high of $369 a share on Wednesday.",
+      "published_utc": "2025-06-26T04:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=002d91f6170b85a778e32d3521a35adef71c6611cfc31a8873ec98b975b8cb40",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530478,
+      "datetime": 1750884000
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Wednesday when compared to competitors",
+      "description": "Visa Inc. Cl A stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-06-26T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a0e8f08c446ab1cb6a7d5aff12ae17c65b4ddc7754b31683787bba88654bc5c5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135539294,
+      "datetime": 1750869060
+    },
+    {
+      "title": "GiveCard Collaborates with Visa to Modernize Disbursements in the Public Sector",
+      "description": "NEW YORK, June 25, 2025--GiveCard, a platform purpose-built to help nonprofits and government agencies disburse and manage funds over prepaid funds, today announced a strategic collaboration with Visa. GiveCard will be issuing virtual and physical prepaid cards to recipients, distributing them directly to recipients through various U.S. government agencies.",
+      "published_utc": "2025-06-25T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c23fda130b68ceb925b14736bf0f2046ef2e2021dd39ac5e1666d81812e12c5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135533254,
+      "datetime": 1750856400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:00:34.490450+00:00",
+    "cache_key": "news_98a08138153cc4cb06e437c4c4fdb0f4",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Profit From the Silver Tsunami: Must-Watch Senior Care & Aging Stocks",
+      "description": "BSX, ABBV, AMGN and DXCM are tapping into the aging boom with cutting-edge tech, chronic care drugs and senior-focused innovations.",
+      "published_utc": "2025-06-04T22:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98bfc53e3e88e832edce740a1001aa91c4ea9e903cdab2f7ec9ec0dc5c792cdf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010949,
+      "datetime": 1749047460
+    },
+    {
+      "title": "Transcript : Amgen Inc. Presents at Jefferies Global Healthcare Conference 2025, Jun-04-2025 09",
+      "description": "Presenter SpeechMichael Yee Good morning, everyone. I'm Michael Yee, Senior Biotechnology Analyst here at Jefferies. And very excited to continue on with our next fireside discussion here at the...",
+      "published_utc": "2025-06-04T20:35:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=c690320503d3822e5b3d453196a0ffd6f04464ef6e8075a78e9a3cafdff1e62a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011815,
+      "datetime": 1749040533
+    },
+    {
+      "title": "Amgen: Tariff And Drug Pricing Remain Key Uncertainties",
+      "description": "",
+      "published_utc": "2025-06-04T20:26:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d85a757d1283be04326ed6c9ec9048ba808463c0951a8745e8d9e3414a5188cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135011562,
+      "datetime": 1749039979
+    },
+    {
+      "title": "HQL: Positive Outlook Due To Increased Healthcare Spending",
+      "description": "I maintain my buy rating on HQL due to its attractive 14% yield, discounted valuation, and long-term healthcare growth outlook.",
+      "published_utc": "2025-06-04T17:52:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9031a7d42b96b38ba58b6b3765f535e4c89326fde198576909e01b7d1ffe4747",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1432883724/image_1432883724.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135009522,
+      "datetime": 1749030762
+    },
+    {
+      "title": "ASCO 2025: DeLLphi-304 helps Amgen to pave the way for BiTEs in solid cancers",
+      "description": "Imdelltra is a BiTE that targets DLL3 and CD3 receptors.",
+      "published_utc": "2025-06-04T17:52:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d8c7dd7e8a91f553ea6978c8710c264b61423eded23b463fe15e0ce608177e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010950,
+      "datetime": 1749030744
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:13.948844+00:00",
+    "cache_key": "news_72f3d03969ecd3f89383c674f083fa1f",
+    "count": 5
+  }
+}

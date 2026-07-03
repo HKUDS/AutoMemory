@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) Rises But Trails Market: What Investors Should Know",
+      "description": "UnitedHealth Group (UNH) closed the most recent trading day at $513.67, moving +0.13% from the previous trading session.",
+      "published_utc": "2025-01-07T06:50:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6df22cdcc9b5f9bab27d7d2e7a9a563b1f152e75ba9d2b536547e95faed662d9",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/2a50596f066181e48e4ae0ad6be00462",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132294311,
+      "datetime": 1736203819
+    },
+    {
+      "title": "Healthcare Executives Bullish on 2025: But Why Are Stocks Slipping?",
+      "description": "Improving the consumer experience, engagement and trust is emerging as a top strategy for healthcare companies.",
+      "published_utc": "2025-01-07T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=070535b618bf72d0db1e0d2e33c4ead3ff79fa777a1d10e9e90060b0b7d1566e",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/529a2bf6a4c772f942409efa3808349b",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292599,
+      "datetime": 1736193600
+    },
+    {
+      "title": "UnitedHealth Group Inc. stock rises Monday, still underperforms market",
+      "description": "UnitedHealth Group Inc. stock rises Monday, still underperforms market",
+      "published_utc": "2025-01-07T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dffcf749bf21f02119a030e07798212b3383b4289d22cc1c4e6974489f5b3720",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321704,
+      "datetime": 1736181060
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights UnitedHealth, Costco Wholesale, IBM and Smith-Midland",
+      "description": "UnitedHealth, Costco Wholesale, IBM and Smith-Midland are part of the Zacks top Analyst Blog.",
+      "published_utc": "2025-01-06T22:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b512ef8ffe141d0b0c902d0ef20aa70abf46f61e07f6db6294f0052fb32794e5",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/58724708490e67ef1bafc8867f3885b5",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132287578,
+      "datetime": 1736173800
+    },
+    {
+      "title": "What The Fed Will Do After December 2024's Non-Farm Payrolls Report",
+      "description": "The upcoming nonfarm payroll report for December 2024 may show continued job growth. Read my thoughts on the number of Fed rate cuts in 2025.",
+      "published_utc": "2025-01-06T22:05:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4804dc331379656e0d84a840f675c28262ea050f4e1ef1c51686f28c0d2bc1a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393736657/image_1393736657.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132289576,
+      "datetime": 1736172329
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T07:02:31.499650+00:00",
+    "cache_key": "news_6e208a0b9547091510b1fb36384b3aed",
+    "count": 5
+  }
+}

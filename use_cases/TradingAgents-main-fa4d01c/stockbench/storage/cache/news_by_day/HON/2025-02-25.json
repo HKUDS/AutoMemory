@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Hartford Capital Appreciation Fund Q4 2024 Commentary",
+      "description": "Hartford Capital Appreciation Fund (I share) underperformed the Russell 3000 Index during the quarter. Read more here.",
+      "published_utc": "2025-02-25T05:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac1afa1887f0f6954a9345633a3b5326e2345cf0a4e41deabbb9825378b52de6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1089284390/image_1089284390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132867142,
+      "datetime": 1740432660
+    }
+  ]
+}

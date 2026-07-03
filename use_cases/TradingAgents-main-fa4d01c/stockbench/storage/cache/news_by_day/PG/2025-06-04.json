@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Clorox (CLX) Down 3.7% Since Last Earnings Report: Can It Rebound?",
+      "description": "Clorox (CLX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "published_utc": "2025-06-04T23:30:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9c2b6f0889f72d99aa63be9b3f185277cc6d2ab0c5c171f45a1a6966f07e920",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135035521,
+      "datetime": 1749051027
+    },
+    {
+      "title": "How Trump Inspired One Law Firm to Blitz Brands With ‘Made in USA’ Challenges",
+      "description": "A rising number of lawsuits accuse household brands of misleading consumers when they said their products were made in the United States.",
+      "published_utc": "2025-06-04T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8513c7d914e1183c3493b75a7283ef6735cfa383a4f03a6840e51cdb7f9bf54",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135012751,
+      "datetime": 1749031200
+    },
+    {
+      "title": "Meet the Law Firm Driving a Surge in ‘Made in America’ Advertising Suits",
+      "description": "A rising number of lawsuits accuse household brands of misleading consumers when they said their products were made in the United States.",
+      "published_utc": "2025-06-04T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ab6c44fb3a02f99a565ab9d97988918892390d9e9dcf1d6167e7f6f310ffe82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135008339,
+      "datetime": 1749031200
+    }
+  ]
+}

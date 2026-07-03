@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is Microsoft Corporation (MSFT) the Best Metaverse Stock to Invest in?",
+      "description": "We recently published a list of 12 Best Metaverse Stocks to Invest in. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other best metaverse stocks to invest in. The metaverse, which comes under the video games industry, is a fast-growing digital frontier where immersive tech creates […]",
+      "published_utc": "2025-04-19T23:40:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d34b47c9d628e2834bdcf53a5f8d5b9f72c218f79362504068b27bde015c780f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022590,
+      "datetime": 1745077222
+    },
+    {
+      "title": "Billionaire fund manager makes bold bets on Meta, Nvidia stock",
+      "description": "The veteran hedge fund manager's latest tech stock trades turn heads.",
+      "published_utc": "2025-04-19T22:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa8587e3daa36955c87305219ddc874b1250cb85838cd8dd0d1e8c04ed1ee42c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133994469,
+      "datetime": 1745072220
+    },
+    {
+      "title": "GAM: Tech Exposure Could Mean Short-Term Pain",
+      "description": "",
+      "published_utc": "2025-04-19T19:38:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b1fd8ecc8bbc14cd467d1415a08b3dde2dc248c22111fd11ca84fd64fa880d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972389,
+      "datetime": 1745062693
+    }
+  ]
+}

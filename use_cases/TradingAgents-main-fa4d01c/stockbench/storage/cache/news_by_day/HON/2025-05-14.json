@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON): Among the Best Quantum Computing Stocks to Invest in Now",
+      "description": "We recently published a list of 12 Best Quantum Computing Stocks to Invest in Now. In this article, we are going to take a look at where Honeywell International Inc. (NASDAQ:HON) stands against other best quantum computing stocks to invest in now. When AI first gained widespread attention a few years ago, much of the […]",
+      "published_utc": "2025-05-14T20:25:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c191ac15a06d3033f6c0f5050b0299248c0df8581119ee7cb519f833bd9288c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134461031,
+      "datetime": 1747225513
+    },
+    {
+      "title": "Honeywell International : AI-Assisted Recall Software Helps Life Sciences Manufacturers Reduce Recall Impact and Further Improve Patient Safety",
+      "description": "HOUSTON, May 14, 2025 - Honeywell today introduced TrackWise Recall Management, a cloud-based artificial intelligence -assisted platform that redefines how life sciences manufacturers proactively...",
+      "published_utc": "2025-05-14T17:14:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f1b55801ea39b0c406f5ceda3828355a441fd4a921ab77d11bc76f9b7cd02dba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134435675,
+      "datetime": 1747214052
+    },
+    {
+      "title": "IYJ: Industrials Dashboard For May",
+      "description": "",
+      "published_utc": "2025-05-14T14:53:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8360a53503e08f77460ac0523d2c16b4c87bb51d1991d4e797040b48de9c3a8d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134434498,
+      "datetime": 1747205587
+    },
+    {
+      "id": "f97b0aec9432fdabf3e5032fb1534bc79e3a385660c1d8125407c8cd582d7ff5",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Europe Smart Home Market Report 2025: Increasing Adoption of AI-driven IoT Solutions, Growing Demand for Energy-Efficient Solutions - Forecasts to 2031",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-05-14T08:41:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/14/3080887/28124/en/Europe-Smart-Home-Market-Report-2025-Increasing-Adoption-of-AI-driven-IoT-Solutions-Growing-Demand-for-Energy-Efficient-Solutions-Forecasts-to-2031.html",
+      "tickers": [
+        "ASAZY",
+        "SBGSY",
+        "SIEGY",
+        "LGRDY",
+        "JCI",
+        "HON",
+        "ABBNY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The Europe smart home market is projected to reach $67.5 billion by 2031, driven by the rising need for home safety & security, increasing government initiatives, and the wider proliferation of IoT technologies. However, high procurement costs and data privacy concerns are major challenges.",
+      "keywords": [
+        "smart home",
+        "Europe",
+        "IoT",
+        "energy-efficient",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "ASAZY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists ASSA ABLOY AB as one of the key players in the Europe smart home market, but does not provide any further details about the company."
+        },
+        {
+          "ticker": "SBGSY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Schneider Electric SE as a key player in the Europe smart home market, but does not provide any additional information about the company."
+        },
+        {
+          "ticker": "SIEGY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Siemens AG as one of the key players in the Europe smart home market, but does not provide any further details about the company."
+        },
+        {
+          "ticker": "LGRDY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Legrand SA as a key player in the Europe smart home market, but does not provide any additional information about the company."
+        },
+        {
+          "ticker": "JCI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Johnson Controls International plc as one of the key players in the Europe smart home market, but does not provide any further details about the company."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Honeywell International Inc. as a key player in the Europe smart home market, but does not provide any additional information about the company."
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists ABB Ltd. as one of the key players in the Europe smart home market, but does not provide any additional information about the company."
+        }
+      ]
+    }
+  ]
+}

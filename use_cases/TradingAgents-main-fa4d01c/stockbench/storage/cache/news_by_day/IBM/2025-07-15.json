@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on International Business Machines: “I Like IBM Very Much”",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks on Jim Cramer’s radar. A caller inquired after Cramer’s thoughts on the company, and he replied: “Oh, I like IBM very much. I mentioned Ben Wright earlier. I think that Ben, he’s really turned me on to this stock. We did a very positive piece […]",
+      "published_utc": "2025-07-15T02:46:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=159b77262a8d673b9650cee101b9440eca83de37bff38100124c803135558688",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135936943,
+      "datetime": 1752518767
+    }
+  ]
+}

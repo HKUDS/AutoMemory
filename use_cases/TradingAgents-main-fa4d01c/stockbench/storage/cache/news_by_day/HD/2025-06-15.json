@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "From Walmart to car washes, American companies are getting caught up in ICE raids and protests",
+      "description": "From Walmart to car washes, American companies are getting caught up in ICE raids and protests",
+      "published_utc": "2025-06-15T18:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=91677bb9069aefd553cef7ee73d93b3d8060780d3fa360fd59d20b6901e74ed7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135302092,
+      "datetime": 1749984720
+    },
+    {
+      "title": "Jim Cramer Recommends Home Depot Over Sherwin-Williams",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) is one of the 16 stocks Jim Cramer recently discussed. A caller asked Cramer’s thoughts on the company, and here’s what he had to say in response: “Sherwin-Williams, okay, Dow stock now, by the way. I think Sherwin-Williams, look, I like the stock of Home Depot. Home Depot, which is, by […]",
+      "published_utc": "2025-06-15T17:26:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9b0fa6b11eda32bd245dfcec4d7b89be5dc4cbc8a17d9daa41fdbb1a9ab4cd4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284854,
+      "datetime": 1749979610
+    },
+    {
+      "title": "Kesko Oyj: A Hidden Nordic Retail Giant At A Very Reasonable Valuation",
+      "description": "Kesko has evolved into a diversified Nordic retail leader with strong margins, strategic growth, and solid dividends. See why KKOYF stock is a buy.",
+      "published_utc": "2025-06-15T13:10:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=997a437710cec579c9e14fd9b218f329dd11c4adc4e30aa1c046e0a54e2ae35a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1356547902/image_1356547902.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135282977,
+      "datetime": 1749964225
+    }
+  ]
+}

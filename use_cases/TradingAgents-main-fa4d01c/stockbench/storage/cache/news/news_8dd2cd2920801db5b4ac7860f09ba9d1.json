@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple Inc. (AAPL): Wedbush Sets Street-High $325 Target, Citing AI-Driven iPhone Upgrade Cycle and New Revenue Streams",
+      "description": "We recently compiled a list of the Top 10 AI Headlines Shaping Wall Street for 2025. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other AI stocks. As reported by Reuters, Wall Street’s major indexes started the final trading session of 2024 on a high note, […]",
+      "published_utc": "2025-01-01T21:17:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18884a10e4b54302f4e4f058e1a75c52c70c5edabe126a848f4766c38d4c0024",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/e1QwhqQiBt5ecLL5Qx6Rkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132229559,
+      "datetime": 1735737448
+    },
+    {
+      "title": "Where Will Shopify Be in 3 Years?",
+      "description": "The e-commerce services leader still has a bright future.",
+      "published_utc": "2025-01-01T18:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7aab4ea32335d4c184824265b34890ebe240ecd486d9c5078b84f071fe42b885",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802344/woman-using-a-credit-card.jpg",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226654,
+      "datetime": 1735726860
+    },
+    {
+      "title": "10 Stock Market Predictions for 2025",
+      "description": "Here's what to expect from the stock market, along with some of Wall Street's hottest trends and most influential businesses, in the new year.",
+      "published_utc": "2025-01-01T18:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=867b0c80d0ffcaa5f79100504f8f5a7100095dab642c24bc4a08bb469fc9aa14",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802285/bear-market-stock-chart-quarter-report-financial-metrics-invest-getty.jpg",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132225290,
+      "datetime": 1735725960
+    },
+    {
+      "title": "The Peak",
+      "description": "Hiking a 14er can teach invaluable lessons for investing and life, emphasizing the importance of balancing financial freedom with personal fulfillment. See more.",
+      "published_utc": "2025-01-01T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f67100eb69cfda54a2519ed57568717ab391a9e0c6191a3cff810ebac7b5e784",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/655058143/image_655058143.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132226911,
+      "datetime": 1735719300
+    },
+    {
+      "title": "Nvidia Should Win Again in 2025. Here’s Why.",
+      "description": "Nvidia Should Win Again in 2025. Here’s Why.",
+      "published_utc": "2025-01-01T13:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2334b2de0096eb6123657d6d5a148243c3af34b5507d6640f21ec28cf6f6f90c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132320955,
+      "datetime": 1735707600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-26T06:17:36.038169+00:00",
+    "cache_key": "news_8dd2cd2920801db5b4ac7860f09ba9d1",
+    "count": 5
+  }
+}

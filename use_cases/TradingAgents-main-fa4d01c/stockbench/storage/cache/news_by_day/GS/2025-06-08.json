@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Wells Fargo spent years worried about the past. Now it can focus on the future.",
+      "description": "The fourth-largest US bank plans to pursue growth and expansion in investment banking, credit cards, and wealth management now that it has shed a major growth restriction imposed last decade by regulators as punishment for a fake accounts scandal.",
+      "published_utc": "2025-06-08T22:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39bcfd9bf757684b039fe668acf713a65f1c988f515d967f29c9c47d2c6d68c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135114911,
+      "datetime": 1749393003
+    }
+  ]
+}

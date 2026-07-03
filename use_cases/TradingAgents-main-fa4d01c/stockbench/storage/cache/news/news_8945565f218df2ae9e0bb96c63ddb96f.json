@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Outlook of the AI Sector, Including Microsoft (MSFT), Is Positive, Analyst Says",
+      "description": "AI-oriented companies appear to be performing “overwhelmingly” well, Gabelli Portfolio Manager John Felton recently told Schwab Network. Among the companies well-positioned to benefit from the latter trend are Microsoft (MSFT) and Oracle (ORCL), he suggested. A “Disconnect” Between the Performance and Stock Prices of AI Names Although AI-oriented stocks in general and the sector’s “high […]",
+      "published_utc": "2025-04-08T01:55:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=977eb4158826379f225fc0e868085cfa7d0976b2cc109a97354fa8fd983f4b2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741026,
+      "datetime": 1744048540
+    },
+    {
+      "title": "Apple Takes the Biggest Hit of the \"Magnificent Seven\" in Response to Trump Tariffs",
+      "description": "Tariffs will be the focus, but Apple's issues predate the shocking tariff announcement on April 2.",
+      "published_utc": "2025-04-08T00:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ab3eaacb3d3e7b8e58e031ce185d941e89c0978b4de0c8e52ba5a17414c8f03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741013,
+      "datetime": 1744044300
+    },
+    {
+      "title": "Stock market racing to price in a 'lost year' for corporate profits",
+      "description": "The profit outlook for businesses has dimmed considerably post Trump tariff news.",
+      "published_utc": "2025-04-07T22:53:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d2596a37eb98553056ed8381bf4f7b874f5000b1ee003ac78d618f3d068b3d6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741029,
+      "datetime": 1744037639
+    },
+    {
+      "title": "One chart shows how much optimism has been wiped out of the 'Magnificent 7' because of Trump tariffs",
+      "description": "It hasn't been pretty for the \"Magnificent Seven.\"",
+      "published_utc": "2025-04-07T22:03:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b45cbaca9d2fe7970a5f9f11035a2e0b6947995a97a04be06d12dec6369b6825",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741020,
+      "datetime": 1744034585
+    },
+    {
+      "title": "'Magnificent 7' stocks continue getting hammered as Trump tariffs drag markets lower",
+      "description": "The Magnificent Seven tech stocks continued their sell-off Monday as the Trump administration’s global tariff plan rocked markets.",
+      "published_utc": "2025-04-07T21:39:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a75618165797c0aa97bd3b91179449e4785ad65181c49a8ea8334bd85b285f7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133741023,
+      "datetime": 1744033160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:02.225655+00:00",
+    "cache_key": "news_8945565f218df2ae9e0bb96c63ddb96f",
+    "count": 5
+  }
+}

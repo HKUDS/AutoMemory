@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "IBM Q1 Earnings Call: AI, Software, and Productivity Initiatives Drive Outperformance",
+      "description": "Technology and consulting giant IBM (NYSE:IBM) reported Q1 CY2025 results beating Wall Street’s revenue expectations, but sales were flat year on year at $14.54 billion. The company expects next quarter’s revenue to be around $16.56 billion, close to analysts’ estimates. Its non-GAAP profit of $1.60 per share was 12% above analysts’ consensus estimates.",
+      "published_utc": "2025-04-27T05:51:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa26bc5eff02a2da7d3b8daf3329e1ab9c5596c8f9209d26e3423c4ed007622d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104552,
+      "datetime": 1745704285
+    },
+    {
+      "title": "Analysts reboot IBM stock price targets after earnings",
+      "description": "This is what could happen next to IBM's shares.",
+      "published_utc": "2025-04-26T23:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ea4c9522dfdc478d4b41e33d267a76f29f286d05f2eb878b9d8d9928eceba91",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104553,
+      "datetime": 1745679780
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:10.985088+00:00",
+    "cache_key": "news_f8642b3caeeaf40bc67f84a1b2a40292",
+    "count": 2
+  }
+}

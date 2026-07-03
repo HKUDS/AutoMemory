@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Fidelity Select Consumer Staples Portfolio Q4 2024 Review",
+      "description": "For the quarter, the fund's Retail Class shares returned -6.25%, lagging the -2.64% result of the MSCI U.S. IMI Consumer Staples 25/50 Index. Read more here.",
+      "published_utc": "2025-03-12T06:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26d06565941cbaa9d88376cae132a01d7a504adde5c1aad2667070d1cd5a6855",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319625327/image_1319625327.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133140561,
+      "datetime": 1741732260
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-03-12T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=780e360df2fc144b67d1d6c8d8d55cac1bb8cbf8cc9f03c3562a3aff8b89d7e2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133150311,
+      "datetime": 1741710660
+    }
+  ]
+}

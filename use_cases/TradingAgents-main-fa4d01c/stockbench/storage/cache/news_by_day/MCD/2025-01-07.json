@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Stock Sinks As Market Gains: Here's Why",
+      "description": "McDonald's (MCD) reachead $292.18 at the closing of the latest trading day, reflecting a -0.88% change compared to its last close.",
+      "published_utc": "2025-01-07T06:50:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ca7b2b56c6a02bb0c55ce209b00822a8add190038537c8651fe05bf86b3f07c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132293228,
+      "datetime": 1736203821
+    },
+    {
+      "title": "McDonald's is the latest company to roll back diversity goals",
+      "description": "Four years after launching a push for more diversity in its ranks, McDonald’s is ending some of its diversity practices, citing a U.S. Supreme Court decision that outlawed affirmative action in college admissions.  McDonald's is the latest big company to shift its tactics in the wake of the 2023 ruling and a conservative backlash against diversity, equity and inclusion programs.  Walmart, John Deere, Harley-Davidson and others rolled back their DEI initiatives last year.",
+      "published_utc": "2025-01-07T04:37:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8eafdedd681154c55dbc31afb8af58da681984f512e086e15d7b99aeca9dc744",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/K2H2HNDRAYnmMvw3mg4CFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/b541984b2e4d84935c95d978ebc76e15",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132293229,
+      "datetime": 1736195853
+    },
+    {
+      "title": "McDonald's rolls back some diversity practices in head office",
+      "description": "McDonald's is retiring its goal for diversity in corporate leadership and shifting away from some diversity practices, citing a shifting legal landscape in the United States in an open letter sent to...",
+      "published_utc": "2025-01-07T03:15:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=37f01349fb0f938c28fd99c7879cec4108a015eb734bcf3a2d90b6aa53fd5e9b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132292961,
+      "datetime": 1736190918
+    },
+    {
+      "title": "McDonald's to launch the McValue national menu as it looks for a boost from diners and investors",
+      "description": "2025 is already a continuation of 2024 as fast food chains compete to get consumers' dollars.",
+      "published_utc": "2025-01-07T02:52:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47e810a994fc2c619f9ee0116a0159e3586452d93079e54ca42eb8a7d3210feb",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/IG_AmX0b0ac.eN6fMrYyEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/56148140-482c-11ef-9f8f-0079832ad22e",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132289903,
+      "datetime": 1736189565
+    },
+    {
+      "title": "McDonald's introducing new McValue menu as food inflation persists",
+      "description": "As American consumers continue to deal with elevated food inflation in 2025, fast food chain McDonald's (MCD) is offering a new McValue menu, its first national value program since 2018. Yahoo Finance senior reporter Brooke DiPalma breaks down what this menu platform will include — from value deals to in-app exclusives — as Americans also contend with the rising costs of dining and ordering out. Catch Yahoo Finance's interview with former USDA economist Richard Volpe about the rising costs in food and grocery prices. To watch more expert insights and analysis on the latest market action, check out more Wealth here. This post was written by Luke Carberry Mogan.",
+      "published_utc": "2025-01-07T02:06:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21577b52315a37edfb764bbe07b8b64317ef6f6fc5cf22bc1d0eecbbb2ae29d8",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/TnJCv7ldTqeNHlioy.aYiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/a88ff610-cc58-11ef-b7ce-08fdf54f0e90",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132289227,
+      "datetime": 1736186768
+    }
+  ]
+}

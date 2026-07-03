@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Kenvue + Johnson & Johnson: I Choose To Own The Whole 'Humpty Dumpty'",
+      "description": "Discover why Johnson & Johnson and Kenvue offer resilient defensive stocks with high dividends.",
+      "published_utc": "2025-03-16T21:40:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e2a33e42c67c50b9950b3dc91a0d5278a086f640ec0823eadf61648f4b4a945",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494495584/image_1494495584.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133183958,
+      "datetime": 1742132403
+    }
+  ]
+}

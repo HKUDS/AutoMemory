@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is OpenAI's Deal With Alphabet a Game Changer?",
+      "description": "OpenAI just teamed up with Alphabet's Google Cloud Platform.",
+      "published_utc": "2025-06-22T06:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef9b756e5325b4c9689a58a3059211e7038f34b50f2520d4f583c29fe873577d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135458022,
+      "datetime": 1750543500
+    },
+    {
+      "title": "European leaders worry they’re too reliant on U.S. tech",
+      "description": "European governments may be reconsidering their use of American technology and services, according to a new report in The New York Times.",
+      "published_utc": "2025-06-22T04:16:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d80fb7f6a7d7b40606062a5648ce644bc2ccd3addf55b8f1ecd5eead7c343034",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135460354,
+      "datetime": 1750536969
+    },
+    {
+      "title": "3 Stocks to Profit From the Upcoming Nuclear Power Boom",
+      "description": "NuScale Power is a leading developer of small modular reactors, which offer a variety of benefits compared to traditional nuclear power plants.  Cameco is a uranium mining leader that has the potential to benefit from growth in small modular reactors.  President Donald Trump, committed to facilitating a rebirth of America's nuclear energy industry, issued four executive orders in late May. From expediting the licensing process for nuclear reactors to examining the potential for nuclear fuel recycling, Trump addressed a range of issues that had hindered the industry's growth for years.",
+      "published_utc": "2025-06-22T00:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed2c4331ac094d97cdffae560087649a5d8bfb2a949f5a07e063d9c22d3a448a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456470,
+      "datetime": 1750523580
+    }
+  ]
+}

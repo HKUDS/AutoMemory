@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why JPMorgan Chase, Wells Fargo, and American Express Plunged Today",
+      "description": "Shares of major financial companies JPMorgan Chase (NYSE: JPM), Wells Fargo (NYSE: WFC), and Warren Buffett holding American Express (NYSE: AXP) were all down significantly on Monday, falling 3.8%, 5.1%, and 2.9%, respectively, as of 12:04 p.m. ET.  Uncertainty over Trump's tariff policy has recently led to recession or stagflation fears; over the weekend, Trump declined to rule out tolerating a recession as a result of the protectionist policies.",
+      "published_utc": "2025-03-11T02:22:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdbb391d8bab21759f719195b98b82daee3099a3bb151476c44f8716b581101d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185298,
+      "datetime": 1741630962
+    },
+    {
+      "title": "AmEx Enhances Card Capabilities With Center Acquisition",
+      "description": "AXP announces the acquisition of Center in a bid to enhance its commercial card offerings.",
+      "published_utc": "2025-03-11T01:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e1c379731d874f2d381587d11167a1496ef0b34300e443d92af2799c6267727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185299,
+      "datetime": 1741628820
+    },
+    {
+      "title": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "description": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "published_utc": "2025-03-10T23:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f0efd6bd16cfc5288192b3ff97718103c4c3d57d1088d88c9e62d17a81f11a99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133125334,
+      "datetime": 1741620900
+    },
+    {
+      "title": "Goldman Sachs, Apple share losses lead Dow's 879-point drop",
+      "description": "Goldman Sachs, Apple share losses lead Dow's 879-point drop",
+      "published_utc": "2025-03-10T22:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6f43bd7637c038e6fe2822a99b5657d621e21f20f4c2754ed7a0a794753a93e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133122808,
+      "datetime": 1741617000
+    },
+    {
+      "title": "American Express to buy expense management software firm Center",
+      "description": "Subject to customary closing conditions, the acquisition is anticipated to close within the second quarter of this year.",
+      "published_utc": "2025-03-10T21:30:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=544791fd15d3c164bb45880cf065ecb5bff835cbdfa575c75fa6a6864642c21a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185301,
+      "datetime": 1741613407
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:03.433463+00:00",
+    "cache_key": "news_55b04f3ef438dea26871b300e2a1601f",
+    "count": 5
+  }
+}

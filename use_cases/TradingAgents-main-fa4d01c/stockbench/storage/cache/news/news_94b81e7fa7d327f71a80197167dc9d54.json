@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "S&P 500's breakout May was largely a result of Mag 7 gains",
+      "description": "The S&P 500 (^GSPC) clocked its best month of trading in May since 1990, and the majority of the Magnificent Seven — comprised of tech stocks Meta Platforms (META), Microsoft (MSFT), Alphabet (GOOGL, GOOG), Amazon (AMZN), Apple (AAPL), Nvidia (NVDA), Tesla (TSLA) — may be deserving of some of the credit. Yahoo Finance host Julie Hyman recaps the Mag 7 stock gains and how it contributed to the S&P 500's breakout May. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-06-03T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6590fcf7d3a80e62e72db1b7855f8457693929ba5793bc2183bc01a15df7b7e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967177,
+      "datetime": 1748899800
+    },
+    {
+      "title": "Commentary: Why businesses want to blame Trump for price hikes",
+      "description": "Businesses suffer when customers blame them for price hikes. That's why they're willing to call out Trump's tariffs as the cause.",
+      "published_utc": "2025-06-03T03:37:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ac828b669aad74441c0ab0f07c4663123ad7644bb31cdc6cb6735ca2ec19e89",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967178,
+      "datetime": 1748893055
+    },
+    {
+      "title": "Amazon set to expand robotics push to cut labor reliance",
+      "description": "Investing.com -- Amazon.com is accelerating its robotics rollout across its fulfillment and delivery operations, a move Bank of America says could unlock up to $16 billion in annual cost savings by 2032 and significantly reduce the company’s labor dependence.",
+      "published_utc": "2025-06-03T01:45:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2033be5a0847af8e000a6687987bb344e7df9729940b708d9e184893852f1a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967179,
+      "datetime": 1748886349
+    },
+    {
+      "title": "Amazon (AMZN) Target Lifted to $248 by BofA on AI, Robotics Momentum",
+      "description": "Wall Street Backs Amazon's AI Shift, Price Target Raised to $248",
+      "published_utc": "2025-06-03T01:26:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1deedbb56ddd28265541d4ee4e36b28a0df3d442d9011a87e491bac93716fc16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967180,
+      "datetime": 1748885196
+    },
+    {
+      "title": "Amazon Expands Robotics, AI to Cut Costs, Boost Retail Edge, BofA Says",
+      "description": "Amazon.com (AMZN) is expanding its use of robots and artificial intelligence, projecting \"billions\"",
+      "published_utc": "2025-06-02T23:27:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c560aa0faba5e8e353431242d5041a9c9faa2a3aa4715d04d8673fb750cea3ea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967181,
+      "datetime": 1748878053
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:51:20.819089+00:00",
+    "cache_key": "news_94b81e7fa7d327f71a80197167dc9d54",
+    "count": 5
+  }
+}

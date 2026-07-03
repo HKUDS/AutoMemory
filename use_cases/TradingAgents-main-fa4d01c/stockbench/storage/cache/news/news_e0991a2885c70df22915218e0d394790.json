@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise After Trump Triggers Stock Market Rout; Nvidia, Palantir, Tesla Plunge",
+      "description": "Dow Jones Futures Rise After Trump Triggers Stock Market Rout; Nvidia, Palantir, Tesla Plunge",
+      "published_utc": "2025-03-11T06:39:24",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=79d166ed914c3715e3fabfff75ead61af2897ce1f3bb6edc3fcd050e6744c731",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132259,
+      "datetime": 1741646364
+    },
+    {
+      "title": "Apple and Nvidia led Monday’s $750 billion tech wreck. How to play the aftermath.",
+      "description": "Apple and Nvidia led Monday’s $750 billion tech wreck. How to play the aftermath.",
+      "published_utc": "2025-03-11T01:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3763d5b01e138ff7d591a51f14dbe48b622c6d9b10460e886b121e1532722622",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132282,
+      "datetime": 1741628760
+    },
+    {
+      "title": "Trump’s Justice Department Isn’t Easing Up on Big Tech. It’s One More Headwind for the Stocks.",
+      "description": "Trump’s Justice Department Isn’t Easing Up on Big Tech. It’s One More Headwind for the Stocks.",
+      "published_utc": "2025-03-11T00:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e15a7d40a4ea1128cee642fadc840c92f7a03ac9c396f515a5bfdc8f4a652fa2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133132283,
+      "datetime": 1741624140
+    },
+    {
+      "title": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "description": "Dow's 750-point drop led by losses in shares of Goldman Sachs, Apple",
+      "published_utc": "2025-03-10T23:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f0efd6bd16cfc5288192b3ff97718103c4c3d57d1088d88c9e62d17a81f11a99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133125334,
+      "datetime": 1741620900
+    },
+    {
+      "title": "Apple preparing for a major software overhaul, Bloomberg News reports",
+      "description": "Apple is preparing a major overhaul of its software, due later this year, which will change the look of the operating systems and the interface of the iPhone, iPad and Mac, Bloomberg News reported on...",
+      "published_utc": "2025-03-10T23:17:02",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9907ed9aa4b431cdafff22a1130c601cc3a55b45bc2345026889f79582f1ed86",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133124114,
+      "datetime": 1741619822
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:16:18.525099+00:00",
+    "cache_key": "news_e0991a2885c70df22915218e0d394790",
+    "count": 5
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is American Express Worth Buying Right Now?",
+      "description": "American Express is a well-run financial giant.  American Express (NYSE: AXP) is one of the stocks owned by Warren Buffett within Berkshire Hathaway's stock portfolio.  Here's a look at whether American Express is worth buying right now.",
+      "published_utc": "2025-06-07T19:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f91fab400983626f4849c15e6ba5c504b3ec3e0e6dd02ede4cd97a48c6a07b3c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135106813,
+      "datetime": 1749294900
+    },
+    {
+      "title": "47.7% of Warren Buffett's $282 Billion Portfolio Is Invested in 3 Stocks That Could Net Berkshire Hathaway $1.6 Billion in Dividends This Year",
+      "description": "Buffett likes investing in companies that return money to shareholders through dividends, because they compound his returns more quickly.  Three of Berkshire's holdings, which represent almost half of the value of its portfolio, could deliver $1.6 billion in dividend payments this year.  Warren Buffett has been the CEO of the Berkshire Hathaway holding company since 1965.",
+      "published_utc": "2025-06-07T17:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8f753b799716feb1a51736dbe28c15e976df7c093e662c77aa5af276504aab9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135105957,
+      "datetime": 1749289020
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:52:50.521643+00:00",
+    "cache_key": "news_56155b545b6581776bd1debbcd76f963",
+    "count": 2
+  }
+}

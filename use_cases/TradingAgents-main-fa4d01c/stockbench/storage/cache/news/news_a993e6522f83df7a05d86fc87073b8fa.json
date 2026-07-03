@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Visa Tap to Phone Adoption Soars: 200% Year-over-Year Growth Worldwide",
+      "description": "Visa’s fast-growing, contactless payment solution Tap to Phone helps SMBs get paid, with nearly 30% of sellers popping up as new small businesses...",
+      "published_utc": "2025-03-03T15:04:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=48bd3747a0402e96da6ed8896eb7f1588b6652999534ca7d85914706aad9f6b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132952763,
+      "datetime": 1740985443
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:13:14.561004+00:00",
+    "cache_key": "news_a993e6522f83df7a05d86fc87073b8fa",
+    "count": 1
+  }
+}

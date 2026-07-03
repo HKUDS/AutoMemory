@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Dogs Of The Dow Chase May's 'Safer' Buy",
+      "description": "Discover the top Dow Dogs for potential gains of 21%-45% by 2026, with Verizon leading in dividends. Read more on the price gainers for 2026 based on 1-year target prices.",
+      "published_utc": "2025-05-03T17:46:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=350e7769b702ab011e6e05a8a775d6afbeec758c10f0e5378d06981688951dc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470996886/image_1470996886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134226264,
+      "datetime": 1746265597
+    },
+    {
+      "title": "Hold Boeing Stock? Here's the 1 Thing Long-Term Investors Need to Focus On.",
+      "description": "Boeing has an opportunity to improve execution and, ultimately, cash flow generation and its balance sheet.  The company is showing early signs of improvement under CEO Kelly Ortberg.  The key to Boeing's (NYSE: BA) long-term future lies in its ability to develop the next generation of narrowbody airplanes to replace the 737 MAX.",
+      "published_utc": "2025-05-03T17:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f2adc258294c10feb422fb48044ac2de840de8665a0f05ad5cb6de0f7b1a3b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134215468,
+      "datetime": 1746263700
+    },
+    {
+      "title": "Safe Haven In Uncertain Times, Year Three",
+      "description": "Long-term growth investing journey began in 2022 with a focus on tax efficiency and generational wealth. See an update on my portfolio here.",
+      "published_utc": "2025-05-03T09:47:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2b74f6bdc63327694ca22ad8d815ce5b0d32cecb81d56f89ea41780c3e5032ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393651026/image_1393651026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134208413,
+      "datetime": 1746236820
+    }
+  ]
+}

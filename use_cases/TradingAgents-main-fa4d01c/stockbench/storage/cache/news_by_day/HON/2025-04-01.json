@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Boeing Just Got an Order for 50 Jets. Why the Stock Is Falling.",
+      "description": "Boeing Just Got an Order for 50 Jets. Why the Stock Is Falling.",
+      "published_utc": "2025-04-01T00:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c32320267cae4715c05ead5af71c1126c92c50059b359694872ceca149e132d7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134149113,
+      "datetime": 1743439020
+    }
+  ]
+}

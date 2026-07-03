@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Why AbbVie Remains A Strong Buy For Long-Term Investors",
+      "description": "Discover why AbbVie stands out for long-term investors with strong growth in Skyrizi & Qulipta sales.",
+      "published_utc": "2025-02-23T19:52:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=836f08a1663641b8706ac500a6f262775dee09979e358bb4eed589b52a232408",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172165367/image_172165367.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132858207,
+      "datetime": 1740311542
+    },
+    {
+      "title": "European Banks Swarm Dollar Market For AT1 Debt: Credit Weekly",
+      "description": "(Bloomberg) -- European banks have turned to the US dollar market to sell almost $8 billion of bonds that help them boost capital levels. Investors hunting for higher coupons want even more.Most Read from BloombergTrump Targets $128 Billion California High-Speed Rail ProjectTrump Asserts Power Over NYC, Proclaims ‘Long Live the King’Trump to Halt NY Congestion Pricing by Terminating ApprovalAirbnb Billionaire Offers Pre-Fab Homes for LA Fire VictimsSorry, Kids: Disney’s New York Headquarters Is",
+      "published_utc": "2025-02-23T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=651ad8ad24e22e6884ad0a32bcb870508b2906d8accb989de3852a16417eaf33",
+      "category": "company",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vGYuBPMERvSOMjd6uTF.Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDU-/https://media.zenfs.com/en/bloomberg_markets_842/4692f6388ed34bdedbb20995bd3492f5",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132878718,
+      "datetime": 1740254400
+    }
+  ]
+}

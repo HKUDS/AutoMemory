@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Home Depot (HD) Fell More Than Broader Market",
+      "description": "In the closing of the recent trading day, Home Depot (HD) stood at $367.28, denoting a -1.19% move from the preceding trading day.",
+      "published_utc": "2025-07-08T05:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e2ff30d2e155945f45f758aca9dcb40ee5335798cdebace2e0cd618ff5150ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135789928,
+      "datetime": 1751924703
+    },
+    {
+      "title": "Home Depot Inc. stock underperforms Monday when compared to competitors",
+      "description": "Home Depot Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-07-08T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=be2176ba1ea90864f374e9dbdef7e563a610ccd2e0408054330ff1dd8b5387d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135812372,
+      "datetime": 1751905860
+    },
+    {
+      "title": "ICE Raids Derail Los Angeles Economy as Workers Go Missing",
+      "description": "(Bloomberg) -- Leer en españolMost Read from BloombergAre Tourists Ruining Europe? How Locals Are Pushing BackForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsTrump’s Gilded Design Style May Be Gaudy. But Don’t Call it ‘Rococo.’Denver City Hall Takes a Page From NASAIn California, Pro-Housing ‘Abundance’ Fans Rewrite an Environmental LandmarkLos Angeles was already struggling to revive its fragile economy after the most destructive wildfires in its history erupted six months ago. Now,",
+      "published_utc": "2025-07-07T22:49:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e7164a26ccd0cdff5c7d52f09b195efffccfd29183e4472abe4fb75c4f95221",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135789415,
+      "datetime": 1751899765
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:04:41.679541+00:00",
+    "cache_key": "news_0960eb9befada876807754bd2117f5d9",
+    "count": 3
+  }
+}

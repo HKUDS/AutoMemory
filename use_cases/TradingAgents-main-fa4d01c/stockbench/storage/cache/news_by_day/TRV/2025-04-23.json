@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Travelers Publishes Its 2024 Community Report",
+      "description": "HARTFORD, Conn., April 23, 2025--The Travelers Companies, Inc. (NYSE: TRV) today published its annual community report, \"Stories That Connect Us,\" detailing charitable contributions of more than $24 million in 2024, bringing the company’s total giving to more than $237 million over the past decade. The report also highlights the 120,000 volunteer hours logged in the past year by Travelers employees.",
+      "published_utc": "2025-04-23T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc4dcce3fb335d806d0b411c579c61a5aaf0a0cb8db386cd757bd634ad292f46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046777,
+      "datetime": 1745413200
+    }
+  ]
+}

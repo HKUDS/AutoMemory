@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Upto 8% (March 2025)",
+      "description": "Discover 5 large-cap, dividend-paying stocks trading at significant discounts. Explore conservative picks plus options with yields up to 8%.",
+      "published_utc": "2025-03-01T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=38ee0f05d7f7fed3a921c4ef3281abad97ff2574d8023c807f3c6cbec06f3df0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132937309,
+      "datetime": 1740816000
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 2",
+      "description": "Read here for key dividend updates for Dividend Champions, Contenders, and Challengers. Learn about changes, ex-dividend dates, & payment schedules.",
+      "published_utc": "2025-03-01T08:21:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87534fcd5ea5e44020a508adb3e369e09ef27091eed37edf1e300f8cdf6e062d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132923903,
+      "datetime": 1740788508
+    },
+    {
+      "id": "b3483c94d26f920a074e7fc8862ccd3ed97d55afc8f9e07f6b5445b497a1b509",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "International Myeloma Foundation (IMF) Celebrates Myeloma Milestones for 2025 Myeloma Action Month",
+      "author": "International Myeloma Foundation",
+      "published_utc": "2025-03-01T13:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/01/3035103/0/en/International-Myeloma-Foundation-IMF-Celebrates-Myeloma-Milestones-for-2025-Myeloma-Action-Month.html",
+      "tickers": [
+        "AMGN",
+        "BMY",
+        "CELGr",
+        "GSKH",
+        "JNJ",
+        "KPTI",
+        "REGN",
+        "SNY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f70068f9-568b-4858-8283-3c96a2db91d6",
+      "description": "Myeloma Action Month is an annual global awareness campaign that takes place every March to raise awareness and inspire action for multiple myeloma, a blood cancer affecting over 176,404 people worldwide. This year, the International Myeloma Foundation invites individuals to share their most meaningful myeloma milestones, celebrating resilience, strengthening connections, and inspiring hope.",
+      "keywords": [
+        "multiple myeloma",
+        "blood cancer",
+        "awareness campaign",
+        "milestones",
+        "resilience",
+        "hope"
+      ],
+      "insights": [
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amgen is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bristol Myers Squibb is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bristol Myers Squibb is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "GSKH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GSK is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "KPTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Karyopharm Therapeutics is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "REGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Regeneron is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        },
+        {
+          "ticker": "SNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sanofi is mentioned as a sponsor of Myeloma Action Month 2025, indicating their support for the campaign and the myeloma community."
+        }
+      ]
+    },
+    {
+      "id": "00eb9a3987d93829865731348f20a258ae10786bda0fd3f4161ff1918ad769ab",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Dividend Stocks That Are No-Brainer Buys Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-01T10:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/01/3-dividend-stocks-that-are-no-brainer-buys-right/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "NVS",
+        "PFE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809192/smiling-man-holding-fist-up.jpg",
+      "description": "Three Motley Fool contributors recommend Johnson & Johnson, Novartis, and Pfizer as no-brainer dividend stocks due to their strong balance sheets, diversified businesses, and ability to navigate regulatory changes.",
+      "keywords": [
+        "dividend stocks",
+        "healthcare stocks",
+        "Johnson & Johnson",
+        "Novartis",
+        "Pfizer"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legal issues, Johnson & Johnson has a strong balance sheet, diversified business, and a long history of navigating regulatory changes, making it a safe dividend stock."
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Novartis offers a high dividend yield, steady growth, and a reasonable valuation, making it an appealing option for income-seeking investors."
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pfizer has a high dividend yield, a solid track record of dividend payments, and multiple growth drivers, making it a no-brainer dividend stock despite facing a patent cliff."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:32.481333+00:00",
+    "cache_key": "news_a8fff3fc7a6bed643ff07ee25973b5c7",
+    "count": 4
+  }
+}

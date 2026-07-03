@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Home Depot Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Home Depot Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-06-18T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b4009871f2db25d63767190f11a23f4f4a8fc23323e0e88550ff4cef76d2d38a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135354755,
+      "datetime": 1750177860
+    }
+  ]
+}

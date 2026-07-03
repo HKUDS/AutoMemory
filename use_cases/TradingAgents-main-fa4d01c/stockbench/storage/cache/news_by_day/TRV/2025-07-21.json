@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Why Investment Income is a Key Pillar for BRK.B's Financial Health",
+      "description": "BRK.B banks on rising investment income from Treasuries and dividends to offset market headwinds and boost resilience.",
+      "published_utc": "2025-07-21T23:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95cd9a31304df0a9c67ae36e6186222f4c207818abee08b5a11285281939e645",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031681,
+      "datetime": 1753112400
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Honeywell Finalizes Sundyne Acquisition to Boost Its Process Industry Strength",
+      "description": "Honeywell International Inc. (NASDAQ:HON) is one of the best Dow stocks to invest in. On June 9, the company announced that it had finalized its $2.16 billion all-cash acquisition of Sundyne from private equity firm Warburg Pincus. Sundyne, known for its advanced pumps and gas compressors used in process industries, is expected to contribute immediately […]",
+      "published_utc": "2025-06-12T04:23:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b6485796bc31c9b4f962620f26e43cc94b34243face744cce6e5fe1e26d4ce8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135202332,
+      "datetime": 1749673383
+    },
+    {
+      "title": "Honeywell: Jefferies raises target price",
+      "description": "Jefferies announced on Wednesday that it had raised its target price for Honeywell shares from $235 to $240, while maintaining its hold recommendation on them.In a research note published in the...",
+      "published_utc": "2025-06-11T18:34:51",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=202490858b1fd9672cbd74bed48977300e8dc5ecc1ccb9e744a8c82148fff545",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135183956,
+      "datetime": 1749638091
+    },
+    {
+      "title": "Ransomware attacks pile up in disturbing trend",
+      "description": "Extortion attempts leap by 46% over a recent six-month period, with manufacturing and construction sectors bearing the brunt.",
+      "published_utc": "2025-06-11T17:22:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71d37a6b4f0c81779b563b3c256fbd978c60b28114ec85a8f42e624723db4e28",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135202334,
+      "datetime": 1749633760
+    },
+    {
+      "title": "Honeywell: Good Execution, Secular Growth Exposure, And Strategic M&As To Drive Upside",
+      "description": "Honeywell's growth in high-demand sectors, strong backlog, and strategic M&A drive revenue visibility. Read why HON stock is a Buy.",
+      "published_utc": "2025-06-11T12:59:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f67e0a89c84958986e1199ba7a279dce7228503a8e83daaccce02dbd1cadb298",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303252631/image_1303252631.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135177734,
+      "datetime": 1749617978
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:55:17.775196+00:00",
+    "cache_key": "news_2a5c27b306accc2c5e1323f507b0c406",
+    "count": 4
+  }
+}

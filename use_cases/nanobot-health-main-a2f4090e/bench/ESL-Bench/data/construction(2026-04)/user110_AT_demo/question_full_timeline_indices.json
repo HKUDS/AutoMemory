@@ -1,0 +1,1284 @@
+[
+  {
+    "question": "How old is the user?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "demographics.age"
+    ],
+    "answer": 34
+  },
+  {
+    "question": "What is the user's gender?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "demographics.gender"
+    ],
+    "answer": "Male"
+  },
+  {
+    "question": "What is the user's occupation?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "demographics.occupation"
+    ],
+    "answer": "Sales Manager"
+  },
+  {
+    "question": "What type of area does the user live in?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "demographics.location_type"
+    ],
+    "answer": "Urban"
+  },
+  {
+    "question": "What are the user's height and weight?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "health_profile.physical_measurements.height",
+      "health_profile.physical_measurements.weight"
+    ],
+    "answer": {
+      "height_cm": 178,
+      "weight_kg": 79
+    }
+  },
+  {
+    "question": "What is the user's stated reason for the current preventive health visit?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.patient_narrative.chief_complaints"
+    ],
+    "answer": "Presentation for annual preventive health screening; no acute symptoms reported. Interested in optimizing energy levels for work."
+  },
+  {
+    "question": "What are the user's goals of care?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.patient_narrative.goals_of_care"
+    ],
+    "answer": "Maintain optimal BMI, prevent occupational burnout, and ensure long-term cardiovascular health through lifestyle management."
+  },
+  {
+    "question": "How does the user describe the impact of health on daily life?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.patient_narrative.impact_on_daily_life"
+    ],
+    "answer": "The patient reports that his high-energy career requires peak physical and mental condition; he views his health as a critical asset for his professional success."
+  },
+  {
+    "question": "What is the user's mental health profile summary?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.mental_health.summary"
+    ],
+    "answer": "The patient exhibits a resilient and high-functioning psychological profile. He displays 'Type A' traits including competitiveness and conscientiousness. While his job involves significant stress, he manages it proactively without signs of anxiety or depression."
+  },
+  {
+    "question": "What coping mechanisms does the user use?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.mental_health.coping_mechanisms"
+    ],
+    "answer": [
+      "Rigorous gym schedule",
+      "Strict adherence to sleep routines",
+      "Strategic planning and scheduling"
+    ]
+  },
+  {
+    "question": "What is the user's family history?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "health_profile.family_history[0].relative",
+      "health_profile.family_history[0].condition",
+      "health_profile.family_history[1].relative",
+      "health_profile.family_history[1].condition"
+    ],
+    "answer": [
+      {
+        "relative": "Father",
+        "condition": "Hypertension (onset age 55, controlled)"
+      },
+      {
+        "relative": "Mother",
+        "condition": "Healthy"
+      }
+    ]
+  },
+  {
+    "question": "Which relative has hypertension in the user's family history, and when did it start?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "health_profile.family_history[0].relative",
+      "health_profile.family_history[0].condition"
+    ],
+    "answer": "The user's father has hypertension, with onset at age 55, and it is controlled."
+  },
+  {
+    "question": "What past medical history is recorded for the user?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "health_profile.past_medical_history[0].diagnosis",
+      "health_profile.past_medical_history[0].age_at_diagnosis",
+      "health_profile.past_medical_history[0].treatment_summary",
+      "health_profile.past_medical_history[0].outcome"
+    ],
+    "answer": {
+      "diagnosis": "Appendectomy (Laparoscopic)",
+      "age_at_diagnosis": 22,
+      "treatment_summary": "Emergency surgery for acute appendicitis.",
+      "outcome": "Full recovery with no complications."
+    }
+  },
+  {
+    "question": "What allergies or intolerances are listed for the user?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.allergies_and_intolerances"
+    ],
+    "answer": [
+      "Seasonal pollen"
+    ]
+  },
+  {
+    "question": "What is the user's smoking status?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.lifestyle.smoking_status"
+    ],
+    "answer": "Never smoker"
+  },
+  {
+    "question": "How much alcohol does the user usually consume?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.lifestyle.alcohol_consumption"
+    ],
+    "answer": "Social drinker (1-2 units per week, usually at client dinners)"
+  },
+  {
+    "question": "What is the user's physical activity routine?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.lifestyle.physical_activity"
+    ],
+    "answer": "High activity level; attends the gym 4 days a week for a mix of strength training and cardio intervals."
+  },
+  {
+    "question": "How does the user describe diet and sleep habits?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "health_profile.lifestyle.diet_narrative",
+      "health_profile.lifestyle.sleep_pattern_narrative"
+    ],
+    "answer": {
+      "diet": "Conscious eater; prioritizes high-protein and whole foods. Does meal prep for lunches to avoid unhealthy office snacks, though occasionally indulges during business dinners.",
+      "sleep": "Strictly safeguards an 11:00 PM to 6:30 AM sleep schedule. Uses blackout curtains and tracks sleep quality via smartwatch."
+    }
+  },
+  {
+    "question": "What stress management practices does the user report?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "health_profile.lifestyle.stress_management_practices"
+    ],
+    "answer": [
+      "Regular physical exercise",
+      "Weekend disconnect from work email"
+    ]
+  },
+  {
+    "question": "Does the user have any active chronic conditions, and what is the overall preventive health focus?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "health_profile.chronic_conditions",
+      "health_profile.summary"
+    ],
+    "answer": {
+      "active_chronic_conditions": [],
+      "preventive_focus": "The user has generally excellent health with no active chronic conditions. His preventive focus is weight maintenance, sleep hygiene, physical fitness, and long-term cardiovascular health."
+    }
+  },
+  {
+    "question": "What was the user's recovery time at 2026-01-10?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[456].value"
+    ],
+    "answer": "35.9616 hours"
+  },
+  {
+    "question": "What was the user's body weight at 2026-01-03?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[102].value"
+    ],
+    "answer": "78.1374 kg"
+  },
+  {
+    "question": "What was the user's estimated VO2 max at 2026-01-24?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1126].value"
+    ],
+    "answer": "50.6808 mL/kg/min"
+  },
+  {
+    "question": "What was the user's daily step count at 2026-01-22?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1003].value"
+    ],
+    "answer": "3988 steps"
+  },
+  {
+    "question": "What was the user's heart rate variability at 2026-01-20?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[914].value"
+    ],
+    "answer": "71.0304 ms"
+  },
+  {
+    "question": "What was the user's body battery score at 2026-01-13?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[571].value"
+    ],
+    "answer": "82.951 %"
+  },
+  {
+    "question": "What was the user's training readiness at 2026-01-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[419].value"
+    ],
+    "answer": 54.2623
+  },
+  {
+    "question": "What was the user's moderate activity time at 2026-01-08?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[356].value"
+    ],
+    "answer": "45.0823 minutes"
+  },
+  {
+    "question": "What was the user's recovery time at 2026-02-06?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1728].value"
+    ],
+    "answer": "36.0532 hours"
+  },
+  {
+    "question": "What was the user's sleep recovery score at 2026-01-03?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[130].value"
+    ],
+    "answer": 91.3446
+  },
+  {
+    "question": "What was the user's muscle mass at 2026-01-03?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[122].value"
+    ],
+    "answer": "61.73 kg"
+  },
+  {
+    "question": "What was the user's body battery score at 2026-01-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[383].value"
+    ],
+    "answer": "71.7761 %"
+  },
+  {
+    "question": "What was the user's wake after sleep onset at 2026-01-19?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[895].value"
+    ],
+    "answer": "16.2603 minutes"
+  },
+  {
+    "question": "What was the user's cardiorespiratory fitness at 2026-01-21?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[952].value"
+    ],
+    "answer": 49.0263
+  },
+  {
+    "question": "What was the user's estimated VO2 max at 2026-02-13?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[2069].value"
+    ],
+    "answer": "49.6072 mL/kg/min"
+  },
+  {
+    "question": "What was the user's daily stress score at 2026-01-03?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[108].value"
+    ],
+    "answer": 39.248
+  },
+  {
+    "question": "What was the user's daily step count at 2026-01-18?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[814].value"
+    ],
+    "answer": "11397 steps"
+  },
+  {
+    "question": "What was the user's lowest SpO2 at 2026-02-06?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1718].value"
+    ],
+    "answer": "91.3846 %"
+  },
+  {
+    "question": "What was the user's body fat percentage at 2026-01-20?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[902].value"
+    ],
+    "answer": null
+  },
+  {
+    "question": "What was the user's 24-hour average diastolic blood pressure at 2026-02-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1839].value"
+    ],
+    "answer": "74.2884 mmHg"
+  },
+  {
+    "question": "What was the user's body mass index at 2026-01-25?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1139].value"
+    ],
+    "answer": "24.302 kg/m²"
+  },
+  {
+    "question": "What was the user's moderate activity time at 2026-01-01?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[26].value"
+    ],
+    "answer": "49.0289 minutes"
+  },
+  {
+    "question": "What was the user's training load at 2026-01-14?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[653].value"
+    ],
+    "answer": 92.0125
+  },
+  {
+    "question": "What was the user's sleep efficiency at 2026-02-06?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1731].value"
+    ],
+    "answer": "94.0732 %"
+  },
+  {
+    "question": "What was the user's moderate activity time at 2026-01-30?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1393].value"
+    ],
+    "answer": "41.7047 minutes"
+  },
+  {
+    "question": "What was the user's body fat percentage at 2026-01-25?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1138].value"
+    ],
+    "answer": "16.5092 %"
+  },
+  {
+    "question": "What was the user's maximum heart rate during exercise at 2026-01-14?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[636].value"
+    ],
+    "answer": "174.2582 bpm"
+  },
+  {
+    "question": "What was the user's resting heart rate at 2026-01-19?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[881].value"
+    ],
+    "answer": "50.9056 bpm"
+  },
+  {
+    "question": "What was the user's daily distance at 2026-01-30?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1378].value"
+    ],
+    "answer": "6276.3174 meters"
+  },
+  {
+    "question": "What was the user's training load at 2026-01-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[418].value"
+    ],
+    "answer": 81.0712
+  },
+  {
+    "question": "What was the user's 24-hour average systolic blood pressure at 2026-01-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[379].value"
+    ],
+    "answer": null
+  },
+  {
+    "question": "What was the user's 24-hour average diastolic blood pressure at 2026-02-03?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1556].value"
+    ],
+    "answer": "77.2967 mmHg"
+  },
+  {
+    "question": "What was the user's heart rate variability at 2026-01-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[396].value"
+    ],
+    "answer": "71.1158 ms"
+  },
+  {
+    "question": "What was the user's body weight at 2026-02-01?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1470].value"
+    ],
+    "answer": "77.1683 kg"
+  },
+  {
+    "question": "What was the user's training readiness at 2026-01-30?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1408].value"
+    ],
+    "answer": 67.6443
+  },
+  {
+    "question": "What was the user's wake after sleep onset at 2026-01-23?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1083].value"
+    ],
+    "answer": null
+  },
+  {
+    "question": "What was the user's sleep recovery score at 2026-01-04?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[177].value"
+    ],
+    "answer": 96.0354
+  },
+  {
+    "question": "What was the user's estimated VO2 max at 2026-02-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1881].value"
+    ],
+    "answer": "50.9706 mL/kg/min"
+  },
+  {
+    "question": "What was the user's total sleep time at 2026-01-11?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[511].value"
+    ],
+    "answer": "437.3503 minutes"
+  },
+  {
+    "question": "What was the user's training readiness at 2026-02-02?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1550].value"
+    ],
+    "answer": 76.837
+  },
+  {
+    "question": "What was the user's total sleep time at 2026-01-07?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[322].value"
+    ],
+    "answer": "458.602 minutes"
+  },
+  {
+    "question": "What was the user's lowest SpO2 at 2026-01-26?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1200].value"
+    ],
+    "answer": "93.3383 %"
+  },
+  {
+    "question": "What was the user's light activity time at 2026-02-01?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1481].value"
+    ],
+    "answer": "209.2831 minutes"
+  },
+  {
+    "question": "What was the user's sedentary time at 2026-01-17?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[787].value"
+    ],
+    "answer": "608.0329 minutes"
+  },
+  {
+    "question": "What was the user's 24-hour average systolic blood pressure at 2026-01-07?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[284].value"
+    ],
+    "answer": "113.0927 mmHg"
+  },
+  {
+    "question": "What was the user's wake after sleep onset at 2026-01-04?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[187].value"
+    ],
+    "answer": "10.2893 minutes"
+  },
+  {
+    "question": "What was the user's standing time at 2026-01-20?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[933].value"
+    ],
+    "answer": "108.8723 minutes"
+  },
+  {
+    "question": "What was the user's body fat percentage at 2026-01-26?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1185].value"
+    ],
+    "answer": "16.3336 %"
+  },
+  {
+    "question": "What was the user's vigorous activity time at 2026-01-07?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[326].value"
+    ],
+    "answer": "27.7749 minutes"
+  },
+  {
+    "question": "What was the user's daily average METs at 2026-01-21?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[953].value"
+    ],
+    "answer": "1.2973 METs"
+  },
+  {
+    "question": "What was the user's sleep latency at 2026-01-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[413].value"
+    ],
+    "answer": "5.7474 minutes"
+  },
+  {
+    "question": "What was the user's heart rate variability at 2026-02-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1857].value"
+    ],
+    "answer": "62.3203 ms"
+  },
+  {
+    "question": "What was the user's resting heart rate at 2026-02-01?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1494].value"
+    ],
+    "answer": "52.9775 bpm"
+  },
+  {
+    "question": "What was the user's body fat percentage at 2026-01-15?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[666].value"
+    ],
+    "answer": "16.628 %"
+  },
+  {
+    "question": "What was the user's body mass index at 2026-02-02?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1516].value"
+    ],
+    "answer": "24.3875 kg/m²"
+  },
+  {
+    "question": "What was the user's training readiness at 2026-01-31?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1455].value"
+    ],
+    "answer": 66.1899
+  },
+  {
+    "question": "What was the user's cardiorespiratory fitness at 2026-01-19?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[858].value"
+    ],
+    "answer": 49.7269
+  },
+  {
+    "question": "What was the user's cardiorespiratory fitness at 2026-01-24?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1093].value"
+    ],
+    "answer": 50.8382
+  },
+  {
+    "question": "What was the user's cardiorespiratory fitness at 2026-01-07?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[292].value"
+    ],
+    "answer": 49.1627
+  },
+  {
+    "question": "What was the user's training load at 2026-01-15?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[700].value"
+    ],
+    "answer": 79.3013
+  },
+  {
+    "question": "What was the user's daily exercise duration at 2026-01-22?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1002].value"
+    ],
+    "answer": "10.144 minutes"
+  },
+  {
+    "question": "What was the user's cardiorespiratory fitness at 2026-01-15?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[669].value"
+    ],
+    "answer": 48.8818
+  },
+  {
+    "question": "What was the user's body mass index at 2026-02-10?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1893].value"
+    ],
+    "answer": "24.7183 kg/m²"
+  },
+  {
+    "question": "What was the user's visceral fat level at 2026-02-02?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1554].value"
+    ],
+    "answer": "6.3329 level"
+  },
+  {
+    "question": "What was the user's lowest SpO2 at 2026-01-24?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1105].value"
+    ],
+    "answer": "93.3492 %"
+  },
+  {
+    "question": "What was the user's average heart rate during exercise at 2026-01-20?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[899].value"
+    ],
+    "answer": "114.6818 bpm"
+  },
+  {
+    "question": "What was the user's body weight at 2026-01-29?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1328].value"
+    ],
+    "answer": "77.0778 kg"
+  },
+  {
+    "question": "What was the user's training load at 2026-01-05?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[229].value"
+    ],
+    "answer": 85.4666
+  },
+  {
+    "question": "What was the user's estimated VO2 max at 2026-01-20?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[938].value"
+    ],
+    "answer": "50.2895 mL/kg/min"
+  },
+  {
+    "question": "What was the user's standing time at 2026-01-03?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[131].value"
+    ],
+    "answer": "120.3462 minutes"
+  },
+  {
+    "question": "What was the user's light activity time at 2026-01-28?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1292].value"
+    ],
+    "answer": "213.3047 minutes"
+  },
+  {
+    "question": "What was the user's training load at 2026-02-04?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1643].value"
+    ],
+    "answer": 125.1174
+  },
+  {
+    "question": "What was the user's daily exercise duration at 2026-01-24?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1096].value"
+    ],
+    "answer": "10.4957 minutes"
+  },
+  {
+    "question": "What was the user's sleep latency at 2026-01-06?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[271].value"
+    ],
+    "answer": "12.8653 minutes"
+  },
+  {
+    "question": "What was the user's deep sleep duration at 2026-01-19?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[864].value"
+    ],
+    "answer": "91.874 minutes"
+  },
+  {
+    "question": "What was the user's deep sleep duration at 2026-01-28?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1288].value"
+    ],
+    "answer": "83.2835 minutes"
+  },
+  {
+    "question": "What was the user's lowest SpO2 at 2026-01-19?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[870].value"
+    ],
+    "answer": "93.8113 %"
+  },
+  {
+    "question": "What was the user's 1-minute heart rate recovery at 2026-02-13?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[2044].value"
+    ],
+    "answer": "36.402 bpm"
+  },
+  {
+    "question": "What was the user's 1-minute heart rate recovery at 2026-02-04?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1620].value"
+    ],
+    "answer": "34.6439 bpm"
+  },
+  {
+    "question": "What was the user's training load at 2026-02-09?",
+    "question_type": "single-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1879].value"
+    ],
+    "answer": 123.8948
+  },
+  {
+    "question": "How did the user's 24-hour average diastolic blood pressure change from 2026-01-13 to 2026-01-24?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[566].time",
+      "timeline_26_filtered.json.entries[566].value",
+      "timeline_26_filtered.json.entries[1084].time",
+      "timeline_26_filtered.json.entries[1084].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-13T04:31:19",
+        "value": "73.7005 mmHg"
+      },
+      "end": {
+        "time": "2026-01-24T04:31:19",
+        "value": "75.4336 mmHg"
+      },
+      "change": "1.7331 mmHg",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's 24-hour average diastolic blood pressure change from 2026-01-24 to 2026-02-03?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1084].time",
+      "timeline_26_filtered.json.entries[1084].value",
+      "timeline_26_filtered.json.entries[1556].time",
+      "timeline_26_filtered.json.entries[1556].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-24T04:31:19",
+        "value": "75.4336 mmHg"
+      },
+      "end": {
+        "time": "2026-02-03T04:31:19",
+        "value": "77.2967 mmHg"
+      },
+      "change": "1.8631 mmHg",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's 24-hour average diastolic blood pressure change from 2026-02-03 to 2026-02-09?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1556].time",
+      "timeline_26_filtered.json.entries[1556].value",
+      "timeline_26_filtered.json.entries[1839].time",
+      "timeline_26_filtered.json.entries[1839].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-02-03T04:31:19",
+        "value": "77.2967 mmHg"
+      },
+      "end": {
+        "time": "2026-02-09T04:31:19",
+        "value": "74.2884 mmHg"
+      },
+      "change": "-3.0083 mmHg",
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's average heart rate during exercise change from 2026-01-05 to 2026-01-20?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[192].time",
+      "timeline_26_filtered.json.entries[192].value",
+      "timeline_26_filtered.json.entries[899].time",
+      "timeline_26_filtered.json.entries[899].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-05T04:31:19",
+        "value": "140.2031 bpm"
+      },
+      "end": {
+        "time": "2026-01-20T04:31:19",
+        "value": "114.6818 bpm"
+      },
+      "change": "-25.5213 bpm",
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's body battery score change from 2026-01-09 to 2026-01-13?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[383].time",
+      "timeline_26_filtered.json.entries[383].value",
+      "timeline_26_filtered.json.entries[571].time",
+      "timeline_26_filtered.json.entries[571].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-09T04:31:19",
+        "value": "71.7761 %"
+      },
+      "end": {
+        "time": "2026-01-13T04:31:19",
+        "value": "82.951 %"
+      },
+      "change": "11.1749 %",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's body fat percentage change from 2026-01-15 to 2026-01-25?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[666].time",
+      "timeline_26_filtered.json.entries[666].value",
+      "timeline_26_filtered.json.entries[1138].time",
+      "timeline_26_filtered.json.entries[1138].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-15T04:31:19",
+        "value": "16.628 %"
+      },
+      "end": {
+        "time": "2026-01-25T04:31:19",
+        "value": "16.5092 %"
+      },
+      "change": "-0.1188 %",
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's body fat percentage change from 2026-01-25 to 2026-01-26?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1138].time",
+      "timeline_26_filtered.json.entries[1138].value",
+      "timeline_26_filtered.json.entries[1185].time",
+      "timeline_26_filtered.json.entries[1185].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-25T04:31:19",
+        "value": "16.5092 %"
+      },
+      "end": {
+        "time": "2026-01-26T04:31:19",
+        "value": "16.3336 %"
+      },
+      "change": "-0.1756 %",
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's body mass index change from 2026-01-25 to 2026-02-02?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1139].time",
+      "timeline_26_filtered.json.entries[1139].value",
+      "timeline_26_filtered.json.entries[1516].time",
+      "timeline_26_filtered.json.entries[1516].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-25T04:31:19",
+        "value": "24.302 kg/m²"
+      },
+      "end": {
+        "time": "2026-02-02T04:31:19",
+        "value": "24.3875 kg/m²"
+      },
+      "change": "0.0855 kg/m²",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's body mass index change from 2026-02-02 to 2026-02-03?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1516].time",
+      "timeline_26_filtered.json.entries[1516].value",
+      "timeline_26_filtered.json.entries[1563].time",
+      "timeline_26_filtered.json.entries[1563].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-02-02T04:31:19",
+        "value": "24.3875 kg/m²"
+      },
+      "end": {
+        "time": "2026-02-03T04:31:19",
+        "value": "24.4497 kg/m²"
+      },
+      "change": "0.0622 kg/m²",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's body mass index change from 2026-02-03 to 2026-02-10?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1563].time",
+      "timeline_26_filtered.json.entries[1563].value",
+      "timeline_26_filtered.json.entries[1893].time",
+      "timeline_26_filtered.json.entries[1893].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-02-03T04:31:19",
+        "value": "24.4497 kg/m²"
+      },
+      "end": {
+        "time": "2026-02-10T04:31:19",
+        "value": "24.7183 kg/m²"
+      },
+      "change": "0.2686 kg/m²",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's body weight change from 2026-01-03 to 2026-01-29?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[102].time",
+      "timeline_26_filtered.json.entries[102].value",
+      "timeline_26_filtered.json.entries[1328].time",
+      "timeline_26_filtered.json.entries[1328].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-03T04:31:19",
+        "value": "78.1374 kg"
+      },
+      "end": {
+        "time": "2026-01-29T04:31:19",
+        "value": "77.0778 kg"
+      },
+      "change": "-1.0596 kg",
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's body weight change from 2026-01-29 to 2026-02-01?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1328].time",
+      "timeline_26_filtered.json.entries[1328].value",
+      "timeline_26_filtered.json.entries[1470].time",
+      "timeline_26_filtered.json.entries[1470].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-29T04:31:19",
+        "value": "77.0778 kg"
+      },
+      "end": {
+        "time": "2026-02-01T04:31:19",
+        "value": "77.1683 kg"
+      },
+      "change": "0.0905 kg",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's cardiorespiratory fitness change from 2026-01-07 to 2026-01-15?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[292].time",
+      "timeline_26_filtered.json.entries[292].value",
+      "timeline_26_filtered.json.entries[669].time",
+      "timeline_26_filtered.json.entries[669].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-07T04:31:19",
+        "value": 49.1627
+      },
+      "end": {
+        "time": "2026-01-15T04:31:19",
+        "value": 48.8818
+      },
+      "change": -0.2809,
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's cardiorespiratory fitness change from 2026-01-15 to 2026-01-19?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[669].time",
+      "timeline_26_filtered.json.entries[669].value",
+      "timeline_26_filtered.json.entries[858].time",
+      "timeline_26_filtered.json.entries[858].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-15T04:31:19",
+        "value": 48.8818
+      },
+      "end": {
+        "time": "2026-01-19T04:31:19",
+        "value": 49.7269
+      },
+      "change": 0.8451,
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's cardiorespiratory fitness change from 2026-01-19 to 2026-01-21?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[858].time",
+      "timeline_26_filtered.json.entries[858].value",
+      "timeline_26_filtered.json.entries[952].time",
+      "timeline_26_filtered.json.entries[952].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-19T04:31:19",
+        "value": 49.7269
+      },
+      "end": {
+        "time": "2026-01-21T04:31:19",
+        "value": 49.0263
+      },
+      "change": -0.7006,
+      "direction": "decreased"
+    }
+  },
+  {
+    "question": "How did the user's cardiorespiratory fitness change from 2026-01-21 to 2026-01-24?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[952].time",
+      "timeline_26_filtered.json.entries[952].value",
+      "timeline_26_filtered.json.entries[1093].time",
+      "timeline_26_filtered.json.entries[1093].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-21T04:31:19",
+        "value": 49.0263
+      },
+      "end": {
+        "time": "2026-01-24T04:31:19",
+        "value": 50.8382
+      },
+      "change": 1.8119,
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's daily average METs change from 2026-01-21 to 2026-02-07?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[953].time",
+      "timeline_26_filtered.json.entries[953].value",
+      "timeline_26_filtered.json.entries[1754].time",
+      "timeline_26_filtered.json.entries[1754].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-21T04:31:19",
+        "value": "1.2973 METs"
+      },
+      "end": {
+        "time": "2026-02-07T04:31:19",
+        "value": "1.6458 METs"
+      },
+      "change": "0.3485 METs",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's daily exercise duration change from 2026-01-22 to 2026-01-24?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[1002].time",
+      "timeline_26_filtered.json.entries[1002].value",
+      "timeline_26_filtered.json.entries[1096].time",
+      "timeline_26_filtered.json.entries[1096].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-22T04:31:19",
+        "value": "10.144 minutes"
+      },
+      "end": {
+        "time": "2026-01-24T04:31:19",
+        "value": "10.4957 minutes"
+      },
+      "change": "0.3517 minutes",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's daily step count change from 2026-01-14 to 2026-01-18?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[626].time",
+      "timeline_26_filtered.json.entries[626].value",
+      "timeline_26_filtered.json.entries[814].time",
+      "timeline_26_filtered.json.entries[814].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-14T04:31:19",
+        "value": "10335 steps"
+      },
+      "end": {
+        "time": "2026-01-18T04:31:19",
+        "value": "11397 steps"
+      },
+      "change": "1062 steps",
+      "direction": "increased"
+    }
+  },
+  {
+    "question": "How did the user's daily step count change from 2026-01-18 to 2026-01-22?",
+    "question_type": "multi-hop",
+    "ground_truth": [
+      "timeline_26_filtered.json.entries[814].time",
+      "timeline_26_filtered.json.entries[814].value",
+      "timeline_26_filtered.json.entries[1003].time",
+      "timeline_26_filtered.json.entries[1003].value"
+    ],
+    "answer": {
+      "start": {
+        "time": "2026-01-18T04:31:19",
+        "value": "11397 steps"
+      },
+      "end": {
+        "time": "2026-01-22T04:31:19",
+        "value": "3988 steps"
+      },
+      "change": "-7409 steps",
+      "direction": "decreased"
+    }
+  }
+]

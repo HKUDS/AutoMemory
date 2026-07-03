@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dividend Investors, It's Time To Raise Cash, Here's Why",
+      "description": "The combination of the market's valuation and the lingering economic risks tilts my preference toward raising cash. Read more on what, I think, are good buys in the market.",
+      "published_utc": "2025-05-10T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a150267c8d3e0bc41f65942a6bcc727267ce96b659014d0a86febe985b2efac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1286932644/image_1286932644.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134365159,
+      "datetime": 1746864300
+    }
+  ]
+}

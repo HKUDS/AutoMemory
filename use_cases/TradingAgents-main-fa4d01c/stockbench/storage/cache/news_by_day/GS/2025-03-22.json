@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of March 23",
+      "description": "Stay updated with weekly dividend activity for Champions, Contenders, and Challengers. Learn about changes, ex-dividend dates, and upcoming pay dates.",
+      "published_utc": "2025-03-22T08:31:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a00a20610d7c0e7c3f3efd7fa8ee5ab49b5686743cf4228ce0455695ca1bb661",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455774438/image_1455774438.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133312311,
+      "datetime": 1742603490
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (CRM): Among Billionaire Ken Fisher’s Top Growth Stock Picks",
+      "description": "We recently published a list of Billionaire Ken Fisher’s Top 13 Growth Stock Picks. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other billionaire Ken Fisher’s top growth stock picks. “Who am I to tell you anything, much less anything that counts? Or that there are […]",
+      "published_utc": "2025-03-30T07:17:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9650476a2718d556f06f1ec8543feee9584d22f22db29011f29b58a350948d75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133581709,
+      "datetime": 1743290260
+    },
+    {
+      "title": "AI Agents Are a Moment of Truth for Tech",
+      "description": "All emerging technology needs to deliver on its promise, sooner or later. For AI agents, that time is now.",
+      "published_utc": "2025-03-29T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1616733e22c0569bf54ebeb1bde5de74d69eacece8067045aa74d132c3831c41",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133581710,
+      "datetime": 1743249600
+    },
+    {
+      "title": "Does Salesforce (NYSE:CRM) Deserve A Spot On Your Watchlist?",
+      "description": "For beginners, it can seem like a good idea (and an exciting prospect) to buy a company that tells a good story to...",
+      "published_utc": "2025-03-29T19:00:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0bda95f77430eac2e935aeb54cc633702e152561a99e07698e46fdeeb80efa3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133581711,
+      "datetime": 1743246056
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:24:20.975425+00:00",
+    "cache_key": "news_faef7e94a2fd77c9e12b5572b995c5a0",
+    "count": 3
+  }
+}

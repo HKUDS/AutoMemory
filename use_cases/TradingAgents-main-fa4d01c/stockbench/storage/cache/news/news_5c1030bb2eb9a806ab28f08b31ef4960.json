@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Mastercard Is One of the Largest Financial Companies by Market Cap. But Is It a Buy?",
+      "description": "Mastercard's simple but lucrative business model has powered it to a market cap approaching $500 billion.  With a market cap of nearly $500 billion, Mastercard (NYSE: MA) is a true corporate giant.  Like its chief rival Visa, Mastercard has a business model based on payment processing.",
+      "published_utc": "2025-06-30T03:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fce97ee5d02fae6f1ff198d86c76c7c6507525c3335c797426dcbea9248e74f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135634987,
+      "datetime": 1751226840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:57.610568+00:00",
+    "cache_key": "news_5c1030bb2eb9a806ab28f08b31ef4960",
+    "count": 1
+  }
+}

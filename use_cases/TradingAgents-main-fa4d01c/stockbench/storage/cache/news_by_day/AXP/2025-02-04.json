@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "PFO: No Real Advantages Over Peers",
+      "description": "PFO offers a 6.62% yield, but it underperforms compared to its peers in both yield and total return. Click here to find out why I am neutral on PFO.",
+      "published_utc": "2025-02-04T18:51:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9212b84db9c88229a3ea7e992132c78afd4d56262558cea4ba88baeda7bb6b0f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/145671149/image_145671149.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543485,
+      "datetime": 1738666305
+    },
+    {
+      "title": "28.4% of Warren Buffett's $303 Billion Portfolio Is Invested in 3 Stocks He Plans to Hold Forever",
+      "description": "Despite selling off lots of Berkshire's top positions, these three look safe from the chopping block.",
+      "published_utc": "2025-02-04T17:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d686352e17411bcaa147870fd05d7182566970dbfabd593e49f59113a8ae7056",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/806043/buffett11-tmf.jpg",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132604986,
+      "datetime": 1738659900
+    }
+  ]
+}

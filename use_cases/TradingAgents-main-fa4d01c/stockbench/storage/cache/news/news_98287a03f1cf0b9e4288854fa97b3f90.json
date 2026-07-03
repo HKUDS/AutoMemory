@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Just Sparked a $210M Green Finance Revolution--Here's What It Means for Carbon Markets",
+      "description": "A first-of-its-kind deal could finally unlock institutional money for carbon credits--and Microsoft's already in.",
+      "published_utc": "2025-07-23T06:43:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e17821268c73749956873bd95550312cf3b4e70fc1f4600c4d7adf3eebac44f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038192,
+      "datetime": 1753224214
+    },
+    {
+      "title": "Figma’s Auction-Like IPO Set Up to Capitalize on Strong Demand",
+      "description": "(Bloomberg) -- Figma Inc. is running its IPO more like an auction than a traditional listing, in an effort to wring the most out of its highly anticipated public debut.Most Read from BloombergTrump Awards $1.26 Billion Contract to Build Biggest Immigrant Detention Center in USWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionSalt Lake City Turns Winter Olympic Bid Into Statewide Bond BoomMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build",
+      "published_utc": "2025-07-23T04:30:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ccc05d4267abf25b9da7635711d4fb33bd2a15af8a71bdfb6983abb1881c593",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038193,
+      "datetime": 1753216244
+    },
+    {
+      "title": "The Node: JPM’s BTC Lending Play",
+      "description": "One of the trends that I’m keeping an eye on is the growing availability of bitcoin-backed loans. Let’s check in on the sector real quick.",
+      "published_utc": "2025-07-23T03:57:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb744b6fd8a0aee38fed567e82080548014bc2e4f6314bd9f864aae313bb3b86",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136038194,
+      "datetime": 1753214259
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Partners With Tech Mahindra To Enhance Global Payment Solutions",
+      "description": "JPMorgan Chase (JPM) made headlines recently with Tech Mahindra joining its Payments System Integrator Program, aligning for enhanced global payment infrastructure. Concurrent initiatives like the launch of Solo 401(k), featuring flexibility for solo entrepreneurs, and improvements to the Self-Directed Investing Platform reflect JPM's focus on diversified service expansion. These developments, alongside broader market moves, might have contributed to the 21% price increase last quarter...",
+      "published_utc": "2025-07-23T01:34:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=033393222c39e4debd9ab18b15978ed74a5569b4a0a6d74f802f833482abe173",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033297,
+      "datetime": 1753205654
+    },
+    {
+      "title": "Figma’s IPO Seeks $13B Valuation in Latest Tech Debut. How It Stacks Up to Adobe.",
+      "description": "The design software start-up filed the terms of its upcoming initial public offering, with plans to sell 37 million shares at $25 to $28 a share.",
+      "published_utc": "2025-07-22T20:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12fb1eeecb0077c1f8838f9877d2fb3ee08cbf9f8fad6370c154c60bd6706b5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031214,
+      "datetime": 1753188660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:57.178098+00:00",
+    "cache_key": "news_98287a03f1cf0b9e4288854fa97b3f90",
+    "count": 5
+  }
+}

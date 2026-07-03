@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Amgen Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-03-26T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f5f9b023f465a34d88f50e212e011c7f858568ebb1281c490d703900cc4c6fb5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133451251,
+      "datetime": 1742920500
+    },
+    {
+      "title": "S&P 500 struggles to extend its relief rally. Here are the stocks capping market upside.",
+      "description": "S&P 500 struggles to extend its relief rally. Here are the stocks capping market upside.",
+      "published_utc": "2025-03-25T22:14:56",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d26e7f58a653e3fd29bc58e94abb039bec22520071ab0039419d4d6a620439f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133448536,
+      "datetime": 1742912096
+    },
+    {
+      "id": "0bd7b3a657f6bdecdb0b43a384ce857420da5a9611577b273ab8fd064f809573",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Pharma and Biotech Stocks Got Thrashed on Tuesday",
+      "author": "Eric Volkman",
+      "published_utc": "2025-03-25T22:47:05Z",
+      "article_url": "https://www.fool.com/investing/2025/03/25/why-pharma-and-biotech-stocks-got-thrashed-on-tues/?source=iedfolrf0000001",
+      "tickers": [
+        "AMGN",
+        "REGN",
+        "MRK",
+        "AXSM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/812504/person-in-a-lab-gazing-into-a-microscope.jpg",
+      "description": "Biotech and pharmaceutical stocks fell sharply on Tuesday amid concerns over potential tariffs on the industry by the Trump administration. While some positive news emerged, such as Merck's licensing deal, the overall sentiment was negative due to the uncertainty surrounding the proposed tariffs.",
+      "keywords": [
+        "biotech",
+        "pharmaceutical",
+        "tariffs",
+        "Amgen",
+        "Regeneron Pharmaceuticals",
+        "Merck",
+        "Axsome Therapeutics"
+      ],
+      "insights": [
+        {
+          "ticker": "AMGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amgen's stock declined by more than 2% due to the broader market sell-off in the biotech and pharmaceutical sectors caused by concerns over potential tariffs."
+        },
+        {
+          "ticker": "REGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Regeneron Pharmaceuticals' stock fell by more than 4% due to the broader market sell-off in the biotech and pharmaceutical sectors caused by concerns over potential tariffs."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Merck signed a deal to license a potential blockbuster heart disease drug from its Chinese peer Jiangsu Hengrui Pharmaceuticals, which could be worth up to almost $2 billion, indicating a positive development for the company."
+        },
+        {
+          "ticker": "AXSM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Axsome Therapeutics' stock declined by nearly 7% due to the broader market sell-off in the biotech and pharmaceutical sectors caused by concerns over potential tariffs."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:22:27.169916+00:00",
+    "cache_key": "news_bf454cb5674d4c217255a168e6e4d03b",
+    "count": 3
+  }
+}

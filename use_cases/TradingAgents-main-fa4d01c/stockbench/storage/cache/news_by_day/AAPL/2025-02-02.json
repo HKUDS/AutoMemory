@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "What’s worth streaming on Netflix, Max, Hulu and more in February 2025 — and which subscriptions to stop",
+      "description": "What’s worth streaming on Netflix, Max, Hulu and more in February 2025 — and which subscriptions to stop",
+      "published_utc": "2025-02-02T23:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a7c8e3de38a0a7fe8e8f9b968c3c8776644401e3763c52b1b6a3efabd44ea032",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520616,
+      "datetime": 1738511160
+    },
+    {
+      "title": "Templeton Growth Fund Q4 2024 Commentary",
+      "description": "During Q4 2024, global stocks were pressured by investor concerns about economic growth, persistent inflation in some regions and the uncertain path of interest-rate cuts in 2025.",
+      "published_utc": "2025-02-02T21:32:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5dc72c089e5dfa345da04b4165b1796b41709eb8d52e55aec7d6af0047f8e340",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1158571591/image_1158571591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132515763,
+      "datetime": 1738503120
+    },
+    {
+      "title": "Canada, Mexico Hit Back Against Trump Tariffs. Markets Brace for Impact As Trade War Kicks Off.",
+      "description": "Canada, Mexico Hit Back Against Trump Tariffs. Markets Brace for Impact As Trade War Kicks Off.",
+      "published_utc": "2025-02-02T21:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6cf5f165ea57757c049c6f4edea9f40f9d6a095d3333eef98c6ff26f5a69f31a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520617,
+      "datetime": 1738502700
+    },
+    {
+      "title": "Lockheed Martin’s Pension Bought Nvidia, Apple, Broadcom Stock. It Sold Walmart.",
+      "description": "Lockheed Martin’s Pension Bought Nvidia, Apple, Broadcom Stock. It Sold Walmart.",
+      "published_utc": "2025-02-02T11:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=becd630bb514b5e8873378fa66529058f35ced561144eb48f4a09b15320fedd7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520618,
+      "datetime": 1738465200
+    }
+  ]
+}

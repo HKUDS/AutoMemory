@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Cathie Wood Targets Investor Jitters With Buffer ETFs Designed to Limit Equity Losses",
+      "description": "(Bloomberg) -- Cathie Wood’s Ark Investment Management LLC is moving into the fast-growing market for buffer ETFs designed to limit equity losses, at a time when her tech funds continue to bleed assets.Most Read from BloombergAre Tourists Ruining Europe? How Locals Are Pushing BackForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsTrump’s Gilded Design Style May Be Gaudy. But Don’t Call it ‘Rococo.’Denver City Hall Takes a Page From NASAIn California, Pro-Housing ‘Abundance’ Fans Rewrite",
+      "published_utc": "2025-07-07T23:43:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84a47a639fbc4272936c1d64923533edf3125758fedfa38dd12affeb311fb1c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135789118,
+      "datetime": 1751902999
+    },
+    {
+      "title": "Goldman Sachs Q2 Earnings Preview: M&A Outlook Should Become More Clear",
+      "description": "Goldman Sachs: Momentum-driven BUY rating despite slight overvaluation. Watch for Q2 earnings, M&A outlook, and asset management performance.",
+      "published_utc": "2025-07-07T22:42:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c2757ec555501bc25f520b5a337b4a67c9ec1375109851dcd749de04b398d4a7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365592578/image_1365592578.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787971,
+      "datetime": 1751899339
+    },
+    {
+      "title": "A Relaxing Week Ahead in the Stock Market?",
+      "description": "Pre-market futures are taking a little off the top this morning: -18 points on the S&P 500, -31 points on the Dow and -98 points on the Nasdaq.",
+      "published_utc": "2025-07-07T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d75112dfb719b7dae2f86ca0511fa217f1510624b451a8701823cb5067b6ff0c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135787229,
+      "datetime": 1751897700
+    }
+  ]
+}

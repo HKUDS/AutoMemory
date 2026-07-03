@@ -1,0 +1,69 @@
+{
+  "showcase": "sequential-pytest",
+  "source": "SWE-Bench-CL (pytest-dev/pytest sequence)",
+  "dataset": "SWE-bench/SWE-bench_Verified",
+  "repo": "pytest-dev/pytest",
+  "sessions": [
+    {
+      "order": 1,
+      "instance_id": "pytest-dev__pytest-5262",
+      "difficulty": "easy",
+      "focus": "capture warm-up: EncodedFile.mode must not advertise binary 'b' (capture stream vs text write)",
+      "expected_files": [
+        "src/_pytest/capture.py"
+      ],
+      "prompt": "Fix the following pytest issue:\n\n{problem_statement}\n\nThe repository is checked out at {base_commit}. Generate a minimal patch to fix this issue."
+    },
+    {
+      "order": 2,
+      "instance_id": "pytest-dev__pytest-7432",
+      "difficulty": "easy",
+      "focus": "skip/reporting entry: --runxfail breaks pytest.mark.skip location reporting (pytest_runtest_makereport)",
+      "expected_files": [
+        "src/_pytest/skipping.py"
+      ],
+      "prompt": "Fix the following pytest issue:\n\n{problem_statement}\n\nThe repository is checked out at {base_commit}. Generate a minimal patch to fix this issue."
+    },
+    {
+      "order": 3,
+      "instance_id": "pytest-dev__pytest-8399",
+      "difficulty": "medium",
+      "focus": "unittest integration entry: private generated unittest/xunit fixture names for --fixtures listing",
+      "expected_files": [
+        "src/_pytest/unittest.py",
+        "src/_pytest/python.py"
+      ],
+      "prompt": "Fix the following pytest issue:\n\n{problem_statement}\n\nThe repository is checked out at {base_commit}. Generate a minimal patch to fix this issue."
+    },
+    {
+      "order": 4,
+      "instance_id": "pytest-dev__pytest-10081",
+      "difficulty": "easy",
+      "focus": "unittest integration transfer: --pdb should not run tearDown for class-level skipped unittest.TestCase",
+      "expected_files": [
+        "src/_pytest/unittest.py"
+      ],
+      "prompt": "Fix the following pytest issue:\n\n{problem_statement}\n\nThe repository is checked out at {base_commit}. Generate a minimal patch to fix this issue."
+    },
+    {
+      "order": 5,
+      "instance_id": "pytest-dev__pytest-7571",
+      "difficulty": "medium",
+      "focus": "logging/caplog entry: caplog fixture should restore handler/logger levels after test (set_level teardown)",
+      "expected_files": [
+        "src/_pytest/logging.py"
+      ],
+      "prompt": "Fix the following pytest issue:\n\n{problem_statement}\n\nThe repository is checked out at {base_commit}. Generate a minimal patch to fix this issue."
+    },
+    {
+      "order": 6,
+      "instance_id": "pytest-dev__pytest-10051",
+      "difficulty": "medium",
+      "focus": "logging/caplog transfer: caplog.get_records vs caplog.clear list identity (LogCaptureHandler.reset)",
+      "expected_files": [
+        "src/_pytest/logging.py"
+      ],
+      "prompt": "Fix the following pytest issue:\n\n{problem_statement}\n\nThe repository is checked out at {base_commit}. Generate a minimal patch to fix this issue."
+    }
+  ]
+}

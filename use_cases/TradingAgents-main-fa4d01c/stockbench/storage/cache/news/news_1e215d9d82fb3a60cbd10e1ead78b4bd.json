@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Group Inc. stock underperforms Monday when compared to competitors",
+      "description": "Goldman Sachs Group Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-05-20T00:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=645620ecbc57fb856fc661b73d9e8c3421151a1b9d13bf63746b7bce5ea8a025",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134613500,
+      "datetime": 1747672440
+    },
+    {
+      "title": "How investors can defensively position for whatever comes next",
+      "description": "Markets (^GSPC, ^IXIC, ^DJI) are climbing, but some investors are shifting to a more defensive stance. Crossmark Global Investments CEO and CIO Bob Doll joins Wealth host Brad Smith to explain why he’s favoring high cash flow and profitable names like Visa (V), Mastercard (MA), and Goldman Sachs (GS). To watch more expert insights and analysis on the latest market action, check out more Wealth here.",
+      "published_utc": "2025-05-19T18:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=654cefd43cbc3dd584e0ecd4fcc49bd2c300b4e598f316ded5b701ae28e2040c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577166,
+      "datetime": 1747648809
+    },
+    {
+      "title": "Morgan Stanley’s Wilson Says Buy US Stock Dips After Moody’s Cut",
+      "description": "(Bloomberg) -- Investors should buy any dips in US stocks fueled by Friday’s credit rating cut, as the trade truce with China has reduced the odds of a recession, according to Morgan Stanley’s Michael Wilson.Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Strike LoomsThe strateg",
+      "published_utc": "2025-05-19T17:45:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=791b925e7cfc5aeb723dfbc1a5881e00f11b12725124c172075694ea2a8c7354",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577279,
+      "datetime": 1747647938
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:10.070456+00:00",
+    "cache_key": "news_1e215d9d82fb3a60cbd10e1ead78b4bd",
+    "count": 3
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Trump is hailing $2 trillion in new company investments. Most of it comes from Big Tech.",
+      "description": "President Trump has touted $2 trillion in new company investments since Inauguration Day. The lion's share comes from Big Tech, according to a Yahoo Finance analysis.",
+      "published_utc": "2025-05-10T20:30:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=015bfcfa27fbdd5da8a308257bbfad77ef111ca3dc36774cd42208e727699d6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134378387,
+      "datetime": 1746880234
+    },
+    {
+      "title": "30 AI stocks that could surge up to 73% — and are loved by a bullish tech analyst",
+      "description": "30 AI stocks that could surge up to 73% — and are loved by a bullish tech analyst",
+      "published_utc": "2025-05-10T16:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d3b045daf208ae45c5e03ff89465e64d81e7aef1125bcb88e36d490b59d68c8a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134382270,
+      "datetime": 1746865800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:41:42.865799+00:00",
+    "cache_key": "news_089938e520330b17568e1f762bf6bcec",
+    "count": 2
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "With 81% institutional ownership, Amgen Inc. (NASDAQ:AMGN) is a favorite amongst the big guns",
+      "description": "Key Insights Institutions' substantial holdings in Amgen implies that they have significant influence over the...",
+      "published_utc": "2025-05-24T22:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1350280c39791708b9a255e204ec6c908a24144003663fdf7d8c7d80e0085685",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694406,
+      "datetime": 1748095211
+    },
+    {
+      "title": "The Smartest High-Yielding Dividend Stocks in the Nasdaq Composite Index to Buy With $1,500 Right Now",
+      "description": "Investors may prefer to hunt for strong dividends right now, as opposed to playing in the volatile stock market.  While not as many can be found in the tech-heavy Nasdaq Composite Index, there are still several stocks with strong dividends.  Good dividend companies have a solid history of regularly paying dividends, and generate enough free cash flow to keep paying the dividend.",
+      "published_utc": "2025-05-24T19:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c9f50a6cf1d96429fab0c570b4b975109b5db882b79b0c8b44b64677cadccf2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694407,
+      "datetime": 1748085300
+    },
+    {
+      "title": "U.S. Pharmaceutical Imports Might Soon Face Tariffs: 3 Stocks That Could Tumble as a Result",
+      "description": "There's little doubt these pharmaceutical companies' costs will soon be rising at least a little.",
+      "published_utc": "2025-05-24T16:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f719299cacc96fc5be15fbc21c37ddcc0b119b8362ed348a4ed92cbb30f31719",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694325,
+      "datetime": 1748074260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:47:04.203425+00:00",
+    "cache_key": "news_7fca7111d96273978b48386ffe7675f0",
+    "count": 3
+  }
+}

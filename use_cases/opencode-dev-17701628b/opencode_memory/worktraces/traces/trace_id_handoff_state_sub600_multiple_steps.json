@@ -1,0 +1,92 @@
+{
+  "trace_id": "trace_id_handoff_state_sub600_multiple_steps",
+  "eval_mode": "qa",
+  "category": "adversarial",
+  "description": "Escalation: sub-600 character handoff formatting should still preserve multiple critical short next steps when budget remains.",
+  "turns": [
+    { "role": "user", "content": "Prepare fraud rules migration handoff.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Collected the migration state.", "used_for_evaluation": false },
+    { "role": "tool", "content": "read_file inspected fraud rules and queue worker.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Noise before compaction.", "used_for_evaluation": false },
+    {
+      "role": "system",
+      "content": "compaction produced handoff",
+      "used_for_evaluation": true,
+      "metadata": {
+        "handoff": {
+          "goal": "Finish fraud rules migration while preserving review queue behavior.",
+          "constraints": "Do not change the public rule schema before risk review signs off.",
+          "done": ["Mapped legacy rule IDs to the new migration table."],
+          "inProgress": ["Reconciling review queue replay against the new fraud rule evaluator."],
+          "blockers": ["Risk review must approve the high-value transaction threshold."],
+          "decisions": ["Use fraud_rule_v2_shadow as the migration flag."],
+          "nextSteps": [
+            "Run replay diff",
+            "Patch rule mapper",
+            "Regenerate queue fixture",
+            "Restart fraud worker",
+            "Ping risk reviewer",
+            "Update rollback note",
+            "Verify shadow metrics"
+          ],
+          "files": [
+            "packages/fraud/src/rules/migrate.ts",
+            "packages/fraud/test/review-queue.test.ts"
+          ],
+          "evidenceSessionID": "handoff-sub600"
+        }
+      }
+    },
+    { "role": "agent", "content": "The compact prompt budget is crowded by other system context.", "used_for_evaluation": false },
+    { "role": "user", "content": "Later chatter about unrelated docs.", "used_for_evaluation": false },
+    { "role": "agent", "content": "End of relevant work.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker one", "used_for_evaluation": false },
+    { "role": "tool", "content": "formatter check succeeded.", "used_for_evaluation": false },
+    { "role": "agent", "content": "No source edits in this trace.", "used_for_evaluation": false },
+    { "role": "user", "content": "Keep critical resume steps visible.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Acknowledged.", "used_for_evaluation": false },
+    { "role": "tool", "content": "rg checked unrelated migration notes.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Trace complete.", "used_for_evaluation": false },
+    { "role": "system", "content": "retention flush marker two", "used_for_evaluation": false },
+    { "role": "user", "content": "Noise about release notes.", "used_for_evaluation": false },
+    { "role": "agent", "content": "Done.", "used_for_evaluation": false }
+  ],
+  "recall_queries": [
+    {
+      "query": "What is the first fraud migration next step?",
+      "metadata": { "maxChars": 560 },
+      "expected_information": [
+        { "value": "Run replay diff", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What mapper action remains in the handoff?",
+      "metadata": { "maxChars": 560 },
+      "expected_information": [
+        { "value": "Patch rule mapper", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What queue fixture action remains in the handoff?",
+      "metadata": { "maxChars": 560 },
+      "expected_information": [
+        { "value": "Regenerate queue fixture", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What worker action remains in the handoff?",
+      "metadata": { "maxChars": 560 },
+      "expected_information": [
+        { "value": "Restart fraud worker", "matcher": "substring" }
+      ]
+    },
+    {
+      "query": "What blocker and source file remain visible?",
+      "metadata": { "maxChars": 560 },
+      "expected_information": [
+        { "value": "Risk review must approve", "matcher": "substring" },
+        { "value": "packages/fraud/src/rules/migrate.ts", "matcher": "substring" }
+      ]
+    }
+  ]
+}

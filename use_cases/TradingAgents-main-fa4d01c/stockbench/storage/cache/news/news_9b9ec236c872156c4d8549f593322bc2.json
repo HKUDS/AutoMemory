@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple (AAPL) Gets $235 Price Target from Morgan Stanley After China iPhone Demand Surprises",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the 12 AI Stocks Every Investor Should Be Watching. On June 13, Morgan Stanley reiterated the stock as “Overweight” with a $235 price target. The investment bank said that its Apple checks demonstrate how iPhone and iPad estimates are tracking ahead. The firm also said the iPhone and iPad sell-through in […]",
+      "published_utc": "2025-06-17T07:32:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dca2aeab95f3bea0a006edf6a058b6b320e2681056300c2628b99b588ac6c857",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135313480,
+      "datetime": 1750116769
+    },
+    {
+      "title": "New Buffett-Inspired ETF Holds Berkshire and Apple. It Aims for 15% Yield.",
+      "description": "The ETF, which finished Wednesday at $19.15, is one of many that use the sale, or writing, of call options to augment income.",
+      "published_utc": "2025-06-17T06:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=793cd36ac4671652a56c1259c4549e4ddd9e58c9437f66a51be8f8eb27140509",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312148,
+      "datetime": 1750112280
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q1 2025 Update",
+      "description": "AQR Capital's Q1'25 portfolio hits $97.07B, with top picks in AAPL, NVDA, & AMZN. Active portfolio adjustments show a quantitative, diversified approach. See more.",
+      "published_utc": "2025-06-17T05:09:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51b45bd42e92498ec52abd010edf461044394127b04a8428f9c402a3b43b4ef8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312158,
+      "datetime": 1750108183
+    },
+    {
+      "title": "Life360 Stock Rises On Upbeat Report For Family Tracker Service",
+      "description": "Life360 stock rose Monday after a Wall Street analyst raised his price target on the family connection and safety company.",
+      "published_utc": "2025-06-17T04:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6d3b8270d8db1b9bca8460d2375ceba287f24a8ac977e7da4ced5e5e10093bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312522,
+      "datetime": 1750106589
+    },
+    {
+      "title": "Herbal Medicine Stock With No Sales Rallies 64,000%",
+      "description": "(Bloomberg) -- A biotech stock focused on herbal medicine has surged by more than 46,000% so far this year and yet, the company itself has made zero revenue — much less turned a profit. Most Read from BloombergAs Part of a $45 Billion Push, ICE Prepares for a Vast Expansion of Detention SpaceAs American Architects Gather in Boston, Retrofits Are All the RageThe unbelievable rally has transformed Regencell Bioscience Holdings Limited, a penny stock as recently as April, to one worth nearly $30 bi",
+      "published_utc": "2025-06-17T04:30:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=362d34fd8b45101d56b00b8d01c5a889c0f8964f77ce24e642ca00746c262dca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312360,
+      "datetime": 1750105818
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:57:05.940067+00:00",
+    "cache_key": "news_9b9ec236c872156c4d8549f593322bc2",
+    "count": 5
+  }
+}

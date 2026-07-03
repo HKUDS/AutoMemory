@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "How To Buy Low And Sell High Consistently For Lifelong Wealth",
+      "description": "",
+      "published_utc": "2025-04-12T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=98245e313a1904662c3f16550cb0717c1994123cf8eff3760881c035898779cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133894505,
+      "datetime": 1744446600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:30:32.165766+00:00",
+    "cache_key": "news_18043586384c0117bcf3f4c176fb67f1",
+    "count": 1
+  }
+}

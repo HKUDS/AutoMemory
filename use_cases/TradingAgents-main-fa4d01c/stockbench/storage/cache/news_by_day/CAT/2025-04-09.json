@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. Maintains Dividend",
+      "description": "The Board of Directors of Caterpillar Inc. (NYSE: CAT) voted today to maintain the quarterly dividend of one dollar and forty-one cents ($1.41) per share of common stock, payable May 20, 2025, to shareholders of record at the close of business on April 21, 2025.",
+      "published_utc": "2025-04-09T20:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=944ee8e92174e846f4b9926e78ca284d9bdc798ca63ea7ccb4bad6c692c9c657",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828438,
+      "datetime": 1744203540
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "BOEING CO : Jefferies reiterates its Buy rating",
+      "description": "Jefferies analyst Sheila Kahyaoglu maintains his Buy rating on the stock. The target price is unchanged at USD 250.",
+      "published_utc": "2025-06-25T23:41:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=de18a3d74837dd0ca5f92f555d196b921a8a1f117a401509fd78c5aa0274aecb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135528104,
+      "datetime": 1750866074
+    }
+  ]
+}

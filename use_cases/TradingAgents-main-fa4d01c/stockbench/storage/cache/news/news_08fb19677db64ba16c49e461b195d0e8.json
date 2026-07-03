@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q1 2025 Update",
+      "description": "Appaloosaâs Q1 2025 portfolio value surged to $8.38B, with 39 holdings. Check out the major new bets and significant stake increases here.",
+      "published_utc": "2025-05-20T06:54:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=571b5fd48a654bb868cb2b6d859320d89d5a354aa0d0e9a754415714558138ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604514,
+      "datetime": 1747695282
+    },
+    {
+      "title": "Judge pressures Apple to approve Fortnite or return to court",
+      "description": "A federal judge is asking Apple to approve Fortnite's submission on the U.S. App Store or return to court to explain the legal basis as to why it has not done so. In a new filing, U.S. District Judge Yvonne Gonzalez Rogers confirms the court has received Epic Games' latest motion, where it demands that Apple approve Fortnite for distribution on the App Store. The clearly annoyed judge asks Apple to show the court the \"legal authority upon which Apple contends that it can ignore this Court's orde",
+      "published_utc": "2025-05-20T05:16:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=927c4a59aef8a1e5b035ae692a170b0a89cad0084707f3925bb70567adee3c82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608926,
+      "datetime": 1747689390
+    },
+    {
+      "title": "Apple approves Spotify update so US users can buy audiobooks within the app",
+      "description": "Spotify announced on Monday that Apple has approved a new app update, allowing iPhone users in the U.S. to purchase individual audiobooks directly within the app. Users can also view audiobook prices and easily buy additional listening hours beyond the initial 15 hours. “This change lowers the barriers for more users to embrace their first -- or tenth -- audiobook, while allowing publishers and authors to reach fans and access new audiences seamlessly,” the company wrote in the announcement. Thi",
+      "published_utc": "2025-05-20T05:09:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71fd0d2d296918ecf4bf109e2fb1db0d374b1f66eac38a0ef2d96f8fddd770e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608927,
+      "datetime": 1747688961
+    },
+    {
+      "title": "Sector Update: Tech Stocks Retreat Late Afternoon",
+      "description": "Tech stocks were lower in late Monday afternoon trading, with the Technology Select Sector SPDR Fund",
+      "published_utc": "2025-05-20T03:59:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f15c3601460e408f9dc2a7026bfd24acb977e1be18415476797fd107cf6090cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134608928,
+      "datetime": 1747684742
+    },
+    {
+      "title": "Alibaba Tumbles as Apple AI Pact Faces Scrutiny",
+      "description": "Alibaba stock falls sharply as White House questions iPhone AI integration in China",
+      "published_utc": "2025-05-20T03:36:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a6533fd91ea8d5e7fb929eaabbcba53dc988c96aa1c2b8cff1e7ab992234cd7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601463,
+      "datetime": 1747683397
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:45:38.308117+00:00",
+    "cache_key": "news_08fb19677db64ba16c49e461b195d0e8",
+    "count": 5
+  }
+}

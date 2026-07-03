@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Flipping Burgers - McDonald's And Restaurant Brands International Revisited",
+      "description": "'Flipping Burger' strategy leveraging McDonald's (MCD) and Restaurant Brands (QSR) stock valuations. Read here for a review of the relative performance of the pair.",
+      "published_utc": "2025-07-19T10:25:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3bcadce56c8f02f879a58844879ce9969ea780680fc572d9569aa9e08b816821",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488106782/image_488106782.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136011205,
+      "datetime": 1752891907
+    }
+  ]
+}

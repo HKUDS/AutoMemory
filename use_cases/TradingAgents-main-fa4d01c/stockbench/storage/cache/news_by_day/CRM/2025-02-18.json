@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Harding Loevner Global Equity ADR Q4 2024 Report",
+      "description": "Harding Loevner Global Equity ADR composite fell 1.12% (gross) in Q4 2024, compared with the 0.89% decline of the MSCI ACWI Index. Click here to read more.",
+      "published_utc": "2025-02-18T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=945203791e50bd4f0e8d96824a2b7b3492080c9411c3d1bf6358e65e6fe70196",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/172483014/image_172483014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767114,
+      "datetime": 1739865600
+    }
+  ]
+}

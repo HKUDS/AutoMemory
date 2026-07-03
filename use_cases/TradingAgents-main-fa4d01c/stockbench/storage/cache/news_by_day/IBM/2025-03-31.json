@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow's 113-point rally led by gains for shares of Amgen, IBM",
+      "description": "Dow's 113-point rally led by gains for shares of Amgen, IBM",
+      "published_utc": "2025-03-31T19:41:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b1fb324310d32eea420b654186992bd8c2d3679e66c43181f1bbace1b43b05e5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133635908,
+      "datetime": 1743421260
+    }
+  ]
+}

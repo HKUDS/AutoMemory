@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "3 Things to Know About Amazon Stock Before You Buy",
+      "description": "Despite its massive size, with 2024 sales of $638 billion, Amazon should be able to grow revenue at a healthy pace for the foreseeable future.  CEO Andy Jassy has focused on driving operational efficiencies, which are showing up on the bottom line.  Everyone knows about Amazon (NASDAQ: AMZN).",
+      "published_utc": "2025-06-01T06:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b230731919fad2488fdba7eb98229a7b3e15da268e1434a1f3bf051f551383a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134920447,
+      "datetime": 1748729220
+    }
+  ]
+}

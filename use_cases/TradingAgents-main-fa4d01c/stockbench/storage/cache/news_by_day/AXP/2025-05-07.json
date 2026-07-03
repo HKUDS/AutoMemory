@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Capital One vs. AmEx: Which Credit Card Stock is the Better Pick Now?",
+      "description": "Which among the two major credit card players, COF & American Express, is better placed to navigate uncertain macroeconomic conditions? Let's find out.",
+      "published_utc": "2025-05-07T20:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8160fbed64f1dbb612151ff90e460a2a454ba32ff614b56aef9612a135d8bb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316904,
+      "datetime": 1746621900
+    }
+  ]
+}

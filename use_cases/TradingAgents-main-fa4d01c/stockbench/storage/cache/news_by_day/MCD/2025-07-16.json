@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Canada Announces Leadership Transition",
+      "description": "McDonald's Canada today announced that Annemarie Swijtink, currently the Managing Director of McDonald's Netherlands, has been named President & Chief Executive Officer. Michèle Boudria, the current Canadian President & CEO, has announced her retirement after an impressive 40-year career with the company. The leadership changes will take effect on September 1, 2025.",
+      "published_utc": "2025-07-16T02:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ce25558badb6fe28dd5edfed3e096565e83b065a49cc9fef40d2134a535a756",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135965218,
+      "datetime": 1752603300
+    },
+    {
+      "title": "KeyBanc: Sentiment positive for YUM and SHAK, Investors warming up to CMG, MCD",
+      "description": "Investing.com -- Investor sentiment in the restaurant sector is currently strongest for YUM! Brands and Shake Shack (NYSE:SHAK), according to the latest fieldwork and analysis from KeyBanc Capital Markets.",
+      "published_utc": "2025-07-16T01:04:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59f043458e55e572f1b57d5f0003115a09a2931306fcda570eb42b12985d854e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135958939,
+      "datetime": 1752599087
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "PGR's Commercial Lines Fuels Growth: Can it Sustain the Momentum?",
+      "description": "PGR's Commercial Lines now drive 14% of premiums, boosting margins and helping diversify beyond personal auto.",
+      "published_utc": "2025-06-25T00:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4df0fe377c18b7d9b56ebee90b4d77abf7019f30954863013e525ed1aba90fb9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135509540,
+      "datetime": 1750783740
+    }
+  ]
+}

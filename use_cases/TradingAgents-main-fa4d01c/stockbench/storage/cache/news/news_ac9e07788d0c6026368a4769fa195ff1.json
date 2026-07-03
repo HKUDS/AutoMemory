@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Brunch: Big Banks Kick Off Earnings Season",
+      "description": "Big banks and Netflix to report as Q2 reporting heats up. June CPI seen rising. Amazon sees biggest Prime Day",
+      "published_utc": "2025-07-13T22:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=920cfdc6d3c6b80b6b77e7571e96f37b0e278d8548e2bde6ef86c2f8f388ce2f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126636461/image_1126636461.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912468,
+      "datetime": 1752416220
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:06:58.075231+00:00",
+    "cache_key": "news_ac9e07788d0c6026368a4769fa195ff1",
+    "count": 1
+  }
+}

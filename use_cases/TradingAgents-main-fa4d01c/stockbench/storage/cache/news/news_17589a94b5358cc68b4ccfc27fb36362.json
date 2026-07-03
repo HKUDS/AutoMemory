@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
+      "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
+      "published_utc": "2025-02-19T05:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7facde2ae5c066853e3c10f645338611f87bab1b8480e5a5ef704337d2dad585",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/940959558/image_940959558.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132781249,
+      "datetime": 1739914800
+    },
+    {
+      "title": "UnitedHealth Group drags Dow lower",
+      "description": "UnitedHealth Group drags Dow lower",
+      "published_utc": "2025-02-18T18:46:02",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=37a725db738de1ae067d135da540cdc399df95785c2d31d582e355bbec07a3d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132785087,
+      "datetime": 1739875562
+    },
+    {
+      "title": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "description": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "published_utc": "2025-02-18T17:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=94cc7b8e2e5e9af34eb71ff375051129a16c10facf53c80475ad38658bda4cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767999,
+      "datetime": 1739872740
+    },
+    {
+      "title": "Harding Loevner International Equity Q4 2024 Report",
+      "description": "",
+      "published_utc": "2025-02-18T13:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f9b6f0bc8bb2244ae0466ba74041dff308baaba5e55c592a50b95dda121965e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132766555,
+      "datetime": 1739856600
+    },
+    {
+      "title": "Janus Henderson Growth And Income Managed Account Q4 2024 Commentary",
+      "description": "The Portfolio returned 0.65% (gross) and the S&P 500Â® Index returned 2.41%. Read more here.",
+      "published_utc": "2025-02-18T13:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e9b5489f73454b9e892e63730b4ff1e690373ad65785abf520d5ac625d48baa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1774553067/image_1774553067.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132766526,
+      "datetime": 1739855700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:23.278428+00:00",
+    "cache_key": "news_17589a94b5358cc68b4ccfc27fb36362",
+    "count": 5
+  }
+}

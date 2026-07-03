@@ -1,0 +1,219 @@
+{
+  "trace_id": "trace_id_4_bm25_recall",
+  "memory_path": "knowledge_reflection",
+  "eval_mode": "qa",
+  "focus": "BM25 recall context-shift, ambiguous query, cross-bucket consistency, no-match on empty bucket",
+  "turns": [
+    {
+      "component": "SelfReflector",
+      "args": {
+        "state": {
+          "market_report": "SEMX showing high RSI of 78; momentum indicators overbought. Volume declining as price rises — bearish divergence.",
+          "fundamentals_report": "SEMX revenue $3.5B, EPS $5.20. Gross margins compressing 200bps from supply cost increases.",
+          "sentiment_report": "Social chatter very bullish; retail investors piling in. Options flow: heavy call buying.",
+          "news_report": "SEMX announced 3nm chip production delay by two quarters. Market initially ignored this.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Long-term AI tailwind intact. The production delay is temporary. Buy the dip.",
+            "bear_history": "Bear: Production delay combined with margin compression is a double negative. Risk/reward unfavorable. Raised this in debate but Bull ignored the margin issue."
+          },
+          "risk_debate_state": {
+            "history": "Conservative PM: Exit position given the dual headwinds (delay + margin). Aggressive PM: Hold for AI upside."
+          },
+          "final_trade_decision": "Portfolio Manager rates SEMX: Buy. Conviction on AI demand. No mention of the margin compression risk raised by Bear."
+        }
+      }
+    },
+    {
+      "component": "SelfReflector",
+      "args": {
+        "state": {
+          "market_report": "BANKCO at 52-week high. P/B ratio 1.8x. Net interest margin expanding as Fed holds rates.",
+          "fundamentals_report": "BANKCO EPS $6.40, ROE 14%. Loan loss provisions increasing for commercial real estate exposure. Q3 write-downs flagged.",
+          "sentiment_report": "Neutral. Institutional flow mixed.",
+          "news_report": "Regional bank stress test results: BANKCO passes but flagged for CRE concentration. Analysts split.",
+          "investment_debate_state": {
+            "bull_history": "Bull: NIM expansion supports earnings. CRE exposure manageable per management.",
+            "bear_history": "Bear: CRE losses could accelerate if office vacancy continues rising. Write-down trajectory not priced in. PM dismissed this concern without addressing it."
+          },
+          "risk_debate_state": {
+            "history": "Moderate PM: Hold with tight stop. Did not address Bear's CRE write-down scenario explicitly."
+          },
+          "final_trade_decision": "Portfolio Manager rates BANKCO: Hold. Thesis: NIM supports earnings. Key risk: CRE write-downs — not addressed in final decision rationale."
+        }
+      }
+    },
+    {
+      "component": "SelfReflector",
+      "args": {
+        "state": {
+          "market_report": "RETAILX at $32, breaking below 200-day MA on heavy volume. Death cross (50-day below 200-day) just formed.",
+          "fundamentals_report": "RETAILX revenue $8.2B. Same-store sales -3.2% YoY. Inventory glut acknowledged by management in Q2 call.",
+          "sentiment_report": "Very bearish. Short interest at 18% of float.",
+          "news_report": "RETAILX CEO resigned unexpectedly. Board appointed interim CEO. Earnings revisions sharply negative.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Turnaround story; new CEO could reset expectations lower and rebuild from there. Contrarian buy.",
+            "bear_history": "Bear: Death cross + CEO departure + negative same-store sales = no floor visible. Short pressure will persist. Bull completely ignored the technical breakdown."
+          },
+          "risk_debate_state": {
+            "history": "Conservative PM: Avoid. The investment plan has no identifiable catalyst — PM recommended Buy without specifying what would change the trend."
+          },
+          "final_trade_decision": "Portfolio Manager rates RETAILX: Buy. Contrarian thesis. No catalyst specified. Bear's technical analysis ignored in final recommendation."
+        }
+      }
+    },
+    {
+      "component": "SelfReflector",
+      "args": {
+        "state": {
+          "market_report": "ENERGYCO oil services firm. WTI crude at $85. ENERGYCO backlog grew 25% YoY. Stock at $18, up 40% YTD.",
+          "fundamentals_report": "ENERGYCO revenue $1.2B, EBITDA margin 22%. FCF positive for first time in 3 years. Debt reduction ongoing.",
+          "sentiment_report": "Bullish on energy sector. ESG concerns limiting some institutional participation.",
+          "news_report": "OPEC+ extended production cuts. ENERGYCO secured Saudi Aramco contract renewal.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Aramco renewal de-risks 40% of revenue. Margin expansion on operating leverage. Recommend Strong Buy.",
+            "bear_history": "Bear: ESG exclusion limits capital pool. Energy transition risk long-term. High correlation to crude price volatility is a systemic risk that Bull does not address."
+          },
+          "risk_debate_state": {
+            "history": "Moderate PM: Buy with position size cap of 2% portfolio. Energy correlation risk acknowledged."
+          },
+          "final_trade_decision": "Portfolio Manager rates ENERGYCO: Buy. Aramco contract and FCF positive inflection are key catalysts. Energy transition risk noted but deemed long-term."
+        }
+      }
+    },
+    {
+      "component": "SelfReflector",
+      "args": {
+        "state": {
+          "market_report": "BIOTECH ticker gapping up 35% on FDA approval news. RSI at 89 — extremely overbought.",
+          "fundamentals_report": "BIOTECH pre-revenue. Cash runway 18 months. FDA approval opens $2B addressable market.",
+          "sentiment_report": "Euphoric retail sentiment. Stock mentioned 10000x on Reddit in 24 hours.",
+          "news_report": "FDA approved BIOTECH's lead drug. Competition from two Phase-3 rivals within 12 months.",
+          "investment_debate_state": {
+            "bull_history": "Bull: First-mover advantage post-FDA. 24-month revenue ramp. Strong Buy.",
+            "bear_history": "Bear: 18-month cash runway insufficient for full commercial launch without dilutive raise. Competition timeline creates overhang. Neither Bull nor the PM addressed the cash runway adequately."
+          },
+          "risk_debate_state": {
+            "history": "Aggressive PM: Buy on FDA catalyst. Cash runway concern noted by Bear was not addressed in decision."
+          },
+          "final_trade_decision": "Portfolio Manager rates BIOTECH: Buy. FDA approval is transformative. Cash runway risk mentioned but no mitigation strategy provided — logical gap."
+        }
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "bull_memory_semiconductor_context_shift",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "bull_memory",
+        "query": "semiconductor chip company with overbought technicals and production delays but strong AI demand thesis",
+        "n_matches": 2
+      },
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "matched_situation"},
+        {"type": "substring", "value": "recommendation"},
+        {"type": "substring", "value": "SEMX"},
+        {"type": "substring", "value": "production delay", "case_sensitive": false},
+        {"type": "not_substring", "value": "biotech", "case_sensitive": false}
+      ]
+    },
+    {
+      "label": "bear_memory_banking_cre_risk",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "bear_memory",
+        "query": "bank with commercial real estate loan exposure and rising write-down risk",
+        "n_matches": 2
+      },
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "matched_situation"},
+        {"type": "substring", "value": "recommendation"},
+        {"type": "substring", "value": "write-down", "case_sensitive": false},
+        {"type": "substring", "value": "CRE", "case_sensitive": false},
+        {"type": "not_substring", "value": "FDA", "case_sensitive": false}
+      ]
+    },
+    {
+      "label": "trader_memory_retail_turnaround",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "trader_memory",
+        "query": "retail company with negative same-store sales and CEO departure indicating further downside",
+        "n_matches": 1
+      },
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "matched_situation"},
+        {"type": "substring", "value": "recommendation"}
+      ]
+    },
+    {
+      "label": "invest_judge_memory_biotech_cash_runway",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "invest_judge_memory",
+        "query": "pre-revenue biotech with FDA approval but insufficient cash runway and dilution risk",
+        "n_matches": 2
+      },
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "matched_situation"},
+        {"type": "substring", "value": "recommendation"}
+      ]
+    },
+    {
+      "label": "pm_memory_energy_correlation_risk",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "portfolio_manager_memory",
+        "query": "energy services company with crude oil price correlation and ESG exclusion risk",
+        "n_matches": 1
+      },
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "matched_situation"},
+        {"type": "substring", "value": "recommendation"}
+      ]
+    },
+    {
+      "label": "bull_memory_completely_unrelated_query",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "bull_memory",
+        "query": "medieval castle architecture stone fortress defensive walls",
+        "n_matches": 1
+      },
+      "expected_information": [
+        {"type": "non_empty"},
+        {"type": "substring", "value": "matched_situation"},
+        {"type": "substring", "value": "similarity_score"}
+      ]
+    },
+    {
+      "label": "empty_bucket_returns_empty",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "bull_memory_nonexistent_bucket_xyz",
+        "query": "any query",
+        "n_matches": 2
+      },
+      "expected_information": [
+        {"type": "none_or_empty"}
+      ]
+    },
+    {
+      "label": "bear_memory_ambiguous_query_returns_something",
+      "component": "BM25Reflections",
+      "args": {
+        "name": "bear_memory",
+        "query": "risk",
+        "n_matches": 2
+      },
+      "expected_information": [
+        {"type": "non_empty"}
+      ]
+    }
+  ]
+}

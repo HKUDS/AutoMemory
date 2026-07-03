@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Visa, Mastercard set for higher profits on solid spending trends",
+      "description": "(Reuters) -Visa and Mastercard are expected to report higher quarterly profits this week on steady consumer spending, and analysts will scrutinize how demand for travel and discretionary purchases is shaping up in the face of tariff uncertainty.  The results from the world's biggest payment processors will help flesh out the broader financial outlook that major banks such as JPMorgan Chase and Wells Fargo presented earlier this month, signaling a resilient consumer.  \"Visa and Mastercard remain top ideas, particularly in an uncertain macro environment, given their broad-based exposure to discretionary and non-discretionary spend, geographic reach, and proven ability to stabilize their expense increase in downturns,\" Oppenheimer analysts said in a note.",
+      "published_utc": "2025-07-28T23:54:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=160c3c47deb733bf6d08cb96a2f86aa05c00c68056c0882b4be86cc34b13d22b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107941,
+      "datetime": 1753718052
+    },
+    {
+      "title": "Delta Air Lines, Inc. (DAL) Expresses Confidence in Future Growth; Reaffirms Full-Year Earnings Guidance",
+      "description": "Delta Air Lines, Inc. (NYSE:DAL), considered a cheaply priced stock and a top pick among analysts, is included in our list of the 10 Cheap Travel Stocks to Buy According to Analysts. With strong free cash flow, margin discipline, and forward-thinking investments, Delta Air Lines, Inc. (NYSE:DAL) remains optimistic about its future growth outlook. In […]",
+      "published_utc": "2025-07-28T22:22:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85e2f9552d73edec7f17440c7cb25090dd04934e03bfdfd9621bdce80f8bc28f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108285,
+      "datetime": 1753712565
+    },
+    {
+      "title": "Citi’s new Strata Elite credit card has a $595 annual fee. Here’s how its perks stack up against the competition.",
+      "description": "Rising annual fees and excessive statement credits have led to some fatigue in the premium credit-card market — but consumer demand persists.",
+      "published_utc": "2025-07-28T21:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0e9393fe5644724553c7995b51e07865e1433fa4a3de4506a2346ef7a5ca752",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107925,
+      "datetime": 1753710420
+    },
+    {
+      "title": "Market Chatter: Citigroup Launches Strata Elite Card to Compete for Affluent Customers",
+      "description": "Citigroup (C) is launching the Strata Elite card, a new premium credit card targeting frequent trave",
+      "published_utc": "2025-07-28T19:22:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea9689870b14bebc8cc3d13d33e2cc07222088798c317ed6d353fb0513606739",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136107928,
+      "datetime": 1753701749
+    },
+    {
+      "title": "American Express: Retaining The Premium Segment",
+      "description": "Discover why American Express stands out with strong revenue growth, disciplined credit standards, and steady shareholder returns.",
+      "published_utc": "2025-07-28T16:13:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9723a8dd45f63e10bc2153f019b9e5ee731e55b1bce68e09e0b87dffcb762742",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1469666806/image_1469666806.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136106271,
+      "datetime": 1753690435
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:13:27.837305+00:00",
+    "cache_key": "news_3008acefc75ad3d7eac57db4bacb9467",
+    "count": 5
+  }
+}

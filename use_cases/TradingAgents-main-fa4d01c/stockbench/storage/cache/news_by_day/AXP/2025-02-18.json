@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Janus Henderson Growth And Income Fund Q4 2024 Commentary",
+      "description": "The Fund returned 0.34% and the S&P 500 Index returned 2.41%. Read more here.",
+      "published_utc": "2025-02-18T13:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92ba772ff1541208dcae7a1aef7c92da8ac8c08fd2310e571d1236c41f7e71ec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365758819/image_1365758819.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132766498,
+      "datetime": 1739854800
+    }
+  ]
+}

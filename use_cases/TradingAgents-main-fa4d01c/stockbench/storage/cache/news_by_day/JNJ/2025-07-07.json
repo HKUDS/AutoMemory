@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "NYLI WMC Value Fund Q1 2025 Commentary",
+      "description": "NYLI WMC Value Fund outperformed the index over the quarter. US equities registered their first quarterly loss since the third quarter of 2023. Read more here.",
+      "published_utc": "2025-07-07T07:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e1576d2cc19ba5ddba8434af449e9134c4a70b5c12ba1af0e20335827bb8286",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972341389/image_1972341389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135778787,
+      "datetime": 1751845800
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "10 Magnificent S&P 500 Dividend Stocks Down Over 10% to Buy and Hold Forever",
+      "description": "These S&P 500 dividend stocks have fallen by up to 33% and are best buys now.",
+      "published_utc": "2025-07-20T17:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbd2200532f577d6e290a80fa4012422fb8df3a3aa022a11e0fbbe45ba0f0d05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019732,
+      "datetime": 1753002060
+    },
+    {
+      "id": "36d87b145141c532f1f5b06e0241c82a314812cf6b94aedeb943b748db6c6df3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Dividend Stock to Buy With $1,000 Right Now",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-07-20T08:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/20/the-smartest-dividend-stock-to-buy-with-1000-right/?source=iedfolrf0000001",
+      "tickers": [
+        "UHT",
+        "JNJ",
+        "BDX",
+        "UHS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/825469/23_09_25-a-tortoise-statue-placed-on-top-of-a-stock-chart-_mf-dload.jpg",
+      "description": "Universal Health Realty Income Trust offers a high 7.4% dividend yield, with a 40-year history of annual dividend increases. While attractive for income investors, it has slower dividend growth and potential conflicts of interest due to external management.",
+      "keywords": [
+        "dividend",
+        "REIT",
+        "healthcare",
+        "income investing",
+        "yield"
+      ],
+      "insights": [
+        {
+          "ticker": "UHT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "High dividend yield of 7.4% is attractive, but slow dividend growth and external management conflicts limit enthusiasm"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Reliable dividend with 63 years of annual increases and strong dividend growth history"
+        },
+        {
+          "ticker": "BDX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent dividend growth with 53 years of annual increases"
+        },
+        {
+          "ticker": "UHS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "External manager of the REIT with potential conflict of interest concerns"
+        }
+      ]
+    }
+  ]
+}

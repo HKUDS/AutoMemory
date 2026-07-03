@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "McDonald : USA announces new Strategic Insights and Prioritization leadership",
+      "description": "While I have not known Jami for very long, I quickly came to appreciate how he embraces a complex problem with a customer-first mindset. In 2023, as we were embarking on our Accelerating the...",
+      "published_utc": "2025-02-24T23:14:04",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=94fe826acbe986a24a070165b5f185eba7964d406cd3bd21c62453bba3e4f86b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132865506,
+      "datetime": 1740410044
+    },
+    {
+      "title": "LVHD: Seeking Low Volatility In High Dividends With Average Result",
+      "description": "Franklin LVHD ETF: Explore a 111-stock portfolio with value traits focusing on utilities and staples.",
+      "published_utc": "2025-02-24T21:46:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3ae1815bf8e049a8bf4da12cca0f8d9140e318c9ff15a15b8e43c15cf43fc08",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1478479389/image_1478479389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132865142,
+      "datetime": 1740404809
+    },
+    {
+      "title": "Domino's Pizza misses quarterly same-store sales estimates",
+      "description": "Domino's Pizza on Mondaymissed market expectations for fourth-quarter same-store sales,hurt by stiff competition in the fast-food industry as consumersin the U.S. are wooed by value meals. ...",
+      "published_utc": "2025-02-24T14:12:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9a77b5379c9b83c93d42868eaa16e6dd180e57299aedbea779442ca6bb5d971e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132862477,
+      "datetime": 1740377523
+    },
+    {
+      "title": "Columbia Dividend Income Fund Q4 2024 Commentary",
+      "description": "Institutional Class shares of Columbia Dividend Income Fund returned -1.34% for Q4 2024. Click here to read the full commentary.",
+      "published_utc": "2025-02-24T13:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4fb2ba289dc911d2ffc3f50d8dc7e2158e47042abde7d0b7b284ce352cacdecf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1456260650/image_1456260650.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132862367,
+      "datetime": 1740375300
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar's 2026 Earnings Outlook Depends on Construction Performance, UBS Says",
+      "description": "Caterpillar's (CAT) 2026 earnings outlook hinges on the performance of its construction segment, UBS",
+      "published_utc": "2025-07-23T23:27:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bf55a9912e1c4bd25bbd1d92f8a77e5589521e668fb1c0318ff04c4c73d74f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136062316,
+      "datetime": 1753284459
+    },
+    {
+      "title": "Caterpillar, Merck share gains lead Dow's 384-point climb",
+      "description": "Caterpillar, Merck share gains lead Dow's 384-point climb",
+      "published_utc": "2025-07-23T19:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bfee5708565b43440eab6d6913457dbcd2ac984ba8500b764643f4ad2be46d21",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136069995,
+      "datetime": 1753271760
+    },
+    {
+      "title": "Clifford Chance partners pocket record £2.1mn",
+      "description": "Clifford Chance partners pocketed record average earnings of £2.1mn in the year to the end of April, after investment in the US and high-profile...",
+      "published_utc": "2025-07-23T17:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f149c0726fb6920be91678a603d2057161d0edf2ba48e66788b339a056092ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136044215,
+      "datetime": 1753263902
+    },
+    {
+      "title": "Dow up 200 points on gains for shares of Caterpillar, Merck",
+      "description": "Dow up 200 points on gains for shares of Caterpillar, Merck",
+      "published_utc": "2025-07-23T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=da446bdea3056cc8d9f55af9a0d0eeb4671d1ebbd326973604ddf554d564fb06",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136069511,
+      "datetime": 1753263900
+    }
+  ]
+}

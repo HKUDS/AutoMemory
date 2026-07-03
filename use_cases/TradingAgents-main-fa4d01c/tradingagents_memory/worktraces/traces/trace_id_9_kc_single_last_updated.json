@@ -1,0 +1,150 @@
+{
+  "trace_id": "trace_id_9_kc_single_last_updated",
+  "memory_path": "knowledge_reflection",
+  "eval_mode": "qa",
+  "focus": "KnowledgeCard: exactly one Last-updated line after 4 consecutive merges; old timestamps absent; correct latest date preserved",
+  "turns": [
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "STRESSCO",
+        "trade_date": "2026-01-05",
+        "state": {
+          "market_report": "STRESSCO at $40. 50-day MA $38. RSI 55. Steady uptrend.",
+          "fundamentals_report": "STRESSCO (StressCo Inc) in specialty chemicals. Revenue $1.0B, EPS $2.00, P/E 20x.",
+          "sentiment_report": "Neutral. No major news.",
+          "news_report": "STRESSCO signed a small distribution deal with a European partner.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Undervalued specialty chemicals player with a stable European deal.",
+            "bear_history": "Bear: Margin headwinds from raw material costs."
+          },
+          "risk_debate_state": {"history": "Moderate risk. Balanced view."},
+          "final_trade_decision": "Portfolio Manager rates STRESSCO: Hold. Fair value. Watching margins."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "STRESSCO",
+        "trade_date": "2026-01-19",
+        "state": {
+          "market_report": "STRESSCO rallied to $46. RSI 65. Breaking above resistance at $44.",
+          "fundamentals_report": "STRESSCO Q4 results: Revenue $270M (+8% QoQ), EPS $0.58 slight beat.",
+          "sentiment_report": "Modestly bullish after earnings.",
+          "news_report": "STRESSCO raised FY2026 guidance to $1.1B revenue.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Guidance raise + multiple expansion justify upgrade.",
+            "bear_history": "Bear: Earnings quality thin; one-time contract boosted Q4."
+          },
+          "risk_debate_state": {"history": "Conservative PM: upgrade but maintain small position."},
+          "final_trade_decision": "Portfolio Manager rates STRESSCO: Buy. Guidance raise supports upgrade. Target $52."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "STRESSCO",
+        "trade_date": "2026-02-09",
+        "state": {
+          "market_report": "STRESSCO pulled back to $43. RSI 48. Sector rotation out of industrials.",
+          "fundamentals_report": "STRESSCO fundamentals unchanged. Guidance $1.1B intact. Input costs easing.",
+          "sentiment_report": "Neutral. No company-specific catalysts.",
+          "news_report": "Macro rotation from industrials to tech. STRESSCO caught in sector outflow.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Macro-driven pullback; fundamentals intact.",
+            "bear_history": "Bear: Sector rotation could extend; no near-term catalyst."
+          },
+          "risk_debate_state": {"history": "Hold on macro dip. Do not add."},
+          "final_trade_decision": "Portfolio Manager rates STRESSCO: Hold. Macro headwind temporary. Target $52 maintained."
+        }
+      }
+    },
+    {
+      "component": "KnowledgeCardWriter",
+      "args": {
+        "ticker": "STRESSCO",
+        "trade_date": "2026-03-02",
+        "state": {
+          "market_report": "STRESSCO rebounded to $49. 52-week high. RSI 72 — overbought.",
+          "fundamentals_report": "STRESSCO H1 revenue tracking $560M on pace for $1.12B FY. EPS estimate raised to $2.35.",
+          "sentiment_report": "Bullish. Institutional accumulation visible in dark pool prints.",
+          "news_report": "STRESSCO won a US government contract worth $150M over 2 years.",
+          "investment_debate_state": {
+            "bull_history": "Bull: Government contract de-risks revenue for next 2 years. Strong Buy.",
+            "bear_history": "Bear: RSI overbought; near-term pullback likely before next leg."
+          },
+          "risk_debate_state": {"history": "Aggressive PM: Strong Buy on contract win. Stop at $44."},
+          "final_trade_decision": "Portfolio Manager rates STRESSCO: Strong Buy. Government contract provides visibility. Target $60."
+        }
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "STRESSCO_card_has_all_four_sections",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "STRESSCO"},
+      "expected_information": [
+        {"type": "substring", "value": "## Identity"},
+        {"type": "substring", "value": "## Stable Fundamentals"},
+        {"type": "substring", "value": "## Recent Technical Posture"},
+        {"type": "substring", "value": "## Recent PM Ratings"}
+      ]
+    },
+    {
+      "label": "STRESSCO_card_has_exactly_one_last_updated",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "STRESSCO"},
+      "expected_information": [
+        {"type": "count_exact", "value": "Last updated:", "count": 1}
+      ]
+    },
+    {
+      "label": "STRESSCO_last_updated_is_latest_date",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "STRESSCO"},
+      "expected_information": [
+        {"type": "substring", "value": "Last updated: 2026-03-02"},
+        {"type": "not_substring", "value": "Last updated: 2026-01-05"},
+        {"type": "not_substring", "value": "Last updated: 2026-01-19"},
+        {"type": "not_substring", "value": "Last updated: 2026-02-09"}
+      ]
+    },
+    {
+      "label": "STRESSCO_card_has_strong_buy_rating",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "STRESSCO"},
+      "expected_information": [
+        {"type": "substring", "value": "Strong Buy"},
+        {"type": "substring", "value": "2026-03-02"},
+        {"type": "substring", "value": "contract"}
+      ]
+    },
+    {
+      "label": "STRESSCO_card_first_line_is_identity",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "STRESSCO"},
+      "expected_information": [
+        {"type": "regex", "value": "^## Identity"},
+        {"type": "not_substring", "value": "Updated Card for"},
+        {"type": "not_substring", "value": "Updated card for"},
+        {"type": "not_substring", "value": "Market Overview"}
+      ]
+    },
+    {
+      "label": "STRESSCO_no_double_hash_headers",
+      "component": "KnowledgeCard",
+      "args": {"ticker": "STRESSCO"},
+      "expected_information": [
+        {"type": "not_substring", "value": "#### ## "},
+        {"type": "not_substring", "value": "### ## "},
+        {"type": "count_max", "value": "## Identity", "max_count": 1},
+        {"type": "count_max", "value": "## Stable Fundamentals", "max_count": 1},
+        {"type": "count_max", "value": "## Recent Technical Posture", "max_count": 1},
+        {"type": "count_max", "value": "## Recent PM Ratings", "max_count": 1}
+      ]
+    }
+  ]
+}

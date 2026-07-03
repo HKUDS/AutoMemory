@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Showcases Machinery that has Built America for 100 Years in Celebration of Construction",
+      "description": "Caterpillar Inc. (NYSE: CAT) today is showcasing its innovative and iconic iron at the National Mall as part of the Association of Equipment Manufacturers (AEM) Celebration of Construction. The U.S.-based company is highlighting how its products, technology and services have helped customers for 100 years.",
+      "published_utc": "2025-05-14T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22abc44afdb036f5fa06d42fc8b073f0daf3e66dc306437e63618959956ed6b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460986,
+      "datetime": 1747227900
+    },
+    {
+      "title": "You can't manage risk if you don't know what you're holding",
+      "description": "You can catch Trader Talk on Apple Podcasts, Spotify, YouTube, or wherever you get your podcasts. In the latest episode of \"Trader Talk,\" Kenny Polcari sits down with Mark Malek, chief investment officer of SiebertNXT, to explore how quantitative investing and clear investment theses can help investors navigate today's volatile markets. Malek emphasizes using data-driven models to cut through noise, avoid over-diversification, and focus on high-probability opportunities, especially in defensive sectors. The two also weigh in on rate-cut expectations, soft versus hard data, and why sticking to fundamentals matters more than ever. Watch more episodes of Trader Talk here. Trader Talk with Kenny Polcari on Yahoo Finance delivers expert analysis and actionable insights, empowering you to navigate market volatility and secure your financial future.",
+      "published_utc": "2025-05-14T19:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31e314965a8b0ae0319e9c42c72f48df6d08e9f5997ddfc6c6e5ba7a8478d513",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460987,
+      "datetime": 1747220414
+    },
+    {
+      "title": "IYJ: Industrials Dashboard For May",
+      "description": "",
+      "published_utc": "2025-05-14T14:53:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8360a53503e08f77460ac0523d2c16b4c87bb51d1991d4e797040b48de9c3a8d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134434498,
+      "datetime": 1747205587
+    }
+  ]
+}

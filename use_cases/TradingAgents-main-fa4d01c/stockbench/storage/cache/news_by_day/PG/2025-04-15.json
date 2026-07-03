@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Outpaces Stock Market Gains: What You Should Know",
+      "description": "In the most recent trading session, Procter & Gamble (PG) closed at $169.13, indicating a +1.33% shift from the previous trading day.",
+      "published_utc": "2025-04-15T06:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5de3633982033fce71f4dd74d870dc6553fa935cd5409ad20ca8f426a245adbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917772,
+      "datetime": 1744668017
+    },
+    {
+      "title": "Comcast and 5 Other Cheap Stocks That Should Bounce Back Soon",
+      "description": "Procter & Gamble, Merck, Medtronic, Johnson & Johnson, Intuit, and Comcast have lagged behind the market’s rebound, but they look set to rise from here.",
+      "published_utc": "2025-04-15T04:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30bcc56cdda10cc14b3fdca8afacae3c03646385352eacf9aed1b2b6377fba5a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917773,
+      "datetime": 1744663260
+    },
+    {
+      "title": "Procter & Gamble and 5 Other Stocks Set to Bounce Back",
+      "description": "Procter & Gamble, Merck, Medtronic, Johnson & Johnson, Intuit, and Comcast have lagged behind the market’s rebound, but they look set to rise from here.",
+      "published_utc": "2025-04-15T01:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da5490307de6889196f154c5bdbe03677450620948bcd6d5429470f6cca9d138",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908229,
+      "datetime": 1744653120
+    }
+  ]
+}

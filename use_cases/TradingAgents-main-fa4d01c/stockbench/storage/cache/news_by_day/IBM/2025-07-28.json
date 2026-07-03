@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corporation (IBM): Don’t Abandon The Stock, Warns Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Went “All In” On Quantum Computing. International Business Machines Corporation (NYSE:IBM) is one of the stocks Jim Cramer recently discussed. International Business Machines Corporation (NYSE:IBM) is one of Cramer’s favorite technology stocks. Throughout this year, the CNBC TV host has expressed optimism about the firm’s […]",
+      "published_utc": "2025-07-28T04:15:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=332f0e29add8f352b5ba2e7e70784b749c2642784f84b4376b4c13742e3c4000",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108146,
+      "datetime": 1753647342
+    }
+  ]
+}

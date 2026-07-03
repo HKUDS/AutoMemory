@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow's 265-point drop led by losses in shares of Caterpillar, 3M",
+      "description": "Dow's 265-point drop led by losses in shares of Caterpillar, 3M",
+      "published_utc": "2025-06-02T19:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5a5d943ce409b3c928e55fb66374bb02409611ccfa031a23cd5e5c22aed554c4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134945216,
+      "datetime": 1748864100
+    }
+  ]
+}

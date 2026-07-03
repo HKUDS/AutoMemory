@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "The DOJ’s Apple Ruling Could Spark the Super App Revolution and Redefine Retail",
+      "description": "Bolt’s Ryan Breslow talks to WWD about how the Apple anti-monopoly ruling is poised to redefine digital commerce and consumer experiences.",
+      "published_utc": "2025-06-04T05:04:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4424d369ba2b9abfc0b9c3c6229ee4ede8a7d3ea278399e19d5d17f2ec00d025",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135000520,
+      "datetime": 1748984699
+    },
+    {
+      "title": "Nvidia Overtakes Microsoft as Largest U.S. Company by Market Cap",
+      "description": "Nvidia has overtaken Microsoft as the largest U.S. company by market value, regaining the throne that it forfeited during the AI-stock selloff in late January.  Nvidia shares rose 2.9% during Tuesday’s trading.  It had a market capitalization of $3.45 trillion, compared with Microsoft’s $3.44 trillion, as of Tuesday's close, according to Dow Jones Market Data.",
+      "published_utc": "2025-06-04T04:15:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8343c89b6435e89fd6e52266c9b530cb992e4946f7d651105c2f3873bb884ba5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135000506,
+      "datetime": 1748981731
+    },
+    {
+      "title": "Nvidia reclaims crown as world's most valuable company as $1 trillion rally continues",
+      "description": "Nvidia on Tuesday overtook Microsoft as the world's most valuable company Tuesday, with the AI chipmaker's market capitalization of $3.444 trillion eclipsing the software giant's $3.441 trillion.",
+      "published_utc": "2025-06-04T03:28:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcdb3f13a227784208075248233caa2cc812a88290dd5fb87b834574a7769912",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135000510,
+      "datetime": 1748978930
+    },
+    {
+      "title": "Magnificent Seven Earnings Triple S&P Peers",
+      "description": "FactSet shows Mag 7 earnings growth nearly three times that of the other 493 firms",
+      "published_utc": "2025-06-04T03:25:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad4045a44b804201b2ad03b32660b221e4785ea00c6f517d4eb67f7771856092",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134999213,
+      "datetime": 1748978750
+    },
+    {
+      "title": "These 2 Tech Titans Generate Substantial Cash: MSFT & AAPL",
+      "description": "Companies with strong cash-generating abilities are great targets, as they have the ability to fuel growth, pay out dividends, and easily wipe out debt.",
+      "published_utc": "2025-06-04T02:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06c86f955c7c8409fdc4ee1e66f93e3c15dbf31d6467ebcbe7ae720f5d859daf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135000514,
+      "datetime": 1748973600
+    }
+  ]
+}

@@ -1,0 +1,2503 @@
+{
+  "schema": "esl_eval_results_llm_judge_v1",
+  "ts": "2026-05-07T10:29:12.953836+00:00",
+  "session": "bench:esl:run:05e6d4d349",
+  "ingest_mixed": false,
+  "mixed_json": null,
+  "questions_json": "/Users/fang/Documents/codespace/nanobot/bench/ESL-Bench/data/evaluation/question_sparse40.json",
+  "nanobot_current_time": "2026-02-15T15:00:00",
+  "passed": 22,
+  "asked": 120,
+  "pass_rate": 0.18333333333333332,
+  "items": [
+    {
+      "question_index_in_file": 1,
+      "question": "How old is the user?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "demographics.age"
+      ],
+      "answer": 34,
+      "exit_code": 0,
+      "reply": "34. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly answered the user's age as 34, matching the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 2,
+      "question": "What is the my gender?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "demographics.gender"
+      ],
+      "answer": "Male",
+      "exit_code": 0,
+      "reply": "Male. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly answered 'Male' which matches the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 3,
+      "question": "What is the my occupation?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "demographics.occupation"
+      ],
+      "answer": "Sales Manager",
+      "exit_code": 0,
+      "reply": "Sales Manager. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly answered the question with the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 4,
+      "question": "What type of area does the user live in?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "demographics.location_type"
+      ],
+      "answer": "Urban",
+      "exit_code": 0,
+      "reply": "Urban. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly answered 'Urban' which matches the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 5,
+      "question": "What are the my height and weight?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "health_profile.physical_measurements.height",
+        "health_profile.physical_measurements.weight"
+      ],
+      "answer": {
+        "height_cm": 178,
+        "weight_kg": 79
+      },
+      "exit_code": 0,
+      "reply": "178 cm, ~79 kg. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly provided the height as 178 cm and the weight as ~79 kg, matching the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 6,
+      "question": "What is the my stated reason for the current preventive health visit?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.patient_narrative.chief_complaints"
+      ],
+      "answer": "Presentation for annual preventive health screening; no acute symptoms reported. Interested in optimizing energy levels for work.",
+      "exit_code": 0,
+      "reply": "No current preventive health visit is on record. Your stated health goals\ninclude annual preventive screening, but nothing about an active \nappointment. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no current preventive health visit on record, while the reference answer explicitly mentions 'annual preventive health screening' as the reason. Assistant's reply contradicts the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 7,
+      "question": "What are the my goals of care?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.patient_narrative.goals_of_care"
+      ],
+      "answer": "Maintain optimal BMI, prevent occupational burnout, and ensure long-term cardiovascular health through lifestyle management.",
+      "exit_code": 0,
+      "reply": "Your stated goals:\n\n- Annual preventive screening (no acute symptoms)\n- Energy optimization for high-performance work\n- Maintain optimal BMI\n- Avoid occupational burnout\n- Protect long-term cardiovascular health given family history\n\nCore philosophy: proactive prevention over reactive treatment. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly identified the goals of care, including maintaining optimal BMI, avoiding occupational burnout, and protecting cardiovascular health, which align with the reference answer. Additional relevant goals like annual preventive screening and energy optimization are also included.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 8,
+      "question": "How does the user describe the impact of health on daily life?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.patient_narrative.impact_on_daily_life"
+      ],
+      "answer": "The patient reports that his high-energy career requires peak physical and mental condition; he views his health as a critical asset for his professional success.",
+      "exit_code": 0,
+      "reply": "From the records: health is described as a **professional asset**. Your \napproach to sleep, exercise, and nutrition is geared toward maintaining \nhigh performance in demanding sales work — energy optimization, avoiding \nburnout, and staying ahead of problems rather than reacting to them. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly captures the essence of the reference answer, describing the impact of health on daily life as a professional asset and emphasizing performance and energy management in a demanding career.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 9,
+      "question": "What is the my mental health profile summary?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.mental_health.summary"
+      ],
+      "answer": "The patient exhibits a resilient and high-functioning psychological profile. He displays 'Type A' traits including competitiveness and conscientiousness. While his job involves significant stress, he manages it proactively without signs of anxiety or depression.",
+      "exit_code": 0,
+      "reply": "From your records:\n\n- Self-described as resilient and high-functioning\n- No signs of anxiety or depression\n- Coping mechanisms: rigorous gym schedule, strict sleep adherence, \nstrategic planning/scheduling\n- Prevention of burnout is a stated priority\n- Disconnects from work email on weekends to protect downtime\n\nYou're actively managing mental health through structure and discipline \nrather than treating it reactively. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant's reply accurately captures the key elements of the reference answer, including the resilient and high-functioning profile, absence of anxiety/depression, and proactive coping strategies. The additional details about gym schedule, sleep, and work-life balance are consistent with the summary and provide a comprehensive view.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 10,
+      "question": "What coping mechanisms does the user use?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.mental_health.coping_mechanisms"
+      ],
+      "answer": [
+        "Rigorous gym schedule",
+        "Strict adherence to sleep routines",
+        "Strategic planning and scheduling"
+      ],
+      "exit_code": 0,
+      "reply": "From your records:\n\n- Rigorous gym schedule\n- Strict sleep adherence\n- Strategic planning and scheduling\n- Disconnecting from work email on weekends\n\nStructure, exercise, and deliberate downtime. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly lists the coping mechanisms from the reference answer and adds an extra valid mechanism ('Disconnecting from work email on weekends') that is consistent with the context of coping strategies.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 11,
+      "question": "What is the my family history?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "health_profile.family_history[0].relative",
+        "health_profile.family_history[0].condition",
+        "health_profile.family_history[1].relative",
+        "health_profile.family_history[1].condition"
+      ],
+      "answer": [
+        {
+          "relative": "Father",
+          "condition": "Hypertension (onset age 55, controlled)"
+        },
+        {
+          "relative": "Mother",
+          "condition": "Healthy"
+        }
+      ],
+      "exit_code": 0,
+      "reply": "From your records:\n\n- Father: controlled hypertension (onset ~55)\n- Mother: healthy\n- No obvious clustering of chronic diseases\n\nThe hypertension on the paternal side is why cardiovascular protection is\na stated health priority. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly answered the question by listing the family history details for both the father and mother, matching the reference answer. The additional information about cardiovascular protection is reasonable and does not contradict the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 12,
+      "question": "Which relative has hypertension in the my family history, and when did it start?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "health_profile.family_history[0].relative",
+        "health_profile.family_history[0].condition"
+      ],
+      "answer": "The my father has hypertension, with onset at age 55, and it is controlled.",
+      "exit_code": 0,
+      "reply": "Father — controlled hypertension, onset around age 55. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly identified the father as having hypertension with onset around age 55, matching the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 13,
+      "question": "What past medical history is recorded for the user?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "health_profile.past_medical_history[0].diagnosis",
+        "health_profile.past_medical_history[0].age_at_diagnosis",
+        "health_profile.past_medical_history[0].treatment_summary",
+        "health_profile.past_medical_history[0].outcome"
+      ],
+      "answer": {
+        "diagnosis": "Appendectomy (Laparoscopic)",
+        "age_at_diagnosis": 22,
+        "treatment_summary": "Emergency surgery for acute appendicitis.",
+        "outcome": "Full recovery with no complications."
+      },
+      "exit_code": 0,
+      "reply": "From your records:\n\n- Emergency laparoscopic appendectomy at age 22 for acute appendicitis\n- Full recovery with no complications\n- Seasonal pollen allergy\n- Generally healthy, no active chronic conditions\n\nThe appendectomy is your only surgical history. Rest is clean. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant missed the 'treatment_summary' field and included unrelated information about 'seasonal pollen allergy' and 'generally healthy' which are not part of the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 14,
+      "question": "What allergies or intolerances are listed for the user?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.allergies_and_intolerances"
+      ],
+      "answer": [
+        "Seasonal pollen"
+      ],
+      "exit_code": 0,
+      "reply": "Seasonal pollen allergy. No other known allergies or intolerances. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly listed 'Seasonal pollen' as the allergy, and the additional information about no other allergies is consistent with the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 15,
+      "question": "What is the my smoking status?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.lifestyle.smoking_status"
+      ],
+      "answer": "Never smoker",
+      "exit_code": 0,
+      "reply": "Never smoked. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly answered 'Never smoked' which matches the reference answer 'Never smoker'.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 16,
+      "question": "How much alcohol does the user usually consume?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.lifestyle.alcohol_consumption"
+      ],
+      "answer": "Social drinker (1-2 units per week, usually at client dinners)",
+      "exit_code": 0,
+      "reply": "Social drinker: roughly 1–2 units per week, mostly at client dinners. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant's reply matches the reference answer in both content and detail, including the description of social drinking with 1-2 units per week at client dinners.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 17,
+      "question": "What is the my physical activity routine?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.lifestyle.physical_activity"
+      ],
+      "answer": "High activity level; attends the gym 4 days a week for a mix of strength training and cardio intervals.",
+      "exit_code": 0,
+      "reply": "Gym 4 days a week — strength training combined with cardio intervals. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant's reply correctly answers the question with the same key details as the reference answer: attending the gym 4 days a week for a mix of strength training and cardio intervals.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 18,
+      "question": "How does the user describe diet and sleep habits?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "health_profile.lifestyle.diet_narrative",
+        "health_profile.lifestyle.sleep_pattern_narrative"
+      ],
+      "answer": {
+        "diet": "Conscious eater; prioritizes high-protein and whole foods. Does meal prep for lunches to avoid unhealthy office snacks, though occasionally indulges during business dinners.",
+        "sleep": "Strictly safeguards an 11:00 PM to 6:30 AM sleep schedule. Uses blackout curtains and tracks sleep quality via smartwatch."
+      },
+      "exit_code": 0,
+      "reply": "From your records:\n\n**Sleep:** Strict 11:00 PM – 6:30 AM schedule (7.5 hours), blackout \ncurtains, tracks quality with smartwatch.\n\n**Diet:** Prioritizes high-protein whole foods, meal preps lunches to \navoid office snacks, occasionally indulges during business dinners. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "Assistant accurately captures both diet and sleep habits as described in the reference answer, with minor formatting differences that do not affect meaning.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 19,
+      "question": "What stress management practices does the user report?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "health_profile.lifestyle.stress_management_practices"
+      ],
+      "answer": [
+        "Regular physical exercise",
+        "Weekend disconnect from work email"
+      ],
+      "exit_code": 0,
+      "reply": "From your records:\n\n- Regular physical exercise as primary stress outlet\n- Strict policy of disconnecting from work email on weekends\n- Strict sleep adherence as a coping mechanism\n- Strategic planning and scheduling to maintain control\n\nThe gym and sleep are your main anchors. Weekends are protected downtime.\n🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly identified the stress management practices mentioned in the reference answer: 'Regular physical exercise' and 'Weekend disconnect from work email'. Additional practices are mentioned but do not affect the correctness of the answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 20,
+      "question": "Does the user have any active chronic conditions, and what is the overall preventive health focus?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "health_profile.chronic_conditions",
+        "health_profile.summary"
+      ],
+      "answer": {
+        "active_chronic_conditions": [],
+        "preventive_focus": "The user has generally excellent health with no active chronic conditions. His preventive focus is weight maintenance, sleep hygiene, physical fitness, and long-term cardiovascular health."
+      },
+      "exit_code": 0,
+      "reply": "No active chronic conditions. Generally healthy.\n\nPreventive health focus: annual screening, weight management, sleep \noptimization, cardiovascular protection (given family history), and \navoiding occupational burnout. Proactive over reactive — you stay ahead \nof things rather than waiting for problems. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly states there are no active chronic conditions and provides a preventive health focus that aligns with the reference answer, including weight management, cardiovascular health, and sleep optimization. The additional mention of 'annual screening' and 'avoiding occupational burnout' is reasonable and does not contradict the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 21,
+      "question": "What was the my recovery time at 2026-01-10?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[283].value"
+      ],
+      "answer": "35.9616 hours",
+      "exit_code": 0,
+      "reply": "No data from Jan 10 on record. The health tracking you've shared with me \nstarts from Feb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is a recorded value of 35.9616 hours.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 22,
+      "question": "What was the my body weight at 2026-01-03?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[62].value"
+      ],
+      "answer": "78.1374 kg",
+      "exit_code": 0,
+      "reply": "No data from Jan 3 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (78.1374 kg) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 23,
+      "question": "What was the my estimated VO2 max at 2026-01-24?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[695].value"
+      ],
+      "answer": "50.6808 mL/kg/min",
+      "exit_code": 0,
+      "reply": "No data from Jan 24 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (50.6808 mL/kg/min).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 24,
+      "question": "What was the my daily step count at 2026-01-22?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[618].value"
+      ],
+      "answer": "3988 steps",
+      "exit_code": 0,
+      "reply": "No data from Jan 22 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (3988 steps). Assistant should have provided the correct value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 25,
+      "question": "What was the my heart rate variability at 2026-01-20?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[566].value"
+      ],
+      "answer": "71.0304 ms",
+      "exit_code": 0,
+      "reply": "No data from Jan 20 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (71.0304 ms).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 26,
+      "question": "What was the my body battery score at 2026-01-13?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[355].value"
+      ],
+      "answer": "82.951 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 13 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value. Assistant should have provided the correct score instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 27,
+      "question": "What was the my training readiness at 2026-01-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[260].value"
+      ],
+      "answer": 54.2623,
+      "exit_code": 0,
+      "reply": "No data from Jan 9 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates a value exists. The assistant should have provided the value from the reference answer or acknowledged its absence if not available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 28,
+      "question": "What was the my moderate activity time at 2026-01-08?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[219].value"
+      ],
+      "answer": "45.0823 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 8 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (45.0823 minutes). Assistant should have provided the correct value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 29,
+      "question": "What was the my recovery time at 2026-02-06?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1067].value"
+      ],
+      "answer": "36.0532 hours",
+      "exit_code": 0,
+      "reply": "No recovery time data for Feb 6 in the shared records. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states no recovery time data, while reference answer provides a specific value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 30,
+      "question": "What was the my sleep recovery score at 2026-01-03?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[79].value"
+      ],
+      "answer": 91.3446,
+      "exit_code": 0,
+      "reply": "No data from Jan 3 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value. The assistant should have provided the correct score of 91.3446.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 31,
+      "question": "What was the my muscle mass at 2026-01-03?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[73].value"
+      ],
+      "answer": "61.73 kg",
+      "exit_code": 0,
+      "reply": "No data from Jan 3 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates the value is 61.73 kg.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 32,
+      "question": "What was the my body battery score at 2026-01-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[238].value"
+      ],
+      "answer": "71.7761 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 9 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "The assistant incorrectly states there is no data, while the reference answer provides a specific value (71.7761 %) for the requested date. The assistant should have provided the value if it was available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 33,
+      "question": "What was the my wake after sleep onset at 2026-01-19?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[553].value"
+      ],
+      "answer": "16.2603 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 19 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (16.2603 minutes). The assistant's reply contradicts the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 34,
+      "question": "What was the my cardiorespiratory fitness at 2026-01-21?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[587].value"
+      ],
+      "answer": 49.0263,
+      "exit_code": 0,
+      "reply": "No data from Jan 21 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is a recorded value (49.0263).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 35,
+      "question": "What was the my estimated VO2 max at 2026-02-13?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1278].value"
+      ],
+      "answer": "49.6072 mL/kg/min",
+      "exit_code": 0,
+      "reply": "49.61 mL/kg/min (Feb 13 morning log). 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant's answer of 49.61 mL/kg/min is sufficiently close to the reference answer of 49.6072 mL/kg/min, and correctly includes the date and context.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 36,
+      "question": "What was the my daily stress score at 2026-01-03?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[66].value"
+      ],
+      "answer": 39.248,
+      "exit_code": 0,
+      "reply": "No data from Jan 3 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is a recorded value (39.248). Assistant should have provided the correct value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 37,
+      "question": "What was the my daily step count at 2026-01-18?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[505].value"
+      ],
+      "answer": "11397 steps",
+      "exit_code": 0,
+      "reply": "No data from Jan 18 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (11397 steps).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 38,
+      "question": "What was the my lowest SpO2 at 2026-02-06?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1061].value"
+      ],
+      "answer": "91.3846 %",
+      "exit_code": 0,
+      "reply": "No lowest SpO2 data for Feb 6 on record. The Feb 15 dip was described as \n\"back to the Feb 6 neighborhood,\" but I don't have the specific value. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no lowest SpO2 data for the date, when the reference answer provides a specific value. Assistant should have reported the value from the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 39,
+      "question": "What was the my body fat percentage at 2026-01-20?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[557].value"
+      ],
+      "answer": null,
+      "exit_code": 0,
+      "reply": "No data from Jan 20 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly states that there is no data available for the requested date, and provides a clear explanation that health tracking data starts from Feb 1.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 40,
+      "question": "What was the my 24-hour average diastolic blood pressure at 2026-02-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1137].value"
+      ],
+      "answer": "74.2884 mmHg",
+      "exit_code": 0,
+      "reply": "No 24-hour average diastolic BP for Feb 9 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no record, while the reference answer provides a specific value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 41,
+      "question": "What was the my body mass index at 2026-01-25?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[704].value"
+      ],
+      "answer": "24.302 kg/m²",
+      "exit_code": 0,
+      "reply": "No data from Jan 25 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates the BMI was 24.302 kg/m² on 2026-01-25.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 42,
+      "question": "What was the my moderate activity time at 2026-01-01?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[14].value"
+      ],
+      "answer": "49.0289 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 1 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (49.0289 minutes).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 43,
+      "question": "What was the my training load at 2026-01-14?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[405].value"
+      ],
+      "answer": 92.0125,
+      "exit_code": 0,
+      "reply": "No data from Jan 14 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is a recorded value (92.0125). The assistant should have provided the value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 44,
+      "question": "What was the my sleep efficiency at 2026-02-06?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1069].value"
+      ],
+      "answer": "94.0732 %",
+      "exit_code": 0,
+      "reply": "No sleep efficiency data for Feb 6 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no sleep efficiency data when the reference answer shows the value is available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 45,
+      "question": "What was the my moderate activity time at 2026-01-30?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[860].value"
+      ],
+      "answer": "41.7047 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 30 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (41.7047 minutes). Assistant should have provided the value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 46,
+      "question": "What was the my body fat percentage at 2026-01-25?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[703].value"
+      ],
+      "answer": "16.5092 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 25 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value (16.5092 %) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 47,
+      "question": "What was the my maximum heart rate during exercise at 2026-01-14?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[392].value"
+      ],
+      "answer": "174.2582 bpm",
+      "exit_code": 0,
+      "reply": "No max HR during exercise for Jan 14 on record. Your shared health \ntracking starts from Feb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no record, while the reference answer indicates a value exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 48,
+      "question": "What was the my resting heart rate at 2026-01-19?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[546].value"
+      ],
+      "answer": "50.9056 bpm",
+      "exit_code": 0,
+      "reply": "No data from Jan 19 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value (50.9056 bpm) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 49,
+      "question": "What was the my daily distance at 2026-01-30?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[850].value"
+      ],
+      "answer": "6276.3174 meters",
+      "exit_code": 0,
+      "reply": "No data from Jan 30 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (6276.3174 meters). Assistant should have provided the correct value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 50,
+      "question": "What was the my training load at 2026-01-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[259].value"
+      ],
+      "answer": 81.0712,
+      "exit_code": 0,
+      "reply": "No data from Jan 9 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value (81.0712).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 51,
+      "question": "What was the my 24-hour average systolic blood pressure at 2026-01-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[234].value"
+      ],
+      "answer": null,
+      "exit_code": 0,
+      "reply": "No data from Jan 9 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly states that there is no data available for the requested date, and explains that health tracking data starts from February.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 52,
+      "question": "What was the my 24-hour average diastolic blood pressure at 2026-02-03?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[962].value"
+      ],
+      "answer": "77.2967 mmHg",
+      "exit_code": 0,
+      "reply": "No 24-hour average diastolic BP for Feb 3 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no record, while the reference answer provides a specific value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 53,
+      "question": "What was the my heart rate variability at 2026-01-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[245].value"
+      ],
+      "answer": "71.1158 ms",
+      "exit_code": 0,
+      "reply": "No data from Jan 9 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is data (71.1158 ms) available for the requested date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 54,
+      "question": "What was the my body weight at 2026-02-01?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[911].value"
+      ],
+      "answer": "77.1683 kg",
+      "exit_code": 0,
+      "reply": "No specific body weight for Feb 1 on record. BMI was noted at 24.45 at \nthe start of the month, which at 178 cm height would put you around 77.5 \nkg — but that's an estimate, not the actual logged weight. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant provided an estimate instead of the actual recorded weight, and the reference answer is a specific value (77.1683 kg). The assistant's response does not correctly answer the question with the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 55,
+      "question": "What was the my training readiness at 2026-01-30?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[869].value"
+      ],
+      "answer": 67.6443,
+      "exit_code": 0,
+      "reply": "No data from Jan 30 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates a value exists. The assistant should have provided the correct value from the reference.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 56,
+      "question": "What was the my wake after sleep onset at 2026-01-23?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[669].value"
+      ],
+      "answer": null,
+      "exit_code": 0,
+      "reply": "No data from Jan 23 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": true,
+      "llm_judge": {
+        "score_0_1": 1,
+        "reasoning": "The assistant correctly states that there is no data available for the requested date, and explains that health tracking starts from Feb 1.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 57,
+      "question": "What was the my sleep recovery score at 2026-01-04?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[109].value"
+      ],
+      "answer": 96.0354,
+      "exit_code": 0,
+      "reply": "No data from Jan 4 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows a value exists. The assistant should have provided the correct score of 96.0354.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 58,
+      "question": "What was the my estimated VO2 max at 2026-02-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1162].value"
+      ],
+      "answer": "50.9706 mL/kg/min",
+      "exit_code": 0,
+      "reply": "No estimated VO2 max for Feb 9 on record. The only logged VO2 max I have \nis Feb 13 at 49.61 mL/kg/min. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no estimated VO2 max for 2026-02-09, but the reference answer shows there is a value (50.9706 mL/kg/min). Assistant also provides an incorrect value for Feb 13.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 59,
+      "question": "What was the my total sleep time at 2026-01-11?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[314].value"
+      ],
+      "answer": "437.3503 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 11 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (437.3503 minutes) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 60,
+      "question": "What was the my training readiness at 2026-02-02?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[957].value"
+      ],
+      "answer": 76.837,
+      "exit_code": 0,
+      "reply": "No training readiness data for Feb 2 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states no data is available, but the reference answer indicates that training readiness was 76.837.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 61,
+      "question": "What was the my total sleep time at 2026-01-07?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[199].value"
+      ],
+      "answer": "458.602 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 7 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (458.602 minutes).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 62,
+      "question": "What was the my lowest SpO2 at 2026-01-26?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[743].value"
+      ],
+      "answer": "93.3383 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 26 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data when the reference answer shows there is a recorded value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 63,
+      "question": "What was the my light activity time at 2026-02-01?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[915].value"
+      ],
+      "answer": "209.2831 minutes",
+      "exit_code": 0,
+      "reply": "No light activity time data for Feb 1 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states no light activity time data, while reference answer provides specific value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 64,
+      "question": "What was the my sedentary time at 2026-01-17?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[486].value"
+      ],
+      "answer": "608.0329 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 17 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 65,
+      "question": "What was the my 24-hour average systolic blood pressure at 2026-01-07?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[176].value"
+      ],
+      "answer": "113.0927 mmHg",
+      "exit_code": 0,
+      "reply": "No data from Jan 7 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, but reference answer shows data exists. Assistant should have provided the value 113.0927 mmHg.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 66,
+      "question": "What was the my wake after sleep onset at 2026-01-04?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[115].value"
+      ],
+      "answer": "10.2893 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 4 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (10.2893 minutes). Assistant should have provided the correct value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 67,
+      "question": "What was the my standing time at 2026-01-20?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[577].value"
+      ],
+      "answer": "108.8723 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 20 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (108.8723 minutes). The assistant should have provided the value or acknowledged it was not available in the context provided.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 68,
+      "question": "What was the my body fat percentage at 2026-01-26?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[733].value"
+      ],
+      "answer": "16.3336 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 26 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value (16.3336 %) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 69,
+      "question": "What was the my vigorous activity time at 2026-01-07?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[200].value"
+      ],
+      "answer": "27.7749 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 7 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (27.7749 minutes). Assistant should have provided the value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 70,
+      "question": "What was the my daily average METs at 2026-01-21?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[588].value"
+      ],
+      "answer": "1.2973 METs",
+      "exit_code": 0,
+      "reply": "No data from Jan 21 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, but the reference answer indicates there is data (1.2973 METs) available for the date in question.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 71,
+      "question": "What was the my sleep latency at 2026-01-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[256].value"
+      ],
+      "answer": "5.7474 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 9 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value. Assistant should have provided the correct value from the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 72,
+      "question": "What was the my heart rate variability at 2026-02-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1148].value"
+      ],
+      "answer": "62.3203 ms",
+      "exit_code": 0,
+      "reply": "No HRV data for Feb 9 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no HRV data when the reference answer provides a specific value (62.3203 ms). The assistant should have provided the recorded value instead of claiming it's missing.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 73,
+      "question": "What was the my resting heart rate at 2026-02-01?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[925].value"
+      ],
+      "answer": "52.9775 bpm",
+      "exit_code": 0,
+      "reply": "No resting heart rate for Feb 1 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no resting heart rate record when the reference answer provides a value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 74,
+      "question": "What was the my body fat percentage at 2026-01-15?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[409].value"
+      ],
+      "answer": "16.628 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 15 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (16.628 %) for the given date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 75,
+      "question": "What was the my body mass index at 2026-02-02?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[938].value"
+      ],
+      "answer": "24.3875 kg/m²",
+      "exit_code": 0,
+      "reply": "No BMI data for Feb 2 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no BMI data when the reference answer clearly provides a value. The assistant should have provided the correct BMI value from the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 76,
+      "question": "What was the my training readiness at 2026-01-31?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[897].value"
+      ],
+      "answer": 66.1899,
+      "exit_code": 0,
+      "reply": "No data from Jan 31 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows a value exists. The assistant should have provided the value 66.1899 instead of claiming no data is available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 77,
+      "question": "What was the my cardiorespiratory fitness at 2026-01-19?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[529].value"
+      ],
+      "answer": 49.7269,
+      "exit_code": 0,
+      "reply": "No data from Jan 19 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, but the reference answer indicates that the value 49.7269 is available in the specified path.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 78,
+      "question": "What was the my cardiorespiratory fitness at 2026-01-24?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[675].value"
+      ],
+      "answer": 50.8382,
+      "exit_code": 0,
+      "reply": "No data from Jan 24 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, but the reference answer indicates data exists (50.8382).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 79,
+      "question": "What was the my cardiorespiratory fitness at 2026-01-07?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[180].value"
+      ],
+      "answer": 49.1627,
+      "exit_code": 0,
+      "reply": "No data from Jan 7 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows a value exists. Assistant should have provided the value 49.1627 instead of claiming no data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 80,
+      "question": "What was the my training load at 2026-01-15?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[431].value"
+      ],
+      "answer": 79.3013,
+      "exit_code": 0,
+      "reply": "No data from Jan 15 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates that a value (79.3013) exists for the given date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 81,
+      "question": "What was the my daily exercise duration at 2026-01-22?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[617].value"
+      ],
+      "answer": "10.144 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 22 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (10.144 minutes). Assistant should have provided the correct value instead of claiming no data exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 82,
+      "question": "What was the my cardiorespiratory fitness at 2026-01-15?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[411].value"
+      ],
+      "answer": 48.8818,
+      "exit_code": 0,
+      "reply": "No data from Jan 15 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates a value exists. The assistant should have provided the value from the reference answer if available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 83,
+      "question": "What was the my body mass index at 2026-02-10?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1172].value"
+      ],
+      "answer": "24.7183 kg/m²",
+      "exit_code": 0,
+      "reply": "No BMI data for Feb 10 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states no BMI data is available, but reference answer shows BMI value exists.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 84,
+      "question": "What was the my visceral fat level at 2026-02-02?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[960].value"
+      ],
+      "answer": "6.3329 level",
+      "exit_code": 0,
+      "reply": "No visceral fat data for Feb 2 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data when the reference answer explicitly provides a value (6.3329 level).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 85,
+      "question": "What was the my lowest SpO2 at 2026-01-24?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[680].value"
+      ],
+      "answer": "93.3492 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 24 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is data (93.3492 %) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 86,
+      "question": "What was the my average heart rate during exercise at 2026-01-20?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[556].value"
+      ],
+      "answer": "114.6818 bpm",
+      "exit_code": 0,
+      "reply": "No data from Jan 20 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (114.6818 bpm).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 87,
+      "question": "What was the my body weight at 2026-01-29?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[822].value"
+      ],
+      "answer": "77.0778 kg",
+      "exit_code": 0,
+      "reply": "No data from Jan 29 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (77.0778 kg) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 88,
+      "question": "What was the my training load at 2026-01-05?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[144].value"
+      ],
+      "answer": 85.4666,
+      "exit_code": 0,
+      "reply": "No data from Jan 5 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is a recorded value (85.4666). The assistant should have provided the value or acknowledged it if it was missing.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 89,
+      "question": "What was the my estimated VO2 max at 2026-01-20?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[580].value"
+      ],
+      "answer": "50.2895 mL/kg/min",
+      "exit_code": 0,
+      "reply": "No data from Jan 20 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (50.2895 mL/kg/min) for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 90,
+      "question": "What was the my standing time at 2026-01-03?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[80].value"
+      ],
+      "answer": "120.3462 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 3 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (120.3462 minutes). Assistant should have provided the correct value.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 91,
+      "question": "What was the my light activity time at 2026-01-28?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[801].value"
+      ],
+      "answer": "213.3047 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 28 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is recorded data (213.3047 minutes).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 92,
+      "question": "What was the my training load at 2026-02-04?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1017].value"
+      ],
+      "answer": 125.1174,
+      "exit_code": 0,
+      "reply": "No training load data for Feb 4 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no training load data when the reference answer indicates there is a value (125.1174) available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 93,
+      "question": "What was the my daily exercise duration at 2026-01-24?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[677].value"
+      ],
+      "answer": "10.4957 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 24 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (10.4957 minutes). The assistant's reply contradicts the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 94,
+      "question": "What was the my sleep latency at 2026-01-06?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[168].value"
+      ],
+      "answer": "12.8653 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 6 on record. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is a recorded value. The assistant should have provided the correct value from the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 95,
+      "question": "What was the my deep sleep duration at 2026-01-19?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[532].value"
+      ],
+      "answer": "91.874 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 19 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates data exists (91.874 minutes).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 96,
+      "question": "What was the my deep sleep duration at 2026-01-28?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[797].value"
+      ],
+      "answer": "83.2835 minutes",
+      "exit_code": 0,
+      "reply": "No data from Jan 28 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer indicates there is recorded data (83.2835 minutes).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 97,
+      "question": "What was the my lowest SpO2 at 2026-01-19?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[537].value"
+      ],
+      "answer": "93.8113 %",
+      "exit_code": 0,
+      "reply": "No data from Jan 19 on record. Your shared health tracking starts from \nFeb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer shows there is data (93.8113 %) available for the specified date.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 98,
+      "question": "What was the my 1-minute heart rate recovery at 2026-02-13?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1265].value"
+      ],
+      "answer": "36.402 bpm",
+      "exit_code": 0,
+      "reply": "No 1-minute heart rate recovery data for Feb 13 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant claims no data exists, but reference answer indicates data was present (36.402 bpm). Assistant's reply is incorrect.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 99,
+      "question": "What was the my 1-minute heart rate recovery at 2026-02-04?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1004].value"
+      ],
+      "answer": "34.6439 bpm",
+      "exit_code": 0,
+      "reply": "No 1-minute heart rate recovery data for Feb 4 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data, while the reference answer provides a specific value. The assistant should have provided the value from the reference answer if available.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 100,
+      "question": "What was the my training load at 2026-02-09?",
+      "question_type": "single-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[1161].value"
+      ],
+      "answer": 123.8948,
+      "exit_code": 0,
+      "reply": "No training load data for Feb 9 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no training load data when the reference answer indicates the value is 123.8948.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 101,
+      "question": "How did the my 24-hour average diastolic blood pressure change from 2026-01-13 to 2026-01-24?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[350].time",
+        "timeline_26_filtered_sparse40.json.entries[350].value",
+        "timeline_26_filtered_sparse40.json.entries[670].time",
+        "timeline_26_filtered_sparse40.json.entries[670].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-13T04:31:19",
+          "value": "73.7005 mmHg"
+        },
+        "end": {
+          "time": "2026-01-24T04:31:19",
+          "value": "75.4336 mmHg"
+        },
+        "change": "1.7331 mmHg",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for either Jan 13 or Jan 24. Your shared health tracking starts \nfrom Feb 1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data, while the reference answer shows data exists for both dates.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 102,
+      "question": "How did the my 24-hour average diastolic blood pressure change from 2026-01-24 to 2026-02-03?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[670].time",
+        "timeline_26_filtered_sparse40.json.entries[670].value",
+        "timeline_26_filtered_sparse40.json.entries[962].time",
+        "timeline_26_filtered_sparse40.json.entries[962].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-24T04:31:19",
+          "value": "75.4336 mmHg"
+        },
+        "end": {
+          "time": "2026-02-03T04:31:19",
+          "value": "77.2967 mmHg"
+        },
+        "change": "1.8631 mmHg",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 24 or Feb 3. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for the requested dates, while the reference answer provides specific values for both dates. The assistant's reply is factually incorrect and fails to address the question.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 103,
+      "question": "How did the my 24-hour average diastolic blood pressure change from 2026-02-03 to 2026-02-09?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[962].time",
+        "timeline_26_filtered_sparse40.json.entries[962].value",
+        "timeline_26_filtered_sparse40.json.entries[1137].time",
+        "timeline_26_filtered_sparse40.json.entries[1137].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-02-03T04:31:19",
+          "value": "77.2967 mmHg"
+        },
+        "end": {
+          "time": "2026-02-09T04:31:19",
+          "value": "74.2884 mmHg"
+        },
+        "change": "-3.0083 mmHg",
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Feb 3 or Feb 9. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Feb 3 or Feb 9, while the reference answer provides specific values for both dates. The assistant's reply contradicts the available data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 104,
+      "question": "How did the my average heart rate during exercise change from 2026-01-05 to 2026-01-20?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[119].time",
+        "timeline_26_filtered_sparse40.json.entries[119].value",
+        "timeline_26_filtered_sparse40.json.entries[556].time",
+        "timeline_26_filtered_sparse40.json.entries[556].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-05T04:31:19",
+          "value": "140.2031 bpm"
+        },
+        "end": {
+          "time": "2026-01-20T04:31:19",
+          "value": "114.6818 bpm"
+        },
+        "change": "-25.5213 bpm",
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 5 or Jan 20. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for the requested dates, while the reference answer provides specific values for both dates. The assistant should have answered based on the available data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 105,
+      "question": "How did the my body battery score change from 2026-01-09 to 2026-01-13?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[238].time",
+        "timeline_26_filtered_sparse40.json.entries[238].value",
+        "timeline_26_filtered_sparse40.json.entries[355].time",
+        "timeline_26_filtered_sparse40.json.entries[355].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-09T04:31:19",
+          "value": "71.7761 %"
+        },
+        "end": {
+          "time": "2026-01-13T04:31:19",
+          "value": "82.951 %"
+        },
+        "change": "11.1749 %",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 9 or Jan 13. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 9 or Jan 13, when the reference answer clearly provides values for those dates. The assistant's reply contradicts the reference answer and fails to address the actual question.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 106,
+      "question": "How did the my body fat percentage change from 2026-01-15 to 2026-01-25?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[409].time",
+        "timeline_26_filtered_sparse40.json.entries[409].value",
+        "timeline_26_filtered_sparse40.json.entries[703].time",
+        "timeline_26_filtered_sparse40.json.entries[703].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-15T04:31:19",
+          "value": "16.628 %"
+        },
+        "end": {
+          "time": "2026-01-25T04:31:19",
+          "value": "16.5092 %"
+        },
+        "change": "-0.1188 %",
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 15 or Jan 25. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for the requested dates, while the reference answer provides specific body fat percentage values for both dates. The assistant should have reported the change as -0.1188%.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 107,
+      "question": "How did the my body fat percentage change from 2026-01-25 to 2026-01-26?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[703].time",
+        "timeline_26_filtered_sparse40.json.entries[703].value",
+        "timeline_26_filtered_sparse40.json.entries[733].time",
+        "timeline_26_filtered_sparse40.json.entries[733].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-25T04:31:19",
+          "value": "16.5092 %"
+        },
+        "end": {
+          "time": "2026-01-26T04:31:19",
+          "value": "16.3336 %"
+        },
+        "change": "-0.1756 %",
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 25 or Jan 26. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data, while the reference answer clearly provides data for both dates. The assistant should have reported the change in body fat percentage as per the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 108,
+      "question": "How did the my body mass index change from 2026-01-25 to 2026-02-02?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[704].time",
+        "timeline_26_filtered_sparse40.json.entries[704].value",
+        "timeline_26_filtered_sparse40.json.entries[938].time",
+        "timeline_26_filtered_sparse40.json.entries[938].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-25T04:31:19",
+          "value": "24.302 kg/m²"
+        },
+        "end": {
+          "time": "2026-02-02T04:31:19",
+          "value": "24.3875 kg/m²"
+        },
+        "change": "0.0855 kg/m²",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 25 or Feb 2. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for the requested dates, but the reference answer contains valid data for both dates. The assistant should have provided the BMI values and change as per the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 109,
+      "question": "How did the my body mass index change from 2026-02-02 to 2026-02-03?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[938].time",
+        "timeline_26_filtered_sparse40.json.entries[938].value",
+        "timeline_26_filtered_sparse40.json.entries[966].time",
+        "timeline_26_filtered_sparse40.json.entries[966].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-02-02T04:31:19",
+          "value": "24.3875 kg/m²"
+        },
+        "end": {
+          "time": "2026-02-03T04:31:19",
+          "value": "24.4497 kg/m²"
+        },
+        "change": "0.0622 kg/m²",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No BMI data for Feb 2 or Feb 3 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no BMI data when the reference answer clearly provides BMI values for both dates.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 110,
+      "question": "How did the my body mass index change from 2026-02-03 to 2026-02-10?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[966].time",
+        "timeline_26_filtered_sparse40.json.entries[966].value",
+        "timeline_26_filtered_sparse40.json.entries[1172].time",
+        "timeline_26_filtered_sparse40.json.entries[1172].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-02-03T04:31:19",
+          "value": "24.4497 kg/m²"
+        },
+        "end": {
+          "time": "2026-02-10T04:31:19",
+          "value": "24.7183 kg/m²"
+        },
+        "change": "0.2686 kg/m²",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No BMI data for Feb 3 or Feb 10 on record. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no BMI data when the reference answer provides specific BMI values for both dates.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 111,
+      "question": "How did the my body weight change from 2026-01-03 to 2026-01-29?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[62].time",
+        "timeline_26_filtered_sparse40.json.entries[62].value",
+        "timeline_26_filtered_sparse40.json.entries[822].time",
+        "timeline_26_filtered_sparse40.json.entries[822].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-03T04:31:19",
+          "value": "78.1374 kg"
+        },
+        "end": {
+          "time": "2026-01-29T04:31:19",
+          "value": "77.0778 kg"
+        },
+        "change": "-1.0596 kg",
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 3 or Jan 29. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly states there is no data for Jan 3 or Jan 29, when the reference answer clearly provides values for those dates. The assistant's reply contradicts the reference answer.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 112,
+      "question": "How did the my body weight change from 2026-01-29 to 2026-02-01?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[822].time",
+        "timeline_26_filtered_sparse40.json.entries[822].value",
+        "timeline_26_filtered_sparse40.json.entries[911].time",
+        "timeline_26_filtered_sparse40.json.entries[911].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-29T04:31:19",
+          "value": "77.0778 kg"
+        },
+        "end": {
+          "time": "2026-02-01T04:31:19",
+          "value": "77.1683 kg"
+        },
+        "change": "0.0905 kg",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 29. Feb 1 has no specific weight logged either. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant claims no data, but reference answer provides specific weight values for both dates. Assistant should have reported the change as 0.0905 kg (increased).",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 113,
+      "question": "How did the my cardiorespiratory fitness change from 2026-01-07 to 2026-01-15?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[180].time",
+        "timeline_26_filtered_sparse40.json.entries[180].value",
+        "timeline_26_filtered_sparse40.json.entries[411].time",
+        "timeline_26_filtered_sparse40.json.entries[411].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-07T04:31:19",
+          "value": 49.1627
+        },
+        "end": {
+          "time": "2026-01-15T04:31:19",
+          "value": 48.8818
+        },
+        "change": -0.2809,
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 7 or Jan 15. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 7 or Jan 15, when the reference answer clearly provides values for those dates. The assistant should have answered based on the available data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 114,
+      "question": "How did the my cardiorespiratory fitness change from 2026-01-15 to 2026-01-19?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[411].time",
+        "timeline_26_filtered_sparse40.json.entries[411].value",
+        "timeline_26_filtered_sparse40.json.entries[529].time",
+        "timeline_26_filtered_sparse40.json.entries[529].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-15T04:31:19",
+          "value": 48.8818
+        },
+        "end": {
+          "time": "2026-01-19T04:31:19",
+          "value": 49.7269
+        },
+        "change": 0.8451,
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 15 or Jan 19. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 15 or Jan 19, when the reference answer provides specific values for those dates. The assistant's reply contradicts the available data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 115,
+      "question": "How did the my cardiorespiratory fitness change from 2026-01-19 to 2026-01-21?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[529].time",
+        "timeline_26_filtered_sparse40.json.entries[529].value",
+        "timeline_26_filtered_sparse40.json.entries[587].time",
+        "timeline_26_filtered_sparse40.json.entries[587].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-19T04:31:19",
+          "value": 49.7269
+        },
+        "end": {
+          "time": "2026-01-21T04:31:19",
+          "value": 49.0263
+        },
+        "change": -0.7006,
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 19 or Jan 21. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 19 or Jan 21, but the reference answer shows data exists for both dates. Assistant should have provided the change value instead.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 116,
+      "question": "How did the my cardiorespiratory fitness change from 2026-01-21 to 2026-01-24?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[587].time",
+        "timeline_26_filtered_sparse40.json.entries[587].value",
+        "timeline_26_filtered_sparse40.json.entries[675].time",
+        "timeline_26_filtered_sparse40.json.entries[675].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-21T04:31:19",
+          "value": 49.0263
+        },
+        "end": {
+          "time": "2026-01-24T04:31:19",
+          "value": 50.8382
+        },
+        "change": 1.8119,
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 21 or Jan 24. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data, while the reference answer clearly provides values for both dates. The assistant should have reported the change as 1.8119 with an 'increased' direction.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 117,
+      "question": "How did the my daily average METs change from 2026-01-21 to 2026-02-07?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[588].time",
+        "timeline_26_filtered_sparse40.json.entries[588].value",
+        "timeline_26_filtered_sparse40.json.entries[1084].time",
+        "timeline_26_filtered_sparse40.json.entries[1084].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-21T04:31:19",
+          "value": "1.2973 METs"
+        },
+        "end": {
+          "time": "2026-02-07T04:31:19",
+          "value": "1.6458 METs"
+        },
+        "change": "0.3485 METs",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 21 or Feb 7. Your shared health tracking starts from Feb \n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for the requested dates, while the reference answer provides specific METs values for both dates. The assistant should have answered based on the available data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 118,
+      "question": "How did the my daily exercise duration change from 2026-01-22 to 2026-01-24?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[617].time",
+        "timeline_26_filtered_sparse40.json.entries[617].value",
+        "timeline_26_filtered_sparse40.json.entries[677].time",
+        "timeline_26_filtered_sparse40.json.entries[677].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-22T04:31:19",
+          "value": "10.144 minutes"
+        },
+        "end": {
+          "time": "2026-01-24T04:31:19",
+          "value": "10.4957 minutes"
+        },
+        "change": "0.3517 minutes",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 22 or Jan 24. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 22 or Jan 24, when the reference answer provides specific values for both dates. The assistant should have answered based on the provided reference data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 119,
+      "question": "How did the my daily step count change from 2026-01-14 to 2026-01-18?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[386].time",
+        "timeline_26_filtered_sparse40.json.entries[386].value",
+        "timeline_26_filtered_sparse40.json.entries[505].time",
+        "timeline_26_filtered_sparse40.json.entries[505].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-14T04:31:19",
+          "value": "10335 steps"
+        },
+        "end": {
+          "time": "2026-01-18T04:31:19",
+          "value": "11397 steps"
+        },
+        "change": "1062 steps",
+        "direction": "increased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 14 or Jan 18. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 14 or Jan 18, but the reference answer provides specific step counts for both dates. Assistant should have answered based on the provided reference data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    },
+    {
+      "question_index_in_file": 120,
+      "question": "How did the my daily step count change from 2026-01-18 to 2026-01-22?",
+      "question_type": "multi-hop",
+      "ground_truth": [
+        "timeline_26_filtered_sparse40.json.entries[505].time",
+        "timeline_26_filtered_sparse40.json.entries[505].value",
+        "timeline_26_filtered_sparse40.json.entries[618].time",
+        "timeline_26_filtered_sparse40.json.entries[618].value"
+      ],
+      "answer": {
+        "start": {
+          "time": "2026-01-18T04:31:19",
+          "value": "11397 steps"
+        },
+        "end": {
+          "time": "2026-01-22T04:31:19",
+          "value": "3988 steps"
+        },
+        "change": "-7409 steps",
+        "direction": "decreased"
+      },
+      "exit_code": 0,
+      "reply": "No data for Jan 18 or Jan 22. Your shared health tracking starts from Feb\n1. 🐈",
+      "pass": false,
+      "llm_judge": {
+        "score_0_1": 0,
+        "reasoning": "Assistant incorrectly stated there is no data for Jan 18 or Jan 22, but the reference answer provides step counts for both dates. Assistant should have answered based on the provided data.",
+        "model": "qwen/qwen-turbo"
+      },
+      "pass_source": "llm_judge"
+    }
+  ],
+  "llm_judge_source_eval": "/Users/fang/Documents/codespace/nanobot/bench/run_result/eval_results.json",
+  "llm_judge_model": "qwen/qwen-turbo",
+  "llm_judge_api_base": "https://openrouter.ai/api/v1",
+  "llm_judge_passed": 22,
+  "llm_judge_asked": 120,
+  "llm_judge_pass_rate": 0.18333333333333332,
+  "scoring_mode": "llm_primary"
+}

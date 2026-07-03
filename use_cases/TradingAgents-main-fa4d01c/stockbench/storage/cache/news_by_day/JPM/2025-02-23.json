@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stock investors stopped freaking out over interest rates. Now this threat is re-emerging.",
+      "description": "Stock investors stopped freaking out over interest rates. Now this threat is re-emerging.",
+      "published_utc": "2025-02-23T23:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ace9a04540bfc660e542334a260dfbe7ee7d77147fb48425780caf1a8dd1eb98",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132881567,
+      "datetime": 1740323820
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson’s (JNJ) IMAAVY Demonstrates Superior gMG Control",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the 12 stocks that will make you rich in 10 years. On June 23, J&J announced new data from an indirect treatment comparison (ITC) study. The data show that the company’s drug, IMAAVY (nipocalimab-aahu), demonstrated consistent and sustained disease control in patients with generalized myasthenia gravis (gMG) compared […]",
+      "published_utc": "2025-06-28T17:41:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ded94b7548170ed642f8cd2be5af8ca60f5621c8fc3db7592fb513fa9d4e8252",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135623530,
+      "datetime": 1751103684
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:41.561250+00:00",
+    "cache_key": "news_bccca378cebddfa0871c45990531309e",
+    "count": 1
+  }
+}

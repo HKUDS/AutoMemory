@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For May 2025",
+      "description": "Discover top dividend growth stocks with strong returns and attractive valuations. See which 17 stocks had rating changes this month.",
+      "published_utc": "2025-05-04T06:39:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a762047670374f80ad46f6a15d2b0db249e8353790f3177242647b358bf9547",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2047165268/image_2047165268.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134235481,
+      "datetime": 1746311940
+    },
+    {
+      "title": "Dogs Of The Dow Chase May's 'Safer' Buy",
+      "description": "Discover the top Dow Dogs for potential gains of 21%-45% by 2026, with Verizon leading in dividends. Read more on the price gainers for 2026 based on 1-year target prices.",
+      "published_utc": "2025-05-03T17:46:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=350e7769b702ab011e6e05a8a775d6afbeec758c10f0e5378d06981688951dc9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470996886/image_1470996886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134226264,
+      "datetime": 1746265597
+    },
+    {
+      "title": "SCHD Alternative Strategy: Outperforming The S&P 500 And SCHD In 2025",
+      "description": "Boost your investments with a 4-Factor Dividend Growth Strategy. Learn how this growth-focused approach outperforms benchmarks with a 14.42% CAGR. See more on SCHD.",
+      "published_utc": "2025-05-03T11:00:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b56b01dba56eb247c4095d0bdeac8c46486d3960872a1eb9ee763eb178cb61d9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2173105185/image_2173105185.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134210843,
+      "datetime": 1746241254
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:38.443250+00:00",
+    "cache_key": "news_7526c1c5be835012787d4db625a9c752",
+    "count": 3
+  }
+}

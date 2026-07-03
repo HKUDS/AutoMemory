@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "When You Should (And Shouldn't) Buy DIVO Instead Of SCHD",
+      "description": "Discover why DIVO may make more sense than SCHD for many investors, as well as when it does not make sense.",
+      "published_utc": "2025-07-13T19:14:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6d8b4f7a66a1e7a7732f9142068794b68f96bbf2c9f565ccafde5e4266efd0cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201143585/image_2201143585.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135911323,
+      "datetime": 1752405273
+    }
+  ]
+}

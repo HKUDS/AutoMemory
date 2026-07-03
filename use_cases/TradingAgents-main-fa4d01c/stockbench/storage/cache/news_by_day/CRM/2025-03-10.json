@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "ServiceNow Is Buying an AI Startup. It’s Making Its Largest Deal Yet.",
+      "description": "ServiceNow Is Buying an AI Startup. It’s Making Its Largest Deal Yet.",
+      "published_utc": "2025-03-10T19:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=64ec0c51b2c934c939d133aa7decb20e8b4e89a926dcf56fb15ed800f789910d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147751,
+      "datetime": 1741606440
+    },
+    {
+      "title": "ServiceNow Acquires AI Startup Moveworks In $2.85 Billion Deal",
+      "description": "ServiceNow Acquires AI Startup Moveworks In $2.85 Billion Deal",
+      "published_utc": "2025-03-10T17:25:51",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c7db1abb31b2c03e10548108cf5e9cea971ab90c0c71d563cbe57d62f51e9a8e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133118888,
+      "datetime": 1741598751
+    }
+  ]
+}

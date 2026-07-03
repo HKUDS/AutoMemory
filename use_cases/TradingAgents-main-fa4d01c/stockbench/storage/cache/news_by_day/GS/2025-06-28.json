@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Americans Cash Out on Gold Coins as Asian Investors Bulk Up",
+      "description": "(Bloomberg) -- Americans who once snapped up gold bars and coins are offloading the assets while their Asian counterparts show no letup in bullion buying, a sign investors on opposite sides of the world have different outlooks on the global economy.Most Read from BloombergPhiladelphia Transit System Votes to Cut Service by 45%, Hike FaresUS Renters Face Storm of Rising CostsSqueezed by Crowds, the Roads of Central Park Are Being ReimaginedSprawl Is Still Not the AnswerMapping the Architectural H",
+      "published_utc": "2025-06-28T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4942e07cd216c18ce91ce3a552c788aca639f1424f9a58b17e0dca2ce099ee58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135610695,
+      "datetime": 1751112000
+    },
+    {
+      "title": "AI could wipe out entire Wall Street teams. Here’s who will have staying power.",
+      "description": "AI could wipe out entire Wall Street teams. Here’s who will have staying power.",
+      "published_utc": "2025-06-28T16:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=97b450ead6880e32e6ab017eb0220245db07c9e1787fbc55ce0b650d7cf36b5d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135656419,
+      "datetime": 1751099400
+    },
+    {
+      "title": "The Goldman Sachs Group (GS) Continues to Lead in Global Finance",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the Best Dividend Stocks of 2025. The stock has surged by 16.5% since the start of 2025. In its Q1 2025 earnings report, the company reported leading the industry in several key areas. It secured the top spot globally for both announced and completed mergers and […]",
+      "published_utc": "2025-06-28T13:29:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccea8895c45717a1ec35eacb87abff6a057fb33526a3218c19243df15d7f7c92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135611184,
+      "datetime": 1751088576
+    },
+    {
+      "title": "Bull Market Ahead for Financial ETFs?",
+      "description": "Financial sector rallies as Fed rate cut hopes and easing regulations fuel a 22.94% jump in the Dow Jones U.S. Financials Index.",
+      "published_utc": "2025-06-28T08:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4bf308c2dadcbaf39af55e194c675c0796a01f21862b9d985296bde8f421261",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135603295,
+      "datetime": 1751068860
+    }
+  ]
+}

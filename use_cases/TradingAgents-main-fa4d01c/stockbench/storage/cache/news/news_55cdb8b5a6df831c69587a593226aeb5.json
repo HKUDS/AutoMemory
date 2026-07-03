@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs BDC Inc (GSBD) Q1 2025 Earnings Call Highlights: Navigating Market Challenges ...",
+      "description": "Goldman Sachs BDC Inc (GSBD) demonstrates robust financial performance despite macroeconomic headwinds, with strategic dividend adjustments and improved credit quality.",
+      "published_utc": "2025-05-13T05:00:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4b3c5e6f553554b5094d5ac5abb1ca32a9bc115f8586c42b347ee7290757db9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408859,
+      "datetime": 1747083654
+    },
+    {
+      "title": "50 Fortune World's Most Admired Companies (FWMAC): 24 \"Safer\", 1 Ideal Buy",
+      "description": "These are my top dividend stock picks from Fortune Worldâs Most Admired Companies, May 2025 edition. Read the full report here on Seeking Alpha.",
+      "published_utc": "2025-05-13T02:25:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce6b1e455860c526dd2cb46bd7eb05e757c51e3c22b9d8bfeba114fe20621d90",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/678921557/image_678921557.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392206,
+      "datetime": 1747074311
+    },
+    {
+      "title": "Dow surges nearly 1050 points on gains in shares of Amazon.com Inc., Nike",
+      "description": "Dow surges nearly 1050 points on gains in shares of Amazon.com Inc., Nike",
+      "published_utc": "2025-05-12T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f09970122a8cb041ae91430f26960272ae2e230f8ef5a9fd0f8bfaaf542f9dc9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134382416,
+      "datetime": 1747043100
+    },
+    {
+      "title": "CATL Begins Taking Orders for World’s Top Listing in 2025",
+      "description": "(Bloomberg) -- Contemporary Amperex Technology Co. Ltd. has started taking investor orders for a Hong Kong stock offering that is likely to be the world’s biggest listing this year. Most Read from BloombergA New Central Park Amenity, Tailored to Its East Harlem NeighborsAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsWhat’s Behind the Rise in Serious Injuries on New York City’s Streets?Is Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?NYC Warns of 17% Drop in For",
+      "published_utc": "2025-05-12T17:14:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17567699802638c1fa6feb6c39ac1bfca9c48845dcb3faf9111fe1103c6a3cc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379218,
+      "datetime": 1747041282
+    },
+    {
+      "title": "Gold takes a dive as US-China trade deal dents safe-haven appeal",
+      "description": "Meanwhile, oil jumped by almost 3% as Washington and Beijing agreed to slash tariffs on each other.",
+      "published_utc": "2025-05-12T16:34:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e731d505c3e00b1361d68e838c6c846dce0e1b57ad1b406987b47201d5ab08ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379357,
+      "datetime": 1747038896
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:27.613263+00:00",
+    "cache_key": "news_55cdb8b5a6df831c69587a593226aeb5",
+    "count": 5
+  }
+}

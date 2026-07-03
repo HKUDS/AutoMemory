@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is Honeywell International Inc. (HON) the Best Dow Stock for the Next 12 Months?",
+      "description": "We recently published a list of The Best and Worst Dow Stocks for the Next 12 Months. In this article, we are going to take a look at where Honeywell International Inc. (NASDAQ:HON) stands against other best and worst dow stocks for the next 12 months. The Dow Jones Industrial Average (DJIA), or the Dow, […]",
+      "published_utc": "2025-05-01T02:29:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f645bdcf6ae9806cdab77f48aa9fe6b25f3ca67525277c1389472788e4c7e0b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166118,
+      "datetime": 1746037784
+    },
+    {
+      "title": "HONEYWELL SURVEY FINDS AI HAS POTENTIAL TO ENHANCE ENERGY SECURITY AS GLOBAL ENERGY DEMAND INCREASES",
+      "description": "Honeywell (Nasdaq: HON) today released its AI in the Energy Industry pulse survey, which reveals the majority of participating U.S. energy executives believe artificial intelligence (AI) has the near-term potential to improve and enhance energy security.",
+      "published_utc": "2025-04-30T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffce327fc29aa5cdbc53767787b77dc7f42b63bc9c1c669f286429ae4cd56359",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134166119,
+      "datetime": 1746014400
+    },
+    {
+      "title": "HONEYWELL ANNOUNCES QUARTERLY DIVIDEND",
+      "description": "CHARLOTTE, N.C.- Honeywell today announced that its Board of Directors has declared a quarterly dividend payment of $1.13 per share on the Company's common stock. The dividend is payable on June 6,...",
+      "published_utc": "2025-04-30T18:42:21",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ab399c025e5c9f880426794a4af2d62fcd59c8fbb97d054c6cef6f6843b7ba3d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134145464,
+      "datetime": 1746009741
+    },
+    {
+      "title": "Tariff And Tumble: April's Market Mood Swings",
+      "description": "April was a month of rapid escalation and partial de-escalation, driving major moves across equity, bond, and commodity markets. Click to read.",
+      "published_utc": "2025-04-30T16:27:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f92bb6891932e980e9955be0e1f8ec8fb5428b2485a512c9949cf6191b8e273a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490620838/image_1490620838.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134144108,
+      "datetime": 1746001620
+    },
+    {
+      "title": "Honeywell International Inc (HON) Q1 2025 Earnings Call Highlights: Strong Performance Amid ...",
+      "description": "Honeywell International Inc (HON) reports robust growth in Aerospace Technologies and raises full-year EPS guidance despite global challenges.",
+      "published_utc": "2025-04-30T15:10:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bc32282f97c4254c4ee0af15a4c120cc2fbd1dcd53b9c777f30453e99f5665f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141758,
+      "datetime": 1745997033
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:38:25.097805+00:00",
+    "cache_key": "news_05540a527ad154bf973e37dfdf71d549",
+    "count": 5
+  }
+}

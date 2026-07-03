@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Apple Selling Corporate Bonds for the First Time Since 2023",
+      "description": "(Bloomberg) -- Apple Inc. is planning to sell corporate bonds on Monday, according to a person familiar with the matter, in the company’s first debt offering in two years.Most Read from BloombergThe Battle Over the Fate of Detroit’s Renaissance CenterNYC Real Estate Industry Asks Judge to Block New Broker Fee LawNJ Transit Strike Would Be ‘Disaster’ for Region, Sherrill SaysIceland Plans for a More Volcanic FutureNJ Transit Urges Commuters to Work Remotely If Union StrikesThe iPhone maker is loo",
+      "published_utc": "2025-05-05T21:18:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2217f75138d0f438e524bdd376dc7d7129e36112ef7988de0484a2bfa70e1c4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246667,
+      "datetime": 1746451096
+    },
+    {
+      "title": "PRECIOUS-Gold gains on dollar weakness, safe-haven demand",
+      "description": "Gold prices gained over 2% on Monday,driven by a weaker dollar and safe-haven demand, while themarket awaits a policy decision from the U.S. Federal Reservelater in the week. Spot...",
+      "published_utc": "2025-05-05T18:18:51",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f6115bdeeed47532d68ca96f1194bda8f53eb7ce91612d08c13ab007e07b4496",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246432,
+      "datetime": 1746440331
+    },
+    {
+      "title": "Gold gains on dollar weakness, safe-haven demand",
+      "description": "Gold prices gained over 2% on Friday,driven by a weaker dollar and safe-haven demand, while themarket awaits a policy decision from the U.S. Federal Reservelater in the week. Spot...",
+      "published_utc": "2025-05-05T17:59:36",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=103743dbd9b7641017855e09b3e4e86de3c476e7207862e4569e227c65f3e795",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246334,
+      "datetime": 1746439176
+    }
+  ]
+}

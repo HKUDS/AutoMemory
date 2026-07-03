@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "title": "Capital One Finishes Discover Acquisition After 15-Month Journey",
+      "description": "(Bloomberg) -- Almost 15 months after its announcement, Capital One Financial Corp.’s takeover of Discover Financial Services was officially completed on Sunday, creating the largest credit-card issuer by loan volume in the US.Most Read from BloombergHow a Highway Became San Francisco’s Newest ParkAmerica, ‘Nation of Porches’Maryland’s Credit Rating Gets Downgraded as Governor Blames Trump NJ Transit Train Engineers Strike, Disrupting Travel to NYCNYC Commuters Brace for Chaos as NJ Transit Stri",
+      "published_utc": "2025-05-18T20:30:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1ad46a8c1b10593901ef157214f03872052fa0a5828a0ecadfd7f652cc51a21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577167,
+      "datetime": 1747571431
+    },
+    {
+      "title": "How To Retire With A Potential $5,000 Monthly Income",
+      "description": "The S&P 500's 1.3% yield and volatility donât suit most retirees. See why our balanced portfolio targets 5â6% income with lower risk and drawdowns.",
+      "published_utc": "2025-05-18T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b99586ed35061f684a91dd1a33383d69baa9006861a56e32f240c24bdab7e125",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1519354753/image_1519354753.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134569532,
+      "datetime": 1747557000
+    },
+    {
+      "id": "7611fe67fcf63c3f3d3f2c7e320471120197d17203e983c9f5b61c2f6b4e16cb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "7 No-Brainer Dividend Growth Stocks to Buy Right Now",
+      "author": "George Budwell",
+      "published_utc": "2025-05-18T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/18/7-no-brainer-dividend-growth-stocks-to-buy-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "V",
+        "COST",
+        "TGT",
+        "SPGI",
+        "NVDA",
+        "ASML"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818687/getty-dividend-stocks-growing-money-income-cash.jpg",
+      "description": "The article highlights seven blue chip dividend stocks that offer a blend of growth, income, and downside protection in a volatile market. These companies have elite dividend growth, fortress-like balance sheets, and market-leading positions, making them attractive for building generational wealth or generating reliable passive income.",
+      "keywords": [
+        "dividend investing",
+        "blue chip stocks",
+        "generational wealth",
+        "passive income"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express's modest dividend yield, conservative payout ratio, and double-digit dividend growth rate over the past 10 years, indicating a strong commitment to returning capital to shareholders. Additionally, the stock trades at a slight discount to the broader market, making it an attractive value proposition."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Visa's remarkable dividend growth rate of 17.4% over the past 10 years, reflecting management's commitment to increasing shareholder returns. Despite trading at a premium valuation, the article notes Visa's consistent growth, massive scale advantages, and exceptional profitability within the expanding digital payments ecosystem."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Costco's industry-leading customer retention, conservative payout ratio, and steady dividend growth rate, indicating a well-executed business model. While the stock trades at a premium valuation, the article suggests this is justified by Costco's exceptional operational execution, pricing advantages, and consistent market share gains."
+        },
+        {
+          "ticker": "TGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Target's substantial dividend yield, balanced approach to reinvestment and shareholder returns, and consistent dividend growth rate. Additionally, the stock trades at a significant discount to the broader market, making it an attractive value proposition with its well-executed merchandising strategy."
+        },
+        {
+          "ticker": "SPGI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights S&P Global's market-leading positions in credit ratings and essential market intelligence, as well as its conservative payout ratio and notable dividend growth rate. While the stock trades at a premium valuation, the article suggests this is justified by the company's recurring revenue streams and sustainable growth prospects."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Nvidia's extraordinary dividend growth rate of 16.7% over the past 10 years, despite a minimal dividend yield and ultra-low payout ratio that prioritize reinvestment for growth. The article also notes Nvidia's dominant positions in AI computing, data center acceleration, and cutting-edge graphics technology, which merit the stock's premium valuation."
+        },
+        {
+          "ticker": "ASML",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights ASML's exceptional dividend growth rate of 24.7% over the past 10 years, the highest among the seven stocks featured. While the stock trades at a premium valuation, the article suggests this is justified by ASML's technological monopoly in the semiconductor equipment field, critical position in the global chip supply chain, and continued innovation driving the advancement of computing worldwide."
+        }
+      ]
+    }
+  ]
+}

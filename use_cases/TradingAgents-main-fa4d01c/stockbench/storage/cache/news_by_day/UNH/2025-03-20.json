@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "BlackRock Global Dividend Fund Q4 2024 Commentary",
+      "description": "BlackRock Global Dividend Fund posted returns of -4.66% (Institutional shares) and -4.64% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-20T05:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe11fccefad920397ae12f7f4e4eda84c9f64cb98b126478d861edcec76868c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96502248/image_96502248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263378,
+      "datetime": 1742419260
+    }
+  ]
+}

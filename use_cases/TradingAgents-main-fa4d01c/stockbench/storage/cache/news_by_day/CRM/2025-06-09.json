@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "SALESFORCE : RBC reaffirms its Neutral rating",
+      "description": "In his latest research note, analyst Rishi Jaluria confirms his recommendation. The broker RBC is keeping its Neutral rating. The target price is still set at USD 275.",
+      "published_utc": "2025-06-09T21:56:15",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4aa6d8506ee650054af38fa4f7ca9a06452d6185bcfd2ec5cf1999d9815c3fc9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137239,
+      "datetime": 1749477375
+    },
+    {
+      "title": "The Market Is Vulnerable. 6 ‘Defensive’ Stocks to Buy Now.",
+      "description": "The Market Is Vulnerable. 6 ‘Defensive’ Stocks to Buy Now.",
+      "published_utc": "2025-06-09T20:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cd31a31e14d4108c8344f07e444186ad1b1ba32e8564ca65fb2f4c9f9675d1c7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135151719,
+      "datetime": 1749473160
+    },
+    {
+      "title": "Dow's 109-point drop led by losses in shares of Travelers, McDonald's",
+      "description": "Dow's 109-point drop led by losses in shares of Travelers, McDonald's",
+      "published_utc": "2025-06-09T17:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c88001a071e64c02d5b75b2bfedf159fb54610b638fad48678c335a25265e566",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135126123,
+      "datetime": 1749463140
+    }
+  ]
+}

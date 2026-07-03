@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "title": "Cardiff Oncology: Pioneering RAS-Mutated Cancer Therapies With Onvansertib",
+      "description": "",
+      "published_utc": "2025-02-18T17:19:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8b1d0947d6754829b3abbb94e80bbadea9c4acd10a9ff06e54d3bb5d6eded71",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767396,
+      "datetime": 1739870341
+    },
+    {
+      "id": "08c04cd8f1f06a38df9cd0326431750ecd41604f4a9f83d0aabe6066713da008",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want Decades of Passive Income? Buy This ETF and Hold It Forever.",
+      "author": "Selena Maranjian",
+      "published_utc": "2025-02-18T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/18/want-decades-of-passive-income-buy-this-etf-and/?source=iedfolrf0000001",
+      "tickers": [
+        "ABBV",
+        "AMGN",
+        "BMY",
+        "CELGr",
+        "PFE",
+        "SCHD",
+        "VZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806982/getty-happy-counting-money-income.jpg",
+      "description": "The article discusses the benefits of dividend-paying stocks and ETFs, highlighting the Schwab U.S. Dividend Equity ETF as a particularly compelling option due to its solid dividend yield, growing payouts, and low expense ratio.",
+      "keywords": [
+        "dividends",
+        "passive income",
+        "ETFs",
+        "Schwab U.S. Dividend Equity ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions AbbVie as one of the top 10 holdings of the Schwab U.S. Dividend Equity ETF, indicating it is a dividend-paying company that the ETF has invested in."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amgen as one of the top 10 holdings of the Schwab U.S. Dividend Equity ETF, indicating it is a dividend-paying company that the ETF has invested in."
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bristol Myers Squibb as one of the top 10 holdings of the Schwab U.S. Dividend Equity ETF, indicating it is a dividend-paying company that the ETF has invested in."
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Bristol Myers Squibb as one of the top 10 holdings of the Schwab U.S. Dividend Equity ETF, indicating it is a dividend-paying company that the ETF has invested in."
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Pfizer as one of the top 10 holdings of the Schwab U.S. Dividend Equity ETF, indicating it is a dividend-paying company that the ETF has invested in."
+        },
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Schwab U.S. Dividend Equity ETF as a particularly compelling option due to its solid dividend yield, growing payouts, and low expense ratio."
+        },
+        {
+          "ticker": "VZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Verizon Communications as one of the top 10 holdings of the Schwab U.S. Dividend Equity ETF, indicating it is a dividend-paying company that the ETF has invested in."
+        }
+      ]
+    }
+  ]
+}

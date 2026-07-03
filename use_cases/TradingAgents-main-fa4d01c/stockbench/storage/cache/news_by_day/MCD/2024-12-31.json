@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s opens first restaurant in Gangtok, Sikkim",
+      "description": "The new restaurant in Gangtok spans 2,240ft2 and offers seating for 116 customers.",
+      "published_utc": "2024-12-31T16:23:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e434a9f29a50c96018558dfbd86844452b8583ec109c4611bc0efb548197ab6f",
+      "category": "company",
+      "image": "https://live-b2b-gdm-figaro1.pantheonsite.io/wp-content/uploads/sites/17/2024/12/FS-2-shutterstock_2469027415.jpg",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132215461,
+      "datetime": 1735633435
+    }
+  ]
+}

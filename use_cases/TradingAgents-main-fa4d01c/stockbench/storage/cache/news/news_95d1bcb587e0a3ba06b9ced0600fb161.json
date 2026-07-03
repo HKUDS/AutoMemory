@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Bank Of America: CPI Report, Robust Q2 Earnings, Moderate Valuation",
+      "description": "Bank of America posts strong 2Q25 earnings with 7% YoY net interest income growth.",
+      "published_utc": "2025-07-21T07:31:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6d2ea865c008d5b3f5c2d66edadf8af1a85603f81b8233a8b64ef4c7a508872f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1323945677/image_1323945677.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136022240,
+      "datetime": 1753054282
+    },
+    {
+      "title": "The American consumer is proving to be resilient, at least according to their bankers",
+      "description": "The state of consumer spending can be described as cooling, but also \"still positive\" and \"still growing.\"",
+      "published_utc": "2025-07-21T06:27:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=508914346ec794bd07f96aa10a21180a9e383af2d244cb0149b335a1a8131168",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136023600,
+      "datetime": 1753050444
+    },
+    {
+      "title": "Dollar Rethink Is Pushing Emerging World to Sell More Euro Debt",
+      "description": "(Bloomberg) -- Emerging-market borrowers are tapping the euro bond market at the fastest pace in over a decade, capitalizing on the rising demand for diversification away from the US dollar. Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomMumbai Facelift Is Inspired by 200-Year-Old New York BlueprintHow San Jose’s Mayor Is Working to Build an AI CapitalThe surge is being fueled by robust demand for deve",
+      "published_utc": "2025-07-20T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad46bd71484701dbd4305dd5754c6e79bfaad692d14d633c9e65ff3c18a9e030",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019684,
+      "datetime": 1753014600
+    },
+    {
+      "title": "FDVV: Compelling Choice For Retirees That Want Income And Growth",
+      "description": "",
+      "published_utc": "2025-07-20T16:48:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=39b51816a0d6bb1cc107fe6fba548fe3acdcfd33f5194e97f1b0cd5bfd31c52e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136018400,
+      "datetime": 1753001337
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:09:57.071005+00:00",
+    "cache_key": "news_95d1bcb587e0a3ba06b9ced0600fb161",
+    "count": 4
+  }
+}

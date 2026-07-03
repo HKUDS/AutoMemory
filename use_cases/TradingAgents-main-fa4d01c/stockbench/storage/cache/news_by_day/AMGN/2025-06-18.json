@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "AMGEN'S PHASE 2 MARITIDE DATA TO BE PRESENTED AT THE AMERICAN DIABETES ASSOCIATION 85TH SCIENTIFIC SESSIONS",
+      "description": "Amgen (NASDAQ:AMGN) today announced full results from Part 1 of the Phase 2 study for MariTide (maridebart cafraglutide, formerly AMG 133) in patients living with obesity, with and without Type 2 diabetes, will be presented along with new data from the Phase 3 FOURIER study of Repatha® (evolocumab) in cardiovascular disease and the VESALIUS-REAL study of real-world lipid management patterns at the 85th American Diabetes Association (ADA) Scientific Sessions taking place from June 20–23, 2025, in",
+      "published_utc": "2025-06-18T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=227ac4963e29adaf9432c31b62e0ef9f2e11f234fc9581bc96b93c6f38e85c05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370588,
+      "datetime": 1750251600
+    }
+  ]
+}

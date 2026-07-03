@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Apple Plans iPhone Release Schedule Shakeup, New Styles - The Information",
+      "description": "May 3 - * APPLE PLANS IPHONE RELEASE SCHEDULE SHAKEUP, NEW STYLES -THEINFORMATIONSource text: https://tinyurl.com/2649u3wbFurther company coverage: ...",
+      "published_utc": "2025-05-03T19:06:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=37a6fcb2a5ead200613e4742487e9dbceb52c504ab9bc670250b387de148a8db",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134228197,
+      "datetime": 1746270365
+    },
+    {
+      "title": "From Momentum To Headwinds: Why It Is Time To Trim Your Apple Position",
+      "description": "",
+      "published_utc": "2025-05-03T18:15:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9e3bd84e1a7d89710fc9423554c0e2d67e7bb3d0aeaf725a01c8bc4831c22e0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134227216,
+      "datetime": 1746267305
+    },
+    {
+      "title": "Big Tech showed it won’t back down on AI spending. Some on Wall Street are still wary.",
+      "description": "Big Tech showed it won’t back down on AI spending. Some on Wall Street are still wary.",
+      "published_utc": "2025-05-03T17:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c9337a0fc8434043eb79c7bc1307163fe0d76534e678e0dd9fb49f706b7be46e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253734,
+      "datetime": 1746266220
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "IBM, GlobalFoundries settle lawsuits over contract, trade secrets",
+      "description": "(Reuters) -GlobalFoundries and IBM said on Thursday they have settled dueling lawsuits in which GlobalFoundries was accused of breaching a contract with IBM and the computer giant was alleged to have misused the chipmaker's trade secrets.  GlobalFoundries bought IBM's semiconductor plants in 2015.  GlobalFoundries, which is majority owned by Abu Dhabi's sovereign wealth fund Mubadala, separately sued Armonk, New York-based IBM in New York federal court in 2023 for allegedly misappropriating its chipmaking trade secrets and sharing them with Intel and Japanese consortium Rapidus during partnerships with the two companies.",
+      "published_utc": "2025-01-02T23:46:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed387806ee140d0100b1ed951bee29fa3f9b893e16e383b60eab42fa0136c4af",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/reuters.com/804416068af45ee3579ac1550f406420",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132241870,
+      "datetime": 1735832799
+    },
+    {
+      "title": "IBM and GlobalFoundries Resolve IP Dispute, Eye Collaboration to Boost Semiconductor Innovation",
+      "description": "IBM and GlobalFoundries settle IP litigation, paving the way for potential semiconductor collaboration",
+      "published_utc": "2025-01-02T21:44:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7aea5da047a679f45a17d5e178ef59f920370ee2eacb05f2aa056532d8e50cc",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/us.finance.gurufocus/f7580423459775d3130c15f38fa7561e",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132241871,
+      "datetime": 1735825456
+    },
+    {
+      "title": "GlobalFoundries and IBM Announce Settlement and Resolution of All Litigation Matters",
+      "description": "Settlement paves the way for potential future collaborationMALTA, N.Y. and ARMONK, N.Y., Jan. 02, 2025 (GLOBE NEWSWIRE) -- GlobalFoundries (Nasdaq: GFS) (GF) and IBM (NYSE: IBM) today announced that the two companies have reached a settlement in their ongoing lawsuits, resolving all litigation matters, inclusive of breach of contract, trade secrets and intellectual property claims between the two companies. This settlement marks the end of an ongoing legal dispute and allows the companies to exp",
+      "published_utc": "2025-01-02T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb8839dc4b5deb82ea0fea1d2fe924ab7f0be33bb1a77271c7997a5dd943c24a",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/globenewswire.com/744174500530e66d8c60dc342a4cd252",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132241872,
+      "datetime": 1735822800
+    }
+  ]
+}

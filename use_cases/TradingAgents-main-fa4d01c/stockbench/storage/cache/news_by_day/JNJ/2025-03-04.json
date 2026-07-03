@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ) Presents at 45th Annual TD Cowen Healthcare Conference (Transcript)",
+      "description": "Johnson &amp; Johnson (NYSE:JNJ) 45th Annual TD Cowen Healthcare Conference March 4, 2025 11:10 AM ETCompany ParticipantsTim Schmid - Executive Vice...",
+      "published_utc": "2025-03-04T23:15:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e41031f6b83c64ca56d23479550392dbbb2571fdfca417e532ac1969a2af58b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132979913,
+      "datetime": 1741101305
+    },
+    {
+      "title": "Dogs Of The Dow Chase A \"Safer\" Buy For March",
+      "description": "My monthly update and commentary on the top dividend stock picks from the Dogs Of The Dow, March 2025 edition. Click here to read more about Dogs of the Dow.",
+      "published_utc": "2025-03-04T22:56:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc6dd860b385b0d72b9bb16ee9ff5ee719c89916be0857afbb145306c6255282",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173947104/image_173947104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132979830,
+      "datetime": 1741100163
+    },
+    {
+      "title": "Johnson & Johnson : Shockwave Medical Launches Novel Forward Intravascular Lithotripsy Platform in U.S. to Transform Treatment of Difficult to Cross Calcified Lesions",
+      "description": "SANTA CLARA, Calif. - March 4, 2025 - Today, Shockwave Medical, Inc., part of Johnson & Johnson MedTech and a global leader in the field of circulatory restoration, announced the U.S. launch of its...",
+      "published_utc": "2025-03-04T16:19:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=56037421e0bc958df19d61c375ef5288b4da4decc90613de5b43d3a1ca91dfa6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132974697,
+      "datetime": 1741076345
+    }
+  ]
+}

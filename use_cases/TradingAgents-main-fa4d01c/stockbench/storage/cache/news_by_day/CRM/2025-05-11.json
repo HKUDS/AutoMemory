@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Invesco Charter Fund Q1 2025 Commentary",
+      "description": "Outperformance mainly resulted from stock selection in the consumer discretionary, health care and energy sectors.",
+      "published_utc": "2025-05-11T11:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=47c67780031ae9f1e8e62e138a47a2d4e20de28c34c16e13734a28f4ee43325b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442731840/image_1442731840.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369645,
+      "datetime": 1746935100
+    }
+  ]
+}

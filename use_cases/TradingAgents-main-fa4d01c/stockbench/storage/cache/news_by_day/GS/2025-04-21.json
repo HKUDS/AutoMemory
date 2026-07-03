@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs, Other Key US Banks Set to Benefit From Fed's Stress Test Proposal, UBS Says",
+      "description": "Goldman Sachs Group (GS), Morgan Stanley (MS), Citigroup (C), Capital One (COF), and M&T Bank (MTB)",
+      "published_utc": "2025-04-21T23:45:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc3d8a3edf907492452b100c3011d1111bf00cd8dcbda3ac59e7a3efd5f15efa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026402,
+      "datetime": 1745250336
+    },
+    {
+      "title": "2025 Shareholder Meeting Season Is In Full Bloom, Highlighting Key Events",
+      "description": "",
+      "published_utc": "2025-04-21T21:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dbe7c0c225d83ec0be32021c12b29512b78078e6345c469d681b33ea7c38fdff",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024893,
+      "datetime": 1745242200
+    },
+    {
+      "title": "Bank of America: I Was Wrong (Rating Downgrade)",
+      "description": "",
+      "published_utc": "2025-04-21T20:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=79c699fb672aa71011a107e5b4c2da28189e1de95fe80dfafebddf37ed1d0b5c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024552,
+      "datetime": 1745240100
+    },
+    {
+      "title": "Gold Hits Record as Dollar Sags and Trade War Concerns Persist",
+      "description": "(Bloomberg) -- Gold rallied to a record as a fresh bout of US dollar weakness, criticism of the Federal Reserve by President Donald Trump and persistent trade war concerns underpinned haven demand.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Administration Takes Over New York Penn Station RevampDOGE Places Entire Staff of Federal Homelessness Agency on LeaveNashville’s $3 Billion Transit Plan Brings a Call for Zoning ReformBullion roared above",
+      "published_utc": "2025-04-21T19:40:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=badf55f2403887dfb019db0f05b7c3b034374f89cade00632a30745dae5f68f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022841,
+      "datetime": 1745235649
+    }
+  ]
+}

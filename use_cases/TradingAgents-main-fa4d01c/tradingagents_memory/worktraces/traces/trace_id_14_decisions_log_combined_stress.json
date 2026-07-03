@@ -1,0 +1,116 @@
+{
+  "trace_id": "trace_id_14_decisions_log_combined_stress",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "DecisionsLog: combined OOO writes + duplicates + cross-ticker isolation stress; verifies dedup, date-ordering, and windowing under complex interleaved writes",
+  "turns": [
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-10", "ticker": "COMBO", "rating": "Buy", "one_line_thesis": "ALPHA-sector-momentum-intact", "key_risks": ["macro uncertainty"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-05", "ticker": "COMBO", "rating": "Hold", "one_line_thesis": "BETA-initial-hold-fair-value", "key_risks": ["no catalyst"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-10", "ticker": "COMBO", "rating": "Strong Buy", "one_line_thesis": "GAMMA-overwrite-jan10-breakout-confirmed", "key_risks": ["valuation stretched"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-15", "ticker": "COMBO", "rating": "Sell", "one_line_thesis": "DELTA-distribution-pattern-forming", "key_risks": ["volume divergence", "resistance"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-05", "ticker": "COMBO", "rating": "Buy", "one_line_thesis": "EPSILON-overwrite-jan05-revised-upward", "key_risks": ["rate headwind"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-07", "ticker": "COMBO", "rating": "Hold", "one_line_thesis": "ZETA-midweek-pause-no-catalyst", "key_risks": ["sector rotation"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-12", "ticker": "COMBO", "rating": "Buy", "one_line_thesis": "ETA-recovery-off-support-level", "key_risks": ["dead-cat-bounce risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-15", "ticker": "COMBO", "rating": "Hold", "one_line_thesis": "THETA-overwrite-jan15-reduce-conviction", "key_risks": ["earnings risk", "macro"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-03", "ticker": "COMBO", "rating": "Sell", "one_line_thesis": "IOTA-early-sell-signal-ignored", "key_risks": ["gap risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-20", "ticker": "COMBO", "rating": "Strong Buy", "one_line_thesis": "KAPPA-post-earnings-breakout-new-highs", "key_risks": ["valuation stretch"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-07", "ticker": "COMBO", "rating": "Strong Buy", "one_line_thesis": "LAMBDA-overwrite-jan07-revised-stance", "key_risks": ["macro risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO", "record": {"trade_date": "2026-01-12", "ticker": "COMBO", "rating": "Hold", "one_line_thesis": "MU-overwrite-jan12-pullback-caution", "key_risks": ["resistance level", "volume dry-up"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO2", "record": {"trade_date": "2026-01-05", "ticker": "COMBO2", "rating": "Buy", "one_line_thesis": "COMBO2-ALPHA-initial-buy-sector-tailwind", "key_risks": ["liquidity risk"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO2", "record": {"trade_date": "2026-01-08", "ticker": "COMBO2", "rating": "Hold", "one_line_thesis": "COMBO2-BETA-hold-wait-for-catalyst", "key_risks": ["catalyst missing"]}}},
+    {"component": "DecisionsLog", "args": {"ticker": "COMBO2", "record": {"trade_date": "2026-01-05", "ticker": "COMBO2", "rating": "Strong Buy", "one_line_thesis": "COMBO2-GAMMA-overwrite-jan05-upgraded", "key_risks": ["concentration risk"]}}}
+  ],
+  "recall_queries": [
+    {
+      "label": "COMBO_last1_is_jan20_strong_buy",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-20"},
+        {"type": "substring", "value": "Strong Buy"},
+        {"type": "substring", "value": "KAPPA"}
+      ]
+    },
+    {
+      "label": "COMBO_last3_contains_jan12_jan15_jan20_only",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-12"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "substring", "value": "2026-01-20"},
+        {"type": "not_substring", "value": "2026-01-10"},
+        {"type": "not_substring", "value": "2026-01-05"}
+      ]
+    },
+    {
+      "label": "COMBO_jan10_final_overwrite_is_strong_buy",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 7},
+      "expected_information": [
+        {"type": "substring", "value": "GAMMA-overwrite-jan10"},
+        {"type": "not_substring", "value": "ALPHA-sector-momentum"}
+      ]
+    },
+    {
+      "label": "COMBO_jan05_double_overwrite_is_buy_epsilon",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 7},
+      "expected_information": [
+        {"type": "substring", "value": "EPSILON-overwrite-jan05"},
+        {"type": "not_substring", "value": "BETA-initial-hold"}
+      ]
+    },
+    {
+      "label": "COMBO_jan15_overwrite_is_hold_theta",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 7},
+      "expected_information": [
+        {"type": "substring", "value": "THETA-overwrite-jan15"},
+        {"type": "not_substring", "value": "DELTA-distribution"}
+      ]
+    },
+    {
+      "label": "COMBO_all_seven_unique_records_present",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 10},
+      "expected_information": [
+        {"type": "substring", "value": "2026-01-03"},
+        {"type": "substring", "value": "2026-01-05"},
+        {"type": "substring", "value": "2026-01-07"},
+        {"type": "substring", "value": "2026-01-10"},
+        {"type": "substring", "value": "2026-01-12"},
+        {"type": "substring", "value": "2026-01-15"},
+        {"type": "substring", "value": "2026-01-20"}
+      ]
+    },
+    {
+      "label": "COMBO2_isolation_shows_overwrite_and_jan08",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO2", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "COMBO2-GAMMA-overwrite-jan05"},
+        {"type": "not_substring", "value": "COMBO2-ALPHA-initial-buy"},
+        {"type": "substring", "value": "2026-01-08"}
+      ]
+    },
+    {
+      "label": "COMBO2_no_combo_contamination",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO2", "n": 5},
+      "expected_information": [
+        {"type": "not_substring", "value": "KAPPA"},
+        {"type": "not_substring", "value": "IOTA"},
+        {"type": "not_substring", "value": "GAMMA-overwrite-jan10"}
+      ]
+    },
+    {
+      "label": "COMBO_last3_ascending_date_order",
+      "component": "DecisionsLog",
+      "args": {"ticker": "COMBO", "n": 3},
+      "expected_information": [
+        {"type": "regex", "value": "2026-01-12.*2026-01-15.*2026-01-20", "case_sensitive": false}
+      ]
+    }
+  ]
+}

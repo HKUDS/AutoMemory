@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Strategically Building A $500,000 Dividend Portfolio: Boosting SCHD's Income With May's High-Yield Picks",
+      "description": "Boost your portfolio with smart ETF picks! Explore high-yield dividends, diversified sector investments, and projected income growth in this comprehensive...",
+      "published_utc": "2025-05-13T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3c2683e1f441d8591180acc200ba5acd85fc1c9068f45c420c1fb859ba641f7c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134392085,
+      "datetime": 1747072800
+    },
+    {
+      "title": "Amazon, Apple power ‘Magnificent Seven’ to more than $830 billion in market-cap gains in one day",
+      "description": "Amazon, Apple power ‘Magnificent Seven’ to more than $830 billion in market-cap gains in one day",
+      "published_utc": "2025-05-13T00:28:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c4382791e54fdd77d1cac9a9063372e26d17d77b2fa2d9f39cc1056ad75e1408",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134401382,
+      "datetime": 1747067280
+    },
+    {
+      "title": "Perplexity AI Looks to Raise $500 Million, Increasing the Pressure on Google Search",
+      "description": "Perplexity AI Looks to Raise $500 Million, Increasing the Pressure on Google Search",
+      "published_utc": "2025-05-12T23:05:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ff2ab103831114a735242aa4578e9f14e3d94b53b451e6425bc51449afa05ca0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134401383,
+      "datetime": 1747062300
+    },
+    {
+      "title": "Top AI And Robotics News You May Have Missed In April",
+      "description": "AI and Robotics sectors saw significant developments in April 2025, impacting companies across industries. Taking a look at some of these, for investors tracking the space via ROBO and THNQ.",
+      "published_utc": "2025-05-12T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8eabe308cd012d85fa788ad430581325711abe1f476e7eef09576b98f51d5c80",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210278635/image_2210278635.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134390787,
+      "datetime": 1747061100
+    },
+    {
+      "title": "US-China tariff agreement may add fuel to 'Magnificent 7' stock rally",
+      "description": "The \"Magnificent Seven\" trade looks to be on again, for now.",
+      "published_utc": "2025-05-12T21:08:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da15636dd09cd7d43a79ee1a393e9cfbba535bdb5b7f75b6da2fbb21755ae086",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379041,
+      "datetime": 1747055336
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:42:29.187417+00:00",
+    "cache_key": "news_e193a026ab12f1f60db18f868285c83c",
+    "count": 5
+  }
+}

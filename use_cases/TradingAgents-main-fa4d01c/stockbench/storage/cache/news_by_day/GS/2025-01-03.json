@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why Morgan Stanley, Citi and other banks are exiting climate alliance",
+      "description": "Morgan Stanley (MS), Citigroup (C), Bank of America (BAC), Goldman Sachs (GS), and Wells Fargo (WFC) are among the major banks that left the Net Zero Banking Alliance (NZBA). Yahoo Finance's Banking Reporter David Hollerith joins Asking for a Trend with Josh Lipton to break down what it means for the banking sector heading into a second Trump administration. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here. This post was written by Naomi Buchanan.",
+      "published_utc": "2025-01-03T07:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=333a8b2dc04da8af1dd9fbfccff2fb661cf3283e26c69f4db3927d249bf99d11",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132244844,
+      "datetime": 1735860120
+    },
+    {
+      "title": "Big Banks Flee Climate Coalition Formed to Reduce Carbon Emissions",
+      "description": "Big Banks Flee Climate Coalition Formed to Reduce Carbon Emissions",
+      "published_utc": "2025-01-03T07:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=8fd0e222fb899881bd6505439656034d6b4cb1ee770ab082e544af6776d13ef3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132321435,
+      "datetime": 1735858800
+    },
+    {
+      "title": "Goldman Sachs (GS) Gains As Market Dips: What You Should Know",
+      "description": "The latest trading day saw Goldman Sachs (GS) settling at $574.97, representing a +0.41% change from its previous close.",
+      "published_utc": "2025-01-03T06:50:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5976c76c62abc06f937522180cde4c78ad987912bd51b80d169fb2c3fe09bc9f",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/zacks.com/b9775f315e7b6c4ada6e36d0048a929a",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132245898,
+      "datetime": 1735858220
+    },
+    {
+      "title": "Goldman Sachs Group Inc. stock underperforms Thursday when compared to competitors despite daily gains",
+      "description": "Goldman Sachs Group Inc. stock underperforms Thursday when compared to competitors despite daily gains",
+      "published_utc": "2025-01-03T00:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3e7acc5a965c87fc50f9424db920de560cd3dffbc06aa9908eaf8fa30c56ba96",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132323287,
+      "datetime": 1735835820
+    },
+    {
+      "title": "Wall Street banks exit climate alliance as Trump 2.0 nears",
+      "description": "Some of the biggest lenders in the US are beating a retreat from a UN-backed bank climate group in the final weeks before a new Trump administration prepares to take office.",
+      "published_utc": "2025-01-03T00:34:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28e442d9d7b537a2f6a123d444ac3aab4d89c4f9bdda2088acd0c63a86a1ebd0",
+      "category": "company",
+      "image": "https://s.yimg.com/os/creatr-uploaded-images/2025-01/b8af4520-c922-11ef-afff-711f7bfd038b",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132243929,
+      "datetime": 1735835653
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "title": "Invesco Global Fund Q1 2025 Commentary",
+      "description": "Class A shares outperformed the MSCI ACWI Growth Index and ranked in the 78th percentile of the Morningstar Global Large Stock Growth category for the first quarter.",
+      "published_utc": "2025-05-13T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6fa047ab330af152e655396692dc08c48a87ffe27c35a8a8a14e18476d85008e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303046106/image_1303046106.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134400059,
+      "datetime": 1747132200
+    },
+    {
+      "title": "Invesco Global Focus Fund Q1 2025 Commentary",
+      "description": "Class A shares outperformed the MSCI ACWI Growth Index and ranked in the 66th percentile of the Morningstar Global Large Stock Growth category for the first quarter.",
+      "published_utc": "2025-05-13T16:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=314c228f7c7eaa907ec03c057011a74796ae2c424bfe21d3391eb652c5c29330",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134398945,
+      "datetime": 1747124400
+    },
+    {
+      "id": "4b575f08c4b9075bba07d2304a4b2f06aeb01af32b561c6cef6a92dbfbf6e4df",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "3 Stocks Plan +$130B in Buybacks: Why Markets Wanted Even More",
+      "author": "Marketbeat.Com",
+      "published_utc": "2025-05-13T15:07:00Z",
+      "article_url": "https://www.investing.com/analysis/3-stocks-plan-130b-in-buybacks-why-markets-wanted-even-more-200660729",
+      "tickers": [
+        "V",
+        "AAPL",
+        "ANET"
+      ],
+      "amp_url": "https://m.investing.com/analysis/3-stocks-plan-130b-in-buybacks-why-markets-wanted-even-more-200660729?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Several major companies, including Visa, Apple, and Arista Networks, have announced massive share buyback programs totaling over $130 billion, signaling confidence in their valuations despite mixed macroeconomic conditions.",
+      "keywords": [
+        "buybacks",
+        "share repurchase",
+        "technology",
+        "finance"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa announced a $30 billion buyback program, a substantial increase from its previous authorization, indicating confidence in the company's long-term growth and valuation."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple's $100 billion buyback program, while one of the largest ever, was seen as slightly underwhelming by some investors as it was smaller than the company's previous record-breaking authorization."
+        },
+        {
+          "ticker": "ANET",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Arista Networks announced a $1.5 billion buyback program and has been aggressively repurchasing shares, suggesting management believes the stock is significantly undervalued."
+        }
+      ]
+    },
+    {
+      "title": "Why Realty Income Deserves A Spot In Every Dividend Investor's Portfolio",
+      "description": "Realty Income offers stability with modest AFFO growth, monthly dividends, and strong fundamentals. See why O stock is ideal for long-term investors.",
+      "published_utc": "2025-05-13T14:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e5ffaae8bc85a67a211d446c4221670066b1bb98562fc94126af7c7fdf6d0ebd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/691852644/image_691852644.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134398142,
+      "datetime": 1747119300
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Bernstein Reiterates $304 Price Target on Caterpillar (CAT) Amid Power Sector Expansion",
+      "description": "Caterpillar Inc. (NYSE:CAT) is one of the 12 stocks that will make you rich in 10 years. On June 20, Bernstein SocGen Group maintained its “Market Perform” rating and $304 price target on Caterpillar (NYSE:CAT) after touring its large engine facility in Indiana. Analysts cited capacity expansion and upcoming growth opportunities as potential profit drivers. […]",
+      "published_utc": "2025-06-28T17:41:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6d26577105c838ef3a40150c32ceda5739e31c2a891e07ab940d8bde992baba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135624577,
+      "datetime": 1751103688
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:13.607322+00:00",
+    "cache_key": "news_ccc8667601280c523fc2420590c83687",
+    "count": 1
+  }
+}

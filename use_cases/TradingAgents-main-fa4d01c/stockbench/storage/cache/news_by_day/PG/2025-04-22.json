@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Co. stock underperforms Monday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-04-22T00:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5f3635d1957f644cf2d8bafdbbe4a27d90a21e891fb4ba7226ce528ad4591611",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134053063,
+      "datetime": 1745253060
+    }
+  ]
+}

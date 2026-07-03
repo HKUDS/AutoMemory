@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Apple: $500 Billion Problem",
+      "description": "Apple's $500B U.S. investment falls short on innovation, especially in AI. AAPL stock trades at rich valuations despite limited growth. See more here.",
+      "published_utc": "2025-03-04T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4f308bf114bc1b805620331b521c56d2706a732578455dc3ab92ff3c20e69b4e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/494026008/image_494026008.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132970215,
+      "datetime": 1741032000
+    },
+    {
+      "title": "Trump says TSMC will spend $100 billion to expand chip manufacturing in U.S.",
+      "description": "Trump says TSMC will spend $100 billion to expand chip manufacturing in U.S.",
+      "published_utc": "2025-03-04T02:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21f7b78aa1bacf9bfaef53afaef91e5edd39b5dfd6d6feab3794459066807849",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132973052,
+      "datetime": 1741024920
+    },
+    {
+      "title": "Berkshire Hathaway: Buffett Sells Banks, Buys Beer And Pizza As Economic Indicators Worsen",
+      "description": "Warren Buffett has sold record amounts of stock over the past 18 months but hasn't given the public much information as to why. Read more on the inflation-resistant picks made by Berkshire.",
+      "published_utc": "2025-03-04T00:48:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5c36dadbf3c9c1f9f431d5a66fd49eddf98b7c1b95ac4f6f894ec8dd5fd7ff6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/505663330/image_505663330.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132969359,
+      "datetime": 1741020524
+    }
+  ]
+}

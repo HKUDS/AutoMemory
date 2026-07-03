@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Moelis & Company vs. Goldman: Which Finance Stock Has Better Upside?",
+      "description": "Does MC offer stronger earnings growth and a higher dividend yield than GS despite trading at a premium? Let us find out.",
+      "published_utc": "2025-06-18T23:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29878c086f99715eb8c36e73f0061a30a8d65e6d41fc23909b44a67c18e9c05e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370898,
+      "datetime": 1750259280
+    },
+    {
+      "title": "Jennifer Garner's baby food company confidentially files for an IPO, sources say",
+      "description": "Once Upon a Farm, the organic baby food company co-founded by actor Jennifer Garner, has filed confidentially for an initial public offering in New York, according to people familiar with the...",
+      "published_utc": "2025-06-18T22:03:06",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=35ec0ed8fa39f90efe0e3edc35fb25d1846e4980e62ab72b4704bf9747e52733",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135372226,
+      "datetime": 1750255386
+    },
+    {
+      "title": "Market Chatter: Banco Santander Reaches Out to Banco de Sabadell About TSB Takeover",
+      "description": "Banco Santander (SAN) has reached out to Banco de Sabadell about a potential takeover of the latter'",
+      "published_utc": "2025-06-18T21:01:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f0ddd35f13100b4a27bec17b46c17f3aa7a61d404ec430d062d13de5cdbdcb1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135358473,
+      "datetime": 1750251664
+    }
+  ]
+}

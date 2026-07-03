@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "OpenAI to raise $40 bln in new funding to drive AI research",
+      "description": "STORY: OpenAI says it will raise $40 billion in new funding to help drive research. The ChatGPT maker said Monday the new fundraising round would be led by SoftBank. A...",
+      "published_utc": "2025-04-01T07:35:51",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4a11942c8a2c9e7a96f634cf394383dddfbddd055541187c6504dbf15d5dbcbf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133631173,
+      "datetime": 1743464151
+    },
+    {
+      "title": "OpenAI finalizes $40 billion funding at $300 billion value",
+      "description": "(Reuters) -OpenAI said on Monday it would raise up to $40 billion in a new funding round led by SoftBank Group at a $300 billion valuation to advance AI research, expand computational infrastructure and enhance its tools.  SoftBank plans to syndicate out $10 billion of its total investment to other co-investors it did not name.  A person familiar with the matter told Reuters that the remainder of the funding would come from Microsoft, Coatue Management, Altimeter Capital and Thrive Capital.",
+      "published_utc": "2025-04-01T06:18:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1169348bf2ed83d2b0b6fc6248bef3512eaf93c5b604110b6a7cdfb7e9ed5a4e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632864,
+      "datetime": 1743459490
+    },
+    {
+      "title": "Microsoft Launches New AI Security Agents Amid Surge in Cyberthreats",
+      "description": "The company processes 84 trillion threat signals daily and detected over 30 billion phishing emails in 2024.",
+      "published_utc": "2025-04-01T06:11:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c73a8f07647f1aabe26ec2aa84f80ac5944d7b3eee6fd21ddff6105bdf9e8ea7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632866,
+      "datetime": 1743459104
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Sinks As Market Gains: What You Should Know",
+      "description": "In the closing of the recent trading day, Microsoft (MSFT) stood at $375.39, denoting a -0.9% change from the preceding trading day.",
+      "published_utc": "2025-04-01T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1a7deb3eb15160c5789bbd1f1eaf77076f8359df90b7455036ba35b75d6e5df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133632867,
+      "datetime": 1743457516
+    },
+    {
+      "title": "CoreWeave: I See Massive Growth Ahead Amid Market Under-Appreciation",
+      "description": "",
+      "published_utc": "2025-04-01T05:38:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97fed14b3069fb716c19e6b8366da4d72d472f3a57b4ade70b310ff816370668",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133630619,
+      "datetime": 1743457120
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:15.480630+00:00",
+    "cache_key": "news_7cb02ae2a22e4dcde77f8183862c5ddb",
+    "count": 5
+  }
+}

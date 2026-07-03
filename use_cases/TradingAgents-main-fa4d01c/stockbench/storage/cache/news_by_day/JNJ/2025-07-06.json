@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "IGA: Strong Performance From Foreign Exposure And Fully-Covered Distribution",
+      "description": "",
+      "published_utc": "2025-07-06T18:44:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd4183d43e0eee82122b159439b318ae9759bbeb88ace8f19885a8a622793354",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135775929,
+      "datetime": 1751798693
+    },
+    {
+      "title": "J.P. Morgan Maintained Their Hold Rating on Johnson & Johnson (JNJ)",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the 10 Best Dip Stocks to Buy According to Billionaires. On June 26, J.P. Morgan analyst Chris Schott maintained their Hold Rating on Johnson & Johnson (NYSE:JNJ) with a price target of $185. Schott acknowledged that the company’s underlying business is well-positioned for over 5% sustained top-line growth, driven by […]",
+      "published_utc": "2025-07-06T15:35:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d1d3907f40f8f1bed827a5b1bef4d3e7906f7da8a624e7f72728fc08ff463b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135779846,
+      "datetime": 1751787342
+    },
+    {
+      "title": "DGRO: Much Smarter Than A High-Yield ETF",
+      "description": "DGRO ETF is a rare dividend fund that prioritizes dividend growth over yield. Read why DGRO is likely to outperform most dividend funds going forward.",
+      "published_utc": "2025-07-06T09:04:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=910b1ba1536b09c2cbd2f03216095e8368b6cf74d38bdc7a0522de37cc2d0c1b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158301126/image_2158301126.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135769592,
+      "datetime": 1751763851
+    }
+  ]
+}

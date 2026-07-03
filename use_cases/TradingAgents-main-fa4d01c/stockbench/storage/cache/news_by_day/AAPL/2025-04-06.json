@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "CII: Looking Like A Tempting Opportunity",
+      "description": "CII has undergone a name change and policy update and received a significant distribution boost since our last update. Read why CII CEF is a Buy.",
+      "published_utc": "2025-04-06T07:33:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=461eee98ef8654f33cdee6754f76dd567cd6a3fed5c10d65144aaf0537e95a31",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1617704591/image_1617704591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729057,
+      "datetime": 1743896001
+    },
+    {
+      "title": "3 Top Buffett Stocks to Buy and Hold for the Next 20 Years",
+      "description": "Warren Buffett has built a fortune for Berkshire Hathaway shareholders.  Buffett's success at buying stocks of great businesses and holding them for the long term has inspired many investors to follow his style.  Berkshire held a stock portfolio worth $271 billion at the end of 2024.",
+      "published_utc": "2025-04-06T06:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31a158b9dea50bb90d15f87422cd480464919a65e08375f0b09670dc1b9a720f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729240,
+      "datetime": 1743890580
+    },
+    {
+      "title": "Apple, Nvidia Among Tech Giants Hit Hard in Stock Market Selloff",
+      "description": "The tech giants that powered the stock market for the past two years were among the hardest hit this week in this week's big selloff.  Apple shares shed 16% of their value over two days—Thursday and Friday— as the company draws the bulk of its business from hardware manufactured in countries like China that were hit with steep tariffs.  The corporate software and cloud computing services that make up the bulk of its business are less exposed to tariffs in general.",
+      "published_utc": "2025-04-06T02:30:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf46961b7613cb704cb9b8cf010d285df24202e5873b8fd9a8013f6bc7ed77f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729241,
+      "datetime": 1743877853
+    },
+    {
+      "title": "Warren Buffett keeps taking investors to school as stock meltdown reveals the uncanny wisdom of his recent moves",
+      "description": "His decision last year to shed most of Berkshire Hathaway's Apple stock now looks especially well timed.",
+      "published_utc": "2025-04-06T02:15:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95d3e05c28e8da7bbeec61fbb0c644865d027ad78fb65795e4e30910d90c7d79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727111,
+      "datetime": 1743876921
+    },
+    {
+      "title": "Apple (NasdaqGS:AAPL) Faces 14% Price Drop in a Week as China Tariffs Impact Stock",
+      "description": "Apple (NasdaqGS:AAPL) experienced a 14% price decline over the past week, coinciding with broader market downturns amid escalating trade tensions. President Trump's recent tariff announcements triggered a severe market reaction, with the Dow Jones and S&P 500 suffering substantial losses, while the Nasdaq entered bear market territory. Apple's significant presence in China likely exposed it to heightened vulnerabilities due to imposed tariffs. Despite developments in digital health...",
+      "published_utc": "2025-04-06T01:28:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c24074658ada85bc3ae08c180af31152c0c66807ab68b2296fc498af6cfaf6a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133727112,
+      "datetime": 1743874094
+    }
+  ]
+}

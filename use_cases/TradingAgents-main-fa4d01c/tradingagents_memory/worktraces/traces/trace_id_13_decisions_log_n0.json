@@ -1,0 +1,97 @@
+{
+  "trace_id": "trace_id_13_decisions_log_n0",
+  "memory_path": "decisions_log",
+  "eval_mode": "qa",
+  "focus": "DecisionsLog.read_last_n(ticker, n=0) should return empty list — Python -0 gotcha causes records[-0:] to return all records instead",
+  "turns": [
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ZEROTEST",
+        "record": {
+          "trade_date": "2026-01-10",
+          "ticker": "ZEROTEST",
+          "rating": "Hold",
+          "one_line_thesis": "ALPHA-waiting-for-catalyst",
+          "key_risks": ["macro uncertainty"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ZEROTEST",
+        "record": {
+          "trade_date": "2026-01-15",
+          "ticker": "ZEROTEST",
+          "rating": "Buy",
+          "one_line_thesis": "BETA-momentum-breakout-confirmed",
+          "key_risks": ["sector rotation"]
+        }
+      }
+    },
+    {
+      "component": "DecisionsLog",
+      "args": {
+        "ticker": "ZEROTEST",
+        "record": {
+          "trade_date": "2026-01-20",
+          "ticker": "ZEROTEST",
+          "rating": "Strong Buy",
+          "one_line_thesis": "GAMMA-earnings-beat-new-highs",
+          "key_risks": ["valuation stretch"]
+        }
+      }
+    }
+  ],
+  "recall_queries": [
+    {
+      "label": "read_last_n3_returns_three_records",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ZEROTEST", "n": 3},
+      "expected_information": [
+        {"type": "substring", "value": "ALPHA-waiting"},
+        {"type": "substring", "value": "BETA-momentum"},
+        {"type": "substring", "value": "GAMMA-earnings"}
+      ]
+    },
+    {
+      "label": "read_last_n1_returns_one_most_recent",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ZEROTEST", "n": 1},
+      "expected_information": [
+        {"type": "substring", "value": "GAMMA-earnings"},
+        {"type": "not_substring", "value": "ALPHA-waiting"},
+        {"type": "not_substring", "value": "BETA-momentum"}
+      ]
+    },
+    {
+      "label": "read_last_n0_must_return_empty_list",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ZEROTEST", "n": 0},
+      "expected_information": [
+        {"type": "none_or_empty"}
+      ]
+    },
+    {
+      "label": "read_last_n0_must_not_contain_any_record",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ZEROTEST", "n": 0},
+      "expected_information": [
+        {"type": "not_substring", "value": "ALPHA-waiting"},
+        {"type": "not_substring", "value": "BETA-momentum"},
+        {"type": "not_substring", "value": "GAMMA-earnings"}
+      ]
+    },
+    {
+      "label": "read_last_n2_returns_two_most_recent",
+      "component": "DecisionsLog",
+      "args": {"ticker": "ZEROTEST", "n": 2},
+      "expected_information": [
+        {"type": "substring", "value": "BETA-momentum"},
+        {"type": "substring", "value": "GAMMA-earnings"},
+        {"type": "not_substring", "value": "ALPHA-waiting"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "London Stock Exchange Group: The Facts Have Changed",
+      "description": "London Stock Exchange's data is mostly commoditized and lacks high value. Click here to read why LNSTY stock is downgraded from Buy to Sell.",
+      "published_utc": "2025-03-06T03:47:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92622bafd16b9d7976369cf0f3d11984289acc820f46870484391b0b9f357490",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178349113/image_2178349113.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133043731,
+      "datetime": 1741204062
+    },
+    {
+      "title": "CDT Insider Sentiment February 2025: Tariff Paralysis",
+      "description": "President Trump promised a radical approach to trade policy during his campaign, and he has delivered.",
+      "published_utc": "2025-03-06T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69ff694d689b049731aa118c0b989ab7cde04b689c493e267b2c6c81a2b3bbd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189862167/image_2189862167.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133040442,
+      "datetime": 1741201200
+    },
+    {
+      "title": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "description": "Dow's nearly 600-point rally led by gains for Caterpillar, Microsoft stocks",
+      "published_utc": "2025-03-05T23:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=81e89f35d6261cbf1bf18f68f20315094b10be6b45e617a4a715b67f1db19283",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133052096,
+      "datetime": 1741187040
+    },
+    {
+      "title": "AI-Driven Semiconductor Growth",
+      "description": "AI model specialization and monetization are accelerating, reshaping semiconductor demand. Click to read.",
+      "published_utc": "2025-03-05T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1feb9d03d5c71399a510620890823f6b379c1215e9d605a82c4cf9dbf21de791",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2075787099/image_2075787099.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133020329,
+      "datetime": 1741185900
+    },
+    {
+      "title": "Caterpillar, Boeing share gains lead Dow's 429-point rally",
+      "description": "Caterpillar, Boeing share gains lead Dow's 429-point rally",
+      "published_utc": "2025-03-05T22:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0d5b0636a48216779ae0a972ae27251e7060e2df3b1b828649b484d9360c3e4e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133019031,
+      "datetime": 1741183380
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:14:12.517191+00:00",
+    "cache_key": "news_b5b09749ab4e774da49b69024ad40ad5",
+    "count": 5
+  }
+}

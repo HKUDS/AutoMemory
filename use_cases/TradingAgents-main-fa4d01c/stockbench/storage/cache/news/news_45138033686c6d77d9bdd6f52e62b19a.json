@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Honeywell International Inc. (HON) on Business Model Mastery’s Substack. In this article, we will summarize the bulls’ thesis on HON. Honeywell International Inc. (HON)’s share was trading at $227.13 as of 9th June. HON’s trailing and forward P/E were 26.11 and 22.22 respectively according to Yahoo Finance. Honeywell represents one […]",
+      "published_utc": "2025-06-21T21:43:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ae8933b7fa54e7a76b8066fc130f955e1943663d73aefed7a1017b32c4e4924",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135458834,
+      "datetime": 1750513400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:58:40.726901+00:00",
+    "cache_key": "news_45138033686c6d77d9bdd6f52e62b19a",
+    "count": 1
+  }
+}

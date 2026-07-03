@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Gold Slips For Second Session",
+      "description": "Front-month gold finished lower for the second straight session, with investors seen as directing more of their resources towards Treasury notes than gold.",
+      "published_utc": "2025-01-07T03:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1a0342ff638575e06c73792416596f694e3549ef57cf4a5c00b9a7ba3ac9850",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132296372,
+      "datetime": 1736191920
+    },
+    {
+      "title": "Goldman Sachs' Business Model Still Heavily Dependent on Global Banking and Markets, UBS Says",
+      "description": "Goldman Sachs Group's (GS) business model continues to depend heavily on global banking and markets",
+      "published_utc": "2025-01-07T02:14:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d56622cc444a90a7c4c08d4f95828fb38b2a39db1c9fdc362c71cedc2fc17f18",
+      "category": "company",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132289481,
+      "datetime": 1736187248
+    },
+    {
+      "title": "Gold Futures Broadly Rangebound; Goldman Sachs Delays Gold Price Target",
+      "description": "Gold futures dropped slightly, but prices kept trading in a narrow range. Goldman Sachs pushed back its estimate for gold prices to hit $3,000 a troy ounce to the second quarter of 2026, from December 2025.",
+      "published_utc": "2025-01-07T01:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2c055ae5471a9981e934fac4fffa85f1d106239bb685825d2c047b8b9cd1319",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132289482,
+      "datetime": 1736183400
+    },
+    {
+      "title": "Goldman Sachs Group Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Goldman Sachs Group Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-01-07T00:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8fe3744aa19581fd7f607121dd8ecbe17b6da306fad401e494cf8da47e84057b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132323279,
+      "datetime": 1736181420
+    }
+  ]
+}

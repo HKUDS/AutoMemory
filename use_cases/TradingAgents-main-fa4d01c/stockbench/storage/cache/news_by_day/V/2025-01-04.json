@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (January 2025)",
+      "description": "Discover top dividend-paying stocks with discounts on historical norms. Filtered from 7,500+ companies.",
+      "published_utc": "2025-01-04T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f44a3505bdee6bd4ba3a02ec82b4ab447d6c8eb3bf2ebe041c8b33254f9f2d3a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132268290,
+      "datetime": 1735977600
+    },
+    {
+      "title": "4-Factor Dividend Growth Strategy - Cold Winter Air Creeps Into The Portfolio",
+      "description": "Learn about the 4-factor dividend growth portfolio, its performance compared to the S&P 500 and SCHD, and its impressive CAGR of 17.69%.",
+      "published_utc": "2025-01-04T10:30:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7b413ab6833e0815cfa23e6c94ddb931b5f6214da4954f187c0862bf1f7eac5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2165465384/image_2165465384.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132264776,
+      "datetime": 1735957836
+    },
+    {
+      "id": "17c6bd4b97a5a99f73b2b9031b0245650742b417939ccb74142705a083acdd19",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Visa Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. January 21, 2025 Deadline to file Lead Plaintiff Motion",
+      "author": "N/A",
+      "published_utc": "2025-01-04T00:12:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/04/3004206/0/en/Visa-Inc-Investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses-January-21-2025-Deadline-to-file-Lead-Plaintiff-Motion.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ea0dd9c0-6e41-4d5a-ad27-b277677af6df",
+      "description": "The U.S. Department of Justice has filed a civil antitrust lawsuit against Visa, alleging that the company is illegally maintaining a monopoly in the debit network markets. This news caused Visa's stock to drop 5.4% on September 24, 2024.",
+      "keywords": [
+        "Visa",
+        "antitrust lawsuit",
+        "debit network markets",
+        "monopoly"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The U.S. Department of Justice has filed a civil antitrust lawsuit against Visa, alleging that the company is illegally maintaining a monopoly in the debit network markets. This has led to a 5.4% drop in Visa's stock price."
+        }
+      ]
+    }
+  ]
+}

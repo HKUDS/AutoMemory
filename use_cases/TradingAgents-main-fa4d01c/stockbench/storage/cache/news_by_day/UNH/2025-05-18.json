@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth director Kristen Gil buys 3,700 shares of company stock",
+      "description": "UnitedHealth (UNH) director Kristen Gil on Thursday bought 3,700 shares of the company’s stock at an average price of $271.17 per share. Following the filing, Gil own 5,369 common shares of the company, with 1,551 shares held directly and 3,818 controlled indirectly. Shares of UnitedHealth are up 0.4% to $275.10. Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See Insiders’ Hot Stocks on TipRanks >> Read More on UNH: Is UnitedHealth",
+      "published_utc": "2025-05-18T00:35:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5a9a918a0340682ed4b5de9fa6bd20d7baa91c9cb4ec95f6bf94b6de5b0f7b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134567821,
+      "datetime": 1747499727
+    }
+  ]
+}

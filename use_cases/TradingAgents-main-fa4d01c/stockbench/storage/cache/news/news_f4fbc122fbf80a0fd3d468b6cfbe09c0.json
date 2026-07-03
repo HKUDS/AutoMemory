@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How to Find Attractively Priced Growth Stocks",
+      "description": "We highlight two popular GARP ETFs.",
+      "published_utc": "2025-07-01T05:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45b739440446d758f9191da42f122a131f53d39de65df85d05b7477622d07efe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677027,
+      "datetime": 1751320680
+    },
+    {
+      "title": "The Procter & Gamble Company (PG) One of 24 Original Dividend Aristocrats Still in the Index",
+      "description": "The Procter & Gamble Company (NYSE:PG) is included among the 11 Best Dividend Aristocrat Stocks to Invest in Now. The initial version of the S&P Dividend Aristocrats list was introduced in January 2003, highlighting the S&P companies that had maintained consistent dividend payments for 25 consecutive years. The list gained attention, especially after Microsoft declared […]",
+      "published_utc": "2025-07-01T05:15:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b580cea42a190a8d868d0f13b64e2ff382907b1b8f988d86b99ee57b72044a36",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677028,
+      "datetime": 1751318142
+    },
+    {
+      "title": "Wedbush Raises Microsoft Corporation (MSFT)’s Price Target to $600 on Azure, Copilot Potential",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is among the 13 Best Big Name Stocks to Buy Now. On June 25, Wedbush hiked its price target for the stock to $600 from $515, while maintaining an Outperform rating for its shares. The analysts cited a ‘massive adoption wave’ for Copilot and Azure as the reason behind the revision. They estimate […]",
+      "published_utc": "2025-07-01T05:09:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b51599d2081a80e15ba815232753d5808942f9b86beb2ee04b4169dbf845344",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677029,
+      "datetime": 1751317781
+    },
+    {
+      "title": "Microsoft Corporation (MSFT)’s Next-Gen AI Chip Production Delayed To Next Year: Report",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is among the Goldman Sachs Stock Portfolio: 10 Large-Cap Stocks To Buy. On Friday, American business publication The Information reported that production of the company’s next-generation AI chip is being delayed to 2026. The media group, citing three sources familiar with the matter, said that the Maia AI chip was facing a delay […]",
+      "published_utc": "2025-07-01T05:04:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cd80ee806d2030cd20837beeaad4e3e037f24750bbbb013444d381e029d2d34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677030,
+      "datetime": 1751317475
+    },
+    {
+      "title": "Tracking Leon Cooperman's Omega Advisors Portfolio - Q1 2025 Update",
+      "description": "See here for latest updates on Leon Cooperman's $2.52B Omega Advisors portfolio, including new picks like Sunoco and key insights into his long-term investments.",
+      "published_utc": "2025-07-01T04:29:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20b6696d85d86d6ad08cae3528fcbaefc86889bdd851d13a7f571fb78ff228aa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677349,
+      "datetime": 1751315385
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:02:17.608561+00:00",
+    "cache_key": "news_f4fbc122fbf80a0fd3d468b6cfbe09c0",
+    "count": 5
+  }
+}

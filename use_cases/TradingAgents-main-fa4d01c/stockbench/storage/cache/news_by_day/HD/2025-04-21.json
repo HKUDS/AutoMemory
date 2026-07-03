@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Trump to Meet Retail Leaders on Business Impact of Tariffs",
+      "description": "President Donald Trump is set to meet with major retailers at the White House Monday, including representatives from Walmart , Home Depot , Lowe's , and Target , to discuss the impact of sweeping...",
+      "published_utc": "2025-04-21T22:52:52",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1e725e760300ea55610ec1665c01811e002ca0642dd86b8ee6485774eb6ce49b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025348,
+      "datetime": 1745247172
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Gillette India's quarterly profit surges on strong demand for grooming products",
+      "description": "Gillette India posted a 60%rise in third-quarter profit on Monday, driven by strong demandfor its grooming products. Shares of the company climbed nearly 10% after the results. ...",
+      "published_utc": "2025-05-26T13:40:10",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=2b910432b0f9d53bee48011c967c2a11d58f063ed03379b6a2589913c815618c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134698767,
+      "datetime": 1748238010
+    }
+  ]
+}

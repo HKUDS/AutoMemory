@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says The Goldman Sachs Group, Inc. (GS) CEO David Solomon’s Quarter Call Was ‘Extraordinary’",
+      "description": "We recently published an article titled Jim Cramer Says Businesspeople Are Emotional & Discusses These 10 Stocks. In this article, we are going to take a look at where The Goldman Sachs Group, Inc. (NYSE:GS) stands against the other stocks Jim Cramer recently discussed. In a recent appearance on CNBC’s Squawk on the Street, Jim Cramer […]",
+      "published_utc": "2025-04-30T19:22:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4126b9e214a58933b14193c891f806c9c32eda15c4879f4b31582f58edf47128",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141674,
+      "datetime": 1746012141
+    },
+    {
+      "title": "IHG to unveil second Holiday Inn & Suites in Japan; 195-room Holiday Inn & Suites Sapporo Odori Park will open in late 2025",
+      "description": "Tokyo, Japan: IHG Hotels & Resorts , one of the world's leading hotel companies, announced today an agreement with Minami Nijo Operations, a wholly-owned subsidiary of World Brands Collection Hotels &...",
+      "published_utc": "2025-04-30T18:57:25",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=23fad9706dc1fdcfa5dc0aed5688bce67f0c9ad61bf7e712c1719ecbecf3d183",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134145577,
+      "datetime": 1746010645
+    }
+  ]
+}

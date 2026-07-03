@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Lesson in Buffett’s Winning Apple Bet",
+      "description": "The famed investor largely shied away from tech until his 2016 Apple bet. It turned out to be his greatest investment.",
+      "published_utc": "2025-05-04T07:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ffe9de90536d5c589419a911e4af1ec7cbdb4f03ff349981af3a02859c8137f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246683,
+      "datetime": 1746314640
+    },
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For May 2025",
+      "description": "Discover top dividend growth stocks with strong returns and attractive valuations. See which 17 stocks had rating changes this month.",
+      "published_utc": "2025-05-04T06:39:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a762047670374f80ad46f6a15d2b0db249e8353790f3177242647b358bf9547",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2047165268/image_2047165268.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134235481,
+      "datetime": 1746311940
+    },
+    {
+      "title": "Apple Plans iPhone Release Schedule Shakeup, New Styles - The Information",
+      "description": "May 3 - * APPLE PLANS IPHONE RELEASE SCHEDULE SHAKEUP, NEW STYLES -THEINFORMATIONSource text: https://tinyurl.com/2649u3wbFurther company coverage: ...",
+      "published_utc": "2025-05-03T19:06:05",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=37a6fcb2a5ead200613e4742487e9dbceb52c504ab9bc670250b387de148a8db",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134228197,
+      "datetime": 1746270365
+    },
+    {
+      "title": "From Momentum To Headwinds: Why It Is Time To Trim Your Apple Position",
+      "description": "",
+      "published_utc": "2025-05-03T18:15:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a9e3bd84e1a7d89710fc9423554c0e2d67e7bb3d0aeaf725a01c8bc4831c22e0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134227216,
+      "datetime": 1746267305
+    },
+    {
+      "title": "Big Tech showed it won’t back down on AI spending. Some on Wall Street are still wary.",
+      "description": "Big Tech showed it won’t back down on AI spending. Some on Wall Street are still wary.",
+      "published_utc": "2025-05-03T17:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c9337a0fc8434043eb79c7bc1307163fe0d76534e678e0dd9fb49f706b7be46e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253734,
+      "datetime": 1746266220
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:04.765786+00:00",
+    "cache_key": "news_7c587525793c358cc7728ce12bf6ca61",
+    "count": 5
+  }
+}

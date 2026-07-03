@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amazon.com, Inc. (AMZN) Ramps Up AI Infrastructure With AWS Trainium2 Chips and Titan Models",
+      "description": "We recently published a list of 10 AI Stocks That Will Skyrocket. In this article, we are going to take a look at where Amazon.com, Inc. (NASDAQ:AMZN) stands against other AI stocks that will skyrocket. AI (Artificial Intelligence) isn’t just a buzzword anymore—it’s becoming a part of our everyday lives, from the apps we use […]",
+      "published_utc": "2025-04-26T20:20:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=008fad0cc43b1cc5bf6a6ba3c7ba585dfcf5a98539679d845f5059d772d2cc6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104376,
+      "datetime": 1745670031
+    }
+  ]
+}

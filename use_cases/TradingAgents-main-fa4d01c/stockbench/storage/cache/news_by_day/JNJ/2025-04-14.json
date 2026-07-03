@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Why Johnson & Johnson (JNJ) is the Best Medical Stock to Buy According to Billionaires",
+      "description": "We recently published a list of 10 Best Medical Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best medical stocks to buy according to billionaires. Why are Healthcare Stocks Under Pressure? Some experts view medical, healthcare, and big […]",
+      "published_utc": "2025-04-14T05:41:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03be68cb9854bc10e639d5d1ff76f339dccb8e04f684ca4807cd196ee488c603",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133908234,
+      "datetime": 1744580487
+    },
+    {
+      "title": "Wall Street Brunch: Tariffs For Some",
+      "description": "Listen below or on the go on Apple Podcasts and SpotifyThe following is an abridged transcript:President Donald Trump said he will provide an update on the...",
+      "published_utc": "2025-04-14T01:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c11b94ca2ec4942e1949dd9656f37c2fac1ebf3dc53b86380efeaffccad9341",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1837756135/image_1837756135.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133901832,
+      "datetime": 1744565340
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Try Your Luck on This St. Patrick's Day: MCD, JACK and More",
+      "description": "Try your luck with some beverage and restaurant stocks on the Irish festival.",
+      "published_utc": "2025-03-17T22:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9897a427d2bade51c791ce03760abe108724708599ef117cfa6de7b97e7037a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324818,
+      "datetime": 1742222220
+    },
+    {
+      "title": "Dow's 250-point rally highlighted by gains for Nike, IBM shares",
+      "description": "Dow's 250-point rally highlighted by gains for Nike, IBM shares",
+      "published_utc": "2025-03-17T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=150d28d09075adfbf7ce03d6f4d538c5a9a40eb473f0e0c768863250a76728a2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133214302,
+      "datetime": 1742204700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:18:47.629214+00:00",
+    "cache_key": "news_39c5432e8a1f9c000eed181a6510d278",
+    "count": 2
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "American Eagle Pulls 2025 Outlook After Weak First Quarter",
+      "description": "(Bloomberg) -- American Eagle Outfitters Inc. pulled its guidance for the full year following a first quarter that was marred by discounting and a write-down of inventory, sending the stock down in New York trading. Most Read from BloombergAs Coastline Erodes, One California City Considers ‘Retreat Now’A New Central Park Amenity, Tailored to Its East Harlem NeighborsPower-Hungry Data Centers Are Warming Homes in the NordicsHow a Highway Became San Francisco’s Newest ParkIn a preliminary earnings",
+      "published_utc": "2025-05-14T21:44:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b998bae7295e73da4935d10bb430f0ed292598f011913461c29efe1cf3e47bf0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460877,
+      "datetime": 1747230290
+    },
+    {
+      "title": "Earnings Update: McDonald's Corporation (NYSE:MCD) Just Reported Its First-Quarter Results And Analysts Are Updating Their Forecasts",
+      "description": "McDonald's Corporation ( NYSE:MCD ) just released its latest quarterly report and things are not looking great...",
+      "published_utc": "2025-05-14T18:21:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fea8a248181da69eab7a36ea27d3357c7b180d9b1b1376be13c559a7312858a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460878,
+      "datetime": 1747218072
+    },
+    {
+      "title": "McDonald's India operator doubles quarterly profit as budget menu draws more diners",
+      "description": "The restaurant operator's consolidated profit after tax rose to 15.2 million rupees ($178,163.28) for the quarter ended March 31, from 7.6 million rupees a year ago.  Indian operators of U.S. chains such as KFC and Burger King have launched cheaper items, including a $1 pizza and burger, to compete with local rivals as consumers grapple with high costs of living.  However, the results are in contrast to Pizza Hut franchisee Sapphire Foods .",
+      "published_utc": "2025-05-14T17:21:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0b4a52f3dc6a6225eae5fd4d488a2db83de2089d63bad67b29d372e075ce065",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134460879,
+      "datetime": 1747214483
+    },
+    {
+      "title": "McDonald's India operator posts higher quarterly profit as cheaper menu draws consumers",
+      "description": "Westlife Foodworld, theoperator of McDonald's in parts of India, reported ajump in fourth-quarter profit on Wednesday, as its cheaper menuitems attracted budget-conscious consumers. ...",
+      "published_utc": "2025-05-14T13:25:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6e6d36bc164c3300f205ad255c4f1e78da536dcd8c86ea2bad0532289d687a6e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134433727,
+      "datetime": 1747200307
+    }
+  ]
+}

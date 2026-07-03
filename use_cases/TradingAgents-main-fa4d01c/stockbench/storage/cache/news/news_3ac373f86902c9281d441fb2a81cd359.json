@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon launches its first internet satellites to compete against SpaceX's Starlinks",
+      "description": "CAPE CANAVERAL, Fla. — Amazon’s first batch of internet satellites rocketed into orbit Monday, the latest entry in the mega constellation market currently dominated by SpaceX's thousands of...",
+      "published_utc": "2025-04-29T03:55:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3d50331f6ec6fbde607e89eb5e208d801b7034543fed1ed6046c43ea4136e843",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134119980,
+      "datetime": 1745870117
+    },
+    {
+      "title": "Amazon launches first Kuiper internet satellites, taking on Starlink",
+      "description": "WASHINGTON -The first 27 satellites for Amazon's Kuiper broadband internet constellation were launched into space from Florida on Monday, kicking off the long-delayed deployment of an...",
+      "published_utc": "2025-04-29T03:24:41",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8274c34a8375ac238cac3f3d84cdebaa11eee16fce714a802418681ec736845f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134120007,
+      "datetime": 1745868281
+    },
+    {
+      "title": "Amazon launches its first Project Kuiper internet satellites to compete against SpaceX",
+      "description": "Amazon launches its first Project Kuiper internet satellites to compete against SpaceX",
+      "published_utc": "2025-04-29T03:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4f44c39ec13306de6f087e94378862f4b40fc56c97b24e7b2fd92a4aed848658",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126598,
+      "datetime": 1745868060
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Up But Nvidia Falls On New China Threat; Cathie Wood Loads Up On This Stock (Live Coverage)",
+      "description": "Stock Market Today: Dow Jones Up But Nvidia Falls On New China Threat; Cathie Wood Loads Up On This Stock (Live Coverage)",
+      "published_utc": "2025-04-29T00:23:05",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4b78f07bcef4af8df2d5f7eacbfbafc289c157149691d14e1319d1324224b71a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126453,
+      "datetime": 1745857385
+    },
+    {
+      "title": "Wave of U.S. data this week may give tariff-weary investors more to worry about",
+      "description": "Wave of U.S. data this week may give tariff-weary investors more to worry about",
+      "published_utc": "2025-04-29T00:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=13acb31388fa7763ab0cd6964137d8733fcc524442c1bf3943acf6c783065aa9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126475,
+      "datetime": 1745856060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:29.915688+00:00",
+    "cache_key": "news_3ac373f86902c9281d441fb2a81cd359",
+    "count": 5
+  }
+}

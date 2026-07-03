@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "The Court Of Appeals For The Federal Circuit's In Re Riggs Decision: 35 USC 102(e) Prior Art Requires Written Description Support In Provisional Application For Disclosure Relied On To Reject Claims",
+      "description": "On March 24, 2025, the US Court of Appeals for the Federal Circuit issued a decision titled In Re: Riggs that vacated a decision of the Patent Trial and Appeal Board of the US Patent and Trademark...",
+      "published_utc": "2025-04-07T14:13:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=21bd72f36a27c90f84841362a441081c4d85f5f37f635ebfd236f7f682feedd1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133737131,
+      "datetime": 1744006387
+    },
+    {
+      "title": "This Type of Cholesterol Is a Risk Factor for Heart Disease. Emerging Drugs from Lilly and Amgen Could Treat It.",
+      "description": "This Type of Cholesterol Is a Risk Factor for Heart Disease. Emerging Drugs from Lilly and Amgen Could Treat It.",
+      "published_utc": "2025-04-07T09:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0007bd8f48ea17404b6e4aad6fba852406f845d528bdb92e9b3be758a9918b15",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134148455,
+      "datetime": 1743987600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:28:16.561931+00:00",
+    "cache_key": "news_0987c784d5d4c0230424c4fedcd16d77",
+    "count": 2
+  }
+}

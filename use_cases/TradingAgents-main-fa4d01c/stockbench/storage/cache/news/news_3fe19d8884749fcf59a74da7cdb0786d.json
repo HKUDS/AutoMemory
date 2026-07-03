@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "3 Soaring Stocks I'd Buy Now With No Hesitation",
+      "description": "Looking for investments with both serious momentum and staying power? See why these rising stars made my \"buy\" list in July.",
+      "published_utc": "2025-07-05T18:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e975df3cb2979f4d6c7354864ad249a8e73554b212813deef4dd685ff4f4ab90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766627,
+      "datetime": 1751710860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:49.147713+00:00",
+    "cache_key": "news_3fe19d8884749fcf59a74da7cdb0786d",
+    "count": 1
+  }
+}

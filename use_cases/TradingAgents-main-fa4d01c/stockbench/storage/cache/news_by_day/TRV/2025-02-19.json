@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Keefe, Bruyette & Woods Upgrades Travelers Companies (TRV)",
+      "description": "",
+      "published_utc": "2025-02-19T20:05:16",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=c2b3c8553afee678b859b1aca43753861ec1eeb33c1d33e068c630af97d78725",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132783673,
+      "datetime": 1739966716
+    }
+  ]
+}

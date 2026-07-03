@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW): Among the Best Performing Dow Stocks So Far in 2025",
+      "description": "We recently published a list of 11 Best Performing Dow Stocks So Far in 2025. In this article, we are going to take a look at where The Sherwin-Williams Company (NYSE:SHW) stands against other best performing Dow stocks so far in 2025. The Dow is a renowned and significant stock market index that measures the […]",
+      "published_utc": "2025-02-24T03:58:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92fe37f36630321c1203fba47d25fad5669cdab4c97d92e382297c2991d083f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133186495,
+      "datetime": 1740340713
+    }
+  ]
+}

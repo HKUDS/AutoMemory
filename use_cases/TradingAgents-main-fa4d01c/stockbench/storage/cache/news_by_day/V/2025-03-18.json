@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Inside Visa's battle to get a head start beating scams",
+      "description": "The card network said it saved would-be victims $350 million in the first year after it combined several crime-fighting units.",
+      "published_utc": "2025-03-18T03:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7778ca3467ea1789eea0f13ed4b97867a866cdec663c6a98f9e00d0e4b7a66d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133311391,
+      "datetime": 1742239800
+    }
+  ]
+}

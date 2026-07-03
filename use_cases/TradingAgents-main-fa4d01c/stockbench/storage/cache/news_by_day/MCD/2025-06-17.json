@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "McDonald's (MCD) reached $296.29 at the closing of the latest trading day, reflecting a -1.86% change compared to its last close.",
+      "published_utc": "2025-06-17T05:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a00b7b9982561aa72d6191cb77f98b2bb5cffbf76d3f73bfa9d11fcc6960e239",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312708,
+      "datetime": 1750110602
+    },
+    {
+      "title": "McDonald's Corp. stock underperforms Monday when compared to competitors",
+      "description": "McDonald's Corp. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-06-17T00:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e3423c64d34d7ecea3d92ce10044a1e779fcbb4097e9bc9253061a973c6bb817",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135330478,
+      "datetime": 1750091520
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Microsoft: Fiscal Q2 Review, A Defining Leader Of Commercial AI",
+      "description": "Microsoft has superior distribution, reach, and resources to achieve long-term success in the blossoming AI industry. See why MSFT stock is a Buy.",
+      "published_utc": "2025-02-03T07:44:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d253ca3cf9f7c1e834c43fc67cc08e7ae0f18f3b5cd74e3af839e8f73385b1cb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1766257164/image_1766257164.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132517722,
+      "datetime": 1738539844
+    },
+    {
+      "title": "OpenAI launches new AI tool to facilitate research tasks",
+      "description": "OpenAI launched a new artificial intelligence tool on Sunday called deep research, which it said conducts multi-step research on the internet for complex tasks. It accomplishes in tens...",
+      "published_utc": "2025-02-03T03:19:34",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ca6ee3b8f564685433c82992f3ac2c906d2042f2f46c35c7ef0c1129bafae534",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132516834,
+      "datetime": 1738523974
+    },
+    {
+      "title": "ServiceNow's Pivot To AI Consumption Pricing Is Margin Accretive (Rating Upgrade)",
+      "description": "ServiceNow's shift to consumption-based pricing may cause short-term uncertainty, but long-term AI adoption and monetization are expected to benefit.",
+      "published_utc": "2025-02-03T02:19:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e9a1d2ad17bd054ad44f48eba0693c9e27c6ab61ccccb1bf0823f0c537f4f514",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1688937328/image_1688937328.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132516675,
+      "datetime": 1738520380
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Amazon makes urgent move to avoid US-China trade war impact",
+      "description": "The online retail giant is raising eyebrows with its latest move.",
+      "published_utc": "2025-04-20T22:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a69075bec33f1d16ab00270af213fd2d0e21596bbc2c59ded70fdf42925a2ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134016161,
+      "datetime": 1745159580
+    },
+    {
+      "title": "2 Top Buffett Stocks to Buy and Hold for the Long Haul",
+      "description": "Few investors manage to become a household name, but Warren Buffett is one of them.  Tons of investors look to Berkshire Hathaway's portfolio and investing moves to get an idea of moves they should make.  If you're seeking out a couple of Buffett stocks to add to your portfolio, look no further than the following two.",
+      "published_utc": "2025-04-20T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7764fab3dd9f8619105b0579e29162de0ff195a9664c46897c603bc8b2245571",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134016162,
+      "datetime": 1745158500
+    }
+  ]
+}

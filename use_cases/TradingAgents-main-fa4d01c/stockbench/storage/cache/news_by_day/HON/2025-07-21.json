@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Tesla, Verizon, Coca-Cola, Alphabet, and More Stocks to Watch This Week",
+      "description": "Roughly 100 companies from the S&P 500 index will report results this week, including two of the Magnificent Seven. Economic data will open a window on slugging home sales.",
+      "published_utc": "2025-07-21T02:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=283412a4fe5e44e08736622ed28093b4fc932381ff7864259a1e05cc650aaca3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019646,
+      "datetime": 1753034400
+    }
+  ]
+}

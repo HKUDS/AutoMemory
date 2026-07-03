@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Walmart Continues to Crush the S&P 500 (and if the Dividend Stock Is a Buy Now)",
+      "description": "Walmart has rewarded investors with outsized gains.  Last year, Walmart (NYSE: WMT) soared 71.9%, making it one of the best performers in the S&P 500 and the second-best performing component in the Dow Jones Industrial Average (behind only Nvidia).  Walmart is following up on that impressive performance with a 6.7% year-to-date gain at the time of this writing, which is far better than the S&P 500's 2.1% decline.",
+      "published_utc": "2025-05-24T23:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ed2140eae88c7515b841ee72c2e93d75d528d3fcbcc52bf7565950f918d5194",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694225,
+      "datetime": 1748100420
+    },
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
+      "description": "Berkshire has a small position in a massive tech juggernaut that benefits from multiple growth tailwinds and competitive advantages.  Durable financial performance, a strong brand, and network effects are probably why this leading financial services entity is a top Buffett holding.  Warren Buffett-led Berkshire Hathaway owns many stocks in its huge $284 billion public equity portfolio.",
+      "published_utc": "2025-05-24T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d1a9afb90c7d6184e645e7ccffae68687fb5946bcfda3aa0ab7ca298c4188ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694226,
+      "datetime": 1748073900
+    },
+    {
+      "title": "5 Best CEFs This Month For Yields Up To 14% (May 2025)",
+      "description": "",
+      "published_utc": "2025-05-24T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b75c7d61e883a81f425a93fd499175b0ca3c9bb887e49e5974fcd7bdfea8be17",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134687749,
+      "datetime": 1748073600
+    },
+    {
+      "title": "Billionaire CEO Jamie Dimon Says America Is Still the Best Place to Invest: 2 U.S. Stocks to Buy Now",
+      "description": "JPMorgan Chase CEO Jamie Dimon recently told Bloomberg that the U.S. is still the best place to invest because it has the most prosperous economy on the planet.  Nvidia is the market leader in data center GPUs -- chips that are the industry standard in accelerating complex workloads like artificial intelligence (AI).  Amazon has a strong presence in e-commerce, digital advertising, and cloud computing, and has consistently topped Wall Street’s earnings estimates.",
+      "published_utc": "2025-05-24T15:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36143d088746271be4e1790a63628bb67acdae2a56ecf711d0b64512df1eefd2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134685562,
+      "datetime": 1748070300
+    }
+  ]
+}

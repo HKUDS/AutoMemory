@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "NYLI Epoch Global Equity Yield ADR SMA Q1 2025 Commentary",
+      "description": "For the quarter, NYLI Epoch Global Equity Yield ADR SMA posted a return of 5.1% (Gross) and 4.3% (Net) while the broad market returned negative 1.8% as measured by the MSCI World Index.",
+      "published_utc": "2025-07-07T07:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2450c3e4ea3e41af0aa3a2b48a3b1e0cdd8f30ee9b7168e711bca73dc5758078",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1146079450/image_1146079450.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135778738,
+      "datetime": 1751845200
+    },
+    {
+      "title": "This CEO went from folding clothes at Nordstrom to being Jeff Bezos’ right hand man—the billionaire told him to delegate to his employees more",
+      "description": "Amazon’s Jeff Bezos taught Coursera’s new chief executive Greg Hart the fewer decisions that have to go to the CEO, the better.",
+      "published_utc": "2025-07-06T20:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea094e3680f4f09c160e3a93b9386528c017122e13f4f7f2d0e8860def54d99d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135775972,
+      "datetime": 1751803620
+    },
+    {
+      "title": "NYLI Income Builder Fund Q1 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-06T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7ceeff97484e949db72144ad93338a95a456631a1f33b28a362a62fbad454cd4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135775524,
+      "datetime": 1751791500
+    },
+    {
+      "title": "3 Top Cybersecurity Stocks to Buy in July",
+      "description": "Cybersecurity spending is expected to increase 15% this year.  Check Point is a pure-play cybersecurity company that works with more than 100,000 businesses.  IBM and Broadcom are massive companies that developed cybersecurity products.",
+      "published_utc": "2025-07-06T15:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f55a558cb307e7d5123254557f5d050196d56d944e24f78a09fa7a555772eb21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135775592,
+      "datetime": 1751786700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:04:26.117841+00:00",
+    "cache_key": "news_decc2bcc09c76cf32c67e59ced6bc2a9",
+    "count": 4
+  }
+}

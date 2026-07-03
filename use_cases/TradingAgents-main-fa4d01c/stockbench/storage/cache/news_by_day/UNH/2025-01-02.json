@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer’s Take on UnitedHealth Group (UNH): Bold Predictions for the Future",
+      "description": "We recently compiled a list of the Jim Cramer’s Bold Predictions About These 10 Healthcare Stocks. In this article, we are going to take a look at where UnitedHealth Group Incorporated (NYSE:UNH) stands against the other healthcare stocks Jim Cramer has made bold predictions about. Healthcare has been one of Jim Cramer’s favorite topics lately. […]",
+      "published_utc": "2025-01-02T01:57:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7118a216a7906a376849c351190a4aedbd266077b2c3937bc0042926d6a15ea",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/a6c6a869a7c2c92171425bdb9b9fb0f6",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132230757,
+      "datetime": 1735754237
+    }
+  ]
+}

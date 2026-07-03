@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Long Wait For Broadcom's 'AI Trifecta' Earnings Report Is Almost Over",
+      "description": "",
+      "published_utc": "2025-05-29T07:08:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe419f4fe91c3a6a4effe75667a1a79989b24624bd8c31378b11a43830fb3a1a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134782665,
+      "datetime": 1748473688
+    },
+    {
+      "title": "Analyzing the Current Earnings Outlook",
+      "description": "The Q1 reporting cycle is now effectively behind us, with results from less than two dozen S&P 500 members still awaited at this stage.",
+      "published_utc": "2025-05-29T06:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f6e4bd40fa14fb7cd95ddd0d3b23500ea4194efaf983e6a34e2f3c7296141bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134787659,
+      "datetime": 1748470800
+    },
+    {
+      "title": "Salesforce CEO on why he defied conventional thinking by hiking earnings guidance",
+      "description": "Salesforce co-founder and CEO Marc Benioff says the business is strong enough to support a guidance raise despite the economic headwinds.",
+      "published_utc": "2025-05-29T05:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc70a9a284e24d97ab615ba89705883e3914177d6904372f0a7d40a23ae77103",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134807828,
+      "datetime": 1748468705
+    },
+    {
+      "title": "RGA Investment Advisors Q1 2025 Investment Commentary",
+      "description": "In their Q1 2025 RGA Investment Advisors discuss navigating market uncertainty, AI, and Life Sciences. Click here to read the full fund letter.",
+      "published_utc": "2025-05-29T05:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4dee0ba7f00380d26b1305312c50ac64ababf593c379ada4279c4b7699f12336",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213173935/image_2213173935.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134776080,
+      "datetime": 1748467800
+    },
+    {
+      "title": "Nvidia Is Better Prepared For The Future Than Competitors",
+      "description": "Nvidia's revenue growth has far outpaced Intel and AMD, driven by massive deals like Oracle's $40B Blackwell chip order. Read why NVDA stock is a Buy.",
+      "published_utc": "2025-05-29T05:03:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d96cf2865f2a39f8146a70e88cdbefae6281019fac09207c0a03ecd3eafc3ac5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134773728,
+      "datetime": 1748466201
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:49:32.214060+00:00",
+    "cache_key": "news_b17c73d09d4553963f50e1102b1bea37",
+    "count": 5
+  }
+}

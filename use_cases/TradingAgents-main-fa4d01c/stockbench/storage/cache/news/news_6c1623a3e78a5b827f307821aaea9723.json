@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fund Giants Put Faith in ‘Trump Put’ to Keep Stock Rally Rolling",
+      "description": "(Bloomberg) -- A cohort of the world’s largest asset managers is leaning harder into the rally in risk assets as US stocks push to fresh highs, defying persistent trade and geopolitical tensions.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionSalt Lake City Turns Winter Olympic Bid Into Statewide Bond BoomMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build an AI CapitalFirms such as Invesco Ltd., Fidelity Internat",
+      "published_utc": "2025-07-22T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9f84c5b4f5c94e4adbff805f0f932556ba923bf5596dad6c993fcd471117b60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031217,
+      "datetime": 1753137000
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation, July 2025",
+      "description": "Build a high-performing portfolio with over 20 expert-recommended stocks. Focused on capital growth, beat the S&P 500 using institutional-grade picks. See more.",
+      "published_utc": "2025-07-22T05:23:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1c798100ae494d89b0ad8561f66cf75a2e7da04aa6e2ba800c19a315d605d20",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028779,
+      "datetime": 1753133004
+    },
+    {
+      "title": "Goldman Sachs Group (GS) Advises F&F Co. On TaylorMade Acquisition Strategy",
+      "description": "Goldman Sachs Group (GS) experienced a 36% rise in its share price over the last quarter. This substantial growth came as the company was engaged as the financial advisor for F&F Co. Ltd.'s potential acquisition of TaylorMade, amid positive market trends with the Dow Jones, S&P 500, and Nasdaq reaching all-time highs. GS also reported strong second-quarter earnings and a dividend increase, likely bolstering investor confidence. Additionally, the company’s inclusion in the Russell Top 50 Index...",
+      "published_utc": "2025-07-22T01:16:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=208ec9074ad8a1a65b00a2eb61aa05cbf74cf8b7eae5bd59ec0450b0489bedf9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031415,
+      "datetime": 1753118188
+    },
+    {
+      "title": "Citi joins Goldman in asking junior bankers to reveal if they accepted other jobs",
+      "description": "(Bloomberg) -- Citigroup Inc. is asking its new class of investment-banking analysts to disclose whether they’ve already accepted a job offer from another firm, in the latest step by banks to clamp down on aggressive recruitment by private equity firms.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build an AI CapitalFirst-year analysts will be required to complete an",
+      "published_utc": "2025-07-21T23:05:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bccd5178575d5fa75a2c66339f174122d4c92e4bcc87f4ca04d35d35957429f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025379,
+      "datetime": 1753110356
+    },
+    {
+      "title": "Yen Advances as Ishiba Holds On in Face of Election Setback",
+      "description": "(Bloomberg) -- The yen strengthened versus the dollar on Monday after Japan’s Prime Minister Shigeru Ishiba said he would carry on as leader even as the ruling coalition lost its majority in the upper house election. Japanese stock futures were little changed.Most Read from BloombergWhy the Federal Reserve’s Building Renovation Costs $2.5 BillionMilan Corruption Probe Casts Shadow Over Property BoomHow San Jose’s Mayor Is Working to Build an AI CapitalJapan’s currency, which had declined in the",
+      "published_utc": "2025-07-21T22:52:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e44cf6a73ac04953492445411fd5ed6636bda89f9cab4d807e1617a6b44cf05d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136025505,
+      "datetime": 1753109552
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:09.919754+00:00",
+    "cache_key": "news_6c1623a3e78a5b827f307821aaea9723",
+    "count": 5
+  }
+}

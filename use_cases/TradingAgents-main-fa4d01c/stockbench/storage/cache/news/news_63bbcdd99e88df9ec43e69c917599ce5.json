@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Hartford Growth Opportunities Fund Q1 2025 Commentary",
+      "description": "The Hartford Growth Opportunities Fund (I Share) underperformed the Russell 3000 Growth Index during the quarter. Read more here.",
+      "published_utc": "2025-05-08T06:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b44bd256d23b79f849fd26897a02f4ddcc1e3a0037f6e7edba09e100f587ddc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2054524126/image_2054524126.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134314054,
+      "datetime": 1746658320
+    },
+    {
+      "title": "AI leaders to urge senators to speed power supply permitting, boost government data access",
+      "description": "WASHINGTON (Reuters) -Microsoft and other AI leaders on Thursday will urge U.S. lawmakers to streamline federal permitting for artificial intelligence energy needs and open more government data sets for AI training, according to written testimony reviewed by Reuters.  \"America’s advanced economy relies on 50-year-old infrastructure that cannot meet the increasing electricity demands driven by AI, reshoring of manufacturing, and increased electrification,\" Microsoft President Brad Smith's written testimony says for a Senate Commerce Committee hearing on \"Winning the AI Race\".  OpenAI CEO Sam Altman will tell senators that as AI systems improve people will want to use them more, and meeting that demand will require more chips, training data, energy and supercomputers.",
+      "published_utc": "2025-05-08T06:49:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2144773bdee6c4eaa9b04c359dad67074e002fef1f144b28e02916b196f845d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316502,
+      "datetime": 1746658175
+    },
+    {
+      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+      "description": "Tech stocks were mixed late Wednesday afternoon with the Technology Select Sector SPDR Fund (XLK) up",
+      "published_utc": "2025-05-08T03:58:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47422e6279ab84dd8aecf5f1a889ea5b7145bb0909af454c37934a0f44ee2cc5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316503,
+      "datetime": 1746647885
+    },
+    {
+      "title": "Market Chatter: OpenAI Seeks to Cut Microsoft's Revenue Share in Restructuring Talks",
+      "description": "Microsoft-backed (MSFT) OpenAI, which is proceeding with a corporate restructuring that requires Mic",
+      "published_utc": "2025-05-08T03:37:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e0a250cdaecbaf6df84ac3fe8b97f1650b61d893aa0c29ae1097a4f861436c96",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316504,
+      "datetime": 1746646658
+    },
+    {
+      "title": "OpenAI Looking to Support Artificial Intelligence Projects, Infrastructure Beyond US",
+      "description": "Microsoft-backed (MSFT) OpenAI said Wednesday it is expanding its Stargate initiative working to bui",
+      "published_utc": "2025-05-08T03:33:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=449025f62b421b17455153a368a11d060172e9a0267059a01c050874ce72cd29",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316505,
+      "datetime": 1746646432
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:40:46.587224+00:00",
+    "cache_key": "news_63bbcdd99e88df9ec43e69c917599ce5",
+    "count": 5
+  }
+}

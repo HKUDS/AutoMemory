@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "J&J’s New Talc Tort Trial",
+      "description": "J&J’s New Talc Tort Trial",
+      "published_utc": "2025-03-03T00:29:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4271e03576ce1bde3c32126f898d1bab75d0f18ca540302dbc147340a285e64b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132956478,
+      "datetime": 1740932940
+    }
+  ]
+}

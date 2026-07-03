@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "ServiceNow Discloses Artificial Intelligence Financial Target For 2026",
+      "description": "The rise of \"agentic\" AI has yet to boost ServiceNow stock or most software makers as monetization ramps slowly. ServiceNow disclosed a new AI financial target Monday.",
+      "published_utc": "2025-05-06T22:05:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42e63859b8a0bb563b08678b9501ee564d68eb7f71e4993b68d1e5b46fef0976",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266324,
+      "datetime": 1746540350
+    },
+    {
+      "title": "Are Investors Undervaluing Salesforce, Inc. (NYSE:CRM) By 29%?",
+      "description": "Key Insights The projected fair value for Salesforce is US$382 based on 2 Stage Free Cash Flow to Equity Salesforce is...",
+      "published_utc": "2025-05-06T22:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=babb571d8e17730e81c4a14326d564929f82a6e059ca0fc0890a45a79426b6c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266325,
+      "datetime": 1746540010
+    }
+  ]
+}

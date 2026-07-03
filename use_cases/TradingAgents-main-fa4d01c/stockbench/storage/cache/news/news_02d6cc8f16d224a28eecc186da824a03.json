@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "In the latest trading session, UnitedHealth Group (UNH) closed at $300.58, marking a -1.16% move from the previous day.",
+      "published_utc": "2025-07-15T05:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0eca1f7b3f7fad0f0502eec60deaff865dbc3264352dfa51e39791ecb779836",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931792,
+      "datetime": 1752529805
+    },
+    {
+      "title": "Episource is notifying millions of people that their health data was stolen",
+      "description": "The UnitedHealth-owned medical coding service was hacked earlier this year by a ransomware gang.",
+      "published_utc": "2025-07-15T03:07:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66f2af34b2b77b48784e0d871a52c60b3451de5fbcf4bfe00975d8271589d2c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931793,
+      "datetime": 1752520038
+    },
+    {
+      "title": "CVS Up on Medicare Advantage Strength: Is It a Buy Before Q2 Earnings?",
+      "description": "CVS stock surges nearly 50% in 2025, aided by strong Q1 results, raised guidance and easing Medicare regulation risks.",
+      "published_utc": "2025-07-15T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=648643776ced106720237054d150ae246b3eba78191333ac9d24f1b7d867ade4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931794,
+      "datetime": 1752519600
+    },
+    {
+      "title": "UnitedHealth's Commercial Unit: A Stabilizer Amid Healthcare Turmoil?",
+      "description": "UNH relies on its growing commercial insurance business as pressures from Medicare mount and industry headwinds persist.",
+      "published_utc": "2025-07-15T00:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=475dc4aeab8a502d1f3e56921ecff88af636f8e720ce78f6b6560ea28bd49153",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931795,
+      "datetime": 1752510180
+    },
+    {
+      "title": "Trump's spending bill will likely boost costs for insurers, shrink Medicaid coverage",
+      "description": "NEW YORK (Reuters) -President Donald Trump's spending bill is set to raise administrative costs and make managing costs more difficult for insurers like UnitedHealthcare and CVS Health's Aetna that operate Medicaid health plans, experts say.  As a result, those insurers will likely pull back their Medicaid coverage and invest more in existing markets to retain their healthier members, experts said.",
+      "published_utc": "2025-07-14T18:02:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fae0a215e88393c23bdf93a0b18aee5dce8cb5fc5c4ef2886d0f30d26cb16a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135921329,
+      "datetime": 1752487360
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:37.295290+00:00",
+    "cache_key": "news_02d6cc8f16d224a28eecc186da824a03",
+    "count": 5
+  }
+}

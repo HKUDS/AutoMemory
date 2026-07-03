@@ -1,0 +1,188 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines (IBM): Among Stocks Insiders Were Piling Into Recently",
+      "description": "We recently published a list of Should You Buy the Dip and Follow Insiders into These 10 Stocks?. In this article, we are going to take a look at where International Business Machines Corporation (NYSE:IBM) stands against other stocks insiders were piling into recently. After a turbulent week, stocks began recovering on Monday, with all […]",
+      "published_utc": "2025-03-23T04:22:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09a1f9bd43b4f32cf5f28b8ff6754f85dcd708d1fd02eca17f05d73ae98e5f0f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324762,
+      "datetime": 1742674929
+    },
+    {
+      "id": "5bcdd010ea17c0363f086612e826034ae9db8b4d03fd2a0a054973ceaf43c21b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Top 5 Reasons Students Are Getting Ahead at Iona University",
+      "author": "N/A",
+      "published_utc": "2025-03-22T12:48:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/22/3047407/0/en/Top-5-Reasons-Students-Are-Getting-Ahead-at-Iona-University.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "HEINY",
+        "PEP",
+        "PG",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AC"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/2db00bd8-4d61-44e8-a152-55fe799d2171",
+      "description": "Iona University is rapidly becoming a top choice for students nationwide, offering innovative academic programs, impressive internships, and a vibrant campus life. The university is focused on preparing students for the future, with an AI-driven curriculum and a strong alumni network providing mentorship and career guidance.",
+      "keywords": [
+        "Iona University",
+        "internships",
+        "AI-driven curriculum",
+        "campus life",
+        "alumni network"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Google, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Google, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like IBM, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "HEINY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like HEINEKEN® USA, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like PepsiCo, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Procter & Gamble, and one student was even offered a full-time position after a successful internship, indicating the university's ability to provide high-quality internship opportunities that can lead to employment."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Merrill Lynch, indicating the university's ability to provide high-quality internship opportunities."
+        },
+        {
+          "ticker": "AC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Iona students have recently enjoyed internships at leading companies like Associated Capital Group, indicating the university's ability to provide high-quality internship opportunities."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:20:57.467084+00:00",
+    "cache_key": "news_ff58343498eeb602475354334dc02d6f",
+    "count": 2
+  }
+}

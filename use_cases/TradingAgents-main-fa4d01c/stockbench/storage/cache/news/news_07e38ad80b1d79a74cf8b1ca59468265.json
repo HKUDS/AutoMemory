@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Push UPs [Stocks] Vs Pull DOWNs [Retail Sales]",
+      "description": "This week's review and preview: The S&P 500 and Nasdaq showed bullish behavior, with the Dow Jones leading YTD gains at 4.7%, despite weak retail sales data. Read the full report here.",
+      "published_utc": "2025-02-19T00:59:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c31df8fe8b2fca463f42ecc3799b980a278e8518addeb12c05a3ccf4f73c16b1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/948513030/image_948513030.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132780121,
+      "datetime": 1739897952
+    },
+    {
+      "title": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "description": "UnitedHealth, Sherwin-Williams Co. share losses lead Dow's 131-point drop",
+      "published_utc": "2025-02-18T17:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=94cc7b8e2e5e9af34eb71ff375051129a16c10facf53c80475ad38658bda4cc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767999,
+      "datetime": 1739872740
+    },
+    {
+      "title": "American Century Equity Income Fund Q4 2024 Commentary",
+      "description": "Growth stocks outpaced their value counterparts during the quarter, even as some investors sought lower-volatility positions. Read more here.",
+      "published_utc": "2025-02-18T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24059a49384deda6cb03e2a6a8cc929779b10eefc7554041ca94201b12b89841",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1376140848/image_1376140848.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132767113,
+      "datetime": 1739865600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:31:21.741996+00:00",
+    "cache_key": "news_07e38ad80b1d79a74cf8b1ca59468265",
+    "count": 3
+  }
+}

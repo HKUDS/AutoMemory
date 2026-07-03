@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Gabelli Funds to Host 16th Annual Specialty Chemicals Symposium Thursday, March 20, 2025",
+      "description": "GREENWICH, Conn., March 03, 2025 (GLOBE NEWSWIRE) -- Gabelli Funds is hosting its 16th Annual Specialty Chemicals Symposium taking place at The Harvard Club in New York, NY on Thursday, March 20, 2025. The symposium will draw a variety of companies, with a focus on pricing power, margin recovery, interest rates, inventory stabilization, global trade policy, demand trends, and the M&A environment. Attendees will also have the opportunity to meet with managements in a one-on-one setting. Agenda: 8",
+      "published_utc": "2025-03-03T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=594f17af0d758aea78039de3f1854a5dd7d5d0959efe6ed6f3aca66f0c301bb9",
+      "category": "company",
+      "image": "https://media.zenfs.com/en/globenewswire.com/5d0b1ba888a042c055f8be5cd20d9910",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133175708,
+      "datetime": 1741006800
+    }
+  ]
+}

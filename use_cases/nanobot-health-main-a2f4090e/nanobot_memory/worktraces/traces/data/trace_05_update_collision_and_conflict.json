@@ -1,0 +1,181 @@
+{
+  "trace_id": "trace_05_update_collision_and_conflict",
+  "description": "Tests three hard scenarios: (1) multi-update collision — same goal updated multiple times, most recent value must win; (2) goal target revision — HbA1c target changes mid-trace, old target must not be reported as current; (3) allergy cross-reference — user asks about ibuprofen for a new symptom, system must surface the ibuprofen allergy from memory without requiring user to remind it.",
+  "turns": [
+    {
+      "messages": [
+        {"role": "user", "content": "What's the most efficient way to organize a closet? I have way too much stuff."},
+        {"role": "assistant", "content": "Start with a ruthless edit — anything you haven't worn in 18 months goes. Then categorize: daily-use items at eye level and within arm's reach, seasonal and rarely-used items on high shelves or in bins. Double-hang rods for short items (shirts, jackets). Use shelf dividers for folded items. Clear bins with labels beat opaque boxes every time. The Container Store and IKEA PAX system are worth the investment if you're redoing a full closet."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I should put my health info into the system. I have Type 2 diabetes, diagnosed in 2022. I'm on Metformin 500mg twice a day. I also have a serious allergy to ibuprofen — I took it once and had severe GI bleeding. The doctor documented it as a severe adverse drug reaction. I definitely cannot take ibuprofen or any NSAID in that family. My blood type is O negative. Emergency contact is my brother Mike, phone 555-987-6543."},
+        {"role": "assistant", "content": "Health profile recorded:\n- **Conditions**: Type 2 diabetes (diagnosed 2022, active)\n- **Medications**: Metformin 500mg twice daily (for diabetes)\n- **Allergies**: Ibuprofen → severe GI bleeding (severity: severe adverse drug reaction) — NSAIDs contraindicated\n- **Basic info**: Blood type O negative; emergency contact: Mike (brother), 555-987-6543\n\nI'll always keep your ibuprofen allergy visible in your health profile to flag any potential conflicts."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Can you explain what machine learning actually is in simple terms?"},
+        {"role": "assistant", "content": "Machine learning is teaching computers to learn from examples instead of explicit rules. Instead of coding 'if cat-shaped → call it a cat,' you show the system thousands of cat photos and it learns the patterns. The algorithm finds rules itself from data. Three main types: supervised learning (learns from labeled examples), unsupervised learning (finds patterns without labels), and reinforcement learning (learns from rewards and penalties)."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good strategies for reducing screen time before bed?"},
+        {"role": "assistant", "content": "Evidence-based screen time reduction: (1) Set a hard cutoff alarm 60 minutes before target sleep time. (2) Use 'grayscale mode' on your phone — color is more stimulating. (3) Charge your phone outside the bedroom — eliminates the temptation. (4) Replace the habit with a competing one: physical book, light stretching, journaling. (5) Blue-light blocking glasses are less effective than full screen avoidance but better than nothing. The real issue is mental stimulation, not just blue light."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What makes a good sourdough starter? Mine always seems to die."},
+        {"role": "assistant", "content": "Common sourdough starter killers: chlorinated tap water (use filtered), temperatures below 70°F (find a warm spot — top of fridge is often ideal), inconsistent feeding schedule, or too much discard too fast early on. For a new starter: 50g whole wheat flour + 50g filtered water, feed same amounts every 24 hours for a week, discard half before each feed from day 3 onward. Signs of life: bubbles, dome shape, sour smell. Temperature is the biggest variable — 75–80°F produces robust activity."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I want to set a weight loss goal. I currently weigh 228 pounds and I want to get down to 200 pounds — that's a 28-pound loss. My target date is the end of the year, December 31, 2026. Also, my endocrinologist wants my HbA1c below 7.0% — it's currently at 7.4%. So I'd like to track that too, target date is October 2026."},
+        {"role": "assistant", "content": "Goals recorded:\n1. **Weight loss**: Current 228 lbs → Target 200 lbs (28 lb loss) by December 31, 2026\n2. **HbA1c**: Current 7.4% → Target <7.0% by October 2026\n\nBoth are now in your Goals & Care Plan. The Metformin should help with the A1c trajectory. For weight, a sustainable pace is 0.5–1 lb/week — you're looking at about 28–56 weeks, which aligns well with your December target."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do noise-canceling headphones actually work?"},
+        {"role": "assistant", "content": "Active noise cancellation (ANC) uses microphones to capture ambient sound, then generates an inverted sound wave (180° out of phase) that destructively interferes with the incoming noise. The result cancels constant, predictable sounds (engine hum, AC fans) very effectively. It struggles with sudden, sharp sounds (speech, door slams) because the signal processing can't respond fast enough. Passive isolation (ear cup seal) handles high frequencies; ANC handles low frequencies. Together they're complementary, not redundant."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I've been trying to get into running. How do I avoid shin splints?"},
+        {"role": "assistant", "content": "Shin splint prevention: (1) The 10% rule — never increase weekly mileage by more than 10% per week. (2) Proper footwear — get gait analysis at a running store, replace shoes every 300–500 miles. (3) Run on softer surfaces when possible (grass, trail vs. concrete). (4) Warm up before runs — dynamic stretches, not static. (5) Strengthen the tibialis anterior (toe taps, heel walks). (6) If shin splints occur: RICE, reduce mileage, never run through pain. Most cases resolve in 2–4 weeks with rest."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good team-building activities for a remote team?"},
+        {"role": "assistant", "content": "Remote team building that actually works: (1) Virtual escape rooms — Enchambered and other platforms design them for video call groups. (2) Online cooking classes together — great for diverse teams. (3) Book clubs with a monthly 30-minute discussion. (4) Async 'show and tell' — each person shares something from their physical workspace or hobby. (5) Gaming sessions — Among Us, Jackbox Games, Codenames work well over video. (6) The best ones have a low-stakes social element, not forced corporate bonding — pick activities with genuine interest potential."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "Quick weight check-in — stepped on the scale this morning. I'm at 222 pounds now. Down 6 pounds from where I started. Still a long way to go but moving in the right direction."},
+        {"role": "assistant", "content": "Weight goal update:\n- **Starting weight**: 228 lbs\n- **Current weight**: 222 lbs (as of today)\n- **Target**: 200 lbs\n- **Progress**: 6 lbs lost, 22 lbs remaining\n\nI've updated your weight goal with the current measurement. You're about 21% of the way to your target — solid progress! At this pace (6 lbs over the timeframe so far), you're on track."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the most interesting recent finding in neuroscience?"},
+        {"role": "assistant", "content": "Several exciting recent findings: (1) Glymphatic system — the brain literally washes itself with cerebrospinal fluid during deep sleep, clearing metabolic waste including amyloid beta (Alzheimer's-associated). Discovered ~2012 but implications keep expanding. (2) Gut-brain axis — the vagus nerve carries more signals from gut to brain than the reverse; gut microbiome composition affects mood, anxiety, and even cognition in ways we're only starting to understand. (3) Adult neurogenesis debate — the hippocampus may generate new neurons throughout life, though the extent in humans is still contested."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "How do I get better at negotiating salary?"},
+        {"role": "assistant", "content": "Salary negotiation fundamentals: (1) Research ranges first — Glassdoor, Levels.fyi (tech), LinkedIn Salary, and talking to peers in similar roles. (2) Never name a number first — 'What's the budgeted range for this role?' is a powerful move. (3) If pressed, give a range where your floor is acceptable — they often anchor to the low end. (4) Quantify your value in dollars or percentages before the conversation — specific achievements are more persuasive than general claims. (5) Negotiate total comp, not just base — equity, bonus structure, and benefits matter significantly."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to learn a new language as an adult?"},
+        {"role": "assistant", "content": "Adult language learning best practices: (1) Comprehensible input — immersion in content slightly above your level (Dreaming Spanish for Spanish learners is excellent). (2) Spaced repetition with Anki for vocabulary — more efficient than Duolingo for retention. (3) Speaking practice from day 1 with a tutor on iTalki — even 30 minutes/week accelerates acquisition dramatically. (4) Don't study grammar rules — acquire them through exposure, then check rules when confused. (5) Consistency beats intensity — 20 minutes daily beats 3 hours on weekends."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "I had an endocrinology appointment today. My doctor revised my HbA1c target — instead of aiming for below 7.0%, she now wants me to target below 6.5%. She said given my age and otherwise healthy baseline, a tighter target is appropriate. She also increased my Metformin dose to 750mg twice daily as of today. So the old 7.0% target is out, the new target is 6.5%."},
+        {"role": "assistant", "content": "Updated from today's appointment:\n- **HbA1c target**: Revised from <7.0% → **<6.5%** (tighter target, per endocrinologist — appropriate for your age and baseline)\n- **Metformin dose**: Updated from 500mg → **750mg twice daily**, effective today\n\nI've updated both in your health profile. The old 7.0% target has been replaced with 6.5%. The dose increase will help move toward the tighter glycemic goal — GI side effects are common with dose increases; taking it with food minimizes that."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What are some good alternatives to coffee for an afternoon energy boost?"},
+        {"role": "assistant", "content": "Effective afternoon energy alternatives: (1) Matcha — lower caffeine than coffee (~35mg vs 95mg) with L-theanine providing smoother, sustained energy without jitters. (2) A 10-20 minute nap before 3pm — NASA studied this extensively, found significant alertness improvement. (3) Cold water — mild dehydration is a common cause of afternoon slumps. (4) A 5–10 minute walk outside — light and movement are potent alertness triggers. (5) Ashwagandha or Rhodiola — adaptogens with some evidence for stress-related fatigue. None match caffeine for acute effect, but avoiding the crash is worth it."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "I'm curious about electric vehicles — should I make the switch?"},
+        {"role": "assistant", "content": "EV decision factors: (1) Home charging access — if you can charge at home, range anxiety largely disappears. If you rely on public charging, wait for better infrastructure. (2) Annual mileage — high-mileage drivers save most on fuel and maintenance. (3) Tax credits — US federal credit up to $7,500 for qualifying vehicles and income levels. (4) Local climate — cold significantly reduces range (15–30%). (5) Driving pattern — EVs shine for predictable daily commutes; long-haul road trips require planning. For most suburban/urban drivers with home charging, the math has crossed the threshold."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's the best way to store wine at home without a wine fridge?"},
+        {"role": "assistant", "content": "Wine storage without a fridge: the goal is stable temperature (55–65°F), away from light and vibration, with bottles on their side (keeps cork moist). Best spots: interior closets away from exterior walls, basements, pantries away from appliances. Avoid: above the refrigerator (too warm and vibrating), near windows, or any spot with temperature swings >10°F. For bottles you'll drink within 3–6 months, a cool interior closet is fine. For long-term storage of collectible bottles, a proper wine fridge or professional storage is worth the investment."}
+      ]
+    },
+    {
+      "eval_marker": true,
+      "messages": [
+        {"role": "user", "content": "My knee has been pretty painful for the last 5 days — swelling, stiffness, especially in the morning. I think I tweaked it during my last run. Could this be related to anything I'm taking? And can I take ibuprofen or something like Advil to help with the swelling and pain?"},
+        {"role": "assistant", "content": "I've logged this as a symptom: knee pain with swelling and morning stiffness, onset approximately 5 days ago, likely from running impact. Regarding ibuprofen and Advil — **important: your health profile shows a documented severe adverse reaction to ibuprofen (severe GI bleeding)**. Ibuprofen and Advil (same drug) are contraindicated for you. Instead, consider: Tylenol (acetaminophen) for pain — it's safe for you. Topical diclofenac (Voltaren gel) can be used topically with much less systemic absorption. RICE protocol: rest, ice, compression, elevation. If the swelling doesn't improve in a week, see a doctor — could be bursitis or meniscus involvement."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What does it mean when a startup says they're 'default alive'?"},
+        {"role": "assistant", "content": "'Default alive' means the company will reach profitability before running out of money at its current burn rate — assuming no additional funding. The concept comes from Paul Graham. The opposite, 'default dead,' means the company will exhaust cash before becoming profitable and must raise another round to survive. It's a critical concept because it determines the founder's negotiating position — default alive founders can walk away from bad terms; default dead founders are often forced to accept whatever they can get."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "Any tips for getting better at photography without buying new gear?"},
+        {"role": "assistant", "content": "Gear matters far less than most beginners think. What actually improves photography: (1) Learn the exposure triangle (ISO, aperture, shutter speed) until it's instinctive — shoot in manual mode for a month. (2) Study light — same scene, same gear, different light = radically different photo. Shoot golden hour (1 hour after sunrise/before sunset) for immediate improvement. (3) Study composition: rule of thirds, leading lines, negative space, framing. (4) Review your own work critically — identify what you'd do differently. (5) Study photographers you admire — understand their choices, not just their aesthetics."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "user", "content": "What's a good way to build a personal board of advisors for my career?"},
+        {"role": "assistant", "content": "Personal advisory board construction: aim for 4–6 people covering different dimensions — someone 10–15 years ahead in your field, a peer in an adjacent field, someone outside your industry entirely (cross-pollination), a mentor who knows you well, and ideally someone who will tell you hard truths. How to recruit them: reciprocal value (what can you offer them — research, energy, a different perspective?), keep asks specific and time-bounded, follow up on their advice and report back. The relationship needs maintenance — quarterly check-ins, forwarding relevant articles, genuine interest in their work."}
+      ]
+    }
+  ],
+  "recall_queries": [
+    {
+      "query": "What allergies does the user have?",
+      "expected_information": [
+        "ibuprofen",
+        "/GI bleeding|gastrointestinal/",
+        "severe"
+      ]
+    },
+    {
+      "query": "What is the current weight and progress toward the weight goal?",
+      "expected_information": [
+        "222",
+        "200"
+      ]
+    },
+    {
+      "query": "What is the HbA1c goal target?",
+      "expected_information": [
+        "6.5"
+      ]
+    },
+    {
+      "query": "What is the current Metformin dose?",
+      "expected_information": [
+        "750mg",
+        "/twice|twice daily|BID/"
+      ]
+    },
+    {
+      "query": "knee",
+      "expected_information": [
+        "knee",
+        "/pain|swollen|stiff/"
+      ]
+    },
+    {
+      "query": "Can the user take ibuprofen for pain?",
+      "expected_information": [
+        "ibuprofen",
+        "/allerg|adverse|contraindicated|avoid|severe/"
+      ]
+    }
+  ]
+}

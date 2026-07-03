@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Boston Jury Hits Johnson & Johnson with Record $42M Verdict in Asbestos Baby Powder Case",
+      "description": "BOSTON, July 29, 2025--A Boston jury has sided with Paul and Kathryn Lovell in a lawsuit against cosmetic behemoth Johnson & Johnson (NYSE:JNJ) that asserted Mr. Lovell’s mesothelioma was directly caused by the company’s iconic, asbestos-laced baby powder. The jury awarded $42,609,300, making it what lawyers believe to be the largest mesothelioma verdict in Massachusetts history.",
+      "published_utc": "2025-07-30T07:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44ea1bde0b751b3968b32774e43c3ac00413c6c5795a8456ae3938f44b14c471",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129716,
+      "datetime": 1753830660
+    },
+    {
+      "title": "Top Analyst Reports for Broadcom, Berkshire Hathaway & Johnson & Johnson",
+      "description": "Broadcom gains on AI chip strength and VMware synergy, while JNJ and BRK.B ride momentum despite looming headwinds.",
+      "published_utc": "2025-07-30T03:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cf552acecfc691796735b5c3220fbb6070187c7d2ae8f0559a99896db33ec35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129560,
+      "datetime": 1753819020
+    },
+    {
+      "title": "Dow Jones Health Care Giant J&J, Three Others In Or Near Buy Zones",
+      "description": "Dow Jones health care giant Johnson & Johnson is approaching a new buy point, while AI stocks Argan and Constellation are near buy zones.",
+      "published_utc": "2025-07-30T02:44:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31c2e4a4deb70556f8f030ed9d9fb48f7e793c9995f19fa873bedfab4b38983b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129718,
+      "datetime": 1753814691
+    },
+    {
+      "title": "Analysis-The most precarious job in America's boardrooms: CEO",
+      "description": "NEW YORK (Reuters) -U.S. companies are removing their CEOs at the fastest clip in two decades, data shows, as increased scrutiny from shareholders and boards result in reduced tolerance for sub-par returns or wayward conduct.  At least 41 CEOs have exited S&P 500 companies so far this year, compared with 49 for all of 2024 – making the fastest pace on an annualized basis since 2005, according to data from nonprofit executive research group The Conference Board and data analytics company ESGAUGE.  In the latest example, consumer goods company Procter & Gamble, the maker of Tide laundry detergent and Bounty paper towels, said on Monday CEO Jon Moeller will be replaced next year by longtime executive Shailesh Jejurikar.",
+      "published_utc": "2025-07-30T00:10:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a84f2d5f9950189fadb74193139de71dbc6b60b7a37323f4c95daf5554eab03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119159,
+      "datetime": 1753805438
+    }
+  ]
+}

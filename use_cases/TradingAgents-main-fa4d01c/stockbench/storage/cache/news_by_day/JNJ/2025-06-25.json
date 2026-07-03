@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "J&J (JNJ) Faces $8M Verdict Over Talc Case; Stock Still Gains 4.66% YTD",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the 10 undervalued blue chip stocks analysts recommend for smart investing. On June 18, Dean Omar Branham Shirley, LLP, a Dallas, Texas-based law firm, announced an $8 million verdict against Johnson & Johnson in Suffolk County, Massachusetts. The verdict was awarded to Janice Paluzzi, an 84-year-old Massachusetts woman […]",
+      "published_utc": "2025-06-25T05:21:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c236856a0bd4eb8e2a159d5c2ce925f6711075a32831a75212d89fd7bd2629b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135516664,
+      "datetime": 1750800117
+    },
+    {
+      "title": "MRK's Winrevair Phase III Study in Newly Diagnosed PAH Meets Goal",
+      "description": "Merck's Winrevair meets goal in a phase III study in newly diagnosed PAH patients, showing strong efficacy.",
+      "published_utc": "2025-06-25T00:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffef75392d5f3cc01f3cab272e4aac23f379d5a91e27ee6aae3a81202292688b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135515153,
+      "datetime": 1750782000
+    }
+  ]
+}

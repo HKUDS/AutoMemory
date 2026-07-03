@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Travelers to Sell Its Canadian Personal Insurance Business and Majority of Its Canadian Commercial Insurance Business to Definity for US$2.4 Billion",
+      "description": "NEW YORK, May 27, 2025--The Travelers Companies, Inc. (NYSE: TRV) today announced that it has signed a definitive agreement to sell the personal insurance business and the majority of the commercial insurance business of Travelers Canada to Definity Financial Corporation (TSX: DFY) for approximately US$2.4 billion. The purchase price represents a multiple of 1.8 times book value, adjusting for approximately US$0.8 billion of excess local capital which is being repatriated as part of this transac",
+      "published_utc": "2025-05-28T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a93d403b8da853edc8793c3ccef8a99a3f8dc5317baf59e3434be04847ebc22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134716704,
+      "datetime": 1748376900
+    },
+    {
+      "title": "Travelers Cos. Inc. stock rises Tuesday, still underperforms market",
+      "description": "Travelers Cos. Inc. stock rises Tuesday, still underperforms market",
+      "published_utc": "2025-05-28T00:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=643c81ca7a67baf22d18436e44aa47016cc832625e398b36546e8f686f72c9f1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134725008,
+      "datetime": 1748364360
+    },
+    {
+      "title": "Definity to buy Travelers Cos' Canada operations for $2.4 billion",
+      "description": "Travelers Cos said on Tuesdayit has agreed to sell its Canadian personal insurance businessand majority of its commercial insurance operations in thecountry to Definity Financial in a deal valued...",
+      "published_utc": "2025-05-28T00:40:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cd227dae769b5539d932db5e99b2f570c33a5d8a1e964326b65c179033ff8e40",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715396,
+      "datetime": 1748364008
+    },
+    {
+      "title": "Travelers Cos strikes $2.4 billion deal to sell majority of its Canada insurance business",
+      "description": "Travelers Cos said on Tuesdayit has agreed to sell its Canadian personal insurance businessand a majority of its commercial insurance operations in thecountry to Definity Financial in a deal valued...",
+      "published_utc": "2025-05-28T00:23:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=62152acbe4da6a845f38a1d4b641e84c5453569680dd18d47535be969f1e04d1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715240,
+      "datetime": 1748362988
+    },
+    {
+      "title": "Wait To Jump On Chubb",
+      "description": "Discover insights on Chubb (CB), a global insurance leader. Learn why its valuation and growth suggest a Hold rating for cautious investors.",
+      "published_utc": "2025-05-27T18:45:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36c48d29e59c18723947563d3b0ddf78bc65ed88f5648a870b7e523778fa29bd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153829785/image_2153829785.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134709067,
+      "datetime": 1748342705
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:48:53.258896+00:00",
+    "cache_key": "news_7245a1d255e48a7e858bbc7c762c1706",
+    "count": 5
+  }
+}

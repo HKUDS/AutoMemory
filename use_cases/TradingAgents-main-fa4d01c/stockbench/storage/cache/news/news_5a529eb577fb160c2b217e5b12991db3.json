@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple escaped tariffs last time. This time, it may have to raise prices.",
+      "description": "Apple escaped tariffs last time. This time, it may have to raise prices.",
+      "published_utc": "2025-02-04T07:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6cd746402ea85c754978f925107412cc9ce80709c0eae0b82fd1d31c61300ba0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543666,
+      "datetime": 1738624200
+    },
+    {
+      "title": "Dow Jones Futures Rise As Trump Tariffs On Canada Delayed; Palantir Soars 22% On Earnings",
+      "description": "Dow Jones Futures Rise As Trump Tariffs On Canada Delayed; Palantir Soars 22% On Earnings",
+      "published_utc": "2025-02-04T05:46:36",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e9fc7d662149a9b2ae6a3d65b150277af037069f1b9c572b1e520ce69baea072",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543646,
+      "datetime": 1738619196
+    },
+    {
+      "title": "Trump Tariffs: Big Launch Date Delayed After S&P 500 Falls On High-Risk Plan; China Tariffs Still On",
+      "description": "Trump Tariffs: Big Launch Date Delayed After S&P 500 Falls On High-Risk Plan; China Tariffs Still On",
+      "published_utc": "2025-02-04T01:50:12",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4ffc2f4a53e58274f4871b3d06748bec2e17302a6e6628e257e656eabfe95b49",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543647,
+      "datetime": 1738605012
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "description": "Tech, Media & Telecom Roundup: Market Talk",
+      "published_utc": "2025-02-04T00:59:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=7b08fa2b6e3e8ee0506f6b8f002a9a5e1f7f4d1ef013835fdb32455d1066a046",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543648,
+      "datetime": 1738601940
+    },
+    {
+      "title": "Trump Tariffs Hammer Tech Hardware Stocks. Nvidia Gaps Lower.",
+      "description": "Trump Tariffs Hammer Tech Hardware Stocks. Nvidia Gaps Lower.",
+      "published_utc": "2025-02-04T00:48:17",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=321a2ce28aaf7f03e5cb7c0c06ce3d8f8ad8f67be90120e52beca631084c028c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132543649,
+      "datetime": 1738601297
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:57:38.081440+00:00",
+    "cache_key": "news_5a529eb577fb160c2b217e5b12991db3",
+    "count": 5
+  }
+}

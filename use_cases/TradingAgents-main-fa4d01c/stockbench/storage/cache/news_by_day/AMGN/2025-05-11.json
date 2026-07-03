@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Interested In Amgen's (NASDAQ:AMGN) Upcoming US$2.38 Dividend? You Have Four Days Left",
+      "description": "Readers hoping to buy Amgen Inc. ( NASDAQ:AMGN ) for its dividend will need to make their move shortly, as the stock is...",
+      "published_utc": "2025-05-11T20:05:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14eac2547c3698f4fd953361cbcebc5746e4e9b473671bce3910c44ba08b48b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379400,
+      "datetime": 1746965146
+    }
+  ]
+}

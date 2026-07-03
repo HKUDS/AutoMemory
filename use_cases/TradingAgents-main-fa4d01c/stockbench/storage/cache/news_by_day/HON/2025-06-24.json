@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Tracking John Paulson's Paulson & Company Portfolio - Q1 2025 Update",
+      "description": "Paulsonâs Q1 2025 13F portfolio increased to $1.75B, with just 14 holdings and 82% concentrated in the top five positions. Click here for more on Fund Holdings.",
+      "published_utc": "2025-06-24T04:06:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a657537ea19a65e23787f96c1a6ef418515b07059400f8b7aea97f5c7db0d8b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/518840746/image_518840746.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135485884,
+      "datetime": 1750709178
+    },
+    {
+      "title": "Honeywell International Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Honeywell International Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-06-24T00:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=64b2b5ab5e3ab83f2ea69fb7e6f176967ec8692ea70122fa94b7592c17823a74",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135501033,
+      "datetime": 1750696500
+    }
+  ]
+}

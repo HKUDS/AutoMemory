@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Corp. stock underperforms Thursday when compared to competitors despite daily gains",
+      "description": "McDonald's Corp. stock underperforms Thursday when compared to competitors despite daily gains",
+      "published_utc": "2025-01-03T00:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e857479e23c84486b0b608fb5a6ee6d66162bd7ebdb0a42cf4c1e5818f911a23",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132322736,
+      "datetime": 1735835760
+    }
+  ]
+}

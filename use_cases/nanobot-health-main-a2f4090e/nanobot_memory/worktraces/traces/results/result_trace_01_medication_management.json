@@ -1,0 +1,122 @@
+{
+  "trace_id": "trace_01_medication_management",
+  "description": "Tests stable health profile: basic profile, conditions, medication add/dose-update/discontinue, multiple allergies. Critical: dose change must update existing entry (not duplicate), discontinuation must mark as discontinued (not delete).",
+  "n_turns": 22,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "What medications is the user currently taking?",
+      "expected_information": [
+        "Metformin",
+        "1000mg",
+        "twice daily",
+        "Amlodipine",
+        "5mg",
+        "Vitamin D",
+        "2000 IU",
+        "fish oil"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth: March 15, 1968\n- Blood type: A positive\n- Emergency contact: Jane Doe, wife, 555-234-5678\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed early 2023, status: active\n- Hypertension \u2014 diagnosed 2021, status: active\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026, for type 2 diabetes (increased from 500mg)\n- Lisinopril 10mg once daily \u2014 started March 2022, for hypertension (discontinued March 30, 2026)\n- Amlodipine 5mg once dail"
+    },
+    {
+      "query": "Is Lisinopril still an active medication?",
+      "expected_information": [
+        "/lisinopril/",
+        "/discontinu|stopped|inactive/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth: March 15, 1968\n- Blood type: A positive\n- Emergency contact: Jane Doe, wife, 555-234-5678\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed early 2023, status: active\n- Hypertension \u2014 diagnosed 2021, status: active\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026, for type 2 diabetes (increased from 500mg)\n- Lisinopril 10mg once daily \u2014 started March 2022, for hypertension (discontinued March 30, 2026)\n- Amlodipine 5mg once dail"
+    },
+    {
+      "query": "What is the current Metformin dose?",
+      "expected_information": [
+        "1000mg"
+      ],
+      "item_scores": [
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth: March 15, 1968\n- Blood type: A positive\n- Emergency contact: Jane Doe, wife, 555-234-5678\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed early 2023, status: active\n- Hypertension \u2014 diagnosed 2021, status: active\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026, for type 2 diabetes (increased from 500mg)\n- Lisinopril 10mg once daily \u2014 started March 2022, for hypertension (discontinued March 30, 2026)\n- Amlodipine 5mg once dail"
+    },
+    {
+      "query": "What allergies does the user have?",
+      "expected_information": [
+        "penicillin",
+        "hives",
+        "moderate",
+        "ibuprofen",
+        "/GI bleeding|gastrointestinal/",
+        "severe"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth: March 15, 1968\n- Blood type: A positive\n- Emergency contact: Jane Doe, wife, 555-234-5678\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed early 2023, status: active\n- Hypertension \u2014 diagnosed 2021, status: active\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026, for type 2 diabetes (increased from 500mg)\n- Lisinopril 10mg once daily \u2014 started March 2022, for hypertension (discontinued March 30, 2026)\n- Amlodipine 5mg once dail"
+    },
+    {
+      "query": "What are the user's basic profile details?",
+      "expected_information": [
+        "1968",
+        "A positive",
+        "Jane Doe",
+        "555-234-5678"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth: March 15, 1968\n- Blood type: A positive\n- Emergency contact: Jane Doe, wife, 555-234-5678\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed early 2023, status: active\n- Hypertension \u2014 diagnosed 2021, status: active\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026, for type 2 diabetes (increased from 500mg)\n- Lisinopril 10mg once daily \u2014 started March 2022, for hypertension (discontinued March 30, 2026)\n- Amlodipine 5mg once dail"
+    },
+    {
+      "query": "What chronic conditions does the user have?",
+      "expected_information": [
+        "diabetes",
+        "2023",
+        "hypertension",
+        "2021"
+      ],
+      "item_scores": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth: March 15, 1968\n- Blood type: A positive\n- Emergency contact: Jane Doe, wife, 555-234-5678\n\n## Problem List\n- Type 2 diabetes \u2014 diagnosed early 2023, status: active\n- Hypertension \u2014 diagnosed 2021, status: active\n\n## Medications\n- Metformin 1000mg twice daily \u2014 started April 8, 2026, for type 2 diabetes (increased from 500mg)\n- Lisinopril 10mg once daily \u2014 started March 2022, for hypertension (discontinued March 30, 2026)\n- Amlodipine 5mg once dail"
+    }
+  ]
+}

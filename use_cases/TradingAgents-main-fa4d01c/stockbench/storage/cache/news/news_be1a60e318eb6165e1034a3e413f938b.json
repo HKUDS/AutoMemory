@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Why Caterpillar Stock Zoomed Nearly 10% Higher on Wednesday",
+      "description": "In times of volatility, investors often find comfort in a company maintaining a steady-as-we-go policy.  Caterpillar's consistency came from its dividend policy.  Such a move is a positive signal to investors that the company will do well enough to at least keep the dividend level.",
+      "published_utc": "2025-04-10T06:57:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8af2d346997e5e781a8a3f4b45d733e1988ba590fa00c0ca6f754b0a4aa73056",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844403,
+      "datetime": 1744239466
+    },
+    {
+      "title": "Jim Cramer’s Dilemma: Should Investors Wait or Buy the Dip in Caterpillar (CAT)?",
+      "description": "We recently published a list of Jim Cramer Warns of a 36% Market Drop & Reviews These 9 Key Stocks. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other stocks Jim Cramer discusses. In his appearance on CNBC’s Squawk on the Street on Monday, Jim Cramer […]",
+      "published_utc": "2025-04-10T00:02:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79d7b5fb4bc34eb878e8d456fbacb4cb0cea7d566b91d5a775eac333602b17cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133844405,
+      "datetime": 1744214553
+    },
+    {
+      "title": "Caterpillar Inc. Maintains Dividend",
+      "description": "The Board of Directors of Caterpillar Inc. (NYSE: CAT) voted today to maintain the quarterly dividend of one dollar and forty-one cents ($1.41) per share of common stock, payable May 20, 2025, to shareholders of record at the close of business on April 21, 2025.",
+      "published_utc": "2025-04-09T20:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=944ee8e92174e846f4b9926e78ca284d9bdc798ca63ea7ccb4bad6c692c9c657",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828438,
+      "datetime": 1744203540
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:29:46.674247+00:00",
+    "cache_key": "news_be1a60e318eb6165e1034a3e413f938b",
+    "count": 3
+  }
+}

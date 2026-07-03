@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "title": "More than 200 S&P 500 companies scrubbed 'diversity' and 'equity' from annual reports in 2025",
+      "description": "More than 200 S&P 500 companies scrubbed words such as 'diversity' and 'equity' from their annual reports in 2025, according to a new report from Freshfields, reinforcing a widening corporate retreat from DEI.",
+      "published_utc": "2025-07-06T22:30:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8702b29709d03c9921a05ad0cca4ab5d0c582becce6282ea2c5b2df40506a24a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135776371,
+      "datetime": 1751812239
+    },
+    {
+      "id": "d74f2a4ecd60bc75becfdcbe87ee089cc085503652bde1e513622026ba833347",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Krispy Kreme",
+      "author": "Faruqi & Faruqi, Llp",
+      "published_utc": "2025-07-06T11:55:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/07/06/3110603/683/en/SHAREHOLDER-REMINDER-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Krispy-Kreme.html",
+      "tickers": [
+        "DNUT",
+        "MCD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/8628babf-2ea4-4b8a-a60b-260db109bfa2",
+      "description": "Faruqi & Faruqi is investigating potential securities law violations by Krispy Kreme related to its McDonald's partnership, with allegations of misleading statements about product demand and partnership profitability.",
+      "keywords": [
+        "securities litigation",
+        "class action",
+        "investor losses",
+        "McDonald's partnership"
+      ],
+      "insights": [
+        {
+          "ticker": "DNUT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Company reported a 15.3% revenue decline, a significant net loss increase, and is reassessing its McDonald's deployment schedule, indicating substantial business challenges"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partnership that is being reevaluated, with potential performance issues in the partnership"
+        }
+      ]
+    }
+  ]
+}

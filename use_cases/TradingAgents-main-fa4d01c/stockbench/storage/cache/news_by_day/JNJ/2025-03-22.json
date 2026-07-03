@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Davenport Insider Buying Fund Q4 2024 Commentary",
+      "description": "The Davenport Insider Buying Fund (DBUYX) declined -2.24% during the fourth quarter compared to a 2.41% gain for the S&P 500Â® Index. Click here to read the full commentary.",
+      "published_utc": "2025-03-22T09:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8bceca065be8ff555130b85e98bde071b501494ccebe6cac29cb6f6feb586ebf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322205526/image_1322205526.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133312552,
+      "datetime": 1742608200
+    }
+  ]
+}

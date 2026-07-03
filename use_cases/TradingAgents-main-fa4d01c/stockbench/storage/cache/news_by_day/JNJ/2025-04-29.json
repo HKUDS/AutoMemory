@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Johnson & Johnson (JNJ): Among the Most Profitable Blue Chip Stocks to Buy Now",
+      "description": "We recently published a list of 10 Most Profitable Blue Chip Stocks to Buy Now. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other most profitable blue chip stocks to buy now. Blue chip stocks are large, financially stable companies with strong market presence, consistent profitability, […]",
+      "published_utc": "2025-04-29T04:44:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cd3ac309f53b5a00137478d3c6410d15a86c100736f849ca367cb7855afecd4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130965,
+      "datetime": 1745873061
+    },
+    {
+      "title": "CG Oncology Soars On Its Johnson & Johnson-Rivaling Cancer Drug",
+      "description": "Shares of CG Oncology catapulted Monday after the biotech unveiled promising results for a J&J-rivaling bladder cancer treatment.",
+      "published_utc": "2025-04-29T04:05:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e28053fabe8aec019f8d6a4baed0d5673ca7d57be9f5f758ff3b231ee251dc10",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130966,
+      "datetime": 1745870756
+    },
+    {
+      "title": "My 10 Must-Own Dividend Stocks For Your Retirement Portfolio (One Yields 9.65%)",
+      "description": "Discover 10 must-own dividend stocks to boost retirement income. Blend growth, income & appreciation with picks like Microsoft, Visa & Chevron.",
+      "published_utc": "2025-04-29T02:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e7f58de6c31b636bb72d0a835eb822ea34a52ee7aacaa5c85a9f66845e36a38d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1782231699/image_1782231699.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134119712,
+      "datetime": 1745863200
+    },
+    {
+      "title": "New data from J&J’s bladder cancer drug-device trial strengthens support for NDA",
+      "description": "J&J submitted a New Drug Application to the FDA for TAR-200 in January 2025.",
+      "published_utc": "2025-04-29T01:36:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ce972342d89ee39ee0bc5d2c8bbf71acbb37cbe4abaeb6f42f812094d86041d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130967,
+      "datetime": 1745861767
+    },
+    {
+      "title": "Johnson & Johnson to Participate in the Bernstein’s 41st Annual Strategic Decisions Conference",
+      "description": "Johnson & Johnson will present at the Bernstein’s 41st Annual Strategic Decisions Conference on Wednesday, May 28th, 2025. Management will participate in a Fireside Chat at 10:00 a.m. Eastern...",
+      "published_utc": "2025-04-29T00:27:03",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4cf27f1c19aeb289b0425ff1524987bf32aded983235040699c893c90a8383e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134118880,
+      "datetime": 1745857623
+    }
+  ]
+}

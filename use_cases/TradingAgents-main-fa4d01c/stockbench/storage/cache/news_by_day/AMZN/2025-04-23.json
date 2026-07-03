@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Marvell Is Stuck Between Amazon And A Hard Place",
+      "description": "",
+      "published_utc": "2025-04-23T07:57:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc70f745d68ebf2f18ad198a92c675447b542d9b6126ea33753ddfcb5c80207f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038443,
+      "datetime": 1745366267
+    },
+    {
+      "title": "Amazon Jumped Today -- Is the Stock a Buy Right Now?",
+      "description": "Amazon (NASDAQ: AMZN) stock saw significant gains Tuesday.  The S&P 500 and the Nasdaq Composite rose 2.5% and 2.7%, respectively.  The stock market continued to its run of high volatility in today's trading, but investors got a welcome day of rebound momentum on the heels of yesterday's big sell-off.",
+      "published_utc": "2025-04-23T05:48:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a746c25819e74aa8f777a89f6254621e9f95fbc3f48a01f9f3a71a9c03371d69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038632,
+      "datetime": 1745358514
+    },
+    {
+      "title": "Instagram’s Systrom Says Zuckerberg Saw App’s Growth as ‘Threat’",
+      "description": "(Bloomberg) -- Instagram co-founder Kevin Systrom testified that his fledgling photo-sharing app could have succeeded without being acquired by Meta Platforms Inc., and that eventually Chief Executive Officer Mark Zuckerberg treated Instagram’s growth as a “threat” and starved it of resources.Most Read from BloombergTrump Gives New York ‘One Last Chance’ to End Congestion FeeDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusThe Racial Wealth Gap Is Not Just About MoneyThe claim",
+      "published_utc": "2025-04-23T05:30:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d960005cf7426e931b21099a3c231d35d3b02434d18be7c7a8fc228b149409aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038633,
+      "datetime": 1745357429
+    },
+    {
+      "title": "This analyst downgraded Amazon ahead of Q1 earnings. Here's why.",
+      "description": "Raymond James downgraded Amazon (AMZN) to Outperform from Strong Buy and cut their price target for the stock to $195 from $275, citing tariff headwinds and risks associated with artificial intelligence (AI) spending. The analyst behind the note, Raymond James equity research managing director Josh Beck, joins Julie Hyman on Market Domination to explain the downgrade. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-23T04:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed9f0e5454b698151509f4b4d71f6024fa074af44c0771eb5d3afc5958ccba03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038634,
+      "datetime": 1745353740
+    },
+    {
+      "title": "Cloud Infrastructure Growth Could Cool This Year Despite AI Excitement, Analyst Says",
+      "description": "Amazon stock has been hit by fears about tariffs and e-commerce but analysts are warning about cloud risks as well.",
+      "published_utc": "2025-04-23T04:05:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c4225491f4b38016267e2417377eb83338276cd6b1bff97bd8939d8a47e50e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134038595,
+      "datetime": 1745352321
+    }
+  ]
+}

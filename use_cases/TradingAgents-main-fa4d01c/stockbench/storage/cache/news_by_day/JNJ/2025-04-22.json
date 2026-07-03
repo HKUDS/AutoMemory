@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares decline as Trump doubles down on Powell",
+      "description": "",
+      "published_utc": "2025-04-22T04:44:18",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=b546be252283fd42e650e5fee307ba7a6183e7b940455a3232fcbbc074728104",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134027292,
+      "datetime": 1745268258
+    }
+  ]
+}

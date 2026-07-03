@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "title": "Tesla, Alphabet To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b2c2a5f5718be682da2c64513ae55db4091dff2a45ccb87cd78f309460c3b80",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133973236,
+      "datetime": 1745060400
+    },
+    {
+      "title": "Tesla, Google To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4e734181f72f20824c12732588a34fe750eb12ceb4ae4a5574c9745da3ff1fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133973173,
+      "datetime": 1745060400
+    },
+    {
+      "title": "Tesla, Amazon To Report Earnings As Investors Watch Out For Consumer Confidence, Jobless Claims",
+      "description": "",
+      "published_utc": "2025-04-19T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9036e6d1a12f4396d163545683e97983a5269f3e7f92fc863f14c5422010d3f3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972169,
+      "datetime": 1745060400
+    },
+    {
+      "id": "bd489515bac017995d3c8eb426c8c3e6e1caff3a75c350db8b0d93ea474f4919",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Stock-Split Watch: Is Palantir Technologies Next?",
+      "author": "Ryan Vanzo",
+      "published_utc": "2025-04-19T09:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/04/19/stock-split-watch-palantir-technologies-pltr/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "IBM",
+        "SNOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/814935/gettyimages-1248402112-1201x677-a5fabcf.jpg",
+      "description": "Palantir Technologies' stock has risen by nearly 30% in 2025, with analysts bullish on the company's prospects. However, the article suggests that a stock split is unlikely, as Palantir's share price is not significantly higher than its competitors, and many companies have avoided stock splits in recent years.",
+      "keywords": [
+        "Palantir Technologies",
+        "stock split",
+        "stock price",
+        "market capitalization"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Palantir's stock has risen by nearly 30% in 2025, and analysts are very bullish on the company's prospects for both 2025 and 2026."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that IBM has a higher absolute share price than Palantir, even though it has a lower market capitalization."
+        },
+        {
+          "ticker": "SNOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Snowflake also has a higher absolute share price than Palantir, despite having a lower market capitalization."
+        }
+      ]
+    }
+  ]
+}

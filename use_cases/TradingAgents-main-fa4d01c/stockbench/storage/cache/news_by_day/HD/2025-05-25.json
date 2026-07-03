@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Donald Trump Tells Walmart (WMT) to ‘Eat the Tariffs’",
+      "description": "Walmart’s (WMT) stock and strategic outlook remain steady despite President Trump’s directive for the retailer to “eat the tariffs,” following Walmart’s indication that it may raise prices in response to rising import costs. Currently, tariffs include a 30% levy on Chinese goods and a 10% tariff on imports from most other countries—a significant concern for Walmart, given that around 60% of its imports come from China. With operating margins typically in the narrow 4% to 5% range, the company fa",
+      "published_utc": "2025-05-25T01:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3de1b5614bb030229e1db75c7b35ff3d2bcd94354be2a6dd04d1a9fa3d72d9da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694316,
+      "datetime": 1748107980
+    }
+  ]
+}

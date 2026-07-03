@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "title": "30 AI stocks that could surge up to 73% — and are loved by a bullish tech analyst",
+      "description": "30 AI stocks that could surge up to 73% — and are loved by a bullish tech analyst",
+      "published_utc": "2025-05-10T16:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d3b045daf208ae45c5e03ff89465e64d81e7aef1125bcb88e36d490b59d68c8a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134382270,
+      "datetime": 1746865800
+    },
+    {
+      "id": "39aa1c275b2bc6f0fbb9fbe2f6d6d1c4a7a62b1c07f23ba579ac3b7937fdb810",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Top Warren Buffett Stocks to Buy Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-05-10T15:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/10/3-top-warren-buffett-stocks-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "DPZ",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/817476/warren-buffett.jpg",
+      "description": "The article discusses three stocks from Berkshire Hathaway's portfolio that could be good long-term investments: Coca-Cola, Domino's Pizza, and Amazon. It provides analysis on the strengths and growth potential of these companies.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "Domino's Pizza",
+        "Amazon",
+        "investing"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Coca-Cola's status as a Dividend King, its ability to raise prices without curbing demand, and its resilience to economic upheaval, making it a reliable and safe investment option."
+        },
+        {
+          "ticker": "DPZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Domino's competitive advantage due to its global brand and franchise model, as well as its recession-resistant business, making it a strong long-term investment."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article emphasizes Amazon's focus on customer satisfaction, its growth opportunities in rural areas and cloud services, and its ability to continue delivering excellent returns for investors despite near-term headwinds."
+        }
+      ]
+    },
+    {
+      "title": "EOS: Market Volatility Creating Better Opportunities",
+      "description": "Eaton Vance EOS Fund's tech exposure and 8.3% yield make it a strong income play despite recent challenges. Read here for an analysis of EOS CEF.",
+      "published_utc": "2025-05-10T14:28:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5108caf4515dd6055bbf824b7b75978cf950e8e631f06bbbba7cc00857ee8ce1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1617933109/image_1617933109.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134364806,
+      "datetime": 1746858488
+    },
+    {
+      "id": "f731228d9f0d02c157b2d23f7fa0f17785f963a20e12ef5d48341e2c9c5d9f62",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What's Going On With Amazon Stock?",
+      "author": "N/A",
+      "published_utc": "2025-05-10T09:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/10/whats-going-on-with-amazon-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/817869/amazon-prime-van-on-street.png",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance, market analysis, personal finance education, top-rated podcasts, and non-profit foundation.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "education",
+        "media"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Amazon, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "title": "The Stealthy Lab Cooking Up Amazon’s Secret Sauce",
+      "description": "The online giant bought a mysterious chip startup 10 years ago. It now looks like one of the smartest deals in tech history.",
+      "published_utc": "2025-05-10T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a62d22f49978d74c01307bb63f7586d5caa7a33f94ade85c7e364b9de7933939",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134362138,
+      "datetime": 1746838800
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Your Prize for Saving Time at Work With AI: More Work",
+      "description": "We’re accomplishing more, in less time, with artificial intelligence, but that creates a new workplace conflict.",
+      "published_utc": "2025-07-10T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06350637fe16d059511cf2a06123dcffb4bd3af0e3ba642057645e2b01881825",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135846233,
+      "datetime": 1752105600
+    },
+    {
+      "title": "Markets Rally Ahead Despite Potential Complications",
+      "description": "As the tariff deadline comes and goes, a new possible 50% tariff on Brazil emerges.",
+      "published_utc": "2025-07-10T06:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7163a8fcec7b4c7c09b9d8fa7e31b3f251e3da84c8faa8a51f89256e9a556a3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135840230,
+      "datetime": 1752099720
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Alibaba vs. Amazon",
+      "description": "Alibaba's AI sales have experienced seven consecutive quarters of triple-digit year-over-year growth.  Amazon is infusing AI into over 1,000 apps across the company.  Alibaba is the world's fourth largest cloud provider by market share, while Amazon is the global leader.",
+      "published_utc": "2025-07-10T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eff07b84f4ed8fecec36d0183af6b39404dad2880fe267d08802e0d784e86494",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135841285,
+      "datetime": 1752098400
+    },
+    {
+      "title": "TD Cowen Remains Bullish on Amazon (AMZN) With $250 Target on AI and Retail Tailwinds",
+      "description": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the 10 AI Stocks Investors Are Watching This Week. On July 8, Analyst John Blackledge from TD Cowen reiterated a “Buy” rating on the stock and increased the price target to $250.00 from $240.00. Blackledge is optimistic about Amazon’s performance in the upcoming quarters, anticipating its second-quarter results to surpass market […]",
+      "published_utc": "2025-07-10T05:30:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40245bd5cd33a44b3d961f25dfe0d7b7f65d037cb84d83ee4e76c1c2974afa40",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135846236,
+      "datetime": 1752096613
+    },
+    {
+      "title": "Amazon Prime Day Sales Off 41% First Day, Brand Adviser Says",
+      "description": "(Bloomberg) -- Amazon.com Inc took a big gamble this year by expanding its annual Prime Day summer sale to four days from two, betting the extension would give shoppers more time to navigate the millions of deals on its sprawling web store.Most Read from BloombergSinger Akon’s Failed Futuristic City in Senegal Ends Up a $1 Billion ResortAre Tourists Ruining Europe? How Locals Are Pushing BackCan Americans Just Stop Building New Highways?Denver City Hall Takes a Page From NASAPhiladelphia Trash P",
+      "published_utc": "2025-07-10T05:02:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f51e7c2bc86fc7677960159ec0c09dca1b50deb87928228f8325fb035538ef0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135841387,
+      "datetime": 1752094945
+    }
+  ]
+}

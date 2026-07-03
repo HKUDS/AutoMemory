@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Systemic failures led to a door plug flying off a Boeing 737 Max, NTSB says",
+      "description": "National Transportation Safety Board Chair Jennifer Homendy said Tuesday that the heroic actions of the crew aboard Alaska Airlines flight 1282 ensured everyone survived the terrifying incident last...",
+      "published_utc": "2025-06-24T07:56:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1008c40c6e52ac021710f995e23f4aa273a0243eff6cc8731a805d6302860082",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135508962,
+      "datetime": 1750722967
+    },
+    {
+      "title": "NTSB chair says systemic failures led to door plug flying off Boeing 737 Max plane midflight",
+      "description": "National Transportation Safety Board Chair Jennifer Homendy said Tuesday that the heroic actions of the crew aboard Alaska Airlines flight 1282 ensured everyone survived the terrifying incident last...",
+      "published_utc": "2025-06-24T07:56:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=804ba55b6fb25544382bd849e83c3d55608353959cde475a1be687d5d7812e94",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135507438,
+      "datetime": 1750722967
+    },
+    {
+      "title": "NTSB meets on door plug investigation of terrifying Alaska Airlines flight",
+      "description": "National Transportation Safety Board Chair Jennifer Homendy said Tuesday that the heroic actions of the crew aboard Alaska Airlines flight 1282 ensured everyone survived the terrifying incident last...",
+      "published_utc": "2025-06-24T07:56:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=1aa4b70d07c6dd8f84e73bf1229855475a1aad8e78729fc31d8bddfc02952796",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135499684,
+      "datetime": 1750722967
+    },
+    {
+      "title": "NTSB set to meet on door plug investigation of terrifying Alaska Airlines flight",
+      "description": "EThe National Transportation Safety Board on Tuesday will be focused on preventing another terrifying event like the one involving a panel that flew off a Boeing 737 Max midair in January of 2024. ...",
+      "published_utc": "2025-06-24T07:56:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=db0ff4c21869bf065a59c9a526db256d77c57b644bcada6ba9fb2c3006865f83",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135487419,
+      "datetime": 1750722967
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Tesla, Hims & Hers, Wolfspeed, Super Micro, Fiserv, Northrop, Northern Trust, and More",
+      "description": "Tesla shares rise sharply after the electric-vehicle company launched its highly anticipated robo-taxi service in Austin, Texas, on Sunday.",
+      "published_utc": "2025-06-24T04:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c50d50bdab000576f9010598fdc15e57e21fa99e2777d68dd4ca4c26fcf97f6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486751,
+      "datetime": 1750712160
+    }
+  ]
+}

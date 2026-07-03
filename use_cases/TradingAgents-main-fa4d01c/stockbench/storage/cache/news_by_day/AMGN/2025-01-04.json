@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Prediction: These 3 Healthcare Stocks Will Soar in 2025",
+      "description": "Here's why they chose Amgen (NASDAQ: AMGN), Eli Lilly (NYSE: LLY), and Summit Therapeutics (NASDAQ: SMMT).  David Jagielski (Amgen): Shares of Amgen started crashing in late November following the release of data from a phase 2 clinical trial for its weight loss candidate, MariTide.",
+      "published_utc": "2025-01-04T19:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c8954e87e40b08cccb040ec3b670cc0f62d88f6b2426631d3df84521d6aaeb5",
+      "category": "company",
+      "image": "https://g.foolcdn.com/editorial/images/802692/stock-chart-rocket.jpg",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132268525,
+      "datetime": 1735991280
+    }
+  ]
+}

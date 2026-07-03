@@ -1,0 +1,55 @@
+{
+  "_meta": {
+    "usage": "explanation fields",
+    "field_descriptions": {
+      "step_status": "ready | critic_finished | improver_finished | completed",
+      "runner_path": "Single reusable runner used across phases. Do not fork per-phase runners.",
+      "memory_paths": "Path composition decided by Phase 0 Critic. Maps path name to {components, eval_mode, policy}. policy is \"on-policy\" | \"off-policy\" (see refine-protocol). Immutable after Phase 0.",
+      "graduated_paths": "Paths that survived two escalations at >=0.9 in one phase. Append-only. Excluded from further escalation.",
+      "trace_registry": "Append-only registry of all traces in the suite.",
+      "trace_registry[].memory_path": "Primary memory path tested by this trace, from memory_paths or 'e2e'.",
+      "trace_registry[].focus": "Short description of the main thing this trace is testing.",
+      "phase_history[].improvement": "Summary of Improver's work, this field appears after phase 0.",
+      "phase_history[].scores": "Per-trace scores recorded for the traces rerun in this phase. Fields: trace_id, support_coverage, query_success (for qa), hit_rate (for hit_rate).",
+      "phase_history[].weakness": "Short and Concise Critic findings for this phase."
+    }
+  },
+  "refine_state": {
+    "current_phase": 0,
+    "max_phases": 7,
+    "step_status": "ready",
+    "runner_path": "",
+    "memory_paths": {},
+    "graduated_paths": [],
+    "stop_decision": {
+      "by": "critic",
+      "decision": "continue"
+    },
+    "trace_registry": [
+      {
+        "trace_id": "",
+        "memory_path": "",
+        "focus": "",
+        "created_in_phase": 0
+      }
+    ],
+    "phase_history": [
+      {
+        "phase": 0,
+        "improvement": [""],
+        "scores": [
+          {"trace_id": "", "support_coverage": 0, "query_success": 0}
+        ],
+        "new_traces": [""],
+        "weakness": [
+          {
+            "severity": "",
+            "type": "",
+            "description": ""
+          }
+        ],
+        "decision": "continue"
+      }
+    ]
+  }
+}

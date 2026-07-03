@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "CII: Looking Like A Tempting Opportunity",
+      "description": "CII has undergone a name change and policy update and received a significant distribution boost since our last update. Read why CII CEF is a Buy.",
+      "published_utc": "2025-04-06T07:33:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=461eee98ef8654f33cdee6754f76dd567cd6a3fed5c10d65144aaf0537e95a31",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1617704591/image_1617704591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729057,
+      "datetime": 1743896001
+    },
+    {
+      "title": "Apple, Nvidia Among Tech Giants Hit Hard in Stock Market Selloff",
+      "description": "The tech giants that powered the stock market for the past two years were among the hardest hit this week in this week's big selloff.  Apple shares shed 16% of their value over two days—Thursday and Friday— as the company draws the bulk of its business from hardware manufactured in countries like China that were hit with steep tariffs.  The corporate software and cloud computing services that make up the bulk of its business are less exposed to tariffs in general.",
+      "published_utc": "2025-04-06T02:30:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf46961b7613cb704cb9b8cf010d285df24202e5873b8fd9a8013f6bc7ed77f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133729241,
+      "datetime": 1743877853
+    }
+  ]
+}

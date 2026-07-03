@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "How To Build A $500,000 Dividend Portfolio That Could Yield 18.35% In 20 Years",
+      "description": "",
+      "published_utc": "2025-04-21T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e6e3fa32e40da513514f0f565d1f27638b2825a954a29a44461dbeec46ac129",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025125,
+      "datetime": 1745244000
+    },
+    {
+      "title": "Visa's Global Product Drop Set for April 30th",
+      "description": "SAN FRANCISCO - Visa today announced its Product Drop event is scheduled for April 30 in San Francisco. At the event, Visa CEO Ryan McInerney and Visa Chief Product and Strategy Officer Jack Forestell...",
+      "published_utc": "2025-04-21T19:52:32",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aa82df716626b96e44ce94a66f6dc2497d89c0685c3d0b382153afffd89e4d47",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134023684,
+      "datetime": 1745236352
+    },
+    {
+      "title": "The Elephant In The Room - March Dividend Income Report",
+      "description": "",
+      "published_utc": "2025-04-21T14:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e1a74124ecd2ba7ccb56d31dae4fd4a98c49f60faaa31c899e9496652a31ed6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134021078,
+      "datetime": 1745217000
+    }
+  ]
+}

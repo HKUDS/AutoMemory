@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan's Michele: Large Firms Don't See 'Sell America Trade'",
+      "description": "JPMorgan Global Head of Fixed Income Bob Michele says large-scale institutions don't see the sell America trade during an interview ahead of the Fed rate decision....",
+      "published_utc": "2025-05-07T23:32:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bf07d57234b8d4ee7590652702a5225ab60164dfc8e6995943edf2d499cce510",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134301704,
+      "datetime": 1746631934
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights The Goldman Sachs, JPMorgan and Morgan Stanley",
+      "description": "The Goldman Sachs, JPMorgan and Morgan Stanley are part of the Zacks top Analyst Blog.",
+      "published_utc": "2025-05-07T21:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=11e1812263d53412b178118c0aa55db436e3b2dfcc5f1b610370e7c4e82d1e11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316660,
+      "datetime": 1746623100
+    }
+  ]
+}

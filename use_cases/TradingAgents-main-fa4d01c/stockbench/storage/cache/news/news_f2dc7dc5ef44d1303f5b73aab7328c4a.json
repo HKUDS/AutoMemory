@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": "ff714ea850901f5cd051f0489f596210b60a1ddfa609c2790ba044cf5d1cbf22",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "10 Magnificent S&P 500 Dividend Stocks Down Over 10% to Buy and Hold Forever",
+      "author": "Neha Chamaria",
+      "published_utc": "2025-07-20T09:01:00Z",
+      "article_url": "https://www.fool.com/investing/general/2025/07/20/10-magnificent-sp-500-dividend-stocks-down-10-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "XOM",
+        "PG",
+        "NEE",
+        "NEEpN",
+        "NEEpR",
+        "NEEpS",
+        "NEEpT",
+        "NEEpU",
+        "CVX",
+        "O",
+        "MDT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/823783/gettyimages-649560070.jpg",
+      "description": "The article highlights 10 S&P 500 dividend stocks with strong financial performance, consistent dividend growth, and potential for long-term investment across various sectors including healthcare, energy, utilities, and technology.",
+      "keywords": [
+        "dividend stocks",
+        "S&P 500",
+        "investment",
+        "long-term growth",
+        "financial services"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong cash flow, 62-year dividend increase streak, robust financials, and significant R&D investment"
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Increased cash flow, 42-year dividend increase streak, strategic acquisition of Pioneer Natural Resources"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Owns 60+ brands, Dividend King with 69-year dividend increase streak, restructuring for long-term growth"
+        },
+        {
+          "ticker": "NEE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest electric utility, leading renewable energy producer, consistent dividend growth, strong future potential"
+        },
+        {
+          "ticker": "NEEpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest electric utility, leading renewable energy producer, consistent dividend growth, strong future potential"
+        },
+        {
+          "ticker": "NEEpR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest electric utility, leading renewable energy producer, consistent dividend growth, strong future potential"
+        },
+        {
+          "ticker": "NEEpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest electric utility, leading renewable energy producer, consistent dividend growth, strong future potential"
+        },
+        {
+          "ticker": "NEEpT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest electric utility, leading renewable energy producer, consistent dividend growth, strong future potential"
+        },
+        {
+          "ticker": "NEEpU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest electric utility, leading renewable energy producer, consistent dividend growth, strong future potential"
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Integrated oil company, 38-year dividend increase streak, expanding into low-carbon businesses"
+        },
+        {
+          "ticker": "O",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Monthly dividend payments, 110 consecutive quarters of dividend increases, diverse global property portfolio"
+        },
+        {
+          "ticker": "MDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "World's largest medical device manufacturer, using advanced technologies, close to Dividend King status"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:10:06.560648+00:00",
+    "cache_key": "news_f2dc7dc5ef44d1303f5b73aab7328c4a",
+    "count": 1
+  }
+}

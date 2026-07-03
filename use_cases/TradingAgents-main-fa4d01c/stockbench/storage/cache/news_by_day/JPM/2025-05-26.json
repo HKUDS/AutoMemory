@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Fitch Rates Detroit Reg Convention Facility Auth's $297.5MM Senior Lien Bonds 'AA-'; Outlook Stable",
+      "description": "Fitch Ratings has assigned a 'AA-' rating to the following senior lien revenue refunding bonds to be issued by the Detroit Regional Convention Facility Authority .$157,860,000 senior lien revenue...",
+      "published_utc": "2025-05-26T13:39:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0400ed9adbbbe93add93d53542977affd837ed365659c26854d15a7c806670c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134698762,
+      "datetime": 1748237953
+    },
+    {
+      "title": "Long-Bond Revolt Pressures 60/40 Comeback in Chaotic Market",
+      "description": "(Bloomberg) -- A slump in the US long bond is clouding the comeback of a classic investment strategy.Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadPacific Coast Highway to Reopen Near Malibu After January FiresThe so-called 60/40 portfolio — long recommended for investors who want to balance exposure to risk with a cushion of safer, steady income — calls",
+      "published_utc": "2025-05-26T10:06:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a38f485d4a5ad60b53880b3a4596cc0113d3de3c25446c64df88a6994f136f9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715798,
+      "datetime": 1748225183
+    },
+    {
+      "title": "WiseTech Buys E2Open for $2.1 Billion in Its Biggest Deal",
+      "description": "(Bloomberg) -- Australian shipping software company WiseTech Global Ltd. made its biggest ever acquisition, agreeing to buy E2open Parent Holdings Inc. in a deal that values the US firm at $2.1 billion. Most Read from BloombergNY Private School Pleads for Donors to Stay Open After Declaring BankruptcyUAE’s AI University Aims to Become Stanford of the GulfNYC’s War on Trash Gets a Glam SquadPacific Coast Highway to Reopen Near Malibu After January FiresThe acquisition is the first major move by f",
+      "published_utc": "2025-05-26T08:56:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbb3d5fa471871f7a9d6d8574d6947db3053b72da893aae133e97b74eab199af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134701236,
+      "datetime": 1748220995
+    },
+    {
+      "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Memorial Day.",
+      "description": "Is the Stock Market Open Today? Here Are the Trading Hours for Memorial Day.",
+      "published_utc": "2025-05-26T08:01:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f759325aaaefd5a6b87bded8cf04742fd3e8863991a015ba53c2dfde4519fbdb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134710894,
+      "datetime": 1748217660
+    }
+  ]
+}

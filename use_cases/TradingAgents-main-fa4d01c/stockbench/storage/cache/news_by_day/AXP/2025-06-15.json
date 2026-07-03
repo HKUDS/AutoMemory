@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Trump Earned $57.7 Million From Crypto Venture, Disclosure Shows",
+      "description": "(Bloomberg) -- President Donald Trump earned $57.7 million from token sales by the crypto firm he and his sons helped launch last year, according to his required federal financial disclosure forms.Most Read from BloombergShuttered NY College Has Alumni Fighting Over Its FutureTrump’s Military Parade Has Washington Bracing for Tanks and WeaponryNYC Renters Brace for Price Hikes After Broker-Fee BanAs Part of a $45 Billion Push, ICE Prepares for a Vast Expansion of Detention SpaceDo World’s Fairs",
+      "published_utc": "2025-06-15T02:01:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d68d20078ad9dda4855ea6fb7acc75b84dacb0a7226e1da80447d95051575033",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135274434,
+      "datetime": 1749924111
+    }
+  ]
+}

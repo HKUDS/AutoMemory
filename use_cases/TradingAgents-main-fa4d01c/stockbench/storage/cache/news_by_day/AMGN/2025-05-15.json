@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. (AMGN) BofA Securities 2025 Healthcare Conference (Transcript)",
+      "description": "Amgen Inc. (NASDAQ:AMGN) BofA Securities 2025 Healthcare Conference Call May 14, 2025 12:20 PM ETCompany ParticipantsPeter Griffith - Executive Vice...",
+      "published_utc": "2025-05-15T00:21:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d78c8a2c2dfe47ebe605fe583a8af4142dc8a650682e47b8027c93502946eee6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134453599,
+      "datetime": 1747239682
+    }
+  ]
+}

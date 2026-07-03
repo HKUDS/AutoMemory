@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "The Sherwin-Williams Company (SHW) Q2 2025 Earnings Conference Call Transcript",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) Q2 2025 Earnings Call July 22, 2025 10:00 AM ETCompany ParticipantsAllen J.",
+      "published_utc": "2025-07-23T05:03:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=537d831b7c99821e7d21769741eb824b501c9186b5b2fea97aac50936332d981",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136037101,
+      "datetime": 1753218186
+    },
+    {
+      "title": "Sherwin-Williams cuts outlook, Philip Morris raises outlook",
+      "description": "Yahoo Finance anchor Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute. Sherwin-Williams (SHW) reported a miss for the second quarter and cut its full-year guidance. Philip Morris (PM) mostly topped second quarter estimates but fell short on organic revenue growth expectations. The company also raised its full-year profit forecast. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-07-23T02:10:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f1454008683dca9777ab699e66601c3d76690a8d224437d8e25a6ea9a01a8c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033367,
+      "datetime": 1753207821
+    },
+    {
+      "title": "Industrials Up Amid Mixed Earnings -- Industrials Roundup",
+      "description": "Industrials Up Amid Mixed Earnings -- Industrials Roundup",
+      "published_utc": "2025-07-23T02:09:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=da1773ae22bca91250d7a9549b1619810f922de3e811bfa1de9e223c7002174d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136073443,
+      "datetime": 1753207740
+    },
+    {
+      "title": "Sherwin-Williams Cuts Guidance as Quarterly Earnings Surprisingly Drop Amid Sluggish Demand",
+      "description": "Sherwin-Williams (SHW) lowered its full-year outlook on Tuesday as the company's second-quarter earn",
+      "published_utc": "2025-07-23T01:10:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fcb3c0cd4dfb947d892d9c42fe84446e94e95c38a412b9bf45374782f9d520c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033622,
+      "datetime": 1753204206
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "description": "Find insight on Sherwin-Williams, BASF and more in the latest Market Talks covering Basic Materials.",
+      "published_utc": "2025-07-23T00:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b757e41427a94c830293ac62960f1733e117363af598c15ddff7ebbf2e64e697",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136033623,
+      "datetime": 1753201800
+    }
+  ]
+}

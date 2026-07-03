@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq Reaches New High as Investors Brush Off Tariff Concerns",
+      "description": "US equities moved higher Monday, lifting the Nasdaq Composite to a new all-time high as traders appe",
+      "published_utc": "2025-07-15T04:56:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a1e4850495b7fdf21be6f6a45fb0488e70e8d93edd85671224f83e82c7c0327",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931766,
+      "datetime": 1752526601
+    },
+    {
+      "title": "JPMorgan Forms New Banking Team Focused on Bespoke Financings",
+      "description": "(Bloomberg) -- JPMorgan Chase & Co. created a unit in its commercial and investment bank focused on bespoke financing structures across public and private markets. Most Read from BloombergWhy Did Cars Get So Hard to See Out Of?Advocates Fear US Agents Are Using ‘Wellness Checks’ on Children as a Prelude to ArrestsHow German Cities Are Rethinking Women’s Safety — With TaxisLA Homelessness Drops for Second YearThe business, dubbed strategic financing solutions, will be a collaboration between bank",
+      "published_utc": "2025-07-15T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bff51b56b44201e11ade5ec14ed2414aa52b28e5676231d85088b97eeebfeab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135934309,
+      "datetime": 1752523200
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "description": "Financial stocks rose in late Monday afternoon trading with the NYSE Financial Index gaining 0.5% an",
+      "published_utc": "2025-07-15T03:55:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d9096a9ef80598a452146c78a748b71556804bec034e4f604ea7c7e652d832c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932043,
+      "datetime": 1752522942
+    },
+    {
+      "title": "JPMorgan, Wells Fargo Lead Bank Earnings. Morgan Stanley, Goldman On Deck.",
+      "description": "JPMorgan kicks off a flurry of bank earnings on Tuesday with Wells Fargo, BlackRock. Morgan Stanley and Goldman Sachs report Wednesday.",
+      "published_utc": "2025-07-15T02:54:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a211147174e0ee33783eda5d0b186543a5e862c1b1387f881544b8d7bbf7035",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932044,
+      "datetime": 1752519261
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance in Afternoon Trading",
+      "description": "Financial stocks were rising in Monday afternoon trading, with the NYSE Financial Index adding 0.6%",
+      "published_utc": "2025-07-15T01:56:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac8f7be0307ab233c9b907003b137b3fa4085bfa04d5189fdca9137ba48b8f14",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135932045,
+      "datetime": 1752515763
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:07:25.007934+00:00",
+    "cache_key": "news_3b5dc5c01cdce4bc26ec3916729629c3",
+    "count": 5
+  }
+}

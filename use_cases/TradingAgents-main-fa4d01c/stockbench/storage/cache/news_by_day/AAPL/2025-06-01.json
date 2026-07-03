@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Big Tech Is Back in S&P 500 Driver’s Seat as Profit Engines Hum",
+      "description": "(Bloomberg) -- The same technology giants that helped drag the S&P 500 to the brink of a bear market in April are giving the recovery in US equities some legs.Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryWhere the Wild Children’s Museums AreNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaThe Economic Benefits of Paying Workers to MoveNYC Congestion Toll Brings In $216 Million in First Four MonthsNvidia Corp. put a bow on a better",
+      "published_utc": "2025-06-01T23:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf21208226102bc4d148436f243140ed71a72853537824f37e9c557040154686",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927980,
+      "datetime": 1748790000
+    }
+  ]
+}

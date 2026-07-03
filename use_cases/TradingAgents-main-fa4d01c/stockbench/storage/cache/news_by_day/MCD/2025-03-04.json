@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "McDonald : Global Chief Supply Chain Officer Retires",
+      "description": "Today, McDonald's Chairman and CEO Chris Kempczinski shared that Marion Gross, Executive Vice President and Global Chief Supply Chain Officer, has decided to retire after more than 32 years with...",
+      "published_utc": "2025-03-04T01:28:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=cfa938fd34755301e4f9264a989dccaafc801f170b627053ff0f2c6505ff2986",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132969491,
+      "datetime": 1741022892
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple Production Hubs Hit by Tariffs, Sending Shares Plummeting",
+      "description": "(Bloomberg) -- Apple Inc. is finding itself squarely in the crosshairs of President Donald Trump’s new tariffs, even after a yearslong effort to insulate the iPhone maker from trade wars and supply chain disruptions.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeLocal Governments Vie for Fired Federal WorkersWhat Frank Lloyd Wright Learned From the DesertChicago School District Agr",
+      "published_utc": "2025-04-03T06:52:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2286b4ad8e3d283187e3af3943576b0d72a026516294c39a85101f9c4ad39ea2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695017,
+      "datetime": 1743634362
+    },
+    {
+      "title": "Apple and Dell Face Higher Costs",
+      "description": "Computer and electronics makers are likely to face higher production costs after President Donald Trump announced new reciprocal tariffs on Asian nations.  Trump said the reciprocal tariff rate on China will be 34%.  Most of the world’s electronics are made in Asia, including Apple and Samsung smartphones, tablets, video game consoles, and big screen TVs.",
+      "published_utc": "2025-04-03T06:26:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fcb8bda7359b21233cf37f35bab56de337e6214e6e78543741dc3b1a38069dc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695018,
+      "datetime": 1743632806
+    },
+    {
+      "title": "'Worse than expected': Wall Street reacts to Trump's 'Liberation Day' tariff surprise, stocks sink",
+      "description": "Stocks sold off late Wednesday as President Trump's reciprocal tariffs proved to be harsher than many on Wall Street had expected.",
+      "published_utc": "2025-04-03T06:23:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c0f314a1e1bf8055d2ece5338905360ca2de93b3f4f38d245265eb761bb9105",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695019,
+      "datetime": 1743632625
+    },
+    {
+      "title": "Apple Stock and Other Tech Favorites Drop",
+      "description": "Shares in some of the biggest U.S. technology and consumer firms fell late Wednesday following President Trump's announcement of significant tariffs, including 34% on China and 46% on Vietnam, nations that export large amounts of goods to America.",
+      "published_utc": "2025-04-03T04:49:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dff40c3fe281e82e45b483fb56e6edafa1c400321c95b83edfe96b8964ee1fce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133679079,
+      "datetime": 1743626985
+    },
+    {
+      "title": "Epic Games CEO calls Apple and Google 'gangster-style' businesses in need of competition",
+      "description": "Epic Games CEO Tim Sweeney, whose company makes Fortnite and tools for other developers, including Unreal Engine, called out Apple and Google as \"gangster-style businesses\" engaged in illegal practices while speaking at a Y Combinator event on Wednesday. The executive also emphasized how the big tech companies' practices directly affected his own business by scaring away users from installing Epic's Games Store software and preventing Epic from attracting developers to its offerings. Notably, Ep",
+      "published_utc": "2025-04-03T04:11:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9341291036683c08add36cb9ce1feb9dfead4031e95eb84d85d12dfbe07f476c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133695020,
+      "datetime": 1743624717
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:26:47.092813+00:00",
+    "cache_key": "news_aad23366b91f09b5f17bf9ad8a3e543d",
+    "count": 5
+  }
+}

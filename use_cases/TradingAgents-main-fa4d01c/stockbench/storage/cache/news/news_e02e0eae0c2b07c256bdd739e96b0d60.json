@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Active ETFs Catch a Wave of Investor Interest",
+      "description": "Active ETFs are grabbing investor attention, with 39% of 2025 ETF flows and 94% of 2025 fund launches now tied to active strategies.",
+      "published_utc": "2025-06-10T04:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0188f9d32064d06cc84d0aa14edba73997a5981b7fd0612eb77458f00ac2dff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140094,
+      "datetime": 1749501060
+    },
+    {
+      "title": "JPMorgan Internal Memo Shows Morale Took a Hit on Return to Office",
+      "description": "JPMorgan Internal Memo Shows Morale Took a Hit on Return to Office",
+      "published_utc": "2025-06-10T02:07:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b42788b488bf4a4a81e8dc850fc4ed19f06f0da99b1d6fbbbffffef632488eb7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135150563,
+      "datetime": 1749492420
+    },
+    {
+      "title": "JPMorgan Lifts 2025 Muni-Bond Sales Forecast to $560 Billion",
+      "description": "(Bloomberg) -- JPMorgan Chase & Co. raised its forecast for 2025 municipal bond issuance by 14% as state and local governments step up borrowing efforts. Most Read from BloombergNext Stop: Rancho Cucamonga!Where Public Transit Systems Are Bouncing Back Around the WorldTrump Said He Fired the National Portrait Gallery Director. She’s Still There.NYC Mayoral Candidates All Agree on Building More Housing. But Where?US Housing Agency Vulnerable to Fraud After DOGE Cuts, Documents WarnThe bank’s muni",
+      "published_utc": "2025-06-10T00:28:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4205701d30787bf72c000aab4e9f3006bd42cd06ed672b45a496dfed7bceabfb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140095,
+      "datetime": 1749486488
+    },
+    {
+      "title": "Companies raced to buy back their own stock as prices plunged",
+      "description": "Companies raced to buy back their own stock as prices plunged",
+      "published_utc": "2025-06-09T23:59:41",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=59d5a650397301e4cb84a301bf1f764b6f497ba0d1da3850e49384de68fa9bda",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135149907,
+      "datetime": 1749484781
+    },
+    {
+      "title": "JPMorgan Chase Patent Tackles Synthetic Data Bias",
+      "description": "“Biases can significantly impact the equity of machine learning models and their decisions.”",
+      "published_utc": "2025-06-09T23:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccd3d9c400998c4d3a13b0bea3f461bcfbe67e766801f7289fc398bcfbb7dce8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140096,
+      "datetime": 1749482100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:54:09.578824+00:00",
+    "cache_key": "news_e02e0eae0c2b07c256bdd739e96b0d60",
+    "count": 5
+  }
+}

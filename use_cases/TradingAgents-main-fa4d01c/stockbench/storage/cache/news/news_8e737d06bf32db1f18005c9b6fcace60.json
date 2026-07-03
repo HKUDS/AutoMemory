@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. (CAT): Among the Best Stocks to Buy According to Bill Gates",
+      "description": "We recently compiled a list of the 10 Best Stocks to Buy According to Bill Gates. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against the other stocks. Bill Gates is one of the most influential figures in the modern world. The software company he co-founded, best known […]",
+      "published_utc": "2025-03-01T19:26:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f545b859eca0554ce2f729a91796ab84574b60ddea9dedda108aadb1bbdbd5d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185155,
+      "datetime": 1740828411
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:12:07.128509+00:00",
+    "cache_key": "news_8e737d06bf32db1f18005c9b6fcace60",
+    "count": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tech Stock Deterioration And Tariff Twitchiness",
+      "description": "Stocks returned to their losing ways today, weighed down by a fresh round of tech-stock deterioration and tariff twitchiness.",
+      "published_utc": "2025-03-27T07:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=37713bf29c88edd641c932d0b13c2bff1dde392ebfa3bdd125b4ce6cf38d3087",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200759945/image_2200759945.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461224,
+      "datetime": 1743030300
+    },
+    {
+      "title": "Tracking Leon Cooperman's Omega Advisors Portfolio - Q4 2024 Update",
+      "description": "",
+      "published_utc": "2025-03-27T06:21:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f555312edf4b8681f132bc9247759f762a29ef05be6eb708abe85fb92a85b31",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461058,
+      "datetime": 1743027675
+    },
+    {
+      "title": "OpenAI Is Close To Finalizing A $40 Billion Funding Round Led By Softbank Group Corp - Bloomberg News",
+      "description": "March 26 - * OPENAI IS CLOSE TO FINALIZING A $40 BILLION FUNDING ROUNDLED BYSOFTBANK GROUP CORP - BLOOMBERG NEWSSource text: https://tinyurl.com/27kjkad6Further company coverage: ...",
+      "published_utc": "2025-03-27T03:53:14",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8d6f31ffded5aeee96b584afa8c69ba533f4b314b60140a4b42edf5a45651029",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133460399,
+      "datetime": 1743018794
+    },
+    {
+      "title": "Microsoft stock drops from news of abandoned data center projects",
+      "description": "Microsoft (MSFT) stock is down after a TD Cowen analyst note explained that the company has abandoned data center projects due to oversupply. Market Domination hosts Julie Hyman and Josh Lipton break down the stock and analyst note. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-03-27T03:51:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d786bde3776a015e907519c25faee037f399bbf7c1fd5c1efeaa39cde2b1377d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461955,
+      "datetime": 1743018691
+    },
+    {
+      "title": "AI stocks weak on word Microsoft drops data center leases in U.S. and Europe",
+      "description": "Investing.com -- There are more jitters in the AI sector Wednesday after analysts at TD Cowen highlighted that their channel checks show Microsoft is canceling data center leases in the U.S. and Europe, following up on his earlier finding.",
+      "published_utc": "2025-03-27T03:47:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e2f6969bc9d6322eee75a5addf5ecd36019f7a624d76faed44b6cd4becacc40",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133461956,
+      "datetime": 1743018438
+    }
+  ]
+}

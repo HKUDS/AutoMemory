@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "SpaceX scrubs astronaut flight that was to retrieve stuck astronauts",
+      "description": "* Mission scrubbed for technical reason * An 8-day stay for astronauts has turned into nine monthsinspace * Astronauts had been expected to...",
+      "published_utc": "2025-03-13T03:20:49",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=e0335037a19df890bf8df751e40f735d33462ce8822b6d7e9d5a040f568eceba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133159562,
+      "datetime": 1741807249
+    },
+    {
+      "title": "SpaceX, NASA set for astronaut flight that will retrieve stuck astronauts",
+      "description": "NASA is set to launch a SpaceXrocket from Florida on Wednesday carrying a replacement crew forthe International Space Station in a mission that sets up thereturn to Earth of U.S. astronauts Butch...",
+      "published_utc": "2025-03-13T01:46:57",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7f723a697149fb163cbc12686eeb6394a69fb563264977e6909650dbfd07d681",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133158998,
+      "datetime": 1741801617
+    },
+    {
+      "title": "Boeing Co. stock outperforms competitors on strong trading day",
+      "description": "Boeing Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-03-13T00:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7d5fe4e27cbac69ec7289b59035d27d25490d752f858f6632e867d40d000f4c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133173402,
+      "datetime": 1741797480
+    },
+    {
+      "title": "Boeing could get hit hard by Trump's trade war. Airbus could get a boost",
+      "description": "President Donald Trump’s trade war could become a major problem for Boeing (BA), and give European rival Airbus (AIR) a leg up on the competition.",
+      "published_utc": "2025-03-13T00:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3522420d3e85338d896e0e8aa24e3c6da553cc913d37552f0cc6df538900b45",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133185710,
+      "datetime": 1741795213
+    }
+  ]
+}

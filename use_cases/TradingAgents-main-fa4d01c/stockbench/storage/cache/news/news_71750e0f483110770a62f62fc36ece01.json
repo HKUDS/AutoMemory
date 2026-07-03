@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-05-22T06:14:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e27504393d6270f71f4779aed94b422dee3a3fcabc889d6582ddb2468c20c3d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631523,
+      "datetime": 1747865679
+    },
+    {
+      "title": "UnitedHealth, Humana, CVS drop on expanded Medicare Advantage audits",
+      "description": "Investing.com -- Shares of major health insurers UnitedHealth (NYSE:UNH), Humana (NYSE:HUM), and CVS (NYSE:CVS) fell sharply today, with UnitedHealth down 4%, Humana declining 5%, and CVS dropping 4% in afterhours trading. The slide came in response to the Centers for Medicare & Medicaid Services (CMS) announcing a significant expansion of its auditing efforts for Medicare Advantage (MA) plans.",
+      "published_utc": "2025-05-22T05:14:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=019a4060e3276a5955707542ef6fc142269365b3f315c93a0304fea59c29ce12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647947,
+      "datetime": 1747862046
+    },
+    {
+      "title": "Why UnitedHealth Stock Sank Again Today",
+      "description": "\"The Guardian\" is reporting that UnitedHealth was secretly offering bonuses to nursing homes to reduce their hospital transfers.  Shares of UnitedHealth Group (NYSE: UNH) plummeted again on Wednesday.  The company's stock is down 5.8% as of market close, while the S&P 500 (SNPINDEX: ^GSPC) and the Nasdaq Composite (NASDAQINDEX: ^IXIC) lost 1.6% and 1.4%, respectively.",
+      "published_utc": "2025-05-22T04:59:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a741c9c8bbaaf05f76dd04eb05e6c928014d1ff2a6dcc32fa33df3da2fdcf8ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647948,
+      "datetime": 1747861148
+    },
+    {
+      "title": "Wolfe Research Sees Margin Recovery As Key Catalyst for Unitedhealth (UNH)",
+      "description": "Despite the company’s recent setbacks, Wolfe Research analyst Justin Lake reiterated his bullish view on UnitedHealth Group Inc. (NYSE:UNH). While maintaining his Outperform rating, he lowered his price target to $390 from $501, driven by downward revisions of his earnings estimates as the company withdrew guidance. The analyst believes that a potential improvement in OptumCare’s […]",
+      "published_utc": "2025-05-22T04:19:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c359aefddfb6eac93ca2d49057191e0f68ede2fcad25e8b4681b77f398714854",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647949,
+      "datetime": 1747858784
+    },
+    {
+      "title": "Why UnitedHealth (UNH) Stock Is Nosediving",
+      "description": "Shares of health insurance company UnitedHealth (NYSE:UNH) fell 5.5% in the afternoon session after HSBC analysts downgraded the stock's rating from Neutral to Sell, adding that the recent sell-off had yet to provide a cheap opportunity to buy. The analysts also cited key reasons for the concerns, including \"higher medical costs, political pressure on drug prices, and lower overall profitability ahead, especially if there are cuts to Medicaid spending.\".",
+      "published_utc": "2025-05-22T04:09:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=983136016f07314de17316f7bf069ed30d64485b85741ee2e1077bdcf040bb30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647950,
+      "datetime": 1747858179
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:46:26.780859+00:00",
+    "cache_key": "news_71750e0f483110770a62f62fc36ece01",
+    "count": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "What to Expect From Honeywell's Q2 2025 Earnings Report",
+      "description": "Honeywell is poised to release its second-quarter results later this month, and analysts are projecting a single-digit earnings growth.",
+      "published_utc": "2025-07-07T22:53:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fd763fa9dd4c563493eef5184ed6d41bc9657a24b14b7c23f89f47c9b9667af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135788380,
+      "datetime": 1751900009
+    }
+  ]
+}

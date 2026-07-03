@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Watch These Microsoft Levels as Stock Hits Another Record High",
+      "description": "Microsoft shares extended their winning streak to eight consecutive days on Monday amid investor optimism about the tech giant's prospects during the AI boom. Monitor these crucial chart levels.",
+      "published_utc": "2025-06-10T05:51:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bf5a72386a4ec334dce61762c6499dbcf3ed987ac265f819d4bf07ee94007f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139742,
+      "datetime": 1749505915
+    },
+    {
+      "title": "Amazon wants to become a global marketplace for AI",
+      "description": "As the global AI race heats up, Amazon Web Services doubles down on its bet that every model should get a seat at the table.",
+      "published_utc": "2025-06-10T04:49:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8bc0210683d61078d51dde22abd8834b2a8b3e5545f51c821aeee0c74a77f43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139674,
+      "datetime": 1749502187
+    },
+    {
+      "title": "Jim Cramer Calls Microsoft’s (MSFT) Latest Quarter a “Great One”",
+      "description": "We recently published a list of Jim Cramer Recently Looked at These 18 Stocks. In this article, we are going to take a look at where Microsoft Corporation’s (NASDAQ:MSFT) stands against other stocks that Jim Cramer discusses. During the episode, Mad Money host commended Microsoft Corporation’s (NASDAQ:MSFT) previous quarter as he said: “Now, there was […]",
+      "published_utc": "2025-06-10T03:03:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5eea7261a2c51e75de9319f146f00cbcee51d80613d77664251c228ab63e8f07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139745,
+      "datetime": 1749495825
+    },
+    {
+      "title": "Which Software Stocks Is BofA Securities Bullish On?",
+      "description": "The BofA Securities software research team hosted 18 public and 10 private companies at the BofA Global Technology Conference in San Francisco on June 3-5. With an ever-changing macro policy backdrop, the spending environment was the focus of this discussion. AI product cycles were another key topic discussed, with companies citing healthy pilot activity for agentic applications. Based on discussions, participating software companies endorsed a generally stable environment, although companies re",
+      "published_utc": "2025-06-10T03:01:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b86bea1cecc8548d66726c8933c58188c93f1cb0d6450e34ca42229e83c53c9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139333,
+      "datetime": 1749495709
+    },
+    {
+      "title": "Nvidia: It's All About Growth",
+      "description": "Explore Nvidia Corporation's growth potential and valuation using PEG ratio analysis. Click for my updated look at NVDA stock as I compare it to Microsoft (MSFT).",
+      "published_utc": "2025-06-10T02:23:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5de6b051f1866e4b53803fa7d8e6924604198f0f2fe523989801967e2e140df8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191615622/image_2191615622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138973,
+      "datetime": 1749493411
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:50.760277+00:00",
+    "cache_key": "news_afe6fbbcbae625d9921b882392e9e30d",
+    "count": 5
+  }
+}

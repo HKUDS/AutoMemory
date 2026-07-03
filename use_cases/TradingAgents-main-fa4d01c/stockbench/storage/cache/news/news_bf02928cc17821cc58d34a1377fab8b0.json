@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "You Deserve Reliable Income: 2 Undervalued Dividends For Long-Term Growth",
+      "description": "UPS and JNJ present strong dividends and attractive valuations. See why these durable companies are great for a buy-and-hold strategy with long-term growth.",
+      "published_utc": "2025-02-03T16:51:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=24078a95fb45b8c57eb9e573b89cc4fe1a41bc2a9c63ba693eb4cd9f4fbed470",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/184860418/image_184860418.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520522,
+      "datetime": 1738572660
+    },
+    {
+      "title": "J&J: CHMP gives the green light for subcutaneous Rybrevant",
+      "description": "Janssen-Cilag International NV announces that the Committee for Medicinal Products for Human Use of the EMA has recommended the extension of the marketing authorization for the subcutaneous...",
+      "published_utc": "2025-02-03T15:55:17",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=aa928d2ac8920896e9061fb7158a24d22aeebbb54832061fae0dba49a8bd27f2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132520088,
+      "datetime": 1738569317
+    },
+    {
+      "title": "Johnson & Johnson : CHMP recommends subcutaneous RYBREVANT®▼ (amivantamab) for the treatment of patients with advanced EGFR mutated non small cell lung cancer",
+      "description": "Janssen-Cilag International NV, a Johnson & Johnson company, today announced that the Committee for Medicinal Products for Human Use of the European Medicines Agency has recommended an extension of...",
+      "published_utc": "2025-02-03T13:08:18",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6f4843e6b55b2d8da9604e118bbe4d9f43ba6b73596a2177b7e3d17facc3de79",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132519208,
+      "datetime": 1738559298
+    },
+    {
+      "title": "ORIC Pharmaceuticals: Too Early To Commit, Despite Some Good Early Data",
+      "description": "ORIC's ORIC-533 was promising but failed in trials, leaving ORIC-114 and ORIC-944 as key pipeline assets. Read why I am neutral on ORIC stock.",
+      "published_utc": "2025-02-02T13:05:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8adc832885d57ebc67b473c3828e685bd6413a80d2eedee4116d146c10d33b7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132514154,
+      "datetime": 1738472729
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T15:57:39.257477+00:00",
+    "cache_key": "news_bf02928cc17821cc58d34a1377fab8b0",
+    "count": 4
+  }
+}

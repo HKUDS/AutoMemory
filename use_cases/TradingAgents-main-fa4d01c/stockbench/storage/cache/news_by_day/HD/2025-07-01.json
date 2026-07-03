@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Podcast: Stock Indexes Notch New Records to Cap a Turbulent Quarter",
+      "description": "The S&P 500 and Nasdaq both end the quarter at new highs. Plus: Robinhood Markets shares surged after it launched new cryptocurrency services. And shares of building-products distributor GMS jumped after Home Depot won a bidding war to buy the company.",
+      "published_utc": "2025-07-01T05:07:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=620cbdc1eb18de75b09b01248d7bf32a7e19acbaa6571ea957ce45862be1de7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135683177,
+      "datetime": 1751317625
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Sunrun, GMS, Oracle, HPE, Juniper Networks, Robinhood, Palantir, and More",
+      "description": "Sunrun is rising sharply after the Senate’s latest version of the tax-and-spending megabill includes some relatively positive changes for some companies in the solar industry, while GMS jumps after reaching an agreement to be acquired by Home Depot.",
+      "published_utc": "2025-07-01T04:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9254c7477ef135bf5fe0880843bba378c9420899a002d0b37d8fa201096785ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676107,
+      "datetime": 1751314500
+    },
+    {
+      "title": "QXO turns attention elsewhere as Home Depot nabs GMS - source",
+      "description": "Investing.com -- Home Depot’s agreement to acquire building products distributor GMS, Inc. for $110 per share in cash has prompted Brad Jacobs-led QXO Inc. (NYSE:QXO) to shift its focus to other targets, according to a person familiar with the matter. QXO is currently evaluating several alternative acquisition opportunities, it was relayed. On June 18th, QXO, fresh off its $11 billion cornerstone acquisition of Beacon Roofing Supply (NASDAQ:BECN), made a surprise all-cash offer of $95.20 per sha",
+      "published_utc": "2025-07-01T04:01:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfe332c42bd8f3593f986ca37c88dec83e42ef3e602240cbeb8f742f5ee53180",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135674732,
+      "datetime": 1751313678
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "description": "Consumer stocks were mixed late Monday afternoon, with the Consumer Staples Select Sector SPDR Fund",
+      "published_utc": "2025-07-01T03:49:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30befd2170042a7cbe2e46e9a75cd87c719c8dc913b7e92e6f45e50ac45dabd7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135674733,
+      "datetime": 1751312953
+    },
+    {
+      "title": "Oracle soars, Amazon sinks, Home Depot's $4.3B acquisition",
+      "description": "Market Domination co-host Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute. Oracle (ORCL) shares are surging after landing a massive $30 billion cloud contract. Amazon (AMZN) is under pressure as prices for China-made goods on its platform rise. Home Depot (HD) announces a $4.3 billion deal to acquire building products supplier SRS Distribution. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-07-01T02:24:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bd084377813617824baa4ab9d33ec9d5ed4e18bf9b4efdbca4e81a11b745210",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671200,
+      "datetime": 1751307891
+    }
+  ]
+}

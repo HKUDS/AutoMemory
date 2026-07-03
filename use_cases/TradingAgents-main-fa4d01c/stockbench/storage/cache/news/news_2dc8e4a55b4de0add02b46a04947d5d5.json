@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on The Home Depot, Inc. (NYSE:HD): Firm Is Exposed To Massive Demand",
+      "description": "We recently published a list of Jim Cramer Discusses These 11 Stocks & Reveals Why Tech Stocks Are Down. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC’s Squawk on the Street, Jim […]",
+      "published_utc": "2025-03-29T21:38:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49693b96fab2c30e8dbc2a4c3c73931c54daea38a82708c719801c090ee59625",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133561179,
+      "datetime": 1743255497
+    },
+    {
+      "title": "Stocks Falling On Earnings - What To Do? February Dividend Income Report",
+      "description": "",
+      "published_utc": "2025-03-29T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=126b71e862da1d86bb1eb4bd6158c1fcb9a7e75c52ee15fdc30b7c28db6d7cde",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133533973,
+      "datetime": 1743244200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:23:18.762512+00:00",
+    "cache_key": "news_2dc8e4a55b4de0add02b46a04947d5d5",
+    "count": 2
+  }
+}

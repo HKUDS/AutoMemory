@@ -1,0 +1,275 @@
+{
+  "items": [
+    {
+      "id": "d408b84f0bbd2c9075121faf715f89ef5cba55ddf55eb32b53ffe105c62c2f5d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "How Are 9 Out of the 11 Stock Market Sectors Outperforming the S&P 500 in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T20:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/sp-500-stock-market-mega-cap-growth-sell-off/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AVGO",
+        "TSLA",
+        "NFLX",
+        "VOX",
+        "VCR",
+        "VGT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809027/gettyimages-1309167654-1200x800-5b2df79.jpg",
+      "description": "The S&P 500 index has underperformed many sectors this year, as a handful of large tech companies make up a significant portion of the index. This concentration risk can lead to volatility if those top companies underperform.",
+      "keywords": [
+        "S&P 500",
+        "stock market sectors",
+        "concentration risk",
+        "index funds",
+        "ETFs"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia is one of the large tech companies that has underperformed the S&P 500 year-to-date, dragging down the index's performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple is another large tech company that has underperformed the S&P 500 year-to-date, contributing to the index's underperformance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft is also one of the large tech companies that has underperformed the S&P 500 year-to-date, negatively impacting the index's performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amazon is a large tech company that has underperformed the S&P 500 year-to-date, contributing to the index's underperformance."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet (Google) is another large tech company that has underperformed the S&P 500 year-to-date, dragging down the index's performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet (Google) is another large tech company that has underperformed the S&P 500 year-to-date, dragging down the index's performance."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Meta Platforms (Facebook) is a large tech company that has underperformed the S&P 500 year-to-date, negatively impacting the index's performance."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is a large tech company that is included in the S&P 500, but its performance is not explicitly mentioned in the article."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tesla is a large tech company that has underperformed the S&P 500 year-to-date, contributing to the index's underperformance."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Netflix is a large tech company that has underperformed the S&P 500 year-to-date, negatively impacting the index's performance."
+        },
+        {
+          "ticker": "VOX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Meta Platforms and Alphabet make up a significant portion of the Vanguard Communications ETF, but does not provide a clear sentiment on the ETF's performance."
+        },
+        {
+          "ticker": "VCR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Amazon and Tesla make up a significant portion of the Vanguard Consumer Discretionary ETF, but does not provide a clear sentiment on the ETF's performance."
+        },
+        {
+          "ticker": "VGT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Apple, Nvidia, Microsoft, and Broadcom make up a significant portion of the Vanguard Information Technology ETF, but does not provide a clear sentiment on the ETF's performance."
+        }
+      ]
+    },
+    {
+      "id": "8773f0332115947bf753d96ed3db57a07ee35a35ec2026562f99316be4a2178d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Does Microsoft's Huge Quantum Computing News Mean It's Time to Sell IonQ?",
+      "author": "Keithen Drury",
+      "published_utc": "2025-03-02T17:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/does-microsofts-huge-quantum-computing-news-mean-i/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "IONQ",
+        "IONQ.WS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808499/image-of-quantum-computing.jpg",
+      "description": "Microsoft announced a breakthrough in quantum computing with its Majorana 1 chip, which could impact IonQ, a quantum computing company. While Microsoft's chip has the potential to scale to 1 million qubits, IonQ is focused on delivering useful results for its clients. Investors should consider a diversified approach to quantum computing investments.",
+      "keywords": [
+        "quantum computing",
+        "Microsoft",
+        "IonQ"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft announced a major breakthrough in quantum computing with its Majorana 1 chip, which has the potential to scale to 1 million qubits, a key threshold for commercially viable quantum computing."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While Microsoft's breakthrough could impact IonQ, the article suggests that IonQ is focused on delivering useful results for its clients, which may work out well for the company. However, IonQ is still a high-risk investment, and investors should consider a diversified approach to quantum computing."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While Microsoft's breakthrough could impact IonQ, the article suggests that IonQ is focused on delivering useful results for its clients, which may work out well for the company. However, IonQ is still a high-risk investment, and investors should consider a diversified approach to quantum computing."
+        }
+      ]
+    },
+    {
+      "id": "b06b5cd16003824f6defe0869de585127ad221be5001c930c360a748c14109d0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Supercharged Growth Stock That Could Make You a Millionaire",
+      "author": "James Brumley",
+      "published_utc": "2025-03-02T14:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/meet-the-supercharged-growth-stock-that-could-make/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808781/rich-millionaire-billionaire-raining-money.jpg",
+      "description": "SoundHound AI is a financial services company that specializes in voice and speech recognition technology. The company has seen significant growth, with its revenue increasing by 85% in 2024. Despite a recent 60% pullback in its stock price, the company is well-positioned to capture a significant share of the growing voice and speech recognition market.",
+      "keywords": [
+        "SoundHound AI",
+        "voice and speech recognition",
+        "growth stock",
+        "artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's strong growth potential, with its revenue increasing by 85% in 2024 and the company being well-positioned to capture a significant share of the growing voice and speech recognition market. The article also notes that the recent 60% pullback in the stock price presents an attractive opportunity for investors willing to take on a bit more risk for the potential of above-average gains."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's strong growth potential, with its revenue increasing by 85% in 2024 and the company being well-positioned to capture a significant share of the growing voice and speech recognition market. The article also notes that the recent 60% pullback in the stock price presents an attractive opportunity for investors willing to take on a bit more risk for the potential of above-average gains."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia disclosed it had sold its position in SoundHound's stock, which further rattled the company's already-nervous shareholders. However, the article suggests that this is not unusual for a pre-profit tech stock and that the stock's volatility is likely to stabilize going forward."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not directly mention Microsoft, but it references the use of large language model-based artificial intelligence, which is an area where Microsoft is active through its Azure cloud platform and AI technologies."
+        }
+      ]
+    },
+    {
+      "id": "8bd67e5be9c4eb0e9bb9aa411bec5002c692d73dfdcb44ba9537cdce197478b6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Chase Coleman Has 43% of His Portfolio in These 5 Unstoppable Artificial Intelligence (AI) Stocks",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-02T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/02/billionaire-chase-coleman-has-43-of-his-portfolio/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "META",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808184/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg",
+      "description": "Billionaire Chase Coleman has invested heavily in 5 AI stocks, which make up 43% of his portfolio. These stocks have been performing exceptionally well and are expected to continue growing due to the increasing demand for AI technology.",
+      "keywords": [
+        "Artificial Intelligence",
+        "Billionaire",
+        "Investment Portfolio",
+        "Stock Picks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's graphics processing units (GPUs) are powering the AI arms race and can be used for other computing tasks. The company is expected to benefit significantly from the increasing demand for AI technology."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is one of the 5 AI stocks that make up a significant portion of Chase Coleman's portfolio. The company is investing heavily in AI and is expected to see continued growth in this area."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is one of the 5 AI stocks that make up a significant portion of Chase Coleman's portfolio. The company is investing heavily in AI and is expected to see continued growth in this area."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is one of the 5 AI stocks that make up a significant portion of Chase Coleman's portfolio. The company is investing heavily in AI and is expected to see continued growth in this area."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is one of the 5 AI stocks that make up a significant portion of Chase Coleman's portfolio. The company is investing heavily in AI and is expected to see continued growth in this area."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is one of the 5 AI stocks that make up a significant portion of Chase Coleman's portfolio. The company is investing heavily in AI and is expected to see continued growth in this area."
+        }
+      ]
+    },
+    {
+      "title": "This AI Trend Will Be the Hot Topic at World’s Biggest Smartphone Event",
+      "description": "This AI Trend Will Be the Hot Topic at World’s Biggest Smartphone Event",
+      "published_utc": "2025-03-02T11:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=225cdc2ad48c0dc575b60b10b737165235fd567fe9c8cb00475e1ee5a0e2f463",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132955684,
+      "datetime": 1740886200
+    }
+  ]
+}

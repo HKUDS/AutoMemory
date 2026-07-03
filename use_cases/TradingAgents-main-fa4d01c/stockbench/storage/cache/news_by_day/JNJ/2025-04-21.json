@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Intuitive Surgical: Great Company, Wrong Price",
+      "description": "",
+      "published_utc": "2025-04-21T23:21:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=917eb409627a4ae8d3612eeff6089d4df60fdb2070e1c02f6497c5511b3d6e1d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025657,
+      "datetime": 1745248871
+    },
+    {
+      "title": "Is Johnson & Johnson (JNJ) the Best American Dividend Stock to Buy According to Analysts?",
+      "description": "We recently published a list of the 13 Best American Dividend Stocks to Buy According to Analysts. In this article, we are going to take a look at where Johnson & Johnson (NYSE:JNJ) stands against other best American dividend stocks. Dividend-paying stocks have long benefited investors by delivering consistent and solid returns. During periods of economic […]",
+      "published_utc": "2025-04-21T22:22:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3659c90f63d32b4250322d091bc105802065c4b995d211813cc7eb247275f9da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022762,
+      "datetime": 1745245378
+    },
+    {
+      "title": "How To Build A $500,000 Dividend Portfolio That Could Yield 18.35% In 20 Years",
+      "description": "",
+      "published_utc": "2025-04-21T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e6e3fa32e40da513514f0f565d1f27638b2825a954a29a44461dbeec46ac129",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025125,
+      "datetime": 1745244000
+    },
+    {
+      "title": "Johnson & Johnson unveils highly anticipated and potential practice-changing data in bladder cancer treatment at AUA",
+      "description": "Johnson & Johnson (NYSE: JNJ) announced today that new data from its leading oncology pipeline will be presented at the American Urological Association (AUA) 2025 Annual Meeting, taking place April 26-29 in Las Vegas. Among the highlights are the 12-month duration of response (DOR) data from the Phase 2b Cohort 2 SunRISe-1 study, evaluating TAR-200—an intravesical gemcitabine releasing system—for patients with Bacillus Calmette-Guérin (BCG)—unresponsive, high-risk non-muscle-invasive bladder can",
+      "published_utc": "2025-04-21T21:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e353c94c4c3dfe5cdfb5393e8e1eb40bd0bd27efffa1ddbc5cc82573235c19d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022763,
+      "datetime": 1745242560
+    }
+  ]
+}

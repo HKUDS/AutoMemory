@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "title": "Nvidia The Focus Of Earnings Reports This Week",
+      "description": "All eyes on Nvidia as it reports earnings this week. Does DeepSeek impact NVDA in any form? Wait and watch. US Q4 GDP's second estimate is due Friday. See more here.",
+      "published_utc": "2025-02-22T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=26e80035243ee12f6743073bacabfac4e6c4e777fe7dbf60fd88718b4048a9ca",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132833931,
+      "datetime": 1740222000
+    },
+    {
+      "id": "f3ddbb5aa321336d01c7f960a9b95e895f8a34b45ccdc404084697a43b914ee9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Top Quantum Computing Stocks to Buy in 2025",
+      "author": "Chris Neiger",
+      "published_utc": "2025-02-22T12:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/top-quantum-computing-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808018/gettyimages-1286627625-1200x675-128554e.jpg",
+      "description": "Alphabet and IBM are two companies that are making significant advancements in quantum computing, which could be a $840 billion market in the next 15 years. Alphabet's Willow processor is a major step forward, while IBM has been in the quantum computing space for years and is on track to release a fully error-corrected quantum computer by 2029.",
+      "keywords": [
+        "quantum computing",
+        "Alphabet",
+        "IBM"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has made significant advancements in quantum computing with its Willow processor, which is very fast and has low error rates compared to competitors. The company's stock is also relatively cheap compared to the market, making it a good long-term investment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has made significant advancements in quantum computing with its Willow processor, which is very fast and has low error rates compared to competitors. The company's stock is also relatively cheap compared to the market, making it a good long-term investment."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM has been in the quantum computing space for years, with partnerships and a concrete business in quantum-as-a-service. The company is on track to release a fully error-corrected quantum computer by 2029, which could be a major milestone. IBM's financial stability and relatively inexpensive stock make it a compelling long-term investment in the quantum computing space."
+        }
+      ]
+    },
+    {
+      "id": "2d2c0f84f873a6fbde3ace03fd4f5591cff85f7fabb944ac540401b3c6a56374",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Super Micro Computer Be the AI Comeback Stock of the Year?",
+      "author": "Keithen Drury",
+      "published_utc": "2025-02-22T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/22/will-super-micro-computer-be-the-ai-comeback-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "SMCI",
+        "DELL",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807702/sky-view-of-a-data-center.jpg",
+      "description": "Super Micro Computer (SMCI), a server hardware company, has seen its stock price decline significantly from its all-time high. While the company has some advantages, such as customization and energy-efficient cooling technology, it has faced accounting allegations and delays in filing financial reports. The company's revenue growth has also slowed, leading to reduced guidance. Overall, the author is hesitant to recommend the stock due to the ongoing uncertainties and prefers to invest in other more promising AI stocks.",
+      "keywords": [
+        "Super Micro Computer",
+        "server hardware",
+        "accounting allegations",
+        "revenue growth",
+        "AI stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "SMCI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights several concerns about Super Micro Computer, including accounting allegations, delayed financial filings, and slowing revenue growth, leading the author to be hesitant about recommending the stock."
+        },
+        {
+          "ticker": "DELL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Dell is mentioned as a competitor to Super Micro Computer in the server hardware market, but the article does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IBM is also mentioned as a competitor to Super Micro Computer, but the article does not provide any detailed analysis of the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T11:32:39.464776+00:00",
+    "cache_key": "news_f46a494f1fcba95cbcb293b559c93161",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Agentic AI Market worth $140.80 billion by 2032- Exclusive Report by MarketsandMarkets™",
+      "description": "The Agentic AI Market is projected to grow from USD 13.81 billion in 2025 to USD 140.80 billion by 2032, at a substantial CAGR of 39.3% over the forecast period, according to a new report by MarketsandMarkets™.",
+      "published_utc": "2025-06-25T22:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=797823de2f22dba602acbb7e67a4ca80384875f7873b53b2230bed80d86efc79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135525672,
+      "datetime": 1750860900
+    }
+  ]
+}

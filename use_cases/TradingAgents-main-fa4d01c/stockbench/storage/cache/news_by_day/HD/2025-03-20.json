@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Exceeds Market Returns: Some Facts to Consider",
+      "description": "Home Depot (HD) concluded the recent trading session at $353.42, signifying a +1.1% move from its prior day's close.",
+      "published_utc": "2025-03-20T05:45:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5abfd10324af2a2ea2397984cbc6a0a0f420debaaacdd4c5802176f34f1aa53e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324608,
+      "datetime": 1742420715
+    },
+    {
+      "title": "The Home Depot Announces Exclusive KILZ® Brand Agreement",
+      "description": "The Home Depot and Behr Paint Company have expanded their long-term relationship to exclusively offer KILZ® branded primer products in the United States and Puerto Rico. The Home Depot will become the only home improvement big box retailer to offer KILZ® branded primer products including KILZ Original®, KILZ PVA®, KILZ 2®, KILZ 3 Premium®, KILZ Restoration® and KILZ Mold & Mildew® and more problem-solving primer products and aerosols.",
+      "published_utc": "2025-03-20T04:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e0c076420cdca96a8d54e8eb2b7958c3848d5db72d69657e15e81bc93c001d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324609,
+      "datetime": 1742415000
+    },
+    {
+      "title": "“Not as Bad as Feared” – Jim Cramer Still Believes in Lowe’s (LOW) Potential",
+      "description": "We recently published a list of Was Jim Cramer Right About These 13 Stocks? In this article, we are going to take a look at where Lowe’s Companies Inc. (NYSE:LOW) stands against other stocks that Jim Cramer discusses. During the latest episode of Mad Money, Jim Cramer expressed his frustration over the negative outlook he […]",
+      "published_utc": "2025-03-20T01:12:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba349b0412c93d06ec5e9a44d8ad8a8575a510dff818a9cd00cf1d062187ef53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324610,
+      "datetime": 1742404355
+    },
+    {
+      "title": "Home Depot announces exclusive Kilz® brand agreement",
+      "description": "Home Depot Inc: * THE HOME DEPOT ANNOUNCES EXCLUSIVE KILZ® BRAND AGREEMENTSource text:Further company coverage: ...",
+      "published_utc": "2025-03-20T00:15:57",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bd90f2994c0e7299462cef43c71f7c9e8abc9ad09523c433e764c28dfd24a8ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262204,
+      "datetime": 1742400957
+    }
+  ]
+}

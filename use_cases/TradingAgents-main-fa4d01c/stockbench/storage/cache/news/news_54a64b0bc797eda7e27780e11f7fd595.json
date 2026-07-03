@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon (AMZN) Stock Sinks As Market Gains: Here's Why",
+      "description": "Amazon (AMZN) reachead $182.13 at the closing of the latest trading day, reflecting a -1.48% change compared to its last close.",
+      "published_utc": "2025-04-15T05:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68a9265d84f1094ab278e4b974b5f2eaf9de7c3075b5534b7a2f7ec03401bc51",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917712,
+      "datetime": 1744667117
+    },
+    {
+      "title": "Space race investing: What to know about the growing sector",
+      "description": "The space race is heating up, with Blue Origin, SpaceX (SPAX.PVT), Rocketlab, and Amazon (AMZN) Project Kuiper each making significant strides. Andrew Chanin, co-founder and CEO of ProcureAM, joins Catalysts to discuss new developments, competition, and diversification in the launch industry, as well as space race satellite companies to keep an eye on. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+      "published_utc": "2025-04-15T04:11:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da6d0ac8c700f277ef997cd632b1de9313ce65c5f044daf438fd615bc9c56ba6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917713,
+      "datetime": 1744661469
+    },
+    {
+      "title": "Bullish Notes Issued on Amazon (AMZN), JPMorgan (JPM)",
+      "description": "Investment banks JMP Securities and CFRA today issued bullish notes on Amazon (AMZN) and JPMorgan (JPM), respectively. However, both banks cut their price targets on each of the stocks. JMP Securities’ Bullish Take on AMZN Although AMZN’s growth is likely to slow as its e-commerce business decelerates, its share of the e-commerce market will probably […]",
+      "published_utc": "2025-04-15T02:27:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bf4ffdc0f2a12963a4e645e099bfd9c55667c8cc076c309015d79ea8c1c0e09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917714,
+      "datetime": 1744655261
+    },
+    {
+      "title": "Analysts reboot Amazon stock price targets on tariff trauma",
+      "description": "This is what could happen next to Amazon shares.",
+      "published_utc": "2025-04-15T01:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12a01fdfccf825e71d7ca52592dd1fedbae8b0f71ed6712990675eceda5f776a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133917715,
+      "datetime": 1744651980
+    },
+    {
+      "title": "Reddit, Pinterest, and Other Stocks That Look Like Better Buys Than the Mag 7",
+      "description": "Reddit, Pinterest, and Other Stocks That Look Like Better Buys Than the Mag 7",
+      "published_utc": "2025-04-15T00:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f3d07668fba37212f0b22b6df8665ae058774dbfcb88e003dc572c6f2b63626d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133911629,
+      "datetime": 1744649280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:31:57.610810+00:00",
+    "cache_key": "news_54a64b0bc797eda7e27780e11f7fd595",
+    "count": 5
+  }
+}

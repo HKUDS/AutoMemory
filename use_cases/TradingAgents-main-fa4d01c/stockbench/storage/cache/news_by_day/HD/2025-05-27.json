@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Attention Dividend Investors: 4 Stocks To Build Your Own Income Factory",
+      "description": "",
+      "published_utc": "2025-05-27T15:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=556d3c781ea93b8c0bd8093e690b2617b77440a1b66e1e6f45b4e44a1a512381",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134707658,
+      "datetime": 1748330400
+    },
+    {
+      "title": "3 S&P 500 Stocks Skating on Thin Ice",
+      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+      "published_utc": "2025-05-27T12:34:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=750af8c9c65432a7c19404c304b6cb5d768baf13ba1e2b369980522360350c24",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134715919,
+      "datetime": 1748320482
+    },
+    {
+      "title": "The London Company Large Cap Vs. Russell 1000 Value Q1 2025 Commentary",
+      "description": "The London Company Large Cap portfolio returned 2.4% during the quarter vs. a 2.1% increase in the Russell 1000 Value Index.",
+      "published_utc": "2025-05-27T11:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3085298664a7a4b5965e39798db9df89e0c3ea321333e56504ca864e3a4ae506",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1089284390/image_1089284390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134706317,
+      "datetime": 1748316000
+    }
+  ]
+}

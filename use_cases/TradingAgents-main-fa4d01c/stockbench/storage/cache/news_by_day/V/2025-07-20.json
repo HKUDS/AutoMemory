@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Visa Is Ripe For An Options Straddle (Technical Analysis)",
+      "description": "Visa shows strong fundamentals but mixed technicals, trading in a volatile range with key support and breakout levels in play. Find out why V stock is a hold.",
+      "published_utc": "2025-07-20T18:19:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6bf0113877cc6f5eb282f437b47d400f4ec6872d2002cfc38bb39e5ab2bb886",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/79989029/image_79989029.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136018722,
+      "datetime": 1753006783
+    }
+  ]
+}

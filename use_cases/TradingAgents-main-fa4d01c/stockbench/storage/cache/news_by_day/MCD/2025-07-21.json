@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "In-car payments are set to soar. What banks need to know",
+      "description": "Car manufacturers and apps have made it easier for customers to pay for fuel, parking and other services seamlessly from their cars or smart devices.",
+      "published_utc": "2025-07-21T23:01:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b82f8f5c5b2ee568c32f56a6e40c4cb971196d4cdc166b63428b27bd24afb611",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031420,
+      "datetime": 1753110094
+    },
+    {
+      "title": "Domino's Q2 Earnings Miss, Revenues Beat Estimates, Stock Up",
+      "description": "DPZ stock jumps after second-quarter revenues beat despite an earnings miss, boosted by store growth and aggregator expansion.",
+      "published_utc": "2025-07-21T22:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3485e854a852fdfb669e60679cfdbe2f3b0adfdd5d13aefd32c005085ddc33f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136031421,
+      "datetime": 1753108140
+    }
+  ]
+}

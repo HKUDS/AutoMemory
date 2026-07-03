@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "50894aa3d849ca171815cce68e1adcae60c759b71168c0eaa77e88da479aee3c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages Visa Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – V",
+      "author": "N/A",
+      "published_utc": "2025-01-05T14:19:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/05/3004273/673/en/ROSEN-A-TRUSTED-AND-LEADING-LAW-FIRM-Encourages-Visa-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-First-Filed-by-the-Firm-V.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm is encouraging Visa Inc. investors to secure counsel before the January 21, 2025 lead plaintiff deadline in a securities class action lawsuit. The lawsuit alleges that Visa made materially false and/or misleading statements regarding its compliance with federal antitrust laws.",
+      "keywords": [
+        "Visa Inc.",
+        "securities class action",
+        "antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that Visa Inc. is facing a securities class action lawsuit alleging that the company made false and/or misleading statements regarding its compliance with federal antitrust laws, which suggests potential legal and financial issues for the company."
+        }
+      ]
+    }
+  ]
+}

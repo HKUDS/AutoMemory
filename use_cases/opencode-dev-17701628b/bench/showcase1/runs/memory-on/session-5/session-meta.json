@@ -1,0 +1,21 @@
+{
+  "showcase": "showcase1",
+  "condition": "memory-on",
+  "order": 5,
+  "instance_id": "pytest-dev__pytest-7571",
+  "repo": "pytest-dev/pytest",
+  "base_commit": "422685d0bdc110547535036c1ff398b5e1c44145",
+  "expected_files": [
+    "src/_pytest/logging.py"
+  ],
+  "should_verify": true,
+  "dry_run": false,
+  "python_env": {
+    "path": "/data2/junzhou2/opencode/bench/showcase1/runs/memory-on/session-5/repo/.bench-venv",
+    "bin": "/data2/junzhou2/opencode/bench/showcase1/runs/memory-on/session-5/repo/.bench-venv/bin",
+    "python": "/data2/junzhou2/opencode/bench/showcase1/runs/memory-on/session-5/repo/.bench-venv/bin/python",
+    "sourcePython": "/home/anaconda3/bin/python3",
+    "sourcePythonVersion": "3.9.13",
+    "prepared": true
+  }
+}

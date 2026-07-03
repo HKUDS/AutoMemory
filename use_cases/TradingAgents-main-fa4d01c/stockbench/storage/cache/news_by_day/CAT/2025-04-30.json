@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Microsoft and Meta earnings, April PCE: What to Watch",
+      "description": "Julie Hyman and Josh Lipton preview the biggest market stories and economic data to come out on Wednesday, April 30, including the latest earnings results from Microsoft (MSFT), Meta Platforms (META), Qualcomm (QCOM), Robinhood Markets (HOOD), and Stellantis (STLA), as well as April's Personal Consumption Expenditures (PCE) index. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime here.",
+      "published_utc": "2025-04-30T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d28b5c04c6d0849759c26092fb87f1b549815ad789177a329ac0d50410aa3cc3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134141452,
+      "datetime": 1745967600
+    },
+    {
+      "title": "Best Dividend Aristocrats For May 2025",
+      "description": "Dividend Aristocrats lag behind the S&P 500 in April, but 25 are undervalued with 10% returns potential. Click to read about promising Aristocrats.",
+      "published_utc": "2025-04-30T04:07:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f464ee9b58092cefa3cc5defb8d523f2a517a541963eb0ee91228b354b0a2cd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168720864/image_2168720864.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134137634,
+      "datetime": 1745957242
+    }
+  ]
+}

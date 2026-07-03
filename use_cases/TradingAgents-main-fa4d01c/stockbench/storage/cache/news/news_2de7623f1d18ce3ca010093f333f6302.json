@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Is Trending Stock Amgen Inc. (AMGN) a Buy Now?",
+      "description": "Recently, Zacks.com users have been paying close attention to Amgen (AMGN). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-05-05T21:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=046e05d688739eaa218295a612fc1319e2f7c28730a445e20705aafd47ab9003",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134247110,
+      "datetime": 1746450009
+    },
+    {
+      "title": "AMGN's Key Drugs Repatha, Evenity & Blincyto Drive Q1 Sales Growth",
+      "description": "AMGN's 14 products, including Repatha, Blincyto, Tezspire, Tavneos and Evenity, achieve double-digit volume growth in the first quarter.",
+      "published_utc": "2025-05-05T20:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe0b97868c54834bc1336bd6ae09eb3893a00c4113f2cacef475ab6c14a7b5c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134247111,
+      "datetime": 1746446460
+    },
+    {
+      "title": "Dow's 175-point drop led by losses for shares of Chevron, Apple",
+      "description": "Dow's 175-point drop led by losses for shares of Chevron, Apple",
+      "published_utc": "2025-05-05T17:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7c6587893e1c42f7dccd58999392ceae863d063f4f7506e8567bb3602b838e80",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253775,
+      "datetime": 1746438300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:39:58.622682+00:00",
+    "cache_key": "news_2de7623f1d18ce3ca010093f333f6302",
+    "count": 3
+  }
+}

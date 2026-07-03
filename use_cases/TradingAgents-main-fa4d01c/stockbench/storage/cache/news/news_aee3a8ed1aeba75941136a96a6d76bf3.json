@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "title": "What Moved Markets This Week",
+      "description": "U.S. stocks end a tough week as DeepSeek rattles tech stocks and the Fed Holds interest rates steady. Read more about this week's major events on Wall Street.",
+      "published_utc": "2025-02-01T14:38:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4c5af02929f10b7ead3e6e81da69934cd05a6efeb931ba87d28f5c1e6bafd2a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1483074556/image_1483074556.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132509831,
+      "datetime": 1738391928
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of February 2",
+      "description": "Stay informed on dividend activity with a weekly summary for Dividend Champions, Contenders, and Challengers, including changes and ex-dividend dates.",
+      "published_utc": "2025-02-01T08:12:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25ec61045971fa19ebabf813af25e68ea683498a7e45b063b4d65b5a9fc96163",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132508015,
+      "datetime": 1738368764
+    },
+    {
+      "id": "b4e1cb67032c247702816d21aae28c396c99ede82427dd37dd37ff3ebab61f31",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Has IBM Stock Become a Buy?",
+      "author": "Will Healy",
+      "published_utc": "2025-02-02T23:02:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/has-ibm-stock-become-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806028/technician-works-inside-data-center.jpg",
+      "description": "IBM's stock surged 14% after its Q4 and 2024 earnings report, as the company's shift to hybrid cloud and AI-oriented software helped counter the stagnant performance of its legacy segments. While the company's outlook is positive, investors will have to weigh the higher valuation against the potential for continued growth.",
+      "keywords": [
+        "IBM",
+        "hybrid cloud",
+        "AI",
+        "software",
+        "consulting",
+        "infrastructure",
+        "dividend"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IBM's successful transformation under CEO Arvind Krishna, with the company's focus on hybrid cloud and AI-oriented software driving strong performance and a 14% stock surge. The company's outlook for 2025 is also positive, with expected revenue growth and increased free cash flow."
+        }
+      ]
+    },
+    {
+      "id": "c2aa6126426e6199f60bebe10e154acb6b8d9cf6cbcc3968f45034175b8b3e30",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is IBM Stock a Buy at an All-Time High?",
+      "author": "Timothy Green",
+      "published_utc": "2025-02-02T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/is-ibm-stock-a-buy-at-an-all-time-high/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805910/gettyimages-470286250.jpg",
+      "description": "IBM's transformation efforts over the past decade have finally started to pay off, with the company's software and consulting businesses driving growth. The stock has soared to an all-time high, and long-term investors may want to consider adding IBM to their portfolios.",
+      "keywords": [
+        "IBM",
+        "cloud computing",
+        "AI",
+        "software",
+        "consulting",
+        "mainframe"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM's transformation efforts, including its focus on high-margin software and its successful acquisition of Red Hat, have led to consistent and sustainable growth. The company's revenue growth is accelerating, and its hybrid cloud and AI software platforms are at the center of its best long-term growth opportunities."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon's AWS cloud platform is mentioned as a partner for IBM's software and consulting services, but the article does not provide a strong opinion on Amazon itself."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft's Azure cloud platform is also mentioned as a partner for IBM's software and consulting services, but the article does not provide a strong opinion on Microsoft itself."
+        }
+      ]
+    },
+    {
+      "id": "b5d12636242d1ce2eb2d00950934db725dcac6d91ed8a71732947a8bc9d0561e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Which Quantum Computing Stocks Are Most Likely to Make You a Millionaire?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-02T09:47:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/which-quantum-computing-stocks-are-most-likely-to/?source=iedfolrf0000001",
+      "tickers": [
+        "RGTI",
+        "RGTIW",
+        "QUBT",
+        "QBTS",
+        "QBTS.WS",
+        "IONQ",
+        "IONQ.WS",
+        "ARQQ",
+        "ARQQW",
+        "LAES",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "IBM",
+        "HON"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805952/person-with-100-bills-money-flying.jpg",
+      "description": "The article discusses high-risk and potentially high-reward quantum computing stocks, including Rigetti Computing, D-Wave Quantum, IonQ, and Quantum Computing, as well as established players like Alphabet, Microsoft, IBM, and Honeywell. It suggests that while these stocks could be millionaire makers, they also come with significant volatility and risk.",
+      "keywords": [
+        "quantum computing",
+        "stocks",
+        "investing",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "RGTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Rigetti Computing's skyrocketing share price, which has increased by at least 1,000% over the last 12 months, and its aim to be a leader in superconducting quantum computing."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Rigetti Computing's skyrocketing share price, which has increased by at least 1,000% over the last 12 months, and its aim to be a leader in superconducting quantum computing."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Quantum Computing, a company focused on developing photonic integrated circuits for quantum computers, has also seen a similar gain in its share price over the last 12 months."
+        },
+        {
+          "ticker": "QBTS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that D-Wave Quantum's stock has jumped close to 590% over the last 12 months, and the company claims to have the world's largest quantum computer."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that D-Wave Quantum's stock has jumped close to 590% over the last 12 months, and the company claims to have the world's largest quantum computer."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that IonQ already markets the Forte and Tempo quantum computers and has landed collaborations with major companies such as Ansys and AstraZeneca."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that IonQ already markets the Forte and Tempo quantum computers and has landed collaborations with major companies such as Ansys and AstraZeneca."
+        },
+        {
+          "ticker": "ARQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Arqit Quantum, a company that provides solutions to protect technology from quantum computing threats, has also vaulted higher, although not at the same level as the other quantum computing stocks mentioned."
+        },
+        {
+          "ticker": "ARQQW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Arqit Quantum, a company that provides solutions to protect technology from quantum computing threats, has also vaulted higher, although not at the same level as the other quantum computing stocks mentioned."
+        },
+        {
+          "ticker": "LAES",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Sealsq, another company that provides quantum-resistant microcontrollers, has also seen its stock price increase, although not as significantly as the other quantum computing stocks."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet (Google) appears to be the best bet among the established players to make $1 million over time, citing the company's dominance in search, the growth of Google Cloud, and its goal of building a useful, error-corrected quantum computer by the end of the decade."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet (Google) appears to be the best bet among the established players to make $1 million over time, citing the company's dominance in search, the growth of Google Cloud, and its goal of building a useful, error-corrected quantum computer by the end of the decade."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft's Azure Quantum is a cloud-based quantum computing service, indicating the company's involvement in the quantum computing space."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that IBM is actively developing quantum computing technology and claims to have the largest quantum computing fleet in the world with its Qiskit platform."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Honeywell has merged its quantum computing unit with Cambridge Quantum to form Quantinuum, which it bills as the world's largest integrated quantum computing company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T14:58:08.209346+00:00",
+    "cache_key": "news_aee3a8ed1aeba75941136a96a6d76bf3",
+    "count": 5
+  }
+}

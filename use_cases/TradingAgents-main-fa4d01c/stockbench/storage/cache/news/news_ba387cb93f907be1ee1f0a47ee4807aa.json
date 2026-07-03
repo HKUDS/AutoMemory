@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Dow's 100-point rally highlighted by gains in Boeing, Amazon.com Inc. shares",
+      "description": "Dow's 100-point rally highlighted by gains in Boeing, Amazon.com Inc. shares",
+      "published_utc": "2025-06-09T21:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e4edeffb273d6332150781c78ea4984777be7b0d33c6df94cdbe0a0f46ba6207",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135150093,
+      "datetime": 1749477120
+    },
+    {
+      "title": "Caterpillar Volumes Keep Sliding: Is It Time for Investors to Worry?",
+      "description": "CAT sees sixth straight quarter of volume declines as demand weakens across key segments and macro pressures intensify.",
+      "published_utc": "2025-06-09T21:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b0d0dc3feb236a552f42e542ef80247cf495685226969c97ee7909c50003e98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135133093,
+      "datetime": 1749474660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:53:57.900508+00:00",
+    "cache_key": "news_ba387cb93f907be1ee1f0a47ee4807aa",
+    "count": 2
+  }
+}

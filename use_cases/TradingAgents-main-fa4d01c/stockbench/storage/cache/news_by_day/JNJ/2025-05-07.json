@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow up 350 points on gains in Walt Disney, Honeywell shares",
+      "description": "Dow up 350 points on gains in Walt Disney, Honeywell shares",
+      "published_utc": "2025-05-07T22:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ee0a93b7dbd5e528027e36813a1f53b04188926074b3064774b8dbd9721405aa",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134299788,
+      "datetime": 1746629880
+    }
+  ]
+}

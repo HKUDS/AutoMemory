@@ -1,0 +1,275 @@
+{
+  "items": [
+    {
+      "title": "I Hitched a Ride in San Francisco’s Newest Robotaxi",
+      "description": "I Hitched a Ride in San Francisco’s Newest Robotaxi",
+      "published_utc": "2025-03-15T13:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=705e008cab81814bd3803663c9bc5448e61aa995b087500ce35606f22095fb84",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133212964,
+      "datetime": 1742016600
+    },
+    {
+      "id": "ffa7a792e7db53b1af53704fd1ec765c2747b123881b95d5ccdcdfa9ac27528c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Super Stock That Could Join Nvidia, Apple, Microsoft, Alphabet, Amazon, and Meta in the $1 Trillion Club",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-15T22:28:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/15/1-super-stock-join-nvidia-apple-amazon-1-trillion/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "META",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810875/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
+      "description": "Oracle could be the next company to join the $1 trillion club, thanks to its strong artificial intelligence infrastructure and growing demand for its cloud services.",
+      "keywords": [
+        "Oracle",
+        "AI",
+        "cloud computing",
+        "data centers"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is building a large cluster of Nvidia's powerful Blackwell GB200 GPUs, which are well-suited for AI workloads."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as the first company to reach a $1 trillion valuation, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the companies that have joined the $1 trillion club, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the $1 trillion club, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the $1 trillion club, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the companies that have joined the $1 trillion club, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms (formerly Facebook) is mentioned as one of the companies that have joined the $1 trillion club, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Oracle has the potential to join the $1 trillion club in the coming years, thanks to its strong AI infrastructure and growing cloud services business."
+        }
+      ]
+    },
+    {
+      "id": "d3741dc3d688bfbdee93ad57056cd51dc4a0841a0b27416615c392055e0c7f2d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons Taiwan Semiconductor Is a Must-Buy for Long-Term Investors",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-15T14:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/15/3-reasons-taiwan-semiconductor-is-a-must-buy-for-l/?source=iedfolrf0000001",
+      "tickers": [
+        "TSM",
+        "NVDA",
+        "AVGO",
+        "AMD",
+        "AAPL",
+        "INTC",
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810897/gettyimages-1802285109.jpg",
+      "description": "Taiwan Semiconductor Manufacturing (TSM) is the world's largest contract manufacturer of semiconductors, benefiting from the growing demand for advanced chips in AI infrastructure and high-performance computing. Despite the recent market sell-off, TSM's strong growth, attractive valuation, and technological leadership make it a solid long-term investment.",
+      "keywords": [
+        "Taiwan Semiconductor Manufacturing",
+        "semiconductors",
+        "AI infrastructure",
+        "high-performance computing"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Taiwan Semiconductor Manufacturing's (TSM) strong position as the world's largest contract manufacturer of semiconductors, its technological leadership in advanced chip manufacturing, and its attractive valuation despite the recent market sell-off. These factors make TSM a solid long-term investment opportunity."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top chip designers that are customers of Taiwan Semiconductor Manufacturing, indicating the company's importance in the semiconductor industry."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Broadcom as one of the top chip designers that are customers of Taiwan Semiconductor Manufacturing, highlighting the company's significance in the semiconductor industry."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Advanced Micro Devices as one of the top chip designers that are customers of Taiwan Semiconductor Manufacturing, indicating the company's importance in the semiconductor industry."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Apple is one of the top chip designers that are customers of Taiwan Semiconductor Manufacturing, highlighting the company's significance in the semiconductor industry."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Intel, as one of TSMC's main foundry rivals, has struggled to keep up with TSMC's technological lead, indicating a negative sentiment towards Intel's performance in the semiconductor industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Amazon, as one of the big three cloud computing companies, plans to spend $100 billion on AI-focused capital expenditures, indicating the growing demand for advanced chips that benefits TSMC."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Microsoft, as one of the big three cloud computing companies, plans to spend $80 billion on AI-focused capital expenditures, suggesting the growing demand for advanced chips that benefits TSMC."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet, as one of the big three cloud computing companies, plans to spend $75 billion on AI-focused capital expenditures, indicating the growing demand for advanced chips that benefits TSMC."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet, as one of the big three cloud computing companies, plans to spend $75 billion on AI-focused capital expenditures, indicating the growing demand for advanced chips that benefits TSMC."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Meta Platforms plans to spend up to $65 billion in AI-related capital expenditures, suggesting the growing demand for advanced chips that benefits TSMC."
+        }
+      ]
+    },
+    {
+      "id": "969f45b737221e52931f51a4091944da077a0a1c77bad305c78a7b50d71c52e9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Think It's Too Late to Buy MercadoLibre Stock? Here's the Biggest Reason Why There's Still Time.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-15T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/15/think-too-late-mercadolibre-stock-still-time/?source=iedfolrf0000001",
+      "tickers": [
+        "MELI",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810931/consumer-looks-to-buy-online.jpg",
+      "description": "MercadoLibre, a Latin American e-commerce and fintech company, has seen significant growth since its IPO in 2007. Despite its high valuation, analysts believe the company still has room for growth as it continues to expand its services and improve the lives of Latin Americans.",
+      "keywords": [
+        "MercadoLibre",
+        "e-commerce",
+        "fintech",
+        "Latin America"
+      ],
+      "insights": [
+        {
+          "ticker": "MELI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights MercadoLibre's strong growth, with 37% revenue growth in 2024 and a forecast of 25% revenue increase in 2025 and 23% the following year. It also notes that the company's market capitalization is a small fraction of Amazon's, suggesting it still has room for further growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares MercadoLibre's market capitalization to Amazon's, but does not provide any specific insights or sentiment about Amazon itself."
+        }
+      ]
+    },
+    {
+      "id": "0834f93b35ef8f750319585dc5c996f5ced6109d3cf40dd1cce65717353c4a88",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Warren Buffett's Artificial Intelligence (AI) Investing Strategy May Surprise You",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-15T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/15/billionaire-warren-buffetts-ai-investing/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810118/gettyimages-2170890006-1200x675-128554e.jpg",
+      "description": "Warren Buffett, known for avoiding tech stocks, has made several multibillion-dollar bets on companies with exposure to the AI revolution, such as Apple and Amazon. He is not directly investing in AI, but rather in businesses that can benefit from AI's growth, both directly and indirectly.",
+      "keywords": [
+        "Warren Buffett",
+        "Artificial Intelligence",
+        "Apple",
+        "Amazon",
+        "Investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's services revenue, which includes revenue streams exposed to the rise of AI, has been steadily increasing. Additionally, Apple's AI-powered features like Siri and Apple Intelligence are increasing the attractiveness of its hardware, indirectly generating more revenue."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's Amazon Web Services (AWS) division, which provides the distributed compute power required for AI applications and services, is experiencing significant growth as the AI industry takes off."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Warren Buffett's holding company, Berkshire Hathaway, has made several multibillion-dollar bets on companies with exposure to the AI revolution, indicating his belief in the potential of AI to drive growth."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Warren Buffett's holding company, Berkshire Hathaway, has made several multibillion-dollar bets on companies with exposure to the AI revolution, indicating his belief in the potential of AI to drive growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:17:58.469061+00:00",
+    "cache_key": "news_3ff8ffeca48df64bdaf875d2f63e4e96",
+    "count": 5
+  }
+}

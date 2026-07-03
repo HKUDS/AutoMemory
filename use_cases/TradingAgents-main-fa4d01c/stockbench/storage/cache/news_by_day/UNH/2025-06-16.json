@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Watch the Surge of Insider Buying at UnitedHealth Group",
+      "description": "A look at a beaten-down stock with high insider buys",
+      "published_utc": "2025-06-16T23:40:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d80d1b53f4608b3f5d0b171d088dd210a0ec9e4548c4837bcb3aceb566a5ade9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311645,
+      "datetime": 1750088441
+    },
+    {
+      "title": "Q1 Earnings Outperformers: Elevance Health (NYSE:ELV) And The Rest Of The Health Insurance Providers Stocks",
+      "description": "The end of an earnings season can be a great time to discover new stocks and assess how companies are handling the current business environment. Let’s take a look at how Elevance Health (NYSE:ELV) and the rest of the health insurance providers stocks fared in Q1.",
+      "published_utc": "2025-06-16T11:36:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8bc0bd95ac565e9ac566a0a366d3dfc824e2ad1d713bccfd37edf45e7979447",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300171,
+      "datetime": 1750044961
+    },
+    {
+      "title": "Q1 Earnings Highs And Lows: Cigna (NYSE:CI) Vs The Rest Of The Health Insurance Providers Stocks",
+      "description": "As the Q1 earnings season wraps, let’s dig into this quarter’s best and worst performers in the health insurance providers industry, including Cigna (NYSE:CI) and its peers.",
+      "published_utc": "2025-06-16T11:33:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3f2bdfd9d0de566d85828c06473048aec2c3ec7b13ed752703087f6b9548d03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135300172,
+      "datetime": 1750044787
+    }
+  ]
+}

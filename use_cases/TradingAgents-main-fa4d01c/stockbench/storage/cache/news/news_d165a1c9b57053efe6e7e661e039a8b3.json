@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Securities That Banks Are Backing Away From: Credit Weekly",
+      "description": "(Bloomberg) -- US banks, among the few companies that still sell preferred shares, are following JPMorgan Chase & Co.’s lead and retreating from the securities, even as investors are eager to buy them. Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsTrump’s Gilded Design Style May Be Gaudy. But Don’t Call it ‘Rococo.’Massachusetts to Follow NYC in Making Landlords Pay Broker FeesNYC Commutes Resume After Midtown Bus Terminal Crash ChaosWhat Gothenburg Got Out o",
+      "published_utc": "2025-07-06T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3be5721e7bb76d52f23e31607eea8559fc7af5df3af5aa04c98af83f1d912616",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135767855,
+      "datetime": 1751742000
+    },
+    {
+      "title": "Jim Cramer Calls Goldman Sachs “Cramer fave”",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the22 stocks Jim Cramer recently talked about. Cramer mentioned that he is “happy with” having a position in the company stock for his trust, as he commented: “Goldman Sachs, which we own for the Charitable Trust… let’s just say it’s had a smaller dividend payout than […]",
+      "published_utc": "2025-07-05T22:43:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebe7855967bfa94d2efb3241b707f28ad05a53c6d0aed298e059844cc1e41088",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135770476,
+      "datetime": 1751726629
+    },
+    {
+      "title": "OPEC+ Will Boost Supply Even Faster With Larger August Hike",
+      "description": "(Bloomberg) -- OPEC+ will increase oil production even more rapidly than expected next month, as the group led by Saudi Arabia seeks to capitalize on strong summer demand in its move to reclaim market share.Most Read from BloombergForeign Buyers Swoop on Cape Town Homes, Pricing Out LocalsMassachusetts to Follow NYC in Making Landlords Pay Broker FeesNYC Commutes Resume After Midtown Bus Terminal Crash ChaosStruggling Downtowns Are Looking to Lure New CrowdsTrump’s Gilded Design Style May Be Gau",
+      "published_utc": "2025-07-05T19:01:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be89159bd0a225cec59219ad085c5a62c3f3fd45833fbf0883efbac2bd71428c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135766113,
+      "datetime": 1751713318
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:03:22.320370+00:00",
+    "cache_key": "news_d165a1c9b57053efe6e7e661e039a8b3",
+    "count": 3
+  }
+}

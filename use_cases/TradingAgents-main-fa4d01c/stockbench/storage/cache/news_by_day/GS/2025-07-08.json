@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "description": "Goldman Sachs (GS) closed the most recent trading day at $710.93, moving 1.76% from the previous trading session.",
+      "published_utc": "2025-07-08T05:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4de3b30f393b97e72a10bd3247429d9f732cb7aa452a31be8d642df2d45b07ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792580,
+      "datetime": 1751925005
+    }
+  ]
+}

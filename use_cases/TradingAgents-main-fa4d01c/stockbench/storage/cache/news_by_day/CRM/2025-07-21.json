@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Oakmark Select Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-21T01:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3fef4200e7405ca690fcf37ef9c3cbe189e0be4277b5c2c1f865c0f605b5a4f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136020731,
+      "datetime": 1753030800
+    },
+    {
+      "title": "Oakmark Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-21T01:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a704c0d50323220652a225d10937a23ec393b4e23fd0ee5dfdb576297e05fd63",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136020726,
+      "datetime": 1753030800
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Boeing Company (BA) “Has Been Breaking Out,” Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. The Boeing Company (NYSE:BA) is one of the stocks Jim Cramer recently discussed. The Boeing Company (NYSE:BA) has seen its shares turn the tables on the bearishness in 2025. While production woes and the resulting delivery problems led the shares […]",
+      "published_utc": "2025-07-13T02:34:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebdafa5f24232eb6eb6a5d32593a864223537f4ecdb745fe7918a11f257cba23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135910764,
+      "datetime": 1752345292
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Davidson Downgrades Salesforce, Inc. (CRM) to Sell: Jim Cramer Says ‘It Was Very Funny’",
+      "description": "We recently published an article titled Jim Cramer Says AI Is Back & Discusses These 10 Stocks. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other stocks. In a recent appearance on CNBC’s Squawk on the Street, Jim Cramer commented on how market sentiment towards AI […]",
+      "published_utc": "2025-05-07T23:42:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfacbb658c8740d3a86e6d2c536736452423f5686850de78a3563f1589794a85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134316733,
+      "datetime": 1746632522
+    }
+  ]
+}

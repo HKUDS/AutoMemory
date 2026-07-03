@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Why UNH Deserves a Spot in Your Dividend Watchlist",
+      "description": "UnitedHealth Group Incorporated (NYSE:UNH) is a major health insurer and one of the Best Stocks to Buy for Dividends. The company has faced setbacks this year due to billing concerns and rising costs, pushing its stock to multi-year lows. The stock is down by over 40% in 2025, so far. However, despite near-term challenges, the […]",
+      "published_utc": "2025-06-28T14:21:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df342a8476352a3fcd9b3d935d69a3cf73e8f0c576a892733ab1a5ad294b8e5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135615160,
+      "datetime": 1751091693
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T08:01:17.701826+00:00",
+    "cache_key": "news_9fe4b818563c9680064b5e666f3cb852",
+    "count": 1
+  }
+}

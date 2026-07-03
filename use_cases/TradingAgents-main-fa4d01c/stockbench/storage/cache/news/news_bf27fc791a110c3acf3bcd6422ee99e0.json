@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon, Salesforce, Uber: Trending tickers",
+      "description": "Here are some stocks on the move on Monday, April 21. Shares of Amazon (AMZN) are slipping. Raymond James downgraded its rating on the stock to Outperform from Strong Buy. Salesforce (CRM) shares were downgraded to Underperform by DA Davidson, while Guggenheim upgraded the stock to Neutral. The Federal Trade Commission has sued Uber (UBER) accusing the company of deceptive billing practices in relation to its Uber One service. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-22T03:52:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ceec9dd99fb801fdefd647ca6df932fabfcad12ba215b3fae4f584d43745553",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026208,
+      "datetime": 1745265144
+    },
+    {
+      "title": "Guggenheim Upgrades Salesforce to Neutral After Stock Slide",
+      "description": "Guggenheim upgraded Salesforce to Neutral from Sell.",
+      "published_utc": "2025-04-22T02:44:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d5ed4eea17cc641ac4a6ed132af6a38d89cbd64a53629d1996b9065bcd3e167",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026333,
+      "datetime": 1745261060
+    },
+    {
+      "title": "Salesforce, Inc. (CRM): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Salesforce, Inc. (CRM) on Substack by Quality Equities. In this article, we will summarize the bulls’ thesis on CRM. Salesforce, Inc. (CRM)’s share was trading at $247.26 as of April 17th. CRM’s trailing and forward P/E were 38.88 and 22.22 respectively according to Yahoo Finance. The U.S. stock market has […]",
+      "published_utc": "2025-04-22T01:15:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=429d19f6787636afa1f70eb238c159bb1f4c13beb58f5b023c5dd2e2213035c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026334,
+      "datetime": 1745255732
+    },
+    {
+      "title": "Salesforce, Inc. (CRM): Among Jeff Smith’s Top Activist Targets",
+      "description": "We recently published a list of Jeff Smith’s Top 10 Activist Targets and Their Returns Compared to the S&P 500. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other Jeff Smith’s top activist targets. Jeff Smith is arguably the “most feared man” in corporate America, having […]",
+      "published_utc": "2025-04-22T01:06:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=577dfad02cf18537aa84189bf3d366278459a09e50bc90757cbb127fb79efe84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134026336,
+      "datetime": 1745255185
+    },
+    {
+      "title": "RH, Boot Barn, Ollie's, Universal Health Services, and Salesforce Shares Plummet, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after President Trump criticized the Federal Reserve's approach to interest rate cuts, warning that the pace was slow and could hinder economic growth. Trump's comments added pressure to an already sensitive market, raising concerns about political interference in monetary policy.",
+      "published_utc": "2025-04-22T00:38:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f10b936f654c861c4eacdf90bc620012c98e1f92e277a968633f482e04e62932",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134024278,
+      "datetime": 1745253532
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:34:33.740325+00:00",
+    "cache_key": "news_bf27fc791a110c3acf3bcd6422ee99e0",
+    "count": 5
+  }
+}

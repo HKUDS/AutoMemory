@@ -1,0 +1,96 @@
+{
+  "trace_id": "trace_09_goal_completion_and_lab_trend",
+  "description": "Tests (1) goal completion recognition: weight goal set at target 185 lbs, user reports progressive weight loss across multiple turns, ultimately hitting 183 lbs \u2014 system should mark goal as achieved/completed; (2) lab value trend: cholesterol was reported as 224 in an earlier turn, then 187 in a later turn \u2014 most recent (187) should be present in recall; (3) exercise goal mid-trace update (partial \u2192 full compliance). Failure modes: goal not marked complete when target is reached; old lab values overwrite or coexist ambiguously with new ones; partial progress notes lost.",
+  "n_turns": 22,
+  "n_queries": 6,
+  "scores": {
+    "support_coverage": 1.0,
+    "query_success": 1.0
+  },
+  "query_results": [
+    {
+      "query": "weight goal",
+      "expected_information": [
+        "/183|achieved|completed|met|goal.*reached/",
+        "185"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Hyperlipidemia (borderline) \u2014 diagnosed implied ~2024-11 (lab results), status: active (improved), lipid panel recheck in 6 months; lifestyle modifications (exercise, dietary changes) clearly effective; LDL trending downward\n\n## Medications\n(No entries yet)\n\n## Allergies & Adverse Reactions\n(No entries yet)\n\n## Recent Care Timeline\n- ~2024-11: Bloodwork panel \u2014 Total cholesterol 224 mg/dL, LDL "
+    },
+    {
+      "query": "latest weight",
+      "expected_information": [
+        "183",
+        "/lbs|pounds|weight/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Hyperlipidemia (borderline) \u2014 diagnosed implied ~2024-11 (lab results), status: active (improved), lipid panel recheck in 6 months; lifestyle modifications (exercise, dietary changes) clearly effective; LDL trending downward\n\n## Medications\n(No entries yet)\n\n## Allergies & Adverse Reactions\n(No entries yet)\n\n## Recent Care Timeline\n- ~2024-11: Bloodwork panel \u2014 Total cholesterol 224 mg/dL, LDL "
+    },
+    {
+      "query": "exercise goal",
+      "expected_information": [
+        "/5.*week|five.*week|5 days/",
+        "/achieved|met|goal|consistent/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Hyperlipidemia (borderline) \u2014 diagnosed implied ~2024-11 (lab results), status: active (improved), lipid panel recheck in 6 months; lifestyle modifications (exercise, dietary changes) clearly effective; LDL trending downward\n\n## Medications\n(No entries yet)\n\n## Allergies & Adverse Reactions\n(No entries yet)\n\n## Recent Care Timeline\n- ~2024-11: Bloodwork panel \u2014 Total cholesterol 224 mg/dL, LDL "
+    },
+    {
+      "query": "cholesterol",
+      "expected_information": [
+        "192",
+        "/improved|normal|LDL/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Hyperlipidemia (borderline) \u2014 diagnosed implied ~2024-11 (lab results), status: active (improved), lipid panel recheck in 6 months; lifestyle modifications (exercise, dietary changes) clearly effective; LDL trending downward\n\n## Medications\n(No entries yet)\n\n## Allergies & Adverse Reactions\n(No entries yet)\n\n## Recent Care Timeline\n- ~2024-11: Bloodwork panel \u2014 Total cholesterol 224 mg/dL, LDL "
+    },
+    {
+      "query": "latest cholesterol",
+      "expected_information": [
+        "192",
+        "/116|LDL/"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Hyperlipidemia (borderline) \u2014 diagnosed implied ~2024-11 (lab results), status: active (improved), lipid panel recheck in 6 months; lifestyle modifications (exercise, dietary changes) clearly effective; LDL trending downward\n\n## Medications\n(No entries yet)\n\n## Allergies & Adverse Reactions\n(No entries yet)\n\n## Recent Care Timeline\n- ~2024-11: Bloodwork panel \u2014 Total cholesterol 224 mg/dL, LDL "
+    },
+    {
+      "query": "starting weight and goal",
+      "expected_information": [
+        "212",
+        "185"
+      ],
+      "item_scores": [
+        1,
+        1
+      ],
+      "support_coverage": 1.0,
+      "query_success": 1,
+      "recall_snippet": "# Health Profile\n\n## Basic Info\n- Date of birth:\n- Blood type:\n- Emergency contact:\n\n## Problem List\n- Hyperlipidemia (borderline) \u2014 diagnosed implied ~2024-11 (lab results), status: active (improved), lipid panel recheck in 6 months; lifestyle modifications (exercise, dietary changes) clearly effective; LDL trending downward\n\n## Medications\n(No entries yet)\n\n## Allergies & Adverse Reactions\n(No entries yet)\n\n## Recent Care Timeline\n- ~2024-11: Bloodwork panel \u2014 Total cholesterol 224 mg/dL, LDL "
+    }
+  ]
+}

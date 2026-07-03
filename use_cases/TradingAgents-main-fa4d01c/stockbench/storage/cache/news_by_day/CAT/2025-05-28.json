@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Best Dividend Aristocrats For June 2025",
+      "description": "Investors should focus on Aristocrats with strong dividend growth, undervaluation, and high expected returns, but conduct their own due diligence. See more here.",
+      "published_utc": "2025-05-28T06:15:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ee1dcf91ffbd2bdde319f8234879fe63c615bdeedf7461a4dbb0c871beb6455",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2173105185/image_2173105185.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134736842,
+      "datetime": 1748384108
+    }
+  ]
+}

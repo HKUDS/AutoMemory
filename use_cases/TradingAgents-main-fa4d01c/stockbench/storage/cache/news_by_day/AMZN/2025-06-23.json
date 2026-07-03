@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Which AI Stocks Are Set to Soar in the Second Half?",
+      "description": "Artificial intelligence is an area of enormous potential for companies and investors.  Artificial intelligence (AI) stocks skyrocketed in 2024 amid excitement about this technology that could revolutionize businesses, saving time and money and leading to important discoveries.  Against this backdrop, Nvidia (NASDAQ: NVDA), Apple (NASDAQ: AAPL), and Amazon (NASDAQ: AMZN) are set to soar in the second half.",
+      "published_utc": "2025-06-23T06:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a0e5b71e9735e163ff1a28b587af377e6e1582427530818b933bc9a52ccd27b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135467444,
+      "datetime": 1750630200
+    },
+    {
+      "title": "Factbox-How Tesla's robotaxi efforts stack up against Waymo and Zoox",
+      "description": "Electric car maker Tesla started a trial of its long-awaited robotaxi service in Austin, Texas, on Sunday, the first step toward what could be a showdown with Alphabet's Waymo, the only player currently offering fully autonomous paid rides in the United States. Tesla Chief Executive Elon Musk has started off with about 10 Model Ys and promised to focus on safety. He says Tesla could scale quickly, and he plans a separate robotaxi vehicle.",
+      "published_utc": "2025-06-23T05:22:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d30bad71ce9841dcf2f723d41b8ec197147a4ab2cfa14da71331702dee15f483",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135467909,
+      "datetime": 1750627342
+    },
+    {
+      "title": "Amazon data centres to consume ‘as much electricity to power Burnley’",
+      "description": "A complex of huge data centres being built by Amazon in Britain will consume as much electricity needed to power a town the size of Burnley, campaigners have claimed.",
+      "published_utc": "2025-06-23T01:09:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f68b51cd79b8468d008851caad40e6bb29c97d4155573865b1e929a44c2e1269",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135466470,
+      "datetime": 1750612163
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Alphabet: Cloud Growth Uncertainty And Declining Management Sentiment Concern, But It's Still Attractive",
+      "description": "Alphabet's Q4 results highlight mixed performance: EPS beat, revenue missed. Read here for growth challenges, $75B capex concerns, and shifting market sentiment.",
+      "published_utc": "2025-02-26T03:21:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=371db8bd37926b11cc769cc77821ddee8f8fe3a80410d604d931465cf164cd6e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451451810/image_1451451810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132874045,
+      "datetime": 1740511277
+    }
+  ]
+}

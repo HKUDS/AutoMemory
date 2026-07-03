@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (NYSE:PG) Appoints Former Eaton CEO Craig Arnold to Board",
+      "description": "Procter & Gamble (NYSE:PG) has appointed Craig Arnold to its Board of Directors, bringing his extensive experience in corporate leadership to the company. This change aligns with the market's upward trend during the past month, where the market rose 12% over the year. The company's share price rose 3%, reflecting general market optimism, partly driven by broader economic factors, such as positive sentiment from U.S.-China trade talks. While Arnold's appointment adds to the company's strategic...",
+      "published_utc": "2025-06-11T01:21:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74abe18cc53e54b8ae4f23d9d6c19694899240a2af26d89dbd87cdef511cb0ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171139,
+      "datetime": 1749576111
+    }
+  ]
+}

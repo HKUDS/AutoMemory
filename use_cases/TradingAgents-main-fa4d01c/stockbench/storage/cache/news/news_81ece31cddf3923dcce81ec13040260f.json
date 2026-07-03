@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Flipping Burgers - McDonald's To Restaurant Brands International",
+      "description": "Restaurant Brands' (QSR) current lower valuation and higher growth potential make it an attractive buy. See here for a comparison with McDonald's (MCD).",
+      "published_utc": "2025-04-29T07:01:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aa3eef3af23b71d558e46c3abadd4c3e112eda3f6e4b759265a822be7d1697f9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/488106782/image_488106782.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134120831,
+      "datetime": 1745881286
+    },
+    {
+      "title": "Top Analyst Reports for Microsoft, Broadcom & McDonald's",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Microsoft Corporation (MSFT), Broadcom Inc. (AVGO) and McDonald's Corporation (MCD), as well as a micro-cap stock Kingsway Financial Services Inc. (KFS).",
+      "published_utc": "2025-04-29T06:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e18c72bfb9785a8eb1392f2735f6dcc849c5c7c57630ce394dc60e98d05dcca5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134130825,
+      "datetime": 1745878920
+    },
+    {
+      "title": "McDonald's (MCD) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
+      "description": "Get a deeper insight into the potential performance of McDonald's (MCD) for the quarter ended March 2025 by going beyond Wall Street's top -and-bottom-line estimates and examining the estimates for some of its key metrics.",
+      "published_utc": "2025-04-28T21:15:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcc324b75654016ea850677fe1a43900b72eda2f8f75a8e74daac72162b87843",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115133,
+      "datetime": 1745846153
+    },
+    {
+      "title": "Why Investors Need to Take Advantage of These 2 Retail-Wholesale Stocks Now",
+      "description": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+      "published_utc": "2025-04-28T21:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=071bfce6ba0058f4ed061a0c8ca08b32e4fba84784dc28cc97cb365d024bf153",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115134,
+      "datetime": 1745845211
+    },
+    {
+      "title": "CPRL to invest $150m in 600 new McDonald’s in India by 2030",
+      "description": "The growth plan involves updating current stores and rolling out the \"experience of the future\" concept.",
+      "published_utc": "2025-04-28T17:27:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5b2cc3496f63e0dd2d4434291c5317cb46725a2dfa0b5332d2d00442c781727",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115135,
+      "datetime": 1745832428
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:37:14.484165+00:00",
+    "cache_key": "news_81ece31cddf3923dcce81ec13040260f",
+    "count": 5
+  }
+}

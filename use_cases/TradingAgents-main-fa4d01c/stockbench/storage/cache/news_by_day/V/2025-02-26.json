@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "title": "Silver Bullet Data revenue climbs on strong AI performance",
+      "description": "Silver Bullet Data Services Group PLC on Wednesday said revenue increased in 2024, boosted by its 4D artificial intelligence product.The London-based marketing services provider said in a trading...",
+      "published_utc": "2025-02-26T20:18:13",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=6e1380fc800c862820513ca3fe36238daebb84c612a37922cb5f9407a337c071",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132879170,
+      "datetime": 1740572293
+    },
+    {
+      "id": "d658c1ebf7b77887400cbbb39265ad08e809a0bb481b2362769d329c08e727dd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "author": "Motley Fool",
+      "published_utc": "2025-02-26T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/2-no-brainer-warren-buffett-stocks-to-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808095/gettyimages-1130455930-1.jpg",
+      "description": "Berkshire Hathaway's top long-term stock picks are Amazon and Visa. Amazon's diverse business model and leading position in cloud computing make it a strong investment, while Visa's network effect and high-margin transaction fees provide a solid foundation for growth.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Amazon",
+        "Visa",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has a diverse business model, including e-commerce and cloud computing, and is well-positioned for long-term growth. Its revenue and profitability have been impressive, and it is a leading player in the growing cloud computing market."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa benefits from a strong network effect, as it is the most widely accepted payment card globally. Its transaction-fee-based business model provides a high-margin, capital-light growth opportunity as digital payments continue to expand worldwide."
+        }
+      ]
+    }
+  ]
+}

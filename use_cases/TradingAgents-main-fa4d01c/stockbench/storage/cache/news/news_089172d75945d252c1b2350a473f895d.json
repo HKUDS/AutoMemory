@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "In the latest trading session, Home Depot (HD) closed at $365.52, marking a -0.26% move from the previous day.",
+      "published_utc": "2025-04-02T05:45:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e81692347a10e511153f366c563d8db498a8a13ef5f7d7ee00492693a82b1742",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658202,
+      "datetime": 1743543916
+    },
+    {
+      "title": "Jim Cramer on The Home Depot, Inc. (NYSE:HD): World’s Number One Home Improvement Company",
+      "description": "We recently published a list of Jim Cramer Discusses These 8 Stocks & Says Trump’s Focused On His Goals And Not The Market. In this article, we are going to take a look at where The Home Depot, Inc. (NYSE:HD) stands against other stocks that Jim Cramer discussed. In a recent appearance on CNBC’s Squawk […]",
+      "published_utc": "2025-04-02T05:34:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dc3144a5b96af581f5d40249d379f82c6aec83740b20510f14e6a4ab111bcbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133658204,
+      "datetime": 1743543276
+    },
+    {
+      "title": "Dogs Of The Dow Chase April's 'Safer' Buy",
+      "description": "",
+      "published_utc": "2025-04-01T20:05:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2feed9044f044f2d4cb8422e3537e5db1ce869843f4c4367a375d4fa0a997d66",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133646857,
+      "datetime": 1743509147
+    },
+    {
+      "title": "Home Depot : Foundation Kicks Off National Volunteer Month with Service Projects for Veterans",
+      "description": "In celebration of National Volunteer Month, The Home Depot Foundation and Team Depot, The Home Depot's associate volunteer force, are rolling up their sleeves to give back to veterans and local...",
+      "published_utc": "2025-04-01T16:53:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=257c80748dcda7d6f3dc280bf9c750d32502432002c0545997c02eb99f59bbb7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133634958,
+      "datetime": 1743497603
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:25:50.887103+00:00",
+    "cache_key": "news_089172d75945d252c1b2350a473f895d",
+    "count": 4
+  }
+}

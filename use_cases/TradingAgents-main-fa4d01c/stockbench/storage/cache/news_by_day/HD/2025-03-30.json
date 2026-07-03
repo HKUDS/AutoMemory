@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Can Home Depot Stock Double in 5 Years?",
+      "description": "Home Depot (NYSE: HD) has been negatively affected by this.  After posting double-digit revenue growth in fiscal 2020 and fiscal 2021, its gains have been more muted in recent years.  Ongoing economic uncertainty, characterized by higher borrowing costs, pressured consumer confidence, and inflationary pressures discourage consumers from wanting to spend on big purchases.",
+      "published_utc": "2025-03-30T17:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b50daa05a878f89a1dfa30cf5a4a4203d603a4d490f7846ad7b27c96a3d6c1cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133622660,
+      "datetime": 1743327420
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "PayPal Q4: Don't Panic, It's Still An Earnings Beat",
+      "description": "Analysis of PayPal Holdings, Inc.'s Q4 performance, including revenue growth, guidance for FY 2025, and stock valuation. Click for this PYPL earnings update.",
+      "published_utc": "2025-02-05T19:59:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8309b47999e39bb0d5a69b838733bbb58d037de8aba5880fc390c52ad7149c2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191007168/image_2191007168.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 132563278,
+      "datetime": 1738756790
+    }
+  ]
+}

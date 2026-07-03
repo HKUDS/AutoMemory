@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Here's What To Make Of UnitedHealth Group's (NYSE:UNH) Decelerating Rates Of Return",
+      "description": "There are a few key trends to look for if we want to identify the next multi-bagger. Amongst other things, we'll want...",
+      "published_utc": "2025-04-26T22:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f8c5e3b9d95e6b73ef9e46d658c5a90ce5ed8a2f5a17ff0e3bb8e75f82eb9ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134104503,
+      "datetime": 1745676009
+    }
+  ],
+  "metadata": {
+    "cached_at": "2025-09-25T07:36:00.335406+00:00",
+    "cache_key": "news_32800d8459d6e6ade5f3d46141ae0832",
+    "count": 1
+  }
+}
