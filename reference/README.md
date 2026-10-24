@@ -32,16 +32,16 @@ consolidation, routing, etc.).
 ### Technique Catalog
 
 All reusable techniques are indexed in `hub/technique_map.json` — a structured
-registry of **29 techniques** across 6 categories:
+registry of **28 techniques** across 6 categories:
 
 
 | Category               | What It Covers                                        | # Techniques |
 | ---------------------- | ----------------------------------------------------- | ------------ |
 | `extraction`           | How to extract structured information from raw input  | 5            |
-| `dedup_conflict`       | How to handle duplicates, contradictions, and updates | 3            |
+| `dedup_conflict`       | How to handle duplicates, contradictions, and updates | 2            |
 | `storage_organization` | Backend choices, data model, and memory organization  | 3            |
-| `retrieval_ranking`    | How to find, rank, and format relevant memories       | 9            |
-| `lifecycle`            | TTL, compaction, archival, and consolidation          | 4            |
+| `retrieval_ranking`    | How to find, rank, and format relevant memories       | 10           |
+| `lifecycle`            | TTL, compaction, archival, and consolidation          | 3            |
 | `architecture`         | System structure, routing, integration patterns       | 5            |
 
 
@@ -153,7 +153,7 @@ reference/
 │   └── prompts/
 │       └── consolidation.md
 ├── hub/                                # CLI tool + technique index
-│   ├── technique_map.json              # 29 techniques across 6 categories
+│   ├── technique_map.json              # 28 techniques across 6 categories
 │   ├── pyproject.toml
 │   └── ask_ref/
 │       ├── __init__.py

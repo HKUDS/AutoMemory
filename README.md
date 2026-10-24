@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#-quick-start"><img src="https://img.shields.io/badge/Quick_Start-5_min-blue?style=for-the-badge" alt="Quick Start"></a>
-  <a href="#-reference-hub"><img src="https://img.shields.io/badge/Reference_Hub-29_Techniques-ff69b4?style=for-the-badge" alt="Reference Hub"></a>
+  <a href="#-reference-hub"><img src="https://img.shields.io/badge/Reference_Hub-28_Techniques-ff69b4?style=for-the-badge" alt="Reference Hub"></a>
   <a href="#-use-cases-how-memory-enhances-agents"><img src="https://img.shields.io/badge/Use_Cases-4_Agents-green?style=for-the-badge" alt="Use Cases"></a>
   <a href="#commands"><img src="https://img.shields.io/badge/Commands-Design_Implement_Refine-blueviolet?style=for-the-badge" alt="Commands"></a>
 </p>
@@ -316,7 +316,7 @@ likely to cause behavior drift. Also, running command **step by step** also allo
 
 ### 🔬 Reference Hub
 
-The [`reference/`](reference/README.md) directory is a curated library of analyzed memory systems and reusable techniques. It currently distills **6 memory systems** into **29 techniques** across extraction, deduplication, storage organization, retrieval and ranking, lifecycle, and architecture patterns. Each analyzed system also has a detailed writeup under `reference/*/details.md`.
+The [`reference/`](reference/README.md) directory is a curated library of analyzed memory systems and reusable techniques. It currently distills **6 memory systems** into **28 techniques** across extraction, deduplication, storage organization, retrieval and ranking, lifecycle, and architecture patterns. Each analyzed system also has a detailed writeup under `reference/*/details.md`.
 
 | System | Transferable idea |
 | --- | --- |
