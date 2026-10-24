@@ -22,7 +22,7 @@ _MAP_FILE = _HUB_DIR / "technique_map.json"
 
 
 def _load_map() -> dict:
-    with open(_MAP_FILE) as f:
+    with open(_MAP_FILE, encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -35,7 +35,7 @@ def _output(data, text_fn):
 
 def _read_lines(filepath: Path, start: int, end: int) -> str:
     """Read lines [start, end] (1-indexed, inclusive) from a file."""
-    lines = filepath.read_text().splitlines()
+    lines = filepath.read_text(encoding="utf-8").splitlines()
     return "\n".join(lines[start - 1 : end])
 
 
