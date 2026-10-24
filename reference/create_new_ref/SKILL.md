@@ -98,7 +98,7 @@ Use categories from `reference/hub/technique_map.json`:
 
 Use philosophy tags:
 
-- `weight`: `lightweight`, `medium`, or `heavy`
+- `weight`: `light` (the lightweight class), `medium`, or `heavy`
 - `logic`: `rigorous`, `intelligent`, or both
 
 ### 5. Insight Quality Bar
