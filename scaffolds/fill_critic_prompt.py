@@ -236,6 +236,8 @@ def main() -> None:
             refine_state_json_path=args.refine_state_path,
         )
 
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     sys.stdout.write(prompt)
     sys.stdout.write("\n")
 
