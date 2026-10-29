@@ -7,7 +7,7 @@
   "tradeoffs": "<One sentence: cost vs. benefit>",
   "when_to_use": "<One sentence: scenario where this technique shines>",
   "philosophy": {
-    "weight": ["<lightweight | medium | heavy — one or more>"],
+    "weight": ["<light | medium | heavy — one or more>"],
     "logic": ["<rigorous | intelligent — one or more>"]
   },
   "detail_refs": [
