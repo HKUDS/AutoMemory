@@ -37,12 +37,17 @@ contains the complete refine protocol.
 
 ```
 loop:
-  1. Read `step_status` from `worktraces/refine_state.json`.
+  1. Read `current_phase`, `max_phases`, `step_status`, and `stop_decision` from
+     `worktraces/refine_state.json`.
   2. Branch on status:
-     - "ready"           → run Phase 0 (baseline) per the protocol below
-     - "critic_finished"  → run the next Improver + Critic phase
-     - "completed"        → break
-  3. After the phase, re-read `refine_state.json` and go to 1.
+     - "ready" → run the Phase 0 (baseline) Critic step per the protocol below.
+     - "critic_finished" → if the Critic chose stop or `current_phase >= max_phases`,
+       set `step_status` to "completed" (leave the Critic-owned `stop_decision`
+       unchanged) and exit. Otherwise, run the Improver step for phase
+       `current_phase + 1`.
+     - "improver_finished" → run the Critic step for `current_phase`.
+     - "completed" → break.
+  3. After each step, re-read `refine_state.json` and go to 1.
 
 on exit:
   Append a summary to note.md (phases completed, final scores, outcome).
