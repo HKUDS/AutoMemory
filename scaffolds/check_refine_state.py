@@ -119,9 +119,13 @@ def validate_phase_scores(
                     errors.append(f"{row_label} missing '{key}' (required when using qa metrics)")
                 elif not _is_number(row[key]):
                     errors.append(f"{row_label}.{key} must be number")
+                elif not 0 <= row[key] <= 1:
+                    errors.append(f"{row_label}.{key} must be between 0 and 1")
         if has_hit_rate:
             if not _is_number(row["hit_rate"]):
                 errors.append(f"{row_label}.hit_rate must be number")
+            elif not 0 <= row["hit_rate"] <= 1:
+                errors.append(f"{row_label}.hit_rate must be between 0 and 1")
 
 
 def infer_trace_path(state_path: Path, trace_id: str) -> Path:
