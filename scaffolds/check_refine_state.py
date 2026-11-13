@@ -158,8 +158,9 @@ def validate(state: dict, state_path: Path, *, skip_files: bool = False) -> list
         )
 
     step_status = state.get("step_status")
-    if step_status not in ALLOWED_STEP_STATUSES:
+    if not isinstance(step_status, str) or step_status not in ALLOWED_STEP_STATUSES:
         errors.append(f"step_status must be one of {sorted(ALLOWED_STEP_STATUSES)}")
+        step_status = None
 
     stop = state.get("stop_decision")
     if not isinstance(stop, dict):
@@ -169,7 +170,8 @@ def validate(state: dict, state_path: Path, *, skip_files: bool = False) -> list
         for key in ("by", "decision"):
             if key not in stop:
                 errors.append(f"stop_decision missing '{key}'")
-        if stop.get("decision") not in ALLOWED_DECISIONS:
+        decision = stop.get("decision")
+        if not isinstance(decision, str) or decision not in ALLOWED_DECISIONS:
             errors.append("stop_decision.decision must be continue|stop")
         if stop.get("decision") == "stop" and stop.get("by") != "critic":
             errors.append("illegal stop_decision: only critic can stop")
@@ -213,7 +215,7 @@ def validate(state: dict, state_path: Path, *, skip_files: bool = False) -> list
                     if not isinstance(comp, str):
                         errors.append(f"{mp_label}.components[{ci}] must be string")
             eval_mode = path_def.get("eval_mode")
-            if eval_mode not in ALLOWED_EVAL_MODES:
+            if not isinstance(eval_mode, str) or eval_mode not in ALLOWED_EVAL_MODES:
                 errors.append(
                     f"{mp_label}.eval_mode must be one of {sorted(ALLOWED_EVAL_MODES)}"
                 )
@@ -245,7 +247,8 @@ def validate(state: dict, state_path: Path, *, skip_files: bool = False) -> list
                 errors.append(
                     f"graduated_paths[{gi}] '{gp}' not found in memory_paths"
                 )
-        if len(graduated) != len(set(graduated)):
+        names = [gp for gp in graduated if isinstance(gp, str)]
+        if len(names) != len(set(names)):
             errors.append("graduated_paths contains duplicates")
 
     registry = state.get("trace_registry")
@@ -373,10 +376,11 @@ def validate(state: dict, state_path: Path, *, skip_files: bool = False) -> list
                     if not isinstance(row.get(key), str):
                         errors.append(f"{row_label}.{key} must be string")
 
-        if entry.get("decision") not in ALLOWED_DECISIONS:
+        decision = entry.get("decision")
+        if not isinstance(decision, str) or decision not in ALLOWED_DECISIONS:
             errors.append(f"{label}.decision must be continue|stop")
 
-    if isinstance(current_phase, int) and history:
+    if isinstance(current_phase, int) and history and isinstance(history[-1], dict):
         last_phase = history[-1].get("phase")
         if isinstance(last_phase, int) and last_phase not in {current_phase, current_phase - 1}:
             errors.append(
@@ -398,8 +402,6 @@ def validate(state: dict, state_path: Path, *, skip_files: bool = False) -> list
                 errors.append(f"phase_history[{current_phase}].new_traces must be list")
             if not isinstance(current_entry.get("weakness"), list):
                 errors.append(f"phase_history[{current_phase}].weakness must be list")
-            if current_entry.get("decision") not in ALLOWED_DECISIONS:
-                errors.append(f"phase_history[{current_phase}].decision must be continue|stop")
         elif step_status == "improver_finished":
             if "improvement" not in current_entry:
                 errors.append(f"phase_history[{current_phase}] missing improvement")
