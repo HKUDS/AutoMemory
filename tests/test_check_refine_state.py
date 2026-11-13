@@ -1,6 +1,10 @@
 """Regression tests for score bounds; run with unittest discovery."""
 import importlib.util
+import json
 from pathlib import Path
+import subprocess
+import sys
+import tempfile
 import unittest
 
 
@@ -59,6 +63,50 @@ class ScoreRangeTests(unittest.TestCase):
                     self.assertEqual(self.validate_score(key, value, True), [
                         f"phase_history[0].scores[0].{key} must be number"
                     ])
+
+
+class InvalidStateTests(unittest.TestCase):
+    def test_malformed_state_values_report_a_blocker(self):
+        state = {
+            "current_phase": 0,
+            "max_phases": 1,
+            "step_status": "ready",
+            "runner_path": "",
+            "memory_paths": {
+                "baseline": {"components": ["memory"], "eval_mode": "qa", "policy": "on-policy"}
+            },
+            "graduated_paths": [],
+            "stop_decision": {"by": "critic", "decision": "continue"},
+            "trace_registry": [],
+            "phase_history": [{
+                "phase": 0, "scores": [], "new_traces": [],
+                "weakness": [], "decision": "continue",
+            }],
+        }
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "refine_state.json"
+            for container, key, values, message in (
+                (state, "step_status", ([], {}), "step_status must be"),
+                (state["stop_decision"], "decision", ([], {}), "stop_decision.decision must be"),
+                (state["memory_paths"]["baseline"], "eval_mode", ([], {}), ".eval_mode must be"),
+                (state["phase_history"][0], "decision", ([], {}), "phase_history[0].decision must be"),
+                (state, "graduated_paths", ([[]], [{}]), "graduated_paths[0] must be string"),
+                (state, "phase_history", ([[]], [{}, []]), "must be an object"),
+            ):
+                old = container[key]
+                for invalid in values:
+                    with self.subTest(key=key, invalid=invalid):
+                        container[key] = invalid
+                        path.write_text(json.dumps(state), encoding="utf-8")
+                        result = subprocess.run(
+                            [sys.executable, str(SPEC.origin), "--path", str(path), "--skip-files"],
+                            capture_output=True, text=True, check=False,
+                        )
+                        self.assertEqual(result.returncode, 1)
+                        self.assertIn("BLOCKER: INVALID refine_state.json", result.stdout)
+                        self.assertIn(message, result.stdout)
+                        self.assertEqual(result.stderr, "")
+                container[key] = old
 
 
 if __name__ == "__main__":
