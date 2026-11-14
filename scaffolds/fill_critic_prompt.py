@@ -10,6 +10,7 @@ Usage:
         [--phase N]   # N > 0 appends the Phase 1 Addendum
 """
 import argparse
+import json
 import sys
 
 TEMPLATE = """\
@@ -80,10 +81,17 @@ be ran using the same API and same model. Only raw input can be synthesized.
 
 ## Pre-request
 
-Before running traces, validate state:
+Before running traces, validate state. Resolve
+`@Auto_Memory/scaffolds/check_refine_state.py` to its actual file path using
+the agent's reference mechanism. Invoke Python with an argument-vector tool
+(without a shell): interpreter, resolved script path, `--path`, then the
+following JSON string decoded as one argument:
+```json
+{refine_state_json_path_json}
 ```
-python @Auto_Memory/scaffolds/check_refine_state.py --path {refine_state_json_path}
-```
+If the execution tool only accepts shell commands, create a temporary Python
+script that decodes this JSON string and calls `subprocess.run` with an
+argument list and `check=True`; do not interpolate the path into shell text.
 If validation fails, STOP and report errors. Do not run traces.\
 """
 
@@ -223,6 +231,7 @@ def main() -> None:
         memory_design_md_path=args.memory_design_md_path,
         implemented_md_path=args.implemented_md_path,
         refine_state_json_path=args.refine_state_path,
+        refine_state_json_path_json=json.dumps(args.refine_state_path),
     )
 
     if args.phase == 0:
